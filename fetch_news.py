@@ -19,11 +19,10 @@ EDITIONS = [
     ("Regno Unito", "English", "en", "GB", "GB:en"), ("Francia", "Français", "fr", "FR", "FR:fr"),
     ("Germania", "Deutsch", "de", "DE", "DE:de"), ("Spagna", "Español", "es", "ES", "ES:es"),
     ("America Latina", "Español", "es-419", "MX", "MX:es-419"), ("Brasile", "Português", "pt-BR", "BR", "BR:pt-419"),
-]
 QUERIES = [
     '"Pope Leo XIV" OR "Papa Leone XIV" OR "Pape Léon XIV" OR "Papst Leo XIV" OR "Papa León XIV"',
     'Vatican OR "Holy See" OR Vaticano OR "Santa Sede" OR "Saint-Siège" OR Vatikan',
-    '(Pope OR Vatican) (peace OR war OR diplomacy OR migrants OR ecumenism OR abuse OR finance)',
+    '(Pope OR Vatican OR "Holy See") (peace OR war OR diplomacy OR migrants OR ecumenism OR abuse OR abuses OR safeguarding OR "sexual abuse" OR "child abuse" OR "protection of minors" OR finance)',
 ]
 SOCIAL_QUERY = '("Pope Leo XIV" OR Vatican) (site:youtube.com OR site:x.com OR site:reddit.com OR site:tiktok.com OR site:instagram.com)'
 
