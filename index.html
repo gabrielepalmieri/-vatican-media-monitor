@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#07152b">
+  <title>Vatican Media Monitor</title>
+  <style>
+    :root{--navy:#07152b;--blue:#173d70;--gold:#d8b45a;--paper:#f4f6f9;--ink:#172033;--muted:#687386;--line:#dfe5ed;--card:#fff;--critical:#b13b49;--positive:#238266}*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:15px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}header{background:linear-gradient(135deg,#07152b,#153d70);color:#fff;padding:max(22px,env(safe-area-inset-top)) 20px 25px}header .wrap{max-width:1160px;margin:auto}.eyebrow{color:#e5c879;font-size:12px;font-weight:800;letter-spacing:.13em;text-transform:uppercase}h1{font-family:Georgia,serif;font-size:clamp(29px,5vw,46px);margin:5px 0 6px;line-height:1.05}.subtitle{color:#dce6f3;max-width:720px}.status{display:flex;gap:12px;flex-wrap:wrap;margin-top:18px;font-size:13px}.status span{background:#ffffff17;border:1px solid #ffffff24;border-radius:99px;padding:7px 11px}.dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:#62d39d;margin-right:7px}.nav{background:#fff;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:5}.nav .wrap{max-width:1160px;margin:auto;display:flex;overflow:auto;padding:0 14px}.tab{border:0;background:none;padding:15px 16px;font-weight:750;color:var(--muted);white-space:nowrap;border-bottom:3px solid transparent}.tab.active{color:var(--blue);border-color:var(--gold)}main{max-width:1160px;margin:0 auto;padding:22px 16px 50px}.summary{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:18px}.metric{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:15px;box-shadow:0 4px 18px #12233a0a}.metric b{display:block;font-size:26px;color:var(--blue)}.metric span{color:var(--muted);font-size:12px}.controls{display:grid;grid-template-columns:2fr repeat(3,1fr);gap:10px;background:#fff;border:1px solid var(--line);padding:12px;border-radius:14px;margin-bottom:18px}input,select{width:100%;border:1px solid #cfd7e3;background:#fff;border-radius:10px;padding:11px 12px;font:inherit;color:var(--ink)}.section-head{display:flex;justify-content:space-between;align-items:end;gap:12px;margin:20px 2px 12px}.section-head h2{font-family:Georgia,serif;margin:0;font-size:25px}.section-head small{color:var(--muted)}.story-list{display:grid;gap:10px}.story{background:#fff;border:1px solid var(--line);border-radius:14px;padding:15px 16px;display:grid;grid-template-columns:1fr auto;gap:10px;box-shadow:0 3px 14px #12233a08}.story:hover{border-color:#b8c5d6}.story h3{font-size:17px;line-height:1.27;margin:5px 0 7px}.story h3 a{color:var(--ink);text-decoration:none}.story h3 a:hover{color:var(--blue)}.meta,.chips{display:flex;gap:7px;align-items:center;flex-wrap:wrap;color:var(--muted);font-size:12px}.chip{padding:3px 8px;border-radius:99px;background:#edf2f8;color:#38536f}.chip.topic{background:#f8f0d9;color:#765d16}.chip.social{background:#e9f4ff;color:#16649f}.age{color:var(--muted);font-size:12px;white-space:nowrap}.empty{background:#fff;border:1px dashed #bbc6d5;border-radius:14px;padding:40px;text-align:center;color:var(--muted)}.notice{background:#fff9e7;border:1px solid #ead69a;color:#68531b;padding:11px 14px;border-radius:11px;margin-bottom:16px;display:none}.footer{color:var(--muted);font-size:12px;text-align:center;margin-top:28px}.hide{display:none!important}@media(max-width:760px){.summary{grid-template-columns:repeat(2,1fr)}.controls{grid-template-columns:1fr 1fr}.controls input{grid-column:1/-1}.story{grid-template-columns:1fr}.age{order:-1}.nav .wrap{padding-left:5px}}@media(max-width:430px){.controls{grid-template-columns:1fr}.controls input{grid-column:auto}.summary{gap:8px}.metric{padding:12px}.metric b{font-size:23px}}
+  </style>
+</head>
+<body>
+  <header><div class="wrap">
+    <div class="eyebrow">International press & social listening</div>
+    <h1>Vatican Media Monitor</h1>
+    <div class="subtitle">Una lettura rapida della copertura internazionale su Papa Leone XIV, Santa Sede e temi collegati.</div>
+    <div class="status"><span><i class="dot"></i>Aggiornamento automatico</span><span id="lastUpdate">Caricamento…</span></div>
+  </div></header>
+  <nav class="nav"><div class="wrap">
+    <button class="tab active" data-view="all">Panoramica</button><button class="tab" data-view="news">News</button><button class="tab" data-view="social">Social</button><button class="tab" data-view="top">Top stories</button>
+  </div></nav>
+  <main>
+    <div id="notice" class="notice"></div>
+    <section class="summary">
+      <div class="metric"><b id="mArticles">—</b><span>contenuti raccolti</span></div>
+      <div class="metric"><b id="mSources">—</b><span>testate e piattaforme</span></div>
+      <div class="metric"><b id="mCountries">—</b><span>edizioni internazionali</span></div>
+      <div class="metric"><b id="mTopics">—</b><span>temi attivi</span></div>
+    </section>
+    <section class="controls">
+      <input id="search" type="search" placeholder="Cerca titolo, fonte o parola chiave…">
+      <select id="language"><option value="">Tutte le lingue</option></select>
+      <select id="country"><option value="">Tutti i Paesi</option></select>
+      <select id="topic"><option value="">Tutti i temi</option></select>
+    </section>
+    <div class="section-head"><h2 id="viewTitle">Ultimi aggiornamenti</h2><small id="count"></small></div>
+    <section id="stories" class="story-list"></section>
+    <div class="footer">Le notizie rimandano alle fonti originali. La copertura social è selettiva e riguarda contenuti pubblici indicizzati.</div>
+  </main>
+  <script>
+    const S={items:[],view:'all'}; const $=s=>document.querySelector(s); const esc=s=>(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+    const ago=d=>{const n=(Date.now()-new Date(d))/1000;if(n<3600)return Math.max(1,Math.floor(n/60))+' min fa';if(n<86400)return Math.floor(n/3600)+' h fa';return Math.floor(n/86400)+' g fa'};
+    function fill(id,values){const el=$(id);[...new Set(values.filter(Boolean))].sort().forEach(v=>el.insertAdjacentHTML('beforeend',`<option>${esc(v)}</option>`))}
+    function render(){let a=S.items,q=$('#search').value.toLowerCase(),lang=$('#language').value,country=$('#country').value,topic=$('#topic').value;
+      a=a.filter(x=>(S.view==='all'||(S.view==='top'?x.cluster_size>1:x.kind===S.view))&&(!q||`${x.title} ${x.source} ${x.topic}`.toLowerCase().includes(q))&&(!lang||x.language===lang)&&(!country||x.country===country)&&(!topic||x.topic===topic));
+      $('#viewTitle').textContent={all:'Ultimi aggiornamenti',news:'Notizie internazionali',social:'Social e video',top:'Top stories'}[S.view];$('#count').textContent=`${a.length} risultati`;
+      $('#stories').innerHTML=a.length?a.map(x=>`<article class="story"><div><div class="meta"><b>${esc(x.source)}</b><span>•</span><span>${esc(x.country)}</span><span>•</span><span>${esc(x.language)}</span></div><h3><a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title)}</a></h3><div class="chips"><span class="chip topic">${esc(x.topic)}</span>${x.kind==='social'?'<span class="chip social">Social</span>':''}${x.cluster_size>1?`<span class="chip">${x.cluster_size} fonti sul tema</span>`:''}</div></div><div class="age">${ago(x.published)}</div></article>`).join(''):'<div class="empty">Nessun contenuto corrisponde ai filtri selezionati.</div>';
+    }
+    async function init(){try{const r=await fetch('news.json?'+Date.now());if(!r.ok)throw Error();const d=await r.json();S.items=d.items||[];$('#lastUpdate').textContent='Ultimo aggiornamento: '+new Date(d.updated_at).toLocaleString('it-IT',{dateStyle:'short',timeStyle:'short'});$('#mArticles').textContent=S.items.length;$('#mSources').textContent=new Set(S.items.map(x=>x.source)).size;$('#mCountries').textContent=new Set(S.items.map(x=>x.country)).size;$('#mTopics').textContent=new Set(S.items.map(x=>x.topic)).size;fill('#language',S.items.map(x=>x.language));fill('#country',S.items.map(x=>x.country));fill('#topic',S.items.map(x=>x.topic));render()}catch(e){$('#notice').style.display='block';$('#notice').textContent='I dati non sono ancora stati generati. Avvia “Update news” dalla sezione Actions di GitHub.';S.items=[];render()}}
+    document.querySelectorAll('input,select').forEach(x=>x.addEventListener('input',render));document.querySelectorAll('.tab').forEach(x=>x.onclick=()=>{document.querySelector('.tab.active').classList.remove('active');x.classList.add('active');S.view=x.dataset.view;render()});init();
+  </script>
+</body></html>
