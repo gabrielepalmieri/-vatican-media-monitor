@@ -56,6 +56,8 @@ PRIORITY_SOURCES = [
 AGENCY_SOURCES = [
     ("Italia", "ANSA", ["ansa", "ansa.it"], "ansa.it"),
     ("Italia", "AgenSIR", ["agensir", "agensir.it", "agenzia sir"], "agensir.it"),
+    ("Italia", "Adnkronos", ["adnkronos", "adnkronos.com"], "adnkronos.com"),
+    ("Francia", "I.MEDIA", ["i.media", "imedia.news", "imedia"], "imedia.news"),
     ("Regno Unito", "Reuters", ["reuters", "reuters.com"], "reuters.com"),
     ("Stati Uniti", "Associated Press", ["associated press", "ap news", "apnews.com"], "apnews.com"),
     ("Francia", "AFP", ["agence france-presse", "afp", "afp.com"], "afp.com"),
