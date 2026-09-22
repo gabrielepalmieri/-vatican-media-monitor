@@ -34,7 +34,6 @@ PRIORITY_SOURCES = [
     ("Italia", "la Repubblica", ["la repubblica", "repubblica.it"], "repubblica.it"),
     ("Italia", "La Stampa", ["la stampa", "lastampa.it"], "lastampa.it"),
     ("Italia", "Il Sole 24 Ore", ["il sole 24 ore", "ilsole24ore.com"], "ilsole24ore.com"),
-    ("Italia", "ANSA", ["ansa", "ansa.it"], "ansa.it"),
     ("Italia", "Avvenire", ["avvenire", "avvenire.it"], "avvenire.it"),
     ("Francia", "Le Monde", ["le monde", "lemonde.fr"], "lemonde.fr"),
     ("Francia", "Le Figaro", ["le figaro", "lefigaro.fr"], "lefigaro.fr"),
@@ -51,6 +50,21 @@ PRIORITY_SOURCES = [
     ("Regno Unito", "The Telegraph", ["the telegraph", "telegraph.co.uk"], "telegraph.co.uk"),
     ("Regno Unito", "The Independent", ["the independent", "independent.co.uk"], "independent.co.uk"),
     ("Regno Unito", "The Times", ["the times", "thetimes.com"], "thetimes.com"),
+]
+
+AGENCY_SOURCES = [
+    ("Italia", "ANSA", ["ansa", "ansa.it"], "ansa.it"),
+    ("Regno Unito", "Reuters", ["reuters", "reuters.com"], "reuters.com"),
+    ("Stati Uniti", "Associated Press", ["associated press", "ap news", "apnews.com"], "apnews.com"),
+    ("Francia", "AFP", ["agence france-presse", "afp", "afp.com"], "afp.com"),
+    ("Germania", "dpa", ["deutsche presse-agentur", "dpa", "dpa.com"], "dpa.com"),
+    ("Spagna", "EFE", ["agencia efe", "efe", "efe.com"], "efe.com"),
+    ("Regno Unito", "PA Media", ["pa media", "press association"], "pa.media"),
+    ("Stati Uniti", "Bloomberg", ["bloomberg", "bloomberg.com"], "bloomberg.com"),
+    ("Stati Uniti", "Xinhua", ["xinhua", "news.cn"], "news.cn"),
+    ("Stati Uniti", "Kyodo News", ["kyodo news", "kyodonews.net"], "kyodonews.net"),
+    ("Stati Uniti", "Anadolu Agency", ["anadolu agency", "aa.com.tr"], "aa.com.tr"),
+    ("Stati Uniti", "TASS", ["tass", "tass.com"], "tass.com"),
 ]
 
 TOPICS = {
@@ -110,10 +124,10 @@ def feed_url(query: str, hl: str, gl: str, ceid: str) -> str:
     return f"https://news.google.com/rss/search?q={quote(query)}&hl={hl}&gl={gl}&ceid={ceid}"
 
 def priority_query(country: str) -> str:
-    domains=[domain for item_country, _, _, domain in PRIORITY_SOURCES if item_country == country]
-    if not domains: return ""
-    sites=" OR ".join(f"site:{domain}" for domain in domains)
-    return f'(Pope OR Papa OR Pape OR Vatican OR Vaticano OR "Holy See" OR "Santa Sede" OR "Saint-Siège") ({sites})'
+    sources=[(name,domain) for item_country, name, _, domain in PRIORITY_SOURCES + AGENCY_SOURCES if item_country == country]
+    if not sources: return ""
+    filters=" OR ".join(f'site:{domain} OR source:"{name}"' for name,domain in sources)
+    return f'(Pope OR Papa OR Pape OR Vatican OR Vaticano OR "Holy See" OR "Santa Sede" OR "Saint-Siège") ({filters})'
 
 def source_matches(source: str, aliases: list[str]) -> bool:
     value=source.casefold()
@@ -121,14 +135,16 @@ def source_matches(source: str, aliases: list[str]) -> bool:
 
 def coverage_for(items: list[dict]) -> list[dict]:
     coverage=[]
-    for country, name, aliases, _ in PRIORITY_SOURCES:
-        matches=[x for x in items if source_matches(x["source"],aliases)]
-        coverage.append({
-            "country":country,
-            "source":name,
-            "count":len(matches),
-            "last_seen":max((x["published"] for x in matches),default=None),
-        })
+    for sources, group in ((PRIORITY_SOURCES,"Testata"),(AGENCY_SOURCES,"Agenzia")):
+        for country, name, aliases, _ in sources:
+            matches=[x for x in items if source_matches(x["source"],aliases)]
+            coverage.append({
+                "country":country,
+                "source":name,
+                "group":group,
+                "count":len(matches),
+                "last_seen":max((x["published"] for x in matches),default=None),
+            })
     return coverage
 
 def cluster(items: list[dict]) -> None:
