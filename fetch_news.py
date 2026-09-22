@@ -144,6 +144,7 @@ def coverage_for(items: list[dict]) -> list[dict]:
                 "group":group,
                 "count":len(matches),
                 "last_seen":max((x["published"] for x in matches),default=None),
+                "item_ids":[x["id"] for x in sorted(matches,key=lambda item:item["published"],reverse=True)],
             })
     return coverage
 
