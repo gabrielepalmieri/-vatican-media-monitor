@@ -82,6 +82,13 @@ TOPICS = {
 def clean(s: str) -> str:
     return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", "", s or ""))).strip()
 
+def valid_title(title: str) -> bool:
+    """Scarta pagine-sezione, firme e semplici etichette restituite come notizie."""
+    words=re.findall(r"[a-zà-ÿ0-9]+",title.casefold())
+    subjects=("pope","papa","pape","papst","vatican","vaticano","leone","leo","léon","león","holy see","santa sede")
+    if title.startswith("©") or title.casefold() in {"vatican media","ultime news","your details","style video"}: return False
+    return len(words)>3 or any(subject in title.casefold() for subject in subjects)
+
 def topic_for(title: str) -> str:
     low = title.lower()
     for topic, words in TOPICS.items():
@@ -114,9 +121,10 @@ def parse_feed(url: str, country: str, language: str, kind: str) -> list[dict]:
         print(f"Feed non disponibile: {url[:90]} ({exc})"); return out
     for item in root.findall(".//item")[:60]:
         title=clean(item.findtext("title", "")); link=clean(item.findtext("link", ""))
-        if not title or not link: continue
+        if not title or not link or not valid_title(title): continue
         source=source_from(item,title,link)
         display_title=title[:-len(source)-3].strip() if title.endswith(" - "+source) else title
+        if not valid_title(display_title): continue
         uid=hashlib.sha1((display_title.lower()+source.lower()).encode()).hexdigest()[:16]
         out.append({"id":uid,"title":display_title,"url":link,"source":source,"country":country,"language":language,"published":published(item.findtext("pubDate", "")),"topic":topic_for(display_title),"kind":kind,"cluster_size":1})
     return out
