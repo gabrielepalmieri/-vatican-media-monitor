@@ -3,7 +3,7 @@
 from __future__ import annotations
 import hashlib, html, json, re, ssl
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from urllib.parse import quote, urlparse
@@ -12,7 +12,8 @@ from xml.etree import ElementTree as ET
 
 ROOT = Path(__file__).resolve().parent
 OUT = ROOT / "news.json"
-MAX_ITEMS = 800
+MAX_ITEMS = 2000
+RETENTION_DAYS = 7
 
 EDITIONS = [
     ("Italia", "Italiano", "it", "IT", "IT:it"), ("Stati Uniti", "English", "en", "US", "US:en"),
@@ -54,6 +55,9 @@ PRIORITY_SOURCES = [
 
 AGENCY_SOURCES = [
     ("Italia", "ANSA", ["ansa", "ansa.it"], "ansa.it"),
+    ("Italia", "AgenSIR", ["agensir", "agensir.it", "agenzia sir"], "agensir.it"),
+    ("Italia", "Adnkronos", ["adnkronos", "adnkronos.com"], "adnkronos.com"),
+    ("Francia", "I.MEDIA", ["i.media", "imedia.news", "imedia"], "imedia.news"),
     ("Regno Unito", "Reuters", ["reuters", "reuters.com"], "reuters.com"),
     ("Stati Uniti", "Associated Press", ["associated press", "ap news", "apnews.com"], "apnews.com"),
     ("Francia", "AFP", ["agence france-presse", "afp", "afp.com"], "afp.com"),
@@ -119,7 +123,7 @@ def parse_feed(url: str, country: str, language: str, kind: str) -> list[dict]:
     try: root=ET.fromstring(fetch(url))
     except Exception as exc:
         print(f"Feed non disponibile: {url[:90]} ({exc})"); return out
-    for item in root.findall(".//item")[:60]:
+    for item in root.findall(".//item")[:100]:
         title=clean(item.findtext("title", "")); link=clean(item.findtext("link", ""))
         if not title or not link or not valid_title(title): continue
         source=source_from(item,title,link)
@@ -177,7 +181,7 @@ def balanced_selection(items: list[dict]) -> list[dict]:
         marker=(item["id"],item["source"])
         if marker in selected_ids: continue
         name=configured_name(item)
-        if name and counts.get(name,0)>=25: continue
+        if name and counts.get(name,0)>=60: continue
         selected.append(item); selected_ids.add(marker)
         if name: counts[name]=counts.get(name,0)+1
     return sorted(selected,key=lambda x:x["published"],reverse=True)
@@ -215,6 +219,18 @@ def main() -> None:
     with ThreadPoolExecutor(max_workers=8) as pool:
         futures=[pool.submit(parse_feed,*job) for job in jobs]
         for future in as_completed(futures): items += future.result()
+    # Conserva gli articoli recenti già trovati: i feed di ricerca cambiano
+    # ordine e possono smettere di mostrare un articolo dopo poche ore.
+    if OUT.exists():
+        try:
+            previous=json.loads(OUT.read_text(encoding="utf-8"))
+            cutoff=datetime.now(timezone.utc)-timedelta(days=RETENTION_DAYS)
+            for item in previous.get("items",[]):
+                if (isinstance(item,dict) and item.get("title") and item.get("source")
+                    and datetime.fromisoformat(item["published"].replace("Z","+00:00"))>=cutoff):
+                    items.append(item)
+        except (OSError, ValueError, KeyError, TypeError) as exc:
+            print(f"Archivio precedente non utilizzabile: {exc}")
     unique={}
     for x in items:
         key=(re.sub(r"\W+","",x["title"].lower())[:160],x["source"].casefold())
