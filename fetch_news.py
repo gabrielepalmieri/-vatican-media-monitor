@@ -12,7 +12,7 @@ from xml.etree import ElementTree as ET
 
 ROOT = Path(__file__).resolve().parent
 OUT = ROOT / "news.json"
-MAX_ITEMS = 350
+MAX_ITEMS = 500
 
 EDITIONS = [
     ("Italia", "Italiano", "it", "IT", "IT:it"), ("Stati Uniti", "English", "en", "US", "US:en"),
@@ -26,6 +26,32 @@ QUERIES = [
     '(Pope OR Vatican OR "Holy See") (peace OR war OR diplomacy OR migrants OR ecumenism OR abuse OR abuses OR safeguarding OR "sexual abuse" OR "child abuse" OR "protection of minors" OR finance)',
 ]
 SOCIAL_QUERY = '("Pope Leo XIV" OR Vatican) (site:youtube.com OR site:x.com OR site:reddit.com OR site:tiktok.com OR site:instagram.com)'
+
+# Testate interrogate anche con ricerche dedicate, per ridurre la dipendenza
+# dall'ordinamento generale di Google News. La dashboard ne mostra l'esito.
+PRIORITY_SOURCES = [
+    ("Italia", "Corriere della Sera", ["corriere della sera", "corriere.it"], "corriere.it"),
+    ("Italia", "la Repubblica", ["la repubblica", "repubblica.it"], "repubblica.it"),
+    ("Italia", "La Stampa", ["la stampa", "lastampa.it"], "lastampa.it"),
+    ("Italia", "Il Sole 24 Ore", ["il sole 24 ore", "ilsole24ore.com"], "ilsole24ore.com"),
+    ("Italia", "ANSA", ["ansa", "ansa.it"], "ansa.it"),
+    ("Italia", "Avvenire", ["avvenire", "avvenire.it"], "avvenire.it"),
+    ("Francia", "Le Monde", ["le monde", "lemonde.fr"], "lemonde.fr"),
+    ("Francia", "Le Figaro", ["le figaro", "lefigaro.fr"], "lefigaro.fr"),
+    ("Francia", "Libération", ["libération", "liberation.fr"], "liberation.fr"),
+    ("Francia", "La Croix", ["la croix", "la-croix.com"], "la-croix.com"),
+    ("Francia", "France 24", ["france 24", "france24.com"], "france24.com"),
+    ("Spagna", "El País", ["el país", "el pais", "elpais.com"], "elpais.com"),
+    ("Spagna", "El Mundo", ["el mundo", "elmundo.es"], "elmundo.es"),
+    ("Spagna", "ABC", ["abc.es", "abc"], "abc.es"),
+    ("Spagna", "La Vanguardia", ["la vanguardia", "lavanguardia.com"], "lavanguardia.com"),
+    ("Spagna", "El Confidencial", ["el confidencial", "elconfidencial.com"], "elconfidencial.com"),
+    ("Regno Unito", "BBC", ["bbc", "bbc.com", "bbc.co.uk"], "bbc.co.uk"),
+    ("Regno Unito", "The Guardian", ["the guardian", "theguardian.com"], "theguardian.com"),
+    ("Regno Unito", "The Telegraph", ["the telegraph", "telegraph.co.uk"], "telegraph.co.uk"),
+    ("Regno Unito", "The Independent", ["the independent", "independent.co.uk"], "independent.co.uk"),
+    ("Regno Unito", "The Times", ["the times", "thetimes.com"], "thetimes.com"),
+]
 
 TOPICS = {
     "Papa Leone XIV": ["leo xiv", "leone xiv", "léon xiv", "león xiv"],
@@ -83,6 +109,28 @@ def parse_feed(url: str, country: str, language: str, kind: str) -> list[dict]:
 def feed_url(query: str, hl: str, gl: str, ceid: str) -> str:
     return f"https://news.google.com/rss/search?q={quote(query)}&hl={hl}&gl={gl}&ceid={ceid}"
 
+def priority_query(country: str) -> str:
+    domains=[domain for item_country, _, _, domain in PRIORITY_SOURCES if item_country == country]
+    if not domains: return ""
+    sites=" OR ".join(f"site:{domain}" for domain in domains)
+    return f'(Pope OR Papa OR Pape OR Vatican OR Vaticano OR "Holy See" OR "Santa Sede" OR "Saint-Siège") ({sites})'
+
+def source_matches(source: str, aliases: list[str]) -> bool:
+    value=source.casefold()
+    return any(alias.casefold() in value for alias in aliases)
+
+def coverage_for(items: list[dict]) -> list[dict]:
+    coverage=[]
+    for country, name, aliases, _ in PRIORITY_SOURCES:
+        matches=[x for x in items if source_matches(x["source"],aliases)]
+        coverage.append({
+            "country":country,
+            "source":name,
+            "count":len(matches),
+            "last_seen":max((x["published"] for x in matches),default=None),
+        })
+    return coverage
+
 def cluster(items: list[dict]) -> None:
     groups={}
     stop={"the","and","for","with","from","that","this","pope","papa","vatican","santa","sede","holy","see","leone","leo","xiv"}
@@ -100,6 +148,8 @@ def main() -> None:
     for country, language, hl, gl, ceid in EDITIONS:
         for query in QUERIES: jobs.append((feed_url(query,hl,gl,ceid),country,language,"news"))
         jobs.append((feed_url(SOCIAL_QUERY,hl,gl,ceid),country,language,"social"))
+        dedicated=priority_query(country)
+        if dedicated: jobs.append((feed_url(dedicated,hl,gl,ceid),country,language,"news"))
     with ThreadPoolExecutor(max_workers=8) as pool:
         futures=[pool.submit(parse_feed,*job) for job in jobs]
         for future in as_completed(futures): items += future.result()
@@ -109,7 +159,7 @@ def main() -> None:
         if key not in unique or x["published"]>unique[key]["published"]: unique[key]=x
     result=sorted(unique.values(),key=lambda x:x["published"],reverse=True)[:MAX_ITEMS]
     cluster(result)
-    OUT.write_text(json.dumps({"updated_at":datetime.now(timezone.utc).isoformat(),"items":result},ensure_ascii=False,indent=2),encoding="utf-8")
+    OUT.write_text(json.dumps({"updated_at":datetime.now(timezone.utc).isoformat(),"items":result,"source_coverage":coverage_for(result)},ensure_ascii=False,indent=2),encoding="utf-8")
     print(f"Salvati {len(result)} contenuti in {OUT}")
 
 if __name__ == "__main__": main()
