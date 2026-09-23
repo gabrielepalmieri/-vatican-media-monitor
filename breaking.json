@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-09-23T16:22:54.198918+00:00",
+  "updated_at": "2026-09-23T16:34:49.675763+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-23T16:22:54.198918+00:00"
+      "checked_at": "2026-09-23T16:34:49.675763+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-23T16:22:54.198918+00:00"
+      "checked_at": "2026-09-23T16:34:49.675763+00:00"
     }
   },
   "items": [
+    {
+      "id": "6850b6ac76a3d33d4732",
+      "source": "BBC News",
+      "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
+      "url": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23T16:33:12+00:00"
+    },
+    {
+      "id": "349fcc2ad5a8f3bc3045",
+      "source": "TGcom24",
+      "title": "Me Too, nuova condanna per Weinstein: 15 anni per un'aggressione sessuale del 2006",
+      "url": "https://www.tgcom24.mediaset.it/mondo/new-york-condannato-weinstein-aggressione-sessuale-me-too_116919710-202602k.shtml",
+      "published": "2026-09-23T16:25:00+00:00"
+    },
     {
       "id": "3b26d1a2fbb255234bcd",
       "source": "BBC News",
@@ -346,20 +360,6 @@
       "title": "Onu, Trump: \"Ucraina farà un accordo ma non posso dirvi quale\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/onu-assemblea-generale-new-york-donald-trump_116889634-202602k.shtml",
       "published": "2026-09-22T19:33:00+00:00"
-    },
-    {
-      "id": "536e23304fed15934ba3",
-      "source": "BBC News",
-      "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
-      "url": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-22T19:06:06+00:00"
-    },
-    {
-      "id": "0737d880bd6c088a7b93",
-      "source": "TGcom24",
-      "title": "Schlein: tira Mattarella per la giacca, da Meloni totale mancanza di senso dello Stato",
-      "url": "https://www.tgcom24.mediaset.it/politica/scuola-stranieri-giorgia-meloni-sergio-mattarella_116897349-202602k.shtml",
-      "published": "2026-09-22T18:47:00+00:00"
     },
     {
       "id": "844f0adc5b60aebaa46f",
