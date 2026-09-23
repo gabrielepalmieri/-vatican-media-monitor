@@ -108,7 +108,7 @@
     function render(){
       $('.controls').classList.toggle('breaking-search',S.view==='news');$('#breakingNote').hidden=S.view!=='news';
       renderTrends();const a=selectedItems();S.filtered=a;const seen=new Set(),display=S.view==='critical'?a.filter(x=>{const key=x.cluster_id||x.id;if(seen.has(key))return false;seen.add(key);return true}):a;
-      const titles={all:'Ultimi aggiornamenti',news:'Ora per ora · Papa e Santa Sede',critical:'Critiche e controversie',social:'Social e video',top:'Top stories',trending:'Temi in crescita',sources:'Copertura fonti prioritarie'};
+      const titles={all:'Ultimi aggiornamenti',news:'Ora per Ora - Attualità',critical:'Critiche e controversie',social:'Social e video',top:'Top stories',trending:'Temi in crescita',sources:'Copertura fonti prioritarie'};
       $('#viewTitle').textContent=titles[S.view];$('#trendPanel').style.display=S.view==='trending'?'grid':'none';$('#sourcePanel').style.display=S.view==='sources'?'grid':'none';$('#criticalPanel').style.display=S.view==='critical'?'block':'none';$('#stories').style.display=S.view==='sources'?'none':'grid';
       if(S.view==='sources'){const c=renderSources();$('#count').textContent=c.total?`${c.present} su ${c.total} testate presenti`:'in attesa del prossimo aggiornamento'}else $('#count').textContent=S.view==='critical'?`${display.length} temi · ${a.length} articoli`:`${a.length} risultati`;
       if(S.view==='critical')renderCriticalSources();
