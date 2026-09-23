@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-23T17:31:18.696461+00:00",
+  "updated_at": "2026-09-23T17:39:56.433953+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-23T17:31:18.696461+00:00"
+      "checked_at": "2026-09-23T17:39:56.433953+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-23T17:31:18.696461+00:00"
+      "checked_at": "2026-09-23T17:39:56.433953+00:00"
     }
   },
   "items": [
+    {
+      "id": "160bd02fe4a21d255bb3",
+      "source": "BBC News",
+      "title": "Iran's president tells Trump it will never 'bend the knee'",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23T17:34:44+00:00"
+    },
     {
       "id": "07b61a5b8233429d6670",
       "source": "TGcom24",
@@ -45,13 +52,6 @@
       "title": "Me Too, nuova condanna per Weinstein: 15 anni per un'aggressione sessuale del 2006",
       "url": "https://www.tgcom24.mediaset.it/mondo/new-york-condannato-weinstein-aggressione-sessuale-me-too_116919710-202602k.shtml",
       "published": "2026-09-23T16:25:00+00:00"
-    },
-    {
-      "id": "160bd02fe4a21d255bb3",
-      "source": "BBC News",
-      "title": "Iran's president tells Trump it will never 'bend the knee'",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-23T15:58:13+00:00"
     },
     {
       "id": "17b25cb3b687c6568b66",
