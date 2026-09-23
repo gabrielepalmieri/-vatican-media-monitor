@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-23T17:39:56.433953+00:00",
+  "updated_at": "2026-09-23T17:47:03.310790+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-23T17:39:56.433953+00:00"
+      "checked_at": "2026-09-23T17:47:03.310790+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-23T17:39:56.433953+00:00"
+      "checked_at": "2026-09-23T17:47:03.310790+00:00"
     }
   },
   "items": [
+    {
+      "id": "99eb3c7f89efecd6240e",
+      "source": "BBC News",
+      "title": "Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing",
+      "url": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23T17:40:59+00:00"
+    },
     {
       "id": "160bd02fe4a21d255bb3",
       "source": "BBC News",
@@ -115,13 +122,6 @@
       "title": "Giorgetti: \"Priorità al taglio delle tasse: sintesi sulla Manovra a breve\"",
       "url": "https://www.tgcom24.mediaset.it/economia/giorgetti-taglio-tasse-irpef-manovra_116915305-202602k.shtml",
       "published": "2026-09-23T13:44:00+00:00"
-    },
-    {
-      "id": "99eb3c7f89efecd6240e",
-      "source": "BBC News",
-      "title": "Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing",
-      "url": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-23T13:34:25+00:00"
     },
     {
       "id": "5126e2a8f12485367452",
