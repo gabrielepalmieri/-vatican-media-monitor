@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-23T15:07:29.494141+00:00",
+  "updated_at": "2026-09-23T15:21:49.456297+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-23T15:07:29.494141+00:00"
+      "checked_at": "2026-09-23T15:21:49.456297+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-23T15:07:29.494141+00:00"
+      "checked_at": "2026-09-23T15:21:49.456297+00:00"
     }
   },
   "items": [
+    {
+      "id": "8f7cb3a8ef6d0ac91e75",
+      "source": "TGcom24",
+      "title": "Ddl nucleare: ok definitivo dell'aula del Senato",
+      "url": "https://www.tgcom24.mediaset.it/politica/ddl-nucleare-ok-definitivo-dell-aula-del-senato_116916539-202602k.shtml",
+      "published": "2026-09-23T15:15:00+00:00"
+    },
     {
       "id": "3b26d1a2fbb255234bcd",
       "source": "BBC News",
@@ -346,13 +353,6 @@
       "title": "Meloni: da ministro Mattarella scriveva circolari sul tetto agli stranieri in classe",
       "url": "https://www.tgcom24.mediaset.it/politica/scuola-stranieri-giorgia-meloni-sergio-mattarella_116897349-202602k.shtml",
       "published": "2026-09-22T18:06:00+00:00"
-    },
-    {
-      "id": "f8118c25e3eb8f3d18e9",
-      "source": "TGcom24",
-      "title": "Sorelline ritrovate a San Cataldo, la procura di Caltanissetta: era una sfida social",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/san-cataldo-sorelline-scomparse-challenge-youtube-negozio_116895250-202602k.shtml",
-      "published": "2026-09-22T17:20:00+00:00"
     },
     {
       "id": "844f0adc5b60aebaa46f",
