@@ -146,6 +146,10 @@ def parse_feed(url: str, country: str, language: str, kind: str, direct_source: 
         if direct_source:
             context=(title+" "+clean(item.findtext("description", ""))).casefold()
             if not any(term in context for term in DIRECT_TERMS): continue
+            try:
+                date=datetime.fromisoformat(published(item.findtext("pubDate", "")).replace("Z","+00:00"))
+                if date<datetime.now(timezone.utc)-timedelta(days=RETENTION_DAYS): continue
+            except ValueError: continue
         source=direct_source or source_from(item,title,link)
         display_title=title[:-len(source)-3].strip() if title.endswith(" - "+source) else title
         if not valid_title(display_title): continue
@@ -200,6 +204,9 @@ def balanced_selection(items: list[dict]) -> list[dict]:
     def add(item: dict, name: str | None) -> bool:
         marker=(item["id"],item["source"])
         day=item["published"][:10]
+        try:
+            if datetime.fromisoformat(item["published"].replace("Z","+00:00"))<cutoff: return False
+        except (ValueError, KeyError): return False
         if marker in selected_ids or days.get(day,0)>=MAX_PER_DAY: return False
         if name and counts.get(name,0)>=MAX_PER_SOURCE: return False
         selected.append(item); selected_ids.add(marker)
