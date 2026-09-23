@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-09-23T17:53:37.793592+00:00",
+  "updated_at": "2026-09-23T18:09:20.949115+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-23T17:53:37.793592+00:00"
+      "checked_at": "2026-09-23T18:09:20.949115+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-23T17:53:37.793592+00:00"
+      "checked_at": "2026-09-23T18:09:20.949115+00:00"
     }
   },
   "items": [
     {
-      "id": "0f6a3bdd2dc3534aba1d",
+      "id": "6850b6ac76a3d33d4732",
+      "source": "BBC News",
+      "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
+      "url": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23T18:03:35+00:00"
+    },
+    {
+      "id": "4682b9de3b1ab9bd7fac",
+      "source": "BBC News",
+      "title": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
+      "url": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23T17:58:19+00:00"
+    },
+    {
+      "id": "dfa1904c6e7c9555e93d",
       "source": "TGcom24",
       "title": "Cisgiordania, ferito figlio dell'ambasciatore israeliano in Usa",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-23-settembre_116901431-202602k.shtml",
-      "published": "2026-09-23T18:00:00+00:00"
+      "published": "2026-09-23T17:55:00+00:00"
     },
     {
       "id": "99eb3c7f89efecd6240e",
@@ -52,13 +66,6 @@
       "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
       "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-23T16:53:37+00:00"
-    },
-    {
-      "id": "6850b6ac76a3d33d4732",
-      "source": "BBC News",
-      "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
-      "url": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-23T16:40:19+00:00"
     },
     {
       "id": "349fcc2ad5a8f3bc3045",
@@ -157,13 +164,6 @@
       "title": "Oscar 2027, Il film \"L'Estranea\" di Paolo Strippoli rappresenterà l'Italia",
       "url": "https://www.tgcom24.mediaset.it/spettacolo/estranea-paolo-strippoli-film-italia-oscar-2027_116910415-202602k.shtml",
       "published": "2026-09-23T12:25:00+00:00"
-    },
-    {
-      "id": "4682b9de3b1ab9bd7fac",
-      "source": "BBC News",
-      "title": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
-      "url": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-23T12:24:02+00:00"
     },
     {
       "id": "f7f1338fd4d1a2696d21",
