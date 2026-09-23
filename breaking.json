@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-23T15:55:33.858551+00:00",
+  "updated_at": "2026-09-23T16:07:35.253057+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-23T15:55:33.858551+00:00"
+      "checked_at": "2026-09-23T16:07:35.253057+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-23T15:55:33.858551+00:00"
+      "checked_at": "2026-09-23T16:07:35.253057+00:00"
     }
   },
   "items": [
+    {
+      "id": "3b26d1a2fbb255234bcd",
+      "source": "BBC News",
+      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23T15:59:00+00:00"
+    },
     {
       "id": "17b25cb3b687c6568b66",
       "source": "BBC News",
@@ -40,13 +47,6 @@
       "published": "2026-09-23T15:15:00+00:00"
     },
     {
-      "id": "3b26d1a2fbb255234bcd",
-      "source": "BBC News",
-      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-23T14:55:51+00:00"
-    },
-    {
       "id": "d70a22176d217feed3d9",
       "source": "TGcom24",
       "title": "Iran, Pezeshkian: \"Gli Usa ci descrivono come terroristi ma siamo vittime\"",
@@ -59,6 +59,13 @@
       "title": "Azerbaijan pardons Frenchman after EU lifts sanctions on Russian billionaire",
       "url": "https://www.bbc.co.uk/news/articles/cwp84rrrymd0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-23T14:32:42+00:00"
+    },
+    {
+      "id": "8b6b36914a767e1dfe26",
+      "source": "BBC News",
+      "title": "White House rolling out red carpet for historic Xi Jinping visit",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9w410v3vzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23T14:32:37+00:00"
     },
     {
       "id": "e9f513a378f7c4a33294",
@@ -339,13 +346,6 @@
       "title": "Onu, Trump: \"Ucraina farà un accordo ma non posso dirvi quale\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/onu-assemblea-generale-new-york-donald-trump_116889634-202602k.shtml",
       "published": "2026-09-22T19:33:00+00:00"
-    },
-    {
-      "id": "e240dc9423e659171e8d",
-      "source": "BBC News",
-      "title": "Burnham 'gets it' says Trump, as the two leaders meet for first time",
-      "url": "https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-22T19:15:57+00:00"
     },
     {
       "id": "536e23304fed15934ba3",
