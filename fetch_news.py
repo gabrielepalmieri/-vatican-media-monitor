@@ -35,7 +35,8 @@ SOCIAL_QUERY = '("Pope Leo XIV" OR Vatican) (site:youtube.com OR site:x.com OR s
 DIRECT_FEEDS = [
     ("Italia", "Italiano", "la Repubblica", "https://www.repubblica.it/rss/homepage/rss2.0.xml"),
     ("Italia", "Italiano", "la Repubblica", "https://www.repubblica.it/rss/esteri/rss2.0.xml"),
-    ("Regno Unito", "English", "The Guardian", "https://www.theguardian.com/world/rss"),
+    ("Regno Unito", "English", "The Guardian", "https://www.theguardian.com/world/the-papacy/rss"),
+    ("Regno Unito", "English", "The Guardian", "https://www.theguardian.com/world/vatican/rss"),
 ]
 DIRECT_TERMS = (
     "pope", "papa", "pape", "papst", "pontiff", "vatican", "vaticano",
