@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-23T16:47:51.501581+00:00",
+  "updated_at": "2026-09-23T16:55:44.809530+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-23T16:47:51.501581+00:00"
+      "checked_at": "2026-09-23T16:55:44.809530+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-23T16:47:51.501581+00:00"
+      "checked_at": "2026-09-23T16:55:44.809530+00:00"
     }
   },
   "items": [
+    {
+      "id": "3b26d1a2fbb255234bcd",
+      "source": "BBC News",
+      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23T16:53:37+00:00"
+    },
     {
       "id": "6850b6ac76a3d33d4732",
       "source": "BBC News",
@@ -24,13 +31,6 @@
       "title": "Me Too, nuova condanna per Weinstein: 15 anni per un'aggressione sessuale del 2006",
       "url": "https://www.tgcom24.mediaset.it/mondo/new-york-condannato-weinstein-aggressione-sessuale-me-too_116919710-202602k.shtml",
       "published": "2026-09-23T16:25:00+00:00"
-    },
-    {
-      "id": "3b26d1a2fbb255234bcd",
-      "source": "BBC News",
-      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-23T15:59:00+00:00"
     },
     {
       "id": "160bd02fe4a21d255bb3",
