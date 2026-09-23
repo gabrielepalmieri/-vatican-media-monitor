@@ -150,8 +150,10 @@ def parse_feed(url: str, country: str, language: str, kind: str, direct_source: 
         display_title=title[:-len(source)-3].strip() if title.endswith(" - "+source) else title
         if not valid_title(display_title): continue
         uid=hashlib.sha1((display_title.lower()+source.lower()).encode()).hexdigest()[:16]
-        out.append({"id":uid,"title":display_title,"url":link,"source":source,"country":country,"language":language,"published":published(item.findtext("pubDate", "")),"topic":topic_for(display_title),"kind":kind,"cluster_size":1})
-    if direct_source: print(f"Feed diretto {direct_source}: {len(out)} articoli pertinenti da {url}")
+        out.append({"id":uid,"title":display_title,"url":link,"source":source,"country":country,"language":language,"published":published(item.findtext("pubDate", "")),"topic":topic_for(display_title),"kind":kind,"cluster_size":1,"origin":"direct" if direct_source else "search"})
+    if direct_source:
+        newest=max((x["published"] for x in out),default="nessuno")
+        print(f"Feed diretto {direct_source}: {len(out)} pertinenti, più recente {newest}, da {url}")
     return out
 
 def feed_url(query: str, hl: str, gl: str, ceid: str) -> str:
@@ -267,7 +269,15 @@ def main() -> None:
     unique={}
     for x in items:
         key=(re.sub(r"\W+","",x["title"].lower())[:160],x["source"].casefold())
-        if key not in unique or x["published"]>unique[key]["published"]: unique[key]=x
+        if key not in unique:
+            unique[key]=x
+        else:
+            old=unique[key]
+            direct_url=x["url"] if x.get("origin")=="direct" else old["url"] if old.get("origin")=="direct" else None
+            if x["published"]>old["published"]: unique[key]=x
+            if direct_url:
+                unique[key]["url"]=direct_url
+                unique[key]["origin"]="direct"
     ordered=sorted(unique.values(),key=lambda x:x["published"],reverse=True)
     result=balanced_selection(ordered)
     cluster(result)
