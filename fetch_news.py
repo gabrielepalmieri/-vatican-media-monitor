@@ -53,11 +53,34 @@ PRIORITY_SOURCES = [
     ("Italia", "La Stampa", ["la stampa", "lastampa.it"], "lastampa.it"),
     ("Italia", "Il Sole 24 Ore", ["il sole 24 ore", "ilsole24ore.com"], "ilsole24ore.com"),
     ("Italia", "Avvenire", ["avvenire", "avvenire.it"], "avvenire.it"),
+    ("Italia", "La Nuova Bussola Quotidiana", ["la nuova bussola quotidiana","lanuovabq.it"], "lanuovabq.it"),
+    ("Italia", "SettimanaNews", ["settimananews","settimananews.it"], "settimananews.it"),
+    ("Italia", "Il Messaggero", ["il messaggero","ilmessaggero.it"], "ilmessaggero.it"),
+    ("Francia", "Famille Chrétienne", ["famille chrétienne","famillechretienne.fr"], "famillechretienne.fr"),
+    ("Germania", "katholisch.de", ["katholisch.de"], "katholisch.de"),
+    ("Germania", "Die Tagespost", ["die tagespost","die-tagespost.de"], "die-tagespost.de"),
+    ("Spagna", "Vida Nueva", ["vida nueva","vidanuevadigital.com"], "vidanuevadigital.com"),
+    ("Spagna", "Alfa y Omega", ["alfa y omega","alfayomega.es"], "alfayomega.es"),
+    ("Spagna", "Religión Confidencial", ["religión confidencial","religion confidencial"], "elconfidencialdigital.com/religion"),
+    ("America Latina", "AICA", ["aica","aica.org"], "aica.org"),
+    ("America Latina", "Desde la Fe", ["desde la fe","desdelafe.mx"], "desdelafe.mx"),
+    ("Brasile", "Canção Nova", ["canção nova","cancao nova","cancaonova.com"], "noticias.cancaonova.com"),
+    ("Stati Uniti", "OSV News", ["osv news","osvnews.com","our sunday visitor"], "osvnews.com"),
+    ("Stati Uniti", "Crux", ["crux","cruxnow.com"], "cruxnow.com"),
+    ("Stati Uniti", "National Catholic Reporter", ["national catholic reporter","ncronline.org"], "ncronline.org"),
+    ("Stati Uniti", "America Magazine", ["america magazine","americamagazine.org"], "americamagazine.org"),
+    ("Stati Uniti", "The Pillar", ["the pillar","pillarcatholic.com"], "pillarcatholic.com"),
+    ("Stati Uniti", "Religion News Service", ["religion news service","religionnews.com"], "religionnews.com"),
+    ("Stati Uniti", "The New York Times", ["the new york times","nytimes.com"], "nytimes.com"),
+    ("Stati Uniti", "The Washington Post", ["the washington post","washingtonpost.com"], "washingtonpost.com"),
+    ("Regno Unito", "The Tablet", ["the tablet","thetablet.co.uk"], "thetablet.co.uk"),
+    ("Regno Unito", "Catholic Herald", ["catholic herald","thecatholicherald.com"], "thecatholicherald.com"),
+    ("Regno Unito", "Financial Times", ["financial times","ft.com"], "ft.com"),
     ("Italia", "Messa in Latino", ["messa in latino", "messainlatino.it"], "blog.messainlatino.it"),
     ("Francia", "Le Monde", ["le monde", "lemonde.fr"], "lemonde.fr"),
     ("Francia", "Le Figaro", ["le figaro", "lefigaro.fr"], "lefigaro.fr"),
     ("Francia", "Libération", ["libération", "liberation.fr"], "liberation.fr"),
-    ("Francia", "La Croix", ["la croix", "la-croix.com"], "la-croix.com"),
+    ("Francia", "La Croix / La Croix International", ["la croix", "la-croix.com", "lacroixinternational.com"], "la-croix.com"),
     ("Francia", "France 24", ["france 24", "france24.com"], "france24.com"),
     ("Spagna", "El País", ["el país", "el pais", "elpais.com"], "elpais.com"),
     ("Spagna", "El Mundo", ["el mundo", "elmundo.es"], "elmundo.es"),
@@ -67,7 +90,7 @@ PRIORITY_SOURCES = [
     ("Spagna", "Religión Digital", ["religión digital", "religion digital", "religiondigital.org"], "religiondigital.org"),
     ("Spagna", "InfoVaticana", ["infovaticana", "infovaticana.com"], "infovaticana.com"),
     ("America Latina", "Infobae", ["infobae", "infobae.com"], "infobae.com"),
-    ("Stati Uniti", "EWTN News", ["ewtn", "ewtnnews.com"], "ewtnnews.com"),
+    ("Stati Uniti", "EWTN News / ACI Prensa / National Catholic Register", ["ewtn", "ewtnnews.com", "aci prensa", "aciprensa.com", "aci digital", "acidigital.com", "national catholic register", "ncregister.com"], "ewtnnews.com"),
     ("Regno Unito", "BBC", ["bbc", "bbc.com", "bbc.co.uk"], "bbc.co.uk"),
     ("Regno Unito", "The Guardian", ["the guardian", "theguardian.com"], "theguardian.com"),
     ("Regno Unito", "The Telegraph", ["the telegraph", "telegraph.co.uk"], "telegraph.co.uk"),
@@ -83,6 +106,7 @@ AGENCY_SOURCES = [
     ("Regno Unito", "Reuters", ["reuters", "reuters.com"], "reuters.com"),
     ("Stati Uniti", "Associated Press", ["associated press", "ap news", "apnews.com"], "apnews.com"),
     ("Francia", "AFP", ["agence france-presse", "afp", "afp.com"], "afp.com"),
+    ("Germania", "KNA", ["katholische nachrichten-agentur","kna.de","kna"], "kna.de"),
     ("Germania", "dpa", ["deutsche presse-agentur", "dpa", "dpa.com"], "dpa.com"),
     ("Spagna", "EFE", ["agencia efe", "efe", "efe.com"], "efe.com"),
     ("Regno Unito", "PA Media", ["pa media", "press association"], "pa.media"),
@@ -168,6 +192,15 @@ def parse_feed(url: str, country: str, language: str, kind: str, direct_source: 
 def feed_url(query: str, hl: str, gl: str, ceid: str) -> str:
     return f"https://news.google.com/rss/search?q={quote(query)}&hl={hl}&gl={gl}&ceid={ceid}"
 
+# Edizioni e marchi dello stesso gruppo: ricerca nei rispettivi Paesi,
+# ma conteggio sotto un'unica voce in Copertura fonti.
+EXTRA_SOURCE_SEARCHES = [
+    ("Regno Unito", "lacroixinternational.com"),
+    ("America Latina", "aciprensa.com"),
+    ("Brasile", "acidigital.com"),
+    ("Stati Uniti", "ncregister.com"),
+]
+
 def source_queries(country: str) -> list[str]:
     """Ricerche distinte per Papa e Vaticano: ciascun feed ha un proprio limite."""
     subjects=(
@@ -175,8 +208,10 @@ def source_queries(country: str) -> list[str]:
         '(Vatican OR Vaticano OR Vatikan OR "Holy See" OR "Santa Sede" OR "Saint-Siège")',
     )
     return [f'{subject} site:{domain} when:7d'
-            for item_country, _, _, domain in PRIORITY_SOURCES + AGENCY_SOURCES
-            if item_country == country for subject in subjects]
+            for domain in ([domain for item_country, _, _, domain in PRIORITY_SOURCES + AGENCY_SOURCES
+                         if item_country == country] +
+                           [domain for item_country, domain in EXTRA_SOURCE_SEARCHES
+                            if item_country == country]) for subject in subjects]
 
 def source_matches(source: str, aliases: list[str]) -> bool:
     value=source.casefold()
