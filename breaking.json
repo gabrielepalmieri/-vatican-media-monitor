@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-23T22:07:12.106119+00:00",
+  "updated_at": "2026-09-23T22:20:23.484745+00:00",
   "sources": {
     "TGcom24": {
-      "ok": false,
-      "checked_at": "2026-09-23T22:07:12.106119+00:00"
+      "ok": true,
+      "checked_at": "2026-09-23T22:20:23.484745+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-23T22:07:12.106119+00:00"
+      "checked_at": "2026-09-23T22:20:23.484745+00:00"
     }
   },
   "items": [
+    {
+      "id": "5a04d96189fbc166395a",
+      "source": "TGcom24",
+      "title": "Bimbo di 6 anni muore nel Chietino, ipotesi crisi respiratoria",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/bimbo-di-6-anni-muore-nel-chietino-ipotesi-crisi-respiratoria_116924336-202602k.shtml",
+      "published": "2026-09-23T22:15:00+00:00"
+    },
     {
       "id": "99eb3c7f89efecd6240e",
       "source": "BBC News",
@@ -276,13 +283,6 @@
       "title": "Roma, precipita da 10 metri mentre lavora al Colosseo: morto operaio 22enne",
       "url": "https://www.tgcom24.mediaset.it/cronaca/roma-colosseo-operaio-precipita-muore-andrea-moretti_116902845-202602k.shtml",
       "published": "2026-09-23T07:01:00+00:00"
-    },
-    {
-      "id": "ff0303e7fa629b01eea1",
-      "source": "TGcom24",
-      "title": "Arezzo, madre e figlia si oppongono alle nozze combinate: picchiate dal padre",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/arezzo-padre-picchia-moglie-figlia-matrimonio-combinato_116902781-202602k.shtml",
-      "published": "2026-09-23T06:25:00+00:00"
     },
     {
       "id": "264767b81d8fe1efa091",
