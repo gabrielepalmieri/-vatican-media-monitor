@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-23T18:50:01.026622+00:00",
+  "updated_at": "2026-09-23T18:57:42.870030+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-23T18:50:01.026622+00:00"
+      "checked_at": "2026-09-23T18:57:42.870030+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-23T18:50:01.026622+00:00"
+      "checked_at": "2026-09-23T18:57:42.870030+00:00"
     }
   },
   "items": [
+    {
+      "id": "6850b6ac76a3d33d4732",
+      "source": "BBC News",
+      "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
+      "url": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23T18:51:12+00:00"
+    },
     {
       "id": "c8657fccb287fba0974e",
       "source": "TGcom24",
@@ -24,13 +31,6 @@
       "title": "Iran's president tells Trump it will never 'bend the knee'",
       "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-23T18:15:31+00:00"
-    },
-    {
-      "id": "6850b6ac76a3d33d4732",
-      "source": "BBC News",
-      "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
-      "url": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-23T18:13:52+00:00"
     },
     {
       "id": "4682b9de3b1ab9bd7fac",
