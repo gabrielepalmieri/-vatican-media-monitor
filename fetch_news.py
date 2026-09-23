@@ -30,6 +30,20 @@ QUERIES = [
 ]
 SOCIAL_QUERY = '("Pope Leo XIV" OR Vatican) (site:youtube.com OR site:x.com OR site:reddit.com OR site:tiktok.com OR site:instagram.com)'
 
+# Feed pubblicati dalle testate: si affiancano alla ricerca, che può omettere
+# articoli recenti. Gli URL restano facoltativi: un errore non blocca il job.
+DIRECT_FEEDS = [
+    ("Italia", "Italiano", "la Repubblica", "https://www.repubblica.it/rss/homepage/rss2.0.xml"),
+    ("Italia", "Italiano", "la Repubblica", "https://www.repubblica.it/rss/esteri/rss2.0.xml"),
+    ("Regno Unito", "English", "The Guardian", "https://www.theguardian.com/world/rss"),
+]
+DIRECT_TERMS = (
+    "pope", "papa", "pape", "papst", "pontiff", "vatican", "vaticano",
+    "holy see", "santa sede", "saint-siège", "saint siege", "safeguarding",
+    "abusi nella chiesa", "abuse in the church", "catholic church", "chiesa cattolica",
+    "leo xiv", "leone xiv", "léon xiv", "león xiv",
+)
+
 # Testate interrogate anche con ricerche dedicate, per ridurre la dipendenza
 # dall'ordinamento generale di Google News. La dashboard ne mostra l'esito.
 PRIORITY_SOURCES = [
@@ -120,7 +134,7 @@ def fetch(url: str) -> bytes:
     ctx = ssl.create_default_context()
     with urlopen(req, timeout=15, context=ctx) as r: return r.read()
 
-def parse_feed(url: str, country: str, language: str, kind: str) -> list[dict]:
+def parse_feed(url: str, country: str, language: str, kind: str, direct_source: str = "") -> list[dict]:
     out=[]
     try: root=ET.fromstring(fetch(url))
     except Exception as exc:
@@ -128,11 +142,15 @@ def parse_feed(url: str, country: str, language: str, kind: str) -> list[dict]:
     for item in root.findall(".//item")[:100]:
         title=clean(item.findtext("title", "")); link=clean(item.findtext("link", ""))
         if not title or not link or not valid_title(title): continue
-        source=source_from(item,title,link)
+        if direct_source:
+            context=(title+" "+clean(item.findtext("description", ""))).casefold()
+            if not any(term in context for term in DIRECT_TERMS): continue
+        source=direct_source or source_from(item,title,link)
         display_title=title[:-len(source)-3].strip() if title.endswith(" - "+source) else title
         if not valid_title(display_title): continue
         uid=hashlib.sha1((display_title.lower()+source.lower()).encode()).hexdigest()[:16]
         out.append({"id":uid,"title":display_title,"url":link,"source":source,"country":country,"language":language,"published":published(item.findtext("pubDate", "")),"topic":topic_for(display_title),"kind":kind,"cluster_size":1})
+    if direct_source: print(f"Feed diretto {direct_source}: {len(out)} articoli pertinenti da {url}")
     return out
 
 def feed_url(query: str, hl: str, gl: str, ceid: str) -> str:
@@ -228,6 +246,8 @@ def main() -> None:
         jobs.append((feed_url(SOCIAL_QUERY,hl,gl,ceid),country,language,"social"))
         for dedicated in source_queries(country):
             jobs.append((feed_url(dedicated,hl,gl,ceid),country,language,"news"))
+    for country, language, source, url in DIRECT_FEEDS:
+        jobs.append((url,country,language,"news",source))
     with ThreadPoolExecutor(max_workers=8) as pool:
         futures=[pool.submit(parse_feed,*job) for job in jobs]
         for future in as_completed(futures): items += future.result()

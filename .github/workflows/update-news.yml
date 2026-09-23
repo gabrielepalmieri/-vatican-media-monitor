@@ -2,6 +2,9 @@ name: Update news
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - "fetch_news.py"
   schedule:
     - cron: "17,47 * * * *"
 
