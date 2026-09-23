@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-23T21:31:04.876303+00:00",
+  "updated_at": "2026-09-23T21:40:16.887205+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-23T21:31:04.876303+00:00"
+      "checked_at": "2026-09-23T21:40:16.887205+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-23T21:31:04.876303+00:00"
+      "checked_at": "2026-09-23T21:40:16.887205+00:00"
     }
   },
   "items": [
+    {
+      "id": "bfd7429b984ea74dad4d",
+      "source": "TGcom24",
+      "title": "Moda, Meloni alla Milano Fashion Week: \"Qui per dire che il governo c'è\"",
+      "url": "https://www.tgcom24.mediaset.it/economia/moda-meloni-alla-milano-fashion-week_116924322-202602k.shtml",
+      "published": "2026-09-23T21:30:00+00:00"
+    },
     {
       "id": "07f55feaf711a6b51814",
       "source": "BBC News",
@@ -269,13 +276,6 @@
       "title": "Arezzo, madre e figlia si oppongono alle nozze combinate: picchiate dal padre",
       "url": "https://www.tgcom24.mediaset.it/cronaca/arezzo-padre-picchia-moglie-figlia-matrimonio-combinato_116902781-202602k.shtml",
       "published": "2026-09-23T06:25:00+00:00"
-    },
-    {
-      "id": "6a69c0a23ef0a8bc79dc",
-      "source": "TGcom24",
-      "title": "Migranti, blitz contro traffici irregolari in 4 Paesi Ue: arresti a Bologna",
-      "url": "https://www.tgcom24.mediaset.it/mondo/bologna-blitz-migranti-regno-unito-europol-arresti_116902048-202602k.shtml",
-      "published": "2026-09-23T05:47:00+00:00"
     },
     {
       "id": "264767b81d8fe1efa091",
