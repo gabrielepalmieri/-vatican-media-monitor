@@ -1,0 +1,41 @@
+name: Update breaking news
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "fetch_breaking.py"
+      - ".github/workflows/update-breaking.yml"
+  schedule:
+    - cron: "3,13,23,33,43,53 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: breaking-news
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Collect latest headlines
+        run: python fetch_breaking.py
+      - name: Save breaking feed
+        run: |
+          git config user.name "vatican-media-monitor-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add breaking.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update breaking news"
+            for attempt in 1 2 3; do
+              git pull --rebase origin main
+              if git push origin HEAD:main; then exit 0; fi
+            done
+            exit 1
+          fi
