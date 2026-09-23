@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-23T18:25:18.452056+00:00",
+  "updated_at": "2026-09-23T18:39:53.689091+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-23T18:25:18.452056+00:00"
+      "checked_at": "2026-09-23T18:39:53.689091+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-23T18:25:18.452056+00:00"
+      "checked_at": "2026-09-23T18:39:53.689091+00:00"
     }
   },
   "items": [
+    {
+      "id": "c8657fccb287fba0974e",
+      "source": "TGcom24",
+      "title": "Stellantis, sindacati: \"Altri due giorni di stop a Mirafiori\"",
+      "url": "https://www.tgcom24.mediaset.it/economia/stellantis-sindacati-altri-due-giorni-di-stop-a-mirafiori-_116921196-202602k.shtml",
+      "published": "2026-09-23T18:29:00+00:00"
+    },
     {
       "id": "160bd02fe4a21d255bb3",
       "source": "BBC News",
@@ -346,13 +353,6 @@
       "title": "US to build two military bases in Greenland under new deal with Denmark",
       "url": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-22T21:36:55+00:00"
-    },
-    {
-      "id": "70b6136222544059b18b",
-      "source": "TGcom24",
-      "title": "Usa, Melania Trump torna in pubblico e invita anche le telecamere della Cnn",
-      "url": "https://www.tgcom24.mediaset.it/mondo/usa-melania-evento-sfida-trump-cnn_116899526-202602k.shtml",
-      "published": "2026-09-22T21:28:00+00:00"
     },
     {
       "id": "9d312fbcae878947411a",
