@@ -12,7 +12,9 @@ from xml.etree import ElementTree as ET
 
 ROOT = Path(__file__).resolve().parent
 OUT = ROOT / "news.json"
-MAX_ITEMS = 2000
+MAX_ITEMS = 5000
+MAX_PER_SOURCE = 180
+MAX_PER_DAY = 2200
 RETENTION_DAYS = 7
 
 EDITIONS = [
@@ -137,11 +139,14 @@ def feed_url(query: str, hl: str, gl: str, ceid: str) -> str:
     return f"https://news.google.com/rss/search?q={quote(query)}&hl={hl}&gl={gl}&ceid={ceid}"
 
 def source_queries(country: str) -> list[str]:
-    """Una ricerca per fonte evita che poche testate dominino una query unica."""
-    subjects='(Pope OR Papa OR Pape OR Papst OR Vatican OR Vaticano OR "Holy See" OR "Santa Sede" OR "Saint-Siège") when:7d'
-    return [f'{subjects} (site:{domain} OR source:"{name}")'
-            for item_country, name, _, domain in PRIORITY_SOURCES + AGENCY_SOURCES
-            if item_country == country]
+    """Ricerche distinte per Papa e Vaticano: ciascun feed ha un proprio limite."""
+    subjects=(
+        '(Pope OR Papa OR Pape OR Papst OR "Leo XIV" OR "Leone XIV" OR "Léon XIV" OR "León XIV")',
+        '(Vatican OR Vaticano OR Vatikan OR "Holy See" OR "Santa Sede" OR "Saint-Siège")',
+    )
+    return [f'{subject} site:{domain} when:7d'
+            for item_country, _, _, domain in PRIORITY_SOURCES + AGENCY_SOURCES
+            if item_country == country for subject in subjects]
 
 def source_matches(source: str, aliases: list[str]) -> bool:
     value=source.casefold()
@@ -163,27 +168,34 @@ def coverage_for(items: list[dict]) -> list[dict]:
     return coverage
 
 def balanced_selection(items: list[dict]) -> list[dict]:
-    """Riserva spazio a ogni fonte monitorata e limita quelle dominanti."""
+    """Riserva spazio alle fonti e ai giorni recenti senza saturare l'archivio."""
     configured=PRIORITY_SOURCES + AGENCY_SOURCES
     def configured_name(item: dict) -> str | None:
         for _, name, aliases, _ in configured:
             if source_matches(item["source"],aliases): return name
         return None
-    selected=[]; selected_ids=set(); counts={}
+    selected=[]; selected_ids=set(); counts={}; days={}
+    cutoff=datetime.now(timezone.utc)-timedelta(days=RETENTION_DAYS)
+    def add(item: dict, name: str | None) -> bool:
+        marker=(item["id"],item["source"])
+        day=item["published"][:10]
+        if marker in selected_ids or days.get(day,0)>=MAX_PER_DAY: return False
+        if name and counts.get(name,0)>=MAX_PER_SOURCE: return False
+        selected.append(item); selected_ids.add(marker)
+        days[day]=days.get(day,0)+1
+        if name: counts[name]=counts.get(name,0)+1
+        return True
     for _, name, aliases, _ in configured:
         for item in items:
-            marker=(item["id"],item["source"])
-            if marker not in selected_ids and source_matches(item["source"],aliases):
-                selected.append(item); selected_ids.add(marker); counts[name]=counts.get(name,0)+1
-                if counts[name]>=5: break
+            if source_matches(item["source"],aliases):
+                add(item,name)
+                if counts.get(name,0)>=5: break
     for item in items:
         if len(selected)>=MAX_ITEMS: break
-        marker=(item["id"],item["source"])
-        if marker in selected_ids: continue
-        name=configured_name(item)
-        if name and counts.get(name,0)>=60: continue
-        selected.append(item); selected_ids.add(marker)
-        if name: counts[name]=counts.get(name,0)+1
+        try:
+            if datetime.fromisoformat(item["published"].replace("Z","+00:00"))<cutoff: continue
+        except (ValueError, KeyError): continue
+        add(item,configured_name(item))
     return sorted(selected,key=lambda x:x["published"],reverse=True)
 
 def cluster(items: list[dict]) -> None:
