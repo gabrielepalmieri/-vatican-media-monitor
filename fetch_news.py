@@ -54,6 +54,7 @@ PRIORITY_SOURCES = [
     ("Italia", "Il Sole 24 Ore", ["il sole 24 ore", "ilsole24ore.com"], "ilsole24ore.com"),
     ("Italia", "Avvenire", ["avvenire", "avvenire.it"], "avvenire.it"),
     ("Italia", "La Nuova Bussola Quotidiana", ["la nuova bussola quotidiana","lanuovabq.it"], "lanuovabq.it"),
+    ("Italia", "Silere Non Possum", ["silere non possum", "silerenonpossum.com"], "silerenonpossum.com"),
     ("Italia", "SettimanaNews", ["settimananews","settimananews.it"], "settimananews.it"),
     ("Italia", "Il Messaggero", ["il messaggero","ilmessaggero.it"], "ilmessaggero.it"),
     ("Francia", "Famille Chrétienne", ["famille chrétienne","famillechretienne.fr"], "famillechretienne.fr"),
