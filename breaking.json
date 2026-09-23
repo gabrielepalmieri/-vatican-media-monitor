@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-23T15:47:56.638331+00:00",
+  "updated_at": "2026-09-23T15:55:33.858551+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-23T15:47:56.638331+00:00"
+      "checked_at": "2026-09-23T15:55:33.858551+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-23T15:47:56.638331+00:00"
+      "checked_at": "2026-09-23T15:55:33.858551+00:00"
     }
   },
   "items": [
+    {
+      "id": "17b25cb3b687c6568b66",
+      "source": "BBC News",
+      "title": "Watch: How toxic smog from wildfires is making Indonesians sick",
+      "url": "https://www.bbc.co.uk/news/videos/c962j1jgx884o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23T15:46:28+00:00"
+    },
     {
       "id": "aeea1d731a318bd319a2",
       "source": "TGcom24",
@@ -241,13 +248,6 @@
       "title": "Iran: \"Infliggeremo colpi ancora più duri, devastanti e imprevedibili\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-23-settembre_116901431-202602k.shtml",
       "published": "2026-09-23T04:30:00+00:00"
-    },
-    {
-      "id": "a6135943ea0eae8517e4",
-      "source": "BBC News",
-      "title": "More than 170,000 respiratory cases recorded in haze-choked Indonesia",
-      "url": "https://www.bbc.co.uk/news/articles/cq62j13gnyrko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-23T04:20:12+00:00"
     },
     {
       "id": "47b52c6a51808f7ec786",
