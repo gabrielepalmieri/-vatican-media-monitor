@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-09-24T15:55:46.937665+00:00",
+  "updated_at": "2026-09-24T16:07:40.306292+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-24T15:55:46.937665+00:00"
+      "checked_at": "2026-09-24T16:07:40.306292+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-24T15:55:46.937665+00:00"
+      "checked_at": "2026-09-24T16:07:40.306292+00:00"
     }
   },
   "items": [
+    {
+      "id": "c53bff8c5a16836912a0",
+      "source": "BBC News",
+      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+      "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-24T16:00:29+00:00"
+    },
+    {
+      "id": "93cccee775330c84d272",
+      "source": "TGcom24",
+      "title": "Abu Mazen all'Onu: \"Vogliamo uno Stato non militarizzato e in pace con Israele\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/onu-assemblea-generale-new-york-abbas_116944725-202602k.shtml",
+      "published": "2026-09-24T15:57:00+00:00"
+    },
     {
       "id": "41977377ca79b5205742",
       "source": "BBC News",
@@ -73,13 +87,6 @@
       "title": "Irpef, metà degli italiani non versa i contributi",
       "url": "https://www.tgcom24.mediaset.it/economia/irpef-meta-italiani-non-versa-contributi_116939822-202602k.shtml",
       "published": "2026-09-24T12:52:00+00:00"
-    },
-    {
-      "id": "c53bff8c5a16836912a0",
-      "source": "BBC News",
-      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-      "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-24T11:59:23+00:00"
     },
     {
       "id": "a262117e4b558cf96320",
@@ -318,13 +325,6 @@
       "title": "Iran's president tells Trump it will never 'bend the knee'",
       "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-23T18:15:31+00:00"
-    },
-    {
-      "id": "dfa1904c6e7c9555e93d",
-      "source": "TGcom24",
-      "title": "Cisgiordania, ferito figlio dell'ambasciatore israeliano in Usa",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-23-settembre_116901431-202602k.shtml",
-      "published": "2026-09-23T17:55:00+00:00"
     },
     {
       "id": "17b25cb3b687c6568b66",
