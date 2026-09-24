@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-09-24T18:08:36.271535+00:00",
+  "updated_at": "2026-09-24T18:25:01.563192+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-24T18:08:36.271535+00:00"
+      "checked_at": "2026-09-24T18:25:01.563192+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-24T18:08:36.271535+00:00"
+      "checked_at": "2026-09-24T18:25:01.563192+00:00"
     }
   },
   "items": [
+    {
+      "id": "99c150ea9898a03fc7ce",
+      "source": "BBC News",
+      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+      "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-24T18:06:40+00:00"
+    },
     {
       "id": "8de9bd9a66bacd7f33a6",
       "source": "TGcom24",
       "title": "Scomparsa Emanuela Orlandi, c'è una terza indagata",
       "url": "https://www.tgcom24.mediaset.it/cronaca/scomparsa-emanuela-orlandi-indagata-amica-accetti_116949763-202602k.shtml",
       "published": "2026-09-24T17:56:00+00:00"
+    },
+    {
+      "id": "d76436e19e7f18059852",
+      "source": "BBC News",
+      "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-24T17:55:44+00:00"
     },
     {
       "id": "41977377ca79b5205742",
