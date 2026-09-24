@@ -33,6 +33,7 @@ SOCIAL_QUERY = '("Pope Leo XIV" OR Vatican) (site:youtube.com OR site:x.com OR s
 # Feed pubblicati dalle testate: si affiancano alla ricerca, che può omettere
 # articoli recenti. Gli URL restano facoltativi: un errore non blocca il job.
 DIRECT_FEEDS = [
+    ("Italia", "Italiano", "Il Messaggero", "https://www.ilmessaggero.it/XML/?p=feed&sezione=Vaticano"),
     ("Italia", "Italiano", "la Repubblica", "https://www.repubblica.it/rss/homepage/rss2.0.xml"),
     ("Italia", "Italiano", "la Repubblica", "https://www.repubblica.it/rss/esteri/rss2.0.xml"),
     ("Regno Unito", "English", "The Guardian", "https://www.theguardian.com/world/the-papacy/rss"),
@@ -119,10 +120,12 @@ AGENCY_SOURCES = [
 ]
 
 TOPICS = {
+    # Le notizie sugli abusi restano nel tema pertinente anche se citano
+    # il Papa o un viaggio apostolico nello stesso titolo.
+    "Abusi e tutela": ["abuse", "abus", "safeguard", "tutela", "protección", "rupnik"],
     "Papa Leone XIV": ["leo xiv", "leone xiv", "léon xiv", "león xiv"],
     "Pace e diplomazia": ["peace", "pace", "paix", "paz", "krieg", "war", "guerra", "diplom"],
     "Viaggi apostolici": ["travel", "trip", "visit", "voyage", "reise", "viaje", "viaggio"],
-    "Abusi e tutela": ["abuse", "abus", "safeguard", "tutela", "protección"],
     "Finanze": ["finance", "financial", "bank", "ior", "finanz", "econom"],
     "Nomine e Curia": ["appoint", "nomina", "appointment", "curia", "bishop", "vescovo", "évêque"],
     "Ecumenismo e dialogo": ["ecumen", "interfaith", "dialogue", "dialogo", "œcumé"],
@@ -148,7 +151,14 @@ def topic_for(title: str) -> str:
 
 def published(value: str) -> str:
     try:
-        d = parsedate_to_datetime(value)
+        # Alcuni feed italiani usano giorni e mesi abbreviati in italiano;
+        # email.utils accetta invece i nomi inglesi RFC 2822.
+        normalized=re.sub(r"^[a-zà-ÿ]{3},\s*", "", value.casefold())
+        months={"gen":"Jan","feb":"Feb","mar":"Mar","apr":"Apr","mag":"May","giu":"Jun",
+                "lug":"Jul","ago":"Aug","set":"Sep","ott":"Oct","nov":"Nov","dic":"Dec"}
+        normalized=re.sub(r"(?<=\d\s)(gen|feb|mar|apr|mag|giu|lug|ago|set|ott|nov|dic)(?=\s\d)",
+                          lambda match: months[match.group()], normalized)
+        d = parsedate_to_datetime(normalized)
         if d.tzinfo is None: d = d.replace(tzinfo=timezone.utc)
         return d.astimezone(timezone.utc).isoformat()
     except Exception:
@@ -259,6 +269,10 @@ def balanced_selection(items: list[dict]) -> list[dict]:
             if source_matches(item["source"],aliases):
                 add(item,name)
                 if counts.get(name,0)>=5: break
+    # I feed delle redazioni possono contenere articoli pertinenti che Google
+    # News ha omesso: riserva loro posto prima del limite per singola testata.
+    for item in items:
+        if item.get("origin")=="direct": add(item,configured_name(item))
     for item in items:
         if len(selected)>=MAX_ITEMS: break
         try:
@@ -316,6 +330,9 @@ def main() -> None:
             print(f"Archivio precedente non utilizzabile: {exc}")
     unique={}
     for x in items:
+        # L'archivio conserva il tema assegnato in passato: aggiorna anche
+        # questi articoli quando cambiano le regole di classificazione.
+        x["topic"]=topic_for(x["title"])
         key=(re.sub(r"\W+","",x["title"].lower())[:160],x["source"].casefold())
         if key not in unique:
             unique[key]=x
