@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-24T12:43:08.107795+00:00",
+  "updated_at": "2026-09-24T12:58:44.278820+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-24T12:43:08.107795+00:00"
+      "checked_at": "2026-09-24T12:58:44.278820+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-24T12:43:08.107795+00:00"
+      "checked_at": "2026-09-24T12:58:44.278820+00:00"
     }
   },
   "items": [
+    {
+      "id": "4df2a77b2e16894c6974",
+      "source": "TGcom24",
+      "title": "Irpef, metà degli italiani non versa i contributi",
+      "url": "https://www.tgcom24.mediaset.it/economia/irpef-meta-italiani-non-versa-contributi_116939822-202602k.shtml",
+      "published": "2026-09-24T12:52:00+00:00"
+    },
     {
       "id": "c53bff8c5a16836912a0",
       "source": "BBC News",
@@ -311,13 +318,6 @@
       "title": "Watch: How toxic smog from wildfires is making Indonesians sick",
       "url": "https://www.bbc.co.uk/news/videos/c962j1jgx884o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-23T15:46:28+00:00"
-    },
-    {
-      "id": "aeea1d731a318bd319a2",
-      "source": "TGcom24",
-      "title": "Ddl nucleare, Pichetto Fratin: \"Renderà l'Italia un Paese indipendente e sicuro\"",
-      "url": "https://www.tgcom24.mediaset.it/politica/ddl-energia-nucleare-ok-definitivo-senato_116916539-202602k.shtml",
-      "published": "2026-09-23T15:43:00+00:00"
     },
     {
       "id": "bc31a37d30839fe60fe4",
