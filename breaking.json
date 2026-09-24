@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-24T15:39:04.104220+00:00",
+  "updated_at": "2026-09-24T15:49:06.205645+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-24T15:39:04.104220+00:00"
+      "checked_at": "2026-09-24T15:49:06.205645+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-24T15:39:04.104220+00:00"
+      "checked_at": "2026-09-24T15:49:06.205645+00:00"
     }
   },
   "items": [
+    {
+      "id": "6eb640682765806a82eb",
+      "source": "BBC News",
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-24T15:42:07+00:00"
+    },
     {
       "id": "ad24a6bd00aab0c5de7f",
       "source": "BBC News",
@@ -136,13 +143,6 @@
       "title": "Cuneo, la telefonata di Mollo dopo aver ucciso il ladro: \"Mi sono difeso\"",
       "url": "https://www.tgcom24.mediaset.it/2026/video/baldissero-d-alba-la-telefonata-di-roberto-mollo-al-112-dopo-aver-ucciso-il-ladro-c-e-uno-a-terra-mi-sono-difeso-_116929821-02k.shtml",
       "published": "2026-09-24T07:37:00+00:00"
-    },
-    {
-      "id": "6eb640682765806a82eb",
-      "source": "BBC News",
-      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-24T07:10:58+00:00"
     },
     {
       "id": "28fb26fed52c44cc3783",
