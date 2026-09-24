@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-24T09:22:56.970092+00:00",
+  "updated_at": "2026-09-24T09:33:57.688190+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-24T09:22:56.970092+00:00"
+      "checked_at": "2026-09-24T09:33:57.688190+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-24T09:22:56.970092+00:00"
+      "checked_at": "2026-09-24T09:33:57.688190+00:00"
     }
   },
   "items": [
+    {
+      "id": "3b26d1a2fbb255234bcd",
+      "source": "BBC News",
+      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-24T09:28:33+00:00"
+    },
     {
       "id": "f077ac43cfb923b5cdc8",
       "source": "TGcom24",
@@ -80,13 +87,6 @@
       "title": "Cia, media: \"Possibili attacchi con droni russi in Italia, Francia e Spagna\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/russia-droni-cia-italia-francia-spagna_116925722-202602k.shtml",
       "published": "2026-09-24T04:40:00+00:00"
-    },
-    {
-      "id": "3b26d1a2fbb255234bcd",
-      "source": "BBC News",
-      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-24T04:37:47+00:00"
     },
     {
       "id": "fb17d2db12f089e91c96",
