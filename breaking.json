@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-24T19:55:03.496903+00:00",
+  "updated_at": "2026-09-24T20:08:00.826440+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-24T19:55:03.496903+00:00"
+      "checked_at": "2026-09-24T20:08:00.826440+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-24T19:55:03.496903+00:00"
+      "checked_at": "2026-09-24T20:08:00.826440+00:00"
     }
   },
   "items": [
+    {
+      "id": "4bd2827768d7449f6ede",
+      "source": "TGcom24",
+      "title": "Operaio morto al Colosseo, sette indagati per omicidio colposo",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/operaio-morto-colosseo-sette-indagati_116951977-202602k.shtml",
+      "published": "2026-09-24T19:58:00+00:00"
+    },
     {
       "id": "af093473850a7f2cee0b",
       "source": "BBC News",
@@ -290,13 +297,6 @@
       "title": "Cia, media: \"Possibili attacchi con droni russi in Italia, Francia e Spagna\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/russia-droni-cia-italia-francia-spagna_116925722-202602k.shtml",
       "published": "2026-09-24T04:40:00+00:00"
-    },
-    {
-      "id": "fb17d2db12f089e91c96",
-      "source": "TGcom24",
-      "title": "Ucraina, Tajani al Consiglio di Sicurezza dell'Onu: \"Serve cessate il fuoco immediato\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-tajani-consiglio-sicurezza-onu-kiev-russia_116925538-202602k.shtml",
-      "published": "2026-09-24T04:00:00+00:00"
     },
     {
       "id": "a9d744304da4b735272d",
