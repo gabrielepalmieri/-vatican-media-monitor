@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-24T23:19:46.581948+00:00",
+  "updated_at": "2026-09-24T23:29:13.183362+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-09-24T23:19:46.581948+00:00"
+      "checked_at": "2026-09-24T23:29:13.183362+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-24T23:19:46.581948+00:00"
+      "checked_at": "2026-09-24T23:29:13.183362+00:00"
     }
   },
   "items": [
+    {
+      "id": "60ef02f722a0be7780e0",
+      "source": "BBC News",
+      "title": "Hundreds of thousands expected in Paris for Pope's visit",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-24T23:17:00+00:00"
+    },
     {
       "id": "c6ee5f76fbbaa46517b0",
       "source": "BBC News",
