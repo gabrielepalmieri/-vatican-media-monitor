@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-24T06:54:14.080750+00:00",
+  "updated_at": "2026-09-24T07:07:50.408555+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-24T06:54:14.080750+00:00"
+      "checked_at": "2026-09-24T07:07:50.408555+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-24T06:54:14.080750+00:00"
+      "checked_at": "2026-09-24T07:07:50.408555+00:00"
     }
   },
   "items": [
+    {
+      "id": "28fb26fed52c44cc3783",
+      "source": "TGcom24",
+      "title": "Morte avvelenate da ricina, al vaglio pc e pen drive di Gianni Di Vita",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/pietracatella-ricina-analisi-pc-gianni-di-vita_116927318-202602k.shtml",
+      "published": "2026-09-24T07:02:00+00:00"
+    },
     {
       "id": "7030e6f8ef6cc98436e7",
       "source": "TGcom24",
@@ -77,7 +84,7 @@
     {
       "id": "7a0d9b3f2dec11db551c",
       "source": "BBC News",
-      "title": "Residents eating garden weeds in Russian-occupied city cut off from food and water",
+      "title": "Eating garden weeds to survive in Russian-occupied city cut off from food and water",
       "url": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-23T23:58:50+00:00"
     },
@@ -318,13 +325,6 @@
       "title": "Watch: Trump and Xi are meeting on US soil - what's at stake?",
       "url": "https://www.bbc.co.uk/news/videos/c38xk275jd21o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-23T11:00:09+00:00"
-    },
-    {
-      "id": "d32715ca19c5a72b3733",
-      "source": "TGcom24",
-      "title": "Ladro ucciso nel Cuneese, la vedova: \"Non esistono persone buone e cattive\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/cuneo-ladro-ucciso-gjovalin-lazri-roberto-mollo_116909675-202602k.shtml",
-      "published": "2026-09-23T10:56:00+00:00"
     },
     {
       "id": "264767b81d8fe1efa091",
