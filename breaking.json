@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-24T12:58:44.278820+00:00",
+  "updated_at": "2026-09-24T13:09:25.928972+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-24T12:58:44.278820+00:00"
+      "checked_at": "2026-09-24T13:09:25.928972+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-24T12:58:44.278820+00:00"
+      "checked_at": "2026-09-24T13:09:25.928972+00:00"
     }
   },
   "items": [
+    {
+      "id": "123765544be40288d69f",
+      "source": "BBC News",
+      "title": "Judge temporarily overturns Trump's White House media ban",
+      "url": "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-24T13:08:29+00:00"
+    },
     {
       "id": "4df2a77b2e16894c6974",
       "source": "TGcom24",
@@ -38,13 +45,6 @@
       "title": "Salerno, ragazza 20enne accoltellata alle spalle da uno sconosciuto",
       "url": "https://www.tgcom24.mediaset.it/cronaca/salerno-accoltellamento-grave-20enne_116935615-202602k.shtml",
       "published": "2026-09-24T11:05:00+00:00"
-    },
-    {
-      "id": "123765544be40288d69f",
-      "source": "BBC News",
-      "title": "Judge temporarily overturns Trump's White House media ban",
-      "url": "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-24T10:29:35+00:00"
     },
     {
       "id": "07f55feaf711a6b51814",
