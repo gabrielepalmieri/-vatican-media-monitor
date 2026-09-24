@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-24T14:40:48.614074+00:00",
+  "updated_at": "2026-09-24T14:52:24.408384+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-24T14:40:48.614074+00:00"
+      "checked_at": "2026-09-24T14:52:24.408384+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-24T14:40:48.614074+00:00"
+      "checked_at": "2026-09-24T14:52:24.408384+00:00"
     }
   },
   "items": [
+    {
+      "id": "8d33c1308d39dd27b27e",
+      "source": "BBC News",
+      "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
+      "url": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-24T14:37:34+00:00"
+    },
     {
       "id": "e3ffaca171b49d68c437",
       "source": "TGcom24",
@@ -19,18 +26,25 @@
       "published": "2026-09-24T14:26:00+00:00"
     },
     {
+      "id": "41977377ca79b5205742",
+      "source": "BBC News",
+      "title": "Some reporters denied White House access despite judge overturning Trump media ban",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-24T14:21:41+00:00"
+    },
+    {
+      "id": "0457d6ed985b1b548aa9",
+      "source": "BBC News",
+      "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+      "url": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-24T14:08:38+00:00"
+    },
+    {
       "id": "7560c827949ef7f54727",
       "source": "TGcom24",
       "title": "Arrestato Riccardo Bossi, deve scontare 5 anni e 9 mesi",
       "url": "https://www.tgcom24.mediaset.it/cronaca/riccardo-bossi-arrestato_116942159-202602k.shtml",
       "published": "2026-09-24T13:55:00+00:00"
-    },
-    {
-      "id": "123765544be40288d69f",
-      "source": "BBC News",
-      "title": "Judge temporarily overturns Trump's White House media ban",
-      "url": "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-24T13:08:29+00:00"
     },
     {
       "id": "4df2a77b2e16894c6974",
@@ -325,13 +339,6 @@
       "title": "Poland accuses Russian military helicopter of violating its airspace",
       "url": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-23T15:37:20+00:00"
-    },
-    {
-      "id": "e9f513a378f7c4a33294",
-      "source": "BBC News",
-      "title": "Eleven killed in mass shooting at house in South Africa",
-      "url": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-23T14:02:55+00:00"
     },
     {
       "id": "c42f59935cb1f91b1a3d",
