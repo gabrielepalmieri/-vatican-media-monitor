@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-24T16:23:07.761480+00:00",
+  "updated_at": "2026-09-24T16:34:38.983047+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-24T16:23:07.761480+00:00"
+      "checked_at": "2026-09-24T16:34:38.983047+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-24T16:23:07.761480+00:00"
+      "checked_at": "2026-09-24T16:34:38.983047+00:00"
     }
   },
   "items": [
+    {
+      "id": "41977377ca79b5205742",
+      "source": "BBC News",
+      "title": "White House restores access to media outlets banned by Trump after judge's order",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-24T16:29:17+00:00"
+    },
     {
       "id": "c53bff8c5a16836912a0",
       "source": "BBC News",
@@ -24,13 +31,6 @@
       "title": "Abu Mazen all'Onu: \"Vogliamo uno Stato non militarizzato e in pace con Israele\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/onu-assemblea-generale-new-york-abbas_116944725-202602k.shtml",
       "published": "2026-09-24T15:57:00+00:00"
-    },
-    {
-      "id": "41977377ca79b5205742",
-      "source": "BBC News",
-      "title": "White House 'repeatedly violated' court order to restore press access, say media outlets",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-24T15:53:06+00:00"
     },
     {
       "id": "6eb640682765806a82eb",
