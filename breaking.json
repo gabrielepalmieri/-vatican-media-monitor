@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-09-24T09:07:48.377047+00:00",
+  "updated_at": "2026-09-24T09:22:56.970092+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-24T09:07:48.377047+00:00"
+      "checked_at": "2026-09-24T09:22:56.970092+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-24T09:07:48.377047+00:00"
+      "checked_at": "2026-09-24T09:22:56.970092+00:00"
     }
   },
   "items": [
+    {
+      "id": "f077ac43cfb923b5cdc8",
+      "source": "TGcom24",
+      "title": "Bce, con le guerre inflazione ben sopra il 2% fino a metà 2027",
+      "url": "https://www.tgcom24.mediaset.it/economia/bce-guerra-inflazione-salari_116932696-202602k.shtml",
+      "published": "2026-09-24T09:20:00+00:00"
+    },
     {
       "id": "e93d0e00fd75f4732b71",
       "source": "TGcom24",
       "title": "Padova, precipita in un vano ascensore di un cantiere: muore operaio di 51 anni",
       "url": "https://www.tgcom24.mediaset.it/cronaca/padova-precipita-vano-ascensore-cantiere-muore-operaio-di-51-anni_116932701-202602k.shtml",
       "published": "2026-09-24T09:02:00+00:00"
-    },
-    {
-      "id": "6309ce89ab3c870a2379",
-      "source": "TGcom24",
-      "title": "Bce, con le guerre inflazione ben sopra il 2% fino a metà 2027",
-      "url": "https://www.tgcom24.mediaset.it/economia/bce-guerra-inflazione-salari_116932696-202602k.shtml",
-      "published": "2026-09-24T09:00:00+00:00"
     },
     {
       "id": "fe992aa8da01b1c93cd9",
@@ -96,6 +96,13 @@
       "published": "2026-09-24T04:00:00+00:00"
     },
     {
+      "id": "0f9ef012d45e0d77ebed",
+      "source": "BBC News",
+      "title": "Trump offers warm welcome as China's Xi arrives for US visit",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-24T03:52:21+00:00"
+    },
+    {
       "id": "a9d744304da4b735272d",
       "source": "BBC News",
       "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
@@ -147,7 +154,7 @@
     {
       "id": "3e0974bf5c6fb3fea026",
       "source": "BBC News",
-      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+      "title": "Trump and Xi come face-to-face as US and China jostle for dominance over AI",
       "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-23T22:01:17+00:00"
     },
