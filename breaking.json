@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-24T19:07:57.945402+00:00",
+  "updated_at": "2026-09-24T19:19:55.686951+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-24T19:07:57.945402+00:00"
+      "checked_at": "2026-09-24T19:19:55.686951+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-24T19:07:57.945402+00:00"
+      "checked_at": "2026-09-24T19:19:55.686951+00:00"
     }
   },
   "items": [
+    {
+      "id": "5dafbba51630478706d8",
+      "source": "BBC News",
+      "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
+      "url": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-24T19:02:36+00:00"
+    },
     {
       "id": "e13e4697a3b2f337a348",
       "source": "TGcom24",
@@ -24,6 +31,13 @@
       "title": "Netanyahu all'Onu, decine di delegati abbandonano l'aula, lui: \"Codardi\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/netanyahu-onu-assemblea-generale-delegati-escono_116944725-202602k.shtml",
       "published": "2026-09-24T18:33:00+00:00"
+    },
+    {
+      "id": "e392ab65d14aa37668e0",
+      "source": "BBC News",
+      "title": "Watch: UN delegates walk out of Netanyahu speech",
+      "url": "https://www.bbc.co.uk/news/videos/cqwyzmpm3pgdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-24T18:29:29+00:00"
     },
     {
       "id": "99c150ea9898a03fc7ce",
