@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-09-24T08:58:08.789560+00:00",
+  "updated_at": "2026-09-24T09:07:48.377047+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-24T08:58:08.789560+00:00"
+      "checked_at": "2026-09-24T09:07:48.377047+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-24T08:58:08.789560+00:00"
+      "checked_at": "2026-09-24T09:07:48.377047+00:00"
     }
   },
   "items": [
+    {
+      "id": "e93d0e00fd75f4732b71",
+      "source": "TGcom24",
+      "title": "Padova, precipita in un vano ascensore di un cantiere: muore operaio di 51 anni",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/padova-precipita-vano-ascensore-cantiere-muore-operaio-di-51-anni_116932701-202602k.shtml",
+      "published": "2026-09-24T09:02:00+00:00"
+    },
+    {
+      "id": "6309ce89ab3c870a2379",
+      "source": "TGcom24",
+      "title": "Bce, con le guerre inflazione ben sopra il 2% fino a metà 2027",
+      "url": "https://www.tgcom24.mediaset.it/economia/bce-guerra-inflazione-salari_116932696-202602k.shtml",
+      "published": "2026-09-24T09:00:00+00:00"
+    },
     {
       "id": "fe992aa8da01b1c93cd9",
       "source": "TGcom24",
@@ -292,25 +306,11 @@
       "published": "2026-09-23T13:44:00+00:00"
     },
     {
-      "id": "7aebef09bbad816e7086",
-      "source": "TGcom24",
-      "title": "Ragazza uccisa, mutilata e nascosta in auto in Francia: arrestato l'ex",
-      "url": "https://www.tgcom24.mediaset.it/mondo/uccisa-mutilata-francia-nizza_116911010-202602k.shtml",
-      "published": "2026-09-23T13:16:00+00:00"
-    },
-    {
       "id": "c42f59935cb1f91b1a3d",
       "source": "BBC News",
       "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
       "url": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-23T12:31:31+00:00"
-    },
-    {
-      "id": "330d34855474b73b4ba1",
-      "source": "TGcom24",
-      "title": "Oscar 2027, Il film \"L'Estranea\" di Paolo Strippoli rappresenterà l'Italia",
-      "url": "https://www.tgcom24.mediaset.it/spettacolo/estranea-paolo-strippoli-film-italia-oscar-2027_116910415-202602k.shtml",
-      "published": "2026-09-23T12:25:00+00:00"
     },
     {
       "id": "f7f1338fd4d1a2696d21",
@@ -332,13 +332,6 @@
       "title": "Reports of violence against women in Gaza surge, UN agency finds",
       "url": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-23T05:02:26+00:00"
-    },
-    {
-      "id": "9d312fbcae878947411a",
-      "source": "BBC News",
-      "title": "How Ceuta, football and Israel are shaping Morocco's election",
-      "url": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-22T20:59:00+00:00"
     }
   ]
 }
