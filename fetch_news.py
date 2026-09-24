@@ -27,6 +27,8 @@ QUERIES = [
     '"Pope Leo XIV" OR "Papa Leone XIV" OR "Pape Léon XIV" OR "Papst Leo XIV" OR "Papa León XIV"',
     'Vatican OR "Holy See" OR Vaticano OR "Santa Sede" OR "Saint-Siège" OR Vatikan',
     '(Pope OR Vatican OR "Holy See") (peace OR war OR diplomacy OR migrants OR ecumenism OR abuse OR abuses OR safeguarding OR "sexual abuse" OR "child abuse" OR "protection of minors" OR finance)',
+    # Cerca il caso e le denunce anche quando il titolo omette Papa e Vaticano.
+    'Rupnik OR "abusi nella Chiesa" OR "Catholic Church abuse" OR "abusos en la Iglesia" OR "abus dans l’Église"',
 ]
 SOCIAL_QUERY = '("Pope Leo XIV" OR Vatican) (site:youtube.com OR site:x.com OR site:reddit.com OR site:tiktok.com OR site:instagram.com)'
 
