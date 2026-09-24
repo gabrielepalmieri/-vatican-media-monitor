@@ -282,7 +282,7 @@ def cluster(items: list[dict]) -> None:
         else:
             groups.append({"words":words,"items":[x]})
     for group in groups:
-        sources=sorted({x["source"] for x in group["items"]})
+        sources=sorted({"la Repubblica" if x["source"].casefold() in {"la repubblica", "repubblica.it"} else x["source"] for x in group["items"]})
         cluster_id=min(x["id"] for x in group["items"])
         for x in group["items"]:
             x["cluster_id"]=cluster_id
