@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-24T13:58:43.433357+00:00",
+  "updated_at": "2026-09-24T14:08:48.456735+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-24T13:58:43.433357+00:00"
+      "checked_at": "2026-09-24T14:08:48.456735+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-24T13:58:43.433357+00:00"
+      "checked_at": "2026-09-24T14:08:48.456735+00:00"
     }
   },
   "items": [
+    {
+      "id": "7560c827949ef7f54727",
+      "source": "TGcom24",
+      "title": "Arrestato Riccardo Bossi, deve scontare 5 anni e 9 mesi",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/riccardo-bossi-arrestato_116942159-202602k.shtml",
+      "published": "2026-09-24T13:55:00+00:00"
+    },
     {
       "id": "123765544be40288d69f",
       "source": "BBC News",
@@ -304,13 +311,6 @@
       "title": "Board of Peace, presentato il piano da 2,45 miliardi di dollari per Gaza",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-23-settembre_116901431-202602k.shtml",
       "published": "2026-09-23T17:00:00+00:00"
-    },
-    {
-      "id": "349fcc2ad5a8f3bc3045",
-      "source": "TGcom24",
-      "title": "Me Too, nuova condanna per Weinstein: 15 anni per un'aggressione sessuale del 2006",
-      "url": "https://www.tgcom24.mediaset.it/mondo/new-york-condannato-weinstein-aggressione-sessuale-me-too_116919710-202602k.shtml",
-      "published": "2026-09-23T16:25:00+00:00"
     },
     {
       "id": "17b25cb3b687c6568b66",
