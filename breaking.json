@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-09-24T04:33:05.821870+00:00",
+  "updated_at": "2026-09-24T04:44:30.047423+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-24T04:33:05.821870+00:00"
+      "checked_at": "2026-09-24T04:44:30.047423+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-24T04:33:05.821870+00:00"
+      "checked_at": "2026-09-24T04:44:30.047423+00:00"
     }
   },
   "items": [
+    {
+      "id": "05ef45125067acfdba67",
+      "source": "TGcom24",
+      "title": "Cia, media: \"Possibili attacchi con droni russi in Italia, Francia e Spagna\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/russia-droni-cia-italia-francia-spagna_116925722-202602k.shtml",
+      "published": "2026-09-24T04:40:00+00:00"
+    },
+    {
+      "id": "3b26d1a2fbb255234bcd",
+      "source": "BBC News",
+      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-24T04:37:47+00:00"
+    },
     {
       "id": "fb17d2db12f089e91c96",
       "source": "TGcom24",
@@ -187,13 +201,6 @@
       "published": "2026-09-23T17:00:00+00:00"
     },
     {
-      "id": "3b26d1a2fbb255234bcd",
-      "source": "BBC News",
-      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-23T16:53:37+00:00"
-    },
-    {
       "id": "349fcc2ad5a8f3bc3045",
       "source": "TGcom24",
       "title": "Me Too, nuova condanna per Weinstein: 15 anni per un'aggressione sessuale del 2006",
@@ -318,13 +325,6 @@
       "title": "Migranti, Leone XIV: \"Tutti siano coinvolti nella tutela dei minori\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/migranti-leone-xiv-tutti-siano-coinvolti-nella-tutela-dei-minori-_116907653-202602k.shtml",
       "published": "2026-09-23T09:16:00+00:00"
-    },
-    {
-      "id": "d4ac71782fb6b8bb9a99",
-      "source": "TGcom24",
-      "title": "Ucraina, raid russo su Kiev: sospeso il servizio ferroviario della città",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-23-settembre_116905315-202602k.shtml",
-      "published": "2026-09-23T08:25:00+00:00"
     },
     {
       "id": "264767b81d8fe1efa091",
