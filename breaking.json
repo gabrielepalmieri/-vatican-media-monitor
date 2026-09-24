@@ -1,22 +1,43 @@
 {
-  "updated_at": "2026-09-24T11:42:43.875826+00:00",
+  "updated_at": "2026-09-24T11:51:05.976190+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-24T11:42:43.875826+00:00"
+      "checked_at": "2026-09-24T11:51:05.976190+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-24T11:42:43.875826+00:00"
+      "checked_at": "2026-09-24T11:51:05.976190+00:00"
     }
   },
   "items": [
+    {
+      "id": "a262117e4b558cf96320",
+      "source": "TGcom24",
+      "title": "Ambiente, Mattarella: \"Senza biodiversità l'uomo può distruggersi\"",
+      "url": "https://www.tgcom24.mediaset.it/politica/sergio-mattarella-biodiversita_116937132-202602k.shtml",
+      "published": "2026-09-24T11:45:00+00:00"
+    },
+    {
+      "id": "c53bff8c5a16836912a0",
+      "source": "BBC News",
+      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+      "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-24T11:16:29+00:00"
+    },
     {
       "id": "170c82ebfcec0d757d1d",
       "source": "TGcom24",
       "title": "Salerno, ragazza 20enne accoltellata alle spalle da uno sconosciuto",
       "url": "https://www.tgcom24.mediaset.it/cronaca/salerno-accoltellamento-grave-20enne_116935615-202602k.shtml",
       "published": "2026-09-24T11:05:00+00:00"
+    },
+    {
+      "id": "123765544be40288d69f",
+      "source": "BBC News",
+      "title": "Judge temporarily overturns Trump's White House media ban",
+      "url": "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-24T10:29:35+00:00"
     },
     {
       "id": "07f55feaf711a6b51814",
@@ -61,6 +82,13 @@
       "published": "2026-09-24T08:33:00+00:00"
     },
     {
+      "id": "3736c639f65598ef475c",
+      "source": "BBC News",
+      "title": "Why India's Election Commission is in the eye of a storm - again",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-24T08:26:19+00:00"
+    },
+    {
       "id": "4c6cce0634f0de23369c",
       "source": "TGcom24",
       "title": "Cuneo, la telefonata di Mollo dopo aver ucciso il ladro: \"Mi sono difeso\"",
@@ -80,6 +108,13 @@
       "title": "Morte avvelenate da ricina, al vaglio pc e pen drive di Gianni Di Vita",
       "url": "https://www.tgcom24.mediaset.it/cronaca/pietracatella-ricina-analisi-pc-gianni-di-vita_116927318-202602k.shtml",
       "published": "2026-09-24T07:02:00+00:00"
+    },
+    {
+      "id": "2659c92203c29b30dfe3",
+      "source": "BBC News",
+      "title": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-24T06:47:12+00:00"
     },
     {
       "id": "7030e6f8ef6cc98436e7",
@@ -297,13 +332,6 @@
       "title": "Poland accuses Russian military helicopter of violating its airspace",
       "url": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-23T15:37:20+00:00"
-    },
-    {
-      "id": "8f7cb3a8ef6d0ac91e75",
-      "source": "TGcom24",
-      "title": "Ddl nucleare: ok definitivo dell'aula del Senato",
-      "url": "https://www.tgcom24.mediaset.it/politica/ddl-nucleare-ok-definitivo-dell-aula-del-senato_116916539-202602k.shtml",
-      "published": "2026-09-23T15:15:00+00:00"
     },
     {
       "id": "e9f513a378f7c4a33294",
