@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-24T15:00:24.163383+00:00",
+  "updated_at": "2026-09-24T15:12:41.459992+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-24T15:00:24.163383+00:00"
+      "checked_at": "2026-09-24T15:12:41.459992+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-24T15:00:24.163383+00:00"
+      "checked_at": "2026-09-24T15:12:41.459992+00:00"
     }
   },
   "items": [
+    {
+      "id": "82e46418adff0cae7f9a",
+      "source": "TGcom24",
+      "title": "Melania Trump: \"Ho avuto una bellissima infanzia sotto il comunismo\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/melania-trump-infanzia-comunismo_116942857-202602k.shtml",
+      "published": "2026-09-24T15:05:00+00:00"
+    },
     {
       "id": "41977377ca79b5205742",
       "source": "BBC News",
@@ -318,13 +325,6 @@
       "title": "Cisgiordania, ferito figlio dell'ambasciatore israeliano in Usa",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-23-settembre_116901431-202602k.shtml",
       "published": "2026-09-23T17:55:00+00:00"
-    },
-    {
-      "id": "07b61a5b8233429d6670",
-      "source": "TGcom24",
-      "title": "Guerra Russia-Ucraina, Lavrov: \"Pronti ai negoziati, ma senza sospendere ostilità\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-23-settembre_116905315-202602k.shtml",
-      "published": "2026-09-23T17:24:00+00:00"
     },
     {
       "id": "17b25cb3b687c6568b66",
