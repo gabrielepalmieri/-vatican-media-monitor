@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-24T11:06:51.292171+00:00",
+  "updated_at": "2026-09-24T11:21:26.587912+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-24T11:06:51.292171+00:00"
+      "checked_at": "2026-09-24T11:21:26.587912+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-24T11:06:51.292171+00:00"
+      "checked_at": "2026-09-24T11:21:26.587912+00:00"
     }
   },
   "items": [
+    {
+      "id": "170c82ebfcec0d757d1d",
+      "source": "TGcom24",
+      "title": "Salerno, ragazza 20enne accoltellata alle spalle da uno sconosciuto",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/salerno-accoltellamento-grave-20enne_116935615-202602k.shtml",
+      "published": "2026-09-24T11:05:00+00:00"
+    },
     {
       "id": "07f55feaf711a6b51814",
       "source": "BBC News",
@@ -297,13 +304,6 @@
       "title": "Ddl nucleare: ok definitivo dell'aula del Senato",
       "url": "https://www.tgcom24.mediaset.it/politica/ddl-nucleare-ok-definitivo-dell-aula-del-senato_116916539-202602k.shtml",
       "published": "2026-09-23T15:15:00+00:00"
-    },
-    {
-      "id": "d70a22176d217feed3d9",
-      "source": "TGcom24",
-      "title": "Iran, Pezeshkian: \"Gli Usa ci descrivono come terroristi ma siamo vittime\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-23-settembre_116901431-202602k.shtml",
-      "published": "2026-09-23T14:49:00+00:00"
     },
     {
       "id": "e9f513a378f7c4a33294",
