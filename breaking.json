@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-25T16:51:20.179071+00:00",
+  "updated_at": "2026-09-25T16:57:58.593161+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-25T16:51:20.179071+00:00"
+      "checked_at": "2026-09-25T16:57:58.593161+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-25T16:51:20.179071+00:00"
+      "checked_at": "2026-09-25T16:57:58.593161+00:00"
     }
   },
   "items": [
+    {
+      "id": "f538a0e4113e62a4a6f3",
+      "source": "TGcom24",
+      "title": "Ia, l'allarme di Bill Gates: \"Può determinare eventi con un miliardo di morti\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/bill-gates-allarme-ia-miliardo-morti_116981628-202602k.shtml",
+      "published": "2026-09-25T16:55:00+00:00"
+    },
     {
       "id": "a38160487f2fe3b21075",
       "source": "BBC News",
@@ -297,13 +304,6 @@
       "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
       "url": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-24T19:32:59+00:00"
-    },
-    {
-      "id": "f2968adde73e75a82f74",
-      "source": "TGcom24",
-      "title": "Netanyahu all'Onu mostra un cercapersone: \"Hezbollah se lo ricorda bene\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/netanyahu-onu-assemblea-generale-delegati-escono_116944725-202602k.shtml",
-      "published": "2026-09-24T19:21:00+00:00"
     },
     {
       "id": "a9a35a602383fc53f642",
