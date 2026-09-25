@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-25T06:58:44.387387+00:00",
+  "updated_at": "2026-09-25T07:09:23.275679+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-25T06:58:44.387387+00:00"
+      "checked_at": "2026-09-25T07:09:23.275679+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-25T06:58:44.387387+00:00"
+      "checked_at": "2026-09-25T07:09:23.275679+00:00"
     }
   },
   "items": [
+    {
+      "id": "6a426b9e6608deebc06c",
+      "source": "TGcom24",
+      "title": "Lucca, incendio in un appartamento: due morti e 13 feriti",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/lucca-incendio-appartamento-due-morti_116958413-202602k.shtml",
+      "published": "2026-09-25T07:00:00+00:00"
+    },
     {
       "id": "a2a18e5ce76edc3425d7",
       "source": "BBC News",
@@ -325,13 +332,6 @@
       "title": "Droni russi in Italia, Crosetto: \"Nessuna conferma, basta benzina sul fuoco\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/russia-droni-cia-italia-francia-spagna_116925722-202602k.shtml",
       "published": "2026-09-24T10:09:00+00:00"
-    },
-    {
-      "id": "f077ac43cfb923b5cdc8",
-      "source": "TGcom24",
-      "title": "Bce, con le guerre inflazione ben sopra il 2% fino a metà 2027",
-      "url": "https://www.tgcom24.mediaset.it/economia/bce-guerra-inflazione-salari_116932696-202602k.shtml",
-      "published": "2026-09-24T09:20:00+00:00"
     },
     {
       "id": "3736c639f65598ef475c",
