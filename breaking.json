@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-25T13:23:32.173364+00:00",
+  "updated_at": "2026-09-25T13:39:13.994613+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-25T13:23:32.173364+00:00"
+      "checked_at": "2026-09-25T13:39:13.994613+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-25T13:23:32.173364+00:00"
+      "checked_at": "2026-09-25T13:39:13.994613+00:00"
     }
   },
   "items": [
+    {
+      "id": "8bca9fa6225a96b61429",
+      "source": "BBC News",
+      "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
+      "url": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T13:28:35+00:00"
+    },
     {
       "id": "dc7fd32315b7a49b82a4",
       "source": "TGcom24",
@@ -24,13 +31,6 @@
       "title": "Pope warns against 'losing humanity' to AI machines",
       "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-25T12:44:08+00:00"
-    },
-    {
-      "id": "8bca9fa6225a96b61429",
-      "source": "BBC News",
-      "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
-      "url": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T12:34:31+00:00"
     },
     {
       "id": "b781fb7dc15705ac643a",
