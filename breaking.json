@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-25T11:44:02.658993+00:00",
+  "updated_at": "2026-09-25T11:55:43.721681+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-25T11:44:02.658993+00:00"
+      "checked_at": "2026-09-25T11:55:43.721681+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-25T11:44:02.658993+00:00"
+      "checked_at": "2026-09-25T11:55:43.721681+00:00"
     }
   },
   "items": [
+    {
+      "id": "c6ee5f76fbbaa46517b0",
+      "source": "BBC News",
+      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+      "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T11:44:44+00:00"
+    },
     {
       "id": "999d8f2c78f4c85d5a4e",
       "source": "TGcom24",
@@ -157,13 +164,6 @@
       "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
       "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-25T01:10:35+00:00"
-    },
-    {
-      "id": "c6ee5f76fbbaa46517b0",
-      "source": "BBC News",
-      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-      "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T00:44:04+00:00"
     },
     {
       "id": "1f1b1fd1e147d378b5ea",
