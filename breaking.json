@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-25T19:28:18.544350+00:00",
+  "updated_at": "2026-09-25T19:36:34.570801+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-25T19:28:18.544350+00:00"
+      "checked_at": "2026-09-25T19:36:34.570801+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-25T19:28:18.544350+00:00"
+      "checked_at": "2026-09-25T19:36:34.570801+00:00"
     }
   },
   "items": [
@@ -33,11 +33,25 @@
       "published": "2026-09-25T18:36:30+00:00"
     },
     {
+      "id": "7985226cc79a463d3d28",
+      "source": "BBC News",
+      "title": "Trump's plans for massive arch move ahead",
+      "url": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T18:27:46+00:00"
+    },
+    {
       "id": "88ea114f071e3a9a8a49",
       "source": "TGcom24",
       "title": "Pacchi extra-Ue, fissata a 2 euro la commissione di gestione",
       "url": "https://www.tgcom24.mediaset.it/economia/pacchi-extra-ue-fissata-a-2-euro-la-commissione-di-gestione_116983464-202602k.shtml",
       "published": "2026-09-25T18:15:00+00:00"
+    },
+    {
+      "id": "fd440143de95ca799e25",
+      "source": "BBC News",
+      "title": "Zelensky says Russia has widened attacks to hit Ukraine's data centres",
+      "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T18:02:55+00:00"
     },
     {
       "id": "859234decc520ea51b10",
