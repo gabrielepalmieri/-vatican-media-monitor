@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-25T11:06:59.161208+00:00",
+  "updated_at": "2026-09-25T11:21:24.232255+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-25T11:06:59.161208+00:00"
+      "checked_at": "2026-09-25T11:21:24.232255+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-25T11:06:59.161208+00:00"
+      "checked_at": "2026-09-25T11:21:24.232255+00:00"
     }
   },
   "items": [
+    {
+      "id": "999d8f2c78f4c85d5a4e",
+      "source": "TGcom24",
+      "title": "Da oggi l'aeroporto di Milano Malpensa intitolato a Silvio Berlusconi",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/malpensa-marina-berlusconi-per-scalo-non-c-e-nome-migliore-di-silvio-berlusconi_116967435-202602k.shtml",
+      "published": "2026-09-25T11:11:00+00:00"
+    },
     {
       "id": "a2a18e5ce76edc3425d7",
       "source": "BBC News",
@@ -327,13 +334,6 @@
       "published": "2026-09-24T14:37:34+00:00"
     },
     {
-      "id": "e3ffaca171b49d68c437",
-      "source": "TGcom24",
-      "title": "Neonato morto dopo il parto: 22 sanitari indagati tra Foligno e Perugia",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/foligno-neonato-morto-22-indagati_116941949-202602k.shtml",
-      "published": "2026-09-24T14:26:00+00:00"
-    },
-    {
       "id": "0457d6ed985b1b548aa9",
       "source": "BBC News",
       "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
@@ -374,13 +374,6 @@
       "title": "'Make women feel seen': Why the Dutch have a new word for labia",
       "url": "https://www.bbc.co.uk/news/articles/cn4klprmr0go?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-23T23:42:38+00:00"
-    },
-    {
-      "id": "9cc75af9281e2f2346bf",
-      "source": "BBC News",
-      "title": "Indians are discovering the thrill of shopping without paying",
-      "url": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-23T23:14:10+00:00"
     }
   ]
 }
