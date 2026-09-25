@@ -1,22 +1,29 @@
 {
-  "updated_at": "2026-09-25T20:41:44.139109+00:00",
+  "updated_at": "2026-09-25T20:50:47.271266+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-25T20:41:44.139109+00:00"
+      "checked_at": "2026-09-25T20:50:47.271266+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-25T20:41:44.139109+00:00"
+      "checked_at": "2026-09-25T20:50:47.271266+00:00"
     }
   },
   "items": [
     {
+      "id": "26c68d2b173a6f3c2fed",
+      "source": "TGcom24",
+      "title": "Iran, Araghchi: \"Proposto agli Usa un piano per riaprire Hormuz in sette giorni\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-25-settembre_116955121-202602k.shtml",
+      "published": "2026-09-25T20:50:00+00:00"
+    },
+    {
       "id": "fd440143de95ca799e25",
       "source": "BBC News",
-      "title": "Russia targeting 'ordinary life' with attacks on data centres, Zelensky says",
+      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
       "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T20:07:43+00:00"
+      "published": "2026-09-25T20:47:49+00:00"
     },
     {
       "id": "84adfba31a281df950f5",
@@ -276,20 +283,6 @@
       "title": "Pomp and toasts: Day 2 of Trump and Xi in DC",
       "url": "https://www.bbc.co.uk/news/videos/c9lykxx5zp70o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-25T05:54:07+00:00"
-    },
-    {
-      "id": "7de37432de3dd11fb91b",
-      "source": "TGcom24",
-      "title": "Usa, negato accesso a Cnn e MsNow per arrivo di Xi a cena di stato: stop del pool tv",
-      "url": "https://www.tgcom24.mediaset.it/mondo/trump-xi-incontro-usa-cina-25-settembre_116955331-202602k.shtml",
-      "published": "2026-09-25T05:05:00+00:00"
-    },
-    {
-      "id": "4430a76989839ab30c7e",
-      "source": "TGcom24",
-      "title": "Iran, Pezeshkian: \"Sono gli Usa a dover decidere se porre fine alla guerra\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-25-settembre_116955121-202602k.shtml",
-      "published": "2026-09-25T04:30:00+00:00"
     },
     {
       "id": "314a82857eb5e673120b",
