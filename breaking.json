@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-09-25T18:23:16.470191+00:00",
+  "updated_at": "2026-09-25T18:40:05.213008+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-25T18:23:16.470191+00:00"
+      "checked_at": "2026-09-25T18:40:05.213008+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-25T18:23:16.470191+00:00"
+      "checked_at": "2026-09-25T18:40:05.213008+00:00"
     }
   },
   "items": [
+    {
+      "id": "41977377ca79b5205742",
+      "source": "BBC News",
+      "title": "Media outlets banned by Trump resume White House coverage after judge's order",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T18:36:30+00:00"
+    },
+    {
+      "id": "a38160487f2fe3b21075",
+      "source": "BBC News",
+      "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+      "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T18:29:28+00:00"
+    },
     {
       "id": "88ea114f071e3a9a8a49",
       "source": "TGcom24",
@@ -24,13 +38,6 @@
       "title": "Truffa all'ex presidente di Fideuram, indagato un cittadino israeliano",
       "url": "https://www.tgcom24.mediaset.it/cronaca/fideuram-truffa-whatsapp-intelligenza-artificiale_116960717-202602k.shtml",
       "published": "2026-09-25T17:35:00+00:00"
-    },
-    {
-      "id": "a38160487f2fe3b21075",
-      "source": "BBC News",
-      "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
-      "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T17:32:15+00:00"
     },
     {
       "id": "8bca9fa6225a96b61429",
@@ -269,13 +276,6 @@
       "title": "The world’s two most powerful men just met. How did it go?",
       "url": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-25T01:27:10+00:00"
-    },
-    {
-      "id": "41977377ca79b5205742",
-      "source": "BBC News",
-      "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T01:10:35+00:00"
     },
     {
       "id": "1f1b1fd1e147d378b5ea",
