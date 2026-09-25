@@ -25,7 +25,7 @@
     <div class="status"><span><i class="dot"></i>Aggiornamento automatico</span><span id="lastUpdate">Caricamento…</span></div>
   </div></header>
   <nav class="nav"><div class="wrap">
-    <button class="tab" data-view="top">Top stories</button><button class="tab active" data-view="all">Panoramica</button><button class="tab" data-view="news">Ora per ora</button><button class="tab" data-view="critical">Critiche e controversie</button><button class="tab" data-view="social">Social</button><button class="tab" data-view="trending">Temi in crescita</button><button class="tab" data-view="sources">Copertura fonti</button>
+    <button class="tab active" data-view="top">Top stories</button><button class="tab" data-view="all">Panoramica</button><button class="tab" data-view="news">Ora per ora</button><button class="tab" data-view="critical">Critiche e controversie</button><button class="tab" data-view="social">Social</button><button class="tab" data-view="trending">Temi in crescita</button><button class="tab" data-view="sources">Copertura fonti</button>
   </div></nav>
   <main>
     <div class="print-only print-head"><h1>Vatican Media Monitor</h1><p id="printDate"></p><p id="printFilters"></p></div>
@@ -53,14 +53,14 @@
       <div class="critical-controls"><select id="criticalType" aria-label="Tipo di critica"><option value="">Tutti i segnali</option><option value="explicit">Critica esplicita</option><option value="controversy">Denunce e controversie</option><option value="review">Da verificare</option></select><select id="criticalSource" aria-label="Fonte critica"><option value="">Tutte le fonti</option></select></div>
       <div id="criticalSources" class="critical-sources"></div>
     </section>
-    <div class="section-head"><h2 id="viewTitle">Ultimi aggiornamenti</h2><small id="count"></small></div>
+    <div class="section-head"><h2 id="viewTitle">Top stories</h2><small id="count"></small></div>
     <div id="breakingNote" class="breaking-note" hidden></div>
     <section id="stories" class="story-list"></section>
     <div id="moreResults" class="more-results" hidden><button id="showMore" class="action" type="button">Mostra altri 60</button></div>
     <div class="footer">Le notizie rimandano alle fonti originali. La copertura social è selettiva e riguarda contenuti pubblici indicizzati.</div>
   </main>
   <script>
-    const PAGE_SIZE=60;const S={items:[],view:'all',filtered:[],visibleCount:PAGE_SIZE,trends:new Map(),coverage:[],critical:new Map(),clusters:new Map(),breaking:null,newsVersion:null,updatedAt:null,checkingNews:false}; const $=s=>document.querySelector(s); const esc=s=>String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+    const PAGE_SIZE=60;const S={items:[],view:'top',filtered:[],visibleCount:PAGE_SIZE,trends:new Map(),coverage:[],critical:new Map(),clusters:new Map(),breaking:null,newsVersion:null,updatedAt:null,checkingNews:false}; const $=s=>document.querySelector(s); const esc=s=>String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
     const ago=d=>{const n=(Date.now()-new Date(d))/1000;if(n<3600)return Math.max(1,Math.floor(n/60))+' min fa';if(n<86400)return Math.floor(n/3600)+' h fa';return Math.floor(n/86400)+' g fa'};
     function fill(id,values){const el=$(id),previous=el.value;el.options.length=1;[...new Set(values.filter(Boolean))].sort().forEach(v=>el.insertAdjacentHTML('beforeend',`<option>${esc(v)}</option>`));el.value=[...el.options].some(x=>x.value===previous)?previous:''}
     function selectedTopics(){return new Set([...document.querySelectorAll('#topicOptions input:checked')].map(input=>input.value))}
