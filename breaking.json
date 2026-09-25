@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-25T01:06:49.586980+00:00",
+  "updated_at": "2026-09-25T01:20:00.598955+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-09-25T01:06:49.586980+00:00"
+      "checked_at": "2026-09-25T01:20:00.598955+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-25T01:06:49.586980+00:00"
+      "checked_at": "2026-09-25T01:20:00.598955+00:00"
     }
   },
   "items": [
+    {
+      "id": "41977377ca79b5205742",
+      "source": "BBC News",
+      "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T01:10:35+00:00"
+    },
     {
       "id": "c6ee5f76fbbaa46517b0",
       "source": "BBC News",
@@ -122,13 +129,6 @@
       "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
       "url": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-24T17:55:44+00:00"
-    },
-    {
-      "id": "41977377ca79b5205742",
-      "source": "BBC News",
-      "title": "White House restores access to media outlets banned by Trump after judge's order",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-24T17:49:20+00:00"
     },
     {
       "id": "72f86268eba0f0a55df7",
