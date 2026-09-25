@@ -51,6 +51,8 @@ DIRECT_TERMS = (
 # Testate interrogate anche con ricerche dedicate, per ridurre la dipendenza
 # dall'ordinamento generale di Google News. La dashboard ne mostra l'esito.
 PRIORITY_SOURCES = [
+    ("Italia", "Domani", ["domani", "editorialedomani.it"], "editorialedomani.it"),
+    ("Italia", "Il Tempo", ["il tempo", "iltempo.it"], "iltempo.it"),
     ("Italia", "Corriere della Sera", ["corriere della sera", "corriere.it"], "corriere.it"),
     ("Italia", "la Repubblica", ["la repubblica", "repubblica.it"], "repubblica.it"),
     ("Italia", "La Stampa", ["la stampa", "lastampa.it"], "lastampa.it"),
