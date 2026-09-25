@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-25T09:47:57.424892+00:00",
+  "updated_at": "2026-09-25T09:56:01.708471+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-25T09:47:57.424892+00:00"
+      "checked_at": "2026-09-25T09:56:01.708471+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-25T09:47:57.424892+00:00"
+      "checked_at": "2026-09-25T09:56:01.708471+00:00"
     }
   },
   "items": [
+    {
+      "id": "df41918dde725238b117",
+      "source": "TGcom24",
+      "title": "Zangrillo: \"Prossime elezioni avranno tessere digitali su smartphone\"",
+      "url": "https://www.tgcom24.mediaset.it/politica/elezioni-addio-tessera-elettorale-cartacea_116963194-202602k.shtml",
+      "published": "2026-09-25T09:51:00+00:00"
+    },
     {
       "id": "60ef02f722a0be7780e0",
       "source": "BBC News",
@@ -332,13 +339,6 @@
       "title": "Arrestato Riccardo Bossi, deve scontare 5 anni e 9 mesi",
       "url": "https://www.tgcom24.mediaset.it/cronaca/riccardo-bossi-arrestato_116942159-202602k.shtml",
       "published": "2026-09-24T13:55:00+00:00"
-    },
-    {
-      "id": "4df2a77b2e16894c6974",
-      "source": "TGcom24",
-      "title": "Irpef, metà degli italiani non versa i contributi",
-      "url": "https://www.tgcom24.mediaset.it/economia/irpef-meta-italiani-non-versa-contributi_116939822-202602k.shtml",
-      "published": "2026-09-24T12:52:00+00:00"
     },
     {
       "id": "2659c92203c29b30dfe3",
