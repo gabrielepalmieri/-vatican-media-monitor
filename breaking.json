@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-09-25T09:22:52.713689+00:00",
+  "updated_at": "2026-09-25T09:34:42.801720+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-25T09:22:52.713689+00:00"
+      "checked_at": "2026-09-25T09:34:42.801720+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-25T09:22:52.713689+00:00"
+      "checked_at": "2026-09-25T09:34:42.801720+00:00"
     }
   },
   "items": [
+    {
+      "id": "679c4fc5c61b053a01f7",
+      "source": "BBC News",
+      "title": "Robbie Williams' surprise singalong after Peru gig cancelled",
+      "url": "https://www.bbc.co.uk/news/videos/c3qjkxk58y02o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T09:20:04+00:00"
+    },
+    {
+      "id": "ffe73eb66ecfbaa092ab",
+      "source": "TGcom24",
+      "title": "Ucraina, Zelensky: \"Trump ha dato ok per farci produrre i missili Patriot\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-25-settembre_116955127-202602k.shtml",
+      "published": "2026-09-25T09:20:00+00:00"
+    },
     {
       "id": "60ef02f722a0be7780e0",
       "source": "BBC News",
@@ -327,13 +341,6 @@
       "published": "2026-09-24T12:52:00+00:00"
     },
     {
-      "id": "a262117e4b558cf96320",
-      "source": "TGcom24",
-      "title": "Ambiente, Mattarella: \"Senza biodiversità l'uomo può distruggersi\"",
-      "url": "https://www.tgcom24.mediaset.it/politica/sergio-mattarella-biodiversita_116937132-202602k.shtml",
-      "published": "2026-09-24T11:45:00+00:00"
-    },
-    {
       "id": "2659c92203c29b30dfe3",
       "source": "BBC News",
       "title": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
@@ -388,13 +395,6 @@
       "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
       "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-23T22:01:17+00:00"
-    },
-    {
-      "id": "1333ae110d6401e4c002",
-      "source": "BBC News",
-      "title": "Watch: The arms race in space and how the UK is defending itself",
-      "url": "https://www.bbc.co.uk/news/videos/c34gdygn5lqpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-23T21:29:04+00:00"
     }
   ]
 }
