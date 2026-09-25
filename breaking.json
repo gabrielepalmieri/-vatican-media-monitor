@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-25T21:20:52.298554+00:00",
+  "updated_at": "2026-09-25T21:31:42.552484+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-25T21:20:52.298554+00:00"
+      "checked_at": "2026-09-25T21:31:42.552484+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-25T21:20:52.298554+00:00"
+      "checked_at": "2026-09-25T21:31:42.552484+00:00"
     }
   },
   "items": [
+    {
+      "id": "a637fe9a8b1960dfb3f3",
+      "source": "TGcom24",
+      "title": "Trump ha chiesto a Zelensky di andare a Mosca, Kiev nega",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-25-settembre_116955127-202602k.shtml",
+      "published": "2026-09-25T21:30:00+00:00"
+    },
     {
       "id": "7e0992e207b8653f661b",
       "source": "TGcom24",
@@ -269,13 +276,6 @@
       "title": "Lucca, incendio in un appartamento: due morti e 13 feriti",
       "url": "https://www.tgcom24.mediaset.it/cronaca/lucca-incendio-appartamento-due-morti_116958413-202602k.shtml",
       "published": "2026-09-25T07:00:00+00:00"
-    },
-    {
-      "id": "50a1102cef4de141136e",
-      "source": "TGcom24",
-      "title": "Iran, Araghchi: \"Proposto agli Usa piano da sette giorni per la pace\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-25-settembre_116955121-202602k.shtml",
-      "published": "2026-09-25T06:30:00+00:00"
     },
     {
       "id": "852427d1b2ea6def83b9",
