@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-09-25T03:58:01.594670+00:00",
+  "updated_at": "2026-09-25T04:07:03.476354+00:00",
   "sources": {
     "TGcom24": {
-      "ok": false,
-      "checked_at": "2026-09-25T03:58:01.594670+00:00"
+      "ok": true,
+      "checked_at": "2026-09-25T04:07:03.476354+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-25T03:58:01.594670+00:00"
+      "checked_at": "2026-09-25T04:07:03.476354+00:00"
     }
   },
   "items": [
+    {
+      "id": "d81212d60d6a8b4bb83a",
+      "source": "TGcom24",
+      "title": "Fine vita, il Cdm impugna la legge dell'Emilia-Romagna: \"Viola competenze statali\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/fine-vita-cdm-impugna-legge-emilia-romagna_116954648-202602k.shtml",
+      "published": "2026-09-25T04:01:00+00:00"
+    },
+    {
+      "id": "314a82857eb5e673120b",
+      "source": "BBC News",
+      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+      "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T03:57:09+00:00"
+    },
     {
       "id": "e306532268b8fce713a8",
       "source": "BBC News",
@@ -45,6 +59,13 @@
       "title": "Hundreds of thousands expected in Paris for Pope's visit",
       "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-24T23:17:00+00:00"
+    },
+    {
+      "id": "fd4053808319c2badc34",
+      "source": "TGcom24",
+      "title": "Dl scuola, Schlein: \"Vergognoso, caccia alle streghe sulla pelle dei bambini\"",
+      "url": "https://www.tgcom24.mediaset.it/politica/decreto-scuola-meloni-schlein_116947730-202602k.shtml",
+      "published": "2026-09-24T21:58:00+00:00"
     },
     {
       "id": "1bd9987e2b8d0a5ff436",
@@ -311,20 +332,6 @@
       "title": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
       "url": "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-24T06:47:12+00:00"
-    },
-    {
-      "id": "7030e6f8ef6cc98436e7",
-      "source": "TGcom24",
-      "title": "Giudice ordina alla Casa Bianca di riammettere i media banditi da Trump",
-      "url": "https://www.tgcom24.mediaset.it/mondo/stati-uniti-giudice-ordina-casa-bianca-media-banditi-cnn-politico-trump_116928433-202602k.shtml",
-      "published": "2026-09-24T06:17:00+00:00"
-    },
-    {
-      "id": "ce2c31f9504ac5458237",
-      "source": "TGcom24",
-      "title": "Chieti, bimbo di 6 anni muore soffocato da un boccone della merenda",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/bimbo-di-6-anni-muore-nel-chietino-ipotesi-crisi-respiratoria_116924336-202602k.shtml",
-      "published": "2026-09-24T05:43:00+00:00"
     },
     {
       "id": "a9d744304da4b735272d",
