@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-25T08:48:47.729250+00:00",
+  "updated_at": "2026-09-25T08:57:05.599682+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-25T08:48:47.729250+00:00"
+      "checked_at": "2026-09-25T08:57:05.599682+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-25T08:48:47.729250+00:00"
+      "checked_at": "2026-09-25T08:57:05.599682+00:00"
     }
   },
   "items": [
@@ -38,6 +38,13 @@
       "title": "Lucca, incendio in un appartamento: due morti e 13 feriti",
       "url": "https://www.tgcom24.mediaset.it/cronaca/lucca-incendio-appartamento-due-morti_116958413-202602k.shtml",
       "published": "2026-09-25T07:00:00+00:00"
+    },
+    {
+      "id": "4c9e8fbcb4ff57ffc92f",
+      "source": "BBC News",
+      "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
+      "url": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T06:48:07+00:00"
     },
     {
       "id": "50a1102cef4de141136e",
@@ -327,20 +334,6 @@
       "published": "2026-09-24T11:45:00+00:00"
     },
     {
-      "id": "07f55feaf711a6b51814",
-      "source": "BBC News",
-      "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
-      "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-24T10:11:15+00:00"
-    },
-    {
-      "id": "3736c639f65598ef475c",
-      "source": "BBC News",
-      "title": "Why India's Election Commission is in the eye of a storm - again",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-24T08:26:19+00:00"
-    },
-    {
       "id": "2659c92203c29b30dfe3",
       "source": "BBC News",
       "title": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
@@ -402,13 +395,6 @@
       "title": "Watch: The arms race in space and how the UK is defending itself",
       "url": "https://www.bbc.co.uk/news/videos/c34gdygn5lqpo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-23T21:29:04+00:00"
-    },
-    {
-      "id": "772fda89b946ae3e061b",
-      "source": "BBC News",
-      "title": "UK survivor of Canadian poison seller says he exploited her despair",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-23T21:16:00+00:00"
     }
   ]
 }
