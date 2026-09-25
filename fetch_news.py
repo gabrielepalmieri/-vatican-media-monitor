@@ -167,7 +167,7 @@ TOPICS = {
     "Papa Leone XIV": ["leo xiv", "leone xiv", "léon xiv", "león xiv"],
     "Pace e diplomazia": ["peace", "pace", "paix", "paz", "krieg", "war", "guerra", "diplom"],
     "Viaggi apostolici": ["travel", "trip", "visit", "voyage", "reise", "viaje", "viaggio"],
-    "Finanze": ["finance", "financial", "bank", "ior", "finanz", "econom"],
+    "Finanze": ["finance", "financial", "bank", "finanz", "econom"],
     "Nomine e Curia": ["appoint", "nomina", "appointment", "curia", "bishop", "vescovo", "évêque"],
     "Ecumenismo e dialogo": ["ecumen", "interfaith", "dialogue", "dialogo", "œcumé"],
     "Società e diritti": ["migrant", "migration", "climate", "rights", "diritti", "migranti"],
@@ -187,7 +187,7 @@ def valid_title(title: str) -> bool:
 def topic_for(title: str) -> str:
     low = title.lower()
     for topic, words in TOPICS.items():
-        if any(w in low for w in words): return topic
+        if any(w in low for w in words) or (topic == "Finanze" and re.search(r"\bior\b", low)): return topic
     return "Attualità"
 
 def published(value: str) -> str:
