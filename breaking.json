@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-25T08:07:17.790666+00:00",
+  "updated_at": "2026-09-25T08:23:09.213234+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-25T08:07:17.790666+00:00"
+      "checked_at": "2026-09-25T08:23:09.213234+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-25T08:07:17.790666+00:00"
+      "checked_at": "2026-09-25T08:23:09.213234+00:00"
     }
   },
   "items": [
+    {
+      "id": "a2a18e5ce76edc3425d7",
+      "source": "BBC News",
+      "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
+      "url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T08:09:26+00:00"
+    },
     {
       "id": "c615d608235dab645135",
       "source": "TGcom24",
@@ -24,13 +31,6 @@
       "title": "Lucca, incendio in un appartamento: due morti e 13 feriti",
       "url": "https://www.tgcom24.mediaset.it/cronaca/lucca-incendio-appartamento-due-morti_116958413-202602k.shtml",
       "published": "2026-09-25T07:00:00+00:00"
-    },
-    {
-      "id": "a2a18e5ce76edc3425d7",
-      "source": "BBC News",
-      "title": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
-      "url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T06:40:18+00:00"
     },
     {
       "id": "50a1102cef4de141136e",
