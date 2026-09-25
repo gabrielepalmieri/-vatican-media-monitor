@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-25T14:40:06.792654+00:00",
+  "updated_at": "2026-09-25T14:50:36.997325+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-25T14:40:06.792654+00:00"
+      "checked_at": "2026-09-25T14:50:36.997325+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-25T14:40:06.792654+00:00"
+      "checked_at": "2026-09-25T14:50:36.997325+00:00"
     }
   },
   "items": [
+    {
+      "id": "8bca9fa6225a96b61429",
+      "source": "BBC News",
+      "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
+      "url": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T14:44:16+00:00"
+    },
     {
       "id": "83a010f5b3e6ddff4c0e",
       "source": "TGcom24",
@@ -24,13 +31,6 @@
       "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
       "url": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-25T14:24:19+00:00"
-    },
-    {
-      "id": "8bca9fa6225a96b61429",
-      "source": "BBC News",
-      "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
-      "url": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T14:17:42+00:00"
     },
     {
       "id": "c32d8193e8ad40b5b2f9",
