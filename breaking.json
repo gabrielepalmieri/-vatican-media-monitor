@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-25T14:58:45.177198+00:00",
+  "updated_at": "2026-09-25T15:08:56.537331+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-25T14:58:45.177198+00:00"
+      "checked_at": "2026-09-25T15:08:56.537331+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-25T14:58:45.177198+00:00"
+      "checked_at": "2026-09-25T15:08:56.537331+00:00"
     }
   },
   "items": [
+    {
+      "id": "60ef02f722a0be7780e0",
+      "source": "BBC News",
+      "title": "Pope warns against 'losing humanity' to AI machines",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T15:06:41+00:00"
+    },
     {
       "id": "8bca9fa6225a96b61429",
       "source": "BBC News",
@@ -59,13 +66,6 @@
       "title": "Canada, Carney: \"Governo si è preparato per un'invasione da parte degli Usa\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/canada-carney-ipotesi-invasione-usa_116972140-202602k.shtml",
       "published": "2026-09-25T12:48:00+00:00"
-    },
-    {
-      "id": "60ef02f722a0be7780e0",
-      "source": "BBC News",
-      "title": "Pope warns against 'losing humanity' to AI machines",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T12:44:08+00:00"
     },
     {
       "id": "b781fb7dc15705ac643a",
