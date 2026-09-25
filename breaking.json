@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-25T08:57:05.599682+00:00",
+  "updated_at": "2026-09-25T09:07:07.773343+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-25T08:57:05.599682+00:00"
+      "checked_at": "2026-09-25T09:07:07.773343+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-25T08:57:05.599682+00:00"
+      "checked_at": "2026-09-25T09:07:07.773343+00:00"
     }
   },
   "items": [
+    {
+      "id": "60ef02f722a0be7780e0",
+      "source": "BBC News",
+      "title": "Hundreds of thousands expected in Paris for Pope's visit",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T08:58:00+00:00"
+    },
     {
       "id": "8f716ec2c334db189a06",
       "source": "TGcom24",
@@ -122,13 +129,6 @@
       "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
       "url": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-24T23:41:10+00:00"
-    },
-    {
-      "id": "60ef02f722a0be7780e0",
-      "source": "BBC News",
-      "title": "Hundreds of thousands expected in Paris for Pope's visit",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-24T23:17:00+00:00"
     },
     {
       "id": "fd4053808319c2badc34",
