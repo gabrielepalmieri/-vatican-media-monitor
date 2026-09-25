@@ -100,6 +100,13 @@ PRIORITY_SOURCES = [
     ("Regno Unito", "The Telegraph", ["the telegraph", "telegraph.co.uk"], "telegraph.co.uk"),
     ("Regno Unito", "The Independent", ["the independent", "independent.co.uk"], "independent.co.uk"),
     ("Regno Unito", "The Times", ["the times", "thetimes.com"], "thetimes.com"),
+    ("Spagna", "COPE", ["cope", "cope.es"], "cope.es"),
+    ("Francia", "RCF Notre Dame", ["rcf", "radio notre dame", "radionotredame.net"], "rcf.fr"),
+    ("Germania", "DOMRADIO", ["domradio"], "domradio.de"),
+    ("Portogallo", "Rádio Renascença", ["renascença", "renascenca", "rr.pt"], "rr.pt"),
+    ("Spagna", "Cadena SER", ["cadena ser", "cadenaser.com"], "cadenaser.com"),
+    ("Francia", "RFI", ["rfi", "radio france internationale"], "rfi.fr"),
+    ("Germania", "Deutschlandfunk", ["deutschlandfunk"], "deutschlandfunk.de"),
 ]
 
 AGENCY_SOURCES = [
@@ -313,6 +320,9 @@ def main() -> None:
         jobs.append((feed_url(SOCIAL_QUERY,hl,gl,ceid),country,language,"social"))
         for dedicated in source_queries(country):
             jobs.append((feed_url(dedicated,hl,gl,ceid),country,language,"news"))
+    # Ricerca portoghese dedicata a Renascença, senza aggiungere query generali.
+    for dedicated in source_queries("Portogallo"):
+        jobs.append((feed_url(dedicated,"pt-PT","PT","PT:pt-150"),"Portogallo","Português","news"))
     for country, language, source, url in DIRECT_FEEDS:
         jobs.append((url,country,language,"news",source))
     with ThreadPoolExecutor(max_workers=8) as pool:
