@@ -1,29 +1,36 @@
 {
-  "updated_at": "2026-09-25T17:06:13.373626+00:00",
+  "updated_at": "2026-09-25T17:20:54.073157+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-25T17:06:13.373626+00:00"
+      "checked_at": "2026-09-25T17:20:54.073157+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-25T17:06:13.373626+00:00"
+      "checked_at": "2026-09-25T17:20:54.073157+00:00"
     }
   },
   "items": [
+    {
+      "id": "a38160487f2fe3b21075",
+      "source": "BBC News",
+      "title": "Supreme Court revives controversial US data system for citizenship checks",
+      "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T17:19:56+00:00"
+    },
+    {
+      "id": "8bca9fa6225a96b61429",
+      "source": "BBC News",
+      "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
+      "url": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T17:13:55+00:00"
+    },
     {
       "id": "f538a0e4113e62a4a6f3",
       "source": "TGcom24",
       "title": "Ia, l'allarme di Bill Gates: \"Può determinare eventi con un miliardo di morti\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/bill-gates-allarme-ia-miliardo-morti_116981628-202602k.shtml",
       "published": "2026-09-25T16:55:00+00:00"
-    },
-    {
-      "id": "a38160487f2fe3b21075",
-      "source": "BBC News",
-      "title": "Supreme Court revives controversial US data system for citizenship checks",
-      "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T16:35:01+00:00"
     },
     {
       "id": "9b99400fbde3331ace06",
@@ -66,13 +73,6 @@
       "title": "Pope warns against 'losing humanity' to AI machines",
       "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-25T15:06:41+00:00"
-    },
-    {
-      "id": "8bca9fa6225a96b61429",
-      "source": "BBC News",
-      "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
-      "url": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T14:44:16+00:00"
     },
     {
       "id": "83a010f5b3e6ddff4c0e",
