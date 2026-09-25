@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-25T15:08:56.537331+00:00",
+  "updated_at": "2026-09-25T15:23:34.187317+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-25T15:08:56.537331+00:00"
+      "checked_at": "2026-09-25T15:23:34.187317+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-25T15:08:56.537331+00:00"
+      "checked_at": "2026-09-25T15:23:34.187317+00:00"
     }
   },
   "items": [
+    {
+      "id": "3e45f48cf9e8a6ecf684",
+      "source": "TGcom24",
+      "title": "Carburanti, Federpetroli: rischio 3 euro a litro. Eni fissa un tetto per benzina e gasolio",
+      "url": "https://www.tgcom24.mediaset.it/economia/caro-carburanti-federpetroli-3-euro-al-litro-tetto-eni_116978232-202602k.shtml",
+      "published": "2026-09-25T15:10:00+00:00"
+    },
     {
       "id": "60ef02f722a0be7780e0",
       "source": "BBC News",
@@ -311,13 +318,6 @@
       "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
       "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-24T18:06:40+00:00"
-    },
-    {
-      "id": "8de9bd9a66bacd7f33a6",
-      "source": "TGcom24",
-      "title": "Scomparsa Emanuela Orlandi, c'è una terza indagata",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/scomparsa-emanuela-orlandi-indagata-amica-accetti_116949763-202602k.shtml",
-      "published": "2026-09-24T17:56:00+00:00"
     },
     {
       "id": "d76436e19e7f18059852",
