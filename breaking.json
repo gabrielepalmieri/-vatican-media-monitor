@@ -1,22 +1,29 @@
 {
-  "updated_at": "2026-09-25T17:31:38.986208+00:00",
+  "updated_at": "2026-09-25T17:42:26.468397+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-25T17:31:38.986208+00:00"
+      "checked_at": "2026-09-25T17:42:26.468397+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-25T17:31:38.986208+00:00"
+      "checked_at": "2026-09-25T17:42:26.468397+00:00"
     }
   },
   "items": [
     {
+      "id": "859234decc520ea51b10",
+      "source": "TGcom24",
+      "title": "Truffa all'ex presidente di Fideuram, indagato un cittadino israeliano",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/fideuram-truffa-whatsapp-intelligenza-artificiale_116960717-202602k.shtml",
+      "published": "2026-09-25T17:35:00+00:00"
+    },
+    {
       "id": "a38160487f2fe3b21075",
       "source": "BBC News",
-      "title": "Supreme Court revives controversial US data system for citizenship checks",
+      "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
       "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T17:19:56+00:00"
+      "published": "2026-09-25T17:32:15+00:00"
     },
     {
       "id": "8bca9fa6225a96b61429",
@@ -290,13 +297,6 @@
       "title": "Antonio Tajani: \"Bollo auto una mancetta elettorale? Si vota tra un anno\"",
       "url": "https://www.tgcom24.mediaset.it/politica/tajani-bollo-auto-mancia-elettorale-voto-anno_116952642-202602k.shtml",
       "published": "2026-09-24T20:43:00+00:00"
-    },
-    {
-      "id": "4bd2827768d7449f6ede",
-      "source": "TGcom24",
-      "title": "Operaio morto al Colosseo, sette indagati per omicidio colposo",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/operaio-morto-colosseo-sette-indagati_116951977-202602k.shtml",
-      "published": "2026-09-24T19:58:00+00:00"
     },
     {
       "id": "af093473850a7f2cee0b",
