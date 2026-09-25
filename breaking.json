@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-25T19:06:49.098721+00:00",
+  "updated_at": "2026-09-25T19:19:12.870828+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-25T19:06:49.098721+00:00"
+      "checked_at": "2026-09-25T19:19:12.870828+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-25T19:06:49.098721+00:00"
+      "checked_at": "2026-09-25T19:19:12.870828+00:00"
     }
   },
   "items": [
+    {
+      "id": "a38160487f2fe3b21075",
+      "source": "BBC News",
+      "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+      "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T19:13:35+00:00"
+    },
     {
       "id": "bbcd45caa045016ce440",
       "source": "TGcom24",
@@ -24,13 +31,6 @@
       "title": "Media outlets banned by Trump resume White House coverage after judge's order",
       "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-25T18:36:30+00:00"
-    },
-    {
-      "id": "a38160487f2fe3b21075",
-      "source": "BBC News",
-      "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
-      "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T18:29:28+00:00"
     },
     {
       "id": "88ea114f071e3a9a8a49",
