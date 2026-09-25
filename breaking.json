@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-25T10:07:01.715891+00:00",
+  "updated_at": "2026-09-25T10:21:50.827000+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-25T10:07:01.715891+00:00"
+      "checked_at": "2026-09-25T10:21:50.827000+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-25T10:07:01.715891+00:00"
+      "checked_at": "2026-09-25T10:21:50.827000+00:00"
     }
   },
   "items": [
+    {
+      "id": "64fb556ba9dcba8e6b92",
+      "source": "TGcom24",
+      "title": "Esaltavano suprematisti e proponevano attentati, 14 minori perquisiti in tutta Italia",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/minori-perquisiti-fascismo-suprematismo_116964125-202602k.shtml",
+      "published": "2026-09-25T10:20:00+00:00"
+    },
     {
       "id": "a2a18e5ce76edc3425d7",
       "source": "BBC News",
@@ -332,13 +339,6 @@
       "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
       "url": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-24T14:08:38+00:00"
-    },
-    {
-      "id": "7560c827949ef7f54727",
-      "source": "TGcom24",
-      "title": "Arrestato Riccardo Bossi, deve scontare 5 anni e 9 mesi",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/riccardo-bossi-arrestato_116942159-202602k.shtml",
-      "published": "2026-09-24T13:55:00+00:00"
     },
     {
       "id": "2659c92203c29b30dfe3",
