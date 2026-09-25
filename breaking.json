@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-25T18:58:21.733058+00:00",
+  "updated_at": "2026-09-25T19:06:49.098721+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-25T18:58:21.733058+00:00"
+      "checked_at": "2026-09-25T19:06:49.098721+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-25T18:58:21.733058+00:00"
+      "checked_at": "2026-09-25T19:06:49.098721+00:00"
     }
   },
   "items": [
+    {
+      "id": "bbcd45caa045016ce440",
+      "source": "TGcom24",
+      "title": "Lettonia, incidente durante un'esercitazione: feriti 4 militari italiani",
+      "url": "https://www.tgcom24.mediaset.it/mondo/lettonia-incidente-durante-un-esercitazione-feriti-4-militari-italiani_116983630-202602k.shtml",
+      "published": "2026-09-25T18:55:00+00:00"
+    },
     {
       "id": "41977377ca79b5205742",
       "source": "BBC News",
@@ -290,13 +297,6 @@
       "title": "Dl scuola, Schlein: \"Vergognoso, caccia alle streghe sulla pelle dei bambini\"",
       "url": "https://www.tgcom24.mediaset.it/politica/decreto-scuola-meloni-schlein_116947730-202602k.shtml",
       "published": "2026-09-24T21:58:00+00:00"
-    },
-    {
-      "id": "1bd9987e2b8d0a5ff436",
-      "source": "TGcom24",
-      "title": "Mamdani replica a Netanyahu: \"Mente per coprire il genocidio\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/netanyahu-onu-assemblea-generale-delegati-escono_116944725-202602k.shtml",
-      "published": "2026-09-24T21:21:00+00:00"
     },
     {
       "id": "af093473850a7f2cee0b",
