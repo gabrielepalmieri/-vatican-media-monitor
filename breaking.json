@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-25T12:09:00.008396+00:00",
+  "updated_at": "2026-09-25T12:27:10.559928+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-25T12:09:00.008396+00:00"
+      "checked_at": "2026-09-25T12:27:10.559928+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-25T12:09:00.008396+00:00"
+      "checked_at": "2026-09-25T12:27:10.559928+00:00"
     }
   },
   "items": [
+    {
+      "id": "b781fb7dc15705ac643a",
+      "source": "TGcom24",
+      "title": "Unione Europea, formalizzata la \"handling fee\": 2 euro su ogni pacco extra-Ue",
+      "url": "https://www.tgcom24.mediaset.it/economia/unione-europea-formalizzata-la-handling-fee-2-euro-su-ogni-pacco-extra-ue_116969728-202602k.shtml",
+      "published": "2026-09-25T12:10:00+00:00"
+    },
     {
       "id": "c6ee5f76fbbaa46517b0",
       "source": "BBC News",
@@ -306,13 +313,6 @@
       "published": "2026-09-24T16:00:29+00:00"
     },
     {
-      "id": "93cccee775330c84d272",
-      "source": "TGcom24",
-      "title": "Abu Mazen all'Onu: \"Vogliamo uno Stato non militarizzato e in pace con Israele\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/onu-assemblea-generale-new-york-abbas_116944725-202602k.shtml",
-      "published": "2026-09-24T15:57:00+00:00"
-    },
-    {
       "id": "6eb640682765806a82eb",
       "source": "BBC News",
       "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
@@ -346,13 +346,6 @@
       "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
       "url": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-24T00:50:24+00:00"
-    },
-    {
-      "id": "0853175f31b2ff7a7eff",
-      "source": "BBC News",
-      "title": "In Amish country, nurses go door to door to stop deadly spread of measles",
-      "url": "https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-24T00:15:46+00:00"
     }
   ]
 }
