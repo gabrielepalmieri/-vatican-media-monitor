@@ -15,6 +15,7 @@ OUT = ROOT / "news.json"
 MAX_ITEMS = 5000
 MAX_PER_SOURCE = 180
 MAX_PER_DAY = 2200
+MAX_SOCIAL_ITEMS = 900
 RETENTION_DAYS = 7
 
 EDITIONS = [
@@ -30,7 +31,36 @@ QUERIES = [
     # Cerca il caso e le denunce anche quando il titolo omette Papa e Vaticano.
     'Rupnik OR "abusi nella Chiesa" OR "Catholic Church abuse" OR "abusos en la Iglesia" OR "abus dans l’Église"',
 ]
-SOCIAL_QUERY = '("Pope Leo XIV" OR Vatican) (site:youtube.com OR site:x.com OR site:reddit.com OR site:tiktok.com OR site:instagram.com)'
+SOCIAL_PLATFORMS = {
+    "YouTube": ("youtube.com", "youtu.be"),
+    "X": ("x.com", "twitter.com"),
+    "Instagram": ("instagram.com",),
+    "Facebook": ("facebook.com",),
+    "TikTok": ("tiktok.com",),
+    "Reddit": ("reddit.com",),
+}
+SOCIAL_SUBJECTS = {
+    "Italiano": '"Papa Leone XIV" OR Vaticano OR "Santa Sede" OR "abusi nella Chiesa" OR Rupnik',
+    "English": '"Pope Leo XIV" OR Vatican OR "Holy See" OR "Catholic Church abuse" OR "Catholic safeguarding" OR Rupnik',
+    "Français": '"pape Léon XIV" OR Vatican OR "Saint-Siège" OR "abus dans l’Église" OR Rupnik',
+    "Deutsch": '"Papst Leo XIV" OR Vatikan OR "Heiliger Stuhl" OR "Missbrauch Kirche" OR Rupnik',
+    "Español": '"papa León XIV" OR Vaticano OR "Santa Sede" OR "abusos en la Iglesia" OR Rupnik',
+    "Português": '"papa Leão XIV" OR Vaticano OR "Santa Sé" OR "abusos na Igreja" OR Rupnik',
+}
+
+def social_platform(source: str, url: str = "") -> str:
+    value=source.casefold().strip()
+    host=urlparse(url).hostname or ""
+    for name, domains in SOCIAL_PLATFORMS.items():
+        if value == name.casefold() or any(value == domain or value.endswith("."+domain)
+                or host == domain or host.endswith("."+domain) for domain in domains):
+            return name
+    return ""
+
+def social_queries(language: str) -> list[str]:
+    subjects=SOCIAL_SUBJECTS.get(language,SOCIAL_SUBJECTS["English"])
+    return [f'({subjects}) ({" OR ".join("site:"+domain for domain in domains)}) when:7d'
+            for domains in SOCIAL_PLATFORMS.values()]
 
 # Feed pubblicati dalle testate: si affiancano alla ricerca, che può omettere
 # articoli recenti. Gli URL restano facoltativi: un errore non blocca il job.
@@ -203,9 +233,13 @@ def parse_feed(url: str, country: str, language: str, kind: str, direct_source: 
             except ValueError: continue
         source=direct_source or source_from(item,title,link)
         display_title=title[:-len(source)-3].strip() if title.endswith(" - "+source) else title
+        platform=social_platform(source,link)
+        if platform:
+            source=platform
+        item_kind="social" if platform else kind
         if not valid_title(display_title): continue
         uid=hashlib.sha1((display_title.lower()+source.lower()).encode()).hexdigest()[:16]
-        out.append({"id":uid,"title":display_title,"url":link,"source":source,"country":country,"language":language,"published":published(item.findtext("pubDate", "")),"topic":topic_for(display_title),"kind":kind,"cluster_size":1,"origin":"direct" if direct_source else "search"})
+        out.append({"id":uid,"title":display_title,"url":link,"source":source,"country":country,"language":language,"published":published(item.findtext("pubDate", "")),"topic":topic_for(display_title),"kind":item_kind,"cluster_size":1,"origin":"direct" if direct_source else "search"})
     if direct_source:
         newest=max((x["published"] for x in out),default="nessuno")
         print(f"Feed diretto {direct_source}: {len(out)} pertinenti, più recente {newest}, da {url}")
@@ -261,7 +295,7 @@ def balanced_selection(items: list[dict]) -> list[dict]:
         for _, name, aliases, _ in configured:
             if source_matches(item["source"],aliases): return name
         return None
-    selected=[]; selected_ids=set(); counts={}; days={}
+    selected=[]; selected_ids=set(); counts={}; days={}; social_counts={}
     cutoff=datetime.now(timezone.utc)-timedelta(days=RETENTION_DAYS)
     def add(item: dict, name: str | None) -> bool:
         marker=(item["id"],item["source"])
@@ -270,10 +304,15 @@ def balanced_selection(items: list[dict]) -> list[dict]:
             if datetime.fromisoformat(item["published"].replace("Z","+00:00"))<cutoff: return False
         except (ValueError, KeyError): return False
         if marker in selected_ids or days.get(day,0)>=MAX_PER_DAY: return False
+        if len(selected)>=MAX_ITEMS: return False
+        if item.get("kind")=="social":
+            if sum(social_counts.values())>=MAX_SOCIAL_ITEMS: return False
+            if social_counts.get(item["source"],0)>=MAX_PER_SOURCE: return False
         if name and counts.get(name,0)>=MAX_PER_SOURCE: return False
         selected.append(item); selected_ids.add(marker)
         days[day]=days.get(day,0)+1
         if name: counts[name]=counts.get(name,0)+1
+        if item.get("kind")=="social": social_counts[item["source"]]=social_counts.get(item["source"],0)+1
         return True
     for _, name, aliases, _ in configured:
         for item in items:
@@ -284,6 +323,12 @@ def balanced_selection(items: list[dict]) -> list[dict]:
     # News ha omesso: riserva loro posto prima del limite per singola testata.
     for item in items:
         if item.get("origin")=="direct": add(item,configured_name(item))
+    # Riserva una piccola quota a ogni piattaforma, entro il limite complessivo.
+    for platform in SOCIAL_PLATFORMS:
+        for item in items:
+            if item.get("kind")=="social" and item["source"]==platform:
+                add(item,None)
+                if social_counts.get(platform,0)>=20: break
     for item in items:
         if len(selected)>=MAX_ITEMS: break
         try:
@@ -319,7 +364,8 @@ def main() -> None:
     jobs=[]
     for country, language, hl, gl, ceid in EDITIONS:
         for query in QUERIES: jobs.append((feed_url(query,hl,gl,ceid),country,language,"news"))
-        jobs.append((feed_url(SOCIAL_QUERY,hl,gl,ceid),country,language,"social"))
+        for query in social_queries(language):
+            jobs.append((feed_url(query,hl,gl,ceid),country,language,"social"))
         for dedicated in source_queries(country):
             jobs.append((feed_url(dedicated,hl,gl,ceid),country,language,"news"))
     # Ricerca portoghese dedicata a Renascença, senza aggiungere query generali.
@@ -347,6 +393,11 @@ def main() -> None:
         # L'archivio conserva il tema assegnato in passato: aggiorna anche
         # questi articoli quando cambiano le regole di classificazione.
         x["topic"]=topic_for(x["title"])
+        platform=social_platform(x["source"],x["url"])
+        if platform:
+            x["source"]=platform
+            x["kind"]="social"
+            x["id"]=hashlib.sha1((x["title"].lower()+platform.lower()).encode()).hexdigest()[:16]
         key=(re.sub(r"\W+","",x["title"].lower())[:160],x["source"].casefold())
         if key not in unique:
             unique[key]=x
