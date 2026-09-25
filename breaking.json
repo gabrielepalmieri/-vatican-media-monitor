@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-09-25T12:42:38.898072+00:00",
+  "updated_at": "2026-09-25T12:54:27.941242+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-25T12:42:38.898072+00:00"
+      "checked_at": "2026-09-25T12:54:27.941242+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-25T12:42:38.898072+00:00"
+      "checked_at": "2026-09-25T12:54:27.941242+00:00"
     }
   },
   "items": [
     {
+      "id": "dc7fd32315b7a49b82a4",
+      "source": "TGcom24",
+      "title": "Canada, Carney: \"Governo si è preparato per un'invasione da parte degli Usa\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/canada-carney-ipotesi-invasione-usa_116972140-202602k.shtml",
+      "published": "2026-09-25T12:48:00+00:00"
+    },
+    {
       "id": "60ef02f722a0be7780e0",
       "source": "BBC News",
-      "title": "Hundreds of thousands expected in Paris as Pope begins France visit",
+      "title": "Pope warns against 'losing humanity' to AI machines",
       "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T12:39:19+00:00"
+      "published": "2026-09-25T12:44:08+00:00"
+    },
+    {
+      "id": "8bca9fa6225a96b61429",
+      "source": "BBC News",
+      "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
+      "url": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T12:34:31+00:00"
     },
     {
       "id": "b781fb7dc15705ac643a",
@@ -299,13 +313,6 @@
       "published": "2026-09-24T16:36:33+00:00"
     },
     {
-      "id": "8a5d4bb298391324d8d4",
-      "source": "TGcom24",
-      "title": "Trump: \"Con Xi sviluppata vera amicizia\", Xi: gli Usa partner e non avversari",
-      "url": "https://www.tgcom24.mediaset.it/mondo/trump-xi-incontro-usa-cina-casa-bianca_116944701-202602k.shtml",
-      "published": "2026-09-24T16:35:00+00:00"
-    },
-    {
       "id": "c53bff8c5a16836912a0",
       "source": "BBC News",
       "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
@@ -339,13 +346,6 @@
       "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
       "url": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-24T14:08:38+00:00"
-    },
-    {
-      "id": "a9d744304da4b735272d",
-      "source": "BBC News",
-      "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
-      "url": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-24T00:50:24+00:00"
     }
   ]
 }
