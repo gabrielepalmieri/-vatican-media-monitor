@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-09-25T06:08:57.764725+00:00",
+  "updated_at": "2026-09-25T06:27:04.559477+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-25T06:08:57.764725+00:00"
+      "checked_at": "2026-09-25T06:27:04.559477+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-25T06:08:57.764725+00:00"
+      "checked_at": "2026-09-25T06:27:04.559477+00:00"
     }
   },
   "items": [
+    {
+      "id": "2737e613c9e345040898",
+      "source": "TGcom24",
+      "title": "Verona, all'esame per la patente con auricolari e telefonini: 41 a giudizio",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/verona-esame-patente-auricolare-telefonini_116955805-202602k.shtml",
+      "published": "2026-09-25T06:10:00+00:00"
+    },
+    {
+      "id": "a2a18e5ce76edc3425d7",
+      "source": "BBC News",
+      "title": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
+      "url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T05:42:45+00:00"
+    },
     {
       "id": "7de37432de3dd11fb91b",
       "source": "TGcom24",
@@ -313,13 +327,6 @@
       "published": "2026-09-24T09:02:00+00:00"
     },
     {
-      "id": "fe992aa8da01b1c93cd9",
-      "source": "TGcom24",
-      "title": "Caro carburanti, record storico per il prezzo medio del diesel nella Ue",
-      "url": "https://www.tgcom24.mediaset.it/economia/caro-carburanti-record-storico-per-il-prezzo-medio-del-diesel-nell-unione-europea_116932472-202602k.shtml",
-      "published": "2026-09-24T08:33:00+00:00"
-    },
-    {
       "id": "3736c639f65598ef475c",
       "source": "BBC News",
       "title": "Why India's Election Commission is in the eye of a storm - again",
@@ -402,13 +409,6 @@
       "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
       "url": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-23T18:51:12+00:00"
-    },
-    {
-      "id": "160bd02fe4a21d255bb3",
-      "source": "BBC News",
-      "title": "Iran's president tells Trump it will never 'bend the knee'",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-23T18:15:31+00:00"
     }
   ]
 }
