@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-25T05:20:46.621966+00:00",
+  "updated_at": "2026-09-25T05:31:12.399069+00:00",
   "sources": {
     "TGcom24": {
-      "ok": false,
-      "checked_at": "2026-09-25T05:20:46.621966+00:00"
+      "ok": true,
+      "checked_at": "2026-09-25T05:31:12.399069+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-25T05:20:46.621966+00:00"
+      "checked_at": "2026-09-25T05:31:12.399069+00:00"
     }
   },
   "items": [
+    {
+      "id": "7de37432de3dd11fb91b",
+      "source": "TGcom24",
+      "title": "Usa, negato accesso a Cnn e MsNow per arrivo di Xi a cena di stato: stop del pool tv",
+      "url": "https://www.tgcom24.mediaset.it/mondo/trump-xi-incontro-usa-cina-25-settembre_116955331-202602k.shtml",
+      "published": "2026-09-25T05:05:00+00:00"
+    },
     {
       "id": "4430a76989839ab30c7e",
       "source": "TGcom24",
@@ -318,13 +325,6 @@
       "title": "Why India's Election Commission is in the eye of a storm - again",
       "url": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-24T08:26:19+00:00"
-    },
-    {
-      "id": "4c6cce0634f0de23369c",
-      "source": "TGcom24",
-      "title": "Cuneo, la telefonata di Mollo dopo aver ucciso il ladro: \"Mi sono difeso\"",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/baldissero-d-alba-la-telefonata-di-roberto-mollo-al-112-dopo-aver-ucciso-il-ladro-c-e-uno-a-terra-mi-sono-difeso-_116929821-02k.shtml",
-      "published": "2026-09-24T07:37:00+00:00"
     },
     {
       "id": "2659c92203c29b30dfe3",
