@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-25T16:07:51.778295+00:00",
+  "updated_at": "2026-09-25T16:23:15.878775+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-25T16:07:51.778295+00:00"
+      "checked_at": "2026-09-25T16:23:15.878775+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-25T16:07:51.778295+00:00"
+      "checked_at": "2026-09-25T16:23:15.878775+00:00"
     }
   },
   "items": [
@@ -17,6 +17,13 @@
       "title": "Cremlino: \"Licenza missili Patriot a Kiev? Monitoriamo\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-25-settembre_116955127-202602k.shtml",
       "published": "2026-09-25T15:40:00+00:00"
+    },
+    {
+      "id": "e0a52323d5cf9cb94c36",
+      "source": "BBC News",
+      "title": "Students strike across Germany in protest against military service",
+      "url": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T15:36:22+00:00"
     },
     {
       "id": "925a4d82645946abc7e5",
@@ -332,13 +339,6 @@
       "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
       "url": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-24T14:37:34+00:00"
-    },
-    {
-      "id": "0457d6ed985b1b548aa9",
-      "source": "BBC News",
-      "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
-      "url": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-24T14:08:38+00:00"
     }
   ]
 }
