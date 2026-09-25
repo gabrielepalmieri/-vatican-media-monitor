@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-25T20:06:17.259378+00:00",
+  "updated_at": "2026-09-25T20:19:48.566224+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-25T20:06:17.259378+00:00"
+      "checked_at": "2026-09-25T20:19:48.566224+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-25T20:06:17.259378+00:00"
+      "checked_at": "2026-09-25T20:19:48.566224+00:00"
     }
   },
   "items": [
+    {
+      "id": "fd440143de95ca799e25",
+      "source": "BBC News",
+      "title": "Russia targeting 'ordinary life' with attacks on data centres, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T20:07:43+00:00"
+    },
     {
       "id": "84adfba31a281df950f5",
       "source": "TGcom24",
@@ -59,13 +66,6 @@
       "title": "Pacchi extra-Ue, fissata a 2 euro la commissione di gestione",
       "url": "https://www.tgcom24.mediaset.it/economia/pacchi-extra-ue-fissata-a-2-euro-la-commissione-di-gestione_116983464-202602k.shtml",
       "published": "2026-09-25T18:15:00+00:00"
-    },
-    {
-      "id": "fd440143de95ca799e25",
-      "source": "BBC News",
-      "title": "Zelensky says Russia has widened attacks to hit Ukraine's data centres",
-      "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T18:02:55+00:00"
     },
     {
       "id": "859234decc520ea51b10",
