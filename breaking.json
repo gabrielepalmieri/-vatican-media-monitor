@@ -1,22 +1,57 @@
 {
-  "updated_at": "2026-09-25T23:45:26.326272+00:00",
+  "updated_at": "2026-09-25T23:53:35.540089+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-09-25T23:45:26.326272+00:00"
+      "checked_at": "2026-09-25T23:53:35.540089+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-25T23:45:26.326272+00:00"
+      "checked_at": "2026-09-25T23:53:35.540089+00:00"
     }
   },
   "items": [
+    {
+      "id": "a036c539b3228cf06b55",
+      "source": "BBC News",
+      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T23:38:48+00:00"
+    },
+    {
+      "id": "b21605c92f09d93f2541",
+      "source": "BBC News",
+      "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T23:20:48+00:00"
+    },
+    {
+      "id": "93a81068a5d32d14d4d9",
+      "source": "BBC News",
+      "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T23:05:40+00:00"
+    },
+    {
+      "id": "b5daada10349fa7118af",
+      "source": "BBC News",
+      "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T22:43:54+00:00"
+    },
     {
       "id": "a637fe9a8b1960dfb3f3",
       "source": "TGcom24",
       "title": "Trump ha chiesto a Zelensky di andare a Mosca, Kiev nega",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-25-settembre_116955127-202602k.shtml",
       "published": "2026-09-25T21:30:00+00:00"
+    },
+    {
+      "id": "eb51104f5d180b8ca720",
+      "source": "BBC News",
+      "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
+      "url": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T21:16:59+00:00"
     },
     {
       "id": "7e0992e207b8653f661b",
@@ -54,13 +89,6 @@
       "published": "2026-09-25T19:35:00+00:00"
     },
     {
-      "id": "a38160487f2fe3b21075",
-      "source": "BBC News",
-      "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
-      "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T19:13:35+00:00"
-    },
-    {
       "id": "bbcd45caa045016ce440",
       "source": "TGcom24",
       "title": "Lettonia, incidente durante un'esercitazione: feriti 4 militari italiani",
@@ -73,13 +101,6 @@
       "title": "Media outlets banned by Trump resume White House coverage after judge's order",
       "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-25T18:36:30+00:00"
-    },
-    {
-      "id": "7985226cc79a463d3d28",
-      "source": "BBC News",
-      "title": "Trump's plans for massive arch move ahead",
-      "url": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T18:27:46+00:00"
     },
     {
       "id": "88ea114f071e3a9a8a49",
@@ -124,13 +145,6 @@
       "published": "2026-09-25T15:40:00+00:00"
     },
     {
-      "id": "e0a52323d5cf9cb94c36",
-      "source": "BBC News",
-      "title": "Students strike across Germany in protest against military service",
-      "url": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T15:36:22+00:00"
-    },
-    {
       "id": "925a4d82645946abc7e5",
       "source": "BBC News",
       "title": "Senior Kazakh officials detained after 14 service members swept out to sea",
@@ -166,25 +180,11 @@
       "published": "2026-09-25T14:24:19+00:00"
     },
     {
-      "id": "c32d8193e8ad40b5b2f9",
-      "source": "BBC News",
-      "title": "Special agents' blood and urine test results stolen in FBI hack",
-      "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T13:56:16+00:00"
-    },
-    {
       "id": "e1a4385bd5288216bda5",
       "source": "TGcom24",
       "title": "Fine vita, il monito di Papa Leone: \"Non si può offrire una morte programmata\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/papa-leone-viaggio-francia-parigi-giornalisti-benvenuti_116961656-202602k.shtml",
       "published": "2026-09-25T13:44:00+00:00"
-    },
-    {
-      "id": "241b8fcb91ce8211398f",
-      "source": "BBC News",
-      "title": "Man shot during 2024 Trump campaign rally in Butler dies",
-      "url": "https://www.bbc.co.uk/news/articles/c5dj401d88l3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T13:23:33+00:00"
     },
     {
       "id": "dc7fd32315b7a49b82a4",
