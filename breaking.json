@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-26T13:53:37.579732+00:00",
+  "updated_at": "2026-09-26T14:06:45.436844+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-26T13:53:37.579732+00:00"
+      "checked_at": "2026-09-26T14:06:45.436844+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-26T13:53:37.579732+00:00"
+      "checked_at": "2026-09-26T14:06:45.436844+00:00"
     }
   },
   "items": [
+    {
+      "id": "0de27df924786b9da510",
+      "source": "TGcom24",
+      "title": "Sri Lanka, turista italiana scivola da una cascata e muore: aveva 27 anni",
+      "url": "https://www.tgcom24.mediaset.it/mondo/sri-lanka-turista-italiana-27enne-valentina-stragliotto-cade-cascata-e-muore_117013180-202602k.shtml",
+      "published": "2026-09-26T14:04:00+00:00"
+    },
     {
       "id": "a61117845ef9a9afeecc",
       "source": "BBC News",
@@ -280,7 +287,7 @@
     {
       "id": "a38160487f2fe3b21075",
       "source": "BBC News",
-      "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+      "title": "US Supreme Court allows Trump to use controversial database to check voter citizenship",
       "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-25T19:13:35+00:00"
     },
@@ -297,13 +304,6 @@
       "title": "Why an international arrest warrant didn't stop Netanyahu's US trip",
       "url": "https://www.bbc.co.uk/news/videos/ckq633lm11jeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-25T18:41:13+00:00"
-    },
-    {
-      "id": "88ea114f071e3a9a8a49",
-      "source": "TGcom24",
-      "title": "Pacchi extra-Ue, fissata a 2 euro la commissione di gestione",
-      "url": "https://www.tgcom24.mediaset.it/economia/pacchi-extra-ue-fissata-a-2-euro-la-commissione-di-gestione_116983464-202602k.shtml",
-      "published": "2026-09-25T18:15:00+00:00"
     },
     {
       "id": "538f0d432e427bc8a202",
