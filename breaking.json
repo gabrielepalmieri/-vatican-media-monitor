@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-09-26T16:50:37.084018+00:00",
+  "updated_at": "2026-09-26T16:56:31.227800+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-26T16:50:37.084018+00:00"
+      "checked_at": "2026-09-26T16:56:31.227800+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-26T16:50:37.084018+00:00"
+      "checked_at": "2026-09-26T16:56:31.227800+00:00"
     }
   },
   "items": [
+    {
+      "id": "a61117845ef9a9afeecc",
+      "source": "BBC News",
+      "title": "Pope praises 'energy and commitment' of young people as huge crowds join open-air Mass in Paris",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-26T16:53:32+00:00"
+    },
+    {
+      "id": "2e2675dbd1c9e6497b95",
+      "source": "TGcom24",
+      "title": "Omicidio Torino, \"morto in una lite per 50 euro\": in casa ogni tipo di droga",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/omicidio-torino-mamma-fermato_117009761-202602k.shtml",
+      "published": "2026-09-26T16:45:00+00:00"
+    },
     {
       "id": "a036c539b3228cf06b55",
       "source": "BBC News",
@@ -80,13 +94,6 @@
       "title": "Sri Lanka, turista italiana di 27 anni scivola da una cascata e muore",
       "url": "https://www.tgcom24.mediaset.it/mondo/sri-lanka-turista-italiana-27enne-valentina-stragliotto-cade-cascata-e-muore_117013180-202602k.shtml",
       "published": "2026-09-26T14:04:00+00:00"
-    },
-    {
-      "id": "a61117845ef9a9afeecc",
-      "source": "BBC News",
-      "title": "Huge crowds greet Pope in Paris for open-air Mass",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-26T13:23:59+00:00"
     },
     {
       "id": "c78b62b7b700666176f6",
@@ -290,13 +297,6 @@
       "title": "Torino, ucciso e fatto a pezzi: fermate tre persone",
       "url": "https://www.tgcom24.mediaset.it/cronaca/torino-cadavere-appartamento_116961039-202602k.shtml",
       "published": "2026-09-25T21:00:00+00:00"
-    },
-    {
-      "id": "60c6bbe9b180900011cd",
-      "source": "TGcom24",
-      "title": "Iran, Araghchi: \"Proposto agli Usa un piano per riaprire Hormuz in sette giorni\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-25-settembre_116955121-202602k.shtml",
-      "published": "2026-09-25T20:51:00+00:00"
     },
     {
       "id": "fd440143de95ca799e25",
