@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-26T10:53:49.842327+00:00",
+  "updated_at": "2026-09-26T11:06:24.653073+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-26T10:53:49.842327+00:00"
+      "checked_at": "2026-09-26T11:06:24.653073+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-26T10:53:49.842327+00:00"
+      "checked_at": "2026-09-26T11:06:24.653073+00:00"
     }
   },
   "items": [
+    {
+      "id": "3a2e2ba1fd8ac042c76c",
+      "source": "BBC News",
+      "title": "Republic of Ireland news conference delayed before controversial Israel game",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-26T10:44:37+00:00"
+    },
     {
       "id": "fdb745838b3edbecd05f",
       "source": "TGcom24",
@@ -222,6 +229,13 @@
       "published": "2026-09-25T20:47:49+00:00"
     },
     {
+      "id": "621cb1db51e8efa4ed0d",
+      "source": "BBC News",
+      "title": "What is kratom, the 'gas station heroin' alarming officials in the US?",
+      "url": "https://www.bbc.co.uk/news/articles/cjn5ddzekwnro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T20:06:39+00:00"
+    },
+    {
       "id": "84adfba31a281df950f5",
       "source": "TGcom24",
       "title": "Caso Garlasco, i pm sentono Garofano e gli ex del Ris",
@@ -255,13 +269,6 @@
       "title": "Why an international arrest warrant didn't stop Netanyahu's US trip",
       "url": "https://www.bbc.co.uk/news/videos/ckq633lm11jeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-25T18:41:13+00:00"
-    },
-    {
-      "id": "7985226cc79a463d3d28",
-      "source": "BBC News",
-      "title": "Trump's plans for massive arch move ahead",
-      "url": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T18:27:46+00:00"
     },
     {
       "id": "88ea114f071e3a9a8a49",
@@ -313,20 +320,6 @@
       "published": "2026-09-25T15:40:00+00:00"
     },
     {
-      "id": "e0a52323d5cf9cb94c36",
-      "source": "BBC News",
-      "title": "Students strike across Germany in protest against military service",
-      "url": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T15:36:22+00:00"
-    },
-    {
-      "id": "60ef02f722a0be7780e0",
-      "source": "BBC News",
-      "title": "Pope warns against 'losing humanity' to AI machines",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T15:06:41+00:00"
-    },
-    {
       "id": "679c4fc5c61b053a01f7",
       "source": "BBC News",
       "title": "Robbie Williams' surprise singalong after Peru gig cancelled",
@@ -346,13 +339,6 @@
       "title": "The world’s two most powerful men just met. How did it go?",
       "url": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-25T01:27:10+00:00"
-    },
-    {
-      "id": "1f1b1fd1e147d378b5ea",
-      "source": "BBC News",
-      "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
-      "url": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-24T23:41:10+00:00"
     }
   ]
 }
