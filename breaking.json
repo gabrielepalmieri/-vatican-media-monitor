@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-09-26T12:41:09.642249+00:00",
+  "updated_at": "2026-09-26T12:51:52.602975+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-26T12:41:09.642249+00:00"
+      "checked_at": "2026-09-26T12:51:52.602975+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-26T12:41:09.642249+00:00"
+      "checked_at": "2026-09-26T12:51:52.602975+00:00"
     }
   },
   "items": [
+    {
+      "id": "4b4ab54d202f4f94e8b8",
+      "source": "BBC News",
+      "title": "British national among six dead in building explosion close to Acropolis in Athens",
+      "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-26T12:47:25+00:00"
+    },
+    {
+      "id": "2efe1efa9fb2ea25c76a",
+      "source": "TGcom24",
+      "title": "Messina, donna getta dell'acido contro il suo avvocato: ricoverato",
+      "url": "https://www.tgcom24.mediaset.it/utility/messina-donna-getta-acido-avvocato-ricoverato-_117005853-202602k.shtml",
+      "published": "2026-09-26T12:44:00+00:00"
+    },
     {
       "id": "e5873e87a820047594f7",
       "source": "TGcom24",
@@ -19,16 +33,9 @@
       "published": "2026-09-26T12:02:00+00:00"
     },
     {
-      "id": "be9d69e46bd754cce38f",
-      "source": "TGcom24",
-      "title": "Messina, donna getta dell'acido contro il suo avvocato: ricoverato",
-      "url": "https://www.tgcom24.mediaset.it/utility/messina-donna-getta-acido-avvocato-ricoverato-_117005853-202602k.shtml",
-      "published": "2026-09-26T11:08:00+00:00"
-    },
-    {
       "id": "3a2e2ba1fd8ac042c76c",
       "source": "BBC News",
-      "title": "Republic of Ireland news conference delayed before controversial Israel game",
+      "title": "Republic of Ireland confirm rescheduled news conference before controversial Israel game",
       "url": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-26T10:44:37+00:00"
     },
@@ -38,13 +45,6 @@
       "title": "Roma, incendio in una palazzina a Colli Aniene: un morto",
       "url": "https://www.tgcom24.mediaset.it/cronaca/roma-incendio-palazzina-colli-aniene-un-morto_117004135-202602k.shtml",
       "published": "2026-09-26T10:44:00+00:00"
-    },
-    {
-      "id": "4b4ab54d202f4f94e8b8",
-      "source": "BBC News",
-      "title": "At least two dead after explosion destroys building close to Acropolis in Athens",
-      "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-26T10:18:51+00:00"
     },
     {
       "id": "e8ef83dece5a0d0db8f2",
@@ -304,13 +304,6 @@
       "title": "Truffa all'ex presidente di Fideuram, indagato un cittadino israeliano",
       "url": "https://www.tgcom24.mediaset.it/cronaca/fideuram-truffa-whatsapp-intelligenza-artificiale_116960717-202602k.shtml",
       "published": "2026-09-25T17:35:00+00:00"
-    },
-    {
-      "id": "f538a0e4113e62a4a6f3",
-      "source": "TGcom24",
-      "title": "Ia, l'allarme di Bill Gates: \"Può determinare eventi con un miliardo di morti\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/bill-gates-allarme-ia-miliardo-morti_116981628-202602k.shtml",
-      "published": "2026-09-25T16:55:00+00:00"
     },
     {
       "id": "e415baa253f232661731",
