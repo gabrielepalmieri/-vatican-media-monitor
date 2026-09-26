@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-26T22:06:40.449095+00:00",
+  "updated_at": "2026-09-26T22:20:06.831163+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-09-26T22:06:40.449095+00:00"
+      "checked_at": "2026-09-26T22:20:06.831163+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-26T22:06:40.449095+00:00"
+      "checked_at": "2026-09-26T22:20:06.831163+00:00"
     }
   },
   "items": [
+    {
+      "id": "a036c539b3228cf06b55",
+      "source": "BBC News",
+      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-26T22:15:59+00:00"
+    },
     {
       "id": "bd77320efddcd7e6ede2",
       "source": "BBC News",
@@ -87,13 +94,6 @@
       "title": "Tenth woman's body found as South Africa police probe killings",
       "url": "https://www.bbc.co.uk/news/articles/c3vgyyj8q807o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-26T18:30:04+00:00"
-    },
-    {
-      "id": "a036c539b3228cf06b55",
-      "source": "BBC News",
-      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-26T18:17:12+00:00"
     },
     {
       "id": "151836c8dba5a429aef6",
