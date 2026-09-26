@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-26T06:26:02.167201+00:00",
+  "updated_at": "2026-09-26T06:41:49.627599+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-26T06:26:02.167201+00:00"
+      "checked_at": "2026-09-26T06:41:49.627599+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-26T06:26:02.167201+00:00"
+      "checked_at": "2026-09-26T06:41:49.627599+00:00"
     }
   },
   "items": [
+    {
+      "id": "4ac7f9607f5c17dfc824",
+      "source": "BBC News",
+      "title": "Disaster declared as heavy rains spark Bangkok flooding",
+      "url": "https://www.bbc.co.uk/news/videos/ck9800jdj1q0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-26T06:28:58+00:00"
+    },
     {
       "id": "fd200aa21a47634414a0",
       "source": "TGcom24",
@@ -367,13 +374,6 @@
       "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
       "url": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-24T23:41:10+00:00"
-    },
-    {
-      "id": "e392ab65d14aa37668e0",
-      "source": "BBC News",
-      "title": "Watch: UN delegates walk out of Netanyahu speech",
-      "url": "https://www.bbc.co.uk/news/videos/cqwyzmpm3pgdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-24T18:29:29+00:00"
     }
   ]
 }
