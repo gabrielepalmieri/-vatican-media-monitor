@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-26T01:07:53.712677+00:00",
+  "updated_at": "2026-09-26T01:19:25.904373+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-09-26T01:07:53.712677+00:00"
+      "checked_at": "2026-09-26T01:19:25.904373+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-26T01:07:53.712677+00:00"
+      "checked_at": "2026-09-26T01:19:25.904373+00:00"
     }
   },
   "items": [
+    {
+      "id": "eb51104f5d180b8ca720",
+      "source": "BBC News",
+      "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
+      "url": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-26T01:16:29+00:00"
+    },
     {
       "id": "b5daada10349fa7118af",
       "source": "BBC News",
@@ -66,13 +73,6 @@
       "title": "Trump ha chiesto a Zelensky di andare a Mosca, Kiev nega",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-25-settembre_116955127-202602k.shtml",
       "published": "2026-09-25T21:30:00+00:00"
-    },
-    {
-      "id": "eb51104f5d180b8ca720",
-      "source": "BBC News",
-      "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
-      "url": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T21:16:59+00:00"
     },
     {
       "id": "7e0992e207b8653f661b",
