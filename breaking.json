@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-26T10:46:35.439084+00:00",
+  "updated_at": "2026-09-26T10:53:49.842327+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-26T10:46:35.439084+00:00"
+      "checked_at": "2026-09-26T10:53:49.842327+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-26T10:46:35.439084+00:00"
+      "checked_at": "2026-09-26T10:53:49.842327+00:00"
     }
   },
   "items": [
+    {
+      "id": "fdb745838b3edbecd05f",
+      "source": "TGcom24",
+      "title": "Roma, incendio in una palazzina a Colli Aniene: un morto",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/roma-incendio-palazzina-colli-aniene-un-morto_117004135-202602k.shtml",
+      "published": "2026-09-26T10:44:00+00:00"
+    },
     {
       "id": "4b4ab54d202f4f94e8b8",
       "source": "BBC News",
@@ -311,13 +318,6 @@
       "title": "Students strike across Germany in protest against military service",
       "url": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-25T15:36:22+00:00"
-    },
-    {
-      "id": "3e45f48cf9e8a6ecf684",
-      "source": "TGcom24",
-      "title": "Carburanti, Federpetroli: rischio 3 euro a litro. Eni fissa un tetto per benzina e gasolio",
-      "url": "https://www.tgcom24.mediaset.it/economia/caro-carburanti-federpetroli-3-euro-al-litro-tetto-eni_116978232-202602k.shtml",
-      "published": "2026-09-25T15:10:00+00:00"
     },
     {
       "id": "60ef02f722a0be7780e0",
