@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-25T23:53:35.540089+00:00",
+  "updated_at": "2026-09-26T00:08:51.419737+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-09-25T23:53:35.540089+00:00"
+      "checked_at": "2026-09-26T00:08:51.419737+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-25T23:53:35.540089+00:00"
+      "checked_at": "2026-09-26T00:08:51.419737+00:00"
     }
   },
   "items": [
+    {
+      "id": "fb7b1393555fcb1c35e8",
+      "source": "BBC News",
+      "title": "Are Ethiopians marching back to war in Tigray?",
+      "url": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T23:42:39+00:00"
+    },
     {
       "id": "a036c539b3228cf06b55",
       "source": "BBC News",
@@ -26,6 +33,13 @@
       "published": "2026-09-25T23:20:48+00:00"
     },
     {
+      "id": "b65a0000e7a56ccae86c",
+      "source": "BBC News",
+      "title": "As Merz scrambles for support, Germany's identity crisis is laid bare",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T23:08:02+00:00"
+    },
+    {
       "id": "93a81068a5d32d14d4d9",
       "source": "BBC News",
       "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
@@ -38,6 +52,13 @@
       "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
       "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-25T22:43:54+00:00"
+    },
+    {
+      "id": "0eee14f5db25dd341173",
+      "source": "BBC News",
+      "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T22:12:48+00:00"
     },
     {
       "id": "a637fe9a8b1960dfb3f3",
@@ -89,6 +110,13 @@
       "published": "2026-09-25T19:35:00+00:00"
     },
     {
+      "id": "a38160487f2fe3b21075",
+      "source": "BBC News",
+      "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+      "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T19:13:35+00:00"
+    },
+    {
       "id": "bbcd45caa045016ce440",
       "source": "TGcom24",
       "title": "Lettonia, incidente durante un'esercitazione: feriti 4 militari italiani",
@@ -96,11 +124,11 @@
       "published": "2026-09-25T18:55:00+00:00"
     },
     {
-      "id": "41977377ca79b5205742",
+      "id": "7985226cc79a463d3d28",
       "source": "BBC News",
-      "title": "Media outlets banned by Trump resume White House coverage after judge's order",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T18:36:30+00:00"
+      "title": "Trump's plans for massive arch move ahead",
+      "url": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T18:27:46+00:00"
     },
     {
       "id": "88ea114f071e3a9a8a49",
@@ -108,6 +136,13 @@
       "title": "Pacchi extra-Ue, fissata a 2 euro la commissione di gestione",
       "url": "https://www.tgcom24.mediaset.it/economia/pacchi-extra-ue-fissata-a-2-euro-la-commissione-di-gestione_116983464-202602k.shtml",
       "published": "2026-09-25T18:15:00+00:00"
+    },
+    {
+      "id": "538f0d432e427bc8a202",
+      "source": "BBC News",
+      "title": "Two arrested after people seen mysteriously emerging from various New York City sewers",
+      "url": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T17:59:03+00:00"
     },
     {
       "id": "859234decc520ea51b10",
@@ -138,11 +173,25 @@
       "published": "2026-09-25T16:20:00+00:00"
     },
     {
+      "id": "e415baa253f232661731",
+      "source": "BBC News",
+      "title": "Thousands turn out to greet Pope in France",
+      "url": "https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T15:44:55+00:00"
+    },
+    {
       "id": "d6aed63218c613a3c2e1",
       "source": "TGcom24",
       "title": "Cremlino: \"Licenza missili Patriot a Kiev? Monitoriamo\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-25-settembre_116955127-202602k.shtml",
       "published": "2026-09-25T15:40:00+00:00"
+    },
+    {
+      "id": "e0a52323d5cf9cb94c36",
+      "source": "BBC News",
+      "title": "Students strike across Germany in protest against military service",
+      "url": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T15:36:22+00:00"
     },
     {
       "id": "925a4d82645946abc7e5",
@@ -185,6 +234,13 @@
       "title": "Fine vita, il monito di Papa Leone: \"Non si può offrire una morte programmata\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/papa-leone-viaggio-francia-parigi-giornalisti-benvenuti_116961656-202602k.shtml",
       "published": "2026-09-25T13:44:00+00:00"
+    },
+    {
+      "id": "241b8fcb91ce8211398f",
+      "source": "BBC News",
+      "title": "Man shot during 2024 Trump campaign rally in Butler dies",
+      "url": "https://www.bbc.co.uk/news/articles/c5dj401d88l3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T13:23:33+00:00"
     },
     {
       "id": "dc7fd32315b7a49b82a4",
@@ -313,20 +369,6 @@
       "published": "2026-09-24T19:32:59+00:00"
     },
     {
-      "id": "a9a35a602383fc53f642",
-      "source": "BBC News",
-      "title": "Priest killed and four injured in knife attack at Polish abbey",
-      "url": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-24T19:18:12+00:00"
-    },
-    {
-      "id": "5dafbba51630478706d8",
-      "source": "BBC News",
-      "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
-      "url": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-24T19:02:36+00:00"
-    },
-    {
       "id": "e392ab65d14aa37668e0",
       "source": "BBC News",
       "title": "Watch: UN delegates walk out of Netanyahu speech",
@@ -339,20 +381,6 @@
       "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
       "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-24T18:06:40+00:00"
-    },
-    {
-      "id": "d76436e19e7f18059852",
-      "source": "BBC News",
-      "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-24T17:55:44+00:00"
-    },
-    {
-      "id": "8d33c1308d39dd27b27e",
-      "source": "BBC News",
-      "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
-      "url": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-24T14:37:34+00:00"
     }
   ]
 }
