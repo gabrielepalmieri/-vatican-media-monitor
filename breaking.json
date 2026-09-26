@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-26T08:22:17.236829+00:00",
+  "updated_at": "2026-09-26T08:33:06.976935+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-26T08:22:17.236829+00:00"
+      "checked_at": "2026-09-26T08:33:06.976935+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-26T08:22:17.236829+00:00"
+      "checked_at": "2026-09-26T08:33:06.976935+00:00"
     }
   },
   "items": [
+    {
+      "id": "683158b75ef52cae244f",
+      "source": "TGcom24",
+      "title": "Carburanti, dimezzato lo sconto sulle accise: gasolio a 2,4 euro in autostrada",
+      "url": "https://www.tgcom24.mediaset.it/economia/carburanti-cgia-prezzo-benzina-diesel_116999349-202602k.shtml",
+      "published": "2026-09-26T08:29:00+00:00"
+    },
     {
       "id": "6a531bc63207c7ed91d9",
       "source": "TGcom24",
@@ -339,13 +346,6 @@
       "title": "Canada, Carney: \"Governo si è preparato per un'invasione da parte degli Usa\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/canada-carney-ipotesi-invasione-usa_116972140-202602k.shtml",
       "published": "2026-09-25T12:48:00+00:00"
-    },
-    {
-      "id": "b781fb7dc15705ac643a",
-      "source": "TGcom24",
-      "title": "Unione Europea, formalizzata la \"handling fee\": 2 euro su ogni pacco extra-Ue",
-      "url": "https://www.tgcom24.mediaset.it/economia/unione-europea-formalizzata-la-handling-fee-2-euro-su-ogni-pacco-extra-ue_116969728-202602k.shtml",
-      "published": "2026-09-25T12:10:00+00:00"
     },
     {
       "id": "c6ee5f76fbbaa46517b0",
