@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-26T08:33:06.976935+00:00",
+  "updated_at": "2026-09-26T08:47:08.455861+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-26T08:33:06.976935+00:00"
+      "checked_at": "2026-09-26T08:47:08.455861+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-26T08:33:06.976935+00:00"
+      "checked_at": "2026-09-26T08:47:08.455861+00:00"
     }
   },
   "items": [
@@ -101,6 +101,13 @@
       "title": "Moody's: \"Italia resiliente a shock energia, quest'anno pil +0,8%\"",
       "url": "https://www.tgcom24.mediaset.it/economia/moody-s-italia-resiliente-2026-pil-0-8-deficit_116993116-202602k.shtml",
       "published": "2026-09-26T04:01:00+00:00"
+    },
+    {
+      "id": "5f88018b1bb3f6cbe073",
+      "source": "BBC News",
+      "title": "Brazil's Lula bans online gambling ahead of presidential election",
+      "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-26T03:22:17+00:00"
     },
     {
       "id": "b5daada10349fa7118af",
@@ -250,13 +257,6 @@
       "published": "2026-09-25T17:35:00+00:00"
     },
     {
-      "id": "8bca9fa6225a96b61429",
-      "source": "BBC News",
-      "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
-      "url": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T17:13:55+00:00"
-    },
-    {
       "id": "f538a0e4113e62a4a6f3",
       "source": "TGcom24",
       "title": "Ia, l'allarme di Bill Gates: \"Può determinare eventi con un miliardo di morti\"",
@@ -292,13 +292,6 @@
       "published": "2026-09-25T15:36:22+00:00"
     },
     {
-      "id": "925a4d82645946abc7e5",
-      "source": "BBC News",
-      "title": "Senior Kazakh officials detained after 14 service members swept out to sea",
-      "url": "https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T15:29:48+00:00"
-    },
-    {
       "id": "3e45f48cf9e8a6ecf684",
       "source": "TGcom24",
       "title": "Carburanti, Federpetroli: rischio 3 euro a litro. Eni fissa un tetto per benzina e gasolio",
@@ -320,13 +313,6 @@
       "published": "2026-09-25T14:38:00+00:00"
     },
     {
-      "id": "4c9e8fbcb4ff57ffc92f",
-      "source": "BBC News",
-      "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
-      "url": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T14:24:19+00:00"
-    },
-    {
       "id": "e1a4385bd5288216bda5",
       "source": "TGcom24",
       "title": "Fine vita, il monito di Papa Leone: \"Non si può offrire una morte programmata\"",
@@ -334,39 +320,11 @@
       "published": "2026-09-25T13:44:00+00:00"
     },
     {
-      "id": "241b8fcb91ce8211398f",
-      "source": "BBC News",
-      "title": "Man shot during 2024 Trump campaign rally in Butler dies",
-      "url": "https://www.bbc.co.uk/news/articles/c5dj401d88l3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T13:23:33+00:00"
-    },
-    {
       "id": "dc7fd32315b7a49b82a4",
       "source": "TGcom24",
       "title": "Canada, Carney: \"Governo si è preparato per un'invasione da parte degli Usa\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/canada-carney-ipotesi-invasione-usa_116972140-202602k.shtml",
       "published": "2026-09-25T12:48:00+00:00"
-    },
-    {
-      "id": "c6ee5f76fbbaa46517b0",
-      "source": "BBC News",
-      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-      "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T11:44:44+00:00"
-    },
-    {
-      "id": "d627fbc49524afdd0e36",
-      "source": "BBC News",
-      "title": "Jay-Z rape accuser says her allegation was false",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T10:51:28+00:00"
-    },
-    {
-      "id": "5525e4c3f065eca715f5",
-      "source": "BBC News",
-      "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
-      "url": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T09:48:33+00:00"
     },
     {
       "id": "679c4fc5c61b053a01f7",
@@ -381,13 +339,6 @@
       "title": "Pomp and toasts: Day 2 of Trump and Xi in DC",
       "url": "https://www.bbc.co.uk/news/videos/c9lykxx5zp70o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-25T05:54:07+00:00"
-    },
-    {
-      "id": "314a82857eb5e673120b",
-      "source": "BBC News",
-      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
-      "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T03:57:09+00:00"
     },
     {
       "id": "e306532268b8fce713a8",
