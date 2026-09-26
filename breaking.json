@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-09-26T04:07:03.518330+00:00",
+  "updated_at": "2026-09-26T04:20:48.335334+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-26T04:07:03.518330+00:00"
+      "checked_at": "2026-09-26T04:20:48.335334+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-26T04:07:03.518330+00:00"
+      "checked_at": "2026-09-26T04:20:48.335334+00:00"
     }
   },
   "items": [
+    {
+      "id": "a036c539b3228cf06b55",
+      "source": "BBC News",
+      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-26T04:14:30+00:00"
+    },
     {
       "id": "975f07dc9c41e599ca62",
       "source": "TGcom24",
       "title": "Moody's: \"Italia resiliente a shock energia, quest'anno pil +0,8%\"",
       "url": "https://www.tgcom24.mediaset.it/economia/moody-s-italia-resiliente-2026-pil-0-8-deficit_116993116-202602k.shtml",
       "published": "2026-09-26T04:01:00+00:00"
-    },
-    {
-      "id": "a036c539b3228cf06b55",
-      "source": "BBC News",
-      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-26T03:49:41+00:00"
     },
     {
       "id": "b5daada10349fa7118af",
