@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-26T03:49:27.400103+00:00",
+  "updated_at": "2026-09-26T03:55:58.572262+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-09-26T03:49:27.400103+00:00"
+      "checked_at": "2026-09-26T03:55:58.572262+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-26T03:49:27.400103+00:00"
+      "checked_at": "2026-09-26T03:55:58.572262+00:00"
     }
   },
   "items": [
+    {
+      "id": "a036c539b3228cf06b55",
+      "source": "BBC News",
+      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-26T03:49:41+00:00"
+    },
     {
       "id": "b5daada10349fa7118af",
       "source": "BBC News",
@@ -31,13 +38,6 @@
       "title": "Are Ethiopians marching back to war in Tigray?",
       "url": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-25T23:42:39+00:00"
-    },
-    {
-      "id": "a036c539b3228cf06b55",
-      "source": "BBC News",
-      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T23:38:48+00:00"
     },
     {
       "id": "b21605c92f09d93f2541",
