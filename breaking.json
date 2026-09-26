@@ -1,29 +1,36 @@
 {
-  "updated_at": "2026-09-26T04:56:08.745543+00:00",
+  "updated_at": "2026-09-26T05:06:35.297999+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-26T04:56:08.745543+00:00"
+      "checked_at": "2026-09-26T05:06:35.297999+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-26T04:56:08.745543+00:00"
+      "checked_at": "2026-09-26T05:06:35.297999+00:00"
     }
   },
   "items": [
+    {
+      "id": "a036c539b3228cf06b55",
+      "source": "BBC News",
+      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-26T05:03:09+00:00"
+    },
+    {
+      "id": "c0922148d43ad973ad61",
+      "source": "TGcom24",
+      "title": "Media: \"Intelligence egiziana aveva avvertito Israele del 7 ottobre 2023\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-26-settembre_116995389-202602k.shtml",
+      "published": "2026-09-26T05:00:00+00:00"
+    },
     {
       "id": "bb128faa952c62104ac6",
       "source": "TGcom24",
       "title": "Iran, Pezeshkian apre al ritorno degli ispettori Onu nei siti nucleari",
       "url": "https://www.tgcom24.mediaset.it/mondo/iran-pezeshkian-apre-ispettori-onu-siti-nucleari_116995389-202602k.shtml",
       "published": "2026-09-26T04:30:00+00:00"
-    },
-    {
-      "id": "a036c539b3228cf06b55",
-      "source": "BBC News",
-      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-26T04:14:30+00:00"
     },
     {
       "id": "975f07dc9c41e599ca62",
@@ -325,13 +332,6 @@
       "title": "Ucraina, Zelensky: \"Trump ha dato ok per farci produrre i missili Patriot\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-25-settembre_116955127-202602k.shtml",
       "published": "2026-09-25T09:20:00+00:00"
-    },
-    {
-      "id": "8f716ec2c334db189a06",
-      "source": "TGcom24",
-      "title": "Papa Leone a giornalista Cnn a Parigi: \"Felice che qui siate tutti benvenuti\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/papa-leone-a-giornalista-cnn-a-parigi-felice-che-qui-siate-tutti-benvenuti-_116961656-202602k.shtml",
-      "published": "2026-09-25T08:43:00+00:00"
     },
     {
       "id": "852427d1b2ea6def83b9",
