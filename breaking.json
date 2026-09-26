@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-09-26T07:20:40.658598+00:00",
+  "updated_at": "2026-09-26T07:30:13.078292+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-26T07:20:40.658598+00:00"
+      "checked_at": "2026-09-26T07:30:13.078292+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-26T07:20:40.658598+00:00"
+      "checked_at": "2026-09-26T07:30:13.078292+00:00"
     }
   },
   "items": [
+    {
+      "id": "4f2db742f602b9e2fe42",
+      "source": "TGcom24",
+      "title": "Germania, stop alle pietre d'inciampo in Sassonia: Cdu vota con Afd",
+      "url": "https://www.tgcom24.mediaset.it/mondo/pietre-d-inciampo-sassonia-cdu-afd_116996428-202602k.shtml",
+      "published": "2026-09-26T07:23:00+00:00"
+    },
+    {
+      "id": "68874a2db07dfc333025",
+      "source": "BBC News",
+      "title": "Bangkok roads submerged as flood disaster declared",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-26T07:21:30+00:00"
+    },
     {
       "id": "ce1b827e1af3b530d353",
       "source": "TGcom24",
@@ -21,7 +35,7 @@
     {
       "id": "4ac7f9607f5c17dfc824",
       "source": "BBC News",
-      "title": "Disaster declared as heavy rains spark Bangkok flooding",
+      "title": "Bangkok declares disaster as heavy rains spark flooding",
       "url": "https://www.bbc.co.uk/news/videos/ck9800jdj1q0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-26T06:28:58+00:00"
     },
@@ -332,13 +346,6 @@
       "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
       "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-25T11:44:44+00:00"
-    },
-    {
-      "id": "999d8f2c78f4c85d5a4e",
-      "source": "TGcom24",
-      "title": "Da oggi l'aeroporto di Milano Malpensa intitolato a Silvio Berlusconi",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/malpensa-marina-berlusconi-per-scalo-non-c-e-nome-migliore-di-silvio-berlusconi_116967435-202602k.shtml",
-      "published": "2026-09-25T11:11:00+00:00"
     },
     {
       "id": "d627fbc49524afdd0e36",
