@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-26T04:31:50.760586+00:00",
+  "updated_at": "2026-09-26T04:42:18.198153+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-26T04:31:50.760586+00:00"
+      "checked_at": "2026-09-26T04:42:18.198153+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-26T04:31:50.760586+00:00"
+      "checked_at": "2026-09-26T04:42:18.198153+00:00"
     }
   },
   "items": [
+    {
+      "id": "bb128faa952c62104ac6",
+      "source": "TGcom24",
+      "title": "Iran, Pezeshkian apre al ritorno degli ispettori Onu nei siti nucleari",
+      "url": "https://www.tgcom24.mediaset.it/mondo/iran-pezeshkian-apre-ispettori-onu-siti-nucleari_116995389-202602k.shtml",
+      "published": "2026-09-26T04:30:00+00:00"
+    },
     {
       "id": "a036c539b3228cf06b55",
       "source": "BBC News",
@@ -325,13 +332,6 @@
       "title": "Papa Leone a giornalista Cnn a Parigi: \"Felice che qui siate tutti benvenuti\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/papa-leone-a-giornalista-cnn-a-parigi-felice-che-qui-siate-tutti-benvenuti-_116961656-202602k.shtml",
       "published": "2026-09-25T08:43:00+00:00"
-    },
-    {
-      "id": "c615d608235dab645135",
-      "source": "TGcom24",
-      "title": "Torino, trovato cadavere in un appartamento: si indaga per omicidio",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/torino-cadavere-appartamento_116961039-202602k.shtml",
-      "published": "2026-09-25T08:05:00+00:00"
     },
     {
       "id": "852427d1b2ea6def83b9",
