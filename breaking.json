@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-26T19:06:02.216557+00:00",
+  "updated_at": "2026-09-26T19:18:32.404675+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-26T19:06:02.216557+00:00"
+      "checked_at": "2026-09-26T19:18:32.404675+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-26T19:06:02.216557+00:00"
+      "checked_at": "2026-09-26T19:18:32.404675+00:00"
     }
   },
   "items": [
+    {
+      "id": "de1c6a30d1da8c4a6aff",
+      "source": "BBC News",
+      "title": "White House bars CNN from travelling with Trump on Air Force One",
+      "url": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-26T19:16:14+00:00"
+    },
     {
       "id": "33aefe491240fe5867c4",
       "source": "BBC News",
@@ -234,13 +241,6 @@
       "title": "OpenAI, media: sistemi sfuggiti di mano, interferiscono con siti governo Usa",
       "url": "https://www.tgcom24.mediaset.it/mondo/openai-sistemi-interferiscono-siti-governo-usa_116996072-202602k.shtml",
       "published": "2026-09-26T05:45:00+00:00"
-    },
-    {
-      "id": "de1c6a30d1da8c4a6aff",
-      "source": "BBC News",
-      "title": "White House bars CNN from travelling with Trump on Air Force One",
-      "url": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-26T05:09:09+00:00"
     },
     {
       "id": "c0922148d43ad973ad61",
