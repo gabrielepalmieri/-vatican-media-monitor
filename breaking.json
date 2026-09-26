@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-26T19:27:01.386004+00:00",
+  "updated_at": "2026-09-26T19:35:24.550955+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-26T19:27:01.386004+00:00"
+      "checked_at": "2026-09-26T19:35:24.550955+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-26T19:27:01.386004+00:00"
+      "checked_at": "2026-09-26T19:35:24.550955+00:00"
     }
   },
   "items": [
+    {
+      "id": "2dd0aecfb99e5be54f49",
+      "source": "TGcom24",
+      "title": "Campobasso, tenta di rubare auto e saccheggia altra vettura: arrestato",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/campobasso-furto-saccheggio-vettura-arrestato_117022481-202602k.shtml",
+      "published": "2026-09-26T19:29:00+00:00"
+    },
     {
       "id": "de1c6a30d1da8c4a6aff",
       "source": "BBC News",
@@ -248,13 +255,6 @@
       "title": "Media: \"Intelligence egiziana aveva avvertito Israele del 7 ottobre 2023\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-26-settembre_116995389-202602k.shtml",
       "published": "2026-09-26T05:00:00+00:00"
-    },
-    {
-      "id": "bb128faa952c62104ac6",
-      "source": "TGcom24",
-      "title": "Iran, Pezeshkian apre al ritorno degli ispettori Onu nei siti nucleari",
-      "url": "https://www.tgcom24.mediaset.it/mondo/iran-pezeshkian-apre-ispettori-onu-siti-nucleari_116995389-202602k.shtml",
-      "published": "2026-09-26T04:30:00+00:00"
     },
     {
       "id": "b5daada10349fa7118af",
