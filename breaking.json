@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-26T15:55:48.523638+00:00",
+  "updated_at": "2026-09-26T16:07:09.955375+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-26T15:55:48.523638+00:00"
+      "checked_at": "2026-09-26T16:07:09.955375+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-26T15:55:48.523638+00:00"
+      "checked_at": "2026-09-26T16:07:09.955375+00:00"
     }
   },
   "items": [
+    {
+      "id": "4ce0c0d2cd40559346c2",
+      "source": "TGcom24",
+      "title": "Ucraina, Trump: \"Possibile accordo tra Zelensky e Putin prima dell'inverno\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-26-settembre_117015066-202602k.shtml",
+      "published": "2026-09-26T16:02:00+00:00"
+    },
     {
       "id": "f1ec8fdc652f4889e90c",
       "source": "BBC News",
@@ -339,13 +346,6 @@
       "title": "Robbie Williams' surprise singalong after Peru gig cancelled",
       "url": "https://www.bbc.co.uk/news/videos/c3qjkxk58y02o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-25T09:20:04+00:00"
-    },
-    {
-      "id": "852427d1b2ea6def83b9",
-      "source": "BBC News",
-      "title": "Pomp and toasts: Day 2 of Trump and Xi in DC",
-      "url": "https://www.bbc.co.uk/news/videos/c9lykxx5zp70o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T05:54:07+00:00"
     }
   ]
 }
