@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-09-26T21:06:33.859669+00:00",
+  "updated_at": "2026-09-26T21:20:41.772049+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-26T21:06:33.859669+00:00"
+      "checked_at": "2026-09-26T21:20:41.772049+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-26T21:06:33.859669+00:00"
+      "checked_at": "2026-09-26T21:20:41.772049+00:00"
     }
   },
   "items": [
+    {
+      "id": "e1ecc8aac0b082e503a1",
+      "source": "BBC News",
+      "title": "Mother of woman found hanging in tree shocked as police say body was staged",
+      "url": "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-26T21:13:13+00:00"
+    },
+    {
+      "id": "b49975a7e4dd9526fe7a",
+      "source": "TGcom24",
+      "title": "Usa, Trump: \"Stop all'obbligo delle auto elettriche, ho approvato nuovi standard\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/trump-stop-obbligo-auto-elettriche_117022500-202602k.shtml",
+      "published": "2026-09-26T21:09:00+00:00"
+    },
     {
       "id": "26368663171221759705",
       "source": "TGcom24",
@@ -250,25 +264,11 @@
       "published": "2026-09-26T06:54:00+00:00"
     },
     {
-      "id": "fd200aa21a47634414a0",
-      "source": "TGcom24",
-      "title": "Dublino, dopo 50 anni gli U2 cantano nella scuola dove tutto è cominciato",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/gli-u2-regalano-una-lezione-di-rock-and-roll-nella-scuola-dove-tutto-e-iniziato_116996077-02k.shtml",
-      "published": "2026-09-26T06:18:00+00:00"
-    },
-    {
       "id": "b5daada10349fa7118af",
       "source": "BBC News",
       "title": "OpenAI bots meddled with multiple US government agency sites",
       "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-26T02:50:56+00:00"
-    },
-    {
-      "id": "eb51104f5d180b8ca720",
-      "source": "BBC News",
-      "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
-      "url": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-26T01:24:31+00:00"
     },
     {
       "id": "fb7b1393555fcb1c35e8",
@@ -346,13 +346,6 @@
       "title": "Thousands turn out to greet Pope in France",
       "url": "https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-25T15:44:55+00:00"
-    },
-    {
-      "id": "679c4fc5c61b053a01f7",
-      "source": "BBC News",
-      "title": "Robbie Williams' surprise singalong after Peru gig cancelled",
-      "url": "https://www.bbc.co.uk/news/videos/c3qjkxk58y02o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T09:20:04+00:00"
     }
   ]
 }
