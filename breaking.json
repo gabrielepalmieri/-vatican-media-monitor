@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-27T09:55:33.475764+00:00",
+  "updated_at": "2026-09-27T10:06:57.014093+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-27T09:55:33.475764+00:00"
+      "checked_at": "2026-09-27T10:06:57.014093+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-27T09:55:33.475764+00:00"
+      "checked_at": "2026-09-27T10:06:57.014093+00:00"
     }
   },
   "items": [
+    {
+      "id": "c62bda411a4fe1d74a20",
+      "source": "BBC News",
+      "title": "Two mass shootings in South Africa leave 27 dead",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-27T10:00:36+00:00"
+    },
     {
       "id": "b1f7203040f90467ea9d",
       "source": "TGcom24",
@@ -24,13 +31,6 @@
       "title": "Torino, investe il figlio dell'ex e fugge: arrestata per tentato omicidio",
       "url": "https://www.tgcom24.mediaset.it/cronaca/torino-bimbo-investito-ex-padre_117035400-202602k.shtml",
       "published": "2026-09-27T09:03:00+00:00"
-    },
-    {
-      "id": "c62bda411a4fe1d74a20",
-      "source": "BBC News",
-      "title": "Two mass shootings in South Africa leave 27 dead",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-27T08:40:02+00:00"
     },
     {
       "id": "fa815f127963064a529d",
