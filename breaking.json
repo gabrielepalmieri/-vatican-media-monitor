@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-09-27T22:06:33.755015+00:00",
+  "updated_at": "2026-09-27T22:21:15.607049+00:00",
   "sources": {
     "TGcom24": {
-      "ok": false,
-      "checked_at": "2026-09-27T22:06:33.755015+00:00"
+      "ok": true,
+      "checked_at": "2026-09-27T22:21:15.607049+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-27T22:06:33.755015+00:00"
+      "checked_at": "2026-09-27T22:21:15.607049+00:00"
     }
   },
   "items": [
+    {
+      "id": "8691ff15d6bb6fccdf18",
+      "source": "TGcom24",
+      "title": "Suppletive Reggio Calabria, l'affluenza alle 23 è al 14,97%",
+      "url": "https://www.tgcom24.mediaset.it/elezioni/calabria-vota-seggio-camera-deputati_117030218-202602k.shtml",
+      "published": "2026-09-27T22:19:00+00:00"
+    },
+    {
+      "id": "7874ce1237f436bd0141",
+      "source": "TGcom24",
+      "title": "Usa, tempeste e allagamenti sulla Costa Est: in 130mila senza elettricità",
+      "url": "https://www.tgcom24.mediaset.it/2026/video/usa-tempeste-e-allagamenti-sulla-costa-est-in-130mila-senza-elettricita_117060225-02k.shtml",
+      "published": "2026-09-27T21:58:00+00:00"
+    },
     {
       "id": "8a77b4193dde5986239a",
       "source": "TGcom24",
@@ -229,25 +243,11 @@
       "published": "2026-09-27T08:51:23+00:00"
     },
     {
-      "id": "fa815f127963064a529d",
-      "source": "TGcom24",
-      "title": "Sangue in Sudafrica, due sparatorie in poche ore: 27 morti",
-      "url": "https://www.tgcom24.mediaset.it/mondo/sudafrica-sparatorie-morti_117032781-202602k.shtml",
-      "published": "2026-09-27T08:12:00+00:00"
-    },
-    {
       "id": "41509f5297c1596173d2",
       "source": "BBC News",
       "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
       "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-27T07:44:11+00:00"
-    },
-    {
-      "id": "9111844b9bfc0ea0b4b2",
-      "source": "TGcom24",
-      "title": "Cenere Etna, prolungato fino a mezzanotte lo stop all'aeroporto di Catania",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/cenere-lavica-dell-etna-prolungato-fino-a-mezzanotte-lo-stop-all-aeroporto-di-catania_117032966-202602k.shtml",
-      "published": "2026-09-27T07:34:00+00:00"
     },
     {
       "id": "68874a2db07dfc333025",
