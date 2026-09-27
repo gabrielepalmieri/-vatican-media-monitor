@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-27T04:32:56.052304+00:00",
+  "updated_at": "2026-09-27T04:44:06.072698+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-27T04:32:56.052304+00:00"
+      "checked_at": "2026-09-27T04:44:06.072698+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-27T04:32:56.052304+00:00"
+      "checked_at": "2026-09-27T04:44:06.072698+00:00"
     }
   },
   "items": [
+    {
+      "id": "b2930cf086e01fa49431",
+      "source": "TGcom24",
+      "title": "Ucraina, raid russi nella notte: morti e feriti tra Odessa e Zaporizhzhia",
+      "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-raid-russi-morti-feriti_117029470-202602k.shtml",
+      "published": "2026-09-27T04:40:00+00:00"
+    },
     {
       "id": "bd77320efddcd7e6ede2",
       "source": "BBC News",
@@ -255,13 +262,6 @@
       "title": "Sassari, rintracciata la 49enne scomparsa: era caduta in un pozzo",
       "url": "https://www.tgcom24.mediaset.it/cronaca/sassari-donna-ritrovata-pozzo-cantiere-edile_117001288-202602k.shtml",
       "published": "2026-09-26T09:19:00+00:00"
-    },
-    {
-      "id": "683158b75ef52cae244f",
-      "source": "TGcom24",
-      "title": "Carburanti, dimezzato lo sconto sulle accise: gasolio a 2,4 euro in autostrada",
-      "url": "https://www.tgcom24.mediaset.it/economia/carburanti-cgia-prezzo-benzina-diesel_116999349-202602k.shtml",
-      "published": "2026-09-26T08:29:00+00:00"
     },
     {
       "id": "68874a2db07dfc333025",
