@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-27T04:06:42.608346+00:00",
+  "updated_at": "2026-09-27T04:21:28.341562+00:00",
   "sources": {
     "TGcom24": {
-      "ok": false,
-      "checked_at": "2026-09-27T04:06:42.608346+00:00"
+      "ok": true,
+      "checked_at": "2026-09-27T04:21:28.341562+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-27T04:06:42.608346+00:00"
+      "checked_at": "2026-09-27T04:21:28.341562+00:00"
     }
   },
   "items": [
+    {
+      "id": "f79372592265d3947888",
+      "source": "TGcom24",
+      "title": "Caraibi, sparatoria su un'isola nota per il turismo di lusso: quattro morti",
+      "url": "https://www.tgcom24.mediaset.it/mondo/caraibi-sparatoria-su-un-isola-nota-per-il-turismo-di-lusso-quattro-morti_117027013-202602k.shtml",
+      "published": "2026-09-27T04:04:00+00:00"
+    },
     {
       "id": "a036c539b3228cf06b55",
       "source": "BBC News",
@@ -26,9 +33,16 @@
       "published": "2026-09-26T22:04:26+00:00"
     },
     {
+      "id": "af383230de3d6040b408",
+      "source": "TGcom24",
+      "title": "Macerata, pelle di tigre abbandonata davanti a un museo: indagini in corso",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/camerino-pelle-testa-tigre-tappeto-museo_117018055-202602k.shtml",
+      "published": "2026-09-26T21:59:00+00:00"
+    },
+    {
       "id": "3c3df7ccf376d8187c16",
       "source": "TGcom24",
-      "title": "Bagno di folla per Papa Leone a Lourdes: preghiera nella Grotta delle Apparizioni",
+      "title": "Papa a Lourdes, bagno di folla e preghiera nella Grotta delle Apparizioni",
       "url": "https://www.tgcom24.mediaset.it/mondo/papa-leone-francia-migranti-donne_117001480-202602k.shtml",
       "published": "2026-09-26T21:33:00+00:00"
     },
@@ -42,21 +56,21 @@
     {
       "id": "b49975a7e4dd9526fe7a",
       "source": "TGcom24",
-      "title": "Usa, Trump: \"Stop all'obbligo delle auto elettriche, ho approvato nuovi standard\"",
+      "title": "Usa, Trump: \"Stop all'obbligo di auto elettriche, approvati nuovi standard\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/trump-stop-obbligo-auto-elettriche_117022500-202602k.shtml",
       "published": "2026-09-26T21:09:00+00:00"
     },
     {
       "id": "26368663171221759705",
       "source": "TGcom24",
-      "title": "Scontro fra auto nel Trevigiano, morti due 76enni",
+      "title": "Scontro fra auto a San Polo di Piave, nel Trevigiano: morti due 76enni",
       "url": "https://www.tgcom24.mediaset.it/cronaca/scontro-fra-auto-nel-trevigiano-morti-due-76enni_117022490-202602k.shtml",
       "published": "2026-09-26T20:40:00+00:00"
     },
     {
       "id": "70912ca5eb78c798c603",
       "source": "TGcom24",
-      "title": "Gaza, ufficio Netanyahu: \"Falso che l'Egitto ci avvisò dell'attacco di Hamas\"",
+      "title": "L'ufficio di Netanyahu: \"Falso che l'Egitto ci avvisò dell'attacco di Hamas\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-26-settembre_116995389-202602k.shtml",
       "published": "2026-09-26T20:04:00+00:00"
     },
@@ -77,7 +91,7 @@
     {
       "id": "2dd0aecfb99e5be54f49",
       "source": "TGcom24",
-      "title": "Campobasso, tenta di rubare auto e saccheggia altra vettura: arrestato",
+      "title": "Campobasso, tenta di rubare un'auto e saccheggia un'altra vettura: arrestato",
       "url": "https://www.tgcom24.mediaset.it/cronaca/campobasso-furto-saccheggio-vettura-arrestato_117022481-202602k.shtml",
       "published": "2026-09-26T19:29:00+00:00"
     },
@@ -98,7 +112,7 @@
     {
       "id": "151836c8dba5a429aef6",
       "source": "TGcom24",
-      "title": "Zelensky: \"Da Mosca qualsiasi pretesto per evitare negoziati e continuare la guerra\"",
+      "title": "Ucraina, Zelensky: \"Da Mosca qualsiasi pretesto per evitare i negoziati\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-26-settembre_117015066-202602k.shtml",
       "published": "2026-09-26T18:11:00+00:00"
     },
@@ -248,20 +262,6 @@
       "title": "Carburanti, dimezzato lo sconto sulle accise: gasolio a 2,4 euro in autostrada",
       "url": "https://www.tgcom24.mediaset.it/economia/carburanti-cgia-prezzo-benzina-diesel_116999349-202602k.shtml",
       "published": "2026-09-26T08:29:00+00:00"
-    },
-    {
-      "id": "6a531bc63207c7ed91d9",
-      "source": "TGcom24",
-      "title": "Catania, nube di cenere alta quattro chilometri: voli di nuovo sospesi",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/catania-cenere-lavica-etna-voli-sospesi_116999350-202602k.shtml",
-      "published": "2026-09-26T08:03:00+00:00"
-    },
-    {
-      "id": "4f2db742f602b9e2fe42",
-      "source": "TGcom24",
-      "title": "Germania, stop alle pietre d'inciampo in Sassonia: la Cdu vota con l'Afd",
-      "url": "https://www.tgcom24.mediaset.it/mondo/pietre-d-inciampo-sassonia-cdu-afd_116996428-202602k.shtml",
-      "published": "2026-09-26T07:23:00+00:00"
     },
     {
       "id": "68874a2db07dfc333025",
