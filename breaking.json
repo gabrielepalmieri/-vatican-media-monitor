@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-09-27T20:07:06.480322+00:00",
+  "updated_at": "2026-09-27T20:20:48.128450+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-27T20:07:06.480322+00:00"
+      "checked_at": "2026-09-27T20:20:48.128450+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-27T20:07:06.480322+00:00"
+      "checked_at": "2026-09-27T20:20:48.128450+00:00"
     }
   },
   "items": [
+    {
+      "id": "fdf1d3efecd9cbec044a",
+      "source": "TGcom24",
+      "title": "Gerusalemme, spruzza spray al peperoncino contro un bambino cristiano: arrestato",
+      "url": "https://www.tgcom24.mediaset.it/mondo/gerusalemme-spray-peperoncino-contro-bambino-arresto_117059997-202602k.shtml",
+      "published": "2026-09-27T20:15:00+00:00"
+    },
+    {
+      "id": "1475ce0bf3756f3da496",
+      "source": "BBC News",
+      "title": "Watch: The ups and downs of SpaceX's 13 Starship test flights",
+      "url": "https://www.bbc.co.uk/news/videos/cm0e30lpngxpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-27T20:05:07+00:00"
+    },
     {
       "id": "f7a4697448544b74222e",
       "source": "BBC News",
@@ -241,13 +255,6 @@
       "title": "Bangkok roads submerged as flood disaster declared",
       "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-27T04:45:08+00:00"
-    },
-    {
-      "id": "b2930cf086e01fa49431",
-      "source": "TGcom24",
-      "title": "Ucraina, raid russi nella notte: morti e feriti tra Odessa e Zaporizhzhia",
-      "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-raid-russi-morti-feriti_117029470-202602k.shtml",
-      "published": "2026-09-27T04:40:00+00:00"
     },
     {
       "id": "163d5e856adcc45a7278",
