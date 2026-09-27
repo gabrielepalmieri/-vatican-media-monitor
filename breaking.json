@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-27T10:06:57.014093+00:00",
+  "updated_at": "2026-09-27T10:20:17.339301+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-27T10:06:57.014093+00:00"
+      "checked_at": "2026-09-27T10:20:17.339301+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-27T10:06:57.014093+00:00"
+      "checked_at": "2026-09-27T10:20:17.339301+00:00"
     }
   },
   "items": [
+    {
+      "id": "4c0f5ac63ab602fc88d3",
+      "source": "TGcom24",
+      "title": "Operaio morto al Colosseo, tra gli indagati anche il cognato della vittima",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/operaio-morto-al-colosseo-indagato-cognato_117039625-202602k.shtml",
+      "published": "2026-09-27T10:05:00+00:00"
+    },
     {
       "id": "c62bda411a4fe1d74a20",
       "source": "BBC News",
@@ -285,13 +292,6 @@
       "published": "2026-09-26T14:04:00+00:00"
     },
     {
-      "id": "c78b62b7b700666176f6",
-      "source": "TGcom24",
-      "title": "Francia, in 800mila lungo gli Champs-Elysées ad accogliere il Papa",
-      "url": "https://www.tgcom24.mediaset.it/mondo/papa-leone-francia-migranti-donne_117001480-202602k.shtml",
-      "published": "2026-09-26T13:16:00+00:00"
-    },
-    {
       "id": "4b4ab54d202f4f94e8b8",
       "source": "BBC News",
       "title": "British national among six dead in building explosion close to Acropolis in Athens",
@@ -325,13 +325,6 @@
       "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
       "url": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-25T23:05:40+00:00"
-    },
-    {
-      "id": "0eee14f5db25dd341173",
-      "source": "BBC News",
-      "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25T22:12:48+00:00"
     }
   ]
 }
