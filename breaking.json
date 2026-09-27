@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-09-27T12:26:02.985084+00:00",
+  "updated_at": "2026-09-27T12:41:42.868193+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-27T12:26:02.985084+00:00"
+      "checked_at": "2026-09-27T12:41:42.868193+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-27T12:26:02.985084+00:00"
+      "checked_at": "2026-09-27T12:41:42.868193+00:00"
     }
   },
   "items": [
+    {
+      "id": "cbd6c9045f24321f1723",
+      "source": "BBC News",
+      "title": "Ten climbers missing after avalanche hits Himalayan base camp",
+      "url": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-27T12:36:57+00:00"
+    },
+    {
+      "id": "bd77320efddcd7e6ede2",
+      "source": "BBC News",
+      "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-27T12:34:26+00:00"
+    },
+    {
+      "id": "0e902bfb8384a8de81bf",
+      "source": "TGcom24",
+      "title": "Bologna, ubriaco alla guida travolge e uccide un operaio sulla A14",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/bologna-ubriaco-travolge-operaio-autostrada-a14_117046165-202602k.shtml",
+      "published": "2026-09-27T12:27:00+00:00"
+    },
     {
       "id": "21da3b06d327a02f529d",
       "source": "TGcom24",
@@ -122,13 +143,6 @@
       "title": "Ucraina, raid russi nella notte: morti e feriti tra Odessa e Zaporizhzhia",
       "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-raid-russi-morti-feriti_117029470-202602k.shtml",
       "published": "2026-09-27T04:40:00+00:00"
-    },
-    {
-      "id": "bd77320efddcd7e6ede2",
-      "source": "BBC News",
-      "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-27T04:23:09+00:00"
     },
     {
       "id": "f79372592265d3947888",
@@ -276,13 +290,6 @@
       "title": "Watch: Bangkok declared flood disaster zone",
       "url": "https://www.bbc.co.uk/news/videos/cwp933mr9v1xo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-26T15:34:18+00:00"
-    },
-    {
-      "id": "15651e7f614a9ceecd75",
-      "source": "TGcom24",
-      "title": "Forte dei Marmi, scippano orologio da 100mila euro a un turista: arrestati",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/forte-dei-marmi-scippo-orologio-lusso-arrestati_117012680-202602k.shtml",
-      "published": "2026-09-26T15:32:00+00:00"
     },
     {
       "id": "64bb8bc60d1ddd9dd2b2",
