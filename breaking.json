@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-09-27T15:54:26.515000+00:00",
+  "updated_at": "2026-09-27T16:07:10.048351+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-27T15:54:26.515000+00:00"
+      "checked_at": "2026-09-27T16:07:10.048351+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-27T15:54:26.515000+00:00"
+      "checked_at": "2026-09-27T16:07:10.048351+00:00"
     }
   },
   "items": [
+    {
+      "id": "f4e248e3d70850c03223",
+      "source": "BBC News",
+      "title": "Switzerland rejects stricter interpretation of its neutrality",
+      "url": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-27T16:02:17+00:00"
+    },
+    {
+      "id": "d2d4ba256dbf3aed9603",
+      "source": "BBC News",
+      "title": "Venezuela releases dozens of political prisoners as election calls grow",
+      "url": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-27T15:56:25+00:00"
+    },
     {
       "id": "e3f3b4cf9b1255beb06f",
       "source": "TGcom24",
@@ -77,7 +91,7 @@
     {
       "id": "82c82ae2af4f19bfbbe0",
       "source": "BBC News",
-      "title": "'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit",
+      "title": "'Scourge' of abuse must be rooted out, says Pope during Lourdes visit",
       "url": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-27T11:38:03+00:00"
     },
