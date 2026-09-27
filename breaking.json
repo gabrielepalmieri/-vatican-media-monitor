@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-27T12:52:56.538983+00:00",
+  "updated_at": "2026-09-27T12:59:42.939050+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-27T12:52:56.538983+00:00"
+      "checked_at": "2026-09-27T12:59:42.939050+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-27T12:52:56.538983+00:00"
+      "checked_at": "2026-09-27T12:59:42.939050+00:00"
     }
   },
   "items": [
+    {
+      "id": "dad33f85dab64fdb5c8a",
+      "source": "TGcom24",
+      "title": "Lodi, 15enne morto folgorato sul traliccio: si cerca il suo cellulare",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/lodi-15enne-morto-folgorato-ultime-notizie_117046145-202602k.shtml",
+      "published": "2026-09-27T12:53:00+00:00"
+    },
     {
       "id": "cbd6c9045f24321f1723",
       "source": "BBC News",
@@ -262,13 +269,6 @@
       "title": "Ucciso e fatto a pezzi a Torino, il fermato confessa: \"Agito dopo una lite\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/omicidio-torino-mamma-fermato_117009761-202602k.shtml",
       "published": "2026-09-26T16:45:00+00:00"
-    },
-    {
-      "id": "4ce0c0d2cd40559346c2",
-      "source": "TGcom24",
-      "title": "Ucraina, Trump: \"Possibile accordo tra Zelensky e Putin prima dell'inverno\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-26-settembre_117015066-202602k.shtml",
-      "published": "2026-09-26T16:02:00+00:00"
     },
     {
       "id": "f1ec8fdc652f4889e90c",
