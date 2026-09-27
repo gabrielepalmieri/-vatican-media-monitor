@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-27T16:07:10.048351+00:00",
+  "updated_at": "2026-09-27T16:21:41.442307+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-27T16:07:10.048351+00:00"
+      "checked_at": "2026-09-27T16:21:41.442307+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-27T16:07:10.048351+00:00"
+      "checked_at": "2026-09-27T16:21:41.442307+00:00"
     }
   },
   "items": [
+    {
+      "id": "ad0a5aa2aa5416b2238d",
+      "source": "TGcom24",
+      "title": "Carburanti, Tajani: \"Dopo Eni anche Ip limita i prezzi, contributi senza imposizioni dall'alto\"",
+      "url": "https://www.tgcom24.mediaset.it/economia/carburanti-socar-limite-prezzi-gasolio-ip_117050453-202602k.shtml",
+      "published": "2026-09-27T16:14:00+00:00"
+    },
     {
       "id": "f4e248e3d70850c03223",
       "source": "BBC News",
@@ -262,13 +269,6 @@
       "title": "Scontro fra auto a San Polo di Piave, nel Trevigiano: morti due 76enni",
       "url": "https://www.tgcom24.mediaset.it/cronaca/scontro-fra-auto-nel-trevigiano-morti-due-76enni_117022490-202602k.shtml",
       "published": "2026-09-26T20:40:00+00:00"
-    },
-    {
-      "id": "70912ca5eb78c798c603",
-      "source": "TGcom24",
-      "title": "L'ufficio di Netanyahu: \"Falso che l'Egitto ci avvisò dell'attacco di Hamas\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-26-settembre_116995389-202602k.shtml",
-      "published": "2026-09-26T20:04:00+00:00"
     },
     {
       "id": "2865cd991a7c56addacb",
