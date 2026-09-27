@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-27T16:21:41.442307+00:00",
+  "updated_at": "2026-09-27T16:33:02.533300+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-27T16:21:41.442307+00:00"
+      "checked_at": "2026-09-27T16:33:02.533300+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-27T16:21:41.442307+00:00"
+      "checked_at": "2026-09-27T16:33:02.533300+00:00"
     }
   },
   "items": [
+    {
+      "id": "cbd6c9045f24321f1723",
+      "source": "BBC News",
+      "title": "Ten climbers missing after avalanche hits Himalayan base camp",
+      "url": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-27T16:22:37+00:00"
+    },
     {
       "id": "ad0a5aa2aa5416b2238d",
       "source": "TGcom24",
@@ -66,13 +73,6 @@
       "title": "Lodi, 15enne morto folgorato sul traliccio: si cerca il suo cellulare",
       "url": "https://www.tgcom24.mediaset.it/cronaca/lodi-15enne-morto-folgorato-ultime-notizie_117046145-202602k.shtml",
       "published": "2026-09-27T12:53:00+00:00"
-    },
-    {
-      "id": "cbd6c9045f24321f1723",
-      "source": "BBC News",
-      "title": "Ten climbers missing after avalanche hits Himalayan base camp",
-      "url": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-27T12:36:57+00:00"
     },
     {
       "id": "bd77320efddcd7e6ede2",
