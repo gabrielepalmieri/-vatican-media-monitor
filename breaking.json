@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-27T14:06:33.152521+00:00",
+  "updated_at": "2026-09-27T14:20:14.235794+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-27T14:06:33.152521+00:00"
+      "checked_at": "2026-09-27T14:20:14.235794+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-27T14:06:33.152521+00:00"
+      "checked_at": "2026-09-27T14:20:14.235794+00:00"
     }
   },
   "items": [
@@ -16,7 +16,21 @@
       "source": "BBC News",
       "title": "Two mass shootings in South Africa leave 27 dead",
       "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-27T13:50:14+00:00"
+      "published": "2026-09-27T14:09:22+00:00"
+    },
+    {
+      "id": "1bd3bddba844a00eeebc",
+      "source": "TGcom24",
+      "title": "Aborto e fine vita, Papa: \"Nessuna legge può dare la morte\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/papa-francia-terza-giornata-lourdes-messa-malati_117031211-202602k.shtml",
+      "published": "2026-09-27T14:08:00+00:00"
+    },
+    {
+      "id": "93e2aca72bdb3fafdc50",
+      "source": "TGcom24",
+      "title": "Allarme esplosivi alla base Raf nel Regno Unito, cinque persone arrestate per terrorismo",
+      "url": "https://www.tgcom24.mediaset.it/mondo/regno-unito-allarme-terrorismo-base-militare-usa_117036709-202602k.shtml",
+      "published": "2026-09-27T13:29:00+00:00"
     },
     {
       "id": "dad33f85dab64fdb5c8a",
@@ -262,20 +276,6 @@
       "title": "Ucraina, Zelensky: \"Da Mosca qualsiasi pretesto per evitare i negoziati\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-26-settembre_117015066-202602k.shtml",
       "published": "2026-09-26T18:11:00+00:00"
-    },
-    {
-      "id": "ae3aa036aeb104a0833a",
-      "source": "TGcom24",
-      "title": "La Moldavia: \"Un oggetto non identificato ha violato il nostro spazio aereo\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-26-settembre_117015066-202602k.shtml",
-      "published": "2026-09-26T17:26:00+00:00"
-    },
-    {
-      "id": "2e2675dbd1c9e6497b95",
-      "source": "TGcom24",
-      "title": "Ucciso e fatto a pezzi a Torino, il fermato confessa: \"Agito dopo una lite\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/omicidio-torino-mamma-fermato_117009761-202602k.shtml",
-      "published": "2026-09-26T16:45:00+00:00"
     },
     {
       "id": "f1ec8fdc652f4889e90c",
