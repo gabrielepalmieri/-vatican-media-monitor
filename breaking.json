@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-27T19:44:36.576275+00:00",
+  "updated_at": "2026-09-27T19:53:39.437889+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-27T19:44:36.576275+00:00"
+      "checked_at": "2026-09-27T19:53:39.437889+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-27T19:44:36.576275+00:00"
+      "checked_at": "2026-09-27T19:53:39.437889+00:00"
     }
   },
   "items": [
+    {
+      "id": "82c82ae2af4f19bfbbe0",
+      "source": "BBC News",
+      "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-27T19:47:21+00:00"
+    },
     {
       "id": "d67addaa8b7e606ee4c2",
       "source": "TGcom24",
@@ -150,13 +157,6 @@
       "title": "Uomo fatto a pezzi a Torino, restano in carcere i tre indagati",
       "url": "https://www.tgcom24.mediaset.it/cronaca/omicidio-torino-fatto-a-pezzi-ultime-notizie_117009761-202602k.shtml",
       "published": "2026-09-27T11:51:00+00:00"
-    },
-    {
-      "id": "82c82ae2af4f19bfbbe0",
-      "source": "BBC News",
-      "title": "'Scourge' of abuse must be rooted out, says Pope during Lourdes visit",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-27T11:38:03+00:00"
     },
     {
       "id": "92137fffc2af6c8209f9",
