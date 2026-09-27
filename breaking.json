@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-27T23:37:50.937188+00:00",
+  "updated_at": "2026-09-27T23:45:04.839977+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-27T23:37:50.937188+00:00"
+      "checked_at": "2026-09-27T23:45:04.839977+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-27T23:37:50.937188+00:00"
+      "checked_at": "2026-09-27T23:45:04.839977+00:00"
     }
   },
   "items": [
+    {
+      "id": "bd77320efddcd7e6ede2",
+      "source": "BBC News",
+      "title": "One dead as nor'easter storm pummels New York and New Jersey",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-27T23:37:26+00:00"
+    },
     {
       "id": "8691ff15d6bb6fccdf18",
       "source": "TGcom24",
@@ -178,13 +185,6 @@
       "title": "Lodi, 15enne morto folgorato sul traliccio: si cerca il suo cellulare",
       "url": "https://www.tgcom24.mediaset.it/cronaca/lodi-15enne-morto-folgorato-ultime-notizie_117046145-202602k.shtml",
       "published": "2026-09-27T12:53:00+00:00"
-    },
-    {
-      "id": "bd77320efddcd7e6ede2",
-      "source": "BBC News",
-      "title": "One dead as nor'easter storm pummels New York and New Jersey",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-27T12:34:26+00:00"
     },
     {
       "id": "0e902bfb8384a8de81bf",
