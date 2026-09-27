@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-27T06:08:59.909903+00:00",
+  "updated_at": "2026-09-27T06:26:24.675005+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-27T06:08:59.909903+00:00"
+      "checked_at": "2026-09-27T06:26:24.675005+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-27T06:08:59.909903+00:00"
+      "checked_at": "2026-09-27T06:26:24.675005+00:00"
     }
   },
   "items": [
+    {
+      "id": "57dc07ed764342b217e7",
+      "source": "TGcom24",
+      "title": "Roma, salme fatte a pezzi nei cimiteri: Ama licenzia 7 dipendenti e ne sospende 4",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/roma-ama-cimiteri-licenziamenti-irregolarita-salme_117030715-202602k.shtml",
+      "published": "2026-09-27T06:06:00+00:00"
+    },
     {
       "id": "add5b785a9d7c88242ad",
       "source": "TGcom24",
@@ -283,13 +290,6 @@
       "title": "Francia, il Papa tra i migranti: \"Donne fondamentali nella civiltà dell'amore\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/papa-leone-francia-migranti-donne_117001480-202602k.shtml",
       "published": "2026-09-26T10:13:00+00:00"
-    },
-    {
-      "id": "b370228a2e591de4bb3e",
-      "source": "TGcom24",
-      "title": "Carburanti, allarme Cgia: \"In 7 mesi prezzo della benzina +29%, diesel +36%\"",
-      "url": "https://www.tgcom24.mediaset.it/economia/carburanti-cgia-prezzo-benzina-diesel_116999349-202602k.shtml",
-      "published": "2026-09-26T09:44:00+00:00"
     },
     {
       "id": "b5daada10349fa7118af",
