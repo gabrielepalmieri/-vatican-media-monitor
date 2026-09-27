@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-27T18:23:38.911155+00:00",
+  "updated_at": "2026-09-27T18:40:45.491358+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-27T18:23:38.911155+00:00"
+      "checked_at": "2026-09-27T18:40:45.491358+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-27T18:23:38.911155+00:00"
+      "checked_at": "2026-09-27T18:40:45.491358+00:00"
     }
   },
   "items": [
+    {
+      "id": "48aebf625bf0382db07e",
+      "source": "TGcom24",
+      "title": "Suppletive Reggio Calabria, alle 19 l'affluenza è al 10,26%",
+      "url": "https://www.tgcom24.mediaset.it/elezioni/calabria-vota-seggio-camera-deputati_117030218-202602k.shtml",
+      "published": "2026-09-27T18:27:00+00:00"
+    },
     {
       "id": "44d9e54347484f4ff4e4",
       "source": "TGcom24",
@@ -159,13 +166,6 @@
       "published": "2026-09-27T10:05:00+00:00"
     },
     {
-      "id": "b1f7203040f90467ea9d",
-      "source": "TGcom24",
-      "title": "Regno Unito, allarme esplosivi vicino alla base Raf: evacuato villaggio",
-      "url": "https://www.tgcom24.mediaset.it/mondo/gran-bretagna-allarme-esplosivi-base-militare_117036709-202602k.shtml",
-      "published": "2026-09-27T09:30:00+00:00"
-    },
-    {
       "id": "3d0e04b6ddf5aab456df",
       "source": "TGcom24",
       "title": "Torino, investe il figlio dell'ex e fugge: arrestata per tentato omicidio",
@@ -215,13 +215,6 @@
       "published": "2026-09-27T06:06:00+00:00"
     },
     {
-      "id": "add5b785a9d7c88242ad",
-      "source": "TGcom24",
-      "title": "Seggi aperti per le elezioni suppletive nel collegio Reggio Calabria-Locri",
-      "url": "https://www.tgcom24.mediaset.it/politica/calabria-vota-seggio-camera-deputati_117030218-202602k.shtml",
-      "published": "2026-09-27T05:17:00+00:00"
-    },
-    {
       "id": "68874a2db07dfc333025",
       "source": "BBC News",
       "title": "Bangkok roads submerged as flood disaster declared",
@@ -262,6 +255,13 @@
       "title": "Young people in China are fangirling over a professor who gets their anxiety",
       "url": "https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-26T22:02:18+00:00"
+    },
+    {
+      "id": "af383230de3d6040b408",
+      "source": "TGcom24",
+      "title": "Macerata, pelle di tigre abbandonata davanti a un museo: indagini in corso",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/camerino-pelle-testa-tigre-tappeto-museo_117018055-202602k.shtml",
+      "published": "2026-09-26T21:59:00+00:00"
     },
     {
       "id": "03de82b6303b0aeaf27e",
