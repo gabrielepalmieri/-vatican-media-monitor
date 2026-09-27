@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-27T13:47:17.565740+00:00",
+  "updated_at": "2026-09-27T13:54:12.605141+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-27T13:47:17.565740+00:00"
+      "checked_at": "2026-09-27T13:54:12.605141+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-27T13:47:17.565740+00:00"
+      "checked_at": "2026-09-27T13:54:12.605141+00:00"
     }
   },
   "items": [
+    {
+      "id": "c62bda411a4fe1d74a20",
+      "source": "BBC News",
+      "title": "Two mass shootings in South Africa leave 27 dead",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-27T13:50:14+00:00"
+    },
     {
       "id": "dad33f85dab64fdb5c8a",
       "source": "TGcom24",
@@ -73,13 +80,6 @@
       "title": "Operaio morto al Colosseo, tra gli indagati anche il cognato della vittima",
       "url": "https://www.tgcom24.mediaset.it/cronaca/operaio-morto-al-colosseo-indagato-cognato_117039625-202602k.shtml",
       "published": "2026-09-27T10:05:00+00:00"
-    },
-    {
-      "id": "c62bda411a4fe1d74a20",
-      "source": "BBC News",
-      "title": "Two mass shootings in South Africa leave 27 dead",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-27T10:00:36+00:00"
     },
     {
       "id": "b1f7203040f90467ea9d",
