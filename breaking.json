@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-27T11:54:52.236028+00:00",
+  "updated_at": "2026-09-27T12:08:56.637789+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-27T11:54:52.236028+00:00"
+      "checked_at": "2026-09-27T12:08:56.637789+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-27T11:54:52.236028+00:00"
+      "checked_at": "2026-09-27T12:08:56.637789+00:00"
     }
   },
   "items": [
+    {
+      "id": "21da3b06d327a02f529d",
+      "source": "TGcom24",
+      "title": "Uomo fatto a pezzi a Torino, restano in carcere i tre indagati",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/omicidio-torino-fatto-a-pezzi-ultime-notizie_117009761-202602k.shtml",
+      "published": "2026-09-27T11:51:00+00:00"
+    },
     {
       "id": "82c82ae2af4f19bfbbe0",
       "source": "BBC News",
@@ -283,13 +290,6 @@
       "title": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
       "url": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-26T15:12:25+00:00"
-    },
-    {
-      "id": "18a679185f7845e2a97a",
-      "source": "TGcom24",
-      "title": "Guerra in Iran, Trump: \"Ho respinto la proposta per una tregua di 7 giorni\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-26-settembre_116995389-202602k.shtml",
-      "published": "2026-09-26T15:01:00+00:00"
     },
     {
       "id": "4b4ab54d202f4f94e8b8",
