@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-09-27T06:42:20.806291+00:00",
+  "updated_at": "2026-09-27T06:53:37.867227+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-27T06:42:20.806291+00:00"
+      "checked_at": "2026-09-27T06:53:37.867227+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-27T06:42:20.806291+00:00"
+      "checked_at": "2026-09-27T06:53:37.867227+00:00"
     }
   },
   "items": [
+    {
+      "id": "41509f5297c1596173d2",
+      "source": "BBC News",
+      "title": "Iran waiting for official US response after Trump rejects Hormuz deal, minister says",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-27T06:52:49+00:00"
+    },
+    {
+      "id": "a552472d46c1d73e9062",
+      "source": "TGcom24",
+      "title": "IA fuori controllo, OpenAI sospende l'addestramento dei modelli più recenti",
+      "url": "https://www.tgcom24.mediaset.it/mondo/ia-openai-sospende-modelli-recenti_117030716-202602k.shtml",
+      "published": "2026-09-27T06:48:00+00:00"
+    },
     {
       "id": "57dc07ed764342b217e7",
       "source": "TGcom24",
@@ -59,13 +73,6 @@
       "title": "Four killed in helicopter crash near Montreal",
       "url": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-27T02:43:10+00:00"
-    },
-    {
-      "id": "41509f5297c1596173d2",
-      "source": "BBC News",
-      "title": "Iran says it will wait for official US response after Trump rejects Strait of Hormuz proposal",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-27T02:16:52+00:00"
     },
     {
       "id": "fb1d521e9f458289ed3b",
@@ -283,13 +290,6 @@
       "title": "Roma, incendio all'ultimo piano di una palazzina a Colli Aniene: un morto",
       "url": "https://www.tgcom24.mediaset.it/cronaca/roma-incendio-palazzina-colli-aniene-un-morto_117004135-202602k.shtml",
       "published": "2026-09-26T10:44:00+00:00"
-    },
-    {
-      "id": "e8ef83dece5a0d0db8f2",
-      "source": "TGcom24",
-      "title": "Francia, il Papa tra i migranti: \"Donne fondamentali nella civiltà dell'amore\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/papa-leone-francia-migranti-donne_117001480-202602k.shtml",
-      "published": "2026-09-26T10:13:00+00:00"
     },
     {
       "id": "b5daada10349fa7118af",
