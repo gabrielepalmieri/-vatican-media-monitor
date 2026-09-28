@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-28T18:26:18.529103+00:00",
+  "updated_at": "2026-09-28T18:43:01.758423+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-28T18:26:18.529103+00:00"
+      "checked_at": "2026-09-28T18:43:01.758423+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-28T18:26:18.529103+00:00"
+      "checked_at": "2026-09-28T18:43:01.758423+00:00"
     }
   },
   "items": [
+    {
+      "id": "8716b97a00153ddfb158",
+      "source": "TGcom24",
+      "title": "Media: gli Usa vogliono che l'Iran consenta il ritorno degli ispettori dell'Aiea",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-28-settembre_117062248-202602k.shtml",
+      "published": "2026-09-28T18:30:00+00:00"
+    },
     {
       "id": "ef99e7f8d1056626a137",
       "source": "BBC News",
@@ -276,13 +283,6 @@
       "title": "Carburanti, scattano i prezzi calmierati di Eni",
       "url": "https://www.tgcom24.mediaset.it/economia/caro-carburanti-prezzi-calmierati-eni-ip_117062832-202602k.shtml",
       "published": "2026-09-28T05:55:00+00:00"
-    },
-    {
-      "id": "ed13040650d4393acfe8",
-      "source": "TGcom24",
-      "title": "Israele, media: \"007 Egitto avvertirono più volte Netanyahu sul 7 ottobre\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-28-settembre_117062248-202602k.shtml",
-      "published": "2026-09-28T05:10:00+00:00"
     },
     {
       "id": "5e254c59b6d0d6353d83",
