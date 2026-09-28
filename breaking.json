@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-28T17:25:28.482226+00:00",
+  "updated_at": "2026-09-28T17:39:27.406657+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-28T17:25:28.482226+00:00"
+      "checked_at": "2026-09-28T17:39:27.406657+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-28T17:25:28.482226+00:00"
+      "checked_at": "2026-09-28T17:39:27.406657+00:00"
     }
   },
   "items": [
+    {
+      "id": "260cc7a215216814a143",
+      "source": "BBC News",
+      "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
+      "url": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-28T17:26:21+00:00"
+    },
     {
       "id": "ccb4260fbccfb1275e21",
       "source": "BBC News",
@@ -33,13 +40,6 @@
       "published": "2026-09-28T17:04:14+00:00"
     },
     {
-      "id": "260cc7a215216814a143",
-      "source": "BBC News",
-      "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
-      "url": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-28T16:56:06+00:00"
-    },
-    {
       "id": "178e4ee4b2ba52eda4b6",
       "source": "TGcom24",
       "title": "Regeni, tre 007 egiziani condannati a 10 anni per sequestro, cade accusa omicidio",
@@ -52,6 +52,13 @@
       "title": "Remains of dozens of suspected kidnap victims found in Nigerian forests",
       "url": "https://www.bbc.co.uk/news/articles/c6e30x757nx4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-28T16:25:00+00:00"
+    },
+    {
+      "id": "d70a9d4e32f18d0a0dce",
+      "source": "BBC News",
+      "title": "Women protest in the streets of Delhi after string of sexual assaults",
+      "url": "https://www.bbc.co.uk/news/videos/cm70lpg5z45go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-28T16:15:57+00:00"
     },
     {
       "id": "8efa5f4054a3cacf4036",
