@@ -100,6 +100,8 @@ PRIORITY_SOURCES = [
     ("Spagna", "Religión Confidencial", ["religión confidencial","religion confidencial"], "elconfidencialdigital.com/religion"),
     ("America Latina", "AICA", ["aica","aica.org"], "aica.org"),
     ("America Latina", "Desde la Fe", ["desde la fe","desdelafe.mx"], "desdelafe.mx"),
+    ("America Latina", "TN", ["TN", "tn.com.ar"], "tn.com.ar"),
+    ("America Latina", "Clarín", ["clarín", "clarin", "clarin.com"], "clarin.com"),
     ("Brasile", "Canção Nova", ["canção nova","cancao nova","cancaonova.com"], "noticias.cancaonova.com"),
     ("Stati Uniti", "OSV News", ["osv news","osvnews.com","our sunday visitor"], "osvnews.com"),
     ("Stati Uniti", "Crux", ["crux","cruxnow.com"], "cruxnow.com"),
@@ -271,7 +273,8 @@ def source_queries(country: str) -> list[str]:
 
 def source_matches(source: str, aliases: list[str]) -> bool:
     value=source.casefold()
-    return any(alias.casefold() in value for alias in aliases)
+    return any((value == alias.casefold() if len(alias) <= 2 else alias.casefold() in value)
+               for alias in aliases)
 
 def coverage_for(items: list[dict]) -> list[dict]:
     coverage=[]
