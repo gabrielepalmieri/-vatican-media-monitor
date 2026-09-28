@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-28T13:00:02.842662+00:00",
+  "updated_at": "2026-09-28T13:12:38.052948+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-28T13:00:02.842662+00:00"
+      "checked_at": "2026-09-28T13:12:38.052948+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-28T13:00:02.842662+00:00"
+      "checked_at": "2026-09-28T13:12:38.052948+00:00"
     }
   },
   "items": [
+    {
+      "id": "01d00f1a79f71ed9c392",
+      "source": "TGcom24",
+      "title": "Morte avvelenate, al via l'estrazione di dati dal pc di Gianni Di Vita",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/morte-avvelenate-ricina-estrazione-dati-gianni-di-vita_117078040-202602k.shtml",
+      "published": "2026-09-28T13:05:00+00:00"
+    },
     {
       "id": "9794f599ae55eeca2d88",
       "source": "BBC News",
@@ -262,13 +269,6 @@
       "title": "Guerra in Iran, Trump: \"Mi aspetto nuovi colloqui in settimana\" ma Teheran frena",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-mojtaba-ferito-estratto-macerie-ospedale_117029472-202602k.shtml",
       "published": "2026-09-27T17:42:00+00:00"
-    },
-    {
-      "id": "54e1f6562181bec5bbe9",
-      "source": "TGcom24",
-      "title": "Carburanti, Meloni: \"Da Ip segnale importante, il governo continuerà a sostenere le famiglie\"",
-      "url": "https://www.tgcom24.mediaset.it/economia/carburanti-socar-limite-prezzi-gasolio-ip_117050453-202602k.shtml",
-      "published": "2026-09-27T17:15:00+00:00"
     },
     {
       "id": "cbd6c9045f24321f1723",
