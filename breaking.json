@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-28T17:00:31.380598+00:00",
+  "updated_at": "2026-09-28T17:12:11.313363+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-28T17:00:31.380598+00:00"
+      "checked_at": "2026-09-28T17:12:11.313363+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-28T17:00:31.380598+00:00"
+      "checked_at": "2026-09-28T17:12:11.313363+00:00"
     }
   },
   "items": [
+    {
+      "id": "6f51b683fcf535c8b75b",
+      "source": "BBC News",
+      "title": "People escape historic Kyiv building hit by Russian drone",
+      "url": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-28T17:04:14+00:00"
+    },
     {
       "id": "178e4ee4b2ba52eda4b6",
       "source": "TGcom24",
@@ -241,13 +248,6 @@
       "title": "Taylor Swift and Charli XCX among stars to light up VMAs red carpet",
       "url": "https://www.bbc.co.uk/news/videos/cw7v4plplmgpo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-28T01:16:18+00:00"
-    },
-    {
-      "id": "f9532d6088e51a66e132",
-      "source": "BBC News",
-      "title": "Shipwreck uncovered on Nantucket island during nor'easter storm",
-      "url": "https://www.bbc.co.uk/news/videos/cmg497x0p4x3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-28T00:52:49+00:00"
     },
     {
       "id": "bd77320efddcd7e6ede2",
