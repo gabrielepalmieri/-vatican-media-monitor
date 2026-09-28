@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-28T15:10:03.893417+00:00",
+  "updated_at": "2026-09-28T15:26:40.276129+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-28T15:10:03.893417+00:00"
+      "checked_at": "2026-09-28T15:26:40.276129+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-28T15:10:03.893417+00:00"
+      "checked_at": "2026-09-28T15:26:40.276129+00:00"
     }
   },
   "items": [
+    {
+      "id": "a85d2b30df6f6662d71e",
+      "source": "TGcom24",
+      "title": "Elezioni suppletive a Reggio Calabria, crolla l'affluenza: 22,34% contro il 49,40% di 4 anni fa",
+      "url": "https://www.tgcom24.mediaset.it/politica/suppletive-reggio-calabria-urne-chiuse-affluenza_117082626-202602k.shtml",
+      "published": "2026-09-28T15:03:00+00:00"
+    },
     {
       "id": "ead13262551058da2cea",
       "source": "TGcom24",
@@ -262,13 +269,6 @@
       "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
       "url": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-27T19:47:21+00:00"
-    },
-    {
-      "id": "d67addaa8b7e606ee4c2",
-      "source": "TGcom24",
-      "title": "Aggredisce donna e investe due persone a Reggio Emilia, arrestato",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/reggio-emilia-investe-aggredisce-distributore-benzina_117058912-202602k.shtml",
-      "published": "2026-09-27T19:20:00+00:00"
     },
     {
       "id": "cbd6c9045f24321f1723",
