@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-09-28T19:21:08.660918+00:00",
+  "updated_at": "2026-09-28T19:33:13.407163+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-28T19:21:08.660918+00:00"
+      "checked_at": "2026-09-28T19:33:13.407163+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-28T19:21:08.660918+00:00"
+      "checked_at": "2026-09-28T19:33:13.407163+00:00"
     }
   },
   "items": [
+    {
+      "id": "ef99e7f8d1056626a137",
+      "source": "BBC News",
+      "title": "Stand-up comic released after being convicted of insulting Erdoğan",
+      "url": "https://www.bbc.co.uk/news/articles/c8zxzlqwzw0eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-28T19:26:15+00:00"
+    },
+    {
+      "id": "60205413997e5ba250d4",
+      "source": "TGcom24",
+      "title": "Scuola, stop ai compiti a casa \"di pomeriggio\": arriva la stretta del Ministero",
+      "url": "https://www.tgcom24.mediaset.it/skuola/stop-ai-compiti-fuori-orario-il-ministero-ufficializza-la-stretta_117086059-202602k.shtml",
+      "published": "2026-09-28T19:24:00+00:00"
+    },
     {
       "id": "4eb92c570a681832626b",
       "source": "TGcom24",
@@ -24,13 +38,6 @@
       "title": "Media: gli Usa vogliono che l'Iran consenta il ritorno degli ispettori dell'Aiea",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-28-settembre_117062248-202602k.shtml",
       "published": "2026-09-28T18:30:00+00:00"
-    },
-    {
-      "id": "ef99e7f8d1056626a137",
-      "source": "BBC News",
-      "title": "Stand-up comic set for release after being convicted of insulting Erdoğan",
-      "url": "https://www.bbc.co.uk/news/articles/c8zxzlqwzw0eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-28T18:11:58+00:00"
     },
     {
       "id": "83362ae8634efe960772",
@@ -276,13 +283,6 @@
       "title": "Watch: Madonna and Taylor Swift win big at the MTV VMAs",
       "url": "https://www.bbc.co.uk/news/videos/ckvgy6j4594yo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-28T06:22:52+00:00"
-    },
-    {
-      "id": "f16095dc9829d3e46313",
-      "source": "TGcom24",
-      "title": "Carburanti, scattano i prezzi calmierati di Eni",
-      "url": "https://www.tgcom24.mediaset.it/economia/caro-carburanti-prezzi-calmierati-eni-ip_117062832-202602k.shtml",
-      "published": "2026-09-28T05:55:00+00:00"
     },
     {
       "id": "5e254c59b6d0d6353d83",
