@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-28T08:27:02.474271+00:00",
+  "updated_at": "2026-09-28T08:41:00.815456+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-28T08:27:02.474271+00:00"
+      "checked_at": "2026-09-28T08:41:00.815456+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-28T08:27:02.474271+00:00"
+      "checked_at": "2026-09-28T08:41:00.815456+00:00"
     }
   },
   "items": [
@@ -17,6 +17,13 @@
       "title": "Svezia, la leader dei socialdemocratici non è riuscita a formare un governo",
       "url": "https://www.tgcom24.mediaset.it/mondo/svezia-socialdemocratici-governo_117068247-202602k.shtml",
       "published": "2026-09-28T08:20:00+00:00"
+    },
+    {
+      "id": "d5d39a519e77b4511969",
+      "source": "BBC News",
+      "title": "Trump-Xi summit: What wasn't said might matter the most",
+      "url": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-28T07:52:23+00:00"
     },
     {
       "id": "4840a0c7712f66845bc5",
@@ -285,13 +292,6 @@
       "published": "2026-09-27T07:44:11+00:00"
     },
     {
-      "id": "68874a2db07dfc333025",
-      "source": "BBC News",
-      "title": "Bangkok roads submerged as flood disaster declared",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-27T04:45:08+00:00"
-    },
-    {
       "id": "163d5e856adcc45a7278",
       "source": "BBC News",
       "title": "Four killed in helicopter crash near Montreal",
@@ -311,13 +311,6 @@
       "title": "Young people in China are fangirling over a professor who gets their anxiety",
       "url": "https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-26T22:02:18+00:00"
-    },
-    {
-      "id": "e1ecc8aac0b082e503a1",
-      "source": "BBC News",
-      "title": "Mother of woman found hanging in tree shocked as police say body was staged",
-      "url": "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-26T21:13:13+00:00"
     }
   ]
 }
