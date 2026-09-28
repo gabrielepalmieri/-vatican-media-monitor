@@ -1,29 +1,36 @@
 {
-  "updated_at": "2026-09-28T20:21:05.666275+00:00",
+  "updated_at": "2026-09-28T20:33:04.415673+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-28T20:21:05.666275+00:00"
+      "checked_at": "2026-09-28T20:33:04.415673+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-28T20:21:05.666275+00:00"
+      "checked_at": "2026-09-28T20:33:04.415673+00:00"
     }
   },
   "items": [
+    {
+      "id": "ef99e7f8d1056626a137",
+      "source": "BBC News",
+      "title": "Stand-up comic released after being convicted of insulting Erdoğan",
+      "url": "https://www.bbc.co.uk/news/articles/c8zxzlqwzw0eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-28T20:23:12+00:00"
+    },
+    {
+      "id": "19841574fcedabd8908b",
+      "source": "TGcom24",
+      "title": "Papa: \"L'estrema destra non è espressione del cristianesimo\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/papa-estrema-destra-europa-cristianesimo_117096750-202602k.shtml",
+      "published": "2026-09-28T20:22:00+00:00"
+    },
     {
       "id": "e99495e23b7ad2afd832",
       "source": "TGcom24",
       "title": "Caso Regeni, Tajani: \"Sono state condannate tre persone, non l'Egitto\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/omicidio-giulio-regeni-tre-007-egiziani-condannati-10-anni-carcere_117087193-202602k.shtml",
       "published": "2026-09-28T19:48:00+00:00"
-    },
-    {
-      "id": "ef99e7f8d1056626a137",
-      "source": "BBC News",
-      "title": "Stand-up comic released after being convicted of insulting Erdoğan",
-      "url": "https://www.bbc.co.uk/news/articles/c8zxzlqwzw0eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-28T19:26:15+00:00"
     },
     {
       "id": "60205413997e5ba250d4",
@@ -276,13 +283,6 @@
       "title": "Trump-Xi summit: What wasn't said might matter the most",
       "url": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-28T07:52:23+00:00"
-    },
-    {
-      "id": "4840a0c7712f66845bc5",
-      "source": "TGcom24",
-      "title": "Iran, media: \"Non in programma nuovi negoziati con Usa\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-28-settembre_117062248-202602k.shtml",
-      "published": "2026-09-28T07:50:00+00:00"
     },
     {
       "id": "baf0d88b6e056136e9c4",
