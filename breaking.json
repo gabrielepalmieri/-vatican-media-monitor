@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-28T05:57:21.511677+00:00",
+  "updated_at": "2026-09-28T06:09:43.449715+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-28T05:57:21.511677+00:00"
+      "checked_at": "2026-09-28T06:09:43.449715+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-28T05:57:21.511677+00:00"
+      "checked_at": "2026-09-28T06:09:43.449715+00:00"
     }
   },
   "items": [
+    {
+      "id": "f607b412aa9362dc3e5d",
+      "source": "TGcom24",
+      "title": "Carburanti, scattano i prezzi calmierati di Eni",
+      "url": "https://www.tgcom24.mediaset.it/economia/caro-carburanti-prezzi-calmierati-eni-ip_117062832-202602k.shtml",
+      "published": "2026-09-28T06:04:00+00:00"
+    },
     {
       "id": "ed13040650d4393acfe8",
       "source": "TGcom24",
@@ -262,13 +269,6 @@
       "title": "Guerra in Iran, i religiosi confermano: \"Mojtaba Khamenei ferito e ricoverato\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-mojtaba-ferito-estratto-macerie-ospedale_117029472-202602k.shtml",
       "published": "2026-09-27T11:10:00+00:00"
-    },
-    {
-      "id": "7575dde598e505685285",
-      "source": "TGcom24",
-      "title": "Israele: \"Ucciso Sakr, l'uomo che rapì Noa il 7 ottobre 2023\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/foto/gaza-israele-annuncia-l-uccisione-dell-uomo-che-guido-la-moto-usata-per-rapire-noa-argamani-il-7-ottobre_117038337-202602k.shtml",
-      "published": "2026-09-27T10:41:00+00:00"
     },
     {
       "id": "a41a8a79d695d65fe6e5",
