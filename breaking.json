@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-28T17:39:27.406657+00:00",
+  "updated_at": "2026-09-28T17:49:59.376890+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-28T17:39:27.406657+00:00"
+      "checked_at": "2026-09-28T17:49:59.376890+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-28T17:39:27.406657+00:00"
+      "checked_at": "2026-09-28T17:49:59.376890+00:00"
     }
   },
   "items": [
+    {
+      "id": "0562e9b47798ab3e6187",
+      "source": "TGcom24",
+      "title": "Etna, fine stato d'allerta: si torna a volare su Catania",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/etna-fine-stato-d-allerta-si-torna-a-volare-su-catania-_117089177-202602k.shtml",
+      "published": "2026-09-28T17:40:00+00:00"
+    },
     {
       "id": "260cc7a215216814a143",
       "source": "BBC News",
@@ -122,6 +129,13 @@
       "title": "Garlasco, pm Pavia: \"Stasi poteva essere scagionato già 19 anni fa\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/delitto-garlasco-chiusura-indagini-andrea-sempio_117080312-202602k.shtml",
       "published": "2026-09-28T14:11:00+00:00"
+    },
+    {
+      "id": "3e2f97effc51c11a5a22",
+      "source": "BBC News",
+      "title": "Watch: From launch to fiery splashdown, Starship completes orbit test",
+      "url": "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-28T13:59:06+00:00"
     },
     {
       "id": "78f9fe95f371c19c25c4",
@@ -255,13 +269,6 @@
       "title": "Israele, media: \"007 Egitto avvertirono più volte Netanyahu sul 7 ottobre\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-28-settembre_117062248-202602k.shtml",
       "published": "2026-09-28T05:10:00+00:00"
-    },
-    {
-      "id": "b8dd33e2b407de6f2f53",
-      "source": "TGcom24",
-      "title": "Trump: \"Credo che vinceremo la guerra in Iran molto presto\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-28-settembre_117062248-202602k.shtml",
-      "published": "2026-09-28T04:30:00+00:00"
     },
     {
       "id": "5e254c59b6d0d6353d83",
