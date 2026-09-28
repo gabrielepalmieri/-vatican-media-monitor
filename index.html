@@ -85,7 +85,9 @@
       const controversyWord=/(?:scandal\w*|escandal\w*|corruz\w*|corrup\w*|polem\w*|controvers\w*|cism\w*|schism\w*)/;
       const controversy=title.match(new RegExp('\\b'+controversyWord.source+'\\b.{0,20}'+target.source))||title.match(new RegExp(target.source+'.{0,20}\\b'+controversyWord.source+'\\b'));
       if(controversy)return{type:'controversy',label:'Controversia collegata',evidence:controversy[0]};
-      const review=title.match(/\b(?:scontro|clash\w*|dissens\w*|tension\w*|kritik\w*|pressure\b|pression\w*|pujas?|ostacol\w*|obstacl\w*|ombra|fantasma|shadow)\b/);
+      const scrutiny=title.match(/\b(?:grande assente nel documento|assente nel documento|absent from (?:the )?(?:pope|vatican)|del processo.{0,35}non si sa nulla|no word on (?:the )?(?:trial|case)|scoppia il caso|caso .{0,100}(?:giusto processo|test del processo))\b/);
+      if(scrutiny)return{type:'review',label:'Da verificare',evidence:scrutiny[0]};
+      const review=title.match(/\b(?:scontro|clash\w*|dissens\w*|tension\w*|pressure\b|pression\w*|pujas?|ostacol\w*|obstacl\w*|ombra|fantasma|shadow)\b/);
       const negated=/(?:aucune tension|no tension|nessuna tensione|sin tension|senza tensioni)/.test(title);
       return review&&!negated&&Math.abs(title.indexOf(review[0])-title.search(target))<95?{type:'review',label:'Da verificare',evidence:review[0]}:null;
     }
