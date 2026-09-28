@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-28T06:09:43.449715+00:00",
+  "updated_at": "2026-09-28T06:30:59.268458+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-28T06:09:43.449715+00:00"
+      "checked_at": "2026-09-28T06:30:59.268458+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-28T06:09:43.449715+00:00"
+      "checked_at": "2026-09-28T06:30:59.268458+00:00"
     }
   },
   "items": [
+    {
+      "id": "baf0d88b6e056136e9c4",
+      "source": "BBC News",
+      "title": "Watch: Madonna and Taylor Swift win big at the MTV VMAs",
+      "url": "https://www.bbc.co.uk/news/videos/ckvgy6j4594yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-28T06:22:52+00:00"
+    },
     {
       "id": "f607b412aa9362dc3e5d",
       "source": "TGcom24",
@@ -115,13 +122,6 @@
       "title": "Gerusalemme, spruzza spray al peperoncino contro un bambino cristiano: arrestato",
       "url": "https://www.tgcom24.mediaset.it/mondo/gerusalemme-spray-peperoncino-contro-bambino-arresto_117059997-202602k.shtml",
       "published": "2026-09-27T20:15:00+00:00"
-    },
-    {
-      "id": "1475ce0bf3756f3da496",
-      "source": "BBC News",
-      "title": "Watch: The ups and downs of SpaceX's 13 Starship test flights",
-      "url": "https://www.bbc.co.uk/news/videos/cm0e30lpngxpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-27T20:05:07+00:00"
     },
     {
       "id": "f7a4697448544b74222e",
@@ -311,13 +311,6 @@
       "title": "Young people in China are fangirling over a professor who gets their anxiety",
       "url": "https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-26T22:02:18+00:00"
-    },
-    {
-      "id": "03de82b6303b0aeaf27e",
-      "source": "BBC News",
-      "title": "Are claims of a white genocide in South Africa real?",
-      "url": "https://www.bbc.co.uk/news/videos/cme8xx55eryno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-26T21:20:17+00:00"
     },
     {
       "id": "e1ecc8aac0b082e503a1",
