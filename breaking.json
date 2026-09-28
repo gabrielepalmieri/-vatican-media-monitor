@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-28T13:27:58.089107+00:00",
+  "updated_at": "2026-09-28T13:42:01.280275+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-28T13:27:58.089107+00:00"
+      "checked_at": "2026-09-28T13:42:01.280275+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-28T13:27:58.089107+00:00"
+      "checked_at": "2026-09-28T13:42:01.280275+00:00"
     }
   },
   "items": [
+    {
+      "id": "3b455beb7f554aa16d14",
+      "source": "TGcom24",
+      "title": "SpaceX, lanciato Starship: il primo test in orbita durerà dieci ore",
+      "url": "https://www.tgcom24.mediaset.it/spazio/spacex-lanciato-starship_117079045-202602k.shtml",
+      "published": "2026-09-28T13:32:00+00:00"
+    },
     {
       "id": "01d00f1a79f71ed9c392",
       "source": "TGcom24",
@@ -262,13 +269,6 @@
       "title": "Francoforte, esplode powerbank su volo Lufthansa: dirottato",
       "url": "https://www.tgcom24.mediaset.it/mondo/volo-francoforte-lisbona-dirottato-incendio-powerbank_117056584-202602k.shtml",
       "published": "2026-09-27T18:05:00+00:00"
-    },
-    {
-      "id": "e508ea78ae3713df3cb6",
-      "source": "TGcom24",
-      "title": "Guerra in Iran, Trump: \"Mi aspetto nuovi colloqui in settimana\" ma Teheran frena",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-mojtaba-ferito-estratto-macerie-ospedale_117029472-202602k.shtml",
-      "published": "2026-09-27T17:42:00+00:00"
     },
     {
       "id": "cbd6c9045f24321f1723",
