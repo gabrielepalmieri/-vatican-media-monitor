@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-09-28T15:26:40.276129+00:00",
+  "updated_at": "2026-09-28T15:41:00.204127+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-28T15:26:40.276129+00:00"
+      "checked_at": "2026-09-28T15:41:00.204127+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-28T15:26:40.276129+00:00"
+      "checked_at": "2026-09-28T15:41:00.204127+00:00"
     }
   },
   "items": [
+    {
+      "id": "63f04ec900c92252b5d0",
+      "source": "TGcom24",
+      "title": "Strage di Ustica, Francia pronta a collaborare: pm verso ritiro archiviazione",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/strage-ustica-francia-collabora_117083887-202602k.shtml",
+      "published": "2026-09-28T15:28:00+00:00"
+    },
     {
       "id": "a85d2b30df6f6662d71e",
       "source": "TGcom24",
       "title": "Elezioni suppletive a Reggio Calabria, crolla l'affluenza: 22,34% contro il 49,40% di 4 anni fa",
       "url": "https://www.tgcom24.mediaset.it/politica/suppletive-reggio-calabria-urne-chiuse-affluenza_117082626-202602k.shtml",
       "published": "2026-09-28T15:03:00+00:00"
+    },
+    {
+      "id": "de5939f3d54f8fd23a75",
+      "source": "BBC News",
+      "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-28T14:57:31+00:00"
     },
     {
       "id": "ead13262551058da2cea",
@@ -248,13 +262,6 @@
       "title": "Watch: BBC reports from the front-line of an escalating war in Yemen",
       "url": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-27T21:00:06+00:00"
-    },
-    {
-      "id": "fdf1d3efecd9cbec044a",
-      "source": "TGcom24",
-      "title": "Gerusalemme, spruzza spray al peperoncino contro un bambino cristiano: arrestato",
-      "url": "https://www.tgcom24.mediaset.it/mondo/gerusalemme-spray-peperoncino-contro-bambino-arresto_117059997-202602k.shtml",
-      "published": "2026-09-27T20:15:00+00:00"
     },
     {
       "id": "f7a4697448544b74222e",
