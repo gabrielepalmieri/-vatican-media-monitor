@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-09-28T06:30:59.268458+00:00",
+  "updated_at": "2026-09-28T06:49:44.507506+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-28T06:30:59.268458+00:00"
+      "checked_at": "2026-09-28T06:49:44.507506+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-28T06:30:59.268458+00:00"
+      "checked_at": "2026-09-28T06:49:44.507506+00:00"
     }
   },
   "items": [
+    {
+      "id": "c62bda411a4fe1d74a20",
+      "source": "BBC News",
+      "title": "Two mass shootings in South Africa leave 28 dead",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-28T06:46:03+00:00"
+    },
+    {
+      "id": "e80edd70dc1a60aa5b2e",
+      "source": "TGcom24",
+      "title": "Cenere dall'Etna, terzo giorno di stop ai voli a Catania",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/cenere-etna-aeroporto-catania-terzo-giorno-stop-voli_117063482-202602k.shtml",
+      "published": "2026-09-28T06:33:00+00:00"
+    },
     {
       "id": "baf0d88b6e056136e9c4",
       "source": "BBC News",
@@ -19,11 +33,11 @@
       "published": "2026-09-28T06:22:52+00:00"
     },
     {
-      "id": "f607b412aa9362dc3e5d",
+      "id": "f16095dc9829d3e46313",
       "source": "TGcom24",
       "title": "Carburanti, scattano i prezzi calmierati di Eni",
       "url": "https://www.tgcom24.mediaset.it/economia/caro-carburanti-prezzi-calmierati-eni-ip_117062832-202602k.shtml",
-      "published": "2026-09-28T06:04:00+00:00"
+      "published": "2026-09-28T05:55:00+00:00"
     },
     {
       "id": "ed13040650d4393acfe8",
@@ -222,13 +236,6 @@
       "published": "2026-09-27T15:06:00+00:00"
     },
     {
-      "id": "c62bda411a4fe1d74a20",
-      "source": "BBC News",
-      "title": "Two mass shootings in South Africa leave 27 dead",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-27T14:09:22+00:00"
-    },
-    {
       "id": "1bd3bddba844a00eeebc",
       "source": "TGcom24",
       "title": "Aborto e fine vita, Papa: \"Nessuna legge può dare la morte\"",
@@ -262,13 +269,6 @@
       "title": "Uomo fatto a pezzi a Torino, restano in carcere i tre indagati",
       "url": "https://www.tgcom24.mediaset.it/cronaca/omicidio-torino-fatto-a-pezzi-ultime-notizie_117009761-202602k.shtml",
       "published": "2026-09-27T11:51:00+00:00"
-    },
-    {
-      "id": "92137fffc2af6c8209f9",
-      "source": "TGcom24",
-      "title": "Guerra in Iran, i religiosi confermano: \"Mojtaba Khamenei ferito e ricoverato\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-mojtaba-ferito-estratto-macerie-ospedale_117029472-202602k.shtml",
-      "published": "2026-09-27T11:10:00+00:00"
     },
     {
       "id": "a41a8a79d695d65fe6e5",
