@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-28T18:55:21.263041+00:00",
+  "updated_at": "2026-09-28T19:08:09.028064+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-28T18:55:21.263041+00:00"
+      "checked_at": "2026-09-28T19:08:09.028064+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-28T18:55:21.263041+00:00"
+      "checked_at": "2026-09-28T19:08:09.028064+00:00"
     }
   },
   "items": [
+    {
+      "id": "4eb92c570a681832626b",
+      "source": "TGcom24",
+      "title": "Firenze, inchiesta su traffico di cocaina: indagate 106 persone",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/firenze-traffico-cocaina-guardia-di-finanza_117091012-202602k.shtml",
+      "published": "2026-09-28T19:02:00+00:00"
+    },
     {
       "id": "8716b97a00153ddfb158",
       "source": "TGcom24",
@@ -262,13 +269,6 @@
       "title": "Romania, drone viola lo spazio aereo vicino al confine con Ucraina",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-28-settembre_117062806-202602k.shtml",
       "published": "2026-09-28T07:05:00+00:00"
-    },
-    {
-      "id": "e80edd70dc1a60aa5b2e",
-      "source": "TGcom24",
-      "title": "Cenere dall'Etna, terzo giorno di stop ai voli a Catania",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/cenere-etna-aeroporto-catania-terzo-giorno-stop-voli_117063482-202602k.shtml",
-      "published": "2026-09-28T06:33:00+00:00"
     },
     {
       "id": "baf0d88b6e056136e9c4",
