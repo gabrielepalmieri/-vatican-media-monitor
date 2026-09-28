@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-28T07:01:58.855623+00:00",
+  "updated_at": "2026-09-28T07:17:28.474790+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-28T07:01:58.855623+00:00"
+      "checked_at": "2026-09-28T07:17:28.474790+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-28T07:01:58.855623+00:00"
+      "checked_at": "2026-09-28T07:17:28.474790+00:00"
     }
   },
   "items": [
+    {
+      "id": "bc1802121750e293983c",
+      "source": "TGcom24",
+      "title": "Romania, drone viola lo spazio aereo vicino al confine con Ucraina",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-28-settembre_117062806-202602k.shtml",
+      "published": "2026-09-28T07:05:00+00:00"
+    },
     {
       "id": "c62bda411a4fe1d74a20",
       "source": "BBC News",
@@ -262,13 +269,6 @@
       "title": "Bologna, ubriaco alla guida travolge e uccide un operaio sulla A14",
       "url": "https://www.tgcom24.mediaset.it/cronaca/bologna-ubriaco-travolge-operaio-autostrada-a14_117046165-202602k.shtml",
       "published": "2026-09-27T12:27:00+00:00"
-    },
-    {
-      "id": "21da3b06d327a02f529d",
-      "source": "TGcom24",
-      "title": "Uomo fatto a pezzi a Torino, restano in carcere i tre indagati",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/omicidio-torino-fatto-a-pezzi-ultime-notizie_117009761-202602k.shtml",
-      "published": "2026-09-27T11:51:00+00:00"
     },
     {
       "id": "a41a8a79d695d65fe6e5",
