@@ -31,6 +31,10 @@ QUERIES = [
     # Cerca il caso e le denunce anche quando il titolo omette Papa e Vaticano.
     'Rupnik OR "abusi nella Chiesa" OR "Catholic Church abuse" OR "abusos en la Iglesia" OR "abus dans l’Église"',
 ]
+CRITICAL_QUERIES = [
+    '("Pope Leo XIV" OR "Papa Leone XIV" OR "Papa León XIV" OR "Pape Léon XIV") (criticism OR critiche OR críticas OR critique OR cuestionan OR polemica OR polémica)',
+    '(Vatican OR Vaticano OR "Holy See" OR "Santa Sede") ("under fire" OR "sotto accusa" OR "bajo críticas" OR "silenzio" OR "cover-up" OR controversia)',
+]
 SOCIAL_PLATFORMS = {
     "YouTube": ("youtube.com", "youtu.be"),
     "X": ("x.com", "twitter.com"),
@@ -366,7 +370,7 @@ def main() -> None:
     items=[]
     jobs=[]
     for country, language, hl, gl, ceid in EDITIONS:
-        for query in QUERIES: jobs.append((feed_url(query,hl,gl,ceid),country,language,"news"))
+        for query in QUERIES + CRITICAL_QUERIES: jobs.append((feed_url(query,hl,gl,ceid),country,language,"news"))
         for query in social_queries(language):
             jobs.append((feed_url(query,hl,gl,ceid),country,language,"social"))
         for dedicated in source_queries(country):
