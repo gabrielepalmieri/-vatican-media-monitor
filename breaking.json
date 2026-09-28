@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-28T10:46:40.936461+00:00",
+  "updated_at": "2026-09-28T10:57:13.365391+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-28T10:46:40.936461+00:00"
+      "checked_at": "2026-09-28T10:57:13.365391+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-28T10:46:40.936461+00:00"
+      "checked_at": "2026-09-28T10:57:13.365391+00:00"
     }
   },
   "items": [
+    {
+      "id": "7c17f20d90e41673592b",
+      "source": "TGcom24",
+      "title": "Carburanti, Assopetroli: estendere price cap a forniture o c'è distorsione mercato",
+      "url": "https://www.tgcom24.mediaset.it/economia/caro-carburanti-prezzi-calmierati-eni-ip_117062832-202602k.shtml",
+      "published": "2026-09-28T10:50:00+00:00"
+    },
     {
       "id": "206adc2b42ae2c1e6abd",
       "source": "TGcom24",
@@ -276,13 +283,6 @@
       "title": "Venezuela releases dozens of political prisoners as election calls grow",
       "url": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-27T15:56:25+00:00"
-    },
-    {
-      "id": "e3f3b4cf9b1255beb06f",
-      "source": "TGcom24",
-      "title": "Caro carburanti, Socar applicherà un limite ai prezzi sulla rete italiana Ip",
-      "url": "https://www.tgcom24.mediaset.it/economia/carburanti-socar-limite-prezzi-gasolio-ip_117050453-202602k.shtml",
-      "published": "2026-09-27T15:06:00+00:00"
     },
     {
       "id": "a41a8a79d695d65fe6e5",
