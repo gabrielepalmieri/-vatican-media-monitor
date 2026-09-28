@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-28T21:21:55.605584+00:00",
+  "updated_at": "2026-09-28T21:32:20.602557+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-28T21:21:55.605584+00:00"
+      "checked_at": "2026-09-28T21:32:20.602557+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-28T21:21:55.605584+00:00"
+      "checked_at": "2026-09-28T21:32:20.602557+00:00"
     }
   },
   "items": [
+    {
+      "id": "04362c6b9d2698f43e7b",
+      "source": "TGcom24",
+      "title": "Guerra in Ucraina, Papa: \"Ci sia dialogo tra Mosca e Kiev\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/papa-estrema-destra-europa-cristianesimo_117096750-202602k.shtml",
+      "published": "2026-09-28T21:30:00+00:00"
+    },
     {
       "id": "a7e5c6c5f147c84550c7",
       "source": "TGcom24",
@@ -262,13 +269,6 @@
       "title": "Carburanti, Assopetroli: estendere price cap a forniture o c'è distorsione mercato",
       "url": "https://www.tgcom24.mediaset.it/economia/caro-carburanti-prezzi-calmierati-eni-ip_117062832-202602k.shtml",
       "published": "2026-09-28T10:50:00+00:00"
-    },
-    {
-      "id": "206adc2b42ae2c1e6abd",
-      "source": "TGcom24",
-      "title": "Morte David Rossi, perizia: \"Aggredito da più persone, tentava di difendersi\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/morte-david-rossi-perizia-aggredito_117072315-202602k.shtml",
-      "published": "2026-09-28T10:20:00+00:00"
     },
     {
       "id": "d5d39a519e77b4511969",
