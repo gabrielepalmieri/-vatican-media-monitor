@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-09-29T04:00:04.814353+00:00",
+  "updated_at": "2026-09-29T04:11:31.359559+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-29T04:00:04.814353+00:00"
+      "checked_at": "2026-09-29T04:11:31.359559+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-29T04:00:04.814353+00:00"
+      "checked_at": "2026-09-29T04:11:31.359559+00:00"
     }
   },
   "items": [
+    {
+      "id": "e99b56ddec973fb99852",
+      "source": "BBC News",
+      "title": "New York Times executive fatally shot allegedly by elderly in-laws",
+      "url": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T04:06:43+00:00"
+    },
+    {
+      "id": "ca134a05b244bf34db7a",
+      "source": "TGcom24",
+      "title": "Stati Uniti, attacco hacker all'Fbi: sottratti dati sensibili dei dipendenti",
+      "url": "https://www.tgcom24.mediaset.it/mondo/stati-uniti-attacco-hacker-fbi_117099262-202602k.shtml",
+      "published": "2026-09-29T04:01:00+00:00"
+    },
+    {
+      "id": "e1cd00954e719f985303",
+      "source": "BBC News",
+      "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
+      "url": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T03:50:40+00:00"
+    },
     {
       "id": "201b784dc0882ca4621c",
       "source": "BBC News",
@@ -24,6 +45,20 @@
       "title": "OpenAI scraps rollout of new model over safety concerns",
       "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-29T02:29:25+00:00"
+    },
+    {
+      "id": "7c5ad5f108cf7e0c33f2",
+      "source": "BBC News",
+      "title": "Lost songs from iconic Australian rockstar found in garage",
+      "url": "https://www.bbc.co.uk/news/articles/cmrl6ylzy4zxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T01:33:29+00:00"
+    },
+    {
+      "id": "c45ef0021b99767409ed",
+      "source": "BBC News",
+      "title": "Evicted Spanish pensioner can move back home, lawyer says",
+      "url": "https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T01:28:57+00:00"
     },
     {
       "id": "058c32e5d8360e0a282f",
@@ -80,13 +115,6 @@
       "title": "Papa: \"Le preoccupazioni sull'intelligenza artificiale non sono fake news\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/papa-estrema-destra-europa-cristianesimo_117096750-202602k.shtml",
       "published": "2026-09-28T21:01:00+00:00"
-    },
-    {
-      "id": "e99b56ddec973fb99852",
-      "source": "BBC News",
-      "title": "New York Times executive fatally shot allegedly by elderly in-laws",
-      "url": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-28T20:50:03+00:00"
     },
     {
       "id": "ef99e7f8d1056626a137",
@@ -306,13 +334,6 @@
       "published": "2026-09-28T11:25:00+00:00"
     },
     {
-      "id": "7c17f20d90e41673592b",
-      "source": "TGcom24",
-      "title": "Carburanti, Assopetroli: estendere price cap a forniture o c'è distorsione mercato",
-      "url": "https://www.tgcom24.mediaset.it/economia/caro-carburanti-prezzi-calmierati-eni-ip_117062832-202602k.shtml",
-      "published": "2026-09-28T10:50:00+00:00"
-    },
-    {
       "id": "d5d39a519e77b4511969",
       "source": "BBC News",
       "title": "Trump-Xi summit: What wasn't said might matter the most",
@@ -374,20 +395,6 @@
       "title": "Embattled Serbian president resigns, paving way for early elections",
       "url": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-27T20:04:21+00:00"
-    },
-    {
-      "id": "82c82ae2af4f19bfbbe0",
-      "source": "BBC News",
-      "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-27T19:47:21+00:00"
-    },
-    {
-      "id": "f4e248e3d70850c03223",
-      "source": "BBC News",
-      "title": "Switzerland rejects stricter interpretation of its neutrality",
-      "url": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-27T16:02:17+00:00"
     }
   ]
 }
