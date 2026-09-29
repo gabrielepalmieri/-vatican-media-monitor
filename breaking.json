@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-09-29T20:23:59.233101+00:00",
+  "updated_at": "2026-09-29T20:40:25.032250+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-29T20:23:59.233101+00:00"
+      "checked_at": "2026-09-29T20:40:25.032250+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-29T20:23:59.233101+00:00"
+      "checked_at": "2026-09-29T20:40:25.032250+00:00"
     }
   },
   "items": [
+    {
+      "id": "34f794684355f1bb5c66",
+      "source": "TGcom24",
+      "title": "Big tech, Trump: \"Pronto a creare un comitato per vigilare sull'Ia\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/donald-trump-ia-comitato-big-tech_117130256-202602k.shtml",
+      "published": "2026-09-29T20:28:00+00:00"
+    },
+    {
+      "id": "7e506a12c656586d4217",
+      "source": "BBC News",
+      "title": "Former American Idol contestant and pastor found guilty of murdering wife",
+      "url": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T20:25:41+00:00"
+    },
+    {
+      "id": "01d974e8ca1f830a3767",
+      "source": "BBC News",
+      "title": "Trump rules out joint US-China venture to develop AI",
+      "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T20:24:18+00:00"
+    },
     {
       "id": "4d94f00fff15d95a60a7",
       "source": "BBC News",
@@ -108,13 +129,6 @@
       "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
       "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-29T16:23:58+00:00"
-    },
-    {
-      "id": "01d974e8ca1f830a3767",
-      "source": "BBC News",
-      "title": "Trump rules out joint US-China venture to develop AI",
-      "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T16:09:26+00:00"
     },
     {
       "id": "33c00e961543987deb95",
@@ -332,13 +346,6 @@
       "title": "Morte per ricina, perquisito lo studio di Gianni di Vita",
       "url": "https://www.tgcom24.mediaset.it/cronaca/campobasso-ricina-perquisito-studio-gianni-di-vita_117103898-202602k.shtml",
       "published": "2026-09-29T07:30:00+00:00"
-    },
-    {
-      "id": "b82d04d9373dd162fa0e",
-      "source": "TGcom24",
-      "title": "Guerra Iran, il petrolio si impenna: Wti a 94 dollari, Brent a 107",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-29-settembre_117100911-202602k.shtml",
-      "published": "2026-09-29T06:18:00+00:00"
     },
     {
       "id": "1977e75da7a1bb5d3b34",
