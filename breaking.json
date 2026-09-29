@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-29T07:14:44.255254+00:00",
+  "updated_at": "2026-09-29T07:32:44.218229+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-29T07:14:44.255254+00:00"
+      "checked_at": "2026-09-29T07:32:44.218229+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-29T07:14:44.255254+00:00"
+      "checked_at": "2026-09-29T07:32:44.218229+00:00"
     }
   },
   "items": [
+    {
+      "id": "19e3ad58251a5c0b7a5d",
+      "source": "TGcom24",
+      "title": "Morte per ricina, perquisito lo studio di Gianni di Vita",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/campobasso-ricina-perquisito-studio-gianni-di-vita_117103898-202602k.shtml",
+      "published": "2026-09-29T07:30:00+00:00"
+    },
     {
       "id": "b82d04d9373dd162fa0e",
       "source": "TGcom24",
@@ -346,13 +353,6 @@
       "title": "Garlasco, chiuse le indagini su Sempio: si va verso richiesta di processo",
       "url": "https://www.tgcom24.mediaset.it/cronaca/delitto-garlasco-chiusura-indagini-andrea-sempio_117080312-202602k.shtml",
       "published": "2026-09-28T13:55:00+00:00"
-    },
-    {
-      "id": "3b455beb7f554aa16d14",
-      "source": "TGcom24",
-      "title": "SpaceX, lanciato Starship: il primo test in orbita durerà dieci ore",
-      "url": "https://www.tgcom24.mediaset.it/spazio/spacex-lanciato-starship_117079045-202602k.shtml",
-      "published": "2026-09-28T13:32:00+00:00"
     },
     {
       "id": "9794f599ae55eeca2d88",
