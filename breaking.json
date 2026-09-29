@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-29T09:41:33.472058+00:00",
+  "updated_at": "2026-09-29T09:54:08.898409+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-29T09:41:33.472058+00:00"
+      "checked_at": "2026-09-29T09:54:08.898409+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-29T09:41:33.472058+00:00"
+      "checked_at": "2026-09-29T09:54:08.898409+00:00"
     }
   },
   "items": [
+    {
+      "id": "d05b4d0dfaf409491b8a",
+      "source": "TGcom24",
+      "title": "Ceuta, la polizia spagnola sgombera il campo migranti",
+      "url": "https://www.tgcom24.mediaset.it/mondo/foto/ceuta-la-polizia-sgombera-all-alba-centinaia-di-migranti-da-playa-benitez_117106680-202602k.shtml",
+      "published": "2026-09-29T09:45:00+00:00"
+    },
     {
       "id": "66263e2f474c6caeeb12",
       "source": "BBC News",
@@ -339,13 +346,6 @@
       "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
       "url": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-28T14:57:31+00:00"
-    },
-    {
-      "id": "ead13262551058da2cea",
-      "source": "TGcom24",
-      "title": "Chiuse indagini-bis su Garlasco, difesa di Sempio: \"Non ci sono nuove prove\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/delitto-garlasco-chiusura-indagini-andrea-sempio-difesa_117082633-202602k.shtml",
-      "published": "2026-09-28T14:32:00+00:00"
     },
     {
       "id": "3e2f97effc51c11a5a22",
