@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-09-29T08:10:02.561599+00:00",
+  "updated_at": "2026-09-29T08:26:28.931410+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-29T08:10:02.561599+00:00"
+      "checked_at": "2026-09-29T08:26:28.931410+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-29T08:10:02.561599+00:00"
+      "checked_at": "2026-09-29T08:26:28.931410+00:00"
     }
   },
   "items": [
+    {
+      "id": "4756dd100b18e2f1dfc5",
+      "source": "TGcom24",
+      "title": "Q8 accoglie l'invito del governo: price cap al prezzo dei carburanti per 30 giorni",
+      "url": "https://www.tgcom24.mediaset.it/economia/carburanti-q8-applica-price-cap-eni-ip_117105812-202602k.shtml",
+      "published": "2026-09-29T08:22:00+00:00"
+    },
+    {
+      "id": "66263e2f474c6caeeb12",
+      "source": "BBC News",
+      "title": "OpenAI scraps rollout of new model over safety concerns",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T08:13:13+00:00"
+    },
+    {
+      "id": "06dd26b25ea4931aa6a6",
+      "source": "BBC News",
+      "title": "How a rape rumour sent an Indian university into turmoil and emptied hostels",
+      "url": "https://www.bbc.co.uk/news/articles/c6kg8dxrv54do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T08:12:39+00:00"
+    },
     {
       "id": "47f7115090c46789171f",
       "source": "BBC News",
@@ -87,13 +108,6 @@
       "title": "Ucraina, esplosioni a Kiev: difese antiaeree in azione, danni in diversi quartieri",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-29-settembre_117100710-202602k.shtml",
       "published": "2026-09-29T04:32:00+00:00"
-    },
-    {
-      "id": "66263e2f474c6caeeb12",
-      "source": "BBC News",
-      "title": "OpenAI scraps rollout of new model over safety concerns",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T04:30:13+00:00"
     },
     {
       "id": "60837467ece1d4a537de",
@@ -257,13 +271,6 @@
       "published": "2026-09-28T17:40:00+00:00"
     },
     {
-      "id": "260cc7a215216814a143",
-      "source": "BBC News",
-      "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
-      "url": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-28T17:26:21+00:00"
-    },
-    {
       "id": "6f51b683fcf535c8b75b",
       "source": "BBC News",
       "title": "People escape historic Kyiv building hit by Russian drone",
@@ -346,13 +353,6 @@
       "title": "Watch: From launch to fiery splashdown, SpaceX's Starship completes orbit test",
       "url": "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-28T13:59:06+00:00"
-    },
-    {
-      "id": "78f9fe95f371c19c25c4",
-      "source": "TGcom24",
-      "title": "Garlasco, chiuse le indagini su Sempio: si va verso richiesta di processo",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/delitto-garlasco-chiusura-indagini-andrea-sempio_117080312-202602k.shtml",
-      "published": "2026-09-28T13:55:00+00:00"
     }
   ]
 }
