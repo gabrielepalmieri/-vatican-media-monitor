@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-09-29T21:33:48.113353+00:00",
+  "updated_at": "2026-09-29T21:48:10.095893+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-29T21:33:48.113353+00:00"
+      "checked_at": "2026-09-29T21:48:10.095893+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-29T21:33:48.113353+00:00"
+      "checked_at": "2026-09-29T21:48:10.095893+00:00"
     }
   },
   "items": [
+    {
+      "id": "01d974e8ca1f830a3767",
+      "source": "BBC News",
+      "title": "Trump rules out joint US-China venture to develop AI",
+      "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T21:45:01+00:00"
+    },
     {
       "id": "7e506a12c656586d4217",
       "source": "BBC News",
       "title": "Former American Idol contestant and pastor found guilty of murdering wife",
       "url": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T21:16:17+00:00"
+      "published": "2026-09-29T21:34:59+00:00"
+    },
+    {
+      "id": "230cf809fbeca05fb819",
+      "source": "BBC News",
+      "title": "More than 400 detained as France student protests escalate",
+      "url": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T21:32:19+00:00"
     },
     {
       "id": "83362ae8634efe960772",
@@ -38,13 +52,6 @@
       "title": "Big tech, Trump: \"Pronto a creare un comitato per vigilare sull'Ia\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/donald-trump-ia-comitato-big-tech_117130256-202602k.shtml",
       "published": "2026-09-29T20:28:00+00:00"
-    },
-    {
-      "id": "01d974e8ca1f830a3767",
-      "source": "BBC News",
-      "title": "Trump rules out joint US-China venture to develop AI",
-      "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T20:24:18+00:00"
     },
     {
       "id": "4d94f00fff15d95a60a7",
