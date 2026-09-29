@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-09-29T17:34:38.343610+00:00",
+  "updated_at": "2026-09-29T17:49:25.617307+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-29T17:34:38.343610+00:00"
+      "checked_at": "2026-09-29T17:49:25.617307+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-29T17:34:38.343610+00:00"
+      "checked_at": "2026-09-29T17:49:25.617307+00:00"
     }
   },
   "items": [
+    {
+      "id": "e99b56ddec973fb99852",
+      "source": "BBC News",
+      "title": "New York Times executive fatally shot by elderly in-laws, police say",
+      "url": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T17:48:08+00:00"
+    },
+    {
+      "id": "08c90f79b6bc6bb211c4",
+      "source": "TGcom24",
+      "title": "Bollette, Arera: tariffa elettricità per i vulnerabili +37,3% nel IV trimestre",
+      "url": "https://www.tgcom24.mediaset.it/economia/bollette-energia-sconto-eni-enel-offerte_117123715-202602k.shtml",
+      "published": "2026-09-29T17:45:00+00:00"
+    },
     {
       "id": "d2714c231feb5b752ca9",
       "source": "TGcom24",
@@ -318,20 +332,6 @@
       "title": "Ucraina, esplosioni a Kiev: difese antiaeree in azione, danni in diversi quartieri",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-29-settembre_117100710-202602k.shtml",
       "published": "2026-09-29T04:32:00+00:00"
-    },
-    {
-      "id": "e99b56ddec973fb99852",
-      "source": "BBC News",
-      "title": "New York Times executive fatally shot by elderly in-laws, police say",
-      "url": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T04:06:43+00:00"
-    },
-    {
-      "id": "ca134a05b244bf34db7a",
-      "source": "TGcom24",
-      "title": "Stati Uniti, attacco hacker all'Fbi: sottratti dati sensibili dei dipendenti",
-      "url": "https://www.tgcom24.mediaset.it/mondo/stati-uniti-attacco-hacker-fbi_117099262-202602k.shtml",
-      "published": "2026-09-29T04:01:00+00:00"
     },
     {
       "id": "e1cd00954e719f985303",
