@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-29T04:59:45.085908+00:00",
+  "updated_at": "2026-09-29T05:10:18.827591+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-29T04:59:45.085908+00:00"
+      "checked_at": "2026-09-29T05:10:18.827591+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-29T04:59:45.085908+00:00"
+      "checked_at": "2026-09-29T05:10:18.827591+00:00"
     }
   },
   "items": [
+    {
+      "id": "8c4f9b2eea32e24445f2",
+      "source": "TGcom24",
+      "title": "Montegiorgio (Fermo), 70enne trovato morto vicino a trattore ribaltato",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/fermo-morto-vicino-a-trattore_117100713-202602k.shtml",
+      "published": "2026-09-29T05:03:00+00:00"
+    },
     {
       "id": "fa9c8a4c9ee5dfa010b8",
       "source": "TGcom24",
@@ -332,13 +339,6 @@
       "title": "Plan for controversial Sydney data centre scrapped after push-back",
       "url": "https://www.bbc.co.uk/news/articles/c6n9wrqpj4yqo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-28T12:47:09+00:00"
-    },
-    {
-      "id": "42047fba1dbb24dd0372",
-      "source": "TGcom24",
-      "title": "Caro carburanti, Assopetroli: \"Price cap da estendere alle vendite all'ingrosso\"",
-      "url": "https://www.tgcom24.mediaset.it/economia/caro-carburanti-prezzi-calmierati-eni-ip_117062832-202602k.shtml",
-      "published": "2026-09-28T11:59:00+00:00"
     },
     {
       "id": "d5d39a519e77b4511969",
