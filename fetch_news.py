@@ -94,6 +94,8 @@ PRIORITY_SOURCES = [
     ("Italia", "Avvenire", ["avvenire", "avvenire.it"], "avvenire.it"),
     ("Italia", "La Nuova Bussola Quotidiana", ["la nuova bussola quotidiana","lanuovabq.it"], "lanuovabq.it"),
     ("Italia", "Silere Non Possum", ["silere non possum", "silerenonpossum.com"], "silerenonpossum.com"),
+    ("Italia", "Duc in altum", ["duc in altum", "aldomariavalli.it"], "aldomariavalli.it"),
+    ("Italia", "Il Giornale d'Italia", ["il giornale d'italia", "ilgiornaleditalia.it"], "ilgiornaleditalia.it"),
     ("Italia", "SettimanaNews", ["settimananews","settimananews.it"], "settimananews.it"),
     ("Italia", "Il Messaggero", ["il messaggero","ilmessaggero.it"], "ilmessaggero.it"),
     ("Francia", "Famille Chrétienne", ["famille chrétienne","famillechretienne.fr"], "famillechretienne.fr"),
@@ -174,7 +176,7 @@ TOPICS = {
     "Pace e diplomazia": ["peace", "pace", "paix", "paz", "krieg", "war", "guerra", "diplom"],
     "Viaggi apostolici": ["travel", "trip", "visit", "voyage", "reise", "viaje", "viaggio"],
     "Finanze": ["finance", "financial", "bank", "finanz", "econom"],
-    "Nomine e Curia": ["appoint", "nomina", "appointment", "curia", "bishop", "vescovo", "évêque"],
+    "Nomine e Curia": ["appoint", "nomina", "appointment", "curia", "bishop", "vescovo", "évêque", "segretario di stato", "arciprete"],
     "Ecumenismo e dialogo": ["ecumen", "interfaith", "dialogue", "dialogo", "œcumé"],
     "Società e diritti": ["migrant", "migration", "climate", "rights", "diritti", "migranti"],
     "Santa Sede": ["holy see", "santa sede", "saint-siège", "heiliger stuhl", "curia romana", "roman curia", "vatican secretary of state", "segreteria di stato"],
@@ -266,7 +268,7 @@ EXTRA_SOURCE_SEARCHES = [
 def source_queries(country: str) -> list[str]:
     """Ricerche distinte per Papa e Vaticano: ciascun feed ha un proprio limite."""
     subjects=(
-        '(Pope OR Papa OR Pape OR Papst OR "Leo XIV" OR "Leone XIV" OR "Léon XIV" OR "León XIV")',
+        '(Pope OR Papa OR Pape OR Papst OR Prevost OR "Leo XIV" OR "Leone XIV" OR "Léon XIV" OR "León XIV")',
         '(Vatican OR Vaticano OR Vatikan OR "Holy See" OR "Santa Sede" OR "Saint-Siège")',
     )
     return [f'{subject} site:{domain} when:7d'
