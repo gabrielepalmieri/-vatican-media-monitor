@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-29T00:29:53.983905+00:00",
+  "updated_at": "2026-09-29T00:46:26.584974+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-29T00:29:53.983905+00:00"
+      "checked_at": "2026-09-29T00:46:26.584974+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-29T00:29:53.983905+00:00"
+      "checked_at": "2026-09-29T00:46:26.584974+00:00"
     }
   },
   "items": [
+    {
+      "id": "83362ae8634efe960772",
+      "source": "BBC News",
+      "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
+      "url": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T00:38:23+00:00"
+    },
     {
       "id": "4d94f00fff15d95a60a7",
       "source": "BBC News",
@@ -24,6 +31,13 @@
       "title": "Hurricane Polo unleashes threatening winds as it approaches Mexico",
       "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-28T23:43:48+00:00"
+    },
+    {
+      "id": "201b784dc0882ca4621c",
+      "source": "BBC News",
+      "title": "Tennessee governor rejects clemency bid for Christa Pike as execution looms",
+      "url": "https://www.bbc.co.uk/news/articles/ckr50yyddljlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-28T22:27:33+00:00"
     },
     {
       "id": "4213c24cca14c057064d",
@@ -52,6 +66,13 @@
       "title": "Papa: \"Le preoccupazioni sull'intelligenza artificiale non sono fake news\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/papa-estrema-destra-europa-cristianesimo_117096750-202602k.shtml",
       "published": "2026-09-28T21:01:00+00:00"
+    },
+    {
+      "id": "e99b56ddec973fb99852",
+      "source": "BBC News",
+      "title": "New York Times executive fatally shot allegedly by elderly in-laws",
+      "url": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-28T20:50:03+00:00"
     },
     {
       "id": "ef99e7f8d1056626a137",
@@ -101,13 +122,6 @@
       "title": "Media: gli Usa vogliono che l'Iran consenta il ritorno degli ispettori dell'Aiea",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-28-settembre_117062248-202602k.shtml",
       "published": "2026-09-28T18:30:00+00:00"
-    },
-    {
-      "id": "83362ae8634efe960772",
-      "source": "BBC News",
-      "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
-      "url": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-28T18:11:07+00:00"
     },
     {
       "id": "0562e9b47798ab3e6187",
@@ -353,13 +367,6 @@
       "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
       "url": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-27T19:47:21+00:00"
-    },
-    {
-      "id": "08d92dd437f232996e34",
-      "source": "BBC News",
-      "title": "Woman charged with stealing from patients and staff at hospitals across Ontario",
-      "url": "https://www.bbc.co.uk/news/articles/c3ew9e5lg01vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-27T16:35:41+00:00"
     },
     {
       "id": "f4e248e3d70850c03223",
