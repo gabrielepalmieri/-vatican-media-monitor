@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-29T20:08:21.175398+00:00",
+  "updated_at": "2026-09-29T20:23:59.233101+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-29T20:08:21.175398+00:00"
+      "checked_at": "2026-09-29T20:23:59.233101+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-29T20:08:21.175398+00:00"
+      "checked_at": "2026-09-29T20:23:59.233101+00:00"
     }
   },
   "items": [
+    {
+      "id": "4d94f00fff15d95a60a7",
+      "source": "BBC News",
+      "title": "Journalist crowned king in Uganda after bitter succession dispute",
+      "url": "https://www.bbc.co.uk/news/articles/cx7v4glz50elo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T20:09:27+00:00"
+    },
     {
       "id": "d36218ce2043f7ed6a05",
       "source": "TGcom24",
@@ -24,6 +31,13 @@
       "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
       "url": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-29T19:36:41+00:00"
+    },
+    {
+      "id": "128c104768cbd84c3782",
+      "source": "BBC News",
+      "title": "The journalist who became king in Uganda",
+      "url": "https://www.bbc.co.uk/news/videos/cry4z9jw3wvlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T19:35:19+00:00"
     },
     {
       "id": "63b77409c37155983bef",
@@ -56,7 +70,7 @@
     {
       "id": "b64cabbd5bb2ddda0fbe",
       "source": "BBC News",
-      "title": "Lindsay Clancy appears in court as her lawyer pushes for murder case to be dismissed",
+      "title": "Lindsay Clancy appears in court as her lawyer pushes for murder case dismissal",
       "url": "https://www.bbc.co.uk/news/articles/c8046wd93l44o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-29T17:31:30+00:00"
     },
@@ -192,13 +206,6 @@
       "title": "Malaysia begins controversial repatriation of asylum seekers to Myanmar",
       "url": "https://www.bbc.co.uk/news/articles/ckj06542e5neo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-29T13:29:04+00:00"
-    },
-    {
-      "id": "4d94f00fff15d95a60a7",
-      "source": "BBC News",
-      "title": "Journalist crowned king in Uganda after bitter succession dispute",
-      "url": "https://www.bbc.co.uk/news/articles/cx7v4glz50elo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T13:24:37+00:00"
     },
     {
       "id": "e597a12417d6ea1d621d",
