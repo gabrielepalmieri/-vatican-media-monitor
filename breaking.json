@@ -1,29 +1,36 @@
 {
-  "updated_at": "2026-09-29T09:08:44.527965+00:00",
+  "updated_at": "2026-09-29T09:25:00.010998+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-29T09:08:44.527965+00:00"
+      "checked_at": "2026-09-29T09:25:00.010998+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-29T09:08:44.527965+00:00"
+      "checked_at": "2026-09-29T09:25:00.010998+00:00"
     }
   },
   "items": [
+    {
+      "id": "66263e2f474c6caeeb12",
+      "source": "BBC News",
+      "title": "OpenAI scraps rollout of new model over safety concerns",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T09:14:13+00:00"
+    },
+    {
+      "id": "4866b7938286bcef733d",
+      "source": "TGcom24",
+      "title": "Trento, materiale suprematista e manuali per creare bombe: arrestato 17enne",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/trento-arrestato-minorenne-materiale-suprematista-bombe_117109171-202602k.shtml",
+      "published": "2026-09-29T09:09:00+00:00"
+    },
     {
       "id": "c45ef0021b99767409ed",
       "source": "BBC News",
       "title": "Evicted Spanish pensioner can move back home, lawyer says",
       "url": "https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-29T08:53:00+00:00"
-    },
-    {
-      "id": "66263e2f474c6caeeb12",
-      "source": "BBC News",
-      "title": "OpenAI scraps rollout of new model over safety concerns",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T08:41:06+00:00"
     },
     {
       "id": "4756dd100b18e2f1dfc5",
@@ -271,6 +278,13 @@
       "published": "2026-09-28T17:40:00+00:00"
     },
     {
+      "id": "260cc7a215216814a143",
+      "source": "BBC News",
+      "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
+      "url": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-28T17:26:21+00:00"
+    },
+    {
       "id": "6f51b683fcf535c8b75b",
       "source": "BBC News",
       "title": "People escape historic Kyiv building hit by Russian drone",
@@ -332,13 +346,6 @@
       "title": "Chiuse indagini-bis su Garlasco, difesa di Sempio: \"Non ci sono nuove prove\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/delitto-garlasco-chiusura-indagini-andrea-sempio-difesa_117082633-202602k.shtml",
       "published": "2026-09-28T14:32:00+00:00"
-    },
-    {
-      "id": "d820a5a8ea60a911af71",
-      "source": "TGcom24",
-      "title": "Garlasco, pm Pavia: \"Stasi poteva essere scagionato già 19 anni fa\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/delitto-garlasco-chiusura-indagini-andrea-sempio_117080312-202602k.shtml",
-      "published": "2026-09-28T14:11:00+00:00"
     },
     {
       "id": "3e2f97effc51c11a5a22",
