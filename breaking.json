@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-29T08:41:34.108177+00:00",
+  "updated_at": "2026-09-29T08:53:30.814148+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-29T08:41:34.108177+00:00"
+      "checked_at": "2026-09-29T08:53:30.814148+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-29T08:41:34.108177+00:00"
+      "checked_at": "2026-09-29T08:53:30.814148+00:00"
     }
   },
   "items": [
+    {
+      "id": "c45ef0021b99767409ed",
+      "source": "BBC News",
+      "title": "Evicted Spanish pensioner can move back home, lawyer says",
+      "url": "https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T08:53:00+00:00"
+    },
     {
       "id": "66263e2f474c6caeeb12",
       "source": "BBC News",
@@ -49,7 +56,7 @@
     {
       "id": "dd74dd88012916e70273",
       "source": "TGcom24",
-      "title": "Etna ancora in attività, voli sospesi all'aeroporto di Catania fino alle 15",
+      "title": "Etna ancora in attività, prima voli sospesi e poi ripristinati a Catania",
       "url": "https://www.tgcom24.mediaset.it/cronaca/catania-etna-voli-sospesi-29-settembre_117103896-202602k.shtml",
       "published": "2026-09-29T07:50:00+00:00"
     },
@@ -80,13 +87,6 @@
       "title": "Malaysia begins controversial repatriation of asylum seekers to Myanmar",
       "url": "https://www.bbc.co.uk/news/articles/ckj06542e5neo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-29T06:06:20+00:00"
-    },
-    {
-      "id": "03760cd0482816a77b3a",
-      "source": "BBC News",
-      "title": "Watch: Luxury units uncovered inside an Indonesian prison",
-      "url": "https://www.bbc.co.uk/news/videos/c6vgy293vvp3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T06:04:36+00:00"
     },
     {
       "id": "e2fd18df9b7df80d1177",
@@ -157,13 +157,6 @@
       "title": "Lost songs from iconic Australian rockstar found in garage",
       "url": "https://www.bbc.co.uk/news/articles/cmrl6ylzy4zxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-29T01:33:29+00:00"
-    },
-    {
-      "id": "c45ef0021b99767409ed",
-      "source": "BBC News",
-      "title": "Evicted Spanish pensioner can move back home, lawyer says",
-      "url": "https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T01:28:57+00:00"
     },
     {
       "id": "d5319e371090f696b5b1",
