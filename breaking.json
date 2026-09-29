@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-09-29T10:23:47.380995+00:00",
+  "updated_at": "2026-09-29T10:41:38.851270+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-29T10:23:47.380995+00:00"
+      "checked_at": "2026-09-29T10:41:38.851270+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-29T10:23:47.380995+00:00"
+      "checked_at": "2026-09-29T10:41:38.851270+00:00"
     }
   },
   "items": [
+    {
+      "id": "df608af05e84adf4e6cd",
+      "source": "TGcom24",
+      "title": "Roma, sequestrati 26mila litri di gasolio alterato per eludere le accise",
+      "url": "https://www.tgcom24.mediaset.it/economia/roma-sequestro-26mila-litri-gasolio-alterato_117111358-202602k.shtml",
+      "published": "2026-09-29T10:40:00+00:00"
+    },
+    {
+      "id": "47f7115090c46789171f",
+      "source": "BBC News",
+      "title": "Hurricane Polo makes landfall on Mexico's Pacific coast",
+      "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T10:34:53+00:00"
+    },
     {
       "id": "a32ec2fc6df96d8c2b54",
       "source": "TGcom24",
@@ -59,13 +73,6 @@
       "title": "How an alleged rape sent an Indian university into turmoil and emptied hostels",
       "url": "https://www.bbc.co.uk/news/articles/c6kg8dxrv54do?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-29T08:12:39+00:00"
-    },
-    {
-      "id": "47f7115090c46789171f",
-      "source": "BBC News",
-      "title": "Hurricane Polo makes landfall on Mexico's Pacific coast",
-      "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T08:05:09+00:00"
     },
     {
       "id": "e682ed6407a30557d45b",
@@ -332,13 +339,6 @@
       "title": "Elezioni suppletive a Reggio Calabria: vince Fabio Roscioli, candidato di centrodestra",
       "url": "https://www.tgcom24.mediaset.it/elezioni/suppletive-reggio-calabria-urne-chiuse-affluenza_117082626-202602k.shtml",
       "published": "2026-09-28T15:50:00+00:00"
-    },
-    {
-      "id": "63f04ec900c92252b5d0",
-      "source": "TGcom24",
-      "title": "Strage di Ustica, Francia pronta a collaborare: pm verso ritiro archiviazione",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/strage-ustica-francia-collabora_117083887-202602k.shtml",
-      "published": "2026-09-28T15:28:00+00:00"
     },
     {
       "id": "de5939f3d54f8fd23a75",
