@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-29T07:32:44.218229+00:00",
+  "updated_at": "2026-09-29T07:46:20.677570+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-29T07:32:44.218229+00:00"
+      "checked_at": "2026-09-29T07:46:20.677570+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-29T07:32:44.218229+00:00"
+      "checked_at": "2026-09-29T07:46:20.677570+00:00"
     }
   },
   "items": [
+    {
+      "id": "60cc314372ea18183229",
+      "source": "TGcom24",
+      "title": "Etna ancora in attività, voli sospesi all'aeroporto di Catania fino alle 15",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/catania-etna-voli-sospesi-29-settembre_117103896-202602k.shtml",
+      "published": "2026-09-29T07:37:00+00:00"
+    },
     {
       "id": "19e3ad58251a5c0b7a5d",
       "source": "TGcom24",
@@ -117,6 +124,13 @@
       "published": "2026-09-29T01:28:57+00:00"
     },
     {
+      "id": "d5319e371090f696b5b1",
+      "source": "BBC News",
+      "title": "Are Trump's US government funded ads illegal?",
+      "url": "https://www.bbc.co.uk/news/videos/c6lymekx0repo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T01:12:52+00:00"
+    },
+    {
       "id": "058c32e5d8360e0a282f",
       "source": "BBC News",
       "title": "Sign before praying: A new conversion law is affecting churchgoers in Indian state",
@@ -136,13 +150,6 @@
       "title": "Journalist to be crowned king in Uganda after bitter succession dispute",
       "url": "https://www.bbc.co.uk/news/articles/cx7v4glz50elo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-28T23:44:49+00:00"
-    },
-    {
-      "id": "47f7115090c46789171f",
-      "source": "BBC News",
-      "title": "Hurricane Polo unleashes threatening winds as it approaches Mexico",
-      "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-28T23:43:48+00:00"
     },
     {
       "id": "4213c24cca14c057064d",
@@ -243,13 +250,6 @@
       "published": "2026-09-28T17:15:00+00:00"
     },
     {
-      "id": "0406b8c6220963b79fa1",
-      "source": "TGcom24",
-      "title": "Carburanti, fonti Palazzo Chigi: si tratta con Q8, segnali positivi",
-      "url": "https://www.tgcom24.mediaset.it/economia/caro-carburanti-prezzi-calmierati-eni-ip_117062832-202602k.shtml",
-      "published": "2026-09-28T17:10:00+00:00"
-    },
-    {
       "id": "6f51b683fcf535c8b75b",
       "source": "BBC News",
       "title": "People escape historic Kyiv building hit by Russian drone",
@@ -262,13 +262,6 @@
       "title": "Regeni, tre 007 egiziani condannati a 10 anni per sequestro, cade accusa omicidio",
       "url": "https://www.tgcom24.mediaset.it/cronaca/omicidio-giulio-regeni-tre-007-egiziani-condannati-10-anni-carcere_117087193-202602k.shtml",
       "published": "2026-09-28T16:27:00+00:00"
-    },
-    {
-      "id": "1eec6c8659f10fd9eb3d",
-      "source": "BBC News",
-      "title": "Remains of dozens of suspected kidnap victims found in Nigerian forests",
-      "url": "https://www.bbc.co.uk/news/articles/c6e30x757nx4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-28T16:25:00+00:00"
     },
     {
       "id": "d70a9d4e32f18d0a0dce",
@@ -362,27 +355,6 @@
       "published": "2026-09-28T12:47:09+00:00"
     },
     {
-      "id": "d5d39a519e77b4511969",
-      "source": "BBC News",
-      "title": "Trump-Xi summit: What wasn't said might matter the most",
-      "url": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-28T07:52:23+00:00"
-    },
-    {
-      "id": "bd77320efddcd7e6ede2",
-      "source": "BBC News",
-      "title": "One dead as nor'easter storm pummels New York and New Jersey",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-27T23:37:26+00:00"
-    },
-    {
-      "id": "775943461320a275a745",
-      "source": "BBC News",
-      "title": "News media must stay relevant or 'society will struggle', says World News Day organiser",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyz9q3l6pno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-27T23:27:22+00:00"
-    },
-    {
       "id": "3dae6de5241ab01f240b",
       "source": "BBC News",
       "title": "Why some Indian civil servants become heroes for doing their jobs",
@@ -395,13 +367,6 @@
       "title": "Inside Yemen's front-line city as Houthis battle for control",
       "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-27T21:16:31+00:00"
-    },
-    {
-      "id": "f7a4697448544b74222e",
-      "source": "BBC News",
-      "title": "Embattled Serbian president resigns, paving way for early elections",
-      "url": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-27T20:04:21+00:00"
     }
   ]
 }
