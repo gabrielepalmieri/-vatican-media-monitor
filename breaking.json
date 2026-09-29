@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-29T16:41:34.714772+00:00",
+  "updated_at": "2026-09-29T16:54:25.141666+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-29T16:41:34.714772+00:00"
+      "checked_at": "2026-09-29T16:54:25.141666+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-29T16:41:34.714772+00:00"
+      "checked_at": "2026-09-29T16:54:25.141666+00:00"
     }
   },
   "items": [
+    {
+      "id": "6b8697c010cbc28418af",
+      "source": "TGcom24",
+      "title": "Ladro ucciso nel Cuneese, la perizia: \"Colpi sparati a meno di 14 metri\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/cuneo-ladro-ucciso-perizia-balistica-roberto-mollo_117122266-202602k.shtml",
+      "published": "2026-09-29T16:45:00+00:00"
+    },
     {
       "id": "4f02240510dd3df63761",
       "source": "BBC News",
@@ -80,6 +87,13 @@
       "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
       "url": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-29T14:25:12+00:00"
+    },
+    {
+      "id": "986b5804720205417863",
+      "source": "BBC News",
+      "title": "Close-up look at Turner's '£50m' Rome painting on show in the city",
+      "url": "https://www.bbc.co.uk/news/videos/crkgwvqjk0g7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T14:10:38+00:00"
     },
     {
       "id": "2731ddba32f9c4e4e16d",
@@ -332,13 +346,6 @@
       "title": "Trump: \"All'Iran non ho offerto nulla sulle sanzioni o sullo sblocco dei fondi\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-28-settembre_117062248-202602k.shtml",
       "published": "2026-09-28T22:01:00+00:00"
-    },
-    {
-      "id": "04362c6b9d2698f43e7b",
-      "source": "TGcom24",
-      "title": "Guerra in Ucraina, Papa: \"Ci sia dialogo tra Mosca e Kiev\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/papa-estrema-destra-europa-cristianesimo_117096750-202602k.shtml",
-      "published": "2026-09-28T21:30:00+00:00"
     },
     {
       "id": "18aa45e417e410fc5423",
