@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-29T08:26:28.931410+00:00",
+  "updated_at": "2026-09-29T08:41:34.108177+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-29T08:26:28.931410+00:00"
+      "checked_at": "2026-09-29T08:41:34.108177+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-29T08:26:28.931410+00:00"
+      "checked_at": "2026-09-29T08:41:34.108177+00:00"
     }
   },
   "items": [
+    {
+      "id": "66263e2f474c6caeeb12",
+      "source": "BBC News",
+      "title": "OpenAI scraps rollout of new model over safety concerns",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T08:41:06+00:00"
+    },
     {
       "id": "4756dd100b18e2f1dfc5",
       "source": "TGcom24",
@@ -19,16 +26,9 @@
       "published": "2026-09-29T08:22:00+00:00"
     },
     {
-      "id": "66263e2f474c6caeeb12",
-      "source": "BBC News",
-      "title": "OpenAI scraps rollout of new model over safety concerns",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T08:13:13+00:00"
-    },
-    {
       "id": "06dd26b25ea4931aa6a6",
       "source": "BBC News",
-      "title": "How a rape rumour sent an Indian university into turmoil and emptied hostels",
+      "title": "How an alleged rape sent an Indian university into turmoil and emptied hostels",
       "url": "https://www.bbc.co.uk/news/articles/c6kg8dxrv54do?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-29T08:12:39+00:00"
     },
@@ -38,6 +38,13 @@
       "title": "Hurricane Polo makes landfall on Mexico's Pacific coast",
       "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-29T08:05:09+00:00"
+    },
+    {
+      "id": "e682ed6407a30557d45b",
+      "source": "BBC News",
+      "title": "Burkina Faso's junta leader opens major gold refinery to keep mining profits at home",
+      "url": "https://www.bbc.co.uk/news/articles/c61mvdlk0327o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T08:01:24+00:00"
     },
     {
       "id": "dd74dd88012916e70273",
@@ -297,13 +304,6 @@
       "title": "Garlasco, i legali dei Poggi: \"Su Stasi nessun elemento nuovo, Corte chiuda la vicenda\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/delitto-garlasco-chiusura-indagini-andrea-sempio-difesa-famiglia-poggi_117085635-202602k.shtml",
       "published": "2026-09-28T16:15:00+00:00"
-    },
-    {
-      "id": "cbd6c9045f24321f1723",
-      "source": "BBC News",
-      "title": "Four bodies found after avalanche hits Himalayan climbing group",
-      "url": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-28T16:13:44+00:00"
     },
     {
       "id": "2d65bbd3d6fc6412dd46",
