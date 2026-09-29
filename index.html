@@ -71,7 +71,7 @@
     function criticalSignal(item){
       if(item.kind!=='news')return null;
       const title=item.title.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
-      const target=/(?:\b(?:papa|pope|pape|papst|pontifice|pontiff|francisco|francesco|francis|leone\s*xiv|leon\s*xiv|leo\s*xiv|vatican\w*|vatikan\w*|santa\s+sede|holy\s+see|saint[-\s]siege|curia\s+romana|roman\s+curia|chiesa\s+cattolica|iglesia\s+catolica|catholic\s+church|eglise\s+catholique)\b)/;
+      const target=/(?:\b(?:papa|pope|pape|papst|pontifice|pontiff|prevost|francisco|francesco|francis|leone\s*xiv|leon\s*xiv|leo\s*xiv|vatican\w*|vatikan\w*|santa\s+sede|holy\s+see|saint[-\s]siege|curia\s+romana|roman\s+curia|chiesa\s+cattolica|iglesia\s+catolica|catholic\s+church|eglise\s+catholique)\b)/;
       if(!target.test(title))return null;
       if(/\b(?:moment de silence|minute de silence|silenzio e preghiera|prayerful silence|priest accused.{0,55}pope)\b/.test(title))return null;
       const criticism=/(?:contro|against|contra|gegen|critic\w*|critiqu\w*|kritisi\w*|attacc\w*|attack\w*|attaque\w*|accus\w*|acus\w*|denunc\w*|denonc\w*|slam\w*|blast\w*|rebuk\w*|reproch\w*|cuestion\w*|questionn\w*|arremet\w*|contest\w*|sfid\w*)/.source;
@@ -87,7 +87,7 @@
       if(controversy)return{type:'controversy',label:'Controversia collegata',evidence:controversy[0]};
       const scrutiny=title.match(/\b(?:grande assente nel documento|assente nel documento|absent from (?:the )?(?:pope|vatican)|del processo.{0,35}non si sa nulla|no word on (?:the )?(?:trial|case)|scoppia il caso|caso .{0,100}(?:giusto processo|test del processo))\b/);
       if(scrutiny)return{type:'review',label:'Da verificare',evidence:scrutiny[0]};
-      const review=title.match(/\b(?:scontro|clash\w*|dissens\w*|tension\w*|pressure\b|pression\w*|pujas?|ostacol\w*|obstacl\w*|ombra|fantasma|shadow)\b/);
+      const review=title.match(/\b(?:scontro|clash\w*|dissens\w*|tension\w*|pressure\b|pression\w*|pujas?|ostacol\w*|obstacl\w*|ombra|fantasma|shadow|giacobin\w*|jacobin\w*)\b/);
       const negated=/(?:aucune tension|no tension|nessuna tensione|sin tension|senza tensioni)/.test(title);
       return review&&!negated&&Math.abs(title.indexOf(review[0])-title.search(target))<95?{type:'review',label:'Da verificare',evidence:review[0]}:null;
     }
