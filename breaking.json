@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-09-29T15:10:30.923814+00:00",
+  "updated_at": "2026-09-29T15:27:24.875925+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-29T15:10:30.923814+00:00"
+      "checked_at": "2026-09-29T15:27:24.875925+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-29T15:10:30.923814+00:00"
+      "checked_at": "2026-09-29T15:27:24.875925+00:00"
     }
   },
   "items": [
+    {
+      "id": "4f02240510dd3df63761",
+      "source": "BBC News",
+      "title": "Spain announces ban on evictions after protests over 87-year-old woman's eviction",
+      "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T15:26:23+00:00"
+    },
+    {
+      "id": "051db14ecc24ad544f45",
+      "source": "TGcom24",
+      "title": "Torino, autopsia per l'omicidio di Fabio Colapietro prevista per venerdì",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/omicidio-torino-autopsia_117119716-202602k.shtml",
+      "published": "2026-09-29T15:10:00+00:00"
+    },
     {
       "id": "3d3db2a87d00d96c0211",
       "source": "BBC News",
@@ -38,13 +52,6 @@
       "title": "Russia, aereo militare precipita durante l'addestramento: 6 morti",
       "url": "https://www.tgcom24.mediaset.it/mondo/russia-precipita-aereo-militare-tu-95-6-morti_117118469-202602k.shtml",
       "published": "2026-09-29T14:04:00+00:00"
-    },
-    {
-      "id": "4f02240510dd3df63761",
-      "source": "BBC News",
-      "title": "Spain announces new housing measures after protests over 87-year-old woman's eviction",
-      "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T13:41:06+00:00"
     },
     {
       "id": "60837467ece1d4a537de",
@@ -311,13 +318,6 @@
       "title": "Papa: \"Le preoccupazioni sull'intelligenza artificiale non sono fake news\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/papa-estrema-destra-europa-cristianesimo_117096750-202602k.shtml",
       "published": "2026-09-28T21:01:00+00:00"
-    },
-    {
-      "id": "19841574fcedabd8908b",
-      "source": "TGcom24",
-      "title": "Papa: \"L'estrema destra non è espressione del cristianesimo\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/papa-estrema-destra-europa-cristianesimo_117096750-202602k.shtml",
-      "published": "2026-09-28T20:22:00+00:00"
     },
     {
       "id": "18aa45e417e410fc5423",
