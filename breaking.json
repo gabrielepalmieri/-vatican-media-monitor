@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-09-29T04:25:06.641399+00:00",
+  "updated_at": "2026-09-29T04:40:38.868873+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-29T04:25:06.641399+00:00"
+      "checked_at": "2026-09-29T04:40:38.868873+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-29T04:25:06.641399+00:00"
+      "checked_at": "2026-09-29T04:40:38.868873+00:00"
     }
   },
   "items": [
+    {
+      "id": "fa9c8a4c9ee5dfa010b8",
+      "source": "TGcom24",
+      "title": "Ucraina, forti esplosioni a Kiev: difese antiaeree in azione",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-29-settembre_117100710-202602k.shtml",
+      "published": "2026-09-29T04:32:00+00:00"
+    },
+    {
+      "id": "66263e2f474c6caeeb12",
+      "source": "BBC News",
+      "title": "OpenAI scraps rollout of new model over safety concerns",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T04:30:13+00:00"
+    },
     {
       "id": "60837467ece1d4a537de",
       "source": "BBC News",
@@ -45,13 +59,6 @@
       "title": "Tennessee governor declines to halt execution of state's lone woman on death row",
       "url": "https://www.bbc.co.uk/news/articles/ckr50yyddljlo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-29T02:36:46+00:00"
-    },
-    {
-      "id": "66263e2f474c6caeeb12",
-      "source": "BBC News",
-      "title": "OpenAI scraps rollout of new model over safety concerns",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T02:29:25+00:00"
     },
     {
       "id": "7c5ad5f108cf7e0c33f2",
@@ -332,13 +339,6 @@
       "title": "Caro carburanti, Assopetroli: \"Price cap da estendere alle vendite all'ingrosso\"",
       "url": "https://www.tgcom24.mediaset.it/economia/caro-carburanti-prezzi-calmierati-eni-ip_117062832-202602k.shtml",
       "published": "2026-09-28T11:59:00+00:00"
-    },
-    {
-      "id": "f947cb4c42e8d7298931",
-      "source": "TGcom24",
-      "title": "Il Papa da Metz: \"Relazioni umane e tra Stati sempre più barbare\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/papa-leone-metz-francia-macron_117067654-202602k.shtml",
-      "published": "2026-09-28T11:25:00+00:00"
     },
     {
       "id": "d5d39a519e77b4511969",
