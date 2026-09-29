@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-29T19:32:37.981559+00:00",
+  "updated_at": "2026-09-29T19:44:00.750090+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-29T19:32:37.981559+00:00"
+      "checked_at": "2026-09-29T19:44:00.750090+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-29T19:32:37.981559+00:00"
+      "checked_at": "2026-09-29T19:44:00.750090+00:00"
     }
   },
   "items": [
+    {
+      "id": "b267858b7c63893e0403",
+      "source": "BBC News",
+      "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T19:36:41+00:00"
+    },
     {
       "id": "63b77409c37155983bef",
       "source": "TGcom24",
@@ -185,13 +192,6 @@
       "title": "Journalist crowned king in Uganda after bitter succession dispute",
       "url": "https://www.bbc.co.uk/news/articles/cx7v4glz50elo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-29T13:24:37+00:00"
-    },
-    {
-      "id": "b267858b7c63893e0403",
-      "source": "BBC News",
-      "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T13:15:51+00:00"
     },
     {
       "id": "e597a12417d6ea1d621d",
