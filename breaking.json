@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-09-29T14:25:19.320782+00:00",
+  "updated_at": "2026-09-29T14:41:28.893710+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-29T14:25:19.320782+00:00"
+      "checked_at": "2026-09-29T14:41:28.893710+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-29T14:25:19.320782+00:00"
+      "checked_at": "2026-09-29T14:41:28.893710+00:00"
     }
   },
   "items": [
+    {
+      "id": "ac61a216a057f01c7129",
+      "source": "TGcom24",
+      "title": "Morte avvelenate da ricina, Gianni Di Vita in questura per consegnare device",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/campobasso-ricina-perquisito-studio-gianni-di-vita_117103898-202602k.shtml",
+      "published": "2026-09-29T14:36:00+00:00"
+    },
+    {
+      "id": "83362ae8634efe960772",
+      "source": "BBC News",
+      "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
+      "url": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T14:25:12+00:00"
+    },
     {
       "id": "2731ddba32f9c4e4e16d",
       "source": "TGcom24",
@@ -292,13 +306,6 @@
       "published": "2026-09-29T00:50:19+00:00"
     },
     {
-      "id": "83362ae8634efe960772",
-      "source": "BBC News",
-      "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
-      "url": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T00:38:23+00:00"
-    },
-    {
       "id": "4213c24cca14c057064d",
       "source": "TGcom24",
       "title": "Trump: \"All'Iran non ho offerto nulla sulle sanzioni o sullo sblocco dei fondi\"",
@@ -339,13 +346,6 @@
       "title": "Papa: \"L'estrema destra non è espressione del cristianesimo\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/papa-estrema-destra-europa-cristianesimo_117096750-202602k.shtml",
       "published": "2026-09-28T20:22:00+00:00"
-    },
-    {
-      "id": "e99495e23b7ad2afd832",
-      "source": "TGcom24",
-      "title": "Caso Regeni, Tajani: \"Sono state condannate tre persone, non l'Egitto\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/omicidio-giulio-regeni-tre-007-egiziani-condannati-10-anni-carcere_117087193-202602k.shtml",
-      "published": "2026-09-28T19:48:00+00:00"
     },
     {
       "id": "18aa45e417e410fc5423",
