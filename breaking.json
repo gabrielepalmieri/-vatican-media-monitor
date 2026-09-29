@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-29T13:54:48.269333+00:00",
+  "updated_at": "2026-09-29T14:09:28.573730+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-29T13:54:48.269333+00:00"
+      "checked_at": "2026-09-29T14:09:28.573730+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-29T13:54:48.269333+00:00"
+      "checked_at": "2026-09-29T14:09:28.573730+00:00"
     }
   },
   "items": [
+    {
+      "id": "2731ddba32f9c4e4e16d",
+      "source": "TGcom24",
+      "title": "Russia, aereo militare precipita durante l'addestramento: 6 morti",
+      "url": "https://www.tgcom24.mediaset.it/mondo/russia-precipita-aereo-militare-tu-95-6-morti_117118469-202602k.shtml",
+      "published": "2026-09-29T14:04:00+00:00"
+    },
     {
       "id": "4f02240510dd3df63761",
       "source": "BBC News",
@@ -339,13 +346,6 @@
       "title": "Caso Regeni, Tajani: \"Sono state condannate tre persone, non l'Egitto\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/omicidio-giulio-regeni-tre-007-egiziani-condannati-10-anni-carcere_117087193-202602k.shtml",
       "published": "2026-09-28T19:48:00+00:00"
-    },
-    {
-      "id": "60205413997e5ba250d4",
-      "source": "TGcom24",
-      "title": "Scuola, stop ai compiti a casa \"di pomeriggio\": arriva la stretta del Ministero",
-      "url": "https://www.tgcom24.mediaset.it/skuola/stop-ai-compiti-fuori-orario-il-ministero-ufficializza-la-stretta_117086059-202602k.shtml",
-      "published": "2026-09-28T19:24:00+00:00"
     },
     {
       "id": "18aa45e417e410fc5423",
