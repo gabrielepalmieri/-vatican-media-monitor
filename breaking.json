@@ -1,29 +1,36 @@
 {
-  "updated_at": "2026-09-29T21:07:54.567569+00:00",
+  "updated_at": "2026-09-29T21:22:21.665111+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-29T21:07:54.567569+00:00"
+      "checked_at": "2026-09-29T21:22:21.665111+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-29T21:07:54.567569+00:00"
+      "checked_at": "2026-09-29T21:22:21.665111+00:00"
     }
   },
   "items": [
+    {
+      "id": "7e506a12c656586d4217",
+      "source": "BBC News",
+      "title": "Former American Idol contestant and pastor found guilty of murdering wife",
+      "url": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T21:16:17+00:00"
+    },
+    {
+      "id": "83362ae8634efe960772",
+      "source": "BBC News",
+      "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
+      "url": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T21:09:00+00:00"
+    },
     {
       "id": "c606fd0e45b95085e69f",
       "source": "TGcom24",
       "title": "Di Battista: \"Mi hanno asportato un tumore a Cuba, ora mi devo curare\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/di-battista-asportato-tumore-cuba-mi-devo-curare_117132760-202602k.shtml",
       "published": "2026-09-29T20:58:00+00:00"
-    },
-    {
-      "id": "7e506a12c656586d4217",
-      "source": "BBC News",
-      "title": "Former American Idol contestant and pastor found guilty of murdering wife",
-      "url": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T20:50:43+00:00"
     },
     {
       "id": "34f794684355f1bb5c66",
@@ -185,13 +192,6 @@
       "title": "Morte avvelenate da ricina, Gianni Di Vita in questura per consegnare device",
       "url": "https://www.tgcom24.mediaset.it/cronaca/campobasso-ricina-perquisito-studio-gianni-di-vita_117103898-202602k.shtml",
       "published": "2026-09-29T14:36:00+00:00"
-    },
-    {
-      "id": "83362ae8634efe960772",
-      "source": "BBC News",
-      "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
-      "url": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T14:25:12+00:00"
     },
     {
       "id": "986b5804720205417863",
