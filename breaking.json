@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-09-29T21:48:10.095893+00:00",
+  "updated_at": "2026-09-29T21:56:12.860280+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-29T21:48:10.095893+00:00"
+      "checked_at": "2026-09-29T21:56:12.860280+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-29T21:48:10.095893+00:00"
+      "checked_at": "2026-09-29T21:56:12.860280+00:00"
     }
   },
   "items": [
+    {
+      "id": "230cf809fbeca05fb819",
+      "source": "BBC News",
+      "title": "More than 400 detained as France student protests escalate",
+      "url": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T21:55:13+00:00"
+    },
+    {
+      "id": "e4e8f070bab38b2cab73",
+      "source": "BBC News",
+      "title": "Fires and blockades as students stage school protests across France",
+      "url": "https://www.bbc.co.uk/news/videos/cmy0zey3ey2lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T21:53:36+00:00"
+    },
+    {
+      "id": "4ce4017d4be5b3f1df73",
+      "source": "TGcom24",
+      "title": "Uccise un benzinaio ad Ardea per 500 euro, condannato a 25 anni Marco Adamo",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/ardea-omicidio-benzinaio-condanna-marco-adamo_117131881-202602k.shtml",
+      "published": "2026-09-29T21:51:00+00:00"
+    },
     {
       "id": "01d974e8ca1f830a3767",
       "source": "BBC News",
@@ -24,13 +45,6 @@
       "title": "Former American Idol contestant and pastor found guilty of murdering wife",
       "url": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-29T21:34:59+00:00"
-    },
-    {
-      "id": "230cf809fbeca05fb819",
-      "source": "BBC News",
-      "title": "More than 400 detained as France student protests escalate",
-      "url": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T21:32:19+00:00"
     },
     {
       "id": "83362ae8634efe960772",
@@ -346,13 +360,6 @@
       "title": "How an alleged rape sent an Indian university into turmoil and emptied hostels",
       "url": "https://www.bbc.co.uk/news/articles/c6kg8dxrv54do?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-29T08:12:39+00:00"
-    },
-    {
-      "id": "dd74dd88012916e70273",
-      "source": "TGcom24",
-      "title": "Etna ancora in attività, prima voli sospesi e poi ripristinati a Catania",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/catania-etna-voli-sospesi-29-settembre_117103896-202602k.shtml",
-      "published": "2026-09-29T07:50:00+00:00"
     },
     {
       "id": "1977e75da7a1bb5d3b34",
