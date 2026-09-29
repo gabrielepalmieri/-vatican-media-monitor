@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-09-29T16:09:32.269281+00:00",
+  "updated_at": "2026-09-29T16:26:25.735908+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-29T16:09:32.269281+00:00"
+      "checked_at": "2026-09-29T16:26:25.735908+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-29T16:09:32.269281+00:00"
+      "checked_at": "2026-09-29T16:26:25.735908+00:00"
     }
   },
   "items": [
+    {
+      "id": "4f02240510dd3df63761",
+      "source": "BBC News",
+      "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
+      "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T16:23:58+00:00"
+    },
+    {
+      "id": "01d974e8ca1f830a3767",
+      "source": "BBC News",
+      "title": "Trump rules out joint US-China venture to develop AI",
+      "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T16:09:26+00:00"
+    },
+    {
+      "id": "33c00e961543987deb95",
+      "source": "TGcom24",
+      "title": "Tensione Russia-Nato, Mosca: \"Difenderemo Kaliningrad con l'intero arsenale\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/russia-precipita-aereo-militare-tu-95-6-morti_117118469-202602k.shtml",
+      "published": "2026-09-29T16:07:00+00:00"
+    },
     {
       "id": "4cf29c7e7de85c058a57",
       "source": "BBC News",
@@ -24,13 +45,6 @@
       "title": "Crisi energia, spread Btp-Bund oltre quota 100 su Borsa Italiana",
       "url": "https://www.tgcom24.mediaset.it/economia/crisi-energia-spread-btp-bund-oltre-quota-100-su-borsa-italiana-_117120419-202602k.shtml",
       "published": "2026-09-29T15:30:00+00:00"
-    },
-    {
-      "id": "4f02240510dd3df63761",
-      "source": "BBC News",
-      "title": "Spain announces ban on evictions after protests over 87-year-old woman's eviction",
-      "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T15:26:23+00:00"
     },
     {
       "id": "051db14ecc24ad544f45",
@@ -327,25 +341,11 @@
       "published": "2026-09-28T21:30:00+00:00"
     },
     {
-      "id": "cb43d677b3e1c60e3ed3",
-      "source": "TGcom24",
-      "title": "Papa: \"Le preoccupazioni sull'intelligenza artificiale non sono fake news\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/papa-estrema-destra-europa-cristianesimo_117096750-202602k.shtml",
-      "published": "2026-09-28T21:01:00+00:00"
-    },
-    {
       "id": "18aa45e417e410fc5423",
       "source": "BBC News",
       "title": "The Frenemy: How Australia navigates superpower rivalry",
       "url": "https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-28T18:37:15+00:00"
-    },
-    {
-      "id": "260cc7a215216814a143",
-      "source": "BBC News",
-      "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
-      "url": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-28T17:26:21+00:00"
     },
     {
       "id": "6f51b683fcf535c8b75b",
