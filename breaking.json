@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-29T15:54:14.436745+00:00",
+  "updated_at": "2026-09-29T16:09:32.269281+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-29T15:54:14.436745+00:00"
+      "checked_at": "2026-09-29T16:09:32.269281+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-29T15:54:14.436745+00:00"
+      "checked_at": "2026-09-29T16:09:32.269281+00:00"
     }
   },
   "items": [
+    {
+      "id": "4cf29c7e7de85c058a57",
+      "source": "BBC News",
+      "title": "Dutch police arrest suspected member of group that claimed FBI hack",
+      "url": "https://www.bbc.co.uk/news/articles/cw5ym18znr0ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T15:40:10+00:00"
+    },
     {
       "id": "0dbb3b2104c3d585b056",
       "source": "TGcom24",
@@ -192,13 +199,6 @@
       "title": "Ceuta, la polizia spagnola sgombera il campo migranti",
       "url": "https://www.tgcom24.mediaset.it/mondo/foto/ceuta-la-polizia-sgombera-all-alba-centinaia-di-migranti-da-playa-benitez_117106680-202602k.shtml",
       "published": "2026-09-29T09:45:00+00:00"
-    },
-    {
-      "id": "66263e2f474c6caeeb12",
-      "source": "BBC News",
-      "title": "OpenAI scraps rollout of new model over safety concerns",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T09:14:13+00:00"
     },
     {
       "id": "4866b7938286bcef733d",
