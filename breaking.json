@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-29T02:31:25.158311+00:00",
+  "updated_at": "2026-09-29T02:42:22.399151+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-29T02:31:25.158311+00:00"
+      "checked_at": "2026-09-29T02:42:22.399151+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-29T02:31:25.158311+00:00"
+      "checked_at": "2026-09-29T02:42:22.399151+00:00"
     }
   },
   "items": [
+    {
+      "id": "201b784dc0882ca4621c",
+      "source": "BBC News",
+      "title": "Tennessee governor declines to halt execution of state's lone woman on death row",
+      "url": "https://www.bbc.co.uk/news/articles/ckr50yyddljlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T02:36:46+00:00"
+    },
     {
       "id": "66263e2f474c6caeeb12",
       "source": "BBC News",
@@ -45,13 +52,6 @@
       "title": "Hurricane Polo unleashes threatening winds as it approaches Mexico",
       "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-28T23:43:48+00:00"
-    },
-    {
-      "id": "201b784dc0882ca4621c",
-      "source": "BBC News",
-      "title": "Tennessee governor rejects clemency bid for Christa Pike as execution looms",
-      "url": "https://www.bbc.co.uk/news/articles/ckr50yyddljlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-28T22:27:33+00:00"
     },
     {
       "id": "4213c24cca14c057064d",
