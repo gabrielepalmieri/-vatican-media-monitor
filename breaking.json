@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-30T03:53:19.192922+00:00",
+  "updated_at": "2026-09-30T04:07:42.850440+00:00",
   "sources": {
     "TGcom24": {
-      "ok": false,
-      "checked_at": "2026-09-30T03:53:19.192922+00:00"
+      "ok": true,
+      "checked_at": "2026-09-30T04:07:42.850440+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-30T03:53:19.192922+00:00"
+      "checked_at": "2026-09-30T04:07:42.850440+00:00"
     }
   },
   "items": [
@@ -16,7 +16,21 @@
       "source": "BBC News",
       "title": "Three takeaways from Trump's 'Super Intelligence' summit",
       "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T03:23:17+00:00"
+      "published": "2026-09-30T04:01:52+00:00"
+    },
+    {
+      "id": "609f5209ac194eef2853",
+      "source": "TGcom24",
+      "title": "Pentagono, media: \"Hegseth verso il taglio del 20% di generali e ammiragli\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-pete-hegseth-taglio-generali-ammiragli-pentagono_117133851-202602k.shtml",
+      "published": "2026-09-30T04:01:00+00:00"
+    },
+    {
+      "id": "36ca5f9e7df3aeb922f8",
+      "source": "BBC News",
+      "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
+      "url": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-30T03:38:09+00:00"
     },
     {
       "id": "85172cf75b0249bd217f",
@@ -94,13 +108,6 @@
       "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
       "url": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-29T21:09:00+00:00"
-    },
-    {
-      "id": "c606fd0e45b95085e69f",
-      "source": "TGcom24",
-      "title": "Di Battista: \"Mi hanno asportato un tumore a Cuba, ora mi devo curare\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/di-battista-asportato-tumore-cuba-mi-devo-curare_117132760-202602k.shtml",
-      "published": "2026-09-29T20:58:00+00:00"
     },
     {
       "id": "34f794684355f1bb5c66",
@@ -339,13 +346,6 @@
       "title": "Roma, sequestrati 26mila litri di gasolio alterato per eludere le accise",
       "url": "https://www.tgcom24.mediaset.it/economia/roma-sequestro-26mila-litri-gasolio-alterato_117111358-202602k.shtml",
       "published": "2026-09-29T10:40:00+00:00"
-    },
-    {
-      "id": "47f7115090c46789171f",
-      "source": "BBC News",
-      "title": "Hurricane Polo makes landfall on Mexico's Pacific coast",
-      "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T10:34:53+00:00"
     },
     {
       "id": "a32ec2fc6df96d8c2b54",
