@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-30T23:07:13.278622+00:00",
+  "updated_at": "2026-09-30T23:20:41.754979+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-30T23:07:13.278622+00:00"
+      "checked_at": "2026-09-30T23:20:41.754979+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-30T23:07:13.278622+00:00"
+      "checked_at": "2026-09-30T23:20:41.754979+00:00"
     }
   },
   "items": [
+    {
+      "id": "cd5ff9d3f152f26f6a29",
+      "source": "TGcom24",
+      "title": "Vittorio Sgarbi ricoverato in terapia intensiva al policlinico Gemelli di Roma",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/vittorio-sgarbi-ricoverato-gemelli-roma-terapia-intensiva_117160116-202602k.shtml",
+      "published": "2026-09-30T22:31:00+00:00"
+    },
     {
       "id": "85341c0f042253a08242",
       "source": "BBC News",
@@ -304,13 +311,6 @@
       "title": "Allarme su volo Dubai-Tel Aviv, atterrato in Arabia S. ma escluso dirottamento",
       "url": "https://www.tgcom24.mediaset.it/mondo/emergenza-volo-dubaitel-aviv-jet-israeliani_117137408-202602k.shtml",
       "published": "2026-09-30T07:05:00+00:00"
-    },
-    {
-      "id": "b557e2b98bd4226943da",
-      "source": "TGcom24",
-      "title": "Russia, ministero Difesa: \"Abbattuti 384 droni ucraini durante la notte\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-kiev-attacco-droni-morto-bambino_117134444-202602k.shtml",
-      "published": "2026-09-30T06:15:00+00:00"
     },
     {
       "id": "36ca5f9e7df3aeb922f8",
