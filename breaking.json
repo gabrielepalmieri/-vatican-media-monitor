@@ -1,23 +1,16 @@
 {
-  "updated_at": "2026-09-30T10:08:41.860843+00:00",
+  "updated_at": "2026-09-30T10:24:52.091208+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-30T10:08:41.860843+00:00"
+      "checked_at": "2026-09-30T10:24:52.091208+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-30T10:08:41.860843+00:00"
+      "checked_at": "2026-09-30T10:24:52.091208+00:00"
     }
   },
   "items": [
-    {
-      "id": "7d9741910692ec411a21",
-      "source": "BBC News",
-      "title": "Israel-bound flight diverted after fight between pilots",
-      "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T09:54:19+00:00"
-    },
     {
       "id": "efdc2f32a4d298bd0114",
       "source": "BBC News",
@@ -28,7 +21,7 @@
     {
       "id": "0acb39c06694164dabe4",
       "source": "TGcom24",
-      "title": "Ancona, incidente sul lavoro: uno operaio morto e un altro gravissimo",
+      "title": "Ancona, incidente sul lavoro: un operaio morto e un altro gravissimo",
       "url": "https://www.tgcom24.mediaset.it/cronaca/ancona-incidente-fincantieri-operaio-morto_117141543-202602k.shtml",
       "published": "2026-09-30T09:29:00+00:00"
     },
@@ -38,6 +31,13 @@
       "title": "Emergenza volo FlyDubai, media: \"Pilota ha tentato di far schiantare l'aereo\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/emergenza-volo-dubaitel-aviv-jet-israeliani_117137408-202602k.shtml",
       "published": "2026-09-30T09:07:00+00:00"
+    },
+    {
+      "id": "d6a22b150212d126138c",
+      "source": "BBC News",
+      "title": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
+      "url": "https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-30T08:59:38+00:00"
     },
     {
       "id": "27c82c5350a425eb045f",
@@ -248,13 +248,6 @@
       "title": "Bollette, annunciati nuovi tagli per elettricità e gas",
       "url": "https://www.tgcom24.mediaset.it/economia/bollette-energia-sconto-eni-enel-offerte_117123715-202602k.shtml",
       "published": "2026-09-29T17:15:00+00:00"
-    },
-    {
-      "id": "81ead327f707fbd0d9c6",
-      "source": "BBC News",
-      "title": "First female prime minister named in Morocco after winning elections",
-      "url": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T17:14:10+00:00"
     },
     {
       "id": "6b8697c010cbc28418af",
