@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-30T12:42:15.068203+00:00",
+  "updated_at": "2026-09-30T12:59:39.056298+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-30T12:42:15.068203+00:00"
+      "checked_at": "2026-09-30T12:59:39.056298+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-30T12:42:15.068203+00:00"
+      "checked_at": "2026-09-30T12:59:39.056298+00:00"
     }
   },
   "items": [
+    {
+      "id": "2c440d83251778428256",
+      "source": "BBC News",
+      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+      "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-30T12:42:34+00:00"
+    },
     {
       "id": "e4049c62e8b66728aa58",
       "source": "TGcom24",
@@ -31,13 +38,6 @@
       "title": "Benevento, uccise la moglie e il figlio a sassate: condannato all'ergastolo",
       "url": "https://www.tgcom24.mediaset.it/cronaca/benevento-salvatore-ocone-uccise-moglie-figlio-a-sassate-ergastolo-_117145704-202602k.shtml",
       "published": "2026-09-30T11:52:00+00:00"
-    },
-    {
-      "id": "2c440d83251778428256",
-      "source": "BBC News",
-      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
-      "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T11:47:27+00:00"
     },
     {
       "id": "0910a556203dece304b9",
