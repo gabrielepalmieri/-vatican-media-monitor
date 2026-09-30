@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-09-30T13:34:07.974798+00:00",
+  "updated_at": "2026-09-30T13:51:21.169397+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-30T13:34:07.974798+00:00"
+      "checked_at": "2026-09-30T13:51:21.169397+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-30T13:34:07.974798+00:00"
+      "checked_at": "2026-09-30T13:51:21.169397+00:00"
     }
   },
   "items": [
+    {
+      "id": "e736f533c807626b5249",
+      "source": "TGcom24",
+      "title": "Avellino, malore al nono mese di gravidanza: morti mamma e bimbo",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/avellino-malore-donna-muore-nono-mese-gravidanza_117146390-202602k.shtml",
+      "published": "2026-09-30T13:46:00+00:00"
+    },
     {
       "id": "230cf809fbeca05fb819",
       "source": "BBC News",
       "title": "Dozens hurt and hundreds arrested in wave of French school protests",
       "url": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-30T13:18:01+00:00"
+    },
+    {
+      "id": "6290097b4f952014a6e1",
+      "source": "TGcom24",
+      "title": "Napoli, nascosto nel vano dell'armadio: arrestato uno dei capi del clan Mazzarella",
+      "url": "https://www.tgcom24.mediaset.it/2026/video/napoli-nascosto-nel-vano-dell-armadio-arrestato-uno-dei-capi-del-clan-mazzarella_117148629-02k.shtml",
+      "published": "2026-09-30T13:05:00+00:00"
     },
     {
       "id": "2c440d83251778428256",
@@ -339,20 +353,6 @@
       "title": "Crisi energia, spread Btp-Bund oltre quota 100 su Borsa Italiana",
       "url": "https://www.tgcom24.mediaset.it/economia/crisi-energia-spread-btp-bund-oltre-quota-100-su-borsa-italiana-_117120419-202602k.shtml",
       "published": "2026-09-29T15:30:00+00:00"
-    },
-    {
-      "id": "051db14ecc24ad544f45",
-      "source": "TGcom24",
-      "title": "Torino, autopsia per l'omicidio di Fabio Colapietro prevista per venerdì",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/omicidio-torino-autopsia_117119716-202602k.shtml",
-      "published": "2026-09-29T15:10:00+00:00"
-    },
-    {
-      "id": "ac61a216a057f01c7129",
-      "source": "TGcom24",
-      "title": "Morte avvelenate da ricina, Gianni Di Vita in questura per consegnare device",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/campobasso-ricina-perquisito-studio-gianni-di-vita_117103898-202602k.shtml",
-      "published": "2026-09-29T14:36:00+00:00"
     },
     {
       "id": "986b5804720205417863",
