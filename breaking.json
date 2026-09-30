@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-30T06:29:03.869318+00:00",
+  "updated_at": "2026-09-30T06:46:22.619846+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-30T06:29:03.869318+00:00"
+      "checked_at": "2026-09-30T06:46:22.619846+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-30T06:29:03.869318+00:00"
+      "checked_at": "2026-09-30T06:46:22.619846+00:00"
     }
   },
   "items": [
+    {
+      "id": "b557e2b98bd4226943da",
+      "source": "TGcom24",
+      "title": "Russia, ministero Difesa: \"Abbattuti 384 droni ucraini durante la notte\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-kiev-attacco-droni-morto-bambino_117134444-202602k.shtml",
+      "published": "2026-09-30T06:15:00+00:00"
+    },
     {
       "id": "e28a0f73338b477a12a0",
       "source": "TGcom24",
@@ -376,13 +383,6 @@
       "published": "2026-09-29T10:40:00+00:00"
     },
     {
-      "id": "a32ec2fc6df96d8c2b54",
-      "source": "TGcom24",
-      "title": "Pisa, botte e violenze contro la moglie incinta: arrestato 37enne",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/pisa-picchia-moglie-incinta-arrestato-37enne_117107727-202602k.shtml",
-      "published": "2026-09-29T10:15:00+00:00"
-    },
-    {
       "id": "06dd26b25ea4931aa6a6",
       "source": "BBC News",
       "title": "How an alleged rape sent an Indian university into turmoil and emptied hostels",
@@ -402,13 +402,6 @@
       "title": "Are Trump's US government funded ads illegal?",
       "url": "https://www.bbc.co.uk/news/videos/c6lymekx0repo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-29T01:12:52+00:00"
-    },
-    {
-      "id": "18aa45e417e410fc5423",
-      "source": "BBC News",
-      "title": "The Frenemy: How Australia navigates superpower rivalry",
-      "url": "https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-28T18:37:15+00:00"
     }
   ]
 }
