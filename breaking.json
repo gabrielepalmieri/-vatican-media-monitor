@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-30T16:13:52.769099+00:00",
+  "updated_at": "2026-09-30T16:34:24.099580+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-30T16:13:52.769099+00:00"
+      "checked_at": "2026-09-30T16:34:24.099580+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-30T16:13:52.769099+00:00"
+      "checked_at": "2026-09-30T16:34:24.099580+00:00"
     }
   },
   "items": [
+    {
+      "id": "eb63c0edf944600f8554",
+      "source": "TGcom24",
+      "title": "Cuneo, detenuto a fine pena protesta contro la scarcerazione: \"Urla e lancia oggetti\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/cuneo-carcere-detenuto-fine-pena-protesta-scarcerazione_117150744-202602k.shtml",
+      "published": "2026-09-30T16:30:00+00:00"
+    },
     {
       "id": "cd63e9747581fa73adab",
       "source": "TGcom24",
@@ -38,6 +45,13 @@
       "title": "Usa, condannata a morte a 18 anni: il tribunale del Tennessee ferma l'esecuzione in extremis",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-tribunale-ferma-esecuzione_117150066-202602k.shtml",
       "published": "2026-09-30T15:06:00+00:00"
+    },
+    {
+      "id": "c99b1bb1a4c13dfa7452",
+      "source": "BBC News",
+      "title": "Ethiopia fighting escalates in Tigray killing 52 civilians, medic tells the BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6grveejg1e2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-30T15:04:32+00:00"
     },
     {
       "id": "2c440d83251778428256",
@@ -325,13 +339,6 @@
       "title": "Ancona, morta in ospedale la bimba di 3 anni soffocata con un acino d'uva",
       "url": "https://www.tgcom24.mediaset.it/cronaca/ancona-bambina-morta-soffocamento-acino-uva_117128902-202602k.shtml",
       "published": "2026-09-29T18:31:00+00:00"
-    },
-    {
-      "id": "08c90f79b6bc6bb211c4",
-      "source": "TGcom24",
-      "title": "Bollette, Arera: tariffa elettricità per i vulnerabili +37,3% nel IV trimestre",
-      "url": "https://www.tgcom24.mediaset.it/economia/bollette-energia-sconto-eni-enel-offerte_117123715-202602k.shtml",
-      "published": "2026-09-29T17:45:00+00:00"
     },
     {
       "id": "986b5804720205417863",
