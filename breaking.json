@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-30T16:00:10.277402+00:00",
+  "updated_at": "2026-09-30T16:13:52.769099+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-30T16:00:10.277402+00:00"
+      "checked_at": "2026-09-30T16:13:52.769099+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-30T16:00:10.277402+00:00"
+      "checked_at": "2026-09-30T16:13:52.769099+00:00"
     }
   },
   "items": [
+    {
+      "id": "cd63e9747581fa73adab",
+      "source": "TGcom24",
+      "title": "Volo FlyDubai, passeggeri atterrati a Tel Aviv",
+      "url": "https://www.tgcom24.mediaset.it/mondo/emergenza-volo-dubaitel-aviv-jet-israeliani_117137408-202602k.shtml",
+      "published": "2026-09-30T16:06:00+00:00"
+    },
     {
       "id": "e54bac717d0f8f56e664",
       "source": "TGcom24",
@@ -325,13 +332,6 @@
       "title": "Bollette, Arera: tariffa elettricità per i vulnerabili +37,3% nel IV trimestre",
       "url": "https://www.tgcom24.mediaset.it/economia/bollette-energia-sconto-eni-enel-offerte_117123715-202602k.shtml",
       "published": "2026-09-29T17:45:00+00:00"
-    },
-    {
-      "id": "d2714c231feb5b752ca9",
-      "source": "TGcom24",
-      "title": "Bollette, annunciati nuovi tagli per elettricità e gas",
-      "url": "https://www.tgcom24.mediaset.it/economia/bollette-energia-sconto-eni-enel-offerte_117123715-202602k.shtml",
-      "published": "2026-09-29T17:15:00+00:00"
     },
     {
       "id": "986b5804720205417863",
