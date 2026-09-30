@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-30T12:59:39.056298+00:00",
+  "updated_at": "2026-09-30T13:14:05.662321+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-30T12:59:39.056298+00:00"
+      "checked_at": "2026-09-30T13:14:05.662321+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-30T12:59:39.056298+00:00"
+      "checked_at": "2026-09-30T13:14:05.662321+00:00"
     }
   },
   "items": [
@@ -17,6 +17,13 @@
       "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
       "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-30T12:42:34+00:00"
+    },
+    {
+      "id": "7d9741910692ec411a21",
+      "source": "BBC News",
+      "title": "What we know about the Dubai-Israel plane incident after reported stabbing",
+      "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-30T12:30:05+00:00"
     },
     {
       "id": "e4049c62e8b66728aa58",
@@ -367,13 +374,6 @@
       "title": "How an alleged rape sent an Indian university into turmoil and emptied hostels",
       "url": "https://www.bbc.co.uk/news/articles/c6kg8dxrv54do?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-29T08:12:39+00:00"
-    },
-    {
-      "id": "d5319e371090f696b5b1",
-      "source": "BBC News",
-      "title": "Are Trump's US government funded ads illegal?",
-      "url": "https://www.bbc.co.uk/news/videos/c6lymekx0repo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T01:12:52+00:00"
     }
   ]
 }
