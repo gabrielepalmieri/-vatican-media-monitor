@@ -1,29 +1,36 @@
 {
-  "updated_at": "2026-09-30T14:53:58.961221+00:00",
+  "updated_at": "2026-09-30T15:11:50.728133+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-30T14:53:58.961221+00:00"
+      "checked_at": "2026-09-30T15:11:50.728133+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-30T14:53:58.961221+00:00"
+      "checked_at": "2026-09-30T15:11:50.728133+00:00"
     }
   },
   "items": [
+    {
+      "id": "f62bb407dd12d1a9d270",
+      "source": "BBC News",
+      "title": "Execution of US murderer Christa Pike halted an hour before it was due to happen",
+      "url": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-30T15:06:32+00:00"
+    },
+    {
+      "id": "0e8b68e4539af39fab43",
+      "source": "TGcom24",
+      "title": "Usa, condannata a morte a 18 anni: il tribunale del Tennessee ferma l'esecuzione in extremis",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-tribunale-ferma-esecuzione_117150066-202602k.shtml",
+      "published": "2026-09-30T15:06:00+00:00"
+    },
     {
       "id": "2c440d83251778428256",
       "source": "BBC News",
       "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
       "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-30T14:53:02+00:00"
-    },
-    {
-      "id": "f62bb407dd12d1a9d270",
-      "source": "BBC News",
-      "title": "Execution of US murderer Christa Pike halted an hour before it was due to happen",
-      "url": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T14:47:12+00:00"
     },
     {
       "id": "60bef5c7044e46d5a39c",
@@ -325,13 +332,6 @@
       "title": "Ladro ucciso nel Cuneese, la perizia: \"Colpi sparati a meno di 14 metri\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/cuneo-ladro-ucciso-perizia-balistica-roberto-mollo_117122266-202602k.shtml",
       "published": "2026-09-29T16:45:00+00:00"
-    },
-    {
-      "id": "33c00e961543987deb95",
-      "source": "TGcom24",
-      "title": "Tensione Russia-Nato, Mosca: \"Difenderemo Kaliningrad con l'intero arsenale\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/russia-precipita-aereo-militare-tu-95-6-morti_117118469-202602k.shtml",
-      "published": "2026-09-29T16:07:00+00:00"
     },
     {
       "id": "986b5804720205417863",
