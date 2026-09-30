@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-09-30T04:24:21.822234+00:00",
+  "updated_at": "2026-09-30T04:41:03.972433+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-30T04:24:21.822234+00:00"
+      "checked_at": "2026-09-30T04:41:03.972433+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-30T04:24:21.822234+00:00"
+      "checked_at": "2026-09-30T04:41:03.972433+00:00"
     }
   },
   "items": [
+    {
+      "id": "866c53cfa112c267b68e",
+      "source": "TGcom24",
+      "title": "Missili balistici e droni russi su Kiev: bambino ucciso sotto le macerie",
+      "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-kiev-attacco-droni-morto-bambino_117134444-202602k.shtml",
+      "published": "2026-09-30T04:39:00+00:00"
+    },
+    {
+      "id": "637914ed9c9c88359cd1",
+      "source": "BBC News",
+      "title": "Restaurant named after Xi Jinping attacked by Chinese nationals in South Korea",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgvm275ev8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-30T04:21:11+00:00"
+    },
     {
       "id": "182e40a7b6531aa947d5",
       "source": "BBC News",
@@ -101,13 +115,6 @@
       "title": "Uccise un benzinaio ad Ardea per 500 euro, condannato a 25 anni Marco Adamo",
       "url": "https://www.tgcom24.mediaset.it/cronaca/ardea-omicidio-benzinaio-condanna-marco-adamo_117131881-202602k.shtml",
       "published": "2026-09-29T21:51:00+00:00"
-    },
-    {
-      "id": "01d974e8ca1f830a3767",
-      "source": "BBC News",
-      "title": "Trump rules out joint US-China venture to develop AI",
-      "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T21:45:01+00:00"
     },
     {
       "id": "83362ae8634efe960772",
@@ -374,13 +381,6 @@
       "title": "Trento, materiale suprematista e manuali per creare bombe: arrestato 17enne",
       "url": "https://www.tgcom24.mediaset.it/cronaca/trento-arrestato-minorenne-materiale-suprematista-bombe_117109171-202602k.shtml",
       "published": "2026-09-29T09:09:00+00:00"
-    },
-    {
-      "id": "4756dd100b18e2f1dfc5",
-      "source": "TGcom24",
-      "title": "Q8 accoglie l'invito del governo: price cap al prezzo dei carburanti per 30 giorni",
-      "url": "https://www.tgcom24.mediaset.it/economia/carburanti-q8-applica-price-cap-eni-ip_117105812-202602k.shtml",
-      "published": "2026-09-29T08:22:00+00:00"
     },
     {
       "id": "06dd26b25ea4931aa6a6",
