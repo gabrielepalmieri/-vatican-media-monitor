@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-30T03:23:38.666010+00:00",
+  "updated_at": "2026-09-30T03:41:30.863557+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-09-30T03:23:38.666010+00:00"
+      "checked_at": "2026-09-30T03:41:30.863557+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-30T03:23:38.666010+00:00"
+      "checked_at": "2026-09-30T03:41:30.863557+00:00"
     }
   },
   "items": [
@@ -16,7 +16,14 @@
       "source": "BBC News",
       "title": "Three takeaways from Trump's 'Super Intelligence' summit",
       "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T02:41:34+00:00"
+      "published": "2026-09-30T03:23:17+00:00"
+    },
+    {
+      "id": "85172cf75b0249bd217f",
+      "source": "BBC News",
+      "title": "Watch: Moment a government building collapses into a river in Nepal amid floods",
+      "url": "https://www.bbc.co.uk/news/videos/cv70d2nd6r0yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-30T03:21:28+00:00"
     },
     {
       "id": "c2134476f7036c828e43",
@@ -409,13 +416,6 @@
       "title": "People escape historic Kyiv building hit by Russian drone",
       "url": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-28T17:04:14+00:00"
-    },
-    {
-      "id": "d70a9d4e32f18d0a0dce",
-      "source": "BBC News",
-      "title": "Women protest in the streets of Delhi after string of sexual assaults",
-      "url": "https://www.bbc.co.uk/news/videos/cm70lpg5z45go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-28T16:15:57+00:00"
     }
   ]
 }
