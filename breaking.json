@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-30T21:53:20.211289+00:00",
+  "updated_at": "2026-09-30T22:07:04.482668+00:00",
   "sources": {
     "TGcom24": {
-      "ok": true,
-      "checked_at": "2026-09-30T21:53:20.211289+00:00"
+      "ok": false,
+      "checked_at": "2026-09-30T22:07:04.482668+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-30T21:53:20.211289+00:00"
+      "checked_at": "2026-09-30T22:07:04.482668+00:00"
     }
   },
   "items": [
+    {
+      "id": "85341c0f042253a08242",
+      "source": "BBC News",
+      "title": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
+      "url": "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-30T22:01:16+00:00"
+    },
     {
       "id": "0748c7a16a0018aa340c",
       "source": "BBC News",
@@ -325,13 +332,6 @@
       "title": "'Backpack' declared Alaska's Fat Bear Week winner",
       "url": "https://www.bbc.co.uk/news/articles/ck8d3vl9mj13o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-30T05:01:04+00:00"
-    },
-    {
-      "id": "637914ed9c9c88359cd1",
-      "source": "BBC News",
-      "title": "Restaurant named after Xi Jinping attacked by Chinese nationals in South Korea",
-      "url": "https://www.bbc.co.uk/news/articles/c9kgvm275ev8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T04:21:11+00:00"
     },
     {
       "id": "182e40a7b6531aa947d5",
