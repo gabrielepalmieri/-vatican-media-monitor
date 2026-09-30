@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-30T12:13:34.678586+00:00",
+  "updated_at": "2026-09-30T12:42:15.068203+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-30T12:13:34.678586+00:00"
+      "checked_at": "2026-09-30T12:42:15.068203+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-30T12:13:34.678586+00:00"
+      "checked_at": "2026-09-30T12:42:15.068203+00:00"
     }
   },
   "items": [
+    {
+      "id": "e4049c62e8b66728aa58",
+      "source": "TGcom24",
+      "title": "Ferrara, 14enne ferisce un coetaneo con un coltello a scuola: non è grave",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/ferrara-scuola-accoltellato-minore_117146049-202602k.shtml",
+      "published": "2026-09-30T12:24:00+00:00"
+    },
     {
       "id": "966297364b91de9cd127",
       "source": "BBC News",
@@ -346,13 +353,6 @@
       "title": "Close-up look at Turner's '£50m' Rome painting on show in the city",
       "url": "https://www.bbc.co.uk/news/videos/crkgwvqjk0g7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-29T14:10:38+00:00"
-    },
-    {
-      "id": "2731ddba32f9c4e4e16d",
-      "source": "TGcom24",
-      "title": "Russia, aereo militare precipita durante l'addestramento: 6 morti",
-      "url": "https://www.tgcom24.mediaset.it/mondo/russia-precipita-aereo-militare-tu-95-6-morti_117118469-202602k.shtml",
-      "published": "2026-09-29T14:04:00+00:00"
     },
     {
       "id": "38a0f07749c8f51a4f6e",
