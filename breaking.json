@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-30T20:39:39.295126+00:00",
+  "updated_at": "2026-09-30T20:49:38.435809+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-30T20:39:39.295126+00:00"
+      "checked_at": "2026-09-30T20:49:38.435809+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-30T20:39:39.295126+00:00"
+      "checked_at": "2026-09-30T20:49:38.435809+00:00"
     }
   },
   "items": [
+    {
+      "id": "7d9741910692ec411a21",
+      "source": "BBC News",
+      "title": "What we know about stabbing on Flydubai flight to Israel",
+      "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-30T20:44:12+00:00"
+    },
     {
       "id": "f90b2cc7d7ec3aacf300",
       "source": "TGcom24",
@@ -45,13 +52,6 @@
       "title": "Viminale: \"Prorogato di 15 giorni stop a Schengen con la Spagna, criticità permangono\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/viminale-prorogato-stop-schengen-spagna_117155732-202602k.shtml",
       "published": "2026-09-30T18:14:00+00:00"
-    },
-    {
-      "id": "7d9741910692ec411a21",
-      "source": "BBC News",
-      "title": "What we know about stabbing on Flydubai flight to Israel",
-      "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T17:51:49+00:00"
     },
     {
       "id": "9e700f0b4d73418e40b9",
