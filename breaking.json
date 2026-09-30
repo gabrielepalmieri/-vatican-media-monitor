@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-30T17:25:05.071363+00:00",
+  "updated_at": "2026-09-30T17:39:40.956505+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-30T17:25:05.071363+00:00"
+      "checked_at": "2026-09-30T17:39:40.956505+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-30T17:25:05.071363+00:00"
+      "checked_at": "2026-09-30T17:39:40.956505+00:00"
     }
   },
   "items": [
@@ -26,11 +26,25 @@
       "published": "2026-09-30T17:13:00+00:00"
     },
     {
+      "id": "7eb07158d64d73376986",
+      "source": "BBC News",
+      "title": "UK-France 'one in, one out' migrant scheme scrapped",
+      "url": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-30T17:11:08+00:00"
+    },
+    {
       "id": "eb63c0edf944600f8554",
       "source": "TGcom24",
       "title": "Cuneo, detenuto a fine pena protesta contro la scarcerazione: \"Urla e lancia oggetti\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/cuneo-carcere-detenuto-fine-pena-protesta-scarcerazione_117150744-202602k.shtml",
       "published": "2026-09-30T16:30:00+00:00"
+    },
+    {
+      "id": "7d9741910692ec411a21",
+      "source": "BBC News",
+      "title": "What we know about stabbing on Flydubai flight to Israel",
+      "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-30T16:24:18+00:00"
     },
     {
       "id": "cd63e9747581fa73adab",
@@ -52,6 +66,13 @@
       "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
       "url": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-30T15:29:11+00:00"
+    },
+    {
+      "id": "deb24de00bb742d645be",
+      "source": "BBC News",
+      "title": "Passengers describe stabbing on Israel-bound plane",
+      "url": "https://www.bbc.co.uk/news/videos/cv70d22kd34do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-30T15:07:00+00:00"
     },
     {
       "id": "0e8b68e4539af39fab43",
