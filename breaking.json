@@ -1,22 +1,29 @@
 {
-  "updated_at": "2026-09-30T08:59:46.257010+00:00",
+  "updated_at": "2026-09-30T09:11:15.395187+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-30T08:59:46.257010+00:00"
+      "checked_at": "2026-09-30T09:11:15.395187+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-30T08:59:46.257010+00:00"
+      "checked_at": "2026-09-30T09:11:15.395187+00:00"
     }
   },
   "items": [
+    {
+      "id": "df4c1847085da85bb770",
+      "source": "TGcom24",
+      "title": "Emergenza volo FlyDubai, media: \"Pilota ha tentato di far schiantare l'aereo\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/emergenza-volo-dubaitel-aviv-jet-israeliani_117137408-202602k.shtml",
+      "published": "2026-09-30T09:07:00+00:00"
+    },
     {
       "id": "7d9741910692ec411a21",
       "source": "BBC News",
       "title": "Israel-bound flight diverted after fight between pilots",
       "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T08:54:17+00:00"
+      "published": "2026-09-30T09:02:59+00:00"
     },
     {
       "id": "27c82c5350a425eb045f",
@@ -346,13 +353,6 @@
       "title": "Bolzano, bambina di 5 anni investita da un furgone: muore in ospedale",
       "url": "https://www.tgcom24.mediaset.it/cronaca/bolzano-bimba-investita-morta_117113179-202602k.shtml",
       "published": "2026-09-29T11:43:00+00:00"
-    },
-    {
-      "id": "1a22870c4e0560b0a576",
-      "source": "TGcom24",
-      "title": "Regno Unito, presunto attacco alla base Raf: sui furgoni non c'erano esplosivi",
-      "url": "https://www.tgcom24.mediaset.it/mondo/regno-unito-attacco-base-furgoni-senza-esplosivo_117112115-202602k.shtml",
-      "published": "2026-09-29T11:16:00+00:00"
     },
     {
       "id": "06dd26b25ea4931aa6a6",
