@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-09-30T05:01:03.930543+00:00",
+  "updated_at": "2026-09-30T05:14:05.030639+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-30T05:01:03.930543+00:00"
+      "checked_at": "2026-09-30T05:14:05.030639+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-30T05:01:03.930543+00:00"
+      "checked_at": "2026-09-30T05:14:05.030639+00:00"
     }
   },
   "items": [
+    {
+      "id": "43ceb738b9e654c4824b",
+      "source": "BBC News",
+      "title": "Girl has multiple surgeries to control infections after strike in Gaza",
+      "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-30T05:02:50+00:00"
+    },
+    {
+      "id": "de09c4f97f853a17e824",
+      "source": "TGcom24",
+      "title": "Difesa Usa, a Boeing oltre 20 miliardi per il nuovo caccia della Marina",
+      "url": "https://www.tgcom24.mediaset.it/mondo/pentagono-boeing-contratto-nuovo-caccia-usa_117134649-202602k.shtml",
+      "published": "2026-09-30T05:02:00+00:00"
+    },
     {
       "id": "866c53cfa112c267b68e",
       "source": "TGcom24",
@@ -320,13 +334,6 @@
       "published": "2026-09-29T12:39:18+00:00"
     },
     {
-      "id": "4824b85b8731d565630d",
-      "source": "BBC News",
-      "title": "French hard-right leader accuses opponents of 'total war' after claims of antisemitism",
-      "url": "https://www.bbc.co.uk/news/articles/cmn45k85gj34o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T12:20:02+00:00"
-    },
-    {
       "id": "48b89d8262e5ba1139f0",
       "source": "TGcom24",
       "title": "Regeni, i difensori degli 007 egiziani pronti a fare ricorso in Appello",
@@ -376,13 +383,6 @@
       "published": "2026-09-29T09:45:00+00:00"
     },
     {
-      "id": "4866b7938286bcef733d",
-      "source": "TGcom24",
-      "title": "Trento, materiale suprematista e manuali per creare bombe: arrestato 17enne",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/trento-arrestato-minorenne-materiale-suprematista-bombe_117109171-202602k.shtml",
-      "published": "2026-09-29T09:09:00+00:00"
-    },
-    {
       "id": "06dd26b25ea4931aa6a6",
       "source": "BBC News",
       "title": "How an alleged rape sent an Indian university into turmoil and emptied hostels",
@@ -409,13 +409,6 @@
       "title": "The Frenemy: How Australia navigates superpower rivalry",
       "url": "https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-28T18:37:15+00:00"
-    },
-    {
-      "id": "6f51b683fcf535c8b75b",
-      "source": "BBC News",
-      "title": "People escape historic Kyiv building hit by Russian drone",
-      "url": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-28T17:04:14+00:00"
     }
   ]
 }
