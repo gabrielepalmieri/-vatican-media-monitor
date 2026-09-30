@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-09-30T11:21:45.158847+00:00",
+  "updated_at": "2026-09-30T11:33:23.072873+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-30T11:21:45.158847+00:00"
+      "checked_at": "2026-09-30T11:33:23.072873+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-30T11:21:45.158847+00:00"
+      "checked_at": "2026-09-30T11:33:23.072873+00:00"
     }
   },
   "items": [
     {
+      "id": "efdc2f32a4d298bd0114",
+      "source": "BBC News",
+      "title": "Africa's richest man launches Kenya oil refinery despite land protests",
+      "url": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-30T11:25:12+00:00"
+    },
+    {
       "id": "a20ff8373629fc856a1b",
       "source": "BBC News",
-      "title": "Watch: Couple describes relief at rescue after whale destroys their yacht",
+      "title": "Couple describes relief at rescue after whale destroys their yacht",
       "url": "https://www.bbc.co.uk/news/videos/c6n4ken4n7n7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-30T11:01:58+00:00"
+    },
+    {
+      "id": "6aeb4d3b3656645a85d5",
+      "source": "BBC News",
+      "title": "Luxury prison in Indonesia demolished after public outcry",
+      "url": "https://www.bbc.co.uk/news/videos/cmwyz8j9j85wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-30T10:41:03+00:00"
     },
     {
       "id": "b4113a53cf490663bb1d",
@@ -31,13 +45,6 @@
       "title": "Incidente sul lavoro nel Milanese, operaio muore dopo essere precipitato da un solaio",
       "url": "https://www.tgcom24.mediaset.it/cronaca/ancona-incidente-fincantieri-operaio-morto_117141543-202602k.shtml",
       "published": "2026-09-30T10:10:00+00:00"
-    },
-    {
-      "id": "efdc2f32a4d298bd0114",
-      "source": "BBC News",
-      "title": "Africa's richest man to launch Kenya oil refinery despite land protests",
-      "url": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T09:49:53+00:00"
     },
     {
       "id": "79d7ec27912286ab3b7c",
@@ -241,13 +248,6 @@
       "title": "Stati Uniti, ok della Corte Suprema a Trump a riprendere le espulsioni verso Paesi terzi",
       "url": "https://www.tgcom24.mediaset.it/mondo/stati-uniti-corte-suprema-trump-riprendere-espulsioni-paesi-terzi_117129859-202602k.shtml",
       "published": "2026-09-29T19:45:00+00:00"
-    },
-    {
-      "id": "128c104768cbd84c3782",
-      "source": "BBC News",
-      "title": "The journalist who became king in Uganda",
-      "url": "https://www.bbc.co.uk/news/videos/cry4z9jw3wvlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T19:35:19+00:00"
     },
     {
       "id": "63b77409c37155983bef",
