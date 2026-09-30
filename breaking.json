@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-30T14:01:58.855397+00:00",
+  "updated_at": "2026-09-30T14:18:37.532125+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-30T14:01:58.855397+00:00"
+      "checked_at": "2026-09-30T14:18:37.532125+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-30T14:01:58.855397+00:00"
+      "checked_at": "2026-09-30T14:18:37.532125+00:00"
     }
   },
   "items": [
+    {
+      "id": "60bef5c7044e46d5a39c",
+      "source": "TGcom24",
+      "title": "Emergenza volo FlyDubai, Katz: \"Tentativo di attacco jihadista\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/emergenza-volo-dubaitel-aviv-jet-israeliani_117137408-202602k.shtml",
+      "published": "2026-09-30T14:12:00+00:00"
+    },
     {
       "id": "e736f533c807626b5249",
       "source": "TGcom24",
@@ -49,7 +56,7 @@
     {
       "id": "966297364b91de9cd127",
       "source": "BBC News",
-      "title": "Botswana condemned for slaughtering elephants for independence celebrations",
+      "title": "Botswana condemned for slaughtering 23 elephants for independence celebrations",
       "url": "https://www.bbc.co.uk/news/articles/cxm2qmpy57ggo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-30T12:06:28+00:00"
     },
@@ -339,13 +346,6 @@
       "title": "Tensione Russia-Nato, Mosca: \"Difenderemo Kaliningrad con l'intero arsenale\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/russia-precipita-aereo-militare-tu-95-6-morti_117118469-202602k.shtml",
       "published": "2026-09-29T16:07:00+00:00"
-    },
-    {
-      "id": "0dbb3b2104c3d585b056",
-      "source": "TGcom24",
-      "title": "Crisi energia, spread Btp-Bund oltre quota 100 su Borsa Italiana",
-      "url": "https://www.tgcom24.mediaset.it/economia/crisi-energia-spread-btp-bund-oltre-quota-100-su-borsa-italiana-_117120419-202602k.shtml",
-      "published": "2026-09-29T15:30:00+00:00"
     },
     {
       "id": "986b5804720205417863",
