@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-30T18:10:45.057982+00:00",
+  "updated_at": "2026-09-30T18:27:30.979258+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-30T18:10:45.057982+00:00"
+      "checked_at": "2026-09-30T18:27:30.979258+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-30T18:10:45.057982+00:00"
+      "checked_at": "2026-09-30T18:27:30.979258+00:00"
     }
   },
   "items": [
+    {
+      "id": "4610130040ebf4610b61",
+      "source": "TGcom24",
+      "title": "Viminale: \"Prorogato di 15 giorni stop a Schengen con la Spagna, criticità permangono\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/viminale-prorogato-stop-schengen-spagna_117155732-202602k.shtml",
+      "published": "2026-09-30T18:14:00+00:00"
+    },
     {
       "id": "7d9741910692ec411a21",
       "source": "BBC News",
@@ -360,13 +367,6 @@
       "title": "Big tech, Trump: \"Pronto a creare un comitato per vigilare sull'Ia\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/donald-trump-ia-comitato-big-tech_117130256-202602k.shtml",
       "published": "2026-09-29T20:28:00+00:00"
-    },
-    {
-      "id": "d36218ce2043f7ed6a05",
-      "source": "TGcom24",
-      "title": "Stati Uniti, ok della Corte Suprema a Trump a riprendere le espulsioni verso Paesi terzi",
-      "url": "https://www.tgcom24.mediaset.it/mondo/stati-uniti-corte-suprema-trump-riprendere-espulsioni-paesi-terzi_117129859-202602k.shtml",
-      "published": "2026-09-29T19:45:00+00:00"
     },
     {
       "id": "986b5804720205417863",
