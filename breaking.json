@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-30T20:11:33.351350+00:00",
+  "updated_at": "2026-09-30T20:25:42.720520+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-30T20:11:33.351350+00:00"
+      "checked_at": "2026-09-30T20:25:42.720520+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-30T20:11:33.351350+00:00"
+      "checked_at": "2026-09-30T20:25:42.720520+00:00"
     }
   },
   "items": [
+    {
+      "id": "f90b2cc7d7ec3aacf300",
+      "source": "TGcom24",
+      "title": "Volo Dubai-Tel Aviv, il ritratto del copilota accoltellatore: \"Prega tutto il giorno, è un estremista\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/volo-flydubai-copilota-accoltellatore-ritratto_117157368-202602k.shtml",
+      "published": "2026-09-30T20:22:00+00:00"
+    },
     {
       "id": "49e0e72d79771ae331d8",
       "source": "TGcom24",
@@ -327,13 +334,6 @@
       "published": "2026-09-30T04:01:52+00:00"
     },
     {
-      "id": "609f5209ac194eef2853",
-      "source": "TGcom24",
-      "title": "Pentagono, media: \"Hegseth verso il taglio del 20% di generali e ammiragli\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/usa-pete-hegseth-taglio-generali-ammiragli-pentagono_117133851-202602k.shtml",
-      "published": "2026-09-30T04:01:00+00:00"
-    },
-    {
       "id": "85172cf75b0249bd217f",
       "source": "BBC News",
       "title": "Watch: Moment a government building collapses into a river in Nepal amid floods",
@@ -381,13 +381,6 @@
       "title": "'I was lured into a trap': Evan Gershkovich on moment that led to 16 months in Russian jail",
       "url": "https://www.bbc.co.uk/news/articles/ck9qr8jy8ynyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-29T12:43:04+00:00"
-    },
-    {
-      "id": "06dd26b25ea4931aa6a6",
-      "source": "BBC News",
-      "title": "How an alleged rape sent an Indian university into turmoil and emptied hostels",
-      "url": "https://www.bbc.co.uk/news/articles/c6kg8dxrv54do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T08:12:39+00:00"
     }
   ]
 }
