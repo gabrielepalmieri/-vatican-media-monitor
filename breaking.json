@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-30T10:40:58.115549+00:00",
+  "updated_at": "2026-09-30T10:53:32.010694+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-30T10:40:58.115549+00:00"
+      "checked_at": "2026-09-30T10:53:32.010694+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-30T10:40:58.115549+00:00"
+      "checked_at": "2026-09-30T10:53:32.010694+00:00"
     }
   },
   "items": [
+    {
+      "id": "b4113a53cf490663bb1d",
+      "source": "TGcom24",
+      "title": "Inflazione, Istat: \"A settembre ai massimi da tre anni\"",
+      "url": "https://www.tgcom24.mediaset.it/economia/istat-a-settembre-inflazione-piu-alta-da-tre-anni_117143430-202602k.shtml",
+      "published": "2026-09-30T10:40:00+00:00"
+    },
     {
       "id": "dbbb1472b81d30058562",
       "source": "TGcom24",
@@ -332,13 +339,6 @@
       "title": "Usa, il Dna non combacia: condannato a morte rilasciato dopo 30 anni di carcere",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-dna-condannato-morte-rilasciato_117116534-202602k.shtml",
       "published": "2026-09-29T13:32:00+00:00"
-    },
-    {
-      "id": "0ddce873e8a064eabeda",
-      "source": "TGcom24",
-      "title": "Ue: \"Sarà inverno impegnativo, i prezzi dell'energia saranno molto alti\"",
-      "url": "https://www.tgcom24.mediaset.it/economia/unione-europea-inverno-energia-prezzi-alti_117116529-202602k.shtml",
-      "published": "2026-09-29T12:57:00+00:00"
     },
     {
       "id": "38a0f07749c8f51a4f6e",
