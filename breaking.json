@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-30T05:45:04.124609+00:00",
+  "updated_at": "2026-09-30T05:57:07.911641+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-30T05:45:04.124609+00:00"
+      "checked_at": "2026-09-30T05:57:07.911641+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-30T05:45:04.124609+00:00"
+      "checked_at": "2026-09-30T05:57:07.911641+00:00"
     }
   },
   "items": [
+    {
+      "id": "e28a0f73338b477a12a0",
+      "source": "TGcom24",
+      "title": "Usa, Trump valuta lo stop all'export di diesel per frenare i prezzi",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-donald-trump-valuta-stop-export-diesel_117135873-202602k.shtml",
+      "published": "2026-09-30T05:43:00+00:00"
+    },
     {
       "id": "36ca5f9e7df3aeb922f8",
       "source": "BBC News",
@@ -374,13 +381,6 @@
       "title": "Pisa, botte e violenze contro la moglie incinta: arrestato 37enne",
       "url": "https://www.tgcom24.mediaset.it/cronaca/pisa-picchia-moglie-incinta-arrestato-37enne_117107727-202602k.shtml",
       "published": "2026-09-29T10:15:00+00:00"
-    },
-    {
-      "id": "d05b4d0dfaf409491b8a",
-      "source": "TGcom24",
-      "title": "Ceuta, la polizia spagnola sgombera il campo migranti",
-      "url": "https://www.tgcom24.mediaset.it/mondo/foto/ceuta-la-polizia-sgombera-all-alba-centinaia-di-migranti-da-playa-benitez_117106680-202602k.shtml",
-      "published": "2026-09-29T09:45:00+00:00"
     },
     {
       "id": "06dd26b25ea4931aa6a6",
