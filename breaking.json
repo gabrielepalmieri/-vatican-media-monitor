@@ -1,29 +1,36 @@
 {
-  "updated_at": "2026-09-30T23:42:08.898924+00:00",
+  "updated_at": "2026-09-30T23:50:46.221883+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-30T23:42:08.898924+00:00"
+      "checked_at": "2026-09-30T23:50:46.221883+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-30T23:42:08.898924+00:00"
+      "checked_at": "2026-09-30T23:50:46.221883+00:00"
     }
   },
   "items": [
+    {
+      "id": "1b8b2f7896dbb30d7c73",
+      "source": "BBC News",
+      "title": "US Supreme Court allows execution of Christa Pike to go ahead",
+      "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-30T23:42:10+00:00"
+    },
+    {
+      "id": "8d7f6bf575f3c145bd0c",
+      "source": "BBC News",
+      "title": "The children dying in India's remote tribal heartland",
+      "url": "https://www.bbc.co.uk/news/articles/cmn9wr84v1qno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-30T23:41:34+00:00"
+    },
     {
       "id": "468d4c7bba3bfd764d8b",
       "source": "BBC News",
       "title": "China has cracked down on AI relationships. Is it ahead of the game?",
       "url": "https://www.bbc.co.uk/news/articles/cm4gjy9lr551o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-30T23:25:23+00:00"
-    },
-    {
-      "id": "1b8b2f7896dbb30d7c73",
-      "source": "BBC News",
-      "title": "US Supreme Court allows execution of Christa Pike to go ahead",
-      "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T23:23:23+00:00"
     },
     {
       "id": "87abd450f51360c0d145",
