@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-09-30T17:10:25.490416+00:00",
+  "updated_at": "2026-09-30T17:25:05.071363+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-30T17:10:25.490416+00:00"
+      "checked_at": "2026-09-30T17:25:05.071363+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-30T17:10:25.490416+00:00"
+      "checked_at": "2026-09-30T17:25:05.071363+00:00"
     }
   },
   "items": [
+    {
+      "id": "95ff8a15cd6067696f66",
+      "source": "BBC News",
+      "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-30T17:14:03+00:00"
+    },
+    {
+      "id": "fed4f2186db1b3b483e3",
+      "source": "TGcom24",
+      "title": "Volo FlyDubai, l'ambasciatore israeliano in Italia: \"Rischiato un altro 11 settembre\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/emergenza-volo-dubaitel-aviv-jet-israeliani_117137408-202602k.shtml",
+      "published": "2026-09-30T17:13:00+00:00"
+    },
     {
       "id": "eb63c0edf944600f8554",
       "source": "TGcom24",
@@ -332,13 +346,6 @@
       "title": "Caso Regeni, Meloni: \"Vicini alla famiglia, chiudere al Cairo rischia di allontanarci da obiettivo\"",
       "url": "https://www.tgcom24.mediaset.it/politica/giiulio-regeni-007-egiziani-giorgia-meloni-egitto_117129451-202602k.shtml",
       "published": "2026-09-29T19:02:00+00:00"
-    },
-    {
-      "id": "e853e936cf4e73d5f493",
-      "source": "TGcom24",
-      "title": "Ancona, morta in ospedale la bimba di 3 anni soffocata con un acino d'uva",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/ancona-bambina-morta-soffocamento-acino-uva_117128902-202602k.shtml",
-      "published": "2026-09-29T18:31:00+00:00"
     },
     {
       "id": "986b5804720205417863",
