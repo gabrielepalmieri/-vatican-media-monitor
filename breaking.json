@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-09-30T10:24:52.091208+00:00",
+  "updated_at": "2026-09-30T10:40:58.115549+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-30T10:24:52.091208+00:00"
+      "checked_at": "2026-09-30T10:40:58.115549+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-30T10:24:52.091208+00:00"
+      "checked_at": "2026-09-30T10:40:58.115549+00:00"
     }
   },
   "items": [
+    {
+      "id": "dbbb1472b81d30058562",
+      "source": "TGcom24",
+      "title": "Incidente sul lavoro nel Milanese, operaio muore dopo essere precipitato da un solaio",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/ancona-incidente-fincantieri-operaio-morto_117141543-202602k.shtml",
+      "published": "2026-09-30T10:10:00+00:00"
+    },
     {
       "id": "efdc2f32a4d298bd0114",
       "source": "BBC News",
       "title": "Africa's richest man to launch Kenya oil refinery despite land protests",
       "url": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-30T09:49:53+00:00"
+    },
+    {
+      "id": "79d7ec27912286ab3b7c",
+      "source": "BBC News",
+      "title": "Singapore launches matchmaking service for government workers",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-30T09:42:36+00:00"
     },
     {
       "id": "0acb39c06694164dabe4",
@@ -339,13 +353,6 @@
       "title": "Israeli settlers attack West Bank village and block Palestinian family's return home",
       "url": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-29T12:39:18+00:00"
-    },
-    {
-      "id": "48b89d8262e5ba1139f0",
-      "source": "TGcom24",
-      "title": "Regeni, i difensori degli 007 egiziani pronti a fare ricorso in Appello",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/regeni-i-difensori-degli-007-egiziani-pronti-a-fare-ricorso-in-appello_117115444-202602k.shtml",
-      "published": "2026-09-29T12:13:00+00:00"
     },
     {
       "id": "06dd26b25ea4931aa6a6",
