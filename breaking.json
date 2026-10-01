@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-01T22:44:41.956632+00:00",
+  "updated_at": "2026-10-01T22:56:25.476492+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-01T22:44:41.956632+00:00"
+      "checked_at": "2026-10-01T22:56:25.476492+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-01T22:44:41.956632+00:00"
+      "checked_at": "2026-10-01T22:56:25.476492+00:00"
     }
   },
   "items": [
+    {
+      "id": "6724cc44f046087f0aa0",
+      "source": "BBC News",
+      "title": "What happened in the failed execution of Christa Pike - and what next?",
+      "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-01T22:52:19+00:00"
+    },
     {
       "id": "ee6ce5d0814973f2af81",
       "source": "BBC News",
@@ -73,13 +80,6 @@
       "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
       "url": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T19:38:30+00:00"
-    },
-    {
-      "id": "6724cc44f046087f0aa0",
-      "source": "BBC News",
-      "title": "What happened in the failed execution of Christa Pike - and what next?",
-      "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T19:25:58+00:00"
     },
     {
       "id": "8401781ca6f3aa0e8724",
