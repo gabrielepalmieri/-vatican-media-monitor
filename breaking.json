@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-01T08:01:15.933840+00:00",
+  "updated_at": "2026-10-01T08:16:15.895873+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-01T08:01:15.933840+00:00"
+      "checked_at": "2026-10-01T08:16:15.895873+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-01T08:01:15.933840+00:00"
+      "checked_at": "2026-10-01T08:16:15.895873+00:00"
     }
   },
   "items": [
+    {
+      "id": "144e4c451828a9878891",
+      "source": "TGcom24",
+      "title": "Sanità, aggiornati i Livelli essenziali di assistenza: 800 fra nuovi servizi e cure",
+      "url": "https://www.tgcom24.mediaset.it/salute/sanita-nuovi-lea-livelli-essenziali-assistenza_117167183-202602k.shtml",
+      "published": "2026-10-01T07:59:00+00:00"
+    },
     {
       "id": "b08949a88b8a7a4c5c32",
       "source": "BBC News",
@@ -304,13 +311,6 @@
       "title": "Avellino, malore al nono mese di gravidanza: morti mamma e bimbo",
       "url": "https://www.tgcom24.mediaset.it/cronaca/avellino-malore-donna-muore-nono-mese-gravidanza_117146390-202602k.shtml",
       "published": "2026-09-30T13:46:00+00:00"
-    },
-    {
-      "id": "6290097b4f952014a6e1",
-      "source": "TGcom24",
-      "title": "Napoli, nascosto nel vano dell'armadio: arrestato uno dei capi del clan Mazzarella",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/napoli-nascosto-nel-vano-dell-armadio-arrestato-uno-dei-capi-del-clan-mazzarella_117148629-02k.shtml",
-      "published": "2026-09-30T13:05:00+00:00"
     },
     {
       "id": "966297364b91de9cd127",
