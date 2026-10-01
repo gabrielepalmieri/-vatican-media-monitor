@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-01T11:40:34.757444+00:00",
+  "updated_at": "2026-10-01T11:53:13.180820+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-01T11:40:34.757444+00:00"
+      "checked_at": "2026-10-01T11:53:13.180820+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-01T11:40:34.757444+00:00"
+      "checked_at": "2026-10-01T11:53:13.180820+00:00"
     }
   },
   "items": [
+    {
+      "id": "008e16e0593fb6739a75",
+      "source": "BBC News",
+      "title": "Cornell case highlights 'draining' maze for victims to report campus sex assaults",
+      "url": "https://www.bbc.co.uk/news/articles/crpd0wdnlgxno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-01T11:40:35+00:00"
+    },
     {
       "id": "5de79bef30fbc972bcac",
       "source": "TGcom24",
@@ -192,13 +199,6 @@
       "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
       "url": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T00:08:23+00:00"
-    },
-    {
-      "id": "008e16e0593fb6739a75",
-      "source": "BBC News",
-      "title": "Cornell case spotlights 'confusing' web of systems for reporting campus assaults",
-      "url": "https://www.bbc.co.uk/news/articles/crpd0wdnlgxno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T23:53:54+00:00"
     },
     {
       "id": "8d7f6bf575f3c145bd0c",
