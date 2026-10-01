@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-10-01T05:23:14.339637+00:00",
+  "updated_at": "2026-10-01T05:40:37.391617+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-01T05:23:14.339637+00:00"
+      "checked_at": "2026-10-01T05:40:37.391617+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-01T05:23:14.339637+00:00"
+      "checked_at": "2026-10-01T05:40:37.391617+00:00"
     }
   },
   "items": [
+    {
+      "id": "1b8b2f7896dbb30d7c73",
+      "source": "BBC News",
+      "title": "US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer",
+      "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-01T05:34:41+00:00"
+    },
     {
       "id": "5e51b71beb0f17dbf76d",
       "source": "TGcom24",
       "title": "Iran, Trump: \"È il momento di un accordo o di farli saltare in aria\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/trump-iran-incidente-base-raf_117160114-202602k.shtml",
       "published": "2026-10-01T05:03:00+00:00"
-    },
-    {
-      "id": "1b8b2f7896dbb30d7c73",
-      "source": "BBC News",
-      "title": "US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer",
-      "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T04:35:26+00:00"
     },
     {
       "id": "71740fb8bf9a58e346aa",
