@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-01T17:46:28.018542+00:00",
+  "updated_at": "2026-10-01T17:58:44.779258+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-01T17:46:28.018542+00:00"
+      "checked_at": "2026-10-01T17:58:44.779258+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-01T17:46:28.018542+00:00"
+      "checked_at": "2026-10-01T17:58:44.779258+00:00"
     }
   },
   "items": [
+    {
+      "id": "49676d8d47d0a0128381",
+      "source": "TGcom24",
+      "title": "Proteste studentesche in Francia, quasi duemila fermi in un giorno",
+      "url": "https://www.tgcom24.mediaset.it/mondo/proteste-studenti-francia-ultime-notizie_117172588-202602k.shtml",
+      "published": "2026-10-01T17:54:00+00:00"
+    },
     {
       "id": "adb946b423cf23db5028",
       "source": "BBC News",
@@ -290,13 +297,6 @@
       "title": "Iran, Trump: \"È il momento di un accordo o di farli saltare in aria\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/trump-iran-incidente-base-raf_117160114-202602k.shtml",
       "published": "2026-10-01T05:03:00+00:00"
-    },
-    {
-      "id": "71740fb8bf9a58e346aa",
-      "source": "TGcom24",
-      "title": "California, \"danni cerebrali a decine di persone\": chiude nota montagna russa",
-      "url": "https://www.tgcom24.mediaset.it/mondo/california-chiudono-montagne-russe-six-flags-magic-mountain_117161899-202602k.shtml",
-      "published": "2026-10-01T04:32:00+00:00"
     },
     {
       "id": "2d7794e6fee102792b37",
