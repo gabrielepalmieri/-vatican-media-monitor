@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-01T14:10:13.422008+00:00",
+  "updated_at": "2026-10-01T14:27:53.760723+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-01T14:10:13.422008+00:00"
+      "checked_at": "2026-10-01T14:27:53.760723+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-01T14:10:13.422008+00:00"
+      "checked_at": "2026-10-01T14:27:53.760723+00:00"
     }
   },
   "items": [
+    {
+      "id": "348bf78f8010eefc634d",
+      "source": "TGcom24",
+      "title": "Caro carburanti, price cap anche per Tamoil: fino al 31 ottobre",
+      "url": "https://www.tgcom24.mediaset.it/economia/tamoil-tetto-prezzi-carburanti-price-cap_117180396-202602k.shtml",
+      "published": "2026-10-01T14:11:00+00:00"
+    },
     {
       "id": "1a03b82cf692bb42f97e",
       "source": "BBC News",
@@ -346,13 +353,6 @@
       "title": "Volo Dubai-Tel Aviv, il ritratto del copilota accoltellatore: \"Prega tutto il giorno, è un estremista\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/volo-flydubai-copilota-accoltellatore-ritratto_117157368-202602k.shtml",
       "published": "2026-09-30T20:22:00+00:00"
-    },
-    {
-      "id": "49e0e72d79771ae331d8",
-      "source": "TGcom24",
-      "title": "Ferrara, 15enne ferito a scuola con un coltello: arrestato l'aggressore",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/ferrara-scuola-accoltellato-minore_117146049-202602k.shtml",
-      "published": "2026-09-30T19:53:00+00:00"
     },
     {
       "id": "95ff8a15cd6067696f66",
