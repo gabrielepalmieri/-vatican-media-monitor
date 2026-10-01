@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-01T04:55:04.833928+00:00",
+  "updated_at": "2026-10-01T05:07:57.683112+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-01T04:55:04.833928+00:00"
+      "checked_at": "2026-10-01T05:07:57.683112+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-01T04:55:04.833928+00:00"
+      "checked_at": "2026-10-01T05:07:57.683112+00:00"
     }
   },
   "items": [
+    {
+      "id": "5e51b71beb0f17dbf76d",
+      "source": "TGcom24",
+      "title": "Iran, Trump: \"È il momento di un accordo o di farli saltare in aria\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/trump-iran-incidente-base-raf_117160114-202602k.shtml",
+      "published": "2026-10-01T05:03:00+00:00"
+    },
     {
       "id": "1b8b2f7896dbb30d7c73",
       "source": "BBC News",
@@ -332,13 +339,6 @@
       "title": "Ancona, incidente sul lavoro: un operaio morto e un altro gravissimo",
       "url": "https://www.tgcom24.mediaset.it/cronaca/ancona-incidente-fincantieri-operaio-morto_117141543-202602k.shtml",
       "published": "2026-09-30T09:29:00+00:00"
-    },
-    {
-      "id": "df4c1847085da85bb770",
-      "source": "TGcom24",
-      "title": "Emergenza volo FlyDubai, media: \"Pilota ha tentato di far schiantare l'aereo\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/emergenza-volo-dubaitel-aviv-jet-israeliani_117137408-202602k.shtml",
-      "published": "2026-09-30T09:07:00+00:00"
     },
     {
       "id": "d6a22b150212d126138c",
