@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-01T07:25:48.209932+00:00",
+  "updated_at": "2026-10-01T07:41:33.558129+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-01T07:25:48.209932+00:00"
+      "checked_at": "2026-10-01T07:41:33.558129+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-01T07:25:48.209932+00:00"
+      "checked_at": "2026-10-01T07:41:33.558129+00:00"
     }
   },
   "items": [
+    {
+      "id": "e0e177c2bc9b46855291",
+      "source": "BBC News",
+      "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-01T07:27:25+00:00"
+    },
     {
       "id": "05c089be90f533cafc18",
       "source": "TGcom24",
@@ -38,13 +45,6 @@
       "title": "Rientrata la protesta dei detenuti nel carcere di Pisa: arresti e trasferimenti",
       "url": "https://www.tgcom24.mediaset.it/cronaca/rivolta-carcere-pisa-microspie-video_117158983-202602k.shtml",
       "published": "2026-10-01T06:47:00+00:00"
-    },
-    {
-      "id": "e0e177c2bc9b46855291",
-      "source": "BBC News",
-      "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
-      "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T06:42:43+00:00"
     },
     {
       "id": "f5d5d9f76ea430aeb279",
