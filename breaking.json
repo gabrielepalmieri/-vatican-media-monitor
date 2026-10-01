@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-10-01T16:23:47.426928+00:00",
+  "updated_at": "2026-10-01T16:40:22.301398+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-01T16:23:47.426928+00:00"
+      "checked_at": "2026-10-01T16:40:22.301398+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-01T16:23:47.426928+00:00"
+      "checked_at": "2026-10-01T16:40:22.301398+00:00"
     }
   },
   "items": [
+    {
+      "id": "8401781ca6f3aa0e8724",
+      "source": "BBC News",
+      "title": "Fires break out at French schools as students protest nationwide",
+      "url": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-01T16:34:22+00:00"
+    },
+    {
+      "id": "b1426e6a467f55885799",
+      "source": "BBC News",
+      "title": "Algeria introduces death penalty for arsonists after deadly wildfires",
+      "url": "https://www.bbc.co.uk/news/articles/cmge4exg44v5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-01T16:31:35+00:00"
+    },
+    {
+      "id": "97178e20f218390daf23",
+      "source": "TGcom24",
+      "title": "Giovane picchiato a Barcellona, fermati quattro presunti aggressori",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/giovane-aggredito-barcellona-fermati-4-aggressori_117186617-202602k.shtml",
+      "published": "2026-10-01T16:30:00+00:00"
+    },
     {
       "id": "a2b9ec99033bd6ed4b7d",
       "source": "TGcom24",
@@ -94,13 +115,6 @@
       "title": "Garlasco, il legale dei Poggi: la famiglia non sarà parte civile contro Sempio",
       "url": "https://www.tgcom24.mediaset.it/cronaca/delitto-garlasco-famiglia-poggi-andrea-sempio-no-parte-civile_117180957-202602k.shtml",
       "published": "2026-10-01T13:39:00+00:00"
-    },
-    {
-      "id": "b08949a88b8a7a4c5c32",
-      "source": "BBC News",
-      "title": "Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash",
-      "url": "https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T13:13:33+00:00"
     },
     {
       "id": "7af488bcfb3de5d562f4",
@@ -341,20 +355,6 @@
       "published": "2026-09-30T23:10:06+00:00"
     },
     {
-      "id": "cd5ff9d3f152f26f6a29",
-      "source": "TGcom24",
-      "title": "Vittorio Sgarbi ricoverato in terapia intensiva al policlinico Gemelli di Roma",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/vittorio-sgarbi-ricoverato-gemelli-roma-terapia-intensiva_117160116-202602k.shtml",
-      "published": "2026-09-30T22:31:00+00:00"
-    },
-    {
-      "id": "85341c0f042253a08242",
-      "source": "BBC News",
-      "title": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
-      "url": "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T22:01:16+00:00"
-    },
-    {
       "id": "0748c7a16a0018aa340c",
       "source": "BBC News",
       "title": "Flydubai passenger describes putting attacker in chokehold after cockpit stabbing",
@@ -362,39 +362,11 @@
       "published": "2026-09-30T21:38:54+00:00"
     },
     {
-      "id": "95ff8a15cd6067696f66",
-      "source": "BBC News",
-      "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
-      "url": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T17:14:03+00:00"
-    },
-    {
       "id": "deb24de00bb742d645be",
       "source": "BBC News",
       "title": "Passengers describe stabbing on Israel-bound plane",
       "url": "https://www.bbc.co.uk/news/videos/cv70d22kd34do?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-30T15:07:00+00:00"
-    },
-    {
-      "id": "c99b1bb1a4c13dfa7452",
-      "source": "BBC News",
-      "title": "Ethiopia fighting escalates in Tigray killing 52 civilians, medic tells the BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6grveejg1e2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T15:04:32+00:00"
-    },
-    {
-      "id": "2c440d83251778428256",
-      "source": "BBC News",
-      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
-      "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T14:53:02+00:00"
-    },
-    {
-      "id": "0910a556203dece304b9",
-      "source": "BBC News",
-      "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
-      "url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T11:36:23+00:00"
     },
     {
       "id": "a20ff8373629fc856a1b",
@@ -409,13 +381,6 @@
       "title": "Luxury prison in Indonesia demolished after public outcry",
       "url": "https://www.bbc.co.uk/news/videos/cmwyz8j9j85wo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-30T10:41:03+00:00"
-    },
-    {
-      "id": "43ceb738b9e654c4824b",
-      "source": "BBC News",
-      "title": "Girl has multiple surgeries to control infections after strike in Gaza",
-      "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T05:02:50+00:00"
     }
   ]
 }
