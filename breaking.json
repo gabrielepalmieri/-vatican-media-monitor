@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-01T20:59:19.994386+00:00",
+  "updated_at": "2026-10-01T21:09:34.973429+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-01T20:59:19.994386+00:00"
+      "checked_at": "2026-10-01T21:09:34.973429+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-01T20:59:19.994386+00:00"
+      "checked_at": "2026-10-01T21:09:34.973429+00:00"
     }
   },
   "items": [
+    {
+      "id": "5a8d09a34cb0e0038f06",
+      "source": "TGcom24",
+      "title": "IA, Donald Trump: governo Usa pronto ad acquistare quote Anthropic e OpenAI",
+      "url": "https://www.tgcom24.mediaset.it/mondo/donald-trump-ia-openai-anthropic-borsa-usa_117193532-202602k.shtml",
+      "published": "2026-10-01T21:03:00+00:00"
+    },
     {
       "id": "ee6ce5d0814973f2af81",
       "source": "BBC News",
@@ -290,13 +297,6 @@
       "title": "Africa's richest man launches Kenya oil refinery despite land protests",
       "url": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T07:04:27+00:00"
-    },
-    {
-      "id": "295628d803ef82a64afe",
-      "source": "TGcom24",
-      "title": "Rientrata la protesta dei detenuti nel carcere di Pisa: arresti e trasferimenti",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/rivolta-carcere-pisa-microspie-video_117158983-202602k.shtml",
-      "published": "2026-10-01T06:47:00+00:00"
     },
     {
       "id": "5278f542559e8ec552ac",
