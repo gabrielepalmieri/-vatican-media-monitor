@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-01T08:16:15.895873+00:00",
+  "updated_at": "2026-10-01T08:35:43.868447+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-01T08:16:15.895873+00:00"
+      "checked_at": "2026-10-01T08:35:43.868447+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-01T08:16:15.895873+00:00"
+      "checked_at": "2026-10-01T08:35:43.868447+00:00"
     }
   },
   "items": [
+    {
+      "id": "e0e177c2bc9b46855291",
+      "source": "BBC News",
+      "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-01T08:25:47+00:00"
+    },
+    {
+      "id": "a0d33633d511535dee36",
+      "source": "TGcom24",
+      "title": "L'ex campione del mondo di scacchi Garry Kasparov: \"Sono nel mirino del Cremlino, vita in pericolo\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/russia-dissidenti-pianificazione-attentati-usa-007-kasparov_117166760-202602k.shtml",
+      "published": "2026-10-01T08:25:00+00:00"
+    },
     {
       "id": "144e4c451828a9878891",
       "source": "TGcom24",
@@ -24,13 +38,6 @@
       "title": "Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash",
       "url": "https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T07:29:23+00:00"
-    },
-    {
-      "id": "e0e177c2bc9b46855291",
-      "source": "BBC News",
-      "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
-      "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T07:27:25+00:00"
     },
     {
       "id": "05c089be90f533cafc18",
@@ -304,13 +311,6 @@
       "title": "Emergenza volo FlyDubai, Katz: \"Tentativo di attacco jihadista\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/emergenza-volo-dubaitel-aviv-jet-israeliani_117137408-202602k.shtml",
       "published": "2026-09-30T14:12:00+00:00"
-    },
-    {
-      "id": "e736f533c807626b5249",
-      "source": "TGcom24",
-      "title": "Avellino, malore al nono mese di gravidanza: morti mamma e bimbo",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/avellino-malore-donna-muore-nono-mese-gravidanza_117146390-202602k.shtml",
-      "published": "2026-09-30T13:46:00+00:00"
     },
     {
       "id": "966297364b91de9cd127",
