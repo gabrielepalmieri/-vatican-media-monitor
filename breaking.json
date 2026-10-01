@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-10-01T20:41:50.311845+00:00",
+  "updated_at": "2026-10-01T20:52:25.291227+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-01T20:41:50.311845+00:00"
+      "checked_at": "2026-10-01T20:52:25.291227+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-01T20:41:50.311845+00:00"
+      "checked_at": "2026-10-01T20:52:25.291227+00:00"
     }
   },
   "items": [
+    {
+      "id": "ee6ce5d0814973f2af81",
+      "source": "BBC News",
+      "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+      "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-01T20:48:12+00:00"
+    },
     {
       "id": "67a6d6e69de72e124c73",
       "source": "TGcom24",
       "title": "Gb, tentato attacco base Raf: arrestato un anglo-iraniano di 27 anni",
       "url": "https://www.tgcom24.mediaset.it/mondo/regno-unito-base-raf-arrestato-anglo-iraniano_117193528-202602k.shtml",
       "published": "2026-10-01T20:35:00+00:00"
-    },
-    {
-      "id": "ee6ce5d0814973f2af81",
-      "source": "BBC News",
-      "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
-      "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T20:34:12+00:00"
     },
     {
       "id": "adb946b423cf23db5028",
