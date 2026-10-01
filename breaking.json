@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-01T14:27:53.760723+00:00",
+  "updated_at": "2026-10-01T14:42:30.133492+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-01T14:27:53.760723+00:00"
+      "checked_at": "2026-10-01T14:42:30.133492+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-01T14:27:53.760723+00:00"
+      "checked_at": "2026-10-01T14:42:30.133492+00:00"
     }
   },
   "items": [
+    {
+      "id": "f19bdd40d7578b327762",
+      "source": "TGcom24",
+      "title": "Volo FlyDubai, Ben Gvir: \"Estradizione per il pilota, lo aspetta l'inferno\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/volo-dirottato-dubai-tel-aviv-ben-gvir-chiede-estradizione-copilota_117180570-202602k.shtml",
+      "published": "2026-10-01T14:33:00+00:00"
+    },
     {
       "id": "348bf78f8010eefc634d",
       "source": "TGcom24",
@@ -150,6 +157,13 @@
       "title": "US death row inmate survives execution attempt after two lethal injections",
       "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T09:59:59+00:00"
+    },
+    {
+      "id": "288ebac464d94d5eccff",
+      "source": "BBC News",
+      "title": "Michael Jordan's 1998 NBA finals jersey sells for more than £9m",
+      "url": "https://www.bbc.co.uk/sport/basketball/articles/cx5yly6p2nyvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-01T09:36:13+00:00"
     },
     {
       "id": "f6ce1f14e37b46fe0e6d",
@@ -346,13 +360,6 @@
       "title": "Schengen, Madrid risponde a Roma e proroga per altri 15 giorni i controlli con l'Italia",
       "url": "https://www.tgcom24.mediaset.it/mondo/viminale-prorogato-stop-schengen-spagna_117155732-202602k.shtml",
       "published": "2026-09-30T20:53:00+00:00"
-    },
-    {
-      "id": "f90b2cc7d7ec3aacf300",
-      "source": "TGcom24",
-      "title": "Volo Dubai-Tel Aviv, il ritratto del copilota accoltellatore: \"Prega tutto il giorno, è un estremista\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/volo-flydubai-copilota-accoltellatore-ritratto_117157368-202602k.shtml",
-      "published": "2026-09-30T20:22:00+00:00"
     },
     {
       "id": "95ff8a15cd6067696f66",
