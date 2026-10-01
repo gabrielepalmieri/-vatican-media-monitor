@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-01T06:32:52.697562+00:00",
+  "updated_at": "2026-10-01T06:52:13.378170+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-01T06:32:52.697562+00:00"
+      "checked_at": "2026-10-01T06:52:13.378170+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-01T06:32:52.697562+00:00"
+      "checked_at": "2026-10-01T06:52:13.378170+00:00"
     }
   },
   "items": [
+    {
+      "id": "295628d803ef82a64afe",
+      "source": "TGcom24",
+      "title": "Rientrata la protesta dei detenuti nel carcere di Pisa: arresti e trasferimenti",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/rivolta-carcere-pisa-microspie-video_117158983-202602k.shtml",
+      "published": "2026-10-01T06:47:00+00:00"
+    },
+    {
+      "id": "e0e177c2bc9b46855291",
+      "source": "BBC News",
+      "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-01T06:42:43+00:00"
+    },
     {
       "id": "f5d5d9f76ea430aeb279",
       "source": "TGcom24",
@@ -61,13 +75,6 @@
       "published": "2026-10-01T03:52:20+00:00"
     },
     {
-      "id": "e0e177c2bc9b46855291",
-      "source": "BBC News",
-      "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
-      "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T03:43:06+00:00"
-    },
-    {
       "id": "7d9741910692ec411a21",
       "source": "BBC News",
       "title": "What we know about stabbing on Flydubai flight to Israel",
@@ -112,7 +119,7 @@
     {
       "id": "6cac901532135f037dfe",
       "source": "BBC News",
-      "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+      "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
       "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-30T23:10:06+00:00"
     },
@@ -325,13 +332,6 @@
       "title": "Luxury prison in Indonesia demolished after public outcry",
       "url": "https://www.bbc.co.uk/news/videos/cmwyz8j9j85wo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-30T10:41:03+00:00"
-    },
-    {
-      "id": "b4113a53cf490663bb1d",
-      "source": "TGcom24",
-      "title": "Inflazione, Istat: \"A settembre ai massimi da tre anni\"",
-      "url": "https://www.tgcom24.mediaset.it/economia/istat-a-settembre-inflazione-piu-alta-da-tre-anni_117143430-202602k.shtml",
-      "published": "2026-09-30T10:40:00+00:00"
     },
     {
       "id": "79d7ec27912286ab3b7c",
