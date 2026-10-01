@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-01T15:41:28.724741+00:00",
+  "updated_at": "2026-10-01T15:54:16.691243+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-01T15:41:28.724741+00:00"
+      "checked_at": "2026-10-01T15:54:16.691243+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-01T15:41:28.724741+00:00"
+      "checked_at": "2026-10-01T15:54:16.691243+00:00"
     }
   },
   "items": [
+    {
+      "id": "1a7dc53bc38b3adde949",
+      "source": "BBC News",
+      "title": "Netanyahu says flight attacker 'underwent Islamist radical indoctrination'",
+      "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-01T15:38:13+00:00"
+    },
     {
       "id": "e942c4c9223c66bcc764",
       "source": "TGcom24",
@@ -143,13 +150,6 @@
       "title": "Roma, investita da uno scuolabus: muore una 74enne",
       "url": "https://www.tgcom24.mediaset.it/cronaca/roma-investita-da-uno-scuolabus-muore-una-74enne-_117176046-202602k.shtml",
       "published": "2026-10-01T11:35:00+00:00"
-    },
-    {
-      "id": "e0e177c2bc9b46855291",
-      "source": "BBC News",
-      "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
-      "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T11:26:46+00:00"
     },
     {
       "id": "ea47e3b6174a2bc3f9bd",
