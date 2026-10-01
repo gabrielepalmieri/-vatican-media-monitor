@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-01T15:54:16.691243+00:00",
+  "updated_at": "2026-10-01T16:08:13.973568+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-01T15:54:16.691243+00:00"
+      "checked_at": "2026-10-01T16:08:13.973568+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-01T15:54:16.691243+00:00"
+      "checked_at": "2026-10-01T16:08:13.973568+00:00"
     }
   },
   "items": [
+    {
+      "id": "ee6ce5d0814973f2af81",
+      "source": "BBC News",
+      "title": "Tennessee halts executions after death row inmate Christa Pike survives hers",
+      "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-01T15:43:05+00:00"
+    },
     {
       "id": "1a7dc53bc38b3adde949",
       "source": "BBC News",
@@ -171,13 +178,6 @@
       "title": "Egitto, Nessy Guerra: il mio ex chiede che venga lapidata se non torno con lui",
       "url": "https://www.tgcom24.mediaset.it/cronaca/nessy-guerra-nuove-minacce-ex-marito-lapidazione_117171403-202602k.shtml",
       "published": "2026-10-01T10:00:00+00:00"
-    },
-    {
-      "id": "1b8b2f7896dbb30d7c73",
-      "source": "BBC News",
-      "title": "US death row inmate survives execution attempt after two lethal injections",
-      "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T09:59:59+00:00"
     },
     {
       "id": "288ebac464d94d5eccff",
@@ -416,13 +416,6 @@
       "title": "Girl has multiple surgeries to control infections after strike in Gaza",
       "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-30T05:02:50+00:00"
-    },
-    {
-      "id": "182e40a7b6531aa947d5",
-      "source": "BBC News",
-      "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-      "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T04:01:52+00:00"
     }
   ]
 }
