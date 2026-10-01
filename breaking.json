@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-01T09:51:46.884305+00:00",
+  "updated_at": "2026-10-01T10:01:22.534440+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-01T09:51:46.884305+00:00"
+      "checked_at": "2026-10-01T10:01:22.534440+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-01T09:51:46.884305+00:00"
+      "checked_at": "2026-10-01T10:01:22.534440+00:00"
     }
   },
   "items": [
+    {
+      "id": "b7c124d7b51ab662623c",
+      "source": "TGcom24",
+      "title": "Egitto, Nessy Guerra: il mio ex chiede che venga lapidata se non torno con lui",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/nessy-guerra-nuove-minacce-ex-marito-lapidazione_117171403-202602k.shtml",
+      "published": "2026-10-01T10:00:00+00:00"
+    },
+    {
+      "id": "1b8b2f7896dbb30d7c73",
+      "source": "BBC News",
+      "title": "US death row inmate survives execution attempt after two lethal injections",
+      "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-01T09:59:59+00:00"
+    },
     {
       "id": "e0e177c2bc9b46855291",
       "source": "BBC News",
@@ -66,13 +80,6 @@
       "title": "Africa's richest man launches Kenya oil refinery despite land protests",
       "url": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T07:04:27+00:00"
-    },
-    {
-      "id": "1b8b2f7896dbb30d7c73",
-      "source": "BBC News",
-      "title": "US death row inmate survives execution attempt after two lethal injections",
-      "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T07:01:16+00:00"
     },
     {
       "id": "295628d803ef82a64afe",
@@ -306,13 +313,6 @@
       "published": "2026-09-30T16:06:00+00:00"
     },
     {
-      "id": "e54bac717d0f8f56e664",
-      "source": "TGcom24",
-      "title": "Giovane precipita e muore a Milano: la caduta ripresa dalle telecamere",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/giovane-precipita-morto-gae-aulenti-milano_117150385-202602k.shtml",
-      "published": "2026-09-30T15:38:00+00:00"
-    },
-    {
       "id": "deb24de00bb742d645be",
       "source": "BBC News",
       "title": "Passengers describe stabbing on Israel-bound plane",
@@ -423,13 +423,6 @@
       "title": "Six Flags shuts down X2 rollercoaster after more than 100 allege brain injuries",
       "url": "https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-29T22:33:13+00:00"
-    },
-    {
-      "id": "e4e8f070bab38b2cab73",
-      "source": "BBC News",
-      "title": "Fires and blockades as students stage school protests across France",
-      "url": "https://www.bbc.co.uk/news/videos/cmy0zey3ey2lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T21:53:36+00:00"
     }
   ]
 }
