@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-01T09:01:00.591985+00:00",
+  "updated_at": "2026-10-01T09:15:26.187086+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-01T09:01:00.591985+00:00"
+      "checked_at": "2026-10-01T09:15:26.187086+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-01T09:01:00.591985+00:00"
+      "checked_at": "2026-10-01T09:15:26.187086+00:00"
     }
   },
   "items": [
+    {
+      "id": "abad41e60fccd7ec49a3",
+      "source": "TGcom24",
+      "title": "Istat: ad agosto il tasso disoccupazione sale al 6,2%",
+      "url": "https://www.tgcom24.mediaset.it/economia/istat-tasso-disoccupazione-occupazione-agosto-2026_117169741-202602k.shtml",
+      "published": "2026-10-01T08:57:00+00:00"
+    },
     {
       "id": "e0e177c2bc9b46855291",
       "source": "BBC News",
@@ -304,13 +311,6 @@
       "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
       "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-30T14:53:02+00:00"
-    },
-    {
-      "id": "60bef5c7044e46d5a39c",
-      "source": "TGcom24",
-      "title": "Emergenza volo FlyDubai, Katz: \"Tentativo di attacco jihadista\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/emergenza-volo-dubaitel-aviv-jet-israeliani_117137408-202602k.shtml",
-      "published": "2026-09-30T14:12:00+00:00"
     },
     {
       "id": "966297364b91de9cd127",
