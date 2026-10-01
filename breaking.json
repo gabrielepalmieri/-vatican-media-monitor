@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-01T16:08:13.973568+00:00",
+  "updated_at": "2026-10-01T16:23:47.426928+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-01T16:08:13.973568+00:00"
+      "checked_at": "2026-10-01T16:23:47.426928+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-01T16:08:13.973568+00:00"
+      "checked_at": "2026-10-01T16:23:47.426928+00:00"
     }
   },
   "items": [
+    {
+      "id": "a2b9ec99033bd6ed4b7d",
+      "source": "TGcom24",
+      "title": "Tirolo, papà e figlia di 4 anni precipitano con il parapendio",
+      "url": "https://www.tgcom24.mediaset.it/mondo/tirolo-padre-figlia-precipitano-parapendio_117183659-202602k.shtml",
+      "published": "2026-10-01T16:10:00+00:00"
+    },
     {
       "id": "ee6ce5d0814973f2af81",
       "source": "BBC News",
@@ -346,13 +353,6 @@
       "title": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
       "url": "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-30T22:01:16+00:00"
-    },
-    {
-      "id": "122c67a9e5fa8f911cd3",
-      "source": "TGcom24",
-      "title": "Rivolta dei detenuti nel carcere di Pisa: \"Abbiamo trovato microspie nelle celle\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/rivolta-carcere-pisa-microspie-video_117158983-202602k.shtml",
-      "published": "2026-09-30T22:01:00+00:00"
     },
     {
       "id": "0748c7a16a0018aa340c",
