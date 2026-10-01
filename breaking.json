@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-01T03:24:18.180062+00:00",
+  "updated_at": "2026-10-01T03:42:05.739685+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-01T03:24:18.180062+00:00"
+      "checked_at": "2026-10-01T03:42:05.739685+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-01T03:24:18.180062+00:00"
+      "checked_at": "2026-10-01T03:42:05.739685+00:00"
     }
   },
   "items": [
+    {
+      "id": "1b8b2f7896dbb30d7c73",
+      "source": "BBC News",
+      "title": "Tennessee death row inmate Christa Pike taken to hospital after attempted execution, lawyer says",
+      "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-01T03:25:51+00:00"
+    },
     {
       "id": "7d9741910692ec411a21",
       "source": "BBC News",
@@ -24,13 +31,6 @@
       "title": "'Hero' pilot stabbed by other pilot on Israel-bound plane, Israeli PM says",
       "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T02:29:04+00:00"
-    },
-    {
-      "id": "1b8b2f7896dbb30d7c73",
-      "source": "BBC News",
-      "title": "US Supreme Court allows execution of Christa Pike to go ahead",
-      "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T01:45:09+00:00"
     },
     {
       "id": "80a60d5bd26a92ab2871",
