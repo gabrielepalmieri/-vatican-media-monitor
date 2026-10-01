@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-01T06:11:15.230174+00:00",
+  "updated_at": "2026-10-01T06:32:52.697562+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-01T06:11:15.230174+00:00"
+      "checked_at": "2026-10-01T06:32:52.697562+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-01T06:11:15.230174+00:00"
+      "checked_at": "2026-10-01T06:32:52.697562+00:00"
     }
   },
   "items": [
+    {
+      "id": "f5d5d9f76ea430aeb279",
+      "source": "TGcom24",
+      "title": "Rimpatriati 29 nordafricani, quasi tutti con precedenti penali",
+      "url": "https://www.tgcom24.mediaset.it/2026/video/operazione-di-rimpatrio-di-29-nord-africani-quasi-tutti-con-precedenti-penali_117162335-02k.shtml",
+      "published": "2026-10-01T06:18:00+00:00"
+    },
     {
       "id": "56fb44e7fb5dc01cf52a",
       "source": "TGcom24",
@@ -21,7 +28,7 @@
     {
       "id": "1b8b2f7896dbb30d7c73",
       "source": "BBC News",
-      "title": "US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer",
+      "title": "US death row inmate survives execution attempt after two lethal injections",
       "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T05:34:41+00:00"
     },
@@ -325,13 +332,6 @@
       "title": "Inflazione, Istat: \"A settembre ai massimi da tre anni\"",
       "url": "https://www.tgcom24.mediaset.it/economia/istat-a-settembre-inflazione-piu-alta-da-tre-anni_117143430-202602k.shtml",
       "published": "2026-09-30T10:40:00+00:00"
-    },
-    {
-      "id": "dbbb1472b81d30058562",
-      "source": "TGcom24",
-      "title": "Incidente sul lavoro nel Milanese, operaio muore dopo essere precipitato da un solaio",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/ancona-incidente-fincantieri-operaio-morto_117141543-202602k.shtml",
-      "published": "2026-09-30T10:10:00+00:00"
     },
     {
       "id": "79d7ec27912286ab3b7c",
