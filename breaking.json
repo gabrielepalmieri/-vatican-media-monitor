@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-01T00:55:58.459449+00:00",
+  "updated_at": "2026-10-01T01:09:39.730547+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-01T00:55:58.459449+00:00"
+      "checked_at": "2026-10-01T01:09:39.730547+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-01T00:55:58.459449+00:00"
+      "checked_at": "2026-10-01T01:09:39.730547+00:00"
     }
   },
   "items": [
+    {
+      "id": "80a60d5bd26a92ab2871",
+      "source": "BBC News",
+      "title": "California bans child marriage, a practice still legal in 32 US states",
+      "url": "https://www.bbc.co.uk/news/articles/c6rm9mnn0w3eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-01T00:57:04+00:00"
+    },
     {
       "id": "1b8b2f7896dbb30d7c73",
       "source": "BBC News",
@@ -339,13 +346,6 @@
       "title": "Girl has multiple surgeries to control infections after strike in Gaza",
       "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-30T05:02:50+00:00"
-    },
-    {
-      "id": "61eb4c25636e88863820",
-      "source": "BBC News",
-      "title": "'Backpack' declared Alaska's Fat Bear Week winner",
-      "url": "https://www.bbc.co.uk/news/articles/ck8d3vl9mj13o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T05:01:04+00:00"
     },
     {
       "id": "182e40a7b6531aa947d5",
