@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-10-01T00:10:37.791589+00:00",
+  "updated_at": "2026-10-01T00:33:28.760970+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-01T00:10:37.791589+00:00"
+      "checked_at": "2026-10-01T00:33:28.760970+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-01T00:10:37.791589+00:00"
+      "checked_at": "2026-10-01T00:33:28.760970+00:00"
     }
   },
   "items": [
+    {
+      "id": "1b8b2f7896dbb30d7c73",
+      "source": "BBC News",
+      "title": "US Supreme Court allows execution of Christa Pike to go ahead",
+      "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-01T00:19:20+00:00"
+    },
     {
       "id": "8cee4156a68fa7b6d411",
       "source": "BBC News",
       "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
       "url": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T00:08:23+00:00"
-    },
-    {
-      "id": "1b8b2f7896dbb30d7c73",
-      "source": "BBC News",
-      "title": "US Supreme Court allows execution of Christa Pike to go ahead",
-      "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T23:55:17+00:00"
     },
     {
       "id": "8d7f6bf575f3c145bd0c",
