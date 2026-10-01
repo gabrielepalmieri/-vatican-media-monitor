@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-10-01T11:26:29.566661+00:00",
+  "updated_at": "2026-10-01T11:40:34.757444+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-01T11:26:29.566661+00:00"
+      "checked_at": "2026-10-01T11:40:34.757444+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-01T11:26:29.566661+00:00"
+      "checked_at": "2026-10-01T11:40:34.757444+00:00"
     }
   },
   "items": [
+    {
+      "id": "5de79bef30fbc972bcac",
+      "source": "TGcom24",
+      "title": "Roma, investita da uno scuolabus: muore una 74enne",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/roma-investita-da-uno-scuolabus-muore-una-74enne-_117176046-202602k.shtml",
+      "published": "2026-10-01T11:35:00+00:00"
+    },
+    {
+      "id": "e0e177c2bc9b46855291",
+      "source": "BBC News",
+      "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-01T11:26:46+00:00"
+    },
+    {
+      "id": "135458a74c52e025bd78",
+      "source": "BBC News",
+      "title": "Explosions heard in Ethiopia's capital after drone flights banned",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-01T11:25:03+00:00"
+    },
     {
       "id": "ea47e3b6174a2bc3f9bd",
       "source": "TGcom24",
@@ -31,13 +52,6 @@
       "title": "Il decreto imballaggi è legge: via libera della Camera con 178 sì",
       "url": "https://www.tgcom24.mediaset.it/politica/il-decreto-imballaggi-e-legge-cosa-cambia-per-la-plastica-monouso_117172758-202602k.shtml",
       "published": "2026-10-01T10:37:00+00:00"
-    },
-    {
-      "id": "e0e177c2bc9b46855291",
-      "source": "BBC News",
-      "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
-      "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T10:04:04+00:00"
     },
     {
       "id": "b7c124d7b51ab662623c",
@@ -306,13 +320,6 @@
       "published": "2026-09-30T17:14:03+00:00"
     },
     {
-      "id": "fed4f2186db1b3b483e3",
-      "source": "TGcom24",
-      "title": "Volo FlyDubai, l'ambasciatore israeliano in Italia: \"Rischiato un altro 11 settembre\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/emergenza-volo-dubaitel-aviv-jet-israeliani_117137408-202602k.shtml",
-      "published": "2026-09-30T17:13:00+00:00"
-    },
-    {
       "id": "deb24de00bb742d645be",
       "source": "BBC News",
       "title": "Passengers describe stabbing on Israel-bound plane",
@@ -402,13 +409,6 @@
       "title": "Watch: Moment a government building collapses into a river in Nepal amid floods",
       "url": "https://www.bbc.co.uk/news/videos/cv70d2nd6r0yo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-30T03:21:28+00:00"
-    },
-    {
-      "id": "c2134476f7036c828e43",
-      "source": "BBC News",
-      "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
-      "url": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29T23:33:34+00:00"
     }
   ]
 }
