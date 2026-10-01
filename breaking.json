@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-01T15:25:24.861007+00:00",
+  "updated_at": "2026-10-01T15:41:28.724741+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-01T15:25:24.861007+00:00"
+      "checked_at": "2026-10-01T15:41:28.724741+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-01T15:25:24.861007+00:00"
+      "checked_at": "2026-10-01T15:41:28.724741+00:00"
     }
   },
   "items": [
+    {
+      "id": "e942c4c9223c66bcc764",
+      "source": "TGcom24",
+      "title": "Prof accoltellata a Roma, il ministro Valditara premia lo studente che intervenne",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/prof-accoltellata-isabella-marsilio-roma-studente-premiato-valditara_117180131-202602k.shtml",
+      "published": "2026-10-01T15:22:00+00:00"
+    },
     {
       "id": "135458a74c52e025bd78",
       "source": "BBC News",
@@ -353,13 +360,6 @@
       "title": "Flydubai passenger describes putting attacker in chokehold after cockpit stabbing",
       "url": "https://www.bbc.co.uk/news/articles/cmx2z92xx57no?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-30T21:38:54+00:00"
-    },
-    {
-      "id": "e5e7ba891842efb3301d",
-      "source": "TGcom24",
-      "title": "Il presidente della Repubblica Mattarella ha emanato il decreto Scuola",
-      "url": "https://www.tgcom24.mediaset.it/politica/decreto-scuola-mattarella_117158651-202602k.shtml",
-      "published": "2026-09-30T21:33:00+00:00"
     },
     {
       "id": "95ff8a15cd6067696f66",
