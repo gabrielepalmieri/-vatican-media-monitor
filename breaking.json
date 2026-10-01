@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-09-30T23:57:36.523145+00:00",
+  "updated_at": "2026-10-01T00:10:37.791589+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-09-30T23:57:36.523145+00:00"
+      "checked_at": "2026-10-01T00:10:37.791589+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-09-30T23:57:36.523145+00:00"
+      "checked_at": "2026-10-01T00:10:37.791589+00:00"
     }
   },
   "items": [
+    {
+      "id": "8cee4156a68fa7b6d411",
+      "source": "BBC News",
+      "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-01T00:08:23+00:00"
+    },
     {
       "id": "1b8b2f7896dbb30d7c73",
       "source": "BBC News",
@@ -150,13 +157,6 @@
       "title": "Volo FlyDubai, l'ambasciatore israeliano in Italia: \"Rischiato un altro 11 settembre\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/emergenza-volo-dubaitel-aviv-jet-israeliani_117137408-202602k.shtml",
       "published": "2026-09-30T17:13:00+00:00"
-    },
-    {
-      "id": "7eb07158d64d73376986",
-      "source": "BBC News",
-      "title": "UK-France 'one in, one out' migrant scheme scrapped",
-      "url": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T17:11:08+00:00"
     },
     {
       "id": "eb63c0edf944600f8554",
