@@ -1,22 +1,29 @@
 {
-  "updated_at": "2026-10-01T11:00:01.040819+00:00",
+  "updated_at": "2026-10-01T11:11:58.922760+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-01T11:00:01.040819+00:00"
+      "checked_at": "2026-10-01T11:11:58.922760+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-01T11:00:01.040819+00:00"
+      "checked_at": "2026-10-01T11:11:58.922760+00:00"
     }
   },
   "items": [
+    {
+      "id": "ea47e3b6174a2bc3f9bd",
+      "source": "TGcom24",
+      "title": "Inflazione, Ue: \"Abbiamo già concesso maggiore flessibilità agli Stati membri\"",
+      "url": "https://www.tgcom24.mediaset.it/economia/lettera-meloni-europa-inflazione_117175179-202602k.shtml",
+      "published": "2026-10-01T11:01:00+00:00"
+    },
     {
       "id": "b08949a88b8a7a4c5c32",
       "source": "BBC News",
       "title": "Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash",
       "url": "https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T10:42:03+00:00"
+      "published": "2026-10-01T11:00:28+00:00"
     },
     {
       "id": "97ff06741a350147dfe3",
@@ -304,13 +311,6 @@
       "title": "Volo FlyDubai, l'ambasciatore israeliano in Italia: \"Rischiato un altro 11 settembre\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/emergenza-volo-dubaitel-aviv-jet-israeliani_117137408-202602k.shtml",
       "published": "2026-09-30T17:13:00+00:00"
-    },
-    {
-      "id": "eb63c0edf944600f8554",
-      "source": "TGcom24",
-      "title": "Cuneo, detenuto a fine pena protesta contro la scarcerazione: \"Urla e lancia oggetti\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/cuneo-carcere-detenuto-fine-pena-protesta-scarcerazione_117150744-202602k.shtml",
-      "published": "2026-09-30T16:30:00+00:00"
     },
     {
       "id": "deb24de00bb742d645be",
