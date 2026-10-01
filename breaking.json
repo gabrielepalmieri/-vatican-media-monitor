@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-01T22:21:10.867489+00:00",
+  "updated_at": "2026-10-01T22:32:33.878988+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-01T22:21:10.867489+00:00"
+      "checked_at": "2026-10-01T22:32:33.878988+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-01T22:21:10.867489+00:00"
+      "checked_at": "2026-10-01T22:32:33.878988+00:00"
     }
   },
   "items": [
+    {
+      "id": "ee6ce5d0814973f2af81",
+      "source": "BBC News",
+      "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+      "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-01T22:28:45+00:00"
+    },
     {
       "id": "f9de9d5af0d98ad2f0c3",
       "source": "TGcom24",
@@ -31,13 +38,6 @@
       "title": "IA, Donald Trump: governo Usa pronto ad acquistare quote Anthropic e OpenAI",
       "url": "https://www.tgcom24.mediaset.it/mondo/donald-trump-ia-openai-anthropic-borsa-usa_117193532-202602k.shtml",
       "published": "2026-10-01T21:03:00+00:00"
-    },
-    {
-      "id": "ee6ce5d0814973f2af81",
-      "source": "BBC News",
-      "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
-      "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T20:48:12+00:00"
     },
     {
       "id": "67a6d6e69de72e124c73",
