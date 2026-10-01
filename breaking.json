@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-01T11:53:13.180820+00:00",
+  "updated_at": "2026-10-01T12:11:24.815737+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-01T11:53:13.180820+00:00"
+      "checked_at": "2026-10-01T12:11:24.815737+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-01T11:53:13.180820+00:00"
+      "checked_at": "2026-10-01T12:11:24.815737+00:00"
     }
   },
   "items": [
+    {
+      "id": "d1ff86e3788f87a83507",
+      "source": "TGcom24",
+      "title": "Legge elettorale, respinte alla Camera con voto segreto le questioni pregiudiziali",
+      "url": "https://www.tgcom24.mediaset.it/politica/legge-elettorale-camera_117176601-202602k.shtml",
+      "published": "2026-10-01T12:05:00+00:00"
+    },
     {
       "id": "008e16e0593fb6739a75",
       "source": "BBC News",
@@ -304,13 +311,6 @@
       "title": "Viminale: \"Prorogato di 15 giorni stop a Schengen con la Spagna, criticità permangono\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/viminale-prorogato-stop-schengen-spagna_117155732-202602k.shtml",
       "published": "2026-09-30T18:14:00+00:00"
-    },
-    {
-      "id": "9e700f0b4d73418e40b9",
-      "source": "TGcom24",
-      "title": "Padova, le era stata già negata la cittadinanza e fallisce secondo test: \"Non conosce l'italiano\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/padova-italiano-cittadinanza_117153645-202602k.shtml",
-      "published": "2026-09-30T17:51:00+00:00"
     },
     {
       "id": "95ff8a15cd6067696f66",
