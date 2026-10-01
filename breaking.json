@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-01T05:40:37.391617+00:00",
+  "updated_at": "2026-10-01T05:53:15.524136+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-01T05:40:37.391617+00:00"
+      "checked_at": "2026-10-01T05:53:15.524136+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-01T05:40:37.391617+00:00"
+      "checked_at": "2026-10-01T05:53:15.524136+00:00"
     }
   },
   "items": [
+    {
+      "id": "56fb44e7fb5dc01cf52a",
+      "source": "TGcom24",
+      "title": "Roma, sequestrati 14kg di prodotti alimentari: multe per oltre 14mila euro",
+      "url": "https://www.tgcom24.mediaset.it/2026/video/roma-sequestrati-14kg-di-prodotti-alimentari-multe-per-oltre-14mila-euro_117162333-02k.shtml",
+      "published": "2026-10-01T05:41:00+00:00"
+    },
     {
       "id": "1b8b2f7896dbb30d7c73",
       "source": "BBC News",
@@ -332,13 +339,6 @@
       "title": "Singapore launches matchmaking service for government workers",
       "url": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-30T09:42:36+00:00"
-    },
-    {
-      "id": "0acb39c06694164dabe4",
-      "source": "TGcom24",
-      "title": "Ancona, incidente sul lavoro: un operaio morto e un altro gravissimo",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/ancona-incidente-fincantieri-operaio-morto_117141543-202602k.shtml",
-      "published": "2026-09-30T09:29:00+00:00"
     },
     {
       "id": "d6a22b150212d126138c",
