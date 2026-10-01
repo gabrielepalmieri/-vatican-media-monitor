@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-10-01T12:33:00.400890+00:00",
+  "updated_at": "2026-10-01T12:52:42.590577+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-01T12:33:00.400890+00:00"
+      "checked_at": "2026-10-01T12:52:42.590577+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-01T12:33:00.400890+00:00"
+      "checked_at": "2026-10-01T12:52:42.590577+00:00"
     }
   },
   "items": [
+    {
+      "id": "135458a74c52e025bd78",
+      "source": "BBC News",
+      "title": "Explosions heard in Ethiopia's capital after drone flights banned",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-01T12:38:55+00:00"
+    },
+    {
+      "id": "2c94ec9ebd8cb8d26b73",
+      "source": "TGcom24",
+      "title": "Setta scoperta nel Torinese, \"adepte\" costrette a fare voto di obbedienza e povertà",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/setta-bassa-val-di-susa-arresto-violenze_117163303-202602k.shtml",
+      "published": "2026-10-01T12:38:00+00:00"
+    },
+    {
+      "id": "8c371a7c76c5e189ffd3",
+      "source": "BBC News",
+      "title": "Watch: Why are students protesting at schools in France?",
+      "url": "https://www.bbc.co.uk/news/videos/cwy8z8rney97o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-01T12:31:18+00:00"
+    },
     {
       "id": "d1ff86e3788f87a83507",
       "source": "TGcom24",
@@ -38,13 +59,6 @@
       "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
       "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T11:26:46+00:00"
-    },
-    {
-      "id": "135458a74c52e025bd78",
-      "source": "BBC News",
-      "title": "Explosions heard in Ethiopia's capital after drone flights banned",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T11:25:03+00:00"
     },
     {
       "id": "ea47e3b6174a2bc3f9bd",
@@ -306,13 +320,6 @@
       "published": "2026-09-30T18:50:00+00:00"
     },
     {
-      "id": "4610130040ebf4610b61",
-      "source": "TGcom24",
-      "title": "Viminale: \"Prorogato di 15 giorni stop a Schengen con la Spagna, criticità permangono\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/viminale-prorogato-stop-schengen-spagna_117155732-202602k.shtml",
-      "published": "2026-09-30T18:14:00+00:00"
-    },
-    {
       "id": "95ff8a15cd6067696f66",
       "source": "BBC News",
       "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
@@ -402,13 +409,6 @@
       "title": "Three takeaways from Trump's 'Super Intelligence' summit",
       "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-30T04:01:52+00:00"
-    },
-    {
-      "id": "85172cf75b0249bd217f",
-      "source": "BBC News",
-      "title": "Watch: Moment a government building collapses into a river in Nepal amid floods",
-      "url": "https://www.bbc.co.uk/news/videos/cv70d2nd6r0yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30T03:21:28+00:00"
     }
   ]
 }
