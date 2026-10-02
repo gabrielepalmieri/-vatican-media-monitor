@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-10-02T10:07:06.829057+00:00",
+  "updated_at": "2026-10-02T10:23:07.730725+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-02T10:07:06.829057+00:00"
+      "checked_at": "2026-10-02T10:23:07.730725+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-02T10:07:06.829057+00:00"
+      "checked_at": "2026-10-02T10:23:07.730725+00:00"
     }
   },
   "items": [
+    {
+      "id": "76e4283badc41269bb84",
+      "source": "TGcom24",
+      "title": "Milano, 30enne colpito alla schiena da colpi di pistola: è grave",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-pioltello-agguato-sparatoria-ferito-30enne_117205067-202602k.shtml",
+      "published": "2026-10-02T10:09:00+00:00"
+    },
     {
       "id": "b9bdca3d4dbbb187eb77",
       "source": "BBC News",
       "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
       "url": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-02T10:04:56+00:00"
+    },
+    {
+      "id": "d03e99408fd008502e43",
+      "source": "BBC News",
+      "title": "A 'dark cloud' and 'dismal' mood: How it feels on Cornell campus right now",
+      "url": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T10:00:24+00:00"
     },
     {
       "id": "0a0aff5acc9aea79ecb4",
@@ -136,13 +150,6 @@
       "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
       "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-02T03:09:13+00:00"
-    },
-    {
-      "id": "111fb1b4b9a20b9641ee",
-      "source": "BBC News",
-      "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
-      "url": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T02:49:44+00:00"
     },
     {
       "id": "6724cc44f046087f0aa0",
@@ -339,13 +346,6 @@
       "title": "Volo FlyDubai, Ben Gvir: \"Estradizione per il pilota, lo aspetta l'inferno\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/volo-dirottato-dubai-tel-aviv-ben-gvir-chiede-estradizione-copilota_117180570-202602k.shtml",
       "published": "2026-10-01T14:33:00+00:00"
-    },
-    {
-      "id": "348bf78f8010eefc634d",
-      "source": "TGcom24",
-      "title": "Caro carburanti, price cap anche per Tamoil: fino al 31 ottobre",
-      "url": "https://www.tgcom24.mediaset.it/economia/tamoil-tetto-prezzi-carburanti-price-cap_117180396-202602k.shtml",
-      "published": "2026-10-01T14:11:00+00:00"
     },
     {
       "id": "1a03b82cf692bb42f97e",
