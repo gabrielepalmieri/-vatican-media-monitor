@@ -1,0 +1,2553 @@
+{
+  "updated_at": "2026-10-02T11:54:14.383311+00:00",
+  "timezone": "Europe/Rome",
+  "un_source": "https://unric.org/it/giornate-internazionali-onu/",
+  "un_verified_at": "2026-10-02T11:54:14.383311+00:00",
+  "un_observances": [
+    {
+      "title": "Giornata mondiale del Braille",
+      "month": 1,
+      "day": 4,
+      "end_day": 4,
+      "year": null,
+      "url": "https://www.un.org/en/observances/braille-day"
+    },
+    {
+      "title": "Giornata internazionale dell’educazione",
+      "month": 1,
+      "day": 24,
+      "end_day": 24,
+      "year": null,
+      "url": "https://www.un.org/en/observances/education-day"
+    },
+    {
+      "title": "Giornata internazionale dell’energia pulita",
+      "month": 1,
+      "day": 26,
+      "end_day": 26,
+      "year": null,
+      "url": "https://www.un.org/en/observances/clean-energy-day"
+    },
+    {
+      "title": "Giornata internazionale di commemorazione delle vittime dell’Olocausto",
+      "month": 1,
+      "day": 27,
+      "end_day": 27,
+      "year": null,
+      "url": "https://www.un.org/en/holocaustremembrance/"
+    },
+    {
+      "title": "Giornata internazionale della coesistenza pacifica",
+      "month": 1,
+      "day": 28,
+      "end_day": 28,
+      "year": null,
+      "url": "https://www.un.org/en/observances/peaceful-coexistence-day"
+    },
+    {
+      "title": "Giornata mondiale delle zone umide",
+      "month": 2,
+      "day": 2,
+      "end_day": 2,
+      "year": null,
+      "url": "https://www.un.org/en/observances/world-wetlands-day"
+    },
+    {
+      "title": "Giornata internazionale della fratellanza umana",
+      "month": 2,
+      "day": 4,
+      "end_day": 4,
+      "year": null,
+      "url": "https://www.un.org/en/observances/human-fraternity"
+    },
+    {
+      "title": "Giornata internazionale della tolleranza zero contro le mutilazioni genitali femminili",
+      "month": 2,
+      "day": 6,
+      "end_day": 6,
+      "year": null,
+      "url": "https://www.un.org/en/observances/female-genital-mutilation-day"
+    },
+    {
+      "title": "Giornata mondiale dei legumi",
+      "month": 2,
+      "day": 10,
+      "end_day": 10,
+      "year": null,
+      "url": "https://www.un.org/en/observances/world-pulses-day"
+    },
+    {
+      "title": "Giornata internazionale del leopardo arabico",
+      "month": 2,
+      "day": 10,
+      "end_day": 10,
+      "year": null,
+      "url": "https://www.un.org/en/observances/arabian-leopard-day"
+    },
+    {
+      "title": "Giornata internazionale delle donne e delle ragazze nella scienza",
+      "month": 2,
+      "day": 11,
+      "end_day": 11,
+      "year": null,
+      "url": "https://www.un.org/en/observances/women-and-girls-in-science-day/"
+    },
+    {
+      "title": "Giornata internazionale per la prevenzione dell’estremismo violento che può condurre al terrorismo",
+      "month": 2,
+      "day": 12,
+      "end_day": 12,
+      "year": null,
+      "url": "https://www.un.org/en/observances/prevention-extremism-when-conducive-terrorism-day"
+    },
+    {
+      "title": "Giornata mondiale della radio",
+      "month": 2,
+      "day": 13,
+      "end_day": 13,
+      "year": null,
+      "url": "https://www.un.org/en/observances/radio-day"
+    },
+    {
+      "title": "Giornata mondiale della resilienza del turismo",
+      "month": 2,
+      "day": 17,
+      "end_day": 17,
+      "year": null,
+      "url": "https://www.un.org/en/observances/tourism-resilience-day"
+    },
+    {
+      "title": "Giornata mondiale della giustizia sociale",
+      "month": 2,
+      "day": 20,
+      "end_day": 20,
+      "year": null,
+      "url": "https://www.un.org/en/observances/social-justice-day"
+    },
+    {
+      "title": "Giornata internazionale della lingua madre",
+      "month": 2,
+      "day": 21,
+      "end_day": 21,
+      "year": null,
+      "url": "https://www.un.org/en/observances/mother-language-day"
+    },
+    {
+      "title": "Giornata mondiale delle praterie marine",
+      "month": 3,
+      "day": 1,
+      "end_day": 1,
+      "year": null,
+      "url": "https://www.un.org/en/observances/seagrass-day"
+    },
+    {
+      "title": "Giornata della discriminazione zero",
+      "month": 3,
+      "day": 1,
+      "end_day": 1,
+      "year": null,
+      "url": "https://www.unaids.org/en/zero-discrimination-day"
+    },
+    {
+      "title": "Giornata mondiale della fauna selvatica",
+      "month": 3,
+      "day": 3,
+      "end_day": 3,
+      "year": null,
+      "url": "https://www.un.org/en/observances/world-wildlife-day"
+    },
+    {
+      "title": "Giornata internazionale di sensibilizzazione sul disarmo e la non proliferazione",
+      "month": 3,
+      "day": 5,
+      "end_day": 5,
+      "year": null,
+      "url": "https://www.un.org/en/observances/disarmament-non-proliferation-awareness-day"
+    },
+    {
+      "title": "Giornata internazionale della donna",
+      "month": 3,
+      "day": 8,
+      "end_day": 8,
+      "year": null,
+      "url": "https://www.un.org/en/observances/womens-day"
+    },
+    {
+      "title": "Giornata internazionale delle donne giudici",
+      "month": 3,
+      "day": 10,
+      "end_day": 10,
+      "year": null,
+      "url": "https://www.un.org/en/observances/women-judges-day"
+    },
+    {
+      "title": "Giornata internazionale per la lotta contro l’islamofobia",
+      "month": 3,
+      "day": 15,
+      "end_day": 15,
+      "year": null,
+      "url": "https://www.un.org/en/observances/anti-islamophobia-day"
+    },
+    {
+      "title": "Giornata internazionale della felicità",
+      "month": 3,
+      "day": 20,
+      "end_day": 20,
+      "year": null,
+      "url": "https://www.un.org/en/observances/happiness-day"
+    },
+    {
+      "title": "Giornata della lingua francese",
+      "month": 3,
+      "day": 20,
+      "end_day": 20,
+      "year": null,
+      "url": "https://www.un.org/fr/observances/french-language-day/"
+    },
+    {
+      "title": "Giornata mondiale dei ghiacciai",
+      "month": 3,
+      "day": 21,
+      "end_day": 21,
+      "year": null,
+      "url": "https://www.un-glaciers.org/en/world-day-glaciers"
+    },
+    {
+      "title": "Giornata internazionale per l’eliminazione della discriminazione razziale",
+      "month": 3,
+      "day": 21,
+      "end_day": 21,
+      "year": null,
+      "url": "https://www.un.org/en/observances/end-racism-day"
+    },
+    {
+      "title": "Giornata mondiale della poesia",
+      "month": 3,
+      "day": 21,
+      "end_day": 21,
+      "year": null,
+      "url": "https://www.unesco.org/en/days/poetry"
+    },
+    {
+      "title": "Giornata internazionale del Nowruz",
+      "month": 3,
+      "day": 21,
+      "end_day": 21,
+      "year": null,
+      "url": "https://www.un.org/en/observances/international-nowruz-day"
+    },
+    {
+      "title": "Giornata mondiale della sindrome di Down",
+      "month": 3,
+      "day": 21,
+      "end_day": 21,
+      "year": null,
+      "url": "https://www.un.org/en/observances/down-syndrome-day"
+    },
+    {
+      "title": "Giornata internazionale delle foreste",
+      "month": 3,
+      "day": 21,
+      "end_day": 21,
+      "year": null,
+      "url": "https://www.un.org/en/observances/forests-and-trees-day"
+    },
+    {
+      "title": "Giornata mondiale dell’acqua",
+      "month": 3,
+      "day": 22,
+      "end_day": 22,
+      "year": null,
+      "url": "https://www.un.org/en/observances/water-day"
+    },
+    {
+      "title": "Giornata meteorologica mondiale",
+      "month": 3,
+      "day": 23,
+      "end_day": 23,
+      "year": null,
+      "url": "https://public.wmo.int/en/resources/world-meteorological-day"
+    },
+    {
+      "title": "Giornata mondiale della tubercolosi",
+      "month": 3,
+      "day": 24,
+      "end_day": 24,
+      "year": null,
+      "url": "https://www.who.int/campaigns/world-tb-day"
+    },
+    {
+      "title": "Giornata internazionale per il diritto alla verità sulle gravi violazioni dei diritti umani e per la dignità delle vittime",
+      "month": 3,
+      "day": 24,
+      "end_day": 24,
+      "year": null,
+      "url": "https://www.un.org/en/observances/right-to-truth-day"
+    },
+    {
+      "title": "Giornata internazionale di commemorazione delle vittime della schiavitù e della tratta transatlantica degli schiavi",
+      "month": 3,
+      "day": 25,
+      "end_day": 25,
+      "year": null,
+      "url": "https://www.un.org/en/rememberslavery"
+    },
+    {
+      "title": "Giornata internazionale di solidarietà con il personale detenuto e scomparso",
+      "month": 3,
+      "day": 25,
+      "end_day": 25,
+      "year": null,
+      "url": "https://www.un.org/en/observances/detained-staff-day"
+    },
+    {
+      "title": "Giornata internazionale rifiuti zero",
+      "month": 3,
+      "day": 30,
+      "end_day": 30,
+      "year": null,
+      "url": "https://www.un.org/en/observances/zero-waste-day"
+    },
+    {
+      "title": "Giornata mondiale della consapevolezza sull’autismo",
+      "month": 4,
+      "day": 2,
+      "end_day": 2,
+      "year": null,
+      "url": "https://www.un.org/en/observances/autism-day"
+    },
+    {
+      "title": "Giornata internazionale per la sensibilizzazione sul pericolo delle mine e l’assistenza all’azione contro le mine",
+      "month": 4,
+      "day": 4,
+      "end_day": 4,
+      "year": null,
+      "url": "https://www.un.org/en/observances/mine-awareness-day"
+    },
+    {
+      "title": "Giornata internazionale della coscienza",
+      "month": 4,
+      "day": 5,
+      "end_day": 5,
+      "year": null,
+      "url": "https://www.un.org/en/observances/conscience-day"
+    },
+    {
+      "title": "Giornata internazionale dello sport per lo sviluppo e la pace",
+      "month": 4,
+      "day": 6,
+      "end_day": 6,
+      "year": null,
+      "url": "https://www.un.org/en/observances/sport-day"
+    },
+    {
+      "title": "Giornata internazionale di riflessione sul genocidio del 1994 contro i Tutsi in Ruanda",
+      "month": 4,
+      "day": 7,
+      "end_day": 7,
+      "year": null,
+      "url": "https://www.un.org/en/preventgenocide/rwanda/day-of-reflection.shtml"
+    },
+    {
+      "title": "Giornata mondiale della salute",
+      "month": 4,
+      "day": 7,
+      "end_day": 7,
+      "year": null,
+      "url": "https://www.who.int/campaigns/world-health-day/"
+    },
+    {
+      "title": "Giornata internazionale del volo spaziale umano",
+      "month": 4,
+      "day": 12,
+      "end_day": 12,
+      "year": null,
+      "url": "https://www.un.org/en/observances/human-spaceflight-day"
+    },
+    {
+      "title": "Giornata mondiale della malattia di Chagas",
+      "month": 4,
+      "day": 14,
+      "end_day": 14,
+      "year": null,
+      "url": "https://www.who.int/campaigns/world-chagas-disease-day"
+    },
+    {
+      "title": "Giornata internazionale del benessere",
+      "month": 4,
+      "day": 15,
+      "end_day": 15,
+      "year": null,
+      "url": "https://www.un.org/en/observances/wellness-day"
+    },
+    {
+      "title": "Giornata della lingua cinese",
+      "month": 4,
+      "day": 20,
+      "end_day": 20,
+      "year": null,
+      "url": "https://www.un.org/zh/observances/chinese-language-day"
+    },
+    {
+      "title": "Giornata mondiale della creatività e dell’innovazione",
+      "month": 4,
+      "day": 21,
+      "end_day": 21,
+      "year": null,
+      "url": "https://www.un.org/en/observances/creativity-and-innovation-day"
+    },
+    {
+      "title": "Giornata internazionale della Madre Terra",
+      "month": 4,
+      "day": 22,
+      "end_day": 22,
+      "year": null,
+      "url": "https://www.un.org/en/observances/earth-day"
+    },
+    {
+      "title": "Giornata mondiale del libro e del diritto d’autore",
+      "month": 4,
+      "day": 23,
+      "end_day": 23,
+      "year": null,
+      "url": "https://www.unesco.org/en/days/world-book-and-copyright"
+    },
+    {
+      "title": "Giornata della lingua inglese",
+      "month": 4,
+      "day": 23,
+      "end_day": 23,
+      "year": null,
+      "url": "https://www.un.org/en/observances/english-language-day"
+    },
+    {
+      "title": "Giornata della lingua spagnola",
+      "month": 4,
+      "day": 23,
+      "end_day": 23,
+      "year": null,
+      "url": "https://www.un.org/es/observances/spanish-language-day"
+    },
+    {
+      "title": "Giornata internazionale delle ragazze nelle TIC",
+      "month": 4,
+      "day": 23,
+      "end_day": 23,
+      "year": 2026,
+      "url": "https://www.itu.int/women-and-girls/girls-in-ict/"
+    },
+    {
+      "title": "Giornata internazionale del multilateralismo e della diplomazia per la pace",
+      "month": 4,
+      "day": 24,
+      "end_day": 24,
+      "year": null,
+      "url": "https://www.un.org/en/observances/Multilateralism-for-Peace-day"
+    },
+    {
+      "title": "Giornata mondiale della malaria",
+      "month": 4,
+      "day": 25,
+      "end_day": 25,
+      "year": null,
+      "url": "https://www.who.int/campaigns/world-malaria-day"
+    },
+    {
+      "title": "Giornata internazionale dei delegati",
+      "month": 4,
+      "day": 25,
+      "end_day": 25,
+      "year": null,
+      "url": "https://www.un.org/en/observances/delegates-day"
+    },
+    {
+      "title": "Giornata internazionale di commemorazione del disastro di Chernobyl",
+      "month": 4,
+      "day": 26,
+      "end_day": 26,
+      "year": null,
+      "url": "https://www.un.org/en/observances/chernobyl-remembrance-day"
+    },
+    {
+      "title": "Giornata mondiale della proprietà intellettuale",
+      "month": 4,
+      "day": 26,
+      "end_day": 26,
+      "year": null,
+      "url": "https://www.wipo.int/ip-outreach/en/ipday/"
+    },
+    {
+      "title": "Giornata mondiale per la sicurezza e la salute sul lavoro",
+      "month": 4,
+      "day": 28,
+      "end_day": 28,
+      "year": null,
+      "url": "https://www.un.org/en/observances/work-safety-day"
+    },
+    {
+      "title": "Giornata internazionale di commemorazione delle vittime dei terremoti",
+      "month": 4,
+      "day": 29,
+      "end_day": 29,
+      "year": null,
+      "url": "https://www.undrr.org/news/new-international-day-protect-against-earthquakes"
+    },
+    {
+      "title": "Giornata internazionale del jazz",
+      "month": 4,
+      "day": 30,
+      "end_day": 30,
+      "year": null,
+      "url": "https://www.un.org/en/observances/jazz-day"
+    },
+    {
+      "title": "Giorno di Vesak",
+      "month": 5,
+      "day": 1,
+      "end_day": 1,
+      "year": 2026,
+      "url": "https://www.un.org/en/observances/vesak-day"
+    },
+    {
+      "title": "Giornata mondiale del tonno",
+      "month": 5,
+      "day": 2,
+      "end_day": 2,
+      "year": null,
+      "url": "https://www.un.org/en/observances/tuna-day"
+    },
+    {
+      "title": "Giornata mondiale della libertà di stampa",
+      "month": 5,
+      "day": 3,
+      "end_day": 3,
+      "year": null,
+      "url": "https://www.un.org/en/observances/press-freedom-day"
+    },
+    {
+      "title": "Giornata mondiale della lingua portoghese",
+      "month": 5,
+      "day": 5,
+      "end_day": 5,
+      "year": null,
+      "url": "https://www.unesco.org/en/days/portuguese-language"
+    },
+    {
+      "title": "Giorni di commemorazione e riconciliazione in onore di coloro che hanno perso la vita durante la Seconda guerra mondiale",
+      "month": 5,
+      "day": 8,
+      "end_day": 9,
+      "year": null,
+      "url": "https://www.un.org/en/observances/second-world-war-remembrance-days"
+    },
+    {
+      "title": "Giornata mondiale degli uccelli migratori",
+      "month": 5,
+      "day": 9,
+      "end_day": 9,
+      "year": 2026,
+      "url": "https://www.worldmigratorybirdday.org"
+    },
+    {
+      "title": "Giornata internazionale dell’argania",
+      "month": 5,
+      "day": 10,
+      "end_day": 10,
+      "year": null,
+      "url": "https://www.un.org/en/observances/argania-day"
+    },
+    {
+      "title": "Giornata internazionale della salute delle piante",
+      "month": 5,
+      "day": 12,
+      "end_day": 12,
+      "year": null,
+      "url": "https://www.fao.org/plant-health-day/en"
+    },
+    {
+      "title": "Giornata internazionale della famiglia",
+      "month": 5,
+      "day": 15,
+      "end_day": 15,
+      "year": null,
+      "url": "https://www.un.org/en/observances/international-day-of-families"
+    },
+    {
+      "title": "Giornata internazionale della luce",
+      "month": 5,
+      "day": 16,
+      "end_day": 16,
+      "year": null,
+      "url": "https://www.unesco.org/en/days/light"
+    },
+    {
+      "title": "Giornata internazionale del vivere insieme in pace",
+      "month": 5,
+      "day": 16,
+      "end_day": 16,
+      "year": null,
+      "url": "https://www.un.org/en/observances/living-in-peace-day"
+    },
+    {
+      "title": "Giornata mondiale delle telecomunicazioni e della società dell’informazione",
+      "month": 5,
+      "day": 17,
+      "end_day": 17,
+      "year": null,
+      "url": "https://www.un.org/en/observances/telecommunication-day"
+    },
+    {
+      "title": "Giornata internazionale contro l’omofobia, la bifobia e la transfobia",
+      "month": 5,
+      "day": 17,
+      "end_day": 17,
+      "year": null,
+      "url": "https://www.unfe.org/"
+    },
+    {
+      "title": "Giornata internazionale delle donne nel settore marittimo",
+      "month": 5,
+      "day": 18,
+      "end_day": 18,
+      "year": null,
+      "url": "https://www.imo.org/en/about/events/pages/international-day-for-women-in-maritime-2026.aspx"
+    },
+    {
+      "title": "Giornata mondiale del fair play",
+      "month": 5,
+      "day": 19,
+      "end_day": 19,
+      "year": null,
+      "url": "https://www.un.org/en/observances/fair-play-day"
+    },
+    {
+      "title": "Giornata mondiale delle api",
+      "month": 5,
+      "day": 20,
+      "end_day": 20,
+      "year": null,
+      "url": "https://www.un.org/en/observances/bee-day"
+    },
+    {
+      "title": "Giornata mondiale della diversità culturale per il dialogo e lo sviluppo",
+      "month": 5,
+      "day": 21,
+      "end_day": 21,
+      "year": null,
+      "url": "https://www.un.org/en/observances/cultural-diversity-day"
+    },
+    {
+      "title": "Giornata internazionale del tè",
+      "month": 5,
+      "day": 21,
+      "end_day": 21,
+      "year": null,
+      "url": "https://www.un.org/en/observances/tea-day"
+    },
+    {
+      "title": "Giornata internazionale per la biodiversità",
+      "month": 5,
+      "day": 22,
+      "end_day": 22,
+      "year": null,
+      "url": "https://www.un.org/en/observances/biological-diversity-day"
+    },
+    {
+      "title": "Giornata internazionale per l’eliminazione delle fistole ostetriche",
+      "month": 5,
+      "day": 23,
+      "end_day": 23,
+      "year": null,
+      "url": "https://www.un.org/en/observances/end-fistula-day"
+    },
+    {
+      "title": "Giornata internazionale del markhor",
+      "month": 5,
+      "day": 24,
+      "end_day": 24,
+      "year": null,
+      "url": "https://www.un.org/en/observances/markhor-day"
+    },
+    {
+      "title": "Giornata mondiale del calcio",
+      "month": 5,
+      "day": 25,
+      "end_day": 25,
+      "year": null,
+      "url": "https://www.un.org/en/observances/football-day"
+    },
+    {
+      "title": "Giornata internazionale dei peacekeeper delle Nazioni Unite",
+      "month": 5,
+      "day": 29,
+      "end_day": 29,
+      "year": null,
+      "url": "https://www.un.org/en/observances/peacekeepers-day"
+    },
+    {
+      "title": "Giornata internazionale della patata",
+      "month": 5,
+      "day": 30,
+      "end_day": 30,
+      "year": null,
+      "url": "https://www.un.org/en/observances/potato-day"
+    },
+    {
+      "title": "Giornata mondiale senza tabacco",
+      "month": 5,
+      "day": 31,
+      "end_day": 31,
+      "year": null,
+      "url": "https://www.who.int/campaigns/world-no-tobacco-day"
+    },
+    {
+      "title": "Giornata mondiale dei genitori",
+      "month": 6,
+      "day": 1,
+      "end_day": 1,
+      "year": null,
+      "url": "https://www.un.org/en/observances/parents-day"
+    },
+    {
+      "title": "Giornata mondiale della bicicletta",
+      "month": 6,
+      "day": 3,
+      "end_day": 3,
+      "year": null,
+      "url": "https://www.un.org/en/observances/bicycle-day"
+    },
+    {
+      "title": "Giornata internazionale dei bambini innocenti vittime di aggressioni",
+      "month": 6,
+      "day": 4,
+      "end_day": 4,
+      "year": null,
+      "url": "https://www.un.org/en/observances/child-victim-day"
+    },
+    {
+      "title": "Giornata mondiale dell’ambiente",
+      "month": 6,
+      "day": 5,
+      "end_day": 5,
+      "year": null,
+      "url": "https://www.un.org/en/observances/environment-day"
+    },
+    {
+      "title": "Giornata internazionale per la lotta contro la pesca illegale, non dichiarata e non regolamentata",
+      "month": 6,
+      "day": 5,
+      "end_day": 5,
+      "year": null,
+      "url": "https://www.un.org/en/observances/end-illegal-fishing-day"
+    },
+    {
+      "title": "Giornata della lingua russa",
+      "month": 6,
+      "day": 6,
+      "end_day": 6,
+      "year": null,
+      "url": "https://www.un.org/ru/observances/russian-language-day"
+    },
+    {
+      "title": "Giornata mondiale della sicurezza alimentare",
+      "month": 6,
+      "day": 7,
+      "end_day": 7,
+      "year": null,
+      "url": "https://www.un.org/en/observances/food-safety-day"
+    },
+    {
+      "title": "Giornata mondiale degli oceani",
+      "month": 6,
+      "day": 8,
+      "end_day": 8,
+      "year": null,
+      "url": "https://www.un.org/en/observances/oceans-day"
+    },
+    {
+      "title": "Giornata internazionale del gioco",
+      "month": 6,
+      "day": 10,
+      "end_day": 10,
+      "year": null,
+      "url": "https://www.un.org/en/observances/international-day-of-play"
+    },
+    {
+      "title": "Giornata internazionale del dialogo tra le civiltà",
+      "month": 6,
+      "day": 10,
+      "end_day": 10,
+      "year": null,
+      "url": "https://www.un.org/en/observances/international-day-for-dialogue-among-civilizations"
+    },
+    {
+      "title": "Giornata mondiale contro il lavoro minorile",
+      "month": 6,
+      "day": 12,
+      "end_day": 12,
+      "year": null,
+      "url": "https://www.un.org/en/observances/world-day-against-child-labour"
+    },
+    {
+      "title": "Giornata internazionale della consapevolezza sull’albinismo",
+      "month": 6,
+      "day": 13,
+      "end_day": 13,
+      "year": null,
+      "url": "https://www.un.org/en/observances/albinism-day"
+    },
+    {
+      "title": "Giornata mondiale del donatore di sangue",
+      "month": 6,
+      "day": 14,
+      "end_day": 14,
+      "year": null,
+      "url": "https://www.who.int/campaigns/world-blood-donor-day"
+    },
+    {
+      "title": "Giornata mondiale della consapevolezza sugli abusi sugli anziani",
+      "month": 6,
+      "day": 15,
+      "end_day": 15,
+      "year": null,
+      "url": "https://www.un.org/en/observances/elder-abuse-awareness-day/"
+    },
+    {
+      "title": "Giornata internazionale delle rimesse familiari",
+      "month": 6,
+      "day": 16,
+      "end_day": 16,
+      "year": null,
+      "url": "https://www.un.org/en/observances/remittances-day"
+    },
+    {
+      "title": "Giornata mondiale per la lotta contro la desertificazione e la siccità",
+      "month": 6,
+      "day": 17,
+      "end_day": 17,
+      "year": null,
+      "url": "https://www.un.org/en/observances/desertification-day"
+    },
+    {
+      "title": "Giornata internazionale per contrastare i discorsi d’odio",
+      "month": 6,
+      "day": 18,
+      "end_day": 18,
+      "year": null,
+      "url": "https://www.un.org/en/observances/countering-hate-speech"
+    },
+    {
+      "title": "Giornata della gastronomia sostenibile",
+      "month": 6,
+      "day": 18,
+      "end_day": 18,
+      "year": null,
+      "url": "https://www.un.org/en/observances/sustainable-gastronomy-day"
+    },
+    {
+      "title": "Giornata internazionale per l’eliminazione della violenza sessuale nei conflitti",
+      "month": 6,
+      "day": 19,
+      "end_day": 19,
+      "year": null,
+      "url": "https://www.un.org/en/observances/end-sexual-violence-in-conflict-day"
+    },
+    {
+      "title": "Giornata mondiale del rifugiato",
+      "month": 6,
+      "day": 20,
+      "end_day": 20,
+      "year": null,
+      "url": "https://www.un.org/en/observances/refugee-day"
+    },
+    {
+      "title": "Giornata internazionale dello yoga",
+      "month": 6,
+      "day": 21,
+      "end_day": 21,
+      "year": null,
+      "url": "https://www.un.org/en/observances/yoga-day"
+    },
+    {
+      "title": "Giornata internazionale della celebrazione del solstizio",
+      "month": 6,
+      "day": 21,
+      "end_day": 21,
+      "year": null,
+      "url": "https://www.un.org/en/observances/solstice-day"
+    },
+    {
+      "title": "Giornata delle Nazioni Unite per il servizio pubblico",
+      "month": 6,
+      "day": 23,
+      "end_day": 23,
+      "year": null,
+      "url": "https://www.un.org/en/observances/public-service-day"
+    },
+    {
+      "title": "Giornata internazionale delle vedove",
+      "month": 6,
+      "day": 23,
+      "end_day": 23,
+      "year": null,
+      "url": "https://www.un.org/en/observances/widows-day"
+    },
+    {
+      "title": "Giornata internazionale delle donne nella diplomazia",
+      "month": 6,
+      "day": 24,
+      "end_day": 24,
+      "year": null,
+      "url": "https://www.un.org/en/observances/women-in-diplomacy-day"
+    },
+    {
+      "title": "Giornata della gente di mare",
+      "month": 6,
+      "day": 25,
+      "end_day": 25,
+      "year": null,
+      "url": "https://www.imo.org/en/about/events/pages/day-of-the-seafarer-2026.aspx"
+    },
+    {
+      "title": "Giornata internazionale contro l’abuso di droga e il traffico illecito",
+      "month": 6,
+      "day": 26,
+      "end_day": 26,
+      "year": null,
+      "url": "https://www.un.org/en/observances/end-drug-abuse-day"
+    },
+    {
+      "title": "Giornata internazionale a sostegno delle vittime della tortura",
+      "month": 6,
+      "day": 26,
+      "end_day": 26,
+      "year": null,
+      "url": "https://www.un.org/en/observances/torture-victims-day"
+    },
+    {
+      "title": "Giornata internazionale della sordocecità",
+      "month": 6,
+      "day": 27,
+      "end_day": 27,
+      "year": null,
+      "url": "https://www.un.org/en/observances/deafblindness-day"
+    },
+    {
+      "title": "Giornata delle micro, piccole e medie imprese",
+      "month": 6,
+      "day": 27,
+      "end_day": 27,
+      "year": null,
+      "url": "https://www.un.org/en/observances/micro-small-medium-businesses-day"
+    },
+    {
+      "title": "Giornata internazionale dei tropici",
+      "month": 6,
+      "day": 29,
+      "end_day": 29,
+      "year": null,
+      "url": "https://www.un.org/en/observances/tropics-day"
+    },
+    {
+      "title": "Giornata internazionale degli asteroidi",
+      "month": 6,
+      "day": 30,
+      "end_day": 30,
+      "year": null,
+      "url": "https://www.un.org/en/observances/asteroid-day"
+    },
+    {
+      "title": "Giornata internazionale del parlamentarismo",
+      "month": 6,
+      "day": 30,
+      "end_day": 30,
+      "year": null,
+      "url": "https://www.un.org/en/observances/parliamentarism-day"
+    },
+    {
+      "title": "Giornata internazionale delle cooperative",
+      "month": 7,
+      "day": 4,
+      "end_day": 4,
+      "year": 2026,
+      "url": "https://www.un.org/en/observances/cooperatives-day"
+    },
+    {
+      "title": "Giornata mondiale dello sviluppo rurale",
+      "month": 7,
+      "day": 6,
+      "end_day": 6,
+      "year": null,
+      "url": "https://www.un.org/en/observances/rural-development-day"
+    },
+    {
+      "title": "Giornata mondiale della lingua kiswahili",
+      "month": 7,
+      "day": 7,
+      "end_day": 7,
+      "year": null,
+      "url": "https://www.unesco.org/en/days/kiswahili-language"
+    },
+    {
+      "title": "Giornata mondiale del cavallo",
+      "month": 7,
+      "day": 11,
+      "end_day": 11,
+      "year": null,
+      "url": "https://www.un.org/en/observances/horse-day"
+    },
+    {
+      "title": "Giornata mondiale della popolazione",
+      "month": 7,
+      "day": 11,
+      "end_day": 11,
+      "year": null,
+      "url": "https://www.un.org/en/observances/world-population-day"
+    },
+    {
+      "title": "Giornata internazionale di riflessione e commemorazione del genocidio del 1995 a Srebrenica",
+      "month": 7,
+      "day": 11,
+      "end_day": 11,
+      "year": null,
+      "url": "https://www.un.org/en/observances/srebrenica-genocide-commemoration-day"
+    },
+    {
+      "title": "Giornata internazionale per la lotta contro le tempeste di sabbia e polvere",
+      "month": 7,
+      "day": 12,
+      "end_day": 12,
+      "year": null,
+      "url": "https://www.un.org/en/observances/day-of-combating-sand-and-dust-storms"
+    },
+    {
+      "title": "Giornata internazionale della speranza",
+      "month": 7,
+      "day": 12,
+      "end_day": 12,
+      "year": null,
+      "url": "https://www.un.org/en/observances/hope-day"
+    },
+    {
+      "title": "Giornata mondiale delle competenze giovanili",
+      "month": 7,
+      "day": 15,
+      "end_day": 15,
+      "year": null,
+      "url": "https://www.un.org/en/observances/world-youth-skills-day"
+    },
+    {
+      "title": "Giornata internazionale Nelson Mandela",
+      "month": 7,
+      "day": 18,
+      "end_day": 18,
+      "year": null,
+      "url": "https://www.unesco.org/en/days/nelson-mandela"
+    },
+    {
+      "title": "Giornata internazionale della Luna",
+      "month": 7,
+      "day": 20,
+      "end_day": 20,
+      "year": null,
+      "url": "https://www.un.org/en/observances/moon-day"
+    },
+    {
+      "title": "Giornata internazionale degli scacchi",
+      "month": 7,
+      "day": 20,
+      "end_day": 20,
+      "year": null,
+      "url": "https://www.un.org/en/observances/world-chess-day"
+    },
+    {
+      "title": "Giornata mondiale per la prevenzione dell’annegamento",
+      "month": 7,
+      "day": 25,
+      "end_day": 25,
+      "year": null,
+      "url": "https://www.un.org/en/observances/drowning-prevention-day"
+    },
+    {
+      "title": "Giornata internazionale per il benessere giudiziario",
+      "month": 7,
+      "day": 25,
+      "end_day": 25,
+      "year": null,
+      "url": "https://www.un.org/en/observances/judicial-well-being-day"
+    },
+    {
+      "title": "Giornata internazionale delle donne e ragazze di discendenza africana",
+      "month": 7,
+      "day": 25,
+      "end_day": 25,
+      "year": null,
+      "url": "https://www.un.org/en/observances/women-girls-african-descent"
+    },
+    {
+      "title": "Giornata mondiale contro l’epatite",
+      "month": 7,
+      "day": 28,
+      "end_day": 28,
+      "year": null,
+      "url": "https://www.who.int/campaigns/world-hepatitis-day/"
+    },
+    {
+      "title": "Giornata internazionale dell’amicizia",
+      "month": 7,
+      "day": 30,
+      "end_day": 30,
+      "year": null,
+      "url": "https://www.un.org/en/observances/friendship-day"
+    },
+    {
+      "title": "Giornata mondiale contro la tratta di esseri umani",
+      "month": 7,
+      "day": 30,
+      "end_day": 30,
+      "year": null,
+      "url": "https://www.un.org/en/observances/end-human-trafficking-day"
+    },
+    {
+      "title": "Giornata internazionale di sensibilizzazione sui bisogni e le sfide specifiche di sviluppo dei Paesi in via di sviluppo senza sbocco sul mare",
+      "month": 8,
+      "day": 6,
+      "end_day": 6,
+      "year": null,
+      "url": "https://www.un.org/en/observances/landlocked-developing-countries-day"
+    },
+    {
+      "title": "Giornata internazionale dei popoli indigeni",
+      "month": 8,
+      "day": 9,
+      "end_day": 9,
+      "year": null,
+      "url": "https://www.un.org/en/observances/indigenous-day"
+    },
+    {
+      "title": "Giornata mondiale dello steelpan",
+      "month": 8,
+      "day": 11,
+      "end_day": 11,
+      "year": null,
+      "url": "https://www.un.org/en/observances/steelpan-day"
+    },
+    {
+      "title": "Giornata internazionale della gioventù",
+      "month": 8,
+      "day": 12,
+      "end_day": 12,
+      "year": null,
+      "url": "https://www.un.org/en/observances/youth-day"
+    },
+    {
+      "title": "Giornata mondiale dell’assistenza umanitaria",
+      "month": 8,
+      "day": 19,
+      "end_day": 19,
+      "year": null,
+      "url": "https://www.un.org/en/observances/humanitarian-day"
+    },
+    {
+      "title": "Giornata internazionale di commemorazione e omaggio alle vittime del terrorismo",
+      "month": 8,
+      "day": 21,
+      "end_day": 21,
+      "year": null,
+      "url": "https://www.un.org/en/observances/terrorism-victims-day"
+    },
+    {
+      "title": "Giornata internazionale di commemorazione delle vittime di atti di violenza basati sulla religione o sul credo",
+      "month": 8,
+      "day": 22,
+      "end_day": 22,
+      "year": null,
+      "url": "https://www.un.org/en/observances/religious-based-violence-victims-day"
+    },
+    {
+      "title": "Giornata internazionale in ricordo della tratta degli schiavi e della sua abolizione",
+      "month": 8,
+      "day": 23,
+      "end_day": 23,
+      "year": null,
+      "url": "https://unesdoc.unesco.org/images/0011/001102/110220e.pdf#page=72"
+    },
+    {
+      "title": "Giornata mondiale dei laghi",
+      "month": 8,
+      "day": 27,
+      "end_day": 27,
+      "year": null,
+      "url": "https://www.un.org/en/observances/world-lake-day"
+    },
+    {
+      "title": "Giornata internazionale contro i test nucleari",
+      "month": 8,
+      "day": 29,
+      "end_day": 29,
+      "year": null,
+      "url": "https://www.un.org/en/observances/end-nuclear-tests-day"
+    },
+    {
+      "title": "Giornata internazionale delle vittime di sparizioni forzate",
+      "month": 8,
+      "day": 30,
+      "end_day": 30,
+      "year": null,
+      "url": "https://www.un.org/en/observances/victims-enforced-disappearance"
+    },
+    {
+      "title": "Giornata internazionale delle persone di discendenza africana",
+      "month": 8,
+      "day": 31,
+      "end_day": 31,
+      "year": null,
+      "url": "https://www.un.org/en/observances/african-descent-day"
+    },
+    {
+      "title": "Giornata internazionale della carità",
+      "month": 9,
+      "day": 5,
+      "end_day": 5,
+      "year": null,
+      "url": "https://www.un.org/en/observances/charity-day"
+    },
+    {
+      "title": "Giornata internazionale delle donne e ragazze indigene del mondo",
+      "month": 9,
+      "day": 5,
+      "end_day": 5,
+      "year": null,
+      "url": "https://www.un.org/en/observances/indigenous-women-day"
+    },
+    {
+      "title": "Giornata mondiale della consapevolezza sulla distrofia muscolare di Duchenne",
+      "month": 9,
+      "day": 7,
+      "end_day": 7,
+      "year": null,
+      "url": "https://www.un.org/en/observances/duchenne-awareness-day"
+    },
+    {
+      "title": "Giornata internazionale della cooperazione di polizia",
+      "month": 9,
+      "day": 7,
+      "end_day": 7,
+      "year": null,
+      "url": "https://www.un.org/en/observances/police-cooperation-day/"
+    },
+    {
+      "title": "Giornata internazionale dell’aria pulita per cieli blu",
+      "month": 9,
+      "day": 7,
+      "end_day": 7,
+      "year": null,
+      "url": "https://www.un.org/en/observances/clean-air-day"
+    },
+    {
+      "title": "Giornata internazionale dell’alfabetizzazione",
+      "month": 9,
+      "day": 8,
+      "end_day": 8,
+      "year": null,
+      "url": "https://www.unesco.org/en/days/literacy"
+    },
+    {
+      "title": "Giornata internazionale per la protezione dell’istruzione dagli attacchi",
+      "month": 9,
+      "day": 9,
+      "end_day": 9,
+      "year": null,
+      "url": "https://www.un.org/en/observances/protect-education-day"
+    },
+    {
+      "title": "Giornata mondiale per la prevenzione del suicidio",
+      "month": 9,
+      "day": 10,
+      "end_day": 10,
+      "year": null,
+      "url": "https://www.who.int/campaigns/world-suicide-prevention-day"
+    },
+    {
+      "title": "Giornata delle Nazioni Unite per la cooperazione Sud-Sud",
+      "month": 9,
+      "day": 12,
+      "end_day": 12,
+      "year": null,
+      "url": "https://www.un.org/en/observances/south-south-cooperation-day"
+    },
+    {
+      "title": "Giornata internazionale della democrazia",
+      "month": 9,
+      "day": 15,
+      "end_day": 15,
+      "year": null,
+      "url": "https://www.un.org/en/observances/democracy-day"
+    },
+    {
+      "title": "Giornata internazionale della scienza, della tecnologia e dell’innovazione per il Sud",
+      "month": 9,
+      "day": 16,
+      "end_day": 16,
+      "year": null,
+      "url": "https://www.un.org/en/observances/science-technology-and-innovation-for-south-day"
+    },
+    {
+      "title": "Giornata internazionale per la preservazione dello strato di ozono",
+      "month": 9,
+      "day": 16,
+      "end_day": 16,
+      "year": null,
+      "url": "https://www.un.org/en/observances/ozone-day"
+    },
+    {
+      "title": "Giornata internazionale della cardiologia interventistica",
+      "month": 9,
+      "day": 16,
+      "end_day": 16,
+      "year": null,
+      "url": "https://www.un.org/en/observances/interventional-cardiology-day"
+    },
+    {
+      "title": "Giornata mondiale della sicurezza del paziente",
+      "month": 9,
+      "day": 17,
+      "end_day": 17,
+      "year": null,
+      "url": "https://www.who.int/campaigns/world-patient-safety-day/"
+    },
+    {
+      "title": "Giornata internazionale della parità retributiva",
+      "month": 9,
+      "day": 18,
+      "end_day": 18,
+      "year": null,
+      "url": "https://www.un.org/en/observances/equal-pay-day"
+    },
+    {
+      "title": "Giornata mondiale della pulizia",
+      "month": 9,
+      "day": 20,
+      "end_day": 20,
+      "year": null,
+      "url": "https://www.un.org/en/observances/cleanup-day"
+    },
+    {
+      "title": "Giornata internazionale della pace",
+      "month": 9,
+      "day": 21,
+      "end_day": 21,
+      "year": null,
+      "url": "https://www.un.org/en/observances/international-day-peace"
+    },
+    {
+      "title": "Giornata internazionale delle lingue dei segni",
+      "month": 9,
+      "day": 23,
+      "end_day": 23,
+      "year": null,
+      "url": "https://www.un.org/en/observances/sign-languages-day"
+    },
+    {
+      "title": "Giornata mondiale del mare",
+      "month": 9,
+      "day": 24,
+      "end_day": 24,
+      "year": 2026,
+      "url": "https://www.un.org/en/observances/maritime-day"
+    },
+    {
+      "title": "Giornata internazionale per l’eliminazione totale delle armi nucleari",
+      "month": 9,
+      "day": 26,
+      "end_day": 26,
+      "year": null,
+      "url": "https://www.un.org/en/observances/nuclear-weapons-elimination-day"
+    },
+    {
+      "title": "Giornata mondiale del turismo",
+      "month": 9,
+      "day": 27,
+      "end_day": 27,
+      "year": null,
+      "url": "https://www.un.org/en/observances/tourism-day"
+    },
+    {
+      "title": "Giornata internazionale per l’accesso universale all’informazione",
+      "month": 9,
+      "day": 28,
+      "end_day": 28,
+      "year": null,
+      "url": "https://www.un.org/en/observances/information-access-day"
+    },
+    {
+      "title": "Giornata mondiale contro la rabbia",
+      "month": 9,
+      "day": 28,
+      "end_day": 28,
+      "year": null,
+      "url": "https://www.who.int/campaigns/world-rabies-day"
+    },
+    {
+      "title": "Giornata internazionale della consapevolezza sulle perdite e gli sprechi alimentari",
+      "month": 9,
+      "day": 29,
+      "end_day": 29,
+      "year": null,
+      "url": "https://www.un.org/en/observances/end-food-waste-day/"
+    },
+    {
+      "title": "Giornata internazionale della traduzione",
+      "month": 9,
+      "day": 30,
+      "end_day": 30,
+      "year": null,
+      "url": "https://www.un.org/en/observances/international-translation-day"
+    },
+    {
+      "title": "Giornata internazionale delle persone anziane",
+      "month": 10,
+      "day": 1,
+      "end_day": 1,
+      "year": null,
+      "url": "https://www.un.org/en/observances/older-persons-day"
+    },
+    {
+      "title": "Giornata internazionale del caffè",
+      "month": 10,
+      "day": 1,
+      "end_day": 1,
+      "year": null,
+      "url": "https://www.fao.org/newsroom/detail/fao-welcomes-un-resolution-instituting-international-coffee-day/en"
+    },
+    {
+      "title": "Giornata internazionale della nonviolenza",
+      "month": 10,
+      "day": 2,
+      "end_day": 2,
+      "year": null,
+      "url": "https://www.un.org/en/observances/non-violence-day"
+    },
+    {
+      "title": "Giornata mondiale dell’habitat",
+      "month": 10,
+      "day": 5,
+      "end_day": 5,
+      "year": 2026,
+      "url": "https://www.un.org/en/observances/habitat-day"
+    },
+    {
+      "title": "Giornata mondiale degli insegnanti",
+      "month": 10,
+      "day": 5,
+      "end_day": 5,
+      "year": null,
+      "url": "https://www.un.org/en/observances/habitat-day"
+    },
+    {
+      "title": "Giornata mondiale del cotone",
+      "month": 10,
+      "day": 7,
+      "end_day": 7,
+      "year": null,
+      "url": "https://www.un.org/en/observances/cotton-day"
+    },
+    {
+      "title": "Giornata mondiale della posta",
+      "month": 10,
+      "day": 9,
+      "end_day": 9,
+      "year": null,
+      "url": "https://www.un.org/en/observances/world-post-day"
+    },
+    {
+      "title": "Giornata mondiale della salute mentale",
+      "month": 10,
+      "day": 10,
+      "end_day": 10,
+      "year": null,
+      "url": "https://www.who.int/campaigns/world-mental-health-day"
+    },
+    {
+      "title": "Giornata mondiale degli uccelli migratori",
+      "month": 10,
+      "day": 10,
+      "end_day": 10,
+      "year": 2026,
+      "url": "https://www.worldmigratorybirdday.org"
+    },
+    {
+      "title": "Giornata internazionale delle bambine",
+      "month": 10,
+      "day": 11,
+      "end_day": 11,
+      "year": null,
+      "url": "https://www.un.org/en/observances/girl-child-day"
+    },
+    {
+      "title": "Giornata internazionale per la riduzione del rischio di catastrofi",
+      "month": 10,
+      "day": 13,
+      "end_day": 13,
+      "year": null,
+      "url": "https://www.un.org/en/observances/disaster-reduction-day"
+    },
+    {
+      "title": "Giornata internazionale delle donne rurali",
+      "month": 10,
+      "day": 15,
+      "end_day": 15,
+      "year": null,
+      "url": "https://www.un.org/en/observances/rural-women-day"
+    },
+    {
+      "title": "Giornata mondiale dell’alimentazione",
+      "month": 10,
+      "day": 16,
+      "end_day": 16,
+      "year": null,
+      "url": "https://www.fao.org/world-food-day/"
+    },
+    {
+      "title": "Giornata internazionale per l’eliminazione della povertà",
+      "month": 10,
+      "day": 17,
+      "end_day": 17,
+      "year": null,
+      "url": "https://www.un.org/en/observances/day-for-eradicating-poverty"
+    },
+    {
+      "title": "Giornata mondiale della statistica",
+      "month": 10,
+      "day": 20,
+      "end_day": 20,
+      "year": 2030,
+      "url": "https://www.un.org/en/observances/statistics-day"
+    },
+    {
+      "title": "Giornata internazionale del leopardo delle nevi",
+      "month": 10,
+      "day": 23,
+      "end_day": 23,
+      "year": null,
+      "url": "https://www.un.org/en/observances/snow-leopard-day"
+    },
+    {
+      "title": "Giornata delle Nazioni Unite",
+      "month": 10,
+      "day": 24,
+      "end_day": 24,
+      "year": null,
+      "url": "https://www.un.org/en/observances/un-day"
+    },
+    {
+      "title": "Giornata mondiale dell’informazione sullo sviluppo",
+      "month": 10,
+      "day": 24,
+      "end_day": 24,
+      "year": null,
+      "url": "https://www.un.org/en/observances/development-information-day"
+    },
+    {
+      "title": "Giornata mondiale del patrimonio audiovisivo",
+      "month": 10,
+      "day": 27,
+      "end_day": 27,
+      "year": null,
+      "url": "https://www.unesco.org/en/days/audiovisual-heritage"
+    },
+    {
+      "title": "Giornata internazionale della cura e del supporto",
+      "month": 10,
+      "day": 29,
+      "end_day": 29,
+      "year": null,
+      "url": "https://www.un.org/en/observances/care-and-support-day"
+    },
+    {
+      "title": "Giornata mondiale delle città",
+      "month": 10,
+      "day": 31,
+      "end_day": 31,
+      "year": null,
+      "url": "https://www.un.org/en/observances/cities-day"
+    },
+    {
+      "title": "Giornata internazionale per porre fine all’impunità per i crimini contro i giornalisti",
+      "month": 11,
+      "day": 2,
+      "end_day": 2,
+      "year": null,
+      "url": "https://www.un.org/en/observances/end-impunity-crimes-against-journalists"
+    },
+    {
+      "title": "Giornata mondiale della consapevolezza sugli tsunami",
+      "month": 11,
+      "day": 5,
+      "end_day": 5,
+      "year": null,
+      "url": "https://www.un.org/en/observances/tsunami-awareness-day"
+    },
+    {
+      "title": "Giornata internazionale per la prevenzione dello sfruttamento dell’ambiente in guerra e nei conflitti armati",
+      "month": 11,
+      "day": 6,
+      "end_day": 6,
+      "year": null,
+      "url": "https://www.un.org/en/observances/environment-in-war-protection-day"
+    },
+    {
+      "title": "Giornata mondiale della scienza per la pace e lo sviluppo",
+      "month": 11,
+      "day": 10,
+      "end_day": 10,
+      "year": null,
+      "url": "https://www.un.org/en/observances/world-science-day"
+    },
+    {
+      "title": "Giornata mondiale del diabete",
+      "month": 11,
+      "day": 14,
+      "end_day": 14,
+      "year": null,
+      "url": "https://www.un.org/en/observances/diabetes-day"
+    },
+    {
+      "title": "Giornata internazionale per la prevenzione e la lotta contro tutte le forme di criminalità organizzata transnazionale",
+      "month": 11,
+      "day": 15,
+      "end_day": 15,
+      "year": null,
+      "url": "https://www.un.org/en/observances/fight-against-transnational-crime-day"
+    },
+    {
+      "title": "Giornata mondiale in ricordo delle vittime della strada",
+      "month": 11,
+      "day": 15,
+      "end_day": 15,
+      "year": 2026,
+      "url": "https://www.un.org/en/observances/road-traffic-victims-day"
+    },
+    {
+      "title": "Giornata internazionale della tolleranza",
+      "month": 11,
+      "day": 16,
+      "end_day": 16,
+      "year": null,
+      "url": "https://www.unesco.org/en/days/tolerance"
+    },
+    {
+      "title": "Giornata internazionale della dieta mediterranea",
+      "month": 11,
+      "day": 16,
+      "end_day": 16,
+      "year": null,
+      "url": "https://www.fao.org/newsroom/detail/fao-welcomes-un-s-decision-to-establish-an-international-day-for-the-mediterranean-diet/en"
+    },
+    {
+      "title": "Giornata mondiale per la prevenzione e la guarigione dallo sfruttamento, dagli abusi e dalla violenza sessuale sui minori",
+      "month": 11,
+      "day": 18,
+      "end_day": 18,
+      "year": null,
+      "url": "https://www.un.org/en/observances/child-sexual-exploitation-prevention-and-healing-day"
+    },
+    {
+      "title": "Giornata mondiale della toilette",
+      "month": 11,
+      "day": 19,
+      "end_day": 19,
+      "year": null,
+      "url": "https://www.un.org/en/observances/toilet-day"
+    },
+    {
+      "title": "Giornata mondiale della filosofia",
+      "month": 11,
+      "day": 19,
+      "end_day": 19,
+      "year": 2026,
+      "url": "https://www.unesco.org/en/days/philosophy"
+    },
+    {
+      "title": "Giornata dell’industrializzazione dell’Africa",
+      "month": 11,
+      "day": 20,
+      "end_day": 20,
+      "year": null,
+      "url": "https://www.un.org/en/observances/africa-industrialization-day"
+    },
+    {
+      "title": "Giornata mondiale dell’infanzia",
+      "month": 11,
+      "day": 20,
+      "end_day": 20,
+      "year": null,
+      "url": "https://www.un.org/en/observances/world-childrens-day"
+    },
+    {
+      "title": "Giornata mondiale della televisione",
+      "month": 11,
+      "day": 21,
+      "end_day": 21,
+      "year": null,
+      "url": "https://www.un.org/en/observances/world-television-day"
+    },
+    {
+      "title": "Giornata mondiale dei gemelli siamesi",
+      "month": 11,
+      "day": 24,
+      "end_day": 24,
+      "year": null,
+      "url": "https://www.un.org/en/observances/conjoined-twins-day"
+    },
+    {
+      "title": "Giornata internazionale per l’eliminazione della violenza contro le donne",
+      "month": 11,
+      "day": 25,
+      "end_day": 25,
+      "year": null,
+      "url": "https://www.un.org/en/observances/ending-violence-against-women-day"
+    },
+    {
+      "title": "Giornata mondiale del trasporto sostenibile",
+      "month": 11,
+      "day": 26,
+      "end_day": 26,
+      "year": null,
+      "url": "https://www.un.org/en/observances/sustainable-transport-day"
+    },
+    {
+      "title": "Giornata internazionale di solidarietà con il popolo palestinese",
+      "month": 11,
+      "day": 29,
+      "end_day": 29,
+      "year": null,
+      "url": "https://www.un.org/en/observances/international-day-of-solidarity-with-the-palestinian-people"
+    },
+    {
+      "title": "Giornata di commemorazione di tutte le vittime della guerra chimica",
+      "month": 11,
+      "day": 30,
+      "end_day": 30,
+      "year": null,
+      "url": "https://www.un.org/en/observances/chemical-warfare-victims-day"
+    },
+    {
+      "title": "Giornata mondiale contro l’AIDS",
+      "month": 12,
+      "day": 1,
+      "end_day": 1,
+      "year": null,
+      "url": "https://www.un.org/en/observances/world-aids-day"
+    },
+    {
+      "title": "Giornata internazionale per l’abolizione della schiavitù",
+      "month": 12,
+      "day": 2,
+      "end_day": 2,
+      "year": null,
+      "url": "https://www.un.org/en/observances/slavery-abolition-day"
+    },
+    {
+      "title": "Giornata internazionale delle persone con disabilità",
+      "month": 12,
+      "day": 3,
+      "end_day": 3,
+      "year": null,
+      "url": "https://www.un.org/en/observances/day-of-persons-with-disabilities"
+    },
+    {
+      "title": "Giornata internazionale delle banche",
+      "month": 12,
+      "day": 4,
+      "end_day": 4,
+      "year": null,
+      "url": "https://www.un.org/en/observances/international-day-of-banks"
+    },
+    {
+      "title": "Giornata internazionale contro le misure coercitive unilaterali",
+      "month": 12,
+      "day": 4,
+      "end_day": 4,
+      "year": null,
+      "url": "https://www.un.org/en/observances/day-against-unilateral-coercive-measures"
+    },
+    {
+      "title": "Giornata internazionale del volontariato per lo sviluppo economico e sociale",
+      "month": 12,
+      "day": 5,
+      "end_day": 5,
+      "year": null,
+      "url": "https://www.un.org/en/observances/volunteer-day"
+    },
+    {
+      "title": "Giornata mondiale del suolo",
+      "month": 12,
+      "day": 5,
+      "end_day": 5,
+      "year": null,
+      "url": "https://www.un.org/en/observances/world-soil-day"
+    },
+    {
+      "title": "Giornata internazionale dell’aviazione civile",
+      "month": 12,
+      "day": 7,
+      "end_day": 7,
+      "year": null,
+      "url": "https://www.un.org/en/observances/civil-aviation-day"
+    },
+    {
+      "title": "Giornata internazionale di commemorazione e dignità delle vittime del genocidio e di prevenzione di questo crimine",
+      "month": 12,
+      "day": 9,
+      "end_day": 9,
+      "year": null,
+      "url": "https://www.un.org/en/observances/genocide-prevention-day"
+    },
+    {
+      "title": "Giornata internazionale contro la corruzione",
+      "month": 12,
+      "day": 9,
+      "end_day": 9,
+      "year": null,
+      "url": "https://www.un.org/en/observances/anti-corruption-day"
+    },
+    {
+      "title": "Giornata dei diritti umani",
+      "month": 12,
+      "day": 10,
+      "end_day": 10,
+      "year": null,
+      "url": "https://www.un.org/en/observances/human-rights-day"
+    },
+    {
+      "title": "Giornata internazionale della montagna",
+      "month": 12,
+      "day": 11,
+      "end_day": 11,
+      "year": null,
+      "url": "https://www.un.org/en/observances/mountain-day"
+    },
+    {
+      "title": "Giornata internazionale della neutralità",
+      "month": 12,
+      "day": 12,
+      "end_day": 12,
+      "year": null,
+      "url": "https://www.un.org/en/observances/neutrality-day"
+    },
+    {
+      "title": "Giornata internazionale della copertura sanitaria universale",
+      "month": 12,
+      "day": 12,
+      "end_day": 12,
+      "year": null,
+      "url": "https://www.un.org/en/observances/universal-health-coverage-day"
+    },
+    {
+      "title": "Giornata internazionale contro il colonialismo in tutte le sue forme e manifestazioni",
+      "month": 12,
+      "day": 14,
+      "end_day": 14,
+      "year": null,
+      "url": "https://www.un.org/en/observances/anti-colonialism-day"
+    },
+    {
+      "title": "Giornata mondiale della famiglia delle lingue turche [UNESCO]",
+      "month": 12,
+      "day": 15,
+      "end_day": 15,
+      "year": null,
+      "url": "https://unesdoc.unesco.org/ark:/48223/pf0000396088"
+    },
+    {
+      "title": "Giornata internazionale dei migranti",
+      "month": 12,
+      "day": 18,
+      "end_day": 18,
+      "year": null,
+      "url": "https://www.un.org/en/observances/migrants-day"
+    },
+    {
+      "title": "Giornata della lingua araba",
+      "month": 12,
+      "day": 18,
+      "end_day": 18,
+      "year": null,
+      "url": "https://www.unesco.org/en/days/world-arabic-language"
+    },
+    {
+      "title": "Giornata internazionale della solidarietà umana",
+      "month": 12,
+      "day": 20,
+      "end_day": 20,
+      "year": null,
+      "url": "https://www.un.org/en/observances/human-solidarity-day"
+    },
+    {
+      "title": "Giornata mondiale del basket",
+      "month": 12,
+      "day": 21,
+      "end_day": 21,
+      "year": null,
+      "url": "https://www.un.org/en/observances/world-basketball-day"
+    },
+    {
+      "title": "Giornata mondiale della meditazione",
+      "month": 12,
+      "day": 21,
+      "end_day": 21,
+      "year": null,
+      "url": "https://www.un.org/en/observances/meditation-day"
+    },
+    {
+      "title": "Giornata internazionale contro la criminalità informatica",
+      "month": 12,
+      "day": 24,
+      "end_day": 24,
+      "year": null,
+      "url": "https://www.unodc.org/unodc/en/cybercrime/day.html"
+    },
+    {
+      "title": "Giornata internazionale della preparazione alle epidemie",
+      "month": 12,
+      "day": 27,
+      "end_day": 27,
+      "year": null,
+      "url": "https://www.un.org/en/observances/epidemic-preparedness-day"
+    }
+  ],
+  "days": {
+    "2026-10-01": {
+      "saints": [
+        {
+          "title": "Santa Teresa di Gesù Bambino, vergine carmelitana, dottore della Chiesa, patrona delle Missioni",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/01/santa-teresa-di-gesu-bambino--vergine-carmelitana--dottore-della.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata internazionale delle persone anziane",
+          "url": "https://www.un.org/en/observances/older-persons-day"
+        },
+        {
+          "title": "Giornata internazionale del caffè",
+          "url": "https://www.fao.org/newsroom/detail/fao-welcomes-un-resolution-instituting-international-coffee-day/en"
+        }
+      ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-10-02": {
+      "saints": [
+        {
+          "title": "Ss. Angeli custodi",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/02/ss--angeli-custodi.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata internazionale della nonviolenza",
+          "url": "https://www.un.org/en/observances/non-violence-day"
+        }
+      ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-10-03": {
+      "saints": [
+        {
+          "title": "Santa Candida, martire sulla via Portuense",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/03/santa-candida--martire-sulla-via-portuense.html"
+        }
+      ],
+      "un": [],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-10-04": {
+      "saints": [
+        {
+          "title": "San Francesco d'Assisi",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/04/san-francesco-d-assisi.html"
+        }
+      ],
+      "un": [],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-10-05": {
+      "saints": [
+        {
+          "title": "Ss. Placido e Mauro, discepoli di San Benedetto",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/05.html"
+        },
+        {
+          "title": "Santa Faustina Kowalska",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/05/santa-faustina-kowalska.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata mondiale dell’habitat",
+          "url": "https://www.un.org/en/observances/habitat-day"
+        },
+        {
+          "title": "Giornata mondiale degli insegnanti",
+          "url": "https://www.un.org/en/observances/habitat-day"
+        }
+      ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-10-06": {
+      "saints": [
+        {
+          "title": "San Bruno di Calabria, sacerdote, fondatore dei Certosini",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/06/san-bruno-di-calabria--sacerdote--fondatore-dei-certosini.html"
+        },
+        {
+          "title": "Santa Maria Francesca delle cinque piaghe, vergine francescana",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/06.html"
+        }
+      ],
+      "un": [],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-10-07": {
+      "saints": [
+        {
+          "title": "San Marco, papa",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/07.html"
+        },
+        {
+          "title": "Ss. Sergio e Bacco, martiri",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/07.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata mondiale del cotone",
+          "url": "https://www.un.org/en/observances/cotton-day"
+        }
+      ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-10-08": {
+      "saints": [
+        {
+          "title": "Santa Pelagia, vergine e martire di Antiochia",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/08/santa-pelagia--vergine-e-martire-di-antiochia.html"
+        }
+      ],
+      "un": [],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-10-09": {
+      "saints": [
+        {
+          "title": "Ss. Dionigi, vescovo, e compagni, martiri di Parigi",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/09/ss--dionigi--vescovo--e-compagni--martiri-di-parigi.html"
+        },
+        {
+          "title": "San Giovanni Leonardi, fondatore dei Chierici Regolari della Madre di Dio",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/09/san-giovanni-leonardi--fondatore-dei-chierici-regolari-della-mad.html"
+        },
+        {
+          "title": "Sant'Abramo, patriarca",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/09/sant-abramo--patriarca.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata mondiale della posta",
+          "url": "https://www.un.org/en/observances/world-post-day"
+        }
+      ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-10-10": {
+      "saints": [
+        {
+          "title": "San Paolino, vescovo di York, discepolo di San Gregorio Magno",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/10/san-paolino--vescovo-di-york--discepolo-di-san-gregorio-magno.html"
+        },
+        {
+          "title": "Santi Daniele, Samuele e Compagni, primi martiri francescani",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/10.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata mondiale della salute mentale",
+          "url": "https://www.who.int/campaigns/world-mental-health-day"
+        },
+        {
+          "title": "Giornata mondiale degli uccelli migratori",
+          "url": "https://www.worldmigratorybirdday.org"
+        }
+      ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-10-11": {
+      "saints": [
+        {
+          "title": "San Filippo, diacono",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/11.html"
+        },
+        {
+          "title": "Sant'Alessandro Sauli, vescovo di Pavia",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/11.html"
+        },
+        {
+          "title": "San Giovanni XXIII, papa",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/11/san-giovanni-xxiii--papa.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata internazionale delle bambine",
+          "url": "https://www.un.org/en/observances/girl-child-day"
+        }
+      ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-10-12": {
+      "saints": [
+        {
+          "title": "SAN CARLO ACUTIS",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/12/san-carlo-acutis.html"
+        },
+        {
+          "title": "Sant'Edisto, martire sulla via Ardeatina",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/12.html"
+        },
+        {
+          "title": "Nostra Signora di Aparecida",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/12/nostra-signora-di-aparecida.html"
+        },
+        {
+          "title": "San Serafino da Montegranaro",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/12.html"
+        }
+      ],
+      "un": [],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-10-13": {
+      "saints": [
+        {
+          "title": "San Teofilo, vescovo di Antiochia",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/13/san-teofilo--vescovo-di-antiochia.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata internazionale per la riduzione del rischio di catastrofi",
+          "url": "https://www.un.org/en/observances/disaster-reduction-day"
+        }
+      ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-10-14": {
+      "saints": [
+        {
+          "title": "San Callisto I, papa e martire",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/14/san-callisto-i--papa-e-martire.html"
+        }
+      ],
+      "un": [],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-10-15": {
+      "saints": [
+        {
+          "title": "Santa Teresa di Gesù, vergine, dottore della Chiesa, carmelitana scalza",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/15/santa-teresa-di-gesu--vergine--dottore-della-chiesa--carmelitana.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata internazionale delle donne rurali",
+          "url": "https://www.un.org/en/observances/rural-women-day"
+        }
+      ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-10-16": {
+      "saints": [
+        {
+          "title": "Santa Edvige, duchessa di Polonia, religiosa",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/16/santa-edvige--duchessa-di-polonia--religiosa.html"
+        },
+        {
+          "title": "Santa Margherita Maria Alacoque, vergine, della Visitazione",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/16/santa-margherita-maria-alacoque--vergine--della-visitazione.html"
+        },
+        {
+          "title": "San Gerardo Maiella",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/16.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata mondiale dell’alimentazione",
+          "url": "https://www.fao.org/world-food-day/"
+        }
+      ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-10-17": {
+      "saints": [
+        {
+          "title": "Sant'Ignazio di Antiochia, vescovo, martire a Roma",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/17/sant-ignazio-di-antiochia--vescovo--martire-a-roma.html"
+        },
+        {
+          "title": "Beato Pietro Casani, sacerdote scolopio",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/17.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata internazionale per l’eliminazione della povertà",
+          "url": "https://www.un.org/en/observances/day-for-eradicating-poverty"
+        }
+      ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-10-18": {
+      "saints": [
+        {
+          "title": "San Luca evangelista, medico, patrono degli artisti",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/18/san-luca-evangelista--medico--patrono-degli-artisti.html"
+        }
+      ],
+      "un": [],
+      "un_available": true,
+      "holy_see": [
+        {
+          "title": "Giornata missionaria mondiale",
+          "url": "https://www.vatican.va/content/leo-xiv/it/messages/mission.html"
+        }
+      ]
+    },
+    "2026-10-19": {
+      "saints": [
+        {
+          "title": "Ss. Giovanni de Brébeuf e Isacco Jogues, sacerdoti, e Compagni, gesuiti, martiri canadesi",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/19/ss--giovanni-de-brebeuf-e-isacco-jogues--sacerdoti--e-compagni--.html"
+        },
+        {
+          "title": "San Paolo della Croce, sacerdote, fondatore dei Passionisti",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/19/san-paolo-della-croce--sacerdote--fondatore-dei-passionisti.html"
+        }
+      ],
+      "un": [],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-10-20": {
+      "saints": [
+        {
+          "title": "Santa Maria Bertilla Boscardin, vergine, di Vicenza",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/20/santa-maria-bertilla-boscardin--vergine--di-vicenza.html"
+        }
+      ],
+      "un": [],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-10-21": {
+      "saints": [
+        {
+          "title": "San Gaspare del Bufalo, sacerdote, fondatore dei Missionari del Preziosissimo Sangue",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/21/san-gaspare-del-bufalo--sacerdote--fondatore-dei-missionari-del-.html"
+        },
+        {
+          "title": "Sant'Ilarione, abate",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/21.html"
+        },
+        {
+          "title": "Sant'Orsola",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/21.html"
+        }
+      ],
+      "un": [],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-10-22": {
+      "saints": [
+        {
+          "title": "San Giovanni Paolo II, papa",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/22/san-giovanni-paolo-ii--papa.html"
+        },
+        {
+          "title": "San Marco, vescovo di Gerusalemme",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/22.html"
+        }
+      ],
+      "un": [],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-10-23": {
+      "saints": [
+        {
+          "title": "San Giovanni da Capestrano, sacerdote francescano, patrono dei cappellani militari",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/23/san-giovanni-da-capestrano--sacerdote-francescano--patrono-dei-c.html"
+        },
+        {
+          "title": "San Severino Boezio, filosofo romano e martire",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/23/san-severino-boezio--filosofo-romano-e-martire.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata internazionale del leopardo delle nevi",
+          "url": "https://www.un.org/en/observances/snow-leopard-day"
+        }
+      ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-10-24": {
+      "saints": [
+        {
+          "title": "Sant'Antonio Maria Claret, vescovo, fondatore della Congregazione dei Figli del Cuore Immacolato di Maria",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/24/sant-antonio-maria-claret--vescovo--fondatore-della-congregazion.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata delle Nazioni Unite",
+          "url": "https://www.un.org/en/observances/un-day"
+        },
+        {
+          "title": "Giornata mondiale dell’informazione sullo sviluppo",
+          "url": "https://www.un.org/en/observances/development-information-day"
+        }
+      ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-10-25": {
+      "saints": [
+        {
+          "title": "Ss. Crisanto e Daria, martiri, sulla via Salaria nuova",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/25/ss--crisanto-e-daria--martiri--sulla-via-salaria-nuova.html"
+        },
+        {
+          "title": "Santi Crispino e Crispiniano, martiri",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/25.html"
+        }
+      ],
+      "un": [],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-10-26": {
+      "saints": [
+        {
+          "title": "San Beano, vescovo",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/26.html"
+        },
+        {
+          "title": "San Cedda, vescovo",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/26.html"
+        },
+        {
+          "title": "San Demetrio, martire",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/26.html"
+        },
+        {
+          "title": "San Folco Scotti",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/26/san-folco-scotti.html"
+        }
+      ],
+      "un": [],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-10-27": {
+      "saints": [
+        {
+          "title": "Sant'Evaristo, papa",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/27.html"
+        },
+        {
+          "title": "San Frumenzio, vescovo, apostolo dell'Etiopia",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/27/san-frumenzio--vescovo--apostolo-dell-etiopia.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata mondiale del patrimonio audiovisivo",
+          "url": "https://www.unesco.org/en/days/audiovisual-heritage"
+        }
+      ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-10-28": {
+      "saints": [
+        {
+          "title": "Ss. Simone e Giuda (Taddeo), apostoli",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/28/ss--simone-e-giuda--taddeo---apostoli.html"
+        }
+      ],
+      "un": [],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-10-29": {
+      "saints": [
+        {
+          "title": "Beata Chiara Badano",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/29/beata-chiara-badano.html"
+        },
+        {
+          "title": "San Feliciano, martire di Cartagine",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/29.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata internazionale della cura e del supporto",
+          "url": "https://www.un.org/en/observances/care-and-support-day"
+        }
+      ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-10-30": {
+      "saints": [
+        {
+          "title": "San Germano, vescovo di Capua",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/30/san-germano--vescovo-di-capua.html"
+        }
+      ],
+      "un": [],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-10-31": {
+      "saints": [
+        {
+          "title": "Sant'Alfonso Rodriguez, religioso gesuita",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/31/sant-alfonso-rodriguez--religioso-gesuita.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata mondiale delle città",
+          "url": "https://www.un.org/en/observances/cities-day"
+        }
+      ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-11-01": {
+      "saints": [
+        {
+          "title": "Ognissanti",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/01/ognissanti.html"
+        }
+      ],
+      "un": [],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-11-02": {
+      "saints": [
+        {
+          "title": "Commemorazione di tutti i fedeli defunti",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/02/commemorazione-di-tutti-i-fedeli-defunti.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata internazionale per porre fine all’impunità per i crimini contro i giornalisti",
+          "url": "https://www.un.org/en/observances/end-impunity-crimes-against-journalists"
+        }
+      ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-11-03": {
+      "saints": [
+        {
+          "title": "San Martino di Porres, religioso domenicano",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/03/san-martino-di-porres--religioso-domenicano.html"
+        },
+        {
+          "title": "Santa Silvia, madre di San Gregorio Magno",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/03.html"
+        }
+      ],
+      "un": [],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-11-04": {
+      "saints": [
+        {
+          "title": "San Carlo Borromeo, arcivescovo di Milano e cardinale",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/04/san-carlo-borromeo--arcivescovo-di-milano-e-cardinale.html"
+        },
+        {
+          "title": "Santi Vitale e Agricola, martiri bolognesi",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/04.html"
+        }
+      ],
+      "un": [],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-11-05": {
+      "saints": [
+        {
+          "title": "Ss. Donnino, Teotimo e Compagni, martiri",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/05/ss--donnino--teotimo-e-compagni--martiri.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata mondiale della consapevolezza sugli tsunami",
+          "url": "https://www.un.org/en/observances/tsunami-awareness-day"
+        }
+      ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-11-06": {
+      "saints": [
+        {
+          "title": "San Leonardo, eremita",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/06/san-leonardo--eremita.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata internazionale per la prevenzione dello sfruttamento dell’ambiente in guerra e nei conflitti armati",
+          "url": "https://www.un.org/en/observances/environment-in-war-protection-day"
+        }
+      ],
+      "un_available": true,
+      "holy_see": []
+    }
+  }
+}
