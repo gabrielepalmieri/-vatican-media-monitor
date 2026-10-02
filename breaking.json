@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-02T04:23:57.161394+00:00",
+  "updated_at": "2026-10-02T04:41:32.346635+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-02T04:23:57.161394+00:00"
+      "checked_at": "2026-10-02T04:41:32.346635+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-02T04:23:57.161394+00:00"
+      "checked_at": "2026-10-02T04:41:32.346635+00:00"
     }
   },
   "items": [
+    {
+      "id": "5d23838192c857a8ef7f",
+      "source": "TGcom24",
+      "title": "Copernicus: \"Nell'Europa occidentale l'estate 2026 è stata la più calda di sempre\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/estate-2026-record-caldo-temperature-copernicus_117197149-202602k.shtml",
+      "published": "2026-10-02T04:30:00+00:00"
+    },
     {
       "id": "2753a8d87f3856a95e64",
       "source": "BBC News",
@@ -353,13 +360,6 @@
       "title": "Ucraina, drone russo colpisce una scuola a Kiev: strage sfiorata, illesi i bambini",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-1-ottobre_117168287-202602k.shtml",
       "published": "2026-10-01T09:22:00+00:00"
-    },
-    {
-      "id": "abad41e60fccd7ec49a3",
-      "source": "TGcom24",
-      "title": "Istat: ad agosto il tasso disoccupazione sale al 6,2%",
-      "url": "https://www.tgcom24.mediaset.it/economia/istat-tasso-disoccupazione-occupazione-agosto-2026_117169741-202602k.shtml",
-      "published": "2026-10-01T08:57:00+00:00"
     },
     {
       "id": "5278f542559e8ec552ac",
