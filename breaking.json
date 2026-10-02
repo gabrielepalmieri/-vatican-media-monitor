@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-10-02T08:42:15.823552+00:00",
+  "updated_at": "2026-10-02T08:55:33.814406+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-02T08:42:15.823552+00:00"
+      "checked_at": "2026-10-02T08:55:33.814406+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-02T08:42:15.823552+00:00"
+      "checked_at": "2026-10-02T08:55:33.814406+00:00"
     }
   },
   "items": [
+    {
+      "id": "36fa843eb68e79ca3bc1",
+      "source": "BBC News",
+      "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+      "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T08:54:00+00:00"
+    },
     {
       "id": "3e455dd2ec9fda80285c",
       "source": "BBC News",
       "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
       "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T08:33:38+00:00"
+      "published": "2026-10-02T08:49:53+00:00"
+    },
+    {
+      "id": "40e7fba5ec3096a2875d",
+      "source": "BBC News",
+      "title": "Watch: Emotional pilot recounts moment of Flydubai attack",
+      "url": "https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T08:46:37+00:00"
     },
     {
       "id": "1b77c08c6f0756f40738",
@@ -31,13 +45,6 @@
       "title": "OpenAI fires workers for 'mishandling sensitive information'",
       "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-02T08:20:32+00:00"
-    },
-    {
-      "id": "36fa843eb68e79ca3bc1",
-      "source": "BBC News",
-      "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
-      "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T08:16:32+00:00"
     },
     {
       "id": "b9bdca3d4dbbb187eb77",
@@ -276,13 +283,6 @@
       "title": "Russia, Vladimir Putin: \"In caso di attacco, risponderemo con ogni mezzo\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-1-ottobre_117168287-202602k.shtml",
       "published": "2026-10-01T17:09:00+00:00"
-    },
-    {
-      "id": "71ab6567c6e3a27b1bac",
-      "source": "BBC News",
-      "title": "SpaceX launches crew to ISS",
-      "url": "https://www.bbc.co.uk/news/videos/c5rm9mdperemo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T16:32:17+00:00"
     },
     {
       "id": "b1426e6a467f55885799",
