@@ -1,0 +1,41 @@
+name: Update Holy See Bulletin
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "fetch_bulletin.py"
+      - ".github/workflows/update-bulletin.yml"
+  schedule:
+    - cron: "7,22,37,52 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: holy-see-bulletin
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Collect official Bulletin and archive
+        run: python fetch_bulletin.py
+      - name: Save Bulletin indexes
+        run: |
+          git config user.name "vatican-media-monitor-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add bulletins
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Update official Holy See Bulletin"
+          for attempt in 1 2 3 4; do
+            git pull --rebase origin main
+            if git push; then exit 0; fi
+          done
+          exit 1
