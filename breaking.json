@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-02T06:48:13.675470+00:00",
+  "updated_at": "2026-10-02T07:01:00.100619+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-02T06:48:13.675470+00:00"
+      "checked_at": "2026-10-02T07:01:00.100619+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-02T06:48:13.675470+00:00"
+      "checked_at": "2026-10-02T07:01:00.100619+00:00"
     }
   },
   "items": [
+    {
+      "id": "36fa843eb68e79ca3bc1",
+      "source": "BBC News",
+      "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
+      "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T06:59:30+00:00"
+    },
     {
       "id": "ffed3823fe0980a211e4",
       "source": "TGcom24",
@@ -38,13 +45,6 @@
       "title": "Attacco russo su Kiev: colpito ancora il Ponte Sud, è la seconda volta in 24 ore",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-ucraina-ultime-notizie-2ottobre_117197680-202602k.shtml",
       "published": "2026-10-02T05:31:00+00:00"
-    },
-    {
-      "id": "36fa843eb68e79ca3bc1",
-      "source": "BBC News",
-      "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
-      "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T05:26:06+00:00"
     },
     {
       "id": "ac4fc19e1e1d5cb60d56",
