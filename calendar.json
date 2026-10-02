@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-02T11:57:56.784557+00:00",
+  "updated_at": "2026-10-02T22:23:37.313904+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-10-02T11:57:56.784557+00:00",
+  "un_verified_at": "2026-10-02T22:23:37.313904+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,26 +1918,6 @@
     }
   ],
   "days": {
-    "2026-10-01": {
-      "saints": [
-        {
-          "title": "Santa Teresa di Gesù Bambino, vergine carmelitana, dottore della Chiesa, patrona delle Missioni",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/01/santa-teresa-di-gesu-bambino--vergine-carmelitana--dottore-della.html"
-        }
-      ],
-      "un": [
-        {
-          "title": "Giornata internazionale delle persone anziane",
-          "url": "https://www.un.org/en/observances/older-persons-day"
-        },
-        {
-          "title": "Giornata internazionale del caffè",
-          "url": "https://www.fao.org/newsroom/detail/fao-welcomes-un-resolution-instituting-international-coffee-day/en"
-        }
-      ],
-      "un_available": true,
-      "holy_see": []
-    },
     "2026-10-02": {
       "saints": [
         {
@@ -2546,6 +2526,21 @@
           "url": "https://www.un.org/en/observances/environment-in-war-protection-day"
         }
       ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-11-07": {
+      "saints": [
+        {
+          "title": "San Prosdocimo, primo vescovo di Padova",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/07/san-prosdocimo--premo-vescovo-di-padova.html"
+        },
+        {
+          "title": "San Villibrordo, vescovo nell'Europa del Nord",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/07.html"
+        }
+      ],
+      "un": [],
       "un_available": true,
       "holy_see": []
     }
