@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-02T18:11:00.467467+00:00",
+  "updated_at": "2026-10-02T18:29:00.360809+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-02T18:11:00.467467+00:00"
+      "checked_at": "2026-10-02T18:29:00.360809+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-02T18:11:00.467467+00:00"
+      "checked_at": "2026-10-02T18:29:00.360809+00:00"
     }
   },
   "items": [
+    {
+      "id": "a171d7af76cccae473c6",
+      "source": "TGcom24",
+      "title": "Napoli, 37enne morta dopo tre interventi estetici: condannati tre medici",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/napoli-chirurgia-estetica-morte-vanessa-cella-condannati_117220493-202602k.shtml",
+      "published": "2026-10-02T18:10:00+00:00"
+    },
     {
       "id": "99f66006496a98d03d5b",
       "source": "BBC News",
@@ -26,6 +33,13 @@
       "published": "2026-10-02T17:43:10+00:00"
     },
     {
+      "id": "594eacc84c1b77e3c9a9",
+      "source": "TGcom24",
+      "title": "Giorgetti dopo il Cdm: \"Ridotto lo sforzo per la difesa, deficit sotto il 3% nel 2026\"",
+      "url": "https://www.tgcom24.mediaset.it/economia/cdm-scostamento-bilancio-energia-difesa_117220497-202602k.shtml",
+      "published": "2026-10-02T17:38:00+00:00"
+    },
+    {
       "id": "6724cc44f046087f0aa0",
       "source": "BBC News",
       "title": "What happened in the failed execution of Christa Pike - and what next?",
@@ -33,18 +47,11 @@
       "published": "2026-10-02T17:35:10+00:00"
     },
     {
-      "id": "7906797e1c6e569f6ddf",
+      "id": "ffdb201c7f5a015c1648",
       "source": "TGcom24",
-      "title": "Giorgetti dopo il Cdm: \"Ridotto lo sforzo per la difesa, deficit sotto il 3% nel 2026\"",
+      "title": "Cdm, approvato lo scostamento di bilancio di 14 miliardi per energia e difesa",
       "url": "https://www.tgcom24.mediaset.it/economia/cdm-scostamento-bilancio-energia-difesa_117220497-202602k.shtml",
-      "published": "2026-10-02T17:18:00+00:00"
-    },
-    {
-      "id": "e214b06243def31c6c2a",
-      "source": "TGcom24",
-      "title": "Cdm, approvato lo scostamento di bilancio di 14 miliardi per difesa ed energia",
-      "url": "https://www.tgcom24.mediaset.it/economia/cdm-scostamento-bilancio-energia-difesa_117220497-202602k.shtml",
-      "published": "2026-10-02T16:48:00+00:00"
+      "published": "2026-10-02T16:55:00+00:00"
     },
     {
       "id": "87459fff3d252f33c347",
@@ -325,13 +332,6 @@
       "title": "Why are these endangered moths swarming Australia's east coast?",
       "url": "https://www.bbc.co.uk/news/videos/c6rr4r704en4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T22:26:05+00:00"
-    },
-    {
-      "id": "f9de9d5af0d98ad2f0c3",
-      "source": "TGcom24",
-      "title": "Volo FlyDubai, Israele invia squadra investigativa negli Emirati per indagini copilota",
-      "url": "https://www.tgcom24.mediaset.it/mondo/volo-dirottato-dubai-tel-aviv-ben-gvir-chiede-estradizione-copilota_117180570-202602k.shtml",
-      "published": "2026-10-01T22:00:00+00:00"
     },
     {
       "id": "adb946b423cf23db5028",
