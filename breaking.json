@@ -1,22 +1,29 @@
 {
-  "updated_at": "2026-10-02T07:01:00.100619+00:00",
+  "updated_at": "2026-10-02T07:14:55.652419+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-02T07:01:00.100619+00:00"
+      "checked_at": "2026-10-02T07:14:55.652419+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-02T07:01:00.100619+00:00"
+      "checked_at": "2026-10-02T07:14:55.652419+00:00"
     }
   },
   "items": [
     {
       "id": "36fa843eb68e79ca3bc1",
       "source": "BBC News",
-      "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
+      "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
       "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-02T06:59:30+00:00"
+    },
+    {
+      "id": "e6fb371627855dfde32e",
+      "source": "TGcom24",
+      "title": "Setta nel Torinese, una della vittime del \"guru\": \"Eravamo le sue schiave\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/setta-torinese-vittima-guru-schiave_117198069-202602k.shtml",
+      "published": "2026-10-02T06:59:00+00:00"
     },
     {
       "id": "ffed3823fe0980a211e4",
@@ -360,13 +367,6 @@
       "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
       "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T11:37:46+00:00"
-    },
-    {
-      "id": "5de79bef30fbc972bcac",
-      "source": "TGcom24",
-      "title": "Roma, investita da uno scuolabus: muore una 74enne",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/roma-investita-da-uno-scuolabus-muore-una-74enne-_117176046-202602k.shtml",
-      "published": "2026-10-01T11:35:00+00:00"
     },
     {
       "id": "5278f542559e8ec552ac",
