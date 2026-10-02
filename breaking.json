@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-02T16:00:34.484490+00:00",
+  "updated_at": "2026-10-02T16:12:17.770556+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-02T16:00:34.484490+00:00"
+      "checked_at": "2026-10-02T16:12:17.770556+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-02T16:00:34.484490+00:00"
+      "checked_at": "2026-10-02T16:12:17.770556+00:00"
     }
   },
   "items": [
+    {
+      "id": "b9bdca3d4dbbb187eb77",
+      "source": "BBC News",
+      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+      "url": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T16:08:25+00:00"
+    },
     {
       "id": "bc30dbb6fb1e5f951b3b",
       "source": "TGcom24",
@@ -115,13 +122,6 @@
       "title": "Milano, 30enne colpito alla schiena da colpi di pistola: è grave",
       "url": "https://www.tgcom24.mediaset.it/cronaca/milano-pioltello-agguato-sparatoria-ferito-30enne_117205067-202602k.shtml",
       "published": "2026-10-02T10:09:00+00:00"
-    },
-    {
-      "id": "b9bdca3d4dbbb187eb77",
-      "source": "BBC News",
-      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
-      "url": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T10:04:56+00:00"
     },
     {
       "id": "d03e99408fd008502e43",
