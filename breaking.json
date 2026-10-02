@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-02T15:52:05.739334+00:00",
+  "updated_at": "2026-10-02T16:00:34.484490+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-02T15:52:05.739334+00:00"
+      "checked_at": "2026-10-02T16:00:34.484490+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-02T15:52:05.739334+00:00"
+      "checked_at": "2026-10-02T16:00:34.484490+00:00"
     }
   },
   "items": [
+    {
+      "id": "bc30dbb6fb1e5f951b3b",
+      "source": "TGcom24",
+      "title": "Spagna, il governo Sánchez battuto sui decreti casa: ipotesi elezioni anticipate",
+      "url": "https://www.tgcom24.mediaset.it/mondo/spagna-governo-sanchez-elezioni-anticipate_117216007-202602k.shtml",
+      "published": "2026-10-02T15:51:00+00:00"
+    },
     {
       "id": "d9691a47fe5a74476881",
       "source": "BBC News",
@@ -334,13 +341,6 @@
       "published": "2026-10-01T19:59:24+00:00"
     },
     {
-      "id": "14c8cb3a1a201a618662",
-      "source": "TGcom24",
-      "title": "Volo FlyDubai, copilota omanita trasferito ad Abu Dhabi",
-      "url": "https://www.tgcom24.mediaset.it/mondo/volo-dirottato-dubai-tel-aviv-ben-gvir-chiede-estradizione-copilota_117180570-202602k.shtml",
-      "published": "2026-10-01T19:42:00+00:00"
-    },
-    {
       "id": "cc207422147df5c2482d",
       "source": "BBC News",
       "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
@@ -388,13 +388,6 @@
       "title": "K-pop star convicted of violating military service law",
       "url": "https://www.bbc.co.uk/news/articles/cjn5d52d3lk5o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T05:24:10+00:00"
-    },
-    {
-      "id": "2d7794e6fee102792b37",
-      "source": "BBC News",
-      "title": "Plummeting Israel flight like 'rollercoaster', says passenger",
-      "url": "https://www.bbc.co.uk/news/videos/cwm2r2v42vdeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T03:52:20+00:00"
     }
   ]
 }
