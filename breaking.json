@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-02T20:23:20.745339+00:00",
+  "updated_at": "2026-10-02T20:40:55.202518+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-02T20:23:20.745339+00:00"
+      "checked_at": "2026-10-02T20:40:55.202518+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-02T20:23:20.745339+00:00"
+      "checked_at": "2026-10-02T20:40:55.202518+00:00"
     }
   },
   "items": [
+    {
+      "id": "3546c0de9ffdbc6459d8",
+      "source": "TGcom24",
+      "title": "Manovra, Giorgetti: \"Serve approccio prudente, il contesto richiede attenzione\"",
+      "url": "https://www.tgcom24.mediaset.it/economia/cdm-scostamento-bilancio-energia-difesa_117220497-202602k.shtml",
+      "published": "2026-10-02T20:12:00+00:00"
+    },
     {
       "id": "5dd529d3be9f26a8e87c",
       "source": "TGcom24",
@@ -269,13 +276,6 @@
       "title": "Attacco russo su Kiev: colpito ancora il Ponte Sud, è la seconda volta in 24 ore",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-ucraina-ultime-notizie-2ottobre_117197680-202602k.shtml",
       "published": "2026-10-02T05:31:00+00:00"
-    },
-    {
-      "id": "ac4fc19e1e1d5cb60d56",
-      "source": "TGcom24",
-      "title": "Wsj: OpenAi licenzia tre ricercatori per la gestione di informazioni riservate",
-      "url": "https://www.tgcom24.mediaset.it/tgtech/openaai-licenziati-ricercatori-intelligenza-artificiale_117197542-202602k.shtml",
-      "published": "2026-10-02T05:00:00+00:00"
     },
     {
       "id": "2753a8d87f3856a95e64",
