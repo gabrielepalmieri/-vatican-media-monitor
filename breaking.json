@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-02T19:25:43.675225+00:00",
+  "updated_at": "2026-10-02T19:41:02.271314+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-02T19:25:43.675225+00:00"
+      "checked_at": "2026-10-02T19:41:02.271314+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-02T19:25:43.675225+00:00"
+      "checked_at": "2026-10-02T19:41:02.271314+00:00"
     }
   },
   "items": [
+    {
+      "id": "5dd529d3be9f26a8e87c",
+      "source": "TGcom24",
+      "title": "Usa, Christa Pike è senza conoscenza e collegata al respiratore artificiale",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-christa-pike-senza-conoscenza-respiratore_117225524-202602k.shtml",
+      "published": "2026-10-02T19:30:00+00:00"
+    },
     {
       "id": "b76482d3ec1b11d07bf8",
       "source": "TGcom24",
@@ -269,13 +276,6 @@
       "title": "Wsj: OpenAi licenzia tre ricercatori per la gestione di informazioni riservate",
       "url": "https://www.tgcom24.mediaset.it/tgtech/openaai-licenziati-ricercatori-intelligenza-artificiale_117197542-202602k.shtml",
       "published": "2026-10-02T05:00:00+00:00"
-    },
-    {
-      "id": "5d23838192c857a8ef7f",
-      "source": "TGcom24",
-      "title": "Copernicus: \"Nell'Europa occidentale l'estate 2026 è stata la più calda di sempre\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/estate-2026-record-caldo-temperature-copernicus_117197149-202602k.shtml",
-      "published": "2026-10-02T04:30:00+00:00"
     },
     {
       "id": "2753a8d87f3856a95e64",
