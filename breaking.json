@@ -1,29 +1,36 @@
 {
-  "updated_at": "2026-10-02T07:33:20.843770+00:00",
+  "updated_at": "2026-10-02T07:50:47.660678+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-02T07:33:20.843770+00:00"
+      "checked_at": "2026-10-02T07:50:47.660678+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-02T07:33:20.843770+00:00"
+      "checked_at": "2026-10-02T07:50:47.660678+00:00"
     }
   },
   "items": [
+    {
+      "id": "3e455dd2ec9fda80285c",
+      "source": "BBC News",
+      "title": "I wasn't going to let others die, says Indian pilot who opened cockpit door during attack",
+      "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T07:42:09+00:00"
+    },
+    {
+      "id": "4401507173e4bd897cdb",
+      "source": "TGcom24",
+      "title": "Francia, proteste studentesche: 65 dipendenti scolastici feriti",
+      "url": "https://www.tgcom24.mediaset.it/mondo/francia-proteste-studentesche-65-feriti_117200977-202602k.shtml",
+      "published": "2026-10-02T07:33:00+00:00"
+    },
     {
       "id": "36fa843eb68e79ca3bc1",
       "source": "BBC News",
       "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
       "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-02T07:31:52+00:00"
-    },
-    {
-      "id": "3e455dd2ec9fda80285c",
-      "source": "BBC News",
-      "title": "I opened cockpit door of plane while being attacked, Indian pilot tells Modi",
-      "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T07:20:25+00:00"
     },
     {
       "id": "e6fb371627855dfde32e",
@@ -360,13 +367,6 @@
       "title": "Kanye West's Russia shows officially cancelled after weeks of uncertainty",
       "url": "https://www.bbc.co.uk/news/articles/cm74k417wpjxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T12:13:28+00:00"
-    },
-    {
-      "id": "d1ff86e3788f87a83507",
-      "source": "TGcom24",
-      "title": "Legge elettorale, respinte alla Camera con voto segreto le questioni pregiudiziali",
-      "url": "https://www.tgcom24.mediaset.it/politica/legge-elettorale-camera_117176601-202602k.shtml",
-      "published": "2026-10-01T12:05:00+00:00"
     },
     {
       "id": "0a1e639b3f9e32a5bb60",
