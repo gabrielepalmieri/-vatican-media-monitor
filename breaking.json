@@ -1,29 +1,36 @@
 {
-  "updated_at": "2026-10-02T08:29:42.218245+00:00",
+  "updated_at": "2026-10-02T08:42:15.823552+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-02T08:29:42.218245+00:00"
+      "checked_at": "2026-10-02T08:42:15.823552+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-02T08:29:42.218245+00:00"
+      "checked_at": "2026-10-02T08:42:15.823552+00:00"
     }
   },
   "items": [
+    {
+      "id": "3e455dd2ec9fda80285c",
+      "source": "BBC News",
+      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+      "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T08:33:38+00:00"
+    },
+    {
+      "id": "1b77c08c6f0756f40738",
+      "source": "TGcom24",
+      "title": "Flydubai, pilota-eroe a premier Modi: \"Ho aperto la cabina mentre l'aereo precipitava\"",
+      "url": "https://www.tgcom24.mediaset.it/2026/video/pilota-eroe-del-volo-flydubai-a-modi-ho-aperto-la-cabina-mentre-l-aereo-precipitava-_117202376-02k.shtml",
+      "published": "2026-10-02T08:29:00+00:00"
+    },
     {
       "id": "ae2e3b32912403bd673c",
       "source": "BBC News",
       "title": "OpenAI fires workers for 'mishandling sensitive information'",
       "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-02T08:20:32+00:00"
-    },
-    {
-      "id": "3e455dd2ec9fda80285c",
-      "source": "BBC News",
-      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-      "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T08:16:53+00:00"
     },
     {
       "id": "36fa843eb68e79ca3bc1",
@@ -360,13 +367,6 @@
       "title": "Strade Sicure, ok in commissione alla Camera: altri 3mila soldati nelle città",
       "url": "https://www.tgcom24.mediaset.it/politica/strade-sicure-camera_117180186-202602k.shtml",
       "published": "2026-10-01T13:11:00+00:00"
-    },
-    {
-      "id": "2c94ec9ebd8cb8d26b73",
-      "source": "TGcom24",
-      "title": "Setta scoperta nel Torinese, \"adepte\" costrette a fare voto di obbedienza e povertà",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/setta-bassa-val-di-susa-arresto-violenze_117163303-202602k.shtml",
-      "published": "2026-10-01T12:38:00+00:00"
     },
     {
       "id": "e7c27a97032e86aeaab8",
