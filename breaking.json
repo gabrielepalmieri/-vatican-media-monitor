@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-02T04:53:37.328200+00:00",
+  "updated_at": "2026-10-02T05:07:08.348326+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-02T04:53:37.328200+00:00"
+      "checked_at": "2026-10-02T05:07:08.348326+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-02T04:53:37.328200+00:00"
+      "checked_at": "2026-10-02T05:07:08.348326+00:00"
     }
   },
   "items": [
+    {
+      "id": "ac4fc19e1e1d5cb60d56",
+      "source": "TGcom24",
+      "title": "Wsj: OpenAi licenzia tre ricercatori per la gestione di informazioni riservate",
+      "url": "https://www.tgcom24.mediaset.it/tgtech/openaai-licenziati-ricercatori-intelligenza-artificiale_117197542-202602k.shtml",
+      "published": "2026-10-02T05:00:00+00:00"
+    },
     {
       "id": "5d23838192c857a8ef7f",
       "source": "TGcom24",
@@ -353,13 +360,6 @@
       "title": "Egitto, Nessy Guerra: il mio ex chiede che venga lapidata se non torno con lui",
       "url": "https://www.tgcom24.mediaset.it/cronaca/nessy-guerra-nuove-minacce-ex-marito-lapidazione_117171403-202602k.shtml",
       "published": "2026-10-01T10:00:00+00:00"
-    },
-    {
-      "id": "f6ce1f14e37b46fe0e6d",
-      "source": "TGcom24",
-      "title": "Ucraina, drone russo colpisce una scuola a Kiev: strage sfiorata, illesi i bambini",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-1-ottobre_117168287-202602k.shtml",
-      "published": "2026-10-01T09:22:00+00:00"
     },
     {
       "id": "5278f542559e8ec552ac",
