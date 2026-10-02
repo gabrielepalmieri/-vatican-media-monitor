@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-02T17:39:46.622597+00:00",
+  "updated_at": "2026-10-02T17:50:04.942638+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-02T17:39:46.622597+00:00"
+      "checked_at": "2026-10-02T17:50:04.942638+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-02T17:39:46.622597+00:00"
+      "checked_at": "2026-10-02T17:50:04.942638+00:00"
     }
   },
   "items": [
+    {
+      "id": "99f66006496a98d03d5b",
+      "source": "BBC News",
+      "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T17:44:08+00:00"
+    },
+    {
+      "id": "75e2ba7025b98aa52179",
+      "source": "BBC News",
+      "title": "Riot police clash with students as education protests rage in France",
+      "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T17:43:10+00:00"
+    },
     {
       "id": "6724cc44f046087f0aa0",
       "source": "BBC News",
@@ -26,25 +40,11 @@
       "published": "2026-10-02T17:18:00+00:00"
     },
     {
-      "id": "99f66006496a98d03d5b",
-      "source": "BBC News",
-      "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T17:05:39+00:00"
-    },
-    {
       "id": "e214b06243def31c6c2a",
       "source": "TGcom24",
       "title": "Cdm, approvato lo scostamento di bilancio di 14 miliardi per difesa ed energia",
       "url": "https://www.tgcom24.mediaset.it/economia/cdm-scostamento-bilancio-energia-difesa_117220497-202602k.shtml",
       "published": "2026-10-02T16:48:00+00:00"
-    },
-    {
-      "id": "75e2ba7025b98aa52179",
-      "source": "BBC News",
-      "title": "Riot police clash with students as education protests rage in France",
-      "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T16:26:09+00:00"
     },
     {
       "id": "87459fff3d252f33c347",
