@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-02T12:10:31.772426+00:00",
+  "updated_at": "2026-10-02T12:30:23.285206+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-02T12:10:31.772426+00:00"
+      "checked_at": "2026-10-02T12:30:23.285206+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-02T12:10:31.772426+00:00"
+      "checked_at": "2026-10-02T12:30:23.285206+00:00"
     }
   },
   "items": [
+    {
+      "id": "2f652d5a054122aaaab3",
+      "source": "TGcom24",
+      "title": "Elezioni in Israele, l'Alta Corte annulla il divieto contro i partiti arabi",
+      "url": "https://www.tgcom24.mediaset.it/mondo/israele-alta-corte-annulla-divieto-partiti-arabi-elezioni_117210133-202602k.shtml",
+      "published": "2026-10-02T12:24:00+00:00"
+    },
     {
       "id": "7525e8e696cdb5be784f",
       "source": "BBC News",
@@ -332,13 +339,6 @@
       "title": "Giovane picchiato a Barcellona, fermati quattro presunti aggressori",
       "url": "https://www.tgcom24.mediaset.it/cronaca/giovane-aggredito-barcellona-fermati-4-aggressori_117186617-202602k.shtml",
       "published": "2026-10-01T16:30:00+00:00"
-    },
-    {
-      "id": "a2b9ec99033bd6ed4b7d",
-      "source": "TGcom24",
-      "title": "Tirolo, papà e figlia di 4 anni precipitano con il parapendio",
-      "url": "https://www.tgcom24.mediaset.it/mondo/tirolo-padre-figlia-precipitano-parapendio_117183659-202602k.shtml",
-      "published": "2026-10-01T16:10:00+00:00"
     },
     {
       "id": "135458a74c52e025bd78",
