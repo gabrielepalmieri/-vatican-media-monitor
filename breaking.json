@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-02T05:22:19.781240+00:00",
+  "updated_at": "2026-10-02T05:34:59.264108+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-02T05:22:19.781240+00:00"
+      "checked_at": "2026-10-02T05:34:59.264108+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-02T05:22:19.781240+00:00"
+      "checked_at": "2026-10-02T05:34:59.264108+00:00"
     }
   },
   "items": [
+    {
+      "id": "050043bdbe15e0a2cf99",
+      "source": "TGcom24",
+      "title": "Attacco russo su Kiev: colpito ancora il Ponte Sud, è la seconda volta in 24 ore",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-ucraina-ultime-notizie-2ottobre_117197680-202602k.shtml",
+      "published": "2026-10-02T05:31:00+00:00"
+    },
+    {
+      "id": "36fa843eb68e79ca3bc1",
+      "source": "BBC News",
+      "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
+      "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T05:26:06+00:00"
+    },
     {
       "id": "ac4fc19e1e1d5cb60d56",
       "source": "TGcom24",
@@ -115,13 +129,6 @@
       "title": "Why are these endangered moths swarming Australia's east coast?",
       "url": "https://www.bbc.co.uk/news/videos/c6rr4r704en4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T22:26:05+00:00"
-    },
-    {
-      "id": "36fa843eb68e79ca3bc1",
-      "source": "BBC News",
-      "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
-      "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T22:21:16+00:00"
     },
     {
       "id": "f9de9d5af0d98ad2f0c3",
@@ -353,13 +360,6 @@
       "title": "Il decreto imballaggi è legge: via libera della Camera con 178 sì",
       "url": "https://www.tgcom24.mediaset.it/politica/il-decreto-imballaggi-e-legge-cosa-cambia-per-la-plastica-monouso_117172758-202602k.shtml",
       "published": "2026-10-01T10:37:00+00:00"
-    },
-    {
-      "id": "b7c124d7b51ab662623c",
-      "source": "TGcom24",
-      "title": "Egitto, Nessy Guerra: il mio ex chiede che venga lapidata se non torno con lui",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/nessy-guerra-nuove-minacce-ex-marito-lapidazione_117171403-202602k.shtml",
-      "published": "2026-10-01T10:00:00+00:00"
     },
     {
       "id": "5278f542559e8ec552ac",
