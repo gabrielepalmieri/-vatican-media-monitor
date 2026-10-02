@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-02T13:01:25.676483+00:00",
+  "updated_at": "2026-10-02T13:16:19.501694+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-02T13:01:25.676483+00:00"
+      "checked_at": "2026-10-02T13:16:19.501694+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-02T13:01:25.676483+00:00"
+      "checked_at": "2026-10-02T13:16:19.501694+00:00"
     }
   },
   "items": [
+    {
+      "id": "b4fb5bb3ff334a555a5e",
+      "source": "TGcom24",
+      "title": "Diesel, Commissione Ue risponde a Usa: \"No a qualsiasi divieto sul gasolio\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/ue-usa-export-diesel-bando-scorte-petrolio_117212430-202602k.shtml",
+      "published": "2026-10-02T13:04:00+00:00"
+    },
     {
       "id": "2f652d5a054122aaaab3",
       "source": "TGcom24",
@@ -332,13 +339,6 @@
       "title": "Algeria introduces death penalty for arsonists after deadly wildfires",
       "url": "https://www.bbc.co.uk/news/articles/cmge4exg44v5o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T16:31:35+00:00"
-    },
-    {
-      "id": "97178e20f218390daf23",
-      "source": "TGcom24",
-      "title": "Giovane picchiato a Barcellona, fermati quattro presunti aggressori",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/giovane-aggredito-barcellona-fermati-4-aggressori_117186617-202602k.shtml",
-      "published": "2026-10-01T16:30:00+00:00"
     },
     {
       "id": "135458a74c52e025bd78",
