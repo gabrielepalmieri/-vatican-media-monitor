@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-10-02T08:13:05.732274+00:00",
+  "updated_at": "2026-10-02T08:29:42.218245+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-02T08:13:05.732274+00:00"
+      "checked_at": "2026-10-02T08:29:42.218245+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-02T08:13:05.732274+00:00"
+      "checked_at": "2026-10-02T08:29:42.218245+00:00"
     }
   },
   "items": [
+    {
+      "id": "ae2e3b32912403bd673c",
+      "source": "BBC News",
+      "title": "OpenAI fires workers for 'mishandling sensitive information'",
+      "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T08:20:32+00:00"
+    },
+    {
+      "id": "3e455dd2ec9fda80285c",
+      "source": "BBC News",
+      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+      "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T08:16:53+00:00"
+    },
+    {
+      "id": "36fa843eb68e79ca3bc1",
+      "source": "BBC News",
+      "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+      "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T08:16:32+00:00"
+    },
     {
       "id": "b9bdca3d4dbbb187eb77",
       "source": "BBC News",
@@ -19,25 +40,11 @@
       "published": "2026-10-02T08:01:10+00:00"
     },
     {
-      "id": "3e455dd2ec9fda80285c",
-      "source": "BBC News",
-      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-      "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T07:42:09+00:00"
-    },
-    {
       "id": "4401507173e4bd897cdb",
       "source": "TGcom24",
       "title": "Francia, proteste studentesche: 65 dipendenti scolastici feriti",
       "url": "https://www.tgcom24.mediaset.it/mondo/francia-proteste-studentesche-65-feriti_117200977-202602k.shtml",
       "published": "2026-10-02T07:33:00+00:00"
-    },
-    {
-      "id": "36fa843eb68e79ca3bc1",
-      "source": "BBC News",
-      "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
-      "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T07:31:52+00:00"
     },
     {
       "id": "e6fb371627855dfde32e",
@@ -122,13 +129,6 @@
       "title": "What happened in the failed execution of Christa Pike - and what next?",
       "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-02T02:11:34+00:00"
-    },
-    {
-      "id": "ae2e3b32912403bd673c",
-      "source": "BBC News",
-      "title": "OpenAI fires workers for mishandling 'sensitive information'",
-      "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T01:34:56+00:00"
     },
     {
       "id": "60f0dc6a7de116b5e448",
