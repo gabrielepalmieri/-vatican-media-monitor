@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-02T11:50:00.319784+00:00",
+  "updated_at": "2026-10-02T11:58:38.343985+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-02T11:50:00.319784+00:00"
+      "checked_at": "2026-10-02T11:58:38.343985+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-02T11:50:00.319784+00:00"
+      "checked_at": "2026-10-02T11:58:38.343985+00:00"
     }
   },
   "items": [
+    {
+      "id": "7525e8e696cdb5be784f",
+      "source": "BBC News",
+      "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
+      "url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T11:52:04+00:00"
+    },
+    {
+      "id": "0f5778c7379cc6b2eae1",
+      "source": "TGcom24",
+      "title": "Auto sulla folla a Modena, i periti: El Koudri capace di intendere e volere",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/modena-auto-su-folla-el-koudri-perizia_117208653-202602k.shtml",
+      "published": "2026-10-02T11:51:00+00:00"
+    },
     {
       "id": "2460f49f14bf7a3ffd81",
       "source": "TGcom24",
@@ -49,7 +63,7 @@
     {
       "id": "d03e99408fd008502e43",
       "source": "BBC News",
-      "title": "A 'dark cloud' and 'dismal' mood: How it feels on Cornell campus right now",
+      "title": "'Ashamed': Cornell students gather to voice anger over alleged gang rape",
       "url": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-02T10:00:24+00:00"
     },
@@ -327,25 +341,11 @@
       "published": "2026-10-01T16:10:00+00:00"
     },
     {
-      "id": "e942c4c9223c66bcc764",
-      "source": "TGcom24",
-      "title": "Prof accoltellata a Roma, il ministro Valditara premia lo studente che intervenne",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/prof-accoltellata-isabella-marsilio-roma-studente-premiato-valditara_117180131-202602k.shtml",
-      "published": "2026-10-01T15:22:00+00:00"
-    },
-    {
       "id": "135458a74c52e025bd78",
       "source": "BBC News",
       "title": "Explosions heard in Ethiopia's capital after drone flights banned",
       "url": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T15:05:36+00:00"
-    },
-    {
-      "id": "7525e8e696cdb5be784f",
-      "source": "BBC News",
-      "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
-      "url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T15:04:32+00:00"
     },
     {
       "id": "1a03b82cf692bb42f97e",
