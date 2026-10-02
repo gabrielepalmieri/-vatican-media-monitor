@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-02T14:52:50.786369+00:00",
+  "updated_at": "2026-10-02T15:01:56.743976+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-02T14:52:50.786369+00:00"
+      "checked_at": "2026-10-02T15:01:56.743976+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-02T14:52:50.786369+00:00"
+      "checked_at": "2026-10-02T15:01:56.743976+00:00"
     }
   },
   "items": [
+    {
+      "id": "6724cc44f046087f0aa0",
+      "source": "BBC News",
+      "title": "What happened in the failed execution of Christa Pike - and what next?",
+      "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T15:01:15+00:00"
+    },
     {
       "id": "8f695fb240915143361b",
       "source": "TGcom24",
@@ -222,13 +229,6 @@
       "published": "2026-10-02T03:09:13+00:00"
     },
     {
-      "id": "6724cc44f046087f0aa0",
-      "source": "BBC News",
-      "title": "What happened in the failed execution of Christa Pike - and what next?",
-      "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T02:11:34+00:00"
-    },
-    {
       "id": "60f0dc6a7de116b5e448",
       "source": "BBC News",
       "title": "Cornell students voice frustration at public hearing over rape case",
@@ -388,13 +388,6 @@
       "title": "Plummeting Israel flight like 'rollercoaster', says passenger",
       "url": "https://www.bbc.co.uk/news/videos/cwm2r2v42vdeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T03:52:20+00:00"
-    },
-    {
-      "id": "5d58801fc2c706429959",
-      "source": "BBC News",
-      "title": "Japan raises permanent residency fee by 20 times",
-      "url": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T02:57:43+00:00"
     }
   ]
 }
