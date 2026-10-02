@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-02T18:44:25.608093+00:00",
+  "updated_at": "2026-10-02T18:59:34.454744+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-02T18:44:25.608093+00:00"
+      "checked_at": "2026-10-02T18:59:34.454744+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-02T18:44:25.608093+00:00"
+      "checked_at": "2026-10-02T18:59:34.454744+00:00"
     }
   },
   "items": [
+    {
+      "id": "b76482d3ec1b11d07bf8",
+      "source": "TGcom24",
+      "title": "Il petrolio chiude in brusco calo a New York: -3,48%",
+      "url": "https://www.tgcom24.mediaset.it/mondo/ue-usa-export-diesel-bando-scorte-petrolio_117212430-202602k.shtml",
+      "published": "2026-10-02T18:52:00+00:00"
+    },
     {
       "id": "a171d7af76cccae473c6",
       "source": "TGcom24",
@@ -276,13 +283,6 @@
       "title": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
       "url": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-02T04:21:31+00:00"
-    },
-    {
-      "id": "191a93e49ae723cc13f5",
-      "source": "TGcom24",
-      "title": "Setta in Val di Susa, carabinieri mettono sotto sequestro la comunità",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/val-di-susa-setta-comunita-sotto-sequestro_117195879-202602k.shtml",
-      "published": "2026-10-02T04:00:00+00:00"
     },
     {
       "id": "475a0b25f3f47245dad9",
