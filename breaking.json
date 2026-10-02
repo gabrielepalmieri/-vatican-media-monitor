@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-02T05:58:44.638183+00:00",
+  "updated_at": "2026-10-02T06:10:55.754987+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-02T05:58:44.638183+00:00"
+      "checked_at": "2026-10-02T06:10:55.754987+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-02T05:58:44.638183+00:00"
+      "checked_at": "2026-10-02T06:10:55.754987+00:00"
     }
   },
   "items": [
+    {
+      "id": "0226aea01dedd8322e65",
+      "source": "TGcom24",
+      "title": "Germania, dal 2027 un reggimento di droni con 600 militari e velivoli kamikaze",
+      "url": "https://www.tgcom24.mediaset.it/mondo/germania-reggimento-droni-velivoli-kamikaze_117198000-202602k.shtml",
+      "published": "2026-10-02T06:01:00+00:00"
+    },
     {
       "id": "b9bdca3d4dbbb187eb77",
       "source": "BBC News",
@@ -360,13 +367,6 @@
       "title": "Inflazione, Ue: \"Abbiamo già concesso maggiore flessibilità agli Stati membri\"",
       "url": "https://www.tgcom24.mediaset.it/economia/lettera-meloni-europa-inflazione_117175179-202602k.shtml",
       "published": "2026-10-01T11:01:00+00:00"
-    },
-    {
-      "id": "97ff06741a350147dfe3",
-      "source": "TGcom24",
-      "title": "Il decreto imballaggi è legge: via libera della Camera con 178 sì",
-      "url": "https://www.tgcom24.mediaset.it/politica/il-decreto-imballaggi-e-legge-cosa-cambia-per-la-plastica-monouso_117172758-202602k.shtml",
-      "published": "2026-10-01T10:37:00+00:00"
     },
     {
       "id": "5278f542559e8ec552ac",
