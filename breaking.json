@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-02T17:23:22.836070+00:00",
+  "updated_at": "2026-10-02T17:39:46.622597+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-02T17:23:22.836070+00:00"
+      "checked_at": "2026-10-02T17:39:46.622597+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-02T17:23:22.836070+00:00"
+      "checked_at": "2026-10-02T17:39:46.622597+00:00"
     }
   },
   "items": [
+    {
+      "id": "6724cc44f046087f0aa0",
+      "source": "BBC News",
+      "title": "What happened in the failed execution of Christa Pike - and what next?",
+      "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T17:35:10+00:00"
+    },
     {
       "id": "7906797e1c6e569f6ddf",
       "source": "TGcom24",
@@ -80,13 +87,6 @@
       "title": "Diesel, la Ue cede a Trump: saranno rilasciati 100 milioni di barili",
       "url": "https://www.tgcom24.mediaset.it/mondo/ue-usa-export-diesel-bando-scorte-petrolio_117212430-202602k.shtml",
       "published": "2026-10-02T15:25:00+00:00"
-    },
-    {
-      "id": "6724cc44f046087f0aa0",
-      "source": "BBC News",
-      "title": "What happened in the failed execution of Christa Pike - and what next?",
-      "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T15:01:15+00:00"
     },
     {
       "id": "8f695fb240915143361b",
@@ -395,13 +395,6 @@
       "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
       "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T11:37:46+00:00"
-    },
-    {
-      "id": "5278f542559e8ec552ac",
-      "source": "BBC News",
-      "title": "K-pop star convicted of violating military service law",
-      "url": "https://www.bbc.co.uk/news/articles/cjn5d52d3lk5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T05:24:10+00:00"
     }
   ]
 }
