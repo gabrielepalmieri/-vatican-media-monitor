@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-10-02T21:12:41.644827+00:00",
+  "updated_at": "2026-10-02T21:26:22.493555+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-02T21:12:41.644827+00:00"
+      "checked_at": "2026-10-02T21:26:22.493555+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-02T21:12:41.644827+00:00"
+      "checked_at": "2026-10-02T21:26:22.493555+00:00"
     }
   },
   "items": [
+    {
+      "id": "75e2ba7025b98aa52179",
+      "source": "BBC News",
+      "title": "Riot police clash with students as education protests rage in France",
+      "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T21:13:27+00:00"
+    },
+    {
+      "id": "a785332c3def0d09dd1e",
+      "source": "BBC News",
+      "title": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
+      "url": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T21:00:41+00:00"
+    },
+    {
+      "id": "98a4aa3cc7751e21ac23",
+      "source": "BBC News",
+      "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+      "url": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T20:32:07+00:00"
+    },
     {
       "id": "3546c0de9ffdbc6459d8",
       "source": "TGcom24",
@@ -47,25 +68,11 @@
       "published": "2026-10-02T17:44:08+00:00"
     },
     {
-      "id": "75e2ba7025b98aa52179",
-      "source": "BBC News",
-      "title": "Riot police clash with students as education protests rage in France",
-      "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T17:43:10+00:00"
-    },
-    {
       "id": "594eacc84c1b77e3c9a9",
       "source": "TGcom24",
       "title": "Giorgetti dopo il Cdm: \"Ridotto lo sforzo per la difesa, deficit sotto il 3% nel 2026\"",
       "url": "https://www.tgcom24.mediaset.it/economia/cdm-scostamento-bilancio-energia-difesa_117220497-202602k.shtml",
       "published": "2026-10-02T17:38:00+00:00"
-    },
-    {
-      "id": "6724cc44f046087f0aa0",
-      "source": "BBC News",
-      "title": "What happened in the failed execution of Christa Pike - and what next?",
-      "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T17:35:10+00:00"
     },
     {
       "id": "ffdb201c7f5a015c1648",
