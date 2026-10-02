@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-02T09:53:34.911921+00:00",
+  "updated_at": "2026-10-02T10:07:06.829057+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-02T09:53:34.911921+00:00"
+      "checked_at": "2026-10-02T10:07:06.829057+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-02T09:53:34.911921+00:00"
+      "checked_at": "2026-10-02T10:07:06.829057+00:00"
     }
   },
   "items": [
+    {
+      "id": "b9bdca3d4dbbb187eb77",
+      "source": "BBC News",
+      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+      "url": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T10:04:56+00:00"
+    },
     {
       "id": "0a0aff5acc9aea79ecb4",
       "source": "TGcom24",
@@ -52,13 +59,6 @@
       "title": "OpenAI fires workers for 'mishandling sensitive information'",
       "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-02T08:20:32+00:00"
-    },
-    {
-      "id": "b9bdca3d4dbbb187eb77",
-      "source": "BBC News",
-      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
-      "url": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T08:01:10+00:00"
     },
     {
       "id": "4401507173e4bd897cdb",
