@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-02T15:17:33.033336+00:00",
+  "updated_at": "2026-10-02T15:34:40.110438+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-02T15:17:33.033336+00:00"
+      "checked_at": "2026-10-02T15:34:40.110438+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-02T15:17:33.033336+00:00"
+      "checked_at": "2026-10-02T15:34:40.110438+00:00"
     }
   },
   "items": [
+    {
+      "id": "8e4442825165c9e38b2c",
+      "source": "TGcom24",
+      "title": "Diesel, la Ue cede a Trump: saranno rilasciati 100 milioni di barili",
+      "url": "https://www.tgcom24.mediaset.it/mondo/ue-usa-export-diesel-bando-scorte-petrolio_117212430-202602k.shtml",
+      "published": "2026-10-02T15:25:00+00:00"
+    },
     {
       "id": "6724cc44f046087f0aa0",
       "source": "BBC News",
@@ -332,13 +339,6 @@
       "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
       "url": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T19:38:30+00:00"
-    },
-    {
-      "id": "a51c285fc6052bcca1b7",
-      "source": "TGcom24",
-      "title": "Usa, l'avvocato di Christa Pike: \"E' viva ma in condizioni gravi\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/usa-tennessee-christa-pike-sopravvive-iniezione-letale_117164275-202602k.shtml",
-      "published": "2026-10-01T18:57:00+00:00"
     },
     {
       "id": "b1426e6a467f55885799",
