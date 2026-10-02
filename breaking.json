@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-10-02T16:27:28.728735+00:00",
+  "updated_at": "2026-10-02T16:42:39.174658+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-02T16:27:28.728735+00:00"
+      "checked_at": "2026-10-02T16:42:39.174658+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-02T16:27:28.728735+00:00"
+      "checked_at": "2026-10-02T16:42:39.174658+00:00"
     }
   },
   "items": [
+    {
+      "id": "99f66006496a98d03d5b",
+      "source": "BBC News",
+      "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T16:38:22+00:00"
+    },
+    {
+      "id": "75e2ba7025b98aa52179",
+      "source": "BBC News",
+      "title": "Riot police clash with students as education protests rage in France",
+      "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T16:26:09+00:00"
+    },
+    {
+      "id": "87459fff3d252f33c347",
+      "source": "TGcom24",
+      "title": "Garlasco, Sempio a \"Quarto Grado\": \"Nessun elemento per andare a processo\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/garlasco-sempio-non-ci-sono-prove-per-processo_117219215-202602k.shtml",
+      "published": "2026-10-02T16:25:00+00:00"
+    },
     {
       "id": "b9bdca3d4dbbb187eb77",
       "source": "BBC News",
@@ -19,18 +40,18 @@
       "published": "2026-10-02T16:08:25+00:00"
     },
     {
-      "id": "99f66006496a98d03d5b",
-      "source": "BBC News",
-      "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T16:07:15+00:00"
-    },
-    {
       "id": "bc30dbb6fb1e5f951b3b",
       "source": "TGcom24",
       "title": "Spagna, il governo Sánchez battuto sui decreti casa: ipotesi elezioni anticipate",
       "url": "https://www.tgcom24.mediaset.it/mondo/spagna-governo-sanchez-elezioni-anticipate_117216007-202602k.shtml",
       "published": "2026-10-02T15:51:00+00:00"
+    },
+    {
+      "id": "7476a2124c75517ab22e",
+      "source": "BBC News",
+      "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
+      "url": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T15:30:12+00:00"
     },
     {
       "id": "d9691a47fe5a74476881",
@@ -129,13 +150,6 @@
       "title": "Milano, 30enne colpito alla schiena da colpi di pistola: è grave",
       "url": "https://www.tgcom24.mediaset.it/cronaca/milano-pioltello-agguato-sparatoria-ferito-30enne_117205067-202602k.shtml",
       "published": "2026-10-02T10:09:00+00:00"
-    },
-    {
-      "id": "d03e99408fd008502e43",
-      "source": "BBC News",
-      "title": "Cornell students gather to voice anger over alleged gang rape",
-      "url": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T10:00:24+00:00"
     },
     {
       "id": "0a0aff5acc9aea79ecb4",
@@ -318,13 +332,6 @@
       "title": "IA, Donald Trump: governo Usa pronto ad acquistare quote Anthropic e OpenAI",
       "url": "https://www.tgcom24.mediaset.it/mondo/donald-trump-ia-openai-anthropic-borsa-usa_117193532-202602k.shtml",
       "published": "2026-10-01T21:03:00+00:00"
-    },
-    {
-      "id": "67a6d6e69de72e124c73",
-      "source": "TGcom24",
-      "title": "Gb, tentato attacco base Raf: arrestato un anglo-iraniano di 27 anni",
-      "url": "https://www.tgcom24.mediaset.it/mondo/regno-unito-base-raf-arrestato-anglo-iraniano_117193528-202602k.shtml",
-      "published": "2026-10-01T20:35:00+00:00"
     },
     {
       "id": "adb946b423cf23db5028",
