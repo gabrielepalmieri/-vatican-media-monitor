@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-02T09:25:21.670758+00:00",
+  "updated_at": "2026-10-02T09:41:35.079370+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-02T09:25:21.670758+00:00"
+      "checked_at": "2026-10-02T09:41:35.079370+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-02T09:25:21.670758+00:00"
+      "checked_at": "2026-10-02T09:41:35.079370+00:00"
     }
   },
   "items": [
+    {
+      "id": "0a0aff5acc9aea79ecb4",
+      "source": "TGcom24",
+      "title": "Regione Sicilia, chiesto arresto per corruzione dell'ex vicepresidente Armao",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/palermo-arresto-gaetano-armao-corruzione_117204456-202602k.shtml",
+      "published": "2026-10-02T09:38:00+00:00"
+    },
     {
       "id": "3e455dd2ec9fda80285c",
       "source": "BBC News",
@@ -24,13 +31,6 @@
       "title": "Venezuela, media: Trump consultò Grok prima della cattura di Maduro",
       "url": "https://www.tgcom24.mediaset.it/mondo/venezuela-blitz-usa-cattura-maduro-trump-grok_117201334-202602k.shtml",
       "published": "2026-10-02T08:55:00+00:00"
-    },
-    {
-      "id": "36fa843eb68e79ca3bc1",
-      "source": "BBC News",
-      "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
-      "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T08:54:00+00:00"
     },
     {
       "id": "40e7fba5ec3096a2875d",
@@ -264,13 +264,6 @@
       "published": "2026-10-01T19:38:30+00:00"
     },
     {
-      "id": "8401781ca6f3aa0e8724",
-      "source": "BBC News",
-      "title": "Fires break out at French schools as students protest nationwide",
-      "url": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T19:19:00+00:00"
-    },
-    {
       "id": "a51c285fc6052bcca1b7",
       "source": "TGcom24",
       "title": "Usa, l'avvocato di Christa Pike: \"E' viva ma in condizioni gravi\"",
@@ -360,13 +353,6 @@
       "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
       "url": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T14:05:55+00:00"
-    },
-    {
-      "id": "039e1197b48c41b9f5b8",
-      "source": "TGcom24",
-      "title": "Garlasco, il legale dei Poggi: la famiglia non sarà parte civile contro Sempio",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/delitto-garlasco-famiglia-poggi-andrea-sempio-no-parte-civile_117180957-202602k.shtml",
-      "published": "2026-10-01T13:39:00+00:00"
     },
     {
       "id": "e7c27a97032e86aeaab8",
