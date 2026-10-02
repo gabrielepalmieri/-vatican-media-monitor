@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-02T04:07:38.583534+00:00",
+  "updated_at": "2026-10-02T04:23:57.161394+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-02T04:07:38.583534+00:00"
+      "checked_at": "2026-10-02T04:23:57.161394+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-02T04:07:38.583534+00:00"
+      "checked_at": "2026-10-02T04:23:57.161394+00:00"
     }
   },
   "items": [
+    {
+      "id": "2753a8d87f3856a95e64",
+      "source": "BBC News",
+      "title": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
+      "url": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T04:21:31+00:00"
+    },
     {
       "id": "191a93e49ae723cc13f5",
       "source": "TGcom24",
@@ -31,13 +38,6 @@
       "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
       "url": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-02T02:49:44+00:00"
-    },
-    {
-      "id": "2753a8d87f3856a95e64",
-      "source": "BBC News",
-      "title": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
-      "url": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T02:29:41+00:00"
     },
     {
       "id": "6724cc44f046087f0aa0",
@@ -105,7 +105,7 @@
     {
       "id": "36fa843eb68e79ca3bc1",
       "source": "BBC News",
-      "title": "US says Europe should ready fuel supplies as Trump threatens diesel ban",
+      "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
       "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T22:21:16+00:00"
     },
