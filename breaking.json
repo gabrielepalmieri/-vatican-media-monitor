@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-03T06:03:18.649773+00:00",
+  "updated_at": "2026-10-03T06:29:11.504750+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-03T06:03:18.649773+00:00"
+      "checked_at": "2026-10-03T06:29:11.504750+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-03T06:03:18.649773+00:00"
+      "checked_at": "2026-10-03T06:29:11.504750+00:00"
     }
   },
   "items": [
+    {
+      "id": "c2e40c567b56e342ba4d",
+      "source": "BBC News",
+      "title": "Russia strikes second major bridge in Kyiv, mayor says",
+      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-03T06:27:15+00:00"
+    },
     {
       "id": "5bb0a5e181c496d62d1a",
       "source": "TGcom24",
@@ -131,6 +138,13 @@
       "published": "2026-10-02T21:00:41+00:00"
     },
     {
+      "id": "88361467348f2a857ede",
+      "source": "BBC News",
+      "title": "Newly released video shows Luigi Mangione’s arrest",
+      "url": "https://www.bbc.co.uk/news/videos/cmewelkydwwyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T20:37:34+00:00"
+    },
+    {
       "id": "98a4aa3cc7751e21ac23",
       "source": "BBC News",
       "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
@@ -206,13 +220,6 @@
       "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
       "url": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-02T15:30:12+00:00"
-    },
-    {
-      "id": "d9691a47fe5a74476881",
-      "source": "BBC News",
-      "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T15:26:37+00:00"
     },
     {
       "id": "8e4442825165c9e38b2c",
