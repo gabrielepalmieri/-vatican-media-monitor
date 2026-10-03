@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-03T06:29:11.504750+00:00",
+  "updated_at": "2026-10-03T06:56:04.362283+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-03T06:29:11.504750+00:00"
+      "checked_at": "2026-10-03T06:56:04.362283+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-03T06:29:11.504750+00:00"
+      "checked_at": "2026-10-03T06:56:04.362283+00:00"
     }
   },
   "items": [
+    {
+      "id": "94def9d7f0320ced27c7",
+      "source": "TGcom24",
+      "title": "Siberia, donna muore di peste polmonare: 200 persone in quarantena",
+      "url": "https://www.tgcom24.mediaset.it/mondo/siberia-donna-morta-peste-quarantena_117233730-202602k.shtml",
+      "published": "2026-10-03T06:30:00+00:00"
+    },
     {
       "id": "c2e40c567b56e342ba4d",
       "source": "BBC News",
@@ -159,6 +166,13 @@
       "published": "2026-10-02T20:12:00+00:00"
     },
     {
+      "id": "b0158a587babc4bf03c1",
+      "source": "BBC News",
+      "title": "How widely used is the death penalty in the US?",
+      "url": "https://www.bbc.co.uk/news/videos/c54g1e3yxv0ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T19:56:28+00:00"
+    },
+    {
       "id": "5dd529d3be9f26a8e87c",
       "source": "TGcom24",
       "title": "Usa, Christa Pike è senza conoscenza e collegata al respiratore artificiale",
@@ -292,13 +306,6 @@
       "published": "2026-10-02T11:21:00+00:00"
     },
     {
-      "id": "6456d85b97226975e32a",
-      "source": "TGcom24",
-      "title": "Medici ospedalieri: in un anno più dimissioni che pensionamenti",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/medici-dimissionari-superano-quelli-pensionati_117204227-202602k.shtml",
-      "published": "2026-10-02T10:39:00+00:00"
-    },
-    {
       "id": "3e455dd2ec9fda80285c",
       "source": "BBC News",
       "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
@@ -341,13 +348,6 @@
       "published": "2026-10-02T03:09:13+00:00"
     },
     {
-      "id": "60f0dc6a7de116b5e448",
-      "source": "BBC News",
-      "title": "Cornell students voice frustration at public hearing over rape case",
-      "url": "https://www.bbc.co.uk/news/videos/cwe8e8jpnpy5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T01:29:16+00:00"
-    },
-    {
       "id": "966b444b83e2d5c8c1f5",
       "source": "BBC News",
       "title": "Spain and China are cosying up - to the anger of many in the EU",
@@ -360,13 +360,6 @@
       "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
       "url": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T23:00:05+00:00"
-    },
-    {
-      "id": "f6e25209133a6bbe0ae8",
-      "source": "BBC News",
-      "title": "Why are these endangered moths swarming Australia's east coast?",
-      "url": "https://www.bbc.co.uk/news/videos/c6rr4r704en4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T22:26:05+00:00"
     },
     {
       "id": "adb946b423cf23db5028",
