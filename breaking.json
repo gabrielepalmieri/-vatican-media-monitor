@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-03T07:12:42.161276+00:00",
+  "updated_at": "2026-10-03T07:30:12.702341+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-03T07:12:42.161276+00:00"
+      "checked_at": "2026-10-03T07:30:12.702341+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-03T07:12:42.161276+00:00"
+      "checked_at": "2026-10-03T07:30:12.702341+00:00"
     }
   },
   "items": [
+    {
+      "id": "c2e40c567b56e342ba4d",
+      "source": "BBC News",
+      "title": "Russia strikes second major bridge in Kyiv, mayor says",
+      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-03T07:25:09+00:00"
+    },
     {
       "id": "b593ed98ceecaff0a267",
       "source": "TGcom24",
@@ -24,13 +31,6 @@
       "title": "Siberia, donna muore di peste polmonare: 200 persone in quarantena",
       "url": "https://www.tgcom24.mediaset.it/mondo/siberia-donna-morta-peste-quarantena_117233730-202602k.shtml",
       "published": "2026-10-03T06:30:00+00:00"
-    },
-    {
-      "id": "c2e40c567b56e342ba4d",
-      "source": "BBC News",
-      "title": "Russia strikes second major bridge in Kyiv, mayor says",
-      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-03T06:27:15+00:00"
     },
     {
       "id": "5bb0a5e181c496d62d1a",
