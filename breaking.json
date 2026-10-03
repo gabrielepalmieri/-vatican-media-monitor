@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-03T05:29:39.811403+00:00",
+  "updated_at": "2026-10-03T05:46:20.336329+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-03T05:29:39.811403+00:00"
+      "checked_at": "2026-10-03T05:46:20.336329+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-03T05:29:39.811403+00:00"
+      "checked_at": "2026-10-03T05:46:20.336329+00:00"
     }
   },
   "items": [
+    {
+      "id": "a17cb1fc65be7df13217",
+      "source": "TGcom24",
+      "title": "Ucraina, Mosca colpisce un altro importante ponte di Kiev",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-colpito-ponte-nord-kiev_117233163-202602k.shtml",
+      "published": "2026-10-03T05:30:00+00:00"
+    },
     {
       "id": "99e7bd6a7c05b5e23cc9",
       "source": "TGcom24",
@@ -283,13 +290,6 @@
       "title": "Milano, 30enne colpito alla schiena da colpi di pistola: è grave",
       "url": "https://www.tgcom24.mediaset.it/cronaca/milano-pioltello-agguato-sparatoria-ferito-30enne_117205067-202602k.shtml",
       "published": "2026-10-02T10:09:00+00:00"
-    },
-    {
-      "id": "0a0aff5acc9aea79ecb4",
-      "source": "TGcom24",
-      "title": "Regione Sicilia, chiesto arresto per corruzione dell'ex vicepresidente Armao",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/palermo-arresto-gaetano-armao-corruzione_117204456-202602k.shtml",
-      "published": "2026-10-02T09:38:00+00:00"
     },
     {
       "id": "3e455dd2ec9fda80285c",
