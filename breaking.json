@@ -1,22 +1,29 @@
 {
-  "updated_at": "2026-10-03T10:36:59.904399+00:00",
+  "updated_at": "2026-10-03T11:06:24.615995+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-03T10:36:59.904399+00:00"
+      "checked_at": "2026-10-03T11:06:24.615995+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-03T10:36:59.904399+00:00"
+      "checked_at": "2026-10-03T11:06:24.615995+00:00"
     }
   },
   "items": [
+    {
+      "id": "973902e712870baa42cf",
+      "source": "TGcom24",
+      "title": "Garlasco, legale Stasi: \"Altro elemento farà scalpore e non riguarda le indagini del 2007\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/delitto-di-garlasco-legale-altro-elemento_117246412-202602k.shtml",
+      "published": "2026-10-03T11:03:00+00:00"
+    },
     {
       "id": "285cb512c912a284e612",
       "source": "BBC News",
       "title": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
       "url": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-03T10:27:52+00:00"
+      "published": "2026-10-03T10:58:51+00:00"
     },
     {
       "id": "9cb0a26f9032a00dc765",
@@ -285,13 +292,6 @@
       "published": "2026-10-02T16:55:00+00:00"
     },
     {
-      "id": "87459fff3d252f33c347",
-      "source": "TGcom24",
-      "title": "Garlasco, Sempio a \"Quarto Grado\": \"Nessun elemento per andare a processo\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/garlasco-sempio-non-ci-sono-prove-per-processo_117219215-202602k.shtml",
-      "published": "2026-10-02T16:25:00+00:00"
-    },
-    {
       "id": "b9bdca3d4dbbb187eb77",
       "source": "BBC News",
       "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
@@ -374,13 +374,6 @@
       "title": "Spain and China are cosying up - to the anger of many in the EU",
       "url": "https://www.bbc.co.uk/news/articles/c6vgyg824m02o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T23:42:33+00:00"
-    },
-    {
-      "id": "18e3c369fa1a8d5ce052",
-      "source": "BBC News",
-      "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
-      "url": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T23:00:05+00:00"
     }
   ]
 }
