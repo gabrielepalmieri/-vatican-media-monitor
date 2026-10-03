@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-03T09:25:52.941702+00:00",
+  "updated_at": "2026-10-03T09:40:01.051355+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-03T09:25:52.941702+00:00"
+      "checked_at": "2026-10-03T09:40:01.051355+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-03T09:25:52.941702+00:00"
+      "checked_at": "2026-10-03T09:40:01.051355+00:00"
     }
   },
   "items": [
+    {
+      "id": "ac6023494ce61ef1e0d0",
+      "source": "TGcom24",
+      "title": "Cgia, caro-carburanti: \"A ottobre italiani spenderanno 1,1 miliardi in più\"",
+      "url": "https://www.tgcom24.mediaset.it/tgcomlab/trend/caro-carburanti-ottobre-1-1-miliardi-cgia_117242086-202602k.shtml",
+      "published": "2026-10-03T09:39:00+00:00"
+    },
     {
       "id": "f4ca98ee1f6448e522d4",
       "source": "BBC News",
@@ -52,6 +59,13 @@
       "title": "Russia strikes second major bridge in Kyiv, mayor says",
       "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-03T07:25:09+00:00"
+    },
+    {
+      "id": "530a84b0838f1535e44c",
+      "source": "BBC News",
+      "title": "Joker persona helps Cong 'feel the fear' in opponents",
+      "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckq5x5de46ppo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-03T07:07:09+00:00"
     },
     {
       "id": "b593ed98ceecaff0a267",
@@ -297,13 +311,6 @@
       "title": "Watch: Why students in France are protesting",
       "url": "https://www.bbc.co.uk/news/videos/cr5ynddn318eo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-02T15:02:15+00:00"
-    },
-    {
-      "id": "8f695fb240915143361b",
-      "source": "TGcom24",
-      "title": "Asilo nido, a Belluno si paga quasi dieci volte più che a Mantova",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/asilo-nido-costi-rette-differenze-citta_117214597-202602k.shtml",
-      "published": "2026-10-02T14:40:00+00:00"
     },
     {
       "id": "bc4b3aaec30cef733289",
