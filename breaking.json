@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-03T07:57:44.244655+00:00",
+  "updated_at": "2026-10-03T08:08:05.682896+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-03T07:57:44.244655+00:00"
+      "checked_at": "2026-10-03T08:08:05.682896+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-03T07:57:44.244655+00:00"
+      "checked_at": "2026-10-03T08:08:05.682896+00:00"
     }
   },
   "items": [
+    {
+      "id": "afa6ef7bd70c9a428ab5",
+      "source": "TGcom24",
+      "title": "Reggio Emilia, aggredì tre persone al benzinaio: si uccide in carcere",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/reggio-emilia-aggredi-tre-persone-al-distributore-di-benzina-si-impicca-in-carcere_117237341-202602k.shtml",
+      "published": "2026-10-03T08:00:00+00:00"
+    },
     {
       "id": "f4ca98ee1f6448e522d4",
       "source": "BBC News",
@@ -306,13 +313,6 @@
       "published": "2026-10-02T12:43:02+00:00"
     },
     {
-      "id": "2f652d5a054122aaaab3",
-      "source": "TGcom24",
-      "title": "Elezioni in Israele, l'Alta Corte annulla il divieto contro i partiti arabi",
-      "url": "https://www.tgcom24.mediaset.it/mondo/israele-alta-corte-annulla-divieto-partiti-arabi-elezioni_117210133-202602k.shtml",
-      "published": "2026-10-02T12:24:00+00:00"
-    },
-    {
       "id": "3e455dd2ec9fda80285c",
       "source": "BBC News",
       "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
@@ -381,13 +381,6 @@
       "title": "What we know about Christa Pike’s condition after failed execution",
       "url": "https://www.bbc.co.uk/news/videos/cwe8e82jgm8po?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T20:09:34+00:00"
-    },
-    {
-      "id": "1a7dc53bc38b3adde949",
-      "source": "BBC News",
-      "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
-      "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T19:59:24+00:00"
     }
   ]
 }
