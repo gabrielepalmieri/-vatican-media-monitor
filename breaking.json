@@ -1,16 +1,72 @@
 {
-  "updated_at": "2026-10-03T11:06:24.615995+00:00",
+  "updated_at": "2026-10-03T13:41:49.654388+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-03T11:06:24.615995+00:00"
+      "checked_at": "2026-10-03T13:41:49.654388+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-03T11:06:24.615995+00:00"
+      "checked_at": "2026-10-03T13:41:49.654388+00:00"
     }
   },
   "items": [
+    {
+      "id": "53ab028c0f770829d296",
+      "source": "BBC News",
+      "title": "Protesters across Spain demand action over housing crisis",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-03T13:34:11+00:00"
+    },
+    {
+      "id": "db5c1a947176d57b573a",
+      "source": "TGcom24",
+      "title": "Crans-Montana, Jacques Moretti sarà sottoposto a perizia psichiatrica",
+      "url": "https://www.tgcom24.mediaset.it/mondo/crans-montana-jacques-moretti-perizia-psichiatrica_117250674-202602k.shtml",
+      "published": "2026-10-03T13:24:00+00:00"
+    },
+    {
+      "id": "c2e40c567b56e342ba4d",
+      "source": "BBC News",
+      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
+      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-03T12:59:10+00:00"
+    },
+    {
+      "id": "8a45463d39684b67ac59",
+      "source": "TGcom24",
+      "title": "Bologna, maltratta la moglie e le vieta di parlare l'italiano: braccialetto elettronico a 51enne",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/bologna-maltratta-moglie-vieta-italiano_117242090-202602k.shtml",
+      "published": "2026-10-03T12:37:00+00:00"
+    },
+    {
+      "id": "59b7c39b8f774b969645",
+      "source": "BBC News",
+      "title": "Will Spain's housing crisis lead to a snap election?",
+      "url": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-03T12:26:30+00:00"
+    },
+    {
+      "id": "b09ed24a28b9a238cd2e",
+      "source": "TGcom24",
+      "title": "Carburanti, il ministero: \"Oltre 10mila distributori hanno aderito al price cap\"",
+      "url": "https://www.tgcom24.mediaset.it/economia/carburanti-mimt-10mila-distributori-aderito-price-cap_117244953-202602k.shtml",
+      "published": "2026-10-03T12:02:00+00:00"
+    },
+    {
+      "id": "8664f69ff7d5c640c502",
+      "source": "TGcom24",
+      "title": "Salerno, in casa materiale per costruire bombe e armi: arrestato 21enne",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/salerno-arrestato-21enne-terrorismo_117248075-202602k.shtml",
+      "published": "2026-10-03T11:30:00+00:00"
+    },
+    {
+      "id": "f4ca98ee1f6448e522d4",
+      "source": "BBC News",
+      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+      "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-03T11:20:21+00:00"
+    },
     {
       "id": "973902e712870baa42cf",
       "source": "TGcom24",
@@ -31,20 +87,6 @@
       "title": "Proteste studenti a Marsiglia, donna ustionata in volto: arrestato 15enne",
       "url": "https://www.tgcom24.mediaset.it/mondo/francia-proteste-studenti-spray-lanciafiamme-arrestato_117245271-202602k.shtml",
       "published": "2026-10-03T10:23:00+00:00"
-    },
-    {
-      "id": "f4ca98ee1f6448e522d4",
-      "source": "BBC News",
-      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-      "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-03T10:00:04+00:00"
-    },
-    {
-      "id": "c2e40c567b56e342ba4d",
-      "source": "BBC News",
-      "title": "Russia strikes second major bridge in Kyiv, mayor says",
-      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-03T09:53:16+00:00"
     },
     {
       "id": "ac6023494ce61ef1e0d0",
@@ -264,46 +306,11 @@
       "published": "2026-10-02T19:30:00+00:00"
     },
     {
-      "id": "b76482d3ec1b11d07bf8",
-      "source": "TGcom24",
-      "title": "Il petrolio chiude in brusco calo a New York: -3,48%",
-      "url": "https://www.tgcom24.mediaset.it/mondo/ue-usa-export-diesel-bando-scorte-petrolio_117212430-202602k.shtml",
-      "published": "2026-10-02T18:52:00+00:00"
-    },
-    {
-      "id": "a171d7af76cccae473c6",
-      "source": "TGcom24",
-      "title": "Napoli, 37enne morta dopo tre interventi estetici: condannati tre medici",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/napoli-chirurgia-estetica-morte-vanessa-cella-condannati_117220493-202602k.shtml",
-      "published": "2026-10-02T18:10:00+00:00"
-    },
-    {
-      "id": "594eacc84c1b77e3c9a9",
-      "source": "TGcom24",
-      "title": "Giorgetti dopo il Cdm: \"Ridotto lo sforzo per la difesa, deficit sotto il 3% nel 2026\"",
-      "url": "https://www.tgcom24.mediaset.it/economia/cdm-scostamento-bilancio-energia-difesa_117220497-202602k.shtml",
-      "published": "2026-10-02T17:38:00+00:00"
-    },
-    {
-      "id": "ffdb201c7f5a015c1648",
-      "source": "TGcom24",
-      "title": "Cdm, approvato lo scostamento di bilancio di 14 miliardi per energia e difesa",
-      "url": "https://www.tgcom24.mediaset.it/economia/cdm-scostamento-bilancio-energia-difesa_117220497-202602k.shtml",
-      "published": "2026-10-02T16:55:00+00:00"
-    },
-    {
       "id": "b9bdca3d4dbbb187eb77",
       "source": "BBC News",
       "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
       "url": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-02T16:08:25+00:00"
-    },
-    {
-      "id": "7476a2124c75517ab22e",
-      "source": "BBC News",
-      "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
-      "url": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T15:30:12+00:00"
     },
     {
       "id": "381af88d068efcfe08e0",
@@ -367,13 +374,6 @@
       "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
       "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-02T03:09:13+00:00"
-    },
-    {
-      "id": "966b444b83e2d5c8c1f5",
-      "source": "BBC News",
-      "title": "Spain and China are cosying up - to the anger of many in the EU",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgyg824m02o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T23:42:33+00:00"
     }
   ]
 }
