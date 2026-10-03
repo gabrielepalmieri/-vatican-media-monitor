@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-03T07:30:12.702341+00:00",
+  "updated_at": "2026-10-03T07:44:43.606136+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-03T07:30:12.702341+00:00"
+      "checked_at": "2026-10-03T07:44:43.606136+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-03T07:30:12.702341+00:00"
+      "checked_at": "2026-10-03T07:44:43.606136+00:00"
     }
   },
   "items": [
+    {
+      "id": "bdbc5b43d65cf2f87e07",
+      "source": "TGcom24",
+      "title": "Volo FlyDubai, \"immagini di matrice terroristica sui social media del sospettato\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/flydubai-media-immagini-matrice-terroristica-social-sospettato_117235202-202602k.shtml",
+      "published": "2026-10-03T07:30:00+00:00"
+    },
     {
       "id": "c2e40c567b56e342ba4d",
       "source": "BBC News",
@@ -299,13 +306,6 @@
       "published": "2026-10-02T12:24:00+00:00"
     },
     {
-      "id": "0f5778c7379cc6b2eae1",
-      "source": "TGcom24",
-      "title": "Auto sulla folla a Modena, i periti: El Koudri capace di intendere e volere",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/modena-auto-su-folla-el-koudri-perizia_117208653-202602k.shtml",
-      "published": "2026-10-02T11:51:00+00:00"
-    },
-    {
       "id": "3e455dd2ec9fda80285c",
       "source": "BBC News",
       "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
@@ -381,13 +381,6 @@
       "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
       "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T19:59:24+00:00"
-    },
-    {
-      "id": "cc207422147df5c2482d",
-      "source": "BBC News",
-      "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T19:38:30+00:00"
     }
   ]
 }
