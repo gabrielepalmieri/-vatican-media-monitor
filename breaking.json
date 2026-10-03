@@ -1,16 +1,58 @@
 {
-  "updated_at": "2026-10-03T00:09:51.126459+00:00",
+  "updated_at": "2026-10-03T00:29:51.866899+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-03T00:09:51.126459+00:00"
+      "checked_at": "2026-10-03T00:29:51.866899+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-03T00:09:51.126459+00:00"
+      "checked_at": "2026-10-03T00:29:51.866899+00:00"
     }
   },
   "items": [
+    {
+      "id": "e12c0f836936a557c240",
+      "source": "BBC News",
+      "title": "The South African men trying to end violence against women: 'Every man needs to play a part'",
+      "url": "https://www.bbc.co.uk/news/articles/cm3eqegwpzl4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T23:56:21+00:00"
+    },
+    {
+      "id": "2e0dea9a604a216f31cf",
+      "source": "BBC News",
+      "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T23:53:35+00:00"
+    },
+    {
+      "id": "b047a183e04787713740",
+      "source": "BBC News",
+      "title": "Could El Niño mean there are no Atlantic hurricanes this year?",
+      "url": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T23:37:13+00:00"
+    },
+    {
+      "id": "6b9ea4cd8d1fe014ec84",
+      "source": "BBC News",
+      "title": "Women given shorts at Oktoberfest to prevent upskirting",
+      "url": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T23:16:03+00:00"
+    },
+    {
+      "id": "34340ce2539ddd6abacc",
+      "source": "BBC News",
+      "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
+      "url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T23:06:00+00:00"
+    },
+    {
+      "id": "a9d115ddfeca70bcbefe",
+      "source": "BBC News",
+      "title": "The vanishing world of India's street magicians",
+      "url": "https://www.bbc.co.uk/news/articles/ck7v4v8pmzdeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T22:59:05+00:00"
+    },
     {
       "id": "7f48394d2ccf7556b07f",
       "source": "TGcom24",
@@ -89,13 +131,6 @@
       "published": "2026-10-02T18:10:00+00:00"
     },
     {
-      "id": "99f66006496a98d03d5b",
-      "source": "BBC News",
-      "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T17:44:08+00:00"
-    },
-    {
       "id": "594eacc84c1b77e3c9a9",
       "source": "TGcom24",
       "title": "Giorgetti dopo il Cdm: \"Ridotto lo sforzo per la difesa, deficit sotto il 3% nel 2026\"",
@@ -152,6 +187,13 @@
       "published": "2026-10-02T15:25:00+00:00"
     },
     {
+      "id": "381af88d068efcfe08e0",
+      "source": "BBC News",
+      "title": "Watch: Why students in France are protesting",
+      "url": "https://www.bbc.co.uk/news/videos/cr5ynddn318eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-02T15:02:15+00:00"
+    },
+    {
       "id": "8f695fb240915143361b",
       "source": "TGcom24",
       "title": "Asilo nido, a Belluno si paga quasi dieci volte più che a Mantova",
@@ -192,13 +234,6 @@
       "title": "Elezioni in Israele, l'Alta Corte annulla il divieto contro i partiti arabi",
       "url": "https://www.tgcom24.mediaset.it/mondo/israele-alta-corte-annulla-divieto-partiti-arabi-elezioni_117210133-202602k.shtml",
       "published": "2026-10-02T12:24:00+00:00"
-    },
-    {
-      "id": "7525e8e696cdb5be784f",
-      "source": "BBC News",
-      "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
-      "url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T11:52:04+00:00"
     },
     {
       "id": "0f5778c7379cc6b2eae1",
@@ -306,25 +341,11 @@
       "published": "2026-10-02T01:29:16+00:00"
     },
     {
-      "id": "be830e7a45ebda008e9f",
-      "source": "BBC News",
-      "title": "Making politics 'fun, trendy, sexy': How Gen Z could shape Kenya's next election",
-      "url": "https://www.bbc.co.uk/news/articles/cwly7v7kk17mo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T23:46:12+00:00"
-    },
-    {
       "id": "966b444b83e2d5c8c1f5",
       "source": "BBC News",
       "title": "Spain and China are cosying up - to the anger of many in the EU",
       "url": "https://www.bbc.co.uk/news/articles/c6vgyg824m02o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T23:42:33+00:00"
-    },
-    {
-      "id": "9af4b4b2f36484a339fb",
-      "source": "BBC News",
-      "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
-      "url": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T23:32:59+00:00"
     },
     {
       "id": "18e3c369fa1a8d5ce052",
@@ -388,13 +409,6 @@
       "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
       "url": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T14:05:55+00:00"
-    },
-    {
-      "id": "e7c27a97032e86aeaab8",
-      "source": "BBC News",
-      "title": "Kanye West's Russia shows officially cancelled after weeks of uncertainty",
-      "url": "https://www.bbc.co.uk/news/articles/cm74k417wpjxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T12:13:28+00:00"
     }
   ]
 }
