@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-03T03:52:17.127015+00:00",
+  "updated_at": "2026-10-03T04:06:49.797243+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-03T03:52:17.127015+00:00"
+      "checked_at": "2026-10-03T04:06:49.797243+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-03T03:52:17.127015+00:00"
+      "checked_at": "2026-10-03T04:06:49.797243+00:00"
     }
   },
   "items": [
+    {
+      "id": "558798418160c88832b4",
+      "source": "TGcom24",
+      "title": "Si schianta con l'auto nel Sassarese: morto 51enne",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/incidente-stradale-sassari-morto_117227950-202602k.shtml",
+      "published": "2026-10-03T04:01:00+00:00"
+    },
     {
       "id": "2e0dea9a604a216f31cf",
       "source": "BBC News",
@@ -304,13 +311,6 @@
       "title": "OpenAI fires workers for 'mishandling sensitive information'",
       "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-02T08:20:32+00:00"
-    },
-    {
-      "id": "4401507173e4bd897cdb",
-      "source": "TGcom24",
-      "title": "Francia, proteste studentesche: 65 dipendenti scolastici feriti",
-      "url": "https://www.tgcom24.mediaset.it/mondo/francia-proteste-studentesche-65-feriti_117200977-202602k.shtml",
-      "published": "2026-10-02T07:33:00+00:00"
     },
     {
       "id": "b7e458e9aecb310be5c6",
