@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-03T09:50:29.604925+00:00",
+  "updated_at": "2026-10-03T09:57:15.584741+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-03T09:50:29.604925+00:00"
+      "checked_at": "2026-10-03T09:57:15.584741+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-03T09:50:29.604925+00:00"
+      "checked_at": "2026-10-03T09:57:15.584741+00:00"
     }
   },
   "items": [
+    {
+      "id": "c2e40c567b56e342ba4d",
+      "source": "BBC News",
+      "title": "Russia strikes second major bridge in Kyiv, mayor says",
+      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-03T09:53:16+00:00"
+    },
     {
       "id": "f4ca98ee1f6448e522d4",
       "source": "BBC News",
@@ -52,13 +59,6 @@
       "title": "Volo FlyDubai, \"immagini di matrice terroristica sui social media del sospettato\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/flydubai-media-immagini-matrice-terroristica-social-sospettato_117235202-202602k.shtml",
       "published": "2026-10-03T07:30:00+00:00"
-    },
-    {
-      "id": "c2e40c567b56e342ba4d",
-      "source": "BBC News",
-      "title": "Russia strikes second major bridge in Kyiv, mayor says",
-      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-03T07:25:09+00:00"
     },
     {
       "id": "530a84b0838f1535e44c",
@@ -126,7 +126,7 @@
     {
       "id": "fb1125a9da239f078093",
       "source": "BBC News",
-      "title": "Why electric cars might be making some passengers feel sick",
+      "title": "EV drivers love their cars, but some passengers feel sick - this could be why",
       "url": "https://www.bbc.co.uk/news/articles/c3y0zx822wlzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-03T02:36:19+00:00"
     },
