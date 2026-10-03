@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-03T10:21:26.245066+00:00",
+  "updated_at": "2026-10-03T10:36:59.904399+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-03T10:21:26.245066+00:00"
+      "checked_at": "2026-10-03T10:36:59.904399+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-03T10:21:26.245066+00:00"
+      "checked_at": "2026-10-03T10:36:59.904399+00:00"
     }
   },
   "items": [
+    {
+      "id": "285cb512c912a284e612",
+      "source": "BBC News",
+      "title": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
+      "url": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-03T10:27:52+00:00"
+    },
+    {
+      "id": "9cb0a26f9032a00dc765",
+      "source": "TGcom24",
+      "title": "Proteste studenti a Marsiglia, donna ustionata in volto: arrestato 15enne",
+      "url": "https://www.tgcom24.mediaset.it/mondo/francia-proteste-studenti-spray-lanciafiamme-arrestato_117245271-202602k.shtml",
+      "published": "2026-10-03T10:23:00+00:00"
+    },
     {
       "id": "f4ca98ee1f6448e522d4",
       "source": "BBC News",
@@ -283,13 +297,6 @@
       "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
       "url": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-02T16:08:25+00:00"
-    },
-    {
-      "id": "bc30dbb6fb1e5f951b3b",
-      "source": "TGcom24",
-      "title": "Spagna, il governo Sánchez battuto sui decreti casa: ipotesi elezioni anticipate",
-      "url": "https://www.tgcom24.mediaset.it/mondo/spagna-governo-sanchez-elezioni-anticipate_117216007-202602k.shtml",
-      "published": "2026-10-02T15:51:00+00:00"
     },
     {
       "id": "7476a2124c75517ab22e",
