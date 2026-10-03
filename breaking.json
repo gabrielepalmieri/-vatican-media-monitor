@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-03T04:23:22.332860+00:00",
+  "updated_at": "2026-10-03T04:40:53.973601+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-03T04:23:22.332860+00:00"
+      "checked_at": "2026-10-03T04:40:53.973601+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-03T04:23:22.332860+00:00"
+      "checked_at": "2026-10-03T04:40:53.973601+00:00"
     }
   },
   "items": [
+    {
+      "id": "079b6db737f6cc52beb0",
+      "source": "BBC News",
+      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-03T04:38:31+00:00"
+    },
+    {
+      "id": "534927432c8f6d3680e3",
+      "source": "TGcom24",
+      "title": "L'Aquila: 81enne si allontana dalla casa di riposo, cade in un dirupo e muore",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/laquila-donna-casa-riposo-cade-dirupo-morta_117225526-202602k.shtml",
+      "published": "2026-10-03T04:32:00+00:00"
+    },
     {
       "id": "558798418160c88832b4",
       "source": "TGcom24",
@@ -101,13 +115,6 @@
       "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
       "url": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-02T20:32:07+00:00"
-    },
-    {
-      "id": "079b6db737f6cc52beb0",
-      "source": "BBC News",
-      "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
-      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T20:25:19+00:00"
     },
     {
       "id": "3546c0de9ffdbc6459d8",
@@ -299,13 +306,6 @@
       "published": "2026-10-02T08:46:37+00:00"
     },
     {
-      "id": "1b77c08c6f0756f40738",
-      "source": "TGcom24",
-      "title": "Flydubai, pilota-eroe a premier Modi: \"Ho aperto la cabina mentre l'aereo precipitava\"",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/pilota-eroe-del-volo-flydubai-a-modi-ho-aperto-la-cabina-mentre-l-aereo-precipitava-_117202376-02k.shtml",
-      "published": "2026-10-02T08:29:00+00:00"
-    },
-    {
       "id": "ae2e3b32912403bd673c",
       "source": "BBC News",
       "title": "OpenAI fires workers for 'mishandling sensitive information'",
@@ -388,13 +388,6 @@
       "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
       "url": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01T19:38:30+00:00"
-    },
-    {
-      "id": "b1426e6a467f55885799",
-      "source": "BBC News",
-      "title": "Algeria introduces death penalty for arsonists after deadly wildfires",
-      "url": "https://www.bbc.co.uk/news/articles/cmge4exg44v5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T16:31:35+00:00"
     }
   ]
 }
