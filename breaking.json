@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-03T04:59:24.754684+00:00",
+  "updated_at": "2026-10-03T05:08:58.599277+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-03T04:59:24.754684+00:00"
+      "checked_at": "2026-10-03T05:08:58.599277+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-03T04:59:24.754684+00:00"
+      "checked_at": "2026-10-03T05:08:58.599277+00:00"
     }
   },
   "items": [
+    {
+      "id": "99e7bd6a7c05b5e23cc9",
+      "source": "TGcom24",
+      "title": "Medio Oriente, Trump: \"La guerra contro l'Iran finirà dopo le midterm\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-3-ottobre_117232791-202602k.shtml",
+      "published": "2026-10-03T05:00:00+00:00"
+    },
     {
       "id": "079b6db737f6cc52beb0",
       "source": "BBC News",
@@ -290,13 +297,6 @@
       "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
       "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-02T09:08:06+00:00"
-    },
-    {
-      "id": "f0ee884007a4c205e63f",
-      "source": "TGcom24",
-      "title": "Venezuela, media: Trump consultò Grok prima della cattura di Maduro",
-      "url": "https://www.tgcom24.mediaset.it/mondo/venezuela-blitz-usa-cattura-maduro-trump-grok_117201334-202602k.shtml",
-      "published": "2026-10-02T08:55:00+00:00"
     },
     {
       "id": "40e7fba5ec3096a2875d",
