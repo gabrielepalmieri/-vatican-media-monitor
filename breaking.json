@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-04T21:07:52.918837+00:00",
+  "updated_at": "2026-10-04T21:35:41.422663+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-04T21:07:52.918837+00:00"
+      "checked_at": "2026-10-04T21:35:41.422663+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-04T21:07:52.918837+00:00"
+      "checked_at": "2026-10-04T21:35:41.422663+00:00"
     }
   },
   "items": [
+    {
+      "id": "68cc7f2fd07e30ae4f93",
+      "source": "TGcom24",
+      "title": "Bosnia, il serbo Dodik rivendica la vittoria del suo partito",
+      "url": "https://www.tgcom24.mediaset.it/mondo/bosnia-serbo-dodik-vittoria-elezioni_117302974-202602k.shtml",
+      "published": "2026-10-04T21:26:00+00:00"
+    },
+    {
+      "id": "9acecfa88abdd3d75a67",
+      "source": "BBC News",
+      "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-04T21:11:49+00:00"
+    },
     {
       "id": "2d501a8b93f3e4e8bab7",
       "source": "TGcom24",
@@ -213,13 +227,6 @@
       "title": "Allarme salmonella, in Puglia stop ai pomodori freschi in scuole e ospedali",
       "url": "https://www.tgcom24.mediaset.it/cronaca/puglia-pomodori-salmonella-divieto-mensa-scuola-ospedale_117275654-202602k.shtml",
       "published": "2026-10-04T09:28:00+00:00"
-    },
-    {
-      "id": "e06c468db893264d429b",
-      "source": "TGcom24",
-      "title": "Usa valutano il \"trasferimento di militari dall'Europa all'emisfero occidentale\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/usa-hegseth-trasferimento-soldati_117266729-202602k.shtml",
-      "published": "2026-10-04T08:51:00+00:00"
     },
     {
       "id": "b784e241b219ca98adf2",
