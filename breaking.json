@@ -1,29 +1,99 @@
 {
-  "updated_at": "2026-10-04T05:27:29.587071+00:00",
+  "updated_at": "2026-10-04T11:06:04.789807+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-04T05:27:29.587071+00:00"
+      "checked_at": "2026-10-04T11:06:04.789807+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-04T05:27:29.587071+00:00"
+      "checked_at": "2026-10-04T11:06:04.789807+00:00"
     }
   },
   "items": [
+    {
+      "id": "a0d99264d695f068bb93",
+      "source": "BBC News",
+      "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-04T11:03:20+00:00"
+    },
+    {
+      "id": "5a35d4ce218c3fc9e502",
+      "source": "TGcom24",
+      "title": "Maltempo in Catalogna: due morti, voli da e per Barcellona cancellati",
+      "url": "https://www.tgcom24.mediaset.it/mondo/spagna-maltempo-catalogna_117279745-202602k.shtml",
+      "published": "2026-10-04T10:55:00+00:00"
+    },
+    {
+      "id": "f1087b3f776c9d4c788d",
+      "source": "BBC News",
+      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+      "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-04T10:11:32+00:00"
+    },
+    {
+      "id": "68642c5227800aee21cb",
+      "source": "TGcom24",
+      "title": "San Francesco, Mattarella: \"È ancora una lezione per l'oggi\"",
+      "url": "https://www.tgcom24.mediaset.it/politica/sergio-mattarella-san-francesco-assisi_117279729-202602k.shtml",
+      "published": "2026-10-04T10:00:00+00:00"
+    },
+    {
+      "id": "9336e55f8a4eb761dccf",
+      "source": "TGcom24",
+      "title": "Allarme salmonella, in Puglia stop ai pomodori freschi in scuole e ospedali",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/puglia-pomodori-salmonella-divieto-mensa-scuola-ospedale_117275654-202602k.shtml",
+      "published": "2026-10-04T09:28:00+00:00"
+    },
+    {
+      "id": "e06c468db893264d429b",
+      "source": "TGcom24",
+      "title": "Usa valutano il \"trasferimento di militari dall'Europa all'emisfero occidentale\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-hegseth-trasferimento-soldati_117266729-202602k.shtml",
+      "published": "2026-10-04T08:51:00+00:00"
+    },
+    {
+      "id": "cf1f0daebda856ef90e4",
+      "source": "TGcom24",
+      "title": "Ucraina, udite esplosioni durante visita di Merz a Kiev",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-4-ottobre_117264194-202602k.shtml",
+      "published": "2026-10-04T08:15:00+00:00"
+    },
+    {
+      "id": "8c027972e219a6e8925c",
+      "source": "TGcom24",
+      "title": "Peschiera del Garda (Verona), vasto incendio in un camping: diversi feriti",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/peschiera-del-garda-incendio-camping_117270639-202602k.shtml",
+      "published": "2026-10-04T07:40:00+00:00"
+    },
+    {
+      "id": "984fb31c00f0749522cb",
+      "source": "TGcom24",
+      "title": "Iran, Ghalibaf: \"Hormuz chiuso se non soddisfatte nostre richieste\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-4-ottobre_117269997-202602k.shtml",
+      "published": "2026-10-04T07:15:00+00:00"
+    },
+    {
+      "id": "40603664446f05a2e397",
+      "source": "TGcom24",
+      "title": "Giappone, uccide una donna e la rapina: arrestato marine Usa",
+      "url": "https://www.tgcom24.mediaset.it/mondo/giappone-marine-usa-arrestato-omicidio-rapina_117266730-202602k.shtml",
+      "published": "2026-10-04T06:25:00+00:00"
+    },
+    {
+      "id": "b784e241b219ca98adf2",
+      "source": "BBC News",
+      "title": "Australia investigating Flydubai co-pilot's links to country",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-04T06:19:17+00:00"
+    },
     {
       "id": "cf26cffbe1e80a9ef496",
       "source": "TGcom24",
       "title": "Usa, caso Pike: si dimette capo delle prigioni del Tennessee",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-christa-pike-dimissioni-capo-prigioni-tennessee_117265133-202602k.shtml",
       "published": "2026-10-04T05:10:00+00:00"
-    },
-    {
-      "id": "f4ca98ee1f6448e522d4",
-      "source": "BBC News",
-      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-      "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-04T04:57:20+00:00"
     },
     {
       "id": "be979d6c8ddd9343615b",
@@ -80,6 +150,13 @@
       "title": "Why Canada is preparing for a (long shot) US invasion",
       "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-03T23:30:06+00:00"
+    },
+    {
+      "id": "bfd70c03ecfbcba4e830",
+      "source": "BBC News",
+      "title": "US father and son arrested after 'gas station heroin' deaths",
+      "url": "https://www.bbc.co.uk/news/articles/c6qjnlk4r2jjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-03T22:39:06+00:00"
     },
     {
       "id": "93def214d672bab96eb9",
@@ -159,39 +236,11 @@
       "published": "2026-10-03T16:20:00+00:00"
     },
     {
-      "id": "c2e40c567b56e342ba4d",
-      "source": "BBC News",
-      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-03T16:16:49+00:00"
-    },
-    {
       "id": "ce0c713b016a2cc13b6d",
       "source": "TGcom24",
       "title": "Stragi di Capaci e via D'Amelio, archiviato il filone d'indagine su mafia e appalti",
       "url": "https://www.tgcom24.mediaset.it/cronaca/stragi-capaci-via-d-amelio-archiviata-inchiesta_117253824-202602k.shtml",
       "published": "2026-10-03T15:46:00+00:00"
-    },
-    {
-      "id": "4c6c1c9fbca26fc0fd84",
-      "source": "TGcom24",
-      "title": "San Francesco, il 4/10 torna festa nazionale: aumenti in busta paga fino a 50 euro",
-      "url": "https://www.tgcom24.mediaset.it/tgcomlab/lavoro/festa-nazionale-4-ottobre-san-francesco-stipendio_117252302-202602k.shtml",
-      "published": "2026-10-03T15:13:00+00:00"
-    },
-    {
-      "id": "a92ab423513c6cc9e132",
-      "source": "TGcom24",
-      "title": "Setta in Val di Susa, le complici-serve \"dovevano lavare il santone e vestirlo\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/setta-guru-almese-torino-bruno-malatesta-schiave_117252301-202602k.shtml",
-      "published": "2026-10-03T14:43:00+00:00"
-    },
-    {
-      "id": "7e5923a4aaac59efa65c",
-      "source": "TGcom24",
-      "title": "Pioggia di rincari per la guerra in Iran: +1.415 euro per una famiglia con due figli",
-      "url": "https://www.tgcom24.mediaset.it/economia/pioggia-rincari-guerra-iran_117243273-202602k.shtml",
-      "published": "2026-10-03T14:12:00+00:00"
     },
     {
       "id": "5f115bd13c2e0025d669",
@@ -201,27 +250,6 @@
       "published": "2026-10-03T13:52:13+00:00"
     },
     {
-      "id": "b7f5cc42ac7885175e51",
-      "source": "TGcom24",
-      "title": "Guerra in Ucraina, l'appello di Mosca a diplomatici e stranieri: \"Lasciate Kiev\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-colpito-ponte-nord-kiev_117233163-202602k.shtml",
-      "published": "2026-10-03T13:46:00+00:00"
-    },
-    {
-      "id": "db5c1a947176d57b573a",
-      "source": "TGcom24",
-      "title": "Crans-Montana, Jacques Moretti sarà sottoposto a una perizia psichiatrica",
-      "url": "https://www.tgcom24.mediaset.it/mondo/crans-montana-jacques-moretti-perizia-psichiatrica_117250674-202602k.shtml",
-      "published": "2026-10-03T13:24:00+00:00"
-    },
-    {
-      "id": "8a45463d39684b67ac59",
-      "source": "TGcom24",
-      "title": "Bologna, maltratta la moglie e le vieta l'italiano: braccialetto elettronico a 51enne",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/bologna-maltratta-moglie-vieta-italiano_117242090-202602k.shtml",
-      "published": "2026-10-03T12:37:00+00:00"
-    },
-    {
       "id": "59b7c39b8f774b969645",
       "source": "BBC News",
       "title": "Will Spain's housing crisis lead to a snap election?",
@@ -229,39 +257,11 @@
       "published": "2026-10-03T12:26:30+00:00"
     },
     {
-      "id": "b09ed24a28b9a238cd2e",
-      "source": "TGcom24",
-      "title": "Carburanti, il Mimit: \"Oltre 10mila distributori hanno aderito al price cap\"",
-      "url": "https://www.tgcom24.mediaset.it/economia/carburanti-mimt-10mila-distributori-aderito-price-cap_117244953-202602k.shtml",
-      "published": "2026-10-03T12:02:00+00:00"
-    },
-    {
-      "id": "8664f69ff7d5c640c502",
-      "source": "TGcom24",
-      "title": "Salerno, aveva in casa materiale per costruire bombe e armi: arrestato 21enne",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/salerno-arrestato-21enne-terrorismo_117248075-202602k.shtml",
-      "published": "2026-10-03T11:30:00+00:00"
-    },
-    {
-      "id": "973902e712870baa42cf",
-      "source": "TGcom24",
-      "title": "Garlasco, legale di Stasi: c'è altro elemento che farà scalpore, non legato al 2007",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/delitto-di-garlasco-legale-altro-elemento_117246412-202602k.shtml",
-      "published": "2026-10-03T11:03:00+00:00"
-    },
-    {
       "id": "285cb512c912a284e612",
       "source": "BBC News",
       "title": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
       "url": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-03T10:58:51+00:00"
-    },
-    {
-      "id": "9cb0a26f9032a00dc765",
-      "source": "TGcom24",
-      "title": "Proteste studentesche a Marsiglia, donna ustionata in volto: arrestato 15enne",
-      "url": "https://www.tgcom24.mediaset.it/mondo/francia-proteste-studenti-spray-lanciafiamme-arrestato_117245271-202602k.shtml",
-      "published": "2026-10-03T10:23:00+00:00"
     },
     {
       "id": "f20c0df9d53e9c1e77cc",
@@ -285,74 +285,11 @@
       "published": "2026-10-03T04:38:31+00:00"
     },
     {
-      "id": "fb1125a9da239f078093",
-      "source": "BBC News",
-      "title": "EV drivers love their cars, but some passengers feel sick - this could be why",
-      "url": "https://www.bbc.co.uk/news/articles/c3y0zx822wlzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-03T02:36:19+00:00"
-    },
-    {
-      "id": "2e0dea9a604a216f31cf",
-      "source": "BBC News",
-      "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-03T02:23:07+00:00"
-    },
-    {
       "id": "b047a183e04787713740",
       "source": "BBC News",
       "title": "Could El Niño mean there are no Atlantic hurricanes this year?",
       "url": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-02T23:37:13+00:00"
-    },
-    {
-      "id": "6b9ea4cd8d1fe014ec84",
-      "source": "BBC News",
-      "title": "Women given shorts at Oktoberfest to prevent upskirting",
-      "url": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T23:16:03+00:00"
-    },
-    {
-      "id": "34340ce2539ddd6abacc",
-      "source": "BBC News",
-      "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
-      "url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T23:06:00+00:00"
-    },
-    {
-      "id": "a9d115ddfeca70bcbefe",
-      "source": "BBC News",
-      "title": "The vanishing world of India's street magicians",
-      "url": "https://www.bbc.co.uk/news/articles/ck7v4v8pmzdeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T22:59:05+00:00"
-    },
-    {
-      "id": "75e2ba7025b98aa52179",
-      "source": "BBC News",
-      "title": "Riot police clash with students as education protests rage in France",
-      "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T21:13:27+00:00"
-    },
-    {
-      "id": "a785332c3def0d09dd1e",
-      "source": "BBC News",
-      "title": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
-      "url": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T21:00:41+00:00"
-    },
-    {
-      "id": "88361467348f2a857ede",
-      "source": "BBC News",
-      "title": "Newly released video shows Luigi Mangione’s arrest",
-      "url": "https://www.bbc.co.uk/news/videos/cmewelkydwwyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T20:37:34+00:00"
-    },
-    {
-      "id": "b0158a587babc4bf03c1",
-      "source": "BBC News",
-      "title": "How widely used is the death penalty in the US?",
-      "url": "https://www.bbc.co.uk/news/videos/c54g1e3yxv0ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T19:56:28+00:00"
     }
   ]
 }
