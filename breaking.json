@@ -1,22 +1,64 @@
 {
-  "updated_at": "2026-10-04T03:21:38.243482+00:00",
+  "updated_at": "2026-10-04T05:27:29.587071+00:00",
   "sources": {
     "TGcom24": {
-      "ok": false,
-      "checked_at": "2026-10-04T03:21:38.243482+00:00"
+      "ok": true,
+      "checked_at": "2026-10-04T05:27:29.587071+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-04T03:21:38.243482+00:00"
+      "checked_at": "2026-10-04T05:27:29.587071+00:00"
     }
   },
   "items": [
+    {
+      "id": "cf26cffbe1e80a9ef496",
+      "source": "TGcom24",
+      "title": "Usa, caso Pike: si dimette capo delle prigioni del Tennessee",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-christa-pike-dimissioni-capo-prigioni-tennessee_117265133-202602k.shtml",
+      "published": "2026-10-04T05:10:00+00:00"
+    },
+    {
+      "id": "f4ca98ee1f6448e522d4",
+      "source": "BBC News",
+      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+      "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-04T04:57:20+00:00"
+    },
+    {
+      "id": "be979d6c8ddd9343615b",
+      "source": "TGcom24",
+      "title": "Ucraina, Onu: \"Oltre 15mila civili uccisi o feriti da inizio anno\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-4-ottobre_117264194-202602k.shtml",
+      "published": "2026-10-04T04:30:00+00:00"
+    },
+    {
+      "id": "1c69f3b1c1492cc9982e",
+      "source": "BBC News",
+      "title": "Rare tornado whips through small Australian town",
+      "url": "https://www.bbc.co.uk/news/videos/c69qzvggzppro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-04T04:15:36+00:00"
+    },
+    {
+      "id": "a112ab631e79f3b0bd54",
+      "source": "TGcom24",
+      "title": "Finlandia, oggetto non identificato trovato in mare al largo di Helsinki",
+      "url": "https://www.tgcom24.mediaset.it/mondo/finlandia-oggetto-non-identificato-lago-helsinki_117262361-202602k.shtml",
+      "published": "2026-10-04T04:00:00+00:00"
+    },
+    {
+      "id": "586d4daf3b14b2bdb43e",
+      "source": "BBC News",
+      "title": "Debris found from plane that went missing off US coast",
+      "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-04T03:49:06+00:00"
+    },
     {
       "id": "53ab028c0f770829d296",
       "source": "BBC News",
       "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
       "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-04T02:04:11+00:00"
+      "published": "2026-10-04T03:42:15+00:00"
     },
     {
       "id": "a4f0a6b348177cf0bc4d",
@@ -40,16 +82,51 @@
       "published": "2026-10-03T23:30:06+00:00"
     },
     {
-      "id": "586d4daf3b14b2bdb43e",
-      "source": "BBC News",
-      "title": "Medical plane with 6 on board missing off Massachusetts coast",
-      "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-03T21:16:21+00:00"
+      "id": "93def214d672bab96eb9",
+      "source": "TGcom24",
+      "title": "Valencia, scontri tra manifestanti e polizia: 5 arresti e 9 agenti feriti",
+      "url": "https://www.tgcom24.mediaset.it/mondo/spagna-proteste-madrid-crisi-casa_117253983-202602k.shtml",
+      "published": "2026-10-03T21:58:00+00:00"
+    },
+    {
+      "id": "7285b5e3a501dc9dfc93",
+      "source": "TGcom24",
+      "title": "Perù, incendio minaccia l'accesso al sito di Machu Picchu: un morto",
+      "url": "https://www.tgcom24.mediaset.it/mondo/peru-un-incendio-minaccia-l-accesso-a-machu-picchu-un-morto_117260718-202602k.shtml",
+      "published": "2026-10-03T21:30:00+00:00"
+    },
+    {
+      "id": "95d353aba33e54c304a6",
+      "source": "TGcom24",
+      "title": "Milano, bus si scontra con un'auto lungo il Naviglio Pavese: sette feriti",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-incidente-autobus-atm-naviglio-pavese_117260083-202602k.shtml",
+      "published": "2026-10-03T20:17:00+00:00"
+    },
+    {
+      "id": "bab43ed242d6ec2e7ddd",
+      "source": "TGcom24",
+      "title": "Volo FlyDubai, media: \"Israele ricevette in anticipo l'elenco dell'equipaggio\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/flydubai-media-immagini-matrice-terroristica-social-sospettato_117235202-202602k.shtml",
+      "published": "2026-10-03T19:45:00+00:00"
+    },
+    {
+      "id": "f89d5f05237f5df913a3",
+      "source": "TGcom24",
+      "title": "Marcello Fois vince il Premio Campiello 2026 con \"L'immensa distrazione\"",
+      "url": "https://www.tgcom24.mediaset.it/cultura/campiello-2026-vincitore-marcello-fois_117257766-202602k.shtml",
+      "published": "2026-10-03T19:04:00+00:00"
+    },
+    {
+      "id": "872f6b02a7b7f7eeb585",
+      "source": "TGcom24",
+      "title": "Foggia, padre e figlio piccolo cadono dal terrazzo: l'uomo è gravissimo",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/vieste-padre-figlio-cadono-terrazzo-festa-matrimonio_117257591-202602k.shtml",
+      "published": "2026-10-03T18:27:00+00:00"
     },
     {
       "id": "654d6f65dded89bcdb81",
       "source": "TGcom24",
-      "title": "Intesa Sanpaolo rilancia su Mps: 3,8 miliardi cash nell'Opas",
+      "title": "Intesa Sanpaolo rilancia su Mps: 3,8 miliardi cash per l'Opas",
       "url": "https://www.tgcom24.mediaset.it/economia/intesa-sanpaolo-mps-offerta_117257255-202602k.shtml",
       "published": "2026-10-03T17:51:00+00:00"
     },
@@ -63,14 +140,14 @@
     {
       "id": "bd733d861a95acc1bb43",
       "source": "TGcom24",
-      "title": "Ucraina, Zelensky: \"Aumenteremo gli attacchi alle raffinerie russe\"",
+      "title": "Guerra in Ucraina, Zelensky: \"Aumenteremo gli attacchi alle raffinerie russe\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-colpito-ponte-nord-kiev_117233163-202602k.shtml",
       "published": "2026-10-03T17:14:00+00:00"
     },
     {
       "id": "792ec29a238e88095d18",
       "source": "TGcom24",
-      "title": "Spagna, 70mila persone in piazza a Madrid e in altre città contro la crisi abitativa",
+      "title": "Spagna, decine di migliaia di persone in piazza a Madrid contro la crisi abitativa",
       "url": "https://www.tgcom24.mediaset.it/mondo/spagna-proteste-madrid-crisi-casa_117253983-202602k.shtml",
       "published": "2026-10-03T16:44:00+00:00"
     },
@@ -105,21 +182,14 @@
     {
       "id": "a92ab423513c6cc9e132",
       "source": "TGcom24",
-      "title": "Setta in Val di Susa, le complici-serve \"dovevano lavarlo e vestirlo\"",
+      "title": "Setta in Val di Susa, le complici-serve \"dovevano lavare il santone e vestirlo\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/setta-guru-almese-torino-bruno-malatesta-schiave_117252301-202602k.shtml",
       "published": "2026-10-03T14:43:00+00:00"
     },
     {
-      "id": "f4ca98ee1f6448e522d4",
-      "source": "BBC News",
-      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-      "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-03T14:27:33+00:00"
-    },
-    {
       "id": "7e5923a4aaac59efa65c",
       "source": "TGcom24",
-      "title": "Pioggia di rincari per la guerra in Iran: per una famiglia con due figli +1.415 euro",
+      "title": "Pioggia di rincari per la guerra in Iran: +1.415 euro per una famiglia con due figli",
       "url": "https://www.tgcom24.mediaset.it/economia/pioggia-rincari-guerra-iran_117243273-202602k.shtml",
       "published": "2026-10-03T14:12:00+00:00"
     },
@@ -140,14 +210,14 @@
     {
       "id": "db5c1a947176d57b573a",
       "source": "TGcom24",
-      "title": "Crans-Montana, Jacques Moretti sarà sottoposto a perizia psichiatrica",
+      "title": "Crans-Montana, Jacques Moretti sarà sottoposto a una perizia psichiatrica",
       "url": "https://www.tgcom24.mediaset.it/mondo/crans-montana-jacques-moretti-perizia-psichiatrica_117250674-202602k.shtml",
       "published": "2026-10-03T13:24:00+00:00"
     },
     {
       "id": "8a45463d39684b67ac59",
       "source": "TGcom24",
-      "title": "Bologna, maltratta la moglie e le vieta di parlare l'italiano: braccialetto elettronico a 51enne",
+      "title": "Bologna, maltratta la moglie e le vieta l'italiano: braccialetto elettronico a 51enne",
       "url": "https://www.tgcom24.mediaset.it/cronaca/bologna-maltratta-moglie-vieta-italiano_117242090-202602k.shtml",
       "published": "2026-10-03T12:37:00+00:00"
     },
@@ -161,21 +231,21 @@
     {
       "id": "b09ed24a28b9a238cd2e",
       "source": "TGcom24",
-      "title": "Carburanti, il ministero: \"Oltre 10mila distributori hanno aderito al price cap\"",
+      "title": "Carburanti, il Mimit: \"Oltre 10mila distributori hanno aderito al price cap\"",
       "url": "https://www.tgcom24.mediaset.it/economia/carburanti-mimt-10mila-distributori-aderito-price-cap_117244953-202602k.shtml",
       "published": "2026-10-03T12:02:00+00:00"
     },
     {
       "id": "8664f69ff7d5c640c502",
       "source": "TGcom24",
-      "title": "Salerno, in casa materiale per costruire bombe e armi: arrestato 21enne",
+      "title": "Salerno, aveva in casa materiale per costruire bombe e armi: arrestato 21enne",
       "url": "https://www.tgcom24.mediaset.it/cronaca/salerno-arrestato-21enne-terrorismo_117248075-202602k.shtml",
       "published": "2026-10-03T11:30:00+00:00"
     },
     {
       "id": "973902e712870baa42cf",
       "source": "TGcom24",
-      "title": "Garlasco, legale Stasi: c'è altro elemento che farà scalpore, non legato al 2007",
+      "title": "Garlasco, legale di Stasi: c'è altro elemento che farà scalpore, non legato al 2007",
       "url": "https://www.tgcom24.mediaset.it/cronaca/delitto-di-garlasco-legale-altro-elemento_117246412-202602k.shtml",
       "published": "2026-10-03T11:03:00+00:00"
     },
@@ -189,16 +259,9 @@
     {
       "id": "9cb0a26f9032a00dc765",
       "source": "TGcom24",
-      "title": "Proteste studenti a Marsiglia, donna ustionata in volto: arrestato 15enne",
+      "title": "Proteste studentesche a Marsiglia, donna ustionata in volto: arrestato 15enne",
       "url": "https://www.tgcom24.mediaset.it/mondo/francia-proteste-studenti-spray-lanciafiamme-arrestato_117245271-202602k.shtml",
       "published": "2026-10-03T10:23:00+00:00"
-    },
-    {
-      "id": "ac6023494ce61ef1e0d0",
-      "source": "TGcom24",
-      "title": "Cgia, caro-carburanti: \"A ottobre italiani spenderanno 1,1 miliardi in più\"",
-      "url": "https://www.tgcom24.mediaset.it/tgcomlab/trend/caro-carburanti-ottobre-1-1-miliardi-cgia_117242086-202602k.shtml",
-      "published": "2026-10-03T09:39:00+00:00"
     },
     {
       "id": "f20c0df9d53e9c1e77cc",
@@ -208,60 +271,11 @@
       "published": "2026-10-03T08:51:14+00:00"
     },
     {
-      "id": "0f3ce2790e009582f300",
-      "source": "TGcom24",
-      "title": "Varese, sequestrata cocaina aromatizzata alla frutta: tre arresti",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/varese-sequestrata-cocaina-fragola-cocco-melone_117237710-202602k.shtml",
-      "published": "2026-10-03T08:40:00+00:00"
-    },
-    {
-      "id": "afa6ef7bd70c9a428ab5",
-      "source": "TGcom24",
-      "title": "Reggio Emilia, aggredì tre persone al benzinaio: si uccide in carcere",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/reggio-emilia-aggredi-tre-persone-al-distributore-di-benzina-si-impicca-in-carcere_117237341-202602k.shtml",
-      "published": "2026-10-03T08:00:00+00:00"
-    },
-    {
-      "id": "bdbc5b43d65cf2f87e07",
-      "source": "TGcom24",
-      "title": "Volo FlyDubai, \"immagini di matrice terroristica sui social media del sospettato\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/flydubai-media-immagini-matrice-terroristica-social-sospettato_117235202-202602k.shtml",
-      "published": "2026-10-03T07:30:00+00:00"
-    },
-    {
       "id": "530a84b0838f1535e44c",
       "source": "BBC News",
       "title": "Joker persona helps Cong 'feel the fear' in opponents",
       "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckq5x5de46ppo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-03T07:07:09+00:00"
-    },
-    {
-      "id": "b593ed98ceecaff0a267",
-      "source": "TGcom24",
-      "title": "Roma, aveva istruzioni per bombe: anarchico arrestato per terrorismo",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/roma-cellulare-regole-bombe-arrestato-terrorismo_117235205-202602k.shtml",
-      "published": "2026-10-03T07:00:00+00:00"
-    },
-    {
-      "id": "94def9d7f0320ced27c7",
-      "source": "TGcom24",
-      "title": "Siberia, donna muore di peste polmonare: 200 persone in quarantena",
-      "url": "https://www.tgcom24.mediaset.it/mondo/siberia-donna-morta-peste-quarantena_117233730-202602k.shtml",
-      "published": "2026-10-03T06:30:00+00:00"
-    },
-    {
-      "id": "5bb0a5e181c496d62d1a",
-      "source": "TGcom24",
-      "title": "Auto si schianta sulla folla in Australia, 10 feriti",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/auto-si-schianta-sulla-folla-in-australia-10-feriti_117233541-02k.shtml",
-      "published": "2026-10-03T06:00:00+00:00"
-    },
-    {
-      "id": "a17cb1fc65be7df13217",
-      "source": "TGcom24",
-      "title": "Ucraina, Mosca colpisce un altro importante ponte di Kiev",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-colpito-ponte-nord-kiev_117233163-202602k.shtml",
-      "published": "2026-10-03T05:30:00+00:00"
     },
     {
       "id": "079b6db737f6cc52beb0",
@@ -339,13 +353,6 @@
       "title": "How widely used is the death penalty in the US?",
       "url": "https://www.bbc.co.uk/news/videos/c54g1e3yxv0ko?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-02T19:56:28+00:00"
-    },
-    {
-      "id": "b9bdca3d4dbbb187eb77",
-      "source": "BBC News",
-      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
-      "url": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T16:08:25+00:00"
     }
   ]
 }
