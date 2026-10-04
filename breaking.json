@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-04T23:20:44.216784+00:00",
+  "updated_at": "2026-10-04T23:31:42.615036+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-10-04T23:20:44.216784+00:00"
+      "checked_at": "2026-10-04T23:31:42.615036+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-04T23:20:44.216784+00:00"
+      "checked_at": "2026-10-04T23:31:42.615036+00:00"
     }
   },
   "items": [
+    {
+      "id": "586d4daf3b14b2bdb43e",
+      "source": "BBC News",
+      "title": "Rescuers suspend search for survivors after plane went missing off US coast",
+      "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-04T23:29:18+00:00"
+    },
     {
       "id": "9acecfa88abdd3d75a67",
       "source": "BBC News",
@@ -241,13 +248,6 @@
       "title": "Rare tornado whips through small Australian town",
       "url": "https://www.bbc.co.uk/news/videos/c69qzvggzppro?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-04T04:15:36+00:00"
-    },
-    {
-      "id": "586d4daf3b14b2bdb43e",
-      "source": "BBC News",
-      "title": "Debris found from plane that went missing off US coast",
-      "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-04T03:49:06+00:00"
     },
     {
       "id": "53ab028c0f770829d296",
