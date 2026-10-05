@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-10-05T11:43:38.512150+00:00",
+  "updated_at": "2026-10-05T11:59:22.097510+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-05T11:43:38.512150+00:00"
+      "checked_at": "2026-10-05T11:59:22.097510+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-05T11:43:38.512150+00:00"
+      "checked_at": "2026-10-05T11:59:22.097510+00:00"
     }
   },
   "items": [
+    {
+      "id": "dc1e52220c21a9bc2f67",
+      "source": "BBC News",
+      "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+      "url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T11:34:59+00:00"
+    },
     {
       "id": "17a355aabdaa56ee8841",
       "source": "TGcom24",
       "title": "Omicidio Genini, la mamma di Pamela su Soncin: \"Scuse respinte, parole di plastica\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/pamela-genini-soncin-comprendo-peso-azioni_117310688-202602k.shtml",
       "published": "2026-10-05T11:22:00+00:00"
+    },
+    {
+      "id": "27d1463eff2e81c9d953",
+      "source": "BBC News",
+      "title": "Indian singer Anuv Jain on finding success without the Bollywood boost",
+      "url": "https://www.bbc.co.uk/news/articles/c933xnneg2zvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T11:10:28+00:00"
     },
     {
       "id": "8271488c58864e48031e",
@@ -117,6 +131,13 @@
       "published": "2026-10-05T08:22:41+00:00"
     },
     {
+      "id": "7e3e88e1c27624d55e4d",
+      "source": "BBC News",
+      "title": "£800m in, £800m out - Why Man City scandal shines light on Man Utd finances",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg5j87jy3zmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T08:08:02+00:00"
+    },
+    {
       "id": "d16cadcb267afd999fe8",
       "source": "TGcom24",
       "title": "Milano, ciclista investito e ucciso da un'auto: ignota l'identità della vittima",
@@ -192,6 +213,13 @@
       "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
       "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-05T03:16:16+00:00"
+    },
+    {
+      "id": "3c2ddfa1753f5fed89c7",
+      "source": "BBC News",
+      "title": "How India became dangerously addicted to Chinese imports",
+      "url": "https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T01:42:11+00:00"
     },
     {
       "id": "f69db04b5a37ffe78032",
@@ -290,13 +318,6 @@
       "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
       "url": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-04T16:24:48+00:00"
-    },
-    {
-      "id": "dce5174d27c1ee7e224e",
-      "source": "BBC News",
-      "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-      "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-04T14:25:32+00:00"
     },
     {
       "id": "f1087b3f776c9d4c788d",
