@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-05T05:20:44.744188+00:00",
+  "updated_at": "2026-10-05T05:40:48.069629+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-05T05:20:44.744188+00:00"
+      "checked_at": "2026-10-05T05:40:48.069629+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-05T05:20:44.744188+00:00"
+      "checked_at": "2026-10-05T05:40:48.069629+00:00"
     }
   },
   "items": [
+    {
+      "id": "e48bdb300706a16d6c60",
+      "source": "TGcom24",
+      "title": "Yemen, il governo rivendica 1.122 attacchi contro gli Houthi",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-5-ottobre_117305576-202602k.shtml",
+      "published": "2026-10-05T05:33:00+00:00"
+    },
+    {
+      "id": "b9100651389a16a0ac20",
+      "source": "BBC News",
+      "title": "Supporters of jailed ex-PM Imran Khan march to Pakistan capital",
+      "url": "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T05:28:46+00:00"
+    },
     {
       "id": "a75c8befedda14109434",
       "source": "TGcom24",
@@ -59,13 +73,6 @@
       "title": "All six passengers presumed dead after plane went missing off US coast",
       "url": "https://www.bbc.co.uk/news/articles/cmze4g8r6nr9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-05T04:00:35+00:00"
-    },
-    {
-      "id": "b9100651389a16a0ac20",
-      "source": "BBC News",
-      "title": "Supporters of jailed ex-PM Imran Khan march to Pakistan capital",
-      "url": "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T03:59:03+00:00"
     },
     {
       "id": "5dfc748bf73d142d45a0",
@@ -262,13 +269,6 @@
       "title": "Morte per ricina, focus su alcune ricerche web sui veleni: chiesto aiuto a Fbi",
       "url": "https://www.tgcom24.mediaset.it/cronaca/ricina-pietracatella-fbi-reddit-ospedale_117269995-202602k.shtml",
       "published": "2026-10-04T11:56:00+00:00"
-    },
-    {
-      "id": "432edebad20c4ba9a585",
-      "source": "TGcom24",
-      "title": "Pescara, investita da un pullman al terminal bus: morta 71enne",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/pescara-investimento-terminal-bus_117279574-202602k.shtml",
-      "published": "2026-10-04T11:25:00+00:00"
     },
     {
       "id": "1c69f3b1c1492cc9982e",
