@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-05T09:02:57.249506+00:00",
+  "updated_at": "2026-10-05T09:21:23.491088+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-05T09:02:57.249506+00:00"
+      "checked_at": "2026-10-05T09:21:23.491088+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-05T09:02:57.249506+00:00"
+      "checked_at": "2026-10-05T09:21:23.491088+00:00"
     }
   },
   "items": [
+    {
+      "id": "5470a27f9ca032ba7ef3",
+      "source": "BBC News",
+      "title": "US air force removes all bombers from British military base RAF Fairford",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T09:20:45+00:00"
+    },
+    {
+      "id": "450d5db5a197aa830f1a",
+      "source": "BBC News",
+      "title": "How Spain's housing crisis has resulted in an early general election",
+      "url": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T09:03:30+00:00"
+    },
     {
       "id": "51a7c94a2369a92dfefe",
       "source": "TGcom24",
@@ -31,13 +45,6 @@
       "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
       "url": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-05T08:29:12+00:00"
-    },
-    {
-      "id": "5470a27f9ca032ba7ef3",
-      "source": "BBC News",
-      "title": "US air force removes all bombers from British military base RAF Fairford",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T08:28:37+00:00"
     },
     {
       "id": "d16cadcb267afd999fe8",
