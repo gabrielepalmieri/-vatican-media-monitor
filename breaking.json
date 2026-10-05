@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-05T17:41:33.792895+00:00",
+  "updated_at": "2026-10-05T17:54:12.292868+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-05T17:41:33.792895+00:00"
+      "checked_at": "2026-10-05T17:54:12.292868+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-05T17:41:33.792895+00:00"
+      "checked_at": "2026-10-05T17:54:12.292868+00:00"
     }
   },
   "items": [
+    {
+      "id": "0fa233c367a85a8733ea",
+      "source": "BBC News",
+      "title": "Yemeni military says it has retaken Mokha and 'secured' Red Sea waterway",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T17:49:59+00:00"
+    },
     {
       "id": "585adad34712b30d8002",
       "source": "TGcom24",
@@ -87,13 +94,6 @@
       "title": "Garlasco, spunta una valutazione su Stasi del 2007 senza firma e mai depositata",
       "url": "https://www.tgcom24.mediaset.it/cronaca/garlasco-valutazione-stasi-2007-senza-firma-mai-depositata_117319514-202602k.shtml",
       "published": "2026-10-05T14:55:00+00:00"
-    },
-    {
-      "id": "0fa233c367a85a8733ea",
-      "source": "BBC News",
-      "title": "Yemeni government forces say they have 'secured' Bab al-Mandab Strait",
-      "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T14:37:17+00:00"
     },
     {
       "id": "c3dc4b2f825901c821a1",
