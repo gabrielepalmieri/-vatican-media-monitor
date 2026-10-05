@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-05T08:36:51.635613+00:00",
+  "updated_at": "2026-10-05T08:53:04.554616+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-05T08:36:51.635613+00:00"
+      "checked_at": "2026-10-05T08:53:04.554616+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-05T08:36:51.635613+00:00"
+      "checked_at": "2026-10-05T08:53:04.554616+00:00"
     }
   },
   "items": [
+    {
+      "id": "d5a1cd6e05ede88236dc",
+      "source": "TGcom24",
+      "title": "Firenze, trovata bombola di gas sotto il David in piazzale Michelangelo",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/firenze-bombola-gas-sotto-david-piazzale-michelangelo_117309761-202602k.shtml",
+      "published": "2026-10-05T08:37:00+00:00"
+    },
     {
       "id": "bf2c8261ea2271a96e11",
       "source": "BBC News",
@@ -255,13 +262,6 @@
       "title": "Trump crea task force sull'AI, la guiderà il capo dell'intelligence Clayton",
       "url": "https://www.tgcom24.mediaset.it/mondo/trump-crea-una-task-force-sull-ai-a-guidarla-il-capo-dell-intelligence-jay-clayton_117290668-202602k.shtml",
       "published": "2026-10-04T14:25:00+00:00"
-    },
-    {
-      "id": "139a87913aab41775c9a",
-      "source": "TGcom24",
-      "title": "Aosta, picchiato di notte in pieno centro: è grave in ospedale",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/aosta-picchiato-grave-ospedale_117289999-202602k.shtml",
-      "published": "2026-10-04T13:30:00+00:00"
     },
     {
       "id": "f1087b3f776c9d4c788d",
