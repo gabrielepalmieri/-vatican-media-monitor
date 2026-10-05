@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-05T10:54:52.579885+00:00",
+  "updated_at": "2026-10-05T11:08:54.431580+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-05T10:54:52.579885+00:00"
+      "checked_at": "2026-10-05T11:08:54.431580+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-05T10:54:52.579885+00:00"
+      "checked_at": "2026-10-05T11:08:54.431580+00:00"
     }
   },
   "items": [
+    {
+      "id": "8271488c58864e48031e",
+      "source": "BBC News",
+      "title": "Nobel Prize awarded for showing how nerve cells shape feelings",
+      "url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T11:04:37+00:00"
+    },
     {
       "id": "00f004d10a2432579806",
       "source": "TGcom24",
@@ -24,13 +31,6 @@
       "title": "US air force removes all bombers from British military base RAF Fairford",
       "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-05T10:39:09+00:00"
-    },
-    {
-      "id": "8271488c58864e48031e",
-      "source": "BBC News",
-      "title": "Nobel Prize awarded for showing how nerve cells shape feelings",
-      "url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T10:37:58+00:00"
     },
     {
       "id": "cd81ed03bb52c317d627",
