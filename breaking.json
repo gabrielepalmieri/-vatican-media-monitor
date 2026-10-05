@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-05T21:36:28.931819+00:00",
+  "updated_at": "2026-10-05T21:50:56.376599+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-05T21:36:28.931819+00:00"
+      "checked_at": "2026-10-05T21:50:56.376599+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-05T21:36:28.931819+00:00"
+      "checked_at": "2026-10-05T21:50:56.376599+00:00"
     }
   },
   "items": [
+    {
+      "id": "43e649f48ffbfc575a9f",
+      "source": "BBC News",
+      "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+      "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T21:46:22+00:00"
+    },
     {
       "id": "1ae85f2af2b50e8441ea",
       "source": "BBC News",
@@ -24,13 +31,6 @@
       "title": "Napoli, colpito alla gola con le forbici dalla sorella di 15 anni: è gravissimo",
       "url": "https://www.tgcom24.mediaset.it/cronaca/napoli-colpito-gola-forbici-sorella_117339200-202602k.shtml",
       "published": "2026-10-05T21:32:00+00:00"
-    },
-    {
-      "id": "43e649f48ffbfc575a9f",
-      "source": "BBC News",
-      "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
-      "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T21:24:34+00:00"
     },
     {
       "id": "435f2ed6162cc09d9ec1",
