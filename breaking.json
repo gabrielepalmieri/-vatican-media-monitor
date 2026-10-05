@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-05T04:59:43.181354+00:00",
+  "updated_at": "2026-10-05T05:20:44.744188+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-05T04:59:43.181354+00:00"
+      "checked_at": "2026-10-05T05:20:44.744188+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-05T04:59:43.181354+00:00"
+      "checked_at": "2026-10-05T05:20:44.744188+00:00"
     }
   },
   "items": [
+    {
+      "id": "a75c8befedda14109434",
+      "source": "TGcom24",
+      "title": "Georgia, sparatoria durante una festa di quartiere: due morti e quasi 30 feriti",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-sparatoria-georgia-due-morti_117305512-202602k.shtml",
+      "published": "2026-10-05T05:02:00+00:00"
+    },
     {
       "id": "5470a27f9ca032ba7ef3",
       "source": "BBC News",
@@ -262,13 +269,6 @@
       "title": "Pescara, investita da un pullman al terminal bus: morta 71enne",
       "url": "https://www.tgcom24.mediaset.it/cronaca/pescara-investimento-terminal-bus_117279574-202602k.shtml",
       "published": "2026-10-04T11:25:00+00:00"
-    },
-    {
-      "id": "5a35d4ce218c3fc9e502",
-      "source": "TGcom24",
-      "title": "Maltempo in Catalogna: due morti, voli da e per Barcellona cancellati",
-      "url": "https://www.tgcom24.mediaset.it/mondo/spagna-maltempo-catalogna_117279745-202602k.shtml",
-      "published": "2026-10-04T10:55:00+00:00"
     },
     {
       "id": "1c69f3b1c1492cc9982e",
