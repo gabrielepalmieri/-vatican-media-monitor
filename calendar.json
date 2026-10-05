@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-05T05:28:55.443403+00:00",
+  "updated_at": "2026-10-05T22:24:01.890577+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-10-05T05:28:55.443403+00:00",
+  "un_verified_at": "2026-10-05T22:24:01.890577+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,17 +1918,6 @@
     }
   ],
   "days": {
-    "2026-10-04": {
-      "saints": [
-        {
-          "title": "San Francesco d'Assisi",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/04/san-francesco-d-assisi.html"
-        }
-      ],
-      "un": [],
-      "un_available": true,
-      "holy_see": []
-    },
     "2026-10-05": {
       "saints": [
         {
@@ -2548,6 +2537,26 @@
         }
       ],
       "un": [],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-11-10": {
+      "saints": [
+        {
+          "title": "San Leone Magno, papa e dottore della Chiesa",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/10/san-leone-magno--papa-e-dottore-della-chiesa.html"
+        },
+        {
+          "title": "Sant'Andrea Avellino, sacerdote teatino",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/10.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata mondiale della scienza per la pace e lo sviluppo",
+          "url": "https://www.un.org/en/observances/world-science-day"
+        }
+      ],
       "un_available": true,
       "holy_see": []
     }
