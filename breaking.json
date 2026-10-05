@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-05T13:00:22.711127+00:00",
+  "updated_at": "2026-10-05T13:17:21.287008+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-05T13:00:22.711127+00:00"
+      "checked_at": "2026-10-05T13:17:21.287008+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-05T13:00:22.711127+00:00"
+      "checked_at": "2026-10-05T13:17:21.287008+00:00"
     }
   },
   "items": [
@@ -16,7 +16,14 @@
       "source": "BBC News",
       "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
       "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T12:48:01+00:00"
+      "published": "2026-10-05T13:16:00+00:00"
+    },
+    {
+      "id": "ffe99bf8f6277c68390a",
+      "source": "TGcom24",
+      "title": "Foggia, tentato assalto a un portavalori sulla A14: mezzi in fiamme",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/foggia-assalto-a-un-portavalori-su-a14_117317565-202602k.shtml",
+      "published": "2026-10-05T13:00:00+00:00"
     },
     {
       "id": "b46bafc72d96b3c0d25e",
@@ -70,7 +77,7 @@
     {
       "id": "8271488c58864e48031e",
       "source": "BBC News",
-      "title": "Nobel Prize awarded for showing inner workings of the brain",
+      "title": "Nobel Prize awarded for revealing inner workings of the brain",
       "url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-05T11:04:37+00:00"
     },
@@ -297,13 +304,6 @@
       "title": "Chiara Poggi, i genitori a Verissimo: \"Dopo 19 anni ha il diritto di riposare in pace\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/chiara-poggi-intervista-genitori-verissimo-garlasco_117294398-202602k.shtml",
       "published": "2026-10-04T18:12:00+00:00"
-    },
-    {
-      "id": "f356455a569d51be8f83",
-      "source": "TGcom24",
-      "title": "Volo FlyDubai, media: \"Il copilota voleva schiantare l'aereo su aeroporto Ben Gurion\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/volo-flydubai-copilota-schianto-su-aeroporto-tel-aviv_117298833-202602k.shtml",
-      "published": "2026-10-04T17:41:00+00:00"
     },
     {
       "id": "52fa25692b7619de9930",
