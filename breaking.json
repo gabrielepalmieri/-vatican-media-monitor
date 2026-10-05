@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-05T09:21:23.491088+00:00",
+  "updated_at": "2026-10-05T09:39:36.229944+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-05T09:21:23.491088+00:00"
+      "checked_at": "2026-10-05T09:39:36.229944+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-05T09:21:23.491088+00:00"
+      "checked_at": "2026-10-05T09:39:36.229944+00:00"
     }
   },
   "items": [
+    {
+      "id": "348e7e4670a70cde04dc",
+      "source": "TGcom24",
+      "title": "Istat, pressione fiscale aumenta al 43,5%: cala propensione al risparmio",
+      "url": "https://www.tgcom24.mediaset.it/economia/istat-pressione-fiscale-risparmio_117310448-202602k.shtml",
+      "published": "2026-10-05T09:25:00+00:00"
+    },
     {
       "id": "5470a27f9ca032ba7ef3",
       "source": "BBC News",
@@ -35,7 +42,7 @@
     {
       "id": "d5a1cd6e05ede88236dc",
       "source": "TGcom24",
-      "title": "Firenze, trovata bombola di gas sotto il David in piazzale Michelangelo",
+      "title": "Firenze, trovata bombola gas sotto David in piazzale Michelangelo: \"inoffensiva\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/firenze-bombola-gas-sotto-david-piazzale-michelangelo_117309761-202602k.shtml",
       "published": "2026-10-05T08:37:00+00:00"
     },
@@ -45,6 +52,13 @@
       "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
       "url": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-05T08:29:12+00:00"
+    },
+    {
+      "id": "2e177d1ef3d8a9dfdba7",
+      "source": "BBC News",
+      "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
+      "url": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T08:22:41+00:00"
     },
     {
       "id": "d16cadcb267afd999fe8",
@@ -269,13 +283,6 @@
       "title": "Watch: What we know about Russian strikes on Kyiv bridges",
       "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-04T14:25:32+00:00"
-    },
-    {
-      "id": "f75bf8a1ab365011f97b",
-      "source": "TGcom24",
-      "title": "Trump crea task force sull'AI, la guiderà il capo dell'intelligence Clayton",
-      "url": "https://www.tgcom24.mediaset.it/mondo/trump-crea-una-task-force-sull-ai-a-guidarla-il-capo-dell-intelligence-jay-clayton_117290668-202602k.shtml",
-      "published": "2026-10-04T14:25:00+00:00"
     },
     {
       "id": "f1087b3f776c9d4c788d",
