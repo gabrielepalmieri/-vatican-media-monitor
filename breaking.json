@@ -1,29 +1,36 @@
 {
-  "updated_at": "2026-10-05T12:41:11.977332+00:00",
+  "updated_at": "2026-10-05T13:00:22.711127+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-05T12:41:11.977332+00:00"
+      "checked_at": "2026-10-05T13:00:22.711127+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-05T12:41:11.977332+00:00"
+      "checked_at": "2026-10-05T13:00:22.711127+00:00"
     }
   },
   "items": [
+    {
+      "id": "2f7852fe722ed841a5d1",
+      "source": "BBC News",
+      "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
+      "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T12:48:01+00:00"
+    },
+    {
+      "id": "b46bafc72d96b3c0d25e",
+      "source": "TGcom24",
+      "title": "Garlasco, forse verranno ascoltati inquirenti del 2007 sulla bici di Stasi",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/garlasco-stasi-accertamenti-bici_117317746-202602k.shtml",
+      "published": "2026-10-05T12:30:00+00:00"
+    },
     {
       "id": "814bfde4e3ca464c94a9",
       "source": "BBC News",
       "title": "Teenager's hand blown off during confrontation between France school protesters and police",
       "url": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-05T12:29:45+00:00"
-    },
-    {
-      "id": "2f7852fe722ed841a5d1",
-      "source": "BBC News",
-      "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
-      "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T12:21:32+00:00"
     },
     {
       "id": "827238b3a63b8ce0e0d6",
@@ -297,20 +304,6 @@
       "title": "Volo FlyDubai, media: \"Il copilota voleva schiantare l'aereo su aeroporto Ben Gurion\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/volo-flydubai-copilota-schianto-su-aeroporto-tel-aviv_117298833-202602k.shtml",
       "published": "2026-10-04T17:41:00+00:00"
-    },
-    {
-      "id": "f301802eb987308477e9",
-      "source": "TGcom24",
-      "title": "Pescara, accoltella la moglie davanti al figlio e poi tenta il suicidio: arrestato",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/pescara-accoltella-moglie-davanti-a-figlio-poi-tenta-suicidio_117298639-202602k.shtml",
-      "published": "2026-10-04T17:19:00+00:00"
-    },
-    {
-      "id": "fd6406ce66714ddba57a",
-      "source": "BBC News",
-      "title": "Indian police accused of sexually harassing journalists at protest",
-      "url": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-04T17:01:19+00:00"
     },
     {
       "id": "52fa25692b7619de9930",
