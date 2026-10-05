@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-10-05T16:08:27.058800+00:00",
+  "updated_at": "2026-10-05T16:25:45.835767+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-05T16:08:27.058800+00:00"
+      "checked_at": "2026-10-05T16:25:45.835767+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-05T16:08:27.058800+00:00"
+      "checked_at": "2026-10-05T16:25:45.835767+00:00"
     }
   },
   "items": [
+    {
+      "id": "16dafd0634c5c48719fc",
+      "source": "TGcom24",
+      "title": "Emergenza su un volo Londra-Chicago, l'aereo rientrato a Heathrow",
+      "url": "https://www.tgcom24.mediaset.it/mondo/volo-londra-chicago-emergenza_117324031-202602k.shtml",
+      "published": "2026-10-05T16:21:00+00:00"
+    },
+    {
+      "id": "2f7852fe722ed841a5d1",
+      "source": "BBC News",
+      "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
+      "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T16:13:35+00:00"
+    },
+    {
+      "id": "ee6b5a04e850eff04d2d",
+      "source": "BBC News",
+      "title": "Pentagon stops using Anthropic AI tools months after blacklisting company, BBC told",
+      "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T16:13:21+00:00"
+    },
     {
       "id": "c375e26b2858b32970f0",
       "source": "TGcom24",
@@ -73,13 +94,6 @@
       "title": "Termoli, furgone finisce nel mare in porto: morto il conducente",
       "url": "https://www.tgcom24.mediaset.it/cronaca/termoli-furgone-in-mare-porto-morto-conducente_117319003-202602k.shtml",
       "published": "2026-10-05T13:56:00+00:00"
-    },
-    {
-      "id": "2f7852fe722ed841a5d1",
-      "source": "BBC News",
-      "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
-      "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T13:16:00+00:00"
     },
     {
       "id": "ffe99bf8f6277c68390a",
@@ -159,13 +173,6 @@
       "published": "2026-10-05T10:25:00+00:00"
     },
     {
-      "id": "b9100651389a16a0ac20",
-      "source": "BBC News",
-      "title": "Supporters of jailed ex-PM Imran Khan begin march in Pakistan",
-      "url": "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T10:23:26+00:00"
-    },
-    {
       "id": "7a9fb1bdb6f6c766f401",
       "source": "BBC News",
       "title": "Spanish PM Sánchez calls early election after housing protests",
@@ -213,13 +220,6 @@
       "title": "Firenze, trovata bombola gas sotto David in piazzale Michelangelo: \"inoffensiva\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/firenze-bombola-gas-sotto-david-piazzale-michelangelo_117309761-202602k.shtml",
       "published": "2026-10-05T08:37:00+00:00"
-    },
-    {
-      "id": "bf2c8261ea2271a96e11",
-      "source": "BBC News",
-      "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
-      "url": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T08:29:12+00:00"
     },
     {
       "id": "2e177d1ef3d8a9dfdba7",
@@ -313,32 +313,11 @@
       "published": "2026-10-05T01:42:11+00:00"
     },
     {
-      "id": "f69db04b5a37ffe78032",
-      "source": "BBC News",
-      "title": "Forced to call him 'Dad': Trial over sexual abuse in disabled care home shocks South Korea",
-      "url": "https://www.bbc.co.uk/news/articles/cmy4z93n9n1zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-04T22:11:33+00:00"
-    },
-    {
       "id": "dc8afcee1758900dcffd",
       "source": "TGcom24",
       "title": "Spagna verso le elezioni anticipate, Sanchez prepara il ritorno alle urne",
       "url": "https://www.tgcom24.mediaset.it/mondo/spagna-verso-elezioni-anticipate_117303533-202602k.shtml",
       "published": "2026-10-04T21:55:00+00:00"
-    },
-    {
-      "id": "68cc7f2fd07e30ae4f93",
-      "source": "TGcom24",
-      "title": "Bosnia, il serbo Dodik rivendica la vittoria del suo partito",
-      "url": "https://www.tgcom24.mediaset.it/mondo/bosnia-serbo-dodik-vittoria-elezioni_117302974-202602k.shtml",
-      "published": "2026-10-04T21:26:00+00:00"
-    },
-    {
-      "id": "1c69f3b1c1492cc9982e",
-      "source": "BBC News",
-      "title": "Rare tornado whips through small Australian town",
-      "url": "https://www.bbc.co.uk/news/videos/c69qzvggzppro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-04T04:15:36+00:00"
     }
   ]
 }
