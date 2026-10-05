@@ -1,22 +1,71 @@
 {
-  "updated_at": "2026-10-05T04:25:39.784374+00:00",
+  "updated_at": "2026-10-05T04:59:43.181354+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-05T04:25:39.784374+00:00"
+      "checked_at": "2026-10-05T04:59:43.181354+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-05T04:25:39.784374+00:00"
+      "checked_at": "2026-10-05T04:59:43.181354+00:00"
     }
   },
   "items": [
+    {
+      "id": "5470a27f9ca032ba7ef3",
+      "source": "BBC News",
+      "title": "US air force removes all bombers from British military base RAF Fairford",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T04:58:56+00:00"
+    },
+    {
+      "id": "7483b5591cc253399066",
+      "source": "BBC News",
+      "title": "Watch: How Brazil's dramatic election unfolded",
+      "url": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T04:51:24+00:00"
+    },
+    {
+      "id": "13c29ecf86f27bd7f4b9",
+      "source": "BBC News",
+      "title": "France closes up to 500 schools Monday over student protests",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T04:49:14+00:00"
+    },
+    {
+      "id": "be8342cb287a187ba763",
+      "source": "TGcom24",
+      "title": "Usa, arrestata presunta spia cinese: seguiva il figlio del leader di Taiwan",
+      "url": "https://www.tgcom24.mediaset.it/mondo/stati-uniti-arrestata-34enne-spia-cinese_117305507-202602k.shtml",
+      "published": "2026-10-05T04:30:00+00:00"
+    },
     {
       "id": "6e675dcc2ebf3746f370",
       "source": "TGcom24",
       "title": "Brasile, Flavio Bolsonaro batte Lula al primo turno",
       "url": "https://www.tgcom24.mediaset.it/mondo/brasile-elezioni-flavio-bolsonaro-batte-lula-primo-turno_117305158-202602k.shtml",
       "published": "2026-10-05T04:03:00+00:00"
+    },
+    {
+      "id": "c65a5d1c159d295cfc94",
+      "source": "BBC News",
+      "title": "All six passengers presumed dead after plane went missing off US coast",
+      "url": "https://www.bbc.co.uk/news/articles/cmze4g8r6nr9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T04:00:35+00:00"
+    },
+    {
+      "id": "b9100651389a16a0ac20",
+      "source": "BBC News",
+      "title": "Supporters of jailed ex-PM Imran Khan march to Pakistan capital",
+      "url": "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T03:59:03+00:00"
+    },
+    {
+      "id": "5dfc748bf73d142d45a0",
+      "source": "BBC News",
+      "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+      "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T03:37:41+00:00"
     },
     {
       "id": "9acecfa88abdd3d75a67",
@@ -26,11 +75,11 @@
       "published": "2026-10-05T03:16:16+00:00"
     },
     {
-      "id": "586d4daf3b14b2bdb43e",
+      "id": "f69db04b5a37ffe78032",
       "source": "BBC News",
-      "title": "Rescuers suspend search for survivors after plane went missing off US coast",
-      "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-04T23:29:18+00:00"
+      "title": "Forced to call him 'Dad': Trial over sexual abuse in disabled care home shocks South Korea",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4z93n9n1zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-04T22:11:33+00:00"
     },
     {
       "id": "dc8afcee1758900dcffd",
@@ -52,13 +101,6 @@
       "title": "Regno Unito, rimossi i bombardieri B-1 Usa da Fairford dopo l'allarme terrorismo",
       "url": "https://www.tgcom24.mediaset.it/mondo/regno-unito-fairfod-spostati-bombardieri-usa_117303174-202602k.shtml",
       "published": "2026-10-04T20:44:00+00:00"
-    },
-    {
-      "id": "a0d99264d695f068bb93",
-      "source": "BBC News",
-      "title": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-04T20:14:49+00:00"
     },
     {
       "id": "6d9c1f5786d79e6a3c6f",
@@ -159,13 +201,6 @@
       "published": "2026-10-04T14:53:00+00:00"
     },
     {
-      "id": "e19e0c99e41655878dc3",
-      "source": "BBC News",
-      "title": "US Marine arrested over murder of woman in Japan's Okinawa",
-      "url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-04T14:36:57+00:00"
-    },
-    {
       "id": "dce5174d27c1ee7e224e",
       "source": "BBC News",
       "title": "Watch: What we know about Russian strikes on Kyiv bridges",
@@ -236,32 +271,11 @@
       "published": "2026-10-04T10:55:00+00:00"
     },
     {
-      "id": "b784e241b219ca98adf2",
-      "source": "BBC News",
-      "title": "Australia investigating Flydubai co-pilot's links to country",
-      "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-04T06:19:17+00:00"
-    },
-    {
       "id": "1c69f3b1c1492cc9982e",
       "source": "BBC News",
       "title": "Rare tornado whips through small Australian town",
       "url": "https://www.bbc.co.uk/news/videos/c69qzvggzppro?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-04T04:15:36+00:00"
-    },
-    {
-      "id": "53ab028c0f770829d296",
-      "source": "BBC News",
-      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-04T03:42:15+00:00"
-    },
-    {
-      "id": "a4f0a6b348177cf0bc4d",
-      "source": "BBC News",
-      "title": "Cornell president says university 'must do better' after frat house rape allegations",
-      "url": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-04T00:11:25+00:00"
     },
     {
       "id": "0437351527a1f4ba67c5",
@@ -276,13 +290,6 @@
       "title": "Why Canada is wargaming a (long shot) US invasion",
       "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-03T23:30:06+00:00"
-    },
-    {
-      "id": "bfd70c03ecfbcba4e830",
-      "source": "BBC News",
-      "title": "US father and son arrested after 'gas station heroin' deaths",
-      "url": "https://www.bbc.co.uk/news/articles/c6qjnlk4r2jjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-03T22:39:06+00:00"
     }
   ]
 }
