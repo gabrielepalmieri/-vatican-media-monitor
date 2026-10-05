@@ -103,7 +103,7 @@
       const direct=new RegExp('\\b'+criticism+'\\b.{0,35}'+target.source);
       const passive=new RegExp(target.source+'.{0,22}\\b(?:sotto accusa|under fire|faces? criticism|facing criticism|al centro delle critiche|(?:is|was|est|e|fue)\\s+(?:criticat\\w*|criticad\\w*|critiqu\\w*|accus\\w*|attaccat\\w*))\\b');
       const contextual=new RegExp(target.source+'.{0,65}\\b(?:critics? demand action|vivement critiquee|rendez-vous rate|sotto pressione|under pressure|in difficolta|in crisis|in crisi|fails? to|failure to|omission\\w*|insabbi\\w*|cover[- ]?up)\\b');
-      const institutional=new RegExp('\\b(?:silenzio|silence|omission\w*|insabbi\w*|cover[- ]?up|responsabilit\\w*|accountability)\\b.{0,25}'+target.source);
+      const institutional=new RegExp('\\b(?:silenzio|silence|omission\\w*|insabbi\\w*|cover[- ]?up|responsabilit\\w*|accountability)\\b.{0,25}'+target.source);
       const explicit=title.match(direct)||title.match(passive)||title.match(contextual)||title.match(institutional);
       if(explicit)return{type:'explicit',label:'Critica esplicita',evidence:explicit[0].slice(0,95)};
       // Un tema sensibile (per esempio gli abusi) non è di per sé una critica al Papa.
