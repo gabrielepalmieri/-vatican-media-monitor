@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-05T04:05:24.724319+00:00",
+  "updated_at": "2026-10-05T04:25:39.784374+00:00",
   "sources": {
     "TGcom24": {
-      "ok": false,
-      "checked_at": "2026-10-05T04:05:24.724319+00:00"
+      "ok": true,
+      "checked_at": "2026-10-05T04:25:39.784374+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-05T04:05:24.724319+00:00"
+      "checked_at": "2026-10-05T04:25:39.784374+00:00"
     }
   },
   "items": [
+    {
+      "id": "6e675dcc2ebf3746f370",
+      "source": "TGcom24",
+      "title": "Brasile, Flavio Bolsonaro batte Lula al primo turno",
+      "url": "https://www.tgcom24.mediaset.it/mondo/brasile-elezioni-flavio-bolsonaro-batte-lula-primo-turno_117305158-202602k.shtml",
+      "published": "2026-10-05T04:03:00+00:00"
+    },
     {
       "id": "9acecfa88abdd3d75a67",
       "source": "BBC News",
@@ -24,6 +31,13 @@
       "title": "Rescuers suspend search for survivors after plane went missing off US coast",
       "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-04T23:29:18+00:00"
+    },
+    {
+      "id": "dc8afcee1758900dcffd",
+      "source": "TGcom24",
+      "title": "Spagna verso le elezioni anticipate, Sanchez prepara il ritorno alle urne",
+      "url": "https://www.tgcom24.mediaset.it/mondo/spagna-verso-elezioni-anticipate_117303533-202602k.shtml",
+      "published": "2026-10-04T21:55:00+00:00"
     },
     {
       "id": "68cc7f2fd07e30ae4f93",
@@ -220,20 +234,6 @@
       "title": "Maltempo in Catalogna: due morti, voli da e per Barcellona cancellati",
       "url": "https://www.tgcom24.mediaset.it/mondo/spagna-maltempo-catalogna_117279745-202602k.shtml",
       "published": "2026-10-04T10:55:00+00:00"
-    },
-    {
-      "id": "68642c5227800aee21cb",
-      "source": "TGcom24",
-      "title": "San Francesco, Mattarella: \"È ancora una lezione per l'oggi\"",
-      "url": "https://www.tgcom24.mediaset.it/politica/sergio-mattarella-san-francesco-assisi_117279729-202602k.shtml",
-      "published": "2026-10-04T10:00:00+00:00"
-    },
-    {
-      "id": "9336e55f8a4eb761dccf",
-      "source": "TGcom24",
-      "title": "Allarme salmonella, in Puglia stop ai pomodori freschi in scuole e ospedali",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/puglia-pomodori-salmonella-divieto-mensa-scuola-ospedale_117275654-202602k.shtml",
-      "published": "2026-10-04T09:28:00+00:00"
     },
     {
       "id": "b784e241b219ca98adf2",
