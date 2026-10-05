@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-05T08:00:03.593446+00:00",
+  "updated_at": "2026-10-05T08:14:58.496709+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-05T08:00:03.593446+00:00"
+      "checked_at": "2026-10-05T08:14:58.496709+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-05T08:00:03.593446+00:00"
+      "checked_at": "2026-10-05T08:14:58.496709+00:00"
     }
   },
   "items": [
+    {
+      "id": "d16cadcb267afd999fe8",
+      "source": "TGcom24",
+      "title": "Milano, ciclista investito e ucciso da un'auto: ignota l'identità della vittima",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-ciclista-investito-cerro-maggiore_117309576-202602k.shtml",
+      "published": "2026-10-05T07:56:00+00:00"
+    },
     {
       "id": "5470a27f9ca032ba7ef3",
       "source": "BBC News",
@@ -255,13 +262,6 @@
       "title": "Aosta, picchiato di notte in pieno centro: è grave in ospedale",
       "url": "https://www.tgcom24.mediaset.it/cronaca/aosta-picchiato-grave-ospedale_117289999-202602k.shtml",
       "published": "2026-10-04T13:30:00+00:00"
-    },
-    {
-      "id": "cf282df16ee8e2a7d6a7",
-      "source": "TGcom24",
-      "title": "Torino, tenta di uccidere la compagna ma lei scappa: 37enne si toglie la vita",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/torino-aggredisce-compagna-suicidio-balcone-barriera-milano_117287976-202602k.shtml",
-      "published": "2026-10-04T12:49:00+00:00"
     },
     {
       "id": "f1087b3f776c9d4c788d",
