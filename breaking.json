@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-05T07:06:17.106077+00:00",
+  "updated_at": "2026-10-05T07:26:11.612835+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-05T07:06:17.106077+00:00"
+      "checked_at": "2026-10-05T07:26:11.612835+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-05T07:06:17.106077+00:00"
+      "checked_at": "2026-10-05T07:26:11.612835+00:00"
     }
   },
   "items": [
+    {
+      "id": "5470a27f9ca032ba7ef3",
+      "source": "BBC News",
+      "title": "US air force removes all bombers from British military base RAF Fairford",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T07:14:28+00:00"
+    },
+    {
+      "id": "e41e1ae49e34789a7b7a",
+      "source": "TGcom24",
+      "title": "Spagna, Pedro Sanchez: \"Elezioni anticipate il 29 novembre\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/spagna-sanchez-annuncio-elezioni_117307969-202602k.shtml",
+      "published": "2026-10-05T07:13:00+00:00"
+    },
     {
       "id": "b24431f6e8a427d96ef5",
       "source": "TGcom24",
@@ -52,13 +66,6 @@
       "title": "Georgia, sparatoria durante una festa di quartiere: due morti e quasi 30 feriti",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-sparatoria-georgia-due-morti_117305512-202602k.shtml",
       "published": "2026-10-05T05:02:00+00:00"
-    },
-    {
-      "id": "5470a27f9ca032ba7ef3",
-      "source": "BBC News",
-      "title": "US air force removes all bombers from British military base RAF Fairford",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T04:58:56+00:00"
     },
     {
       "id": "7483b5591cc253399066",
@@ -255,13 +262,6 @@
       "title": "Torino, tenta di uccidere la compagna ma lei scappa: 37enne si toglie la vita",
       "url": "https://www.tgcom24.mediaset.it/cronaca/torino-aggredisce-compagna-suicidio-balcone-barriera-milano_117287976-202602k.shtml",
       "published": "2026-10-04T12:49:00+00:00"
-    },
-    {
-      "id": "2bd39d40054e2cdf25d9",
-      "source": "TGcom24",
-      "title": "Bimbo di sei anni cade da un palco nel Messinese: è grave",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/bimbo-cade-palco-messinese-grave-_117287153-202602k.shtml",
-      "published": "2026-10-04T12:25:00+00:00"
     },
     {
       "id": "f1087b3f776c9d4c788d",
