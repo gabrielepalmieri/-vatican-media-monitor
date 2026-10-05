@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-05T21:31:41.718330+00:00",
+  "updated_at": "2026-10-05T21:36:28.931819+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-05T21:31:41.718330+00:00"
+      "checked_at": "2026-10-05T21:36:28.931819+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-05T21:31:41.718330+00:00"
+      "checked_at": "2026-10-05T21:36:28.931819+00:00"
     }
   },
   "items": [
+    {
+      "id": "1ae85f2af2b50e8441ea",
+      "source": "BBC News",
+      "title": "US 'watching closely' after plague researcher dies in Russia",
+      "url": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T21:33:49+00:00"
+    },
+    {
+      "id": "2c4f586420e1413842b6",
+      "source": "TGcom24",
+      "title": "Napoli, colpito alla gola con le forbici dalla sorella di 15 anni: è gravissimo",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/napoli-colpito-gola-forbici-sorella_117339200-202602k.shtml",
+      "published": "2026-10-05T21:32:00+00:00"
+    },
     {
       "id": "43e649f48ffbfc575a9f",
       "source": "BBC News",
@@ -38,13 +52,6 @@
       "title": "Volo FlyDubai, il presidente americano Trump: \"Il responsabile è l'Iran\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/volo-flydubai-copilota-gaza_117330516-202602k.shtml",
       "published": "2026-10-05T20:16:00+00:00"
-    },
-    {
-      "id": "1ae85f2af2b50e8441ea",
-      "source": "BBC News",
-      "title": "US 'watching closely' after plague researcher dies in Russia, Rubio says",
-      "url": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T19:55:00+00:00"
     },
     {
       "id": "d9476a090538dc7678d9",
@@ -262,13 +269,6 @@
       "title": "Watch: How Spain's housing crisis has resulted in an early general election",
       "url": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-05T09:03:30+00:00"
-    },
-    {
-      "id": "51a7c94a2369a92dfefe",
-      "source": "TGcom24",
-      "title": "Ex Ilva, la Corte di Milano conferma il blocco degli altoforni",
-      "url": "https://www.tgcom24.mediaset.it/economia/taranto-ex-ilva-confermato-spegnimento-altoforni_117310684-202602k.shtml",
-      "published": "2026-10-05T08:54:00+00:00"
     },
     {
       "id": "2e177d1ef3d8a9dfdba7",
