@@ -1,16 +1,65 @@
 {
-  "updated_at": "2026-10-05T19:09:31.415055+00:00",
+  "updated_at": "2026-10-05T21:31:41.718330+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-05T19:09:31.415055+00:00"
+      "checked_at": "2026-10-05T21:31:41.718330+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-05T19:09:31.415055+00:00"
+      "checked_at": "2026-10-05T21:31:41.718330+00:00"
     }
   },
   "items": [
+    {
+      "id": "43e649f48ffbfc575a9f",
+      "source": "BBC News",
+      "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+      "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T21:24:34+00:00"
+    },
+    {
+      "id": "435f2ed6162cc09d9ec1",
+      "source": "BBC News",
+      "title": "France braces for national day of school protests after injuries and mass arrests",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T21:18:10+00:00"
+    },
+    {
+      "id": "ded1cd99057b9b43f690",
+      "source": "TGcom24",
+      "title": "Guerra in Iran, altra petroliera colpita a Hormuz: \"Incendio a bordo\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-5-ottobre_117305576-202602k.shtml",
+      "published": "2026-10-05T21:01:00+00:00"
+    },
+    {
+      "id": "bad6010e0f3364aa3b44",
+      "source": "TGcom24",
+      "title": "Volo FlyDubai, il presidente americano Trump: \"Il responsabile è l'Iran\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/volo-flydubai-copilota-gaza_117330516-202602k.shtml",
+      "published": "2026-10-05T20:16:00+00:00"
+    },
+    {
+      "id": "1ae85f2af2b50e8441ea",
+      "source": "BBC News",
+      "title": "US 'watching closely' after plague researcher dies in Russia, Rubio says",
+      "url": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T19:55:00+00:00"
+    },
+    {
+      "id": "d9476a090538dc7678d9",
+      "source": "TGcom24",
+      "title": "Bergamo, esplosione in una palazzina: otto feriti, ipotesi fuga di gas",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/bergamo-esplosione-fuga-gas-ultime-notizie_117335313-202602k.shtml",
+      "published": "2026-10-05T19:35:00+00:00"
+    },
+    {
+      "id": "525e076c962441dc66c1",
+      "source": "BBC News",
+      "title": "Spain PM pins hopes on housing crisis to help win snap election",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T19:30:50+00:00"
+    },
     {
       "id": "d7b41c881c1de4d0e6a3",
       "source": "TGcom24",
@@ -54,25 +103,11 @@
       "published": "2026-10-05T16:51:00+00:00"
     },
     {
-      "id": "814bfde4e3ca464c94a9",
-      "source": "BBC News",
-      "title": "Teenager's hand blown off during confrontation between France school protesters and police",
-      "url": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T16:32:18+00:00"
-    },
-    {
       "id": "16dafd0634c5c48719fc",
       "source": "TGcom24",
       "title": "Emergenza su un volo Londra-Chicago, l'aereo rientrato a Heathrow",
       "url": "https://www.tgcom24.mediaset.it/mondo/volo-londra-chicago-emergenza_117324031-202602k.shtml",
       "published": "2026-10-05T16:21:00+00:00"
-    },
-    {
-      "id": "2f7852fe722ed841a5d1",
-      "source": "BBC News",
-      "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
-      "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T16:13:35+00:00"
     },
     {
       "id": "ee6b5a04e850eff04d2d",
@@ -208,20 +243,6 @@
       "published": "2026-10-05T10:25:00+00:00"
     },
     {
-      "id": "7a9fb1bdb6f6c766f401",
-      "source": "BBC News",
-      "title": "Spanish PM Sánchez calls early election after housing protests",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T10:18:47+00:00"
-    },
-    {
-      "id": "5dfc748bf73d142d45a0",
-      "source": "BBC News",
-      "title": "Trump chooses top spy boss to run new AI taskforce",
-      "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T10:03:38+00:00"
-    },
-    {
       "id": "c284ca119c506ba1f3ad",
       "source": "TGcom24",
       "title": "Yemen, forze governative riprendono il controllo di Bab el Mandeb",
@@ -250,13 +271,6 @@
       "published": "2026-10-05T08:54:00+00:00"
     },
     {
-      "id": "d5a1cd6e05ede88236dc",
-      "source": "TGcom24",
-      "title": "Firenze, trovata bombola gas sotto David in piazzale Michelangelo: \"inoffensiva\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/firenze-bombola-gas-sotto-david-piazzale-michelangelo_117309761-202602k.shtml",
-      "published": "2026-10-05T08:37:00+00:00"
-    },
-    {
       "id": "2e177d1ef3d8a9dfdba7",
       "source": "BBC News",
       "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
@@ -269,27 +283,6 @@
       "title": "£800m in, £800m out - Why Man City scandal shines light on Man Utd finances",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckg5j87jy3zmo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-05T08:08:02+00:00"
-    },
-    {
-      "id": "d16cadcb267afd999fe8",
-      "source": "TGcom24",
-      "title": "Milano, ciclista investito e ucciso da un'auto: ignota l'identità della vittima",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-ciclista-investito-cerro-maggiore_117309576-202602k.shtml",
-      "published": "2026-10-05T07:56:00+00:00"
-    },
-    {
-      "id": "e41e1ae49e34789a7b7a",
-      "source": "TGcom24",
-      "title": "Spagna, Pedro Sánchez: \"Elezioni anticipate il 29 novembre\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/spagna-sanchez-annuncio-elezioni_117307969-202602k.shtml",
-      "published": "2026-10-05T07:13:00+00:00"
-    },
-    {
-      "id": "b24431f6e8a427d96ef5",
-      "source": "TGcom24",
-      "title": "Ucraina, maxi attacco russo con 205 droni nella notte",
-      "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-attacco-russo-notte-droni_117306965-202602k.shtml",
-      "published": "2026-10-05T06:27:00+00:00"
     },
     {
       "id": "7483b5591cc253399066",
