@@ -1,20 +1,27 @@
 {
-  "updated_at": "2026-10-05T11:24:40.644501+00:00",
+  "updated_at": "2026-10-05T11:43:38.512150+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-05T11:24:40.644501+00:00"
+      "checked_at": "2026-10-05T11:43:38.512150+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-05T11:24:40.644501+00:00"
+      "checked_at": "2026-10-05T11:43:38.512150+00:00"
     }
   },
   "items": [
     {
+      "id": "17a355aabdaa56ee8841",
+      "source": "TGcom24",
+      "title": "Omicidio Genini, la mamma di Pamela su Soncin: \"Scuse respinte, parole di plastica\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/pamela-genini-soncin-comprendo-peso-azioni_117310688-202602k.shtml",
+      "published": "2026-10-05T11:22:00+00:00"
+    },
+    {
       "id": "8271488c58864e48031e",
       "source": "BBC News",
-      "title": "Nobel Prize awarded for showing how nerve cells shape feelings",
+      "title": "Nobel Prize awarded for showing inner workings of the brain",
       "url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-05T11:04:37+00:00"
     },
@@ -47,6 +54,13 @@
       "published": "2026-10-05T10:23:26+00:00"
     },
     {
+      "id": "7a9fb1bdb6f6c766f401",
+      "source": "BBC News",
+      "title": "Spanish PM Sánchez calls early election after housing protests",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T10:18:47+00:00"
+    },
+    {
       "id": "5dfc748bf73d142d45a0",
       "source": "BBC News",
       "title": "Trump chooses top spy boss to run new AI taskforce",
@@ -70,7 +84,7 @@
     {
       "id": "450d5db5a197aa830f1a",
       "source": "BBC News",
-      "title": "How Spain's housing crisis has resulted in an early general election",
+      "title": "Watch: How Spain's housing crisis has resulted in an early general election",
       "url": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-05T09:03:30+00:00"
     },
@@ -278,13 +292,6 @@
       "published": "2026-10-04T16:24:48+00:00"
     },
     {
-      "id": "c7bcf23f563e417f537d",
-      "source": "TGcom24",
-      "title": "Milano, incendio in un appartamento: morta una donna di 75 anni",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-incendio-75enne-morta_117297371-202602k.shtml",
-      "published": "2026-10-04T16:23:00+00:00"
-    },
-    {
       "id": "dce5174d27c1ee7e224e",
       "source": "BBC News",
       "title": "Watch: What we know about Russian strikes on Kyiv bridges",
@@ -304,20 +311,6 @@
       "title": "Rare tornado whips through small Australian town",
       "url": "https://www.bbc.co.uk/news/videos/c69qzvggzppro?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-04T04:15:36+00:00"
-    },
-    {
-      "id": "0437351527a1f4ba67c5",
-      "source": "BBC News",
-      "title": "Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer",
-      "url": "https://www.bbc.co.uk/news/articles/cwnvln99v2ygo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-03T23:37:46+00:00"
-    },
-    {
-      "id": "83c80820e722a839c203",
-      "source": "BBC News",
-      "title": "Why Canada is wargaming a (long shot) US invasion",
-      "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-03T23:30:06+00:00"
     }
   ]
 }
