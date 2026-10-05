@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-05T16:43:42.971242+00:00",
+  "updated_at": "2026-10-05T16:59:22.561219+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-05T16:43:42.971242+00:00"
+      "checked_at": "2026-10-05T16:59:22.561219+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-05T16:43:42.971242+00:00"
+      "checked_at": "2026-10-05T16:59:22.561219+00:00"
     }
   },
   "items": [
+    {
+      "id": "b391aa794a882a4cf0e3",
+      "source": "TGcom24",
+      "title": "Yara Gambirasio, la Corte di Bergamo rigetta la richiesta di nuove analisi sui reperti",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/yara-gambirasio-analisi-reperti_117324494-202602k.shtml",
+      "published": "2026-10-05T16:51:00+00:00"
+    },
     {
       "id": "814bfde4e3ca464c94a9",
       "source": "BBC News",
@@ -35,7 +42,7 @@
     {
       "id": "ee6b5a04e850eff04d2d",
       "source": "BBC News",
-      "title": "Pentagon stops using Anthropic AI tools months after blacklisting company, BBC told",
+      "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
       "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-05T16:13:21+00:00"
     },
@@ -311,13 +318,6 @@
       "title": "How India became dangerously addicted to Chinese imports",
       "url": "https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-05T01:42:11+00:00"
-    },
-    {
-      "id": "dc8afcee1758900dcffd",
-      "source": "TGcom24",
-      "title": "Spagna verso le elezioni anticipate, Sanchez prepara il ritorno alle urne",
-      "url": "https://www.tgcom24.mediaset.it/mondo/spagna-verso-elezioni-anticipate_117303533-202602k.shtml",
-      "published": "2026-10-04T21:55:00+00:00"
     }
   ]
 }
