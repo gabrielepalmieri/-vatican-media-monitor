@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-05T09:53:36.915541+00:00",
+  "updated_at": "2026-10-05T10:10:32.700703+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-05T09:53:36.915541+00:00"
+      "checked_at": "2026-10-05T10:10:32.700703+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-05T09:53:36.915541+00:00"
+      "checked_at": "2026-10-05T10:10:32.700703+00:00"
     }
   },
   "items": [
+    {
+      "id": "5dfc748bf73d142d45a0",
+      "source": "BBC News",
+      "title": "Trump chooses top spy boss to run new AI taskforce",
+      "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T10:03:38+00:00"
+    },
+    {
+      "id": "c284ca119c506ba1f3ad",
+      "source": "TGcom24",
+      "title": "Yemen, forze governative riprendono il controllo di Bab el Mandeb",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-5-ottobre_117305576-202602k.shtml",
+      "published": "2026-10-05T10:00:00+00:00"
+    },
     {
       "id": "348e7e4670a70cde04dc",
       "source": "TGcom24",
@@ -82,13 +96,6 @@
       "published": "2026-10-05T06:27:00+00:00"
     },
     {
-      "id": "5dfc748bf73d142d45a0",
-      "source": "BBC News",
-      "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
-      "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T06:15:29+00:00"
-    },
-    {
       "id": "e48bdb300706a16d6c60",
       "source": "TGcom24",
       "title": "Yemen, il governo rivendica 1.122 attacchi contro gli Houthi",
@@ -98,7 +105,7 @@
     {
       "id": "b9100651389a16a0ac20",
       "source": "BBC News",
-      "title": "Supporters of jailed ex-PM Imran Khan march to Pakistan capital",
+      "title": "Supporters of jailed ex-PM Imran Khan begin march in Pakistan",
       "url": "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-05T05:28:46+00:00"
     },
@@ -269,13 +276,6 @@
       "title": "Proteste degli studenti in Francia: lunedì lezioni sospese in 500 scuole",
       "url": "https://www.tgcom24.mediaset.it/mondo/francia-proteste-studenti-lezioni-sospese_117294983-202602k.shtml",
       "published": "2026-10-04T15:22:00+00:00"
-    },
-    {
-      "id": "71db9a3dce8ef81359eb",
-      "source": "TGcom24",
-      "title": "Ucraina, Cremlino: combatteremo anche per lo 0,01% del Donetsk",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-4-ottobre_117264194-202602k.shtml",
-      "published": "2026-10-04T14:53:00+00:00"
     },
     {
       "id": "dce5174d27c1ee7e224e",
