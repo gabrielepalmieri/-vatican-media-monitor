@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-05T23:06:37.282127+00:00",
+  "updated_at": "2026-10-05T23:20:30.376257+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-05T23:06:37.282127+00:00"
+      "checked_at": "2026-10-05T23:20:30.376257+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-05T23:06:37.282127+00:00"
+      "checked_at": "2026-10-05T23:20:30.376257+00:00"
     }
   },
   "items": [
+    {
+      "id": "9acecfa88abdd3d75a67",
+      "source": "BBC News",
+      "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T23:19:14+00:00"
+    },
     {
       "id": "2c452041e657474cdacc",
       "source": "TGcom24",
@@ -297,13 +304,6 @@
       "title": "All six passengers presumed dead after plane went missing off US coast",
       "url": "https://www.bbc.co.uk/news/articles/cmze4g8r6nr9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-05T04:00:35+00:00"
-    },
-    {
-      "id": "9acecfa88abdd3d75a67",
-      "source": "BBC News",
-      "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T03:16:16+00:00"
     },
     {
       "id": "3c2ddfa1753f5fed89c7",
