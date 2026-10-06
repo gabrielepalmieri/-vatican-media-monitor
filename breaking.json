@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-06T13:52:22.668870+00:00",
+  "updated_at": "2026-10-06T14:03:30.508603+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-06T13:52:22.668870+00:00"
+      "checked_at": "2026-10-06T14:03:30.508603+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-06T13:52:22.668870+00:00"
+      "checked_at": "2026-10-06T14:03:30.508603+00:00"
     }
   },
   "items": [
+    {
+      "id": "8a2aad4475e6c8a36104",
+      "source": "TGcom24",
+      "title": "Spagna, Corte Suprema annulla il mandato di arresto per Puigdemont",
+      "url": "https://www.tgcom24.mediaset.it/mondo/spagna-corte-suprema-annulla-mandato-arresto-puigdemont_117360339-202602k.shtml",
+      "published": "2026-10-06T13:53:00+00:00"
+    },
     {
       "id": "84d82a52503a664f3977",
       "source": "BBC News",
@@ -311,13 +318,6 @@
       "title": "Guerra in Iran, altra petroliera colpita a Hormuz: \"Incendio a bordo\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-5-ottobre_117305576-202602k.shtml",
       "published": "2026-10-05T21:01:00+00:00"
-    },
-    {
-      "id": "bad6010e0f3364aa3b44",
-      "source": "TGcom24",
-      "title": "Volo FlyDubai, il presidente americano Trump: \"Il responsabile è l'Iran\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/volo-flydubai-copilota-gaza_117330516-202602k.shtml",
-      "published": "2026-10-05T20:16:00+00:00"
     },
     {
       "id": "450d5db5a197aa830f1a",
