@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-06T05:23:24.505964+00:00",
+  "updated_at": "2026-10-06T05:41:09.234045+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-06T05:23:24.505964+00:00"
+      "checked_at": "2026-10-06T05:41:09.234045+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-06T05:23:24.505964+00:00"
+      "checked_at": "2026-10-06T05:41:09.234045+00:00"
     }
   },
   "items": [
+    {
+      "id": "169ad6870af53e756f0b",
+      "source": "TGcom24",
+      "title": "Torino, morto con il cranio fracassato: arrestati moglie vittima e nuovo compagno",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/torino-morto-cranio-fracassato-arrestati-uomo-donna_117344541-202602k.shtml",
+      "published": "2026-10-06T05:33:00+00:00"
+    },
     {
       "id": "1e4a05e12a6543506e4d",
       "source": "TGcom24",
@@ -70,7 +77,7 @@
     {
       "id": "5f1187bb9fe30bf3d786",
       "source": "BBC News",
-      "title": "Fort Hood shooter to be executed by firing squad, in first since World War Two",
+      "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
       "url": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-06T02:22:24+00:00"
     },
@@ -94,13 +101,6 @@
       "title": "UK MPs call for investigation after Lutnick-Epstein whistleblower dies",
       "url": "https://www.bbc.co.uk/news/articles/cwm2686gl6kno?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-05T23:29:02+00:00"
-    },
-    {
-      "id": "0f5d53ee2c25db550f5d",
-      "source": "BBC News",
-      "title": "Five reasons India's stock market is sinking even when its economy is growing",
-      "url": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T23:13:11+00:00"
     },
     {
       "id": "b955083f7b399bdee817",
@@ -150,6 +150,13 @@
       "title": "Guerra in Iran, altra petroliera colpita a Hormuz: \"Incendio a bordo\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-5-ottobre_117305576-202602k.shtml",
       "published": "2026-10-05T21:01:00+00:00"
+    },
+    {
+      "id": "88f8d8ccb3a86b7adb74",
+      "source": "BBC News",
+      "title": "Flávio Bolsonaro rides right-wing wave to win first round of Brazil election",
+      "url": "https://www.bbc.co.uk/news/articles/cqj6je4jen6po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T20:42:19+00:00"
     },
     {
       "id": "bad6010e0f3364aa3b44",
@@ -269,13 +276,6 @@
       "title": "Ucraina, l'Estonia sposta le truppe vicino al confine con la Russia",
       "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-attacco-russo-notte-droni_117306965-202602k.shtml",
       "published": "2026-10-05T12:00:00+00:00"
-    },
-    {
-      "id": "17a355aabdaa56ee8841",
-      "source": "TGcom24",
-      "title": "Omicidio Genini, la mamma di Pamela su Soncin: \"Scuse respinte, parole di plastica\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/pamela-genini-soncin-comprendo-peso-azioni_117310688-202602k.shtml",
-      "published": "2026-10-05T11:22:00+00:00"
     },
     {
       "id": "27d1463eff2e81c9d953",
