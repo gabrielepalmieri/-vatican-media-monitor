@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-06T13:16:59.413965+00:00",
+  "updated_at": "2026-10-06T13:34:39.201170+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-06T13:16:59.413965+00:00"
+      "checked_at": "2026-10-06T13:34:39.201170+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-06T13:16:59.413965+00:00"
+      "checked_at": "2026-10-06T13:34:39.201170+00:00"
     }
   },
   "items": [
+    {
+      "id": "2b3b32745adfa0f8abbe",
+      "source": "TGcom24",
+      "title": "Francia, terzo giorno di proteste studentesche: disordini a Rennes",
+      "url": "https://www.tgcom24.mediaset.it/mondo/francia-proteste-studentesche-diretta_117359850-202602k.shtml",
+      "published": "2026-10-06T13:29:00+00:00"
+    },
     {
       "id": "6a2b905e7f3882ec3183",
       "source": "BBC News",
@@ -38,6 +45,13 @@
       "title": "Bologna, 18enne picchia la madre perché non gli compra una tuta: arrestato",
       "url": "https://www.tgcom24.mediaset.it/cronaca/bologna-18enne-picchia-madre-tuta_117354137-202602k.shtml",
       "published": "2026-10-06T12:01:00+00:00"
+    },
+    {
+      "id": "16d2b92a3856841d05c8",
+      "source": "BBC News",
+      "title": "Seven arrested for using Ghanaian banknotes to make 'money bouquets'",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn3g53dkqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T12:00:10+00:00"
     },
     {
       "id": "4675a4101e21f1ad48b6",
@@ -304,13 +318,6 @@
       "title": "Guerra in Iran, altra petroliera colpita a Hormuz: \"Incendio a bordo\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-5-ottobre_117305576-202602k.shtml",
       "published": "2026-10-05T21:01:00+00:00"
-    },
-    {
-      "id": "bad6010e0f3364aa3b44",
-      "source": "TGcom24",
-      "title": "Volo FlyDubai, il presidente americano Trump: \"Il responsabile è l'Iran\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/volo-flydubai-copilota-gaza_117330516-202602k.shtml",
-      "published": "2026-10-05T20:16:00+00:00"
     },
     {
       "id": "450d5db5a197aa830f1a",
