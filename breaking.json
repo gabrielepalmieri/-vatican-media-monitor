@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-06T11:09:01.446338+00:00",
+  "updated_at": "2026-10-06T11:23:12.392038+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-06T11:09:01.446338+00:00"
+      "checked_at": "2026-10-06T11:23:12.392038+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-06T11:09:01.446338+00:00"
+      "checked_at": "2026-10-06T11:23:12.392038+00:00"
     }
   },
   "items": [
@@ -38,6 +38,13 @@
       "title": "Kenya confirms its first Ebola death as outbreak spreads",
       "url": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-06T10:22:05+00:00"
+    },
+    {
+      "id": "91a16381ed3855d16adf",
+      "source": "TGcom24",
+      "title": "Carburanti, von der Leyen: \"Ue avvierà dialogo con le raffinerie di petrolio\"",
+      "url": "https://www.tgcom24.mediaset.it/economia/caro-carburanti-accise-gasolio-prezzi_117342181-202602k.shtml",
+      "published": "2026-10-06T10:16:00+00:00"
     },
     {
       "id": "377945fe254d5eb6786b",
@@ -297,27 +304,6 @@
       "title": "Garlasco, \"distrutti alcuni reperti liquidi del 2016 prima dell'ok dei giudici\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/garlasco-tracce-distrutte-senza-autorizzazione_117333710-202602k.shtml",
       "published": "2026-10-05T19:07:00+00:00"
-    },
-    {
-      "id": "ef339298b29cf0151644",
-      "source": "TGcom24",
-      "title": "Volo FlyDubai, il copilota: \"L'ho fatto per vendicare Gaza, volevo morire da martire\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/volo-flydubai-copilota-gaza_117330516-202602k.shtml",
-      "published": "2026-10-05T18:27:00+00:00"
-    },
-    {
-      "id": "6f56f01c2c6eb9791fd2",
-      "source": "TGcom24",
-      "title": "La premier Meloni chiama l'ad di Ericsson: ritirati i licenziamenti",
-      "url": "https://www.tgcom24.mediaset.it/economia/ericsson-la-premier-meloni-chiama-l-ad-ritirati-i-licenziamenti-_117329519-202602k.shtml",
-      "published": "2026-10-05T17:55:00+00:00"
-    },
-    {
-      "id": "585adad34712b30d8002",
-      "source": "TGcom24",
-      "title": "Peste, la malattia si riaffaccia in Russia: preoccupazione anche a Washington",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/peste-la-malattia-si-riaffaccia-in-russia-la-preoccupazione-di-washington_117326680-02k.shtml",
-      "published": "2026-10-05T17:21:00+00:00"
     },
     {
       "id": "450d5db5a197aa830f1a",
