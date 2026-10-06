@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-06T06:00:53.498741+00:00",
+  "updated_at": "2026-10-06T06:17:20.359734+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-06T06:00:53.498741+00:00"
+      "checked_at": "2026-10-06T06:17:20.359734+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-06T06:00:53.498741+00:00"
+      "checked_at": "2026-10-06T06:17:20.359734+00:00"
     }
   },
   "items": [
+    {
+      "id": "e28f8e5492f0d91e7801",
+      "source": "BBC News",
+      "title": "OpenAI admits response to Australian government hacks 'not good enough'",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T06:00:53+00:00"
+    },
     {
       "id": "2b22f6503c51bbc6de5f",
       "source": "TGcom24",
@@ -89,13 +96,6 @@
       "published": "2026-10-06T02:22:24+00:00"
     },
     {
-      "id": "52ecd80182b70fdf592b",
-      "source": "BBC News",
-      "title": "Trump says he will stop using taxpayer funds for ads after bipartisan pushback",
-      "url": "https://www.bbc.co.uk/news/articles/cm9qzlvpqex9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T01:58:29+00:00"
-    },
-    {
       "id": "a9de7ab9010a94f66730",
       "source": "BBC News",
       "title": "A simple guide to the US midterms",
@@ -103,18 +103,18 @@
       "published": "2026-10-05T23:40:58+00:00"
     },
     {
-      "id": "d179669c08108a3a6c0b",
-      "source": "BBC News",
-      "title": "UK MPs call for investigation after Lutnick-Epstein whistleblower dies",
-      "url": "https://www.bbc.co.uk/news/articles/cwm2686gl6kno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T23:29:02+00:00"
-    },
-    {
       "id": "b955083f7b399bdee817",
       "source": "BBC News",
       "title": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up?",
       "url": "https://www.bbc.co.uk/news/articles/cm2kedyp348lo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-05T23:07:08+00:00"
+    },
+    {
+      "id": "ce84a0fcddf367704b01",
+      "source": "BBC News",
+      "title": "Blue Planet and Gandhi composer George Fenton dies aged 76",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0v40r98n9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T22:58:25+00:00"
     },
     {
       "id": "eec47f8366df4c65bdb2",
@@ -259,7 +259,7 @@
     {
       "id": "f926b432c5d8071d682a",
       "source": "TGcom24",
-      "title": "Termoli, furgone finisce nel mare in porto: morto il conducente",
+      "title": "Termoli, furgone finisce in mare al porto: morto il conducente",
       "url": "https://www.tgcom24.mediaset.it/cronaca/termoli-furgone-in-mare-porto-morto-conducente_117319003-202602k.shtml",
       "published": "2026-10-05T13:56:00+00:00"
     },
@@ -290,13 +290,6 @@
       "title": "Watch: How Spain's housing crisis has resulted in an early general election",
       "url": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-05T09:03:30+00:00"
-    },
-    {
-      "id": "2e177d1ef3d8a9dfdba7",
-      "source": "BBC News",
-      "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
-      "url": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T08:22:41+00:00"
     },
     {
       "id": "7e3e88e1c27624d55e4d",
