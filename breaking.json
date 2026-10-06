@@ -1,27 +1,41 @@
 {
-  "updated_at": "2026-10-06T11:23:12.392038+00:00",
+  "updated_at": "2026-10-06T11:41:02.928673+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-06T11:23:12.392038+00:00"
+      "checked_at": "2026-10-06T11:41:02.928673+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-06T11:23:12.392038+00:00"
+      "checked_at": "2026-10-06T11:41:02.928673+00:00"
     }
   },
   "items": [
+    {
+      "id": "fa3d336a606bd4366188",
+      "source": "TGcom24",
+      "title": "Crans-Montana, Jessica Moretti chiede indennità per infortunio nel rogo",
+      "url": "https://www.tgcom24.mediaset.it/mondo/crans-montana-jessica-moretti-indennita-infortunio_117355838-202602k.shtml",
+      "published": "2026-10-06T11:35:00+00:00"
+    },
+    {
+      "id": "6a2b905e7f3882ec3183",
+      "source": "BBC News",
+      "title": "Kenya confirms its first Ebola death as outbreak spreads",
+      "url": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T11:31:59+00:00"
+    },
     {
       "id": "62a76e2d2cd16f574dc3",
       "source": "BBC News",
       "title": "'Ghost particles' from space telescope wins physics Nobel",
       "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T10:56:36+00:00"
+      "published": "2026-10-06T11:24:19+00:00"
     },
     {
       "id": "4675a4101e21f1ad48b6",
       "source": "BBC News",
-      "title": "Sailors missing after fresh attacks on Black Sea vessels, Bulgaria says",
+      "title": "Ship sinks and crew missing after Black Sea drone attack",
       "url": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-06T10:37:19+00:00"
     },
@@ -31,13 +45,6 @@
       "title": "Premio Nobel per la Fisica al belga Francis Halzen",
       "url": "https://www.tgcom24.mediaset.it/mondo/premio-nobel-fisica-belga-francis-halzen_117354215-202602k.shtml",
       "published": "2026-10-06T10:33:00+00:00"
-    },
-    {
-      "id": "6a2b905e7f3882ec3183",
-      "source": "BBC News",
-      "title": "Kenya confirms its first Ebola death as outbreak spreads",
-      "url": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T10:22:05+00:00"
     },
     {
       "id": "91a16381ed3855d16adf",
