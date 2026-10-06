@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-06T16:09:50.454272+00:00",
+  "updated_at": "2026-10-06T16:27:28.950910+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-06T16:09:50.454272+00:00"
+      "checked_at": "2026-10-06T16:27:28.950910+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-06T16:09:50.454272+00:00"
+      "checked_at": "2026-10-06T16:27:28.950910+00:00"
     }
   },
   "items": [
+    {
+      "id": "00ef83ffd8d6000146bb",
+      "source": "BBC News",
+      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T16:22:37+00:00"
+    },
+    {
+      "id": "67192c47fffe57a2168e",
+      "source": "TGcom24",
+      "title": "Ex Ilva, sindacati: \"Incontro con il governo giovedì 8 ottobre a Palazzo Chigi\"",
+      "url": "https://www.tgcom24.mediaset.it/economia/ex-ilva-incontro-governo-sindacati_117363952-202602k.shtml",
+      "published": "2026-10-06T16:22:00+00:00"
+    },
     {
       "id": "6a2b905e7f3882ec3183",
       "source": "BBC News",
@@ -21,7 +35,7 @@
     {
       "id": "759f0abf5be8dc37673b",
       "source": "TGcom24",
-      "title": "Proteste studentesche in Francia, Trump: \"Tutta colpa di Islam e immigrazione\"",
+      "title": "Proteste studentesche in Francia, Trump: \"Colpa di Islam e immigrazione\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/francia-proteste-studentesche-diretta_117359850-202602k.shtml",
       "published": "2026-10-06T15:51:00+00:00"
     },
@@ -52,13 +66,6 @@
       "title": "Israele ricorda Mila, uccisa a 9 mesi il 7 ottobre: era la vittima più piccola",
       "url": "https://www.tgcom24.mediaset.it/mondo/israele-ricorda-neonata-mila-uccisa-7-ottobre_117359844-202602k.shtml",
       "published": "2026-10-06T14:31:00+00:00"
-    },
-    {
-      "id": "00ef83ffd8d6000146bb",
-      "source": "BBC News",
-      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-      "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T14:15:06+00:00"
     },
     {
       "id": "8a2aad4475e6c8a36104",
@@ -332,13 +339,6 @@
       "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
       "url": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-05T22:28:02+00:00"
-    },
-    {
-      "id": "2c452041e657474cdacc",
-      "source": "TGcom24",
-      "title": "Medioriente, gli Houthi: \"Colpiti l'aeroporto di Riad e una raffineria saudita\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-5-ottobre_117305576-202602k.shtml",
-      "published": "2026-10-05T22:03:00+00:00"
     },
     {
       "id": "450d5db5a197aa830f1a",
