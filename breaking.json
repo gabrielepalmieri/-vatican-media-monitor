@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-06T19:23:14.811241+00:00",
+  "updated_at": "2026-10-06T19:40:36.959509+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-06T19:23:14.811241+00:00"
+      "checked_at": "2026-10-06T19:40:36.959509+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-06T19:23:14.811241+00:00"
+      "checked_at": "2026-10-06T19:40:36.959509+00:00"
     }
   },
   "items": [
+    {
+      "id": "a80e828732ebe3a65ac0",
+      "source": "TGcom24",
+      "title": "Firenze, accoltellò al volto una donna: condannata a 2 anni la mamma di Kata",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/mamma-kata-condannata_117367503-202602k.shtml",
+      "published": "2026-10-06T19:01:00+00:00"
+    },
     {
       "id": "6d0e68bf762c2edf445d",
       "source": "TGcom24",
@@ -38,6 +45,13 @@
       "title": "Pisa, arresto cardiaco a scuola: il prof salva lo studente col defibrillatore",
       "url": "https://www.tgcom24.mediaset.it/cronaca/pisa-arresto-cardiaco-studente-salvato-prof_117364269-202602k.shtml",
       "published": "2026-10-06T17:38:00+00:00"
+    },
+    {
+      "id": "b12f016cf7e08c18f5bd",
+      "source": "BBC News",
+      "title": "Finland orders halt to work on two Google data centres",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T17:15:46+00:00"
     },
     {
       "id": "ffe366eb922068deaaa0",
@@ -306,13 +320,6 @@
       "published": "2026-10-06T05:50:00+00:00"
     },
     {
-      "id": "169ad6870af53e756f0b",
-      "source": "TGcom24",
-      "title": "Torino, morto con il cranio fracassato: arrestati moglie vittima e nuovo compagno",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/torino-morto-cranio-fracassato-arrestati-uomo-donna_117344541-202602k.shtml",
-      "published": "2026-10-06T05:33:00+00:00"
-    },
-    {
       "id": "b8ab18e30667a5804707",
       "source": "BBC News",
       "title": "Watch: Moment Indonesian shoe shop is torn apart by explosion",
@@ -339,13 +346,6 @@
       "title": "What are the US midterms? A simple guide",
       "url": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-05T23:40:58+00:00"
-    },
-    {
-      "id": "eec47f8366df4c65bdb2",
-      "source": "BBC News",
-      "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
-      "url": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T22:28:02+00:00"
     },
     {
       "id": "450d5db5a197aa830f1a",
