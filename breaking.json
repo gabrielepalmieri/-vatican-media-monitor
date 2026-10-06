@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-06T09:54:37.082429+00:00",
+  "updated_at": "2026-10-06T10:08:25.698896+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-06T09:54:37.082429+00:00"
+      "checked_at": "2026-10-06T10:08:25.698896+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-06T09:54:37.082429+00:00"
+      "checked_at": "2026-10-06T10:08:25.698896+00:00"
     }
   },
   "items": [
+    {
+      "id": "4af7fc12707d918fcaf1",
+      "source": "TGcom24",
+      "title": "Bologna, provano a imbarcarsi su un volo per Tel Aviv con passaporti falsi: denunciati",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/bologna-volo-tel-aviv-passaporti-falsi_117354058-202602k.shtml",
+      "published": "2026-10-06T10:03:00+00:00"
+    },
     {
       "id": "602d1e4528424c65e4ff",
       "source": "BBC News",
@@ -283,13 +290,6 @@
       "title": "Yara Gambirasio, la Corte di Bergamo rigetta la richiesta di nuove analisi sui reperti",
       "url": "https://www.tgcom24.mediaset.it/cronaca/yara-gambirasio-analisi-reperti_117324494-202602k.shtml",
       "published": "2026-10-05T16:51:00+00:00"
-    },
-    {
-      "id": "16dafd0634c5c48719fc",
-      "source": "TGcom24",
-      "title": "Emergenza su un volo Londra-Chicago, l'aereo rientrato a Heathrow",
-      "url": "https://www.tgcom24.mediaset.it/mondo/volo-londra-chicago-emergenza_117324031-202602k.shtml",
-      "published": "2026-10-05T16:21:00+00:00"
     },
     {
       "id": "450d5db5a197aa830f1a",
