@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-06T06:17:20.359734+00:00",
+  "updated_at": "2026-10-06T06:40:15.428429+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-06T06:17:20.359734+00:00"
+      "checked_at": "2026-10-06T06:40:15.428429+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-06T06:17:20.359734+00:00"
+      "checked_at": "2026-10-06T06:40:15.428429+00:00"
     }
   },
   "items": [
+    {
+      "id": "87c83d4ab9ec326621f0",
+      "source": "TGcom24",
+      "title": "Elon Musk, il patrimonio dell'imprenditore torna a superare i mille miliardi di dollari",
+      "url": "https://www.tgcom24.mediaset.it/mondo/elon-musk-patrimonio-supera-mille-miliardi-dollari_117345989-202602k.shtml",
+      "published": "2026-10-06T06:31:00+00:00"
+    },
     {
       "id": "e28f8e5492f0d91e7801",
       "source": "BBC News",
@@ -42,7 +49,7 @@
     {
       "id": "b8ab18e30667a5804707",
       "source": "BBC News",
-      "title": "Watch: Moment Indonesian sneaker shop is torn apart by explosion",
+      "title": "Watch: Moment Indonesian shoe shop is torn apart by explosion",
       "url": "https://www.bbc.co.uk/news/videos/cmkg7dx8wpygo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-06T04:57:16+00:00"
     },
@@ -269,13 +276,6 @@
       "title": "Foggia, tentato assalto a un portavalori sulla A14: mezzi in fiamme",
       "url": "https://www.tgcom24.mediaset.it/cronaca/foggia-assalto-a-un-portavalori-su-a14_117317565-202602k.shtml",
       "published": "2026-10-05T13:00:00+00:00"
-    },
-    {
-      "id": "b46bafc72d96b3c0d25e",
-      "source": "TGcom24",
-      "title": "Garlasco, forse verranno ascoltati inquirenti del 2007 sulla bici di Stasi",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/garlasco-stasi-accertamenti-bici_117317746-202602k.shtml",
-      "published": "2026-10-05T12:30:00+00:00"
     },
     {
       "id": "27d1463eff2e81c9d953",
