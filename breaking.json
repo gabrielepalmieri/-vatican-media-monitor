@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-06T15:41:16.709914+00:00",
+  "updated_at": "2026-10-06T15:54:40.862596+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-06T15:41:16.709914+00:00"
+      "checked_at": "2026-10-06T15:54:40.862596+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-06T15:41:16.709914+00:00"
+      "checked_at": "2026-10-06T15:54:40.862596+00:00"
     }
   },
   "items": [
+    {
+      "id": "6a2b905e7f3882ec3183",
+      "source": "BBC News",
+      "title": "Kenya confirms its first Ebola death as outbreak spreads",
+      "url": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T15:51:47+00:00"
+    },
     {
       "id": "1d0779e83e6d0f5609d7",
       "source": "BBC News",
@@ -80,13 +87,6 @@
       "title": "Francia, terzo giorno di proteste studentesche: disordini a Parigi",
       "url": "https://www.tgcom24.mediaset.it/mondo/francia-proteste-studentesche-diretta_117359850-202602k.shtml",
       "published": "2026-10-06T13:29:00+00:00"
-    },
-    {
-      "id": "6a2b905e7f3882ec3183",
-      "source": "BBC News",
-      "title": "Kenya confirms its first Ebola death as outbreak spreads",
-      "url": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T13:10:42+00:00"
     },
     {
       "id": "65b725010c5301059c12",
