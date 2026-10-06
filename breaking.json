@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-06T23:48:24.627001+00:00",
+  "updated_at": "2026-10-06T23:56:45.034980+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-06T23:48:24.627001+00:00"
+      "checked_at": "2026-10-06T23:56:45.034980+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-06T23:48:24.627001+00:00"
+      "checked_at": "2026-10-06T23:56:45.034980+00:00"
     }
   },
   "items": [
+    {
+      "id": "731c81109514a915e849",
+      "source": "BBC News",
+      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+      "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T23:52:53+00:00"
+    },
     {
       "id": "9b72bec9acb2070af228",
       "source": "BBC News",
@@ -31,13 +38,6 @@
       "title": "Trump: \"In programma a brevissimo una telefonata con Putin su allarme peste\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/trump-in-programma-a-brevissimo-una-telefonata-con-putin-su-allarme-peste-_117373120-202602k.shtml",
       "published": "2026-10-06T22:11:00+00:00"
-    },
-    {
-      "id": "731c81109514a915e849",
-      "source": "BBC News",
-      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-      "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T22:00:43+00:00"
     },
     {
       "id": "44a8b65de71d5c3e01b4",
