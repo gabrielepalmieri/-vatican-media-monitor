@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-06T17:59:09.416279+00:00",
+  "updated_at": "2026-10-06T18:10:24.398211+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-06T17:59:09.416279+00:00"
+      "checked_at": "2026-10-06T18:10:24.398211+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-06T17:59:09.416279+00:00"
+      "checked_at": "2026-10-06T18:10:24.398211+00:00"
     }
   },
   "items": [
+    {
+      "id": "84d82a52503a664f3977",
+      "source": "BBC News",
+      "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T18:05:53+00:00"
+    },
     {
       "id": "28f669f09f98ae7d027a",
       "source": "TGcom24",
@@ -94,13 +101,6 @@
       "title": "Spagna, Corte Suprema annulla il mandato di arresto per Puigdemont",
       "url": "https://www.tgcom24.mediaset.it/mondo/spagna-corte-suprema-annulla-mandato-arresto-puigdemont_117360339-202602k.shtml",
       "published": "2026-10-06T13:53:00+00:00"
-    },
-    {
-      "id": "84d82a52503a664f3977",
-      "source": "BBC News",
-      "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T13:36:46+00:00"
     },
     {
       "id": "0b13421ef91306acc6f6",
