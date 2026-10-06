@@ -1,22 +1,29 @@
 {
-  "updated_at": "2026-10-06T09:25:42.232442+00:00",
+  "updated_at": "2026-10-06T09:42:04.143254+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-06T09:25:42.232442+00:00"
+      "checked_at": "2026-10-06T09:42:04.143254+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-06T09:25:42.232442+00:00"
+      "checked_at": "2026-10-06T09:42:04.143254+00:00"
     }
   },
   "items": [
+    {
+      "id": "168219a2bc884fbec7a7",
+      "source": "TGcom24",
+      "title": "Germania, l'ex capo dei Servizi segreti esteri arrestato per spionaggio",
+      "url": "https://www.tgcom24.mediaset.it/mondo/germania-arresto-ex-capo-servizi-segreti-esteri_117352028-202602k.shtml",
+      "published": "2026-10-06T09:41:00+00:00"
+    },
     {
       "id": "6a2b905e7f3882ec3183",
       "source": "BBC News",
       "title": "Kenya confirms its first Ebola death as outbreak spreads",
       "url": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T09:23:16+00:00"
+      "published": "2026-10-06T09:26:11+00:00"
     },
     {
       "id": "377945fe254d5eb6786b",
@@ -283,13 +290,6 @@
       "title": "Emergenza su un volo Londra-Chicago, l'aereo rientrato a Heathrow",
       "url": "https://www.tgcom24.mediaset.it/mondo/volo-londra-chicago-emergenza_117324031-202602k.shtml",
       "published": "2026-10-05T16:21:00+00:00"
-    },
-    {
-      "id": "c375e26b2858b32970f0",
-      "source": "TGcom24",
-      "title": "Baby Gang resta in carcere, il gip: \"È inserito in una rete criminale più vasta\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/baby-gang-carcere-rete-internazionale-iraq_117321408-202602k.shtml",
-      "published": "2026-10-05T16:04:00+00:00"
     },
     {
       "id": "450d5db5a197aa830f1a",
