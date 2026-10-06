@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-06T20:59:51.957656+00:00",
+  "updated_at": "2026-10-06T21:10:26.356520+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-06T20:59:51.957656+00:00"
+      "checked_at": "2026-10-06T21:10:26.356520+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-06T20:59:51.957656+00:00"
+      "checked_at": "2026-10-06T21:10:26.356520+00:00"
     }
   },
   "items": [
+    {
+      "id": "731c81109514a915e849",
+      "source": "BBC News",
+      "title": "US death row inmate Christa Pike conscious after failed execution, lawyers say",
+      "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T21:09:41+00:00"
+    },
     {
       "id": "446623c6715206493b52",
       "source": "TGcom24",
@@ -346,13 +353,6 @@
       "title": "What are the US midterms? A simple guide",
       "url": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-05T23:40:58+00:00"
-    },
-    {
-      "id": "450d5db5a197aa830f1a",
-      "source": "BBC News",
-      "title": "Watch: How Spain's housing crisis has resulted in an early general election",
-      "url": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T09:03:30+00:00"
     }
   ]
 }
