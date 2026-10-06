@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-06T07:26:18.239836+00:00",
+  "updated_at": "2026-10-06T07:41:39.382426+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-06T07:26:18.239836+00:00"
+      "checked_at": "2026-10-06T07:41:39.382426+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-06T07:26:18.239836+00:00"
+      "checked_at": "2026-10-06T07:41:39.382426+00:00"
     }
   },
   "items": [
+    {
+      "id": "de840491e0db20002ccd",
+      "source": "BBC News",
+      "title": "Children brave snipers and mortars to go to school near Yemen front line",
+      "url": "https://www.bbc.co.uk/news/articles/c670pzpv9gk4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T07:23:24+00:00"
+    },
     {
       "id": "464a6a15df17d7c3bf97",
       "source": "TGcom24",
@@ -45,6 +52,13 @@
       "title": "Operaio morto a Caivano, tre indagati per omicidio colposo",
       "url": "https://www.tgcom24.mediaset.it/2026/video/caivano-napoli-operaio-morto-indagati-omicidio-colposo_117345813-02k.shtml",
       "published": "2026-10-06T06:50:00+00:00"
+    },
+    {
+      "id": "377945fe254d5eb6786b",
+      "source": "BBC News",
+      "title": "Nigeria mourns as 32 killed in military plane crash",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T06:33:13+00:00"
     },
     {
       "id": "87c83d4ab9ec326621f0",
@@ -131,6 +145,13 @@
       "published": "2026-10-05T23:40:58+00:00"
     },
     {
+      "id": "0f5d53ee2c25db550f5d",
+      "source": "BBC News",
+      "title": "Five reasons India's stock market is sinking even when its economy is growing",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T23:13:11+00:00"
+    },
+    {
       "id": "b955083f7b399bdee817",
       "source": "BBC News",
       "title": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up?",
@@ -159,6 +180,13 @@
       "published": "2026-10-05T22:03:00+00:00"
     },
     {
+      "id": "112d39aec3ad1edfa5b7",
+      "source": "BBC News",
+      "title": "What prompted the US bombers to leave RAF Fairford?",
+      "url": "https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T21:57:26+00:00"
+    },
+    {
       "id": "1ae85f2af2b50e8441ea",
       "source": "BBC News",
       "title": "US 'watching closely' after plague researcher dies in Russia",
@@ -185,13 +213,6 @@
       "title": "Guerra in Iran, altra petroliera colpita a Hormuz: \"Incendio a bordo\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-5-ottobre_117305576-202602k.shtml",
       "published": "2026-10-05T21:01:00+00:00"
-    },
-    {
-      "id": "88f8d8ccb3a86b7adb74",
-      "source": "BBC News",
-      "title": "Flávio Bolsonaro rides right-wing wave to win first round of Brazil election",
-      "url": "https://www.bbc.co.uk/news/articles/cqj6je4jen6po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T20:42:19+00:00"
     },
     {
       "id": "bad6010e0f3364aa3b44",
@@ -271,11 +292,11 @@
       "published": "2026-10-05T15:16:00+00:00"
     },
     {
-      "id": "27d1463eff2e81c9d953",
-      "source": "BBC News",
-      "title": "Indian singer Anuv Jain on finding success without the Bollywood boost",
-      "url": "https://www.bbc.co.uk/news/articles/c933xnneg2zvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T11:10:28+00:00"
+      "id": "8d56f522357541fafb3f",
+      "source": "TGcom24",
+      "title": "Garlasco, spunta una valutazione su Stasi del 2007 senza firma e mai depositata",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/garlasco-valutazione-stasi-2007-senza-firma-mai-depositata_117319514-202602k.shtml",
+      "published": "2026-10-05T14:55:00+00:00"
     },
     {
       "id": "450d5db5a197aa830f1a",
@@ -285,25 +306,11 @@
       "published": "2026-10-05T09:03:30+00:00"
     },
     {
-      "id": "7e3e88e1c27624d55e4d",
-      "source": "BBC News",
-      "title": "£800m in, £800m out - Why Man City scandal shines light on Man Utd finances",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg5j87jy3zmo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T08:08:02+00:00"
-    },
-    {
       "id": "7483b5591cc253399066",
       "source": "BBC News",
       "title": "Watch: How Brazil's dramatic election unfolded",
       "url": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-05T04:51:24+00:00"
-    },
-    {
-      "id": "3c2ddfa1753f5fed89c7",
-      "source": "BBC News",
-      "title": "How India became dangerously addicted to Chinese imports",
-      "url": "https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T01:42:11+00:00"
     }
   ]
 }
