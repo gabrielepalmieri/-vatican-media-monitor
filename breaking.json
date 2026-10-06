@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-06T23:34:08.103999+00:00",
+  "updated_at": "2026-10-06T23:48:24.627001+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-06T23:34:08.103999+00:00"
+      "checked_at": "2026-10-06T23:48:24.627001+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-06T23:34:08.103999+00:00"
+      "checked_at": "2026-10-06T23:48:24.627001+00:00"
     }
   },
   "items": [
+    {
+      "id": "9b72bec9acb2070af228",
+      "source": "BBC News",
+      "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
+      "url": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T23:07:44+00:00"
+    },
     {
       "id": "6b602008218a9b72d5cf",
       "source": "BBC News",
@@ -80,6 +87,13 @@
       "title": "Firenze, accoltellò al volto una donna: condannata a 2 anni la mamma di Kata",
       "url": "https://www.tgcom24.mediaset.it/cronaca/mamma-kata-condannata_117367503-202602k.shtml",
       "published": "2026-10-06T19:07:00+00:00"
+    },
+    {
+      "id": "13824ed18c937dc811b8",
+      "source": "BBC News",
+      "title": "From films to streaming prices - how the Warner Bros deal could affect you",
+      "url": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T18:42:58+00:00"
     },
     {
       "id": "6d0e68bf762c2edf445d",
@@ -318,13 +332,6 @@
       "title": "Yemeni military says it has 'secured' Red Sea waterway",
       "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-06T07:43:07+00:00"
-    },
-    {
-      "id": "de840491e0db20002ccd",
-      "source": "BBC News",
-      "title": "Children brave snipers and mortars to go to school near Yemen front line",
-      "url": "https://www.bbc.co.uk/news/articles/c670pzpv9gk4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T07:23:24+00:00"
     },
     {
       "id": "e28f8e5492f0d91e7801",
