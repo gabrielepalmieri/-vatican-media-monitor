@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-06T03:42:32.341551+00:00",
+  "updated_at": "2026-10-06T03:55:19.227512+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-06T03:42:32.341551+00:00"
+      "checked_at": "2026-10-06T03:55:19.227512+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-06T03:42:32.341551+00:00"
+      "checked_at": "2026-10-06T03:55:19.227512+00:00"
     }
   },
   "items": [
+    {
+      "id": "0fa233c367a85a8733ea",
+      "source": "BBC News",
+      "title": "Yemeni military says it has 'secured' Red Sea waterway",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T03:53:45+00:00"
+    },
     {
       "id": "2069a72c93d44b2759be",
       "source": "BBC News",
@@ -38,13 +45,6 @@
       "title": "Trump says he will stop using taxpayer funds for ads after bipartisan pushback",
       "url": "https://www.bbc.co.uk/news/articles/cm9qzlvpqex9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-06T01:58:29+00:00"
-    },
-    {
-      "id": "0fa233c367a85a8733ea",
-      "source": "BBC News",
-      "title": "Yemeni military says it has 'secured' Red Sea waterway",
-      "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T01:05:00+00:00"
     },
     {
       "id": "a9de7ab9010a94f66730",
