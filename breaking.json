@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-06T00:35:01.814655+00:00",
+  "updated_at": "2026-10-06T00:56:18.311596+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-06T00:35:01.814655+00:00"
+      "checked_at": "2026-10-06T00:56:18.311596+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-06T00:35:01.814655+00:00"
+      "checked_at": "2026-10-06T00:56:18.311596+00:00"
     }
   },
   "items": [
+    {
+      "id": "0fa233c367a85a8733ea",
+      "source": "BBC News",
+      "title": "Yemeni military says it has 'secured' Red Sea waterway",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T00:51:43+00:00"
+    },
     {
       "id": "9acecfa88abdd3d75a67",
       "source": "BBC News",
@@ -101,13 +108,6 @@
       "title": "La premier Meloni chiama l'ad di Ericsson: ritirati i licenziamenti",
       "url": "https://www.tgcom24.mediaset.it/economia/ericsson-la-premier-meloni-chiama-l-ad-ritirati-i-licenziamenti-_117329519-202602k.shtml",
       "published": "2026-10-05T17:55:00+00:00"
-    },
-    {
-      "id": "0fa233c367a85a8733ea",
-      "source": "BBC News",
-      "title": "Yemeni military says it has retaken Mokha and 'secured' Red Sea waterway",
-      "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T17:49:59+00:00"
     },
     {
       "id": "585adad34712b30d8002",
