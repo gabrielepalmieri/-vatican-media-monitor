@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-06T13:01:37.843014+00:00",
+  "updated_at": "2026-10-06T13:16:59.413965+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-06T13:01:37.843014+00:00"
+      "checked_at": "2026-10-06T13:16:59.413965+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-06T13:01:37.843014+00:00"
+      "checked_at": "2026-10-06T13:16:59.413965+00:00"
     }
   },
   "items": [
+    {
+      "id": "6a2b905e7f3882ec3183",
+      "source": "BBC News",
+      "title": "Kenya confirms its first Ebola death as outbreak spreads",
+      "url": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T13:10:42+00:00"
+    },
     {
       "id": "65b725010c5301059c12",
       "source": "TGcom24",
@@ -38,13 +45,6 @@
       "title": "Ship sinks and crew missing after Black Sea drone attack",
       "url": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-06T11:53:21+00:00"
-    },
-    {
-      "id": "6a2b905e7f3882ec3183",
-      "source": "BBC News",
-      "title": "Kenya confirms its first Ebola death as outbreak spreads",
-      "url": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T11:51:26+00:00"
     },
     {
       "id": "2069a72c93d44b2759be",
