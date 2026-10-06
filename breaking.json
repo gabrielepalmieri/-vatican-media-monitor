@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-06T05:41:09.234045+00:00",
+  "updated_at": "2026-10-06T05:53:04.625924+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-06T05:41:09.234045+00:00"
+      "checked_at": "2026-10-06T05:53:04.625924+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-06T05:41:09.234045+00:00"
+      "checked_at": "2026-10-06T05:53:04.625924+00:00"
     }
   },
   "items": [
+    {
+      "id": "2b22f6503c51bbc6de5f",
+      "source": "TGcom24",
+      "title": "Regno Unito, morto a 86 anni lo scrittore britannico Jeffrey Archer",
+      "url": "https://www.tgcom24.mediaset.it/mondo/londra-morto-jeffrey-archer-scrittore_117345299-202602k.shtml",
+      "published": "2026-10-06T05:50:00+00:00"
+    },
     {
       "id": "169ad6870af53e756f0b",
       "source": "TGcom24",
@@ -269,13 +276,6 @@
       "title": "Garlasco, forse verranno ascoltati inquirenti del 2007 sulla bici di Stasi",
       "url": "https://www.tgcom24.mediaset.it/cronaca/garlasco-stasi-accertamenti-bici_117317746-202602k.shtml",
       "published": "2026-10-05T12:30:00+00:00"
-    },
-    {
-      "id": "b1c76aabaf85265995c0",
-      "source": "TGcom24",
-      "title": "Ucraina, l'Estonia sposta le truppe vicino al confine con la Russia",
-      "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-attacco-russo-notte-droni_117306965-202602k.shtml",
-      "published": "2026-10-05T12:00:00+00:00"
     },
     {
       "id": "27d1463eff2e81c9d953",
