@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-06T09:42:04.143254+00:00",
+  "updated_at": "2026-10-06T09:54:37.082429+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-06T09:42:04.143254+00:00"
+      "checked_at": "2026-10-06T09:54:37.082429+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-06T09:42:04.143254+00:00"
+      "checked_at": "2026-10-06T09:54:37.082429+00:00"
     }
   },
   "items": [
+    {
+      "id": "602d1e4528424c65e4ff",
+      "source": "BBC News",
+      "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T09:48:37+00:00"
+    },
     {
       "id": "168219a2bc884fbec7a7",
       "source": "TGcom24",
@@ -45,13 +52,6 @@
       "title": "Sorrento (Napoli), 20enne perde il controllo dello scooter e muore",
       "url": "https://www.tgcom24.mediaset.it/cronaca/sorrento-dario-crotti-scooter-morto_117347477-202602k.shtml",
       "published": "2026-10-06T08:08:00+00:00"
-    },
-    {
-      "id": "7f7d3a371c1bf7e53431",
-      "source": "BBC News",
-      "title": "What is Russia saying about death of woman linked to plague lab?",
-      "url": "https://www.bbc.co.uk/news/videos/cw4g1r1k1d0ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T07:58:53+00:00"
     },
     {
       "id": "1ae85f2af2b50e8441ea",
