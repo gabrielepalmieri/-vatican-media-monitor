@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-06T05:25:07.123871+00:00",
+  "updated_at": "2026-10-06T22:24:46.706880+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-10-06T05:25:07.123871+00:00",
+  "un_verified_at": "2026-10-06T22:24:46.706880+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,30 +1918,6 @@
     }
   ],
   "days": {
-    "2026-10-05": {
-      "saints": [
-        {
-          "title": "Ss. Placido e Mauro, discepoli di San Benedetto",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/05.html"
-        },
-        {
-          "title": "Santa Faustina Kowalska",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/05/santa-faustina-kowalska.html"
-        }
-      ],
-      "un": [
-        {
-          "title": "Giornata mondiale dell’habitat",
-          "url": "https://www.un.org/en/observances/habitat-day"
-        },
-        {
-          "title": "Giornata mondiale degli insegnanti",
-          "url": "https://www.un.org/en/observances/habitat-day"
-        }
-      ],
-      "un_available": true,
-      "holy_see": []
-    },
     "2026-10-06": {
       "saints": [
         {
@@ -2557,6 +2533,21 @@
           "url": "https://www.un.org/en/observances/world-science-day"
         }
       ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-11-11": {
+      "saints": [
+        {
+          "title": "San Martino, vescovo di Tours",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/11/san-martino--vescovo-di-tours.html"
+        },
+        {
+          "title": "San Bartolomeo, abate di Grottaferrata",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/11/san-bartolomeo--abate-di-grottaferrata.html"
+        }
+      ],
+      "un": [],
       "un_available": true,
       "holy_see": []
     }
