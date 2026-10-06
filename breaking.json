@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-06T18:10:24.398211+00:00",
+  "updated_at": "2026-10-06T18:27:12.640757+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-06T18:10:24.398211+00:00"
+      "checked_at": "2026-10-06T18:27:12.640757+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-06T18:10:24.398211+00:00"
+      "checked_at": "2026-10-06T18:27:12.640757+00:00"
     }
   },
   "items": [
+    {
+      "id": "6d0e68bf762c2edf445d",
+      "source": "TGcom24",
+      "title": "Russia, petroliera in fiamme al largo di Sochi: \"Possibile attacco con drone\"",
+      "url": "https://www.tgcom24.mediaset.it/2026/video/russia-petroliera-incendio-sochi_117365240-02k.shtml",
+      "published": "2026-10-06T18:14:00+00:00"
+    },
     {
       "id": "84d82a52503a664f3977",
       "source": "BBC News",
@@ -297,13 +304,6 @@
       "title": "Torino, morto con il cranio fracassato: arrestati moglie vittima e nuovo compagno",
       "url": "https://www.tgcom24.mediaset.it/cronaca/torino-morto-cranio-fracassato-arrestati-uomo-donna_117344541-202602k.shtml",
       "published": "2026-10-06T05:33:00+00:00"
-    },
-    {
-      "id": "1e4a05e12a6543506e4d",
-      "source": "TGcom24",
-      "title": "Usa, Trump approva la fucilazione per l'autore della strage nella base di Fort Hood",
-      "url": "https://www.tgcom24.mediaset.it/mondo/usa-nidal-hassan-trump-approva-fucilazione-fort-hood_117344383-202602k.shtml",
-      "published": "2026-10-06T05:02:00+00:00"
     },
     {
       "id": "b8ab18e30667a5804707",
