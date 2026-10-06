@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-06T08:26:25.248486+00:00",
+  "updated_at": "2026-10-06T08:41:54.627016+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-06T08:26:25.248486+00:00"
+      "checked_at": "2026-10-06T08:41:54.627016+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-06T08:26:25.248486+00:00"
+      "checked_at": "2026-10-06T08:41:54.627016+00:00"
     }
   },
   "items": [
+    {
+      "id": "435f2ed6162cc09d9ec1",
+      "source": "BBC News",
+      "title": "Mass school protests begin in France after days of clashes",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T08:39:09+00:00"
+    },
     {
       "id": "377945fe254d5eb6786b",
       "source": "BBC News",
@@ -24,6 +31,13 @@
       "title": "Sorrento (Napoli), 20enne perde il controllo dello scooter e muore",
       "url": "https://www.tgcom24.mediaset.it/cronaca/sorrento-dario-crotti-scooter-morto_117347477-202602k.shtml",
       "published": "2026-10-06T08:08:00+00:00"
+    },
+    {
+      "id": "7f7d3a371c1bf7e53431",
+      "source": "BBC News",
+      "title": "What is Russia saying about death of woman linked to plague lab?",
+      "url": "https://www.bbc.co.uk/news/videos/cw4g1r1k1d0ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T07:58:53+00:00"
     },
     {
       "id": "1ae85f2af2b50e8441ea",
@@ -215,13 +229,6 @@
       "published": "2026-10-05T21:32:00+00:00"
     },
     {
-      "id": "435f2ed6162cc09d9ec1",
-      "source": "BBC News",
-      "title": "France braces for national day of school protests after injuries and mass arrests",
-      "url": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T21:18:10+00:00"
-    },
-    {
       "id": "ded1cd99057b9b43f690",
       "source": "TGcom24",
       "title": "Guerra in Iran, altra petroliera colpita a Hormuz: \"Incendio a bordo\"",
@@ -290,13 +297,6 @@
       "title": "Baby Gang resta in carcere, il gip: \"È inserito in una rete criminale più vasta\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/baby-gang-carcere-rete-internazionale-iraq_117321408-202602k.shtml",
       "published": "2026-10-05T16:04:00+00:00"
-    },
-    {
-      "id": "54b3b6a59c84d4177897",
-      "source": "TGcom24",
-      "title": "Israele, Shin Bet avverte il governo: Hamas pronto ad attacco a ridosso del voto",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-5-ottobre_117305576-202602k.shtml",
-      "published": "2026-10-05T15:35:00+00:00"
     },
     {
       "id": "450d5db5a197aa830f1a",
