@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-06T17:34:25.294432+00:00",
+  "updated_at": "2026-10-06T17:50:20.702723+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-06T17:34:25.294432+00:00"
+      "checked_at": "2026-10-06T17:50:20.702723+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-06T17:34:25.294432+00:00"
+      "checked_at": "2026-10-06T17:50:20.702723+00:00"
     }
   },
   "items": [
+    {
+      "id": "28f669f09f98ae7d027a",
+      "source": "TGcom24",
+      "title": "Pisa, arresto cardiaco a scuola: il prof salva lo studente col defibrillatore",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/pisa-arresto-cardiaco-studente-salvato-prof_117364269-202602k.shtml",
+      "published": "2026-10-06T17:38:00+00:00"
+    },
     {
       "id": "ffe366eb922068deaaa0",
       "source": "TGcom24",
@@ -304,13 +311,6 @@
       "title": "Watch: Moment Indonesian shoe shop is torn apart by explosion",
       "url": "https://www.bbc.co.uk/news/videos/cmkg7dx8wpygo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-06T04:57:16+00:00"
-    },
-    {
-      "id": "3907a4871ac0bad397f5",
-      "source": "TGcom24",
-      "title": "Russia, pioggia di droni ucraini su Mosca: colpito un impianto petrolifero",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-6-ottobre_117344380-202602k.shtml",
-      "published": "2026-10-06T04:31:00+00:00"
     },
     {
       "id": "8a8bc0dc9e360f727d9f",
