@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-06T13:34:39.201170+00:00",
+  "updated_at": "2026-10-06T13:52:22.668870+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-06T13:34:39.201170+00:00"
+      "checked_at": "2026-10-06T13:52:22.668870+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-06T13:34:39.201170+00:00"
+      "checked_at": "2026-10-06T13:52:22.668870+00:00"
     }
   },
   "items": [
+    {
+      "id": "84d82a52503a664f3977",
+      "source": "BBC News",
+      "title": "Defence lawyer in Cornell University case calls for special prosecutor to be removed",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T13:36:46+00:00"
+    },
+    {
+      "id": "0b13421ef91306acc6f6",
+      "source": "BBC News",
+      "title": "Russia responds to US help offer after death of plague researcher",
+      "url": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T13:32:42+00:00"
+    },
     {
       "id": "2b3b32745adfa0f8abbe",
       "source": "TGcom24",
@@ -70,7 +84,7 @@
     {
       "id": "fa3d336a606bd4366188",
       "source": "TGcom24",
-      "title": "Crans-Montana, Jessica Moretti chiede indennità per infortunio nel rogo",
+      "title": "Crans-Montana, Jessica Moretti chiede l'indennità per infortunio nel rogo",
       "url": "https://www.tgcom24.mediaset.it/mondo/crans-montana-jessica-moretti-indennita-infortunio_117355838-202602k.shtml",
       "published": "2026-10-06T11:35:00+00:00"
     },
@@ -112,7 +126,7 @@
     {
       "id": "4af7fc12707d918fcaf1",
       "source": "TGcom24",
-      "title": "Bologna, provano a imbarcarsi su un volo per Tel Aviv con passaporti falsi: denunciati",
+      "title": "Bologna, provano a imbarcarsi per Tel Aviv con passaporti falsi: denunciati",
       "url": "https://www.tgcom24.mediaset.it/cronaca/bologna-volo-tel-aviv-passaporti-falsi_117354058-202602k.shtml",
       "published": "2026-10-06T10:03:00+00:00"
     },
@@ -145,6 +159,13 @@
       "published": "2026-10-06T07:58:19+00:00"
     },
     {
+      "id": "af5398373a3ba95bb246",
+      "source": "BBC News",
+      "title": "The small African nation ready for Messi's big night",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqly0lx461m8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T07:50:34+00:00"
+    },
+    {
       "id": "2ddad0b2ba382bdf407d",
       "source": "TGcom24",
       "title": "Iran, Trump: \"Caro carburanti è piccolo prezzo da pagare per la sicurezza\"",
@@ -168,23 +189,9 @@
     {
       "id": "464a6a15df17d7c3bf97",
       "source": "TGcom24",
-      "title": "Carburanti, termina l'ultimo sconto del governo: accise su gasolio rincarano di 6,1 centesimi",
+      "title": "Carburanti, termina l'ultimo sconto: accise su gasolio rincarano di 6,1 cent",
       "url": "https://www.tgcom24.mediaset.it/economia/caro-carburanti-accise-gasolio-prezzi_117342181-202602k.shtml",
       "published": "2026-10-06T07:15:00+00:00"
-    },
-    {
-      "id": "43e649f48ffbfc575a9f",
-      "source": "BBC News",
-      "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
-      "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T07:02:24+00:00"
-    },
-    {
-      "id": "172be6a453153d6d0d1c",
-      "source": "TGcom24",
-      "title": "Francia, nuova giornata di manifestazioni studentesche: presenti anche i sindacati",
-      "url": "https://www.tgcom24.mediaset.it/mondo/francia-manifestazioni-studentesche_117346729-202602k.shtml",
-      "published": "2026-10-06T06:59:00+00:00"
     },
     {
       "id": "e28f8e5492f0d91e7801",
@@ -203,7 +210,7 @@
     {
       "id": "87c83d4ab9ec326621f0",
       "source": "TGcom24",
-      "title": "Elon Musk, il patrimonio dell'imprenditore torna a superare i mille miliardi di dollari",
+      "title": "Elon Musk, il suo patrimonio torna a superare i mille miliardi di dollari",
       "url": "https://www.tgcom24.mediaset.it/mondo/elon-musk-patrimonio-supera-mille-miliardi-dollari_117345989-202602k.shtml",
       "published": "2026-10-06T06:31:00+00:00"
     },
@@ -213,13 +220,6 @@
       "title": "Regno Unito, morto a 86 anni lo scrittore Jeffrey Archer",
       "url": "https://www.tgcom24.mediaset.it/mondo/londra-morto-jeffrey-archer-scrittore_117345299-202602k.shtml",
       "published": "2026-10-06T05:50:00+00:00"
-    },
-    {
-      "id": "86817b0e78a897114a15",
-      "source": "BBC News",
-      "title": "Owner, businessman & player: Messi has big plans as a golden era ends",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwly3lpmyye9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T05:39:49+00:00"
     },
     {
       "id": "169ad6870af53e756f0b",
@@ -278,13 +278,6 @@
       "published": "2026-10-05T23:40:58+00:00"
     },
     {
-      "id": "0f5d53ee2c25db550f5d",
-      "source": "BBC News",
-      "title": "Five reasons India's stock market is sinking even when its economy is growing",
-      "url": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T23:13:11+00:00"
-    },
-    {
       "id": "ce84a0fcddf367704b01",
       "source": "BBC News",
       "title": "Blue Planet and Gandhi composer George Fenton dies aged 76",
@@ -318,6 +311,13 @@
       "title": "Guerra in Iran, altra petroliera colpita a Hormuz: \"Incendio a bordo\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-5-ottobre_117305576-202602k.shtml",
       "published": "2026-10-05T21:01:00+00:00"
+    },
+    {
+      "id": "bad6010e0f3364aa3b44",
+      "source": "TGcom24",
+      "title": "Volo FlyDubai, il presidente americano Trump: \"Il responsabile è l'Iran\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/volo-flydubai-copilota-gaza_117330516-202602k.shtml",
+      "published": "2026-10-05T20:16:00+00:00"
     },
     {
       "id": "450d5db5a197aa830f1a",
