@@ -1,22 +1,29 @@
 {
-  "updated_at": "2026-10-07T16:44:21.864634+00:00",
+  "updated_at": "2026-10-07T17:09:26.108460+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-07T16:44:21.864634+00:00"
+      "checked_at": "2026-10-07T17:09:26.108460+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-07T16:44:21.864634+00:00"
+      "checked_at": "2026-10-07T17:09:26.108460+00:00"
     }
   },
   "items": [
+    {
+      "id": "454f54408eb53e176411",
+      "source": "TGcom24",
+      "title": "Mattarella concede tre grazie: c'è anche il gioielliere Guido Gianni che uccise due rapinatori",
+      "url": "https://www.tgcom24.mediaset.it/politica/presidente-repubblica-sergio-mattarella-concede-grazia-gioielliere-guido-gianni_117403096-202602k.shtml",
+      "published": "2026-10-07T16:55:00+00:00"
+    },
     {
       "id": "d6f97ed94424ddec315b",
       "source": "BBC News",
       "title": "Canada suspends plans to expand assisted dying to people with mental illness",
       "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T16:42:57+00:00"
+      "published": "2026-10-07T16:54:17+00:00"
     },
     {
       "id": "6090b5c2f92dcb1fa404",
@@ -297,13 +304,6 @@
       "title": "Drinking and consent - Cornell rape allegations expose 'loopholes' in laws",
       "url": "https://www.bbc.co.uk/news/articles/c9e8l0ep8d1mo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-06T20:40:01+00:00"
-    },
-    {
-      "id": "446623c6715206493b52",
-      "source": "TGcom24",
-      "title": "Auto contro la folla a Modena, l'attentatore El Koudri tenta il suicidio in carcere",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/auto-folla-modena-attentatore-el-koudri-suicidio-carcere_117369700-202602k.shtml",
-      "published": "2026-10-06T20:18:00+00:00"
     },
     {
       "id": "13824ed18c937dc811b8",
