@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-07T10:34:27.634061+00:00",
+  "updated_at": "2026-10-07T10:52:15.410510+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-07T10:34:27.634061+00:00"
+      "checked_at": "2026-10-07T10:52:15.410510+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-07T10:34:27.634061+00:00"
+      "checked_at": "2026-10-07T10:52:15.410510+00:00"
     }
   },
   "items": [
+    {
+      "id": "c35e75c7e7ba9619b1a1",
+      "source": "BBC News",
+      "title": "India's first bank rate hike since 2023 signals growing inflation concerns",
+      "url": "https://www.bbc.co.uk/news/articles/c5j9kngz3j1go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T10:44:02+00:00"
+    },
+    {
+      "id": "3dca4a0bb656c01b0db4",
+      "source": "TGcom24",
+      "title": "Sanità, fondazione Gimbe: \"Tra il 2023 e il 2026 tagli invisibili per 18,8 miliardi\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/sanita-fondazione-gimbe-tagli-invisibili_117386282-202602k.shtml",
+      "published": "2026-10-07T10:34:00+00:00"
+    },
     {
       "id": "f2d7ca6d5939c2704c8f",
       "source": "BBC News",
@@ -166,13 +180,6 @@
       "published": "2026-10-07T04:30:00+00:00"
     },
     {
-      "id": "a21e4d915d7fdad84555",
-      "source": "BBC News",
-      "title": "Former Australian bishop jailed for sexually abusing young men",
-      "url": "https://www.bbc.co.uk/news/articles/cj62ylxqz173o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T04:22:07+00:00"
-    },
-    {
       "id": "163e88d21677fe38297f",
       "source": "TGcom24",
       "title": "Atene, oltre 2mila manifestanti in piazza contro l'arrivo di Rubio",
@@ -241,13 +248,6 @@
       "title": "Auto contro la folla a Modena, l'attentatore El Koudri tenta il suicidio in carcere",
       "url": "https://www.tgcom24.mediaset.it/cronaca/auto-folla-modena-attentatore-el-koudri-suicidio-carcere_117369700-202602k.shtml",
       "published": "2026-10-06T20:18:00+00:00"
-    },
-    {
-      "id": "0f231a91d42a4503a73d",
-      "source": "BBC News",
-      "title": "Ex-US spy who stashed gold bars in his home admits to $200m scam",
-      "url": "https://www.bbc.co.uk/news/articles/cr3wvq965dngo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T19:53:45+00:00"
     },
     {
       "id": "6e6d6bc8aac85121254c",
@@ -325,13 +325,6 @@
       "title": "Israele ricorda Mila, uccisa a 9 mesi il 7 ottobre: era la vittima più piccola",
       "url": "https://www.tgcom24.mediaset.it/mondo/israele-ricorda-neonata-mila-uccisa-7-ottobre_117359844-202602k.shtml",
       "published": "2026-10-06T14:31:00+00:00"
-    },
-    {
-      "id": "8a2aad4475e6c8a36104",
-      "source": "TGcom24",
-      "title": "Spagna, Corte Suprema annulla il mandato di arresto per Puigdemont",
-      "url": "https://www.tgcom24.mediaset.it/mondo/spagna-corte-suprema-annulla-mandato-arresto-puigdemont_117360339-202602k.shtml",
-      "published": "2026-10-06T13:53:00+00:00"
     },
     {
       "id": "0b13421ef91306acc6f6",
