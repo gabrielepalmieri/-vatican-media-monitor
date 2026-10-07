@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-07T10:00:46.467846+00:00",
+  "updated_at": "2026-10-07T10:14:18.069247+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-07T10:00:46.467846+00:00"
+      "checked_at": "2026-10-07T10:14:18.069247+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-07T10:00:46.467846+00:00"
+      "checked_at": "2026-10-07T10:14:18.069247+00:00"
     }
   },
   "items": [
+    {
+      "id": "731c81109514a915e849",
+      "source": "BBC News",
+      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+      "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T10:12:36+00:00"
+    },
+    {
+      "id": "e9c3872a9d0ee25c4762",
+      "source": "TGcom24",
+      "title": "Stoccolma, Premio Nobel per la Chimica 2026 a Kagan e Soai",
+      "url": "https://www.tgcom24.mediaset.it/mondo/premio-nobel-chimica-kagan-soari_117386289-202602k.shtml",
+      "published": "2026-10-07T10:07:00+00:00"
+    },
     {
       "id": "0c4f49e6a4ddb50d1761",
       "source": "TGcom24",
@@ -52,13 +66,6 @@
       "title": "Ucraina, Comitato militare Nato in visita a Kiev",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-7-ottobre_117374095-202602k.shtml",
       "published": "2026-10-07T07:45:00+00:00"
-    },
-    {
-      "id": "731c81109514a915e849",
-      "source": "BBC News",
-      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-      "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T07:07:22+00:00"
     },
     {
       "id": "4ad5918f146ff4302103",
@@ -304,13 +311,6 @@
       "title": "Watch: How Russia responded to US after plague researcher death",
       "url": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-06T13:32:42+00:00"
-    },
-    {
-      "id": "2b3b32745adfa0f8abbe",
-      "source": "TGcom24",
-      "title": "Francia, terzo giorno di proteste studentesche: disordini a Parigi",
-      "url": "https://www.tgcom24.mediaset.it/mondo/francia-proteste-studentesche-diretta_117359850-202602k.shtml",
-      "published": "2026-10-06T13:29:00+00:00"
     },
     {
       "id": "62a76e2d2cd16f574dc3",
