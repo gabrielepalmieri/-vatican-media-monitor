@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-07T04:24:50.135564+00:00",
+  "updated_at": "2026-10-07T04:44:49.662651+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-07T04:24:50.135564+00:00"
+      "checked_at": "2026-10-07T04:44:49.662651+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-07T04:24:50.135564+00:00"
+      "checked_at": "2026-10-07T04:44:49.662651+00:00"
     }
   },
   "items": [
+    {
+      "id": "f0c0e8686bc0f7d73251",
+      "source": "BBC News",
+      "title": "Pornhub returns to Australia but only for adults with Apple devices",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgdlzvl9ego?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T04:39:59+00:00"
+    },
+    {
+      "id": "38a6311930bbb7a9f7ac",
+      "source": "TGcom24",
+      "title": "Peste in Russia, Wsj: \"Washington preme su Mosca, nota ufficiale su morte 28enne\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/peste-polmonare-russia-washington-donald-trump-vladimir-putin_117373500-202602k.shtml",
+      "published": "2026-10-07T04:30:00+00:00"
+    },
     {
       "id": "a21e4d915d7fdad84555",
       "source": "BBC News",
@@ -346,13 +360,6 @@
       "title": "Yemeni military says it has 'secured' Red Sea waterway",
       "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-06T07:43:07+00:00"
-    },
-    {
-      "id": "e28f8e5492f0d91e7801",
-      "source": "BBC News",
-      "title": "OpenAI admits response to Australian government hacks 'not good enough'",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T06:53:17+00:00"
     },
     {
       "id": "a9de7ab9010a94f66730",
