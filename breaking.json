@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-07T21:07:49.858470+00:00",
+  "updated_at": "2026-10-07T21:24:06.009320+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-07T21:07:49.858470+00:00"
+      "checked_at": "2026-10-07T21:24:06.009320+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-07T21:07:49.858470+00:00"
+      "checked_at": "2026-10-07T21:24:06.009320+00:00"
     }
   },
   "items": [
+    {
+      "id": "e7d4ce06721489bb898e",
+      "source": "TGcom24",
+      "title": "Torino, lancio di oggetti al corteo pro Pal: gli agenti rispondono con l'idrante",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/torino-lancio-di-oggetti-al-corteo-pro-pal-polizia-usa-idrante_117409855-202602k.shtml",
+      "published": "2026-10-07T21:20:00+00:00"
+    },
     {
       "id": "96007bbd37904fbd0147",
       "source": "BBC News",
@@ -269,13 +276,6 @@
       "title": "Germania, media: \"Ex capo dei servizi ha venduto segreti all'Azerbaigian\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/germania-arrestato-august-hanning-ex-capo-007-spionaggio_117375198-202602k.shtml",
       "published": "2026-10-07T06:27:00+00:00"
-    },
-    {
-      "id": "29de6bfaf333cc98234f",
-      "source": "TGcom24",
-      "title": "Sette ottobre, in Israele minuto silenzio familiari vittime in luoghi attacco Hamas",
-      "url": "https://www.tgcom24.mediaset.it/mondo/sette-ottobre-israele-tre-anni-fa-minuto-di-silenzio_117374491-202602k.shtml",
-      "published": "2026-10-07T05:20:00+00:00"
     },
     {
       "id": "4c2a565958149c16c410",
