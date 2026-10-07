@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-07T15:02:49.488457+00:00",
+  "updated_at": "2026-10-07T15:29:09.458418+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-07T15:02:49.488457+00:00"
+      "checked_at": "2026-10-07T15:29:09.458418+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-07T15:02:49.488457+00:00"
+      "checked_at": "2026-10-07T15:29:09.458418+00:00"
     }
   },
   "items": [
+    {
+      "id": "6cb5048c48bd9a133f50",
+      "source": "TGcom24",
+      "title": "Assalto alla Cgil, confermate in appello le sette condanne",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/assalto-cgil-confermate-condanne-fiore-castellino_117398848-202602k.shtml",
+      "published": "2026-10-07T15:10:00+00:00"
+    },
     {
       "id": "9f6d8a9b5ad9b23f2f05",
       "source": "BBC News",
@@ -101,13 +108,6 @@
       "title": "Sanità, fondazione Gimbe: \"Tra il 2023 e il 2026 tagli invisibili per 18,8 miliardi\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/sanita-fondazione-gimbe-tagli-invisibili_117386282-202602k.shtml",
       "published": "2026-10-07T10:34:00+00:00"
-    },
-    {
-      "id": "731c81109514a915e849",
-      "source": "BBC News",
-      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-      "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T10:12:36+00:00"
     },
     {
       "id": "e9c3872a9d0ee25c4762",
@@ -243,13 +243,6 @@
       "published": "2026-10-06T23:42:35+00:00"
     },
     {
-      "id": "9b72bec9acb2070af228",
-      "source": "BBC News",
-      "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
-      "url": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T23:07:44+00:00"
-    },
-    {
       "id": "6b602008218a9b72d5cf",
       "source": "BBC News",
       "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
@@ -318,13 +311,6 @@
       "title": "From films to streaming prices - how the Warner Bros deal could affect you",
       "url": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-06T18:42:58+00:00"
-    },
-    {
-      "id": "6d0e68bf762c2edf445d",
-      "source": "TGcom24",
-      "title": "Russia, petroliera in fiamme al largo di Sochi: \"Possibile attacco con drone\"",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/russia-petroliera-incendio-sochi_117365240-02k.shtml",
-      "published": "2026-10-06T18:14:00+00:00"
     },
     {
       "id": "c2b13d283cc173c859d6",
