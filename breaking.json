@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-07T07:42:31.839783+00:00",
+  "updated_at": "2026-10-07T07:54:51.334363+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-07T07:42:31.839783+00:00"
+      "checked_at": "2026-10-07T07:54:51.334363+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-07T07:42:31.839783+00:00"
+      "checked_at": "2026-10-07T07:54:51.334363+00:00"
     }
   },
   "items": [
+    {
+      "id": "1e075499fcab83d102c4",
+      "source": "TGcom24",
+      "title": "Ucraina, Comitato militare Nato in visita a Kiev",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-7-ottobre_117374095-202602k.shtml",
+      "published": "2026-10-07T07:45:00+00:00"
+    },
     {
       "id": "731c81109514a915e849",
       "source": "BBC News",
@@ -56,7 +63,7 @@
     {
       "id": "dc495551edb4806da977",
       "source": "TGcom24",
-      "title": "Ucraina, attacco missilistico russo su Kiev: due morti",
+      "title": "Ucraina, diversi attacchi missilistici su Kiev e altre città: 11 morti",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-7-ottobre_117374095-202602k.shtml",
       "published": "2026-10-07T04:59:00+00:00"
     },
