@@ -1,29 +1,43 @@
 {
-  "updated_at": "2026-10-07T12:00:52.035921+00:00",
+  "updated_at": "2026-10-07T12:18:49.876322+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-07T12:00:52.035921+00:00"
+      "checked_at": "2026-10-07T12:18:49.876322+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-07T12:00:52.035921+00:00"
+      "checked_at": "2026-10-07T12:18:49.876322+00:00"
     }
   },
   "items": [
+    {
+      "id": "6090b5c2f92dcb1fa404",
+      "source": "BBC News",
+      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T12:16:58+00:00"
+    },
+    {
+      "id": "95acdb8fc7079b6aeaf2",
+      "source": "BBC News",
+      "title": "Japan beer giants raided over alleged price-fixing cartel",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T12:09:59+00:00"
+    },
+    {
+      "id": "896ebbb82004cf84a6c9",
+      "source": "TGcom24",
+      "title": "7 ottobre, Mattarella: \"Gli attacchi di Hamas non saranno mai giustificati\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/7-ottobre-reazioni-istituzionali-mattarelli-meloni-macron_117381956-202602k.shtml",
+      "published": "2026-10-07T12:03:00+00:00"
+    },
     {
       "id": "f2d7ca6d5939c2704c8f",
       "source": "BBC News",
       "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
       "url": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-07T11:51:52+00:00"
-    },
-    {
-      "id": "6090b5c2f92dcb1fa404",
-      "source": "BBC News",
-      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T11:35:36+00:00"
     },
     {
       "id": "992006adf3e623309b38",
@@ -94,13 +108,6 @@
       "title": "Delitto di Garlasco, legale di Andrea Sempio in tribunale a Pavia per ascoltare intercettazioni",
       "url": "https://www.tgcom24.mediaset.it/cronaca/delitto-garlasco-sempio-intercettazioni-tribunale-pavia_117385087-202602k.shtml",
       "published": "2026-10-07T09:49:00+00:00"
-    },
-    {
-      "id": "95acdb8fc7079b6aeaf2",
-      "source": "BBC News",
-      "title": "Japan beer giants raided over alleged price-fixing cartel",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T09:45:56+00:00"
     },
     {
       "id": "418169143f30f21a343d",
@@ -311,13 +318,6 @@
       "title": "Ex Ilva, sindacati: \"Incontro con il governo giovedì 8 ottobre a Palazzo Chigi\"",
       "url": "https://www.tgcom24.mediaset.it/economia/ex-ilva-incontro-governo-sindacati_117363952-202602k.shtml",
       "published": "2026-10-06T16:22:00+00:00"
-    },
-    {
-      "id": "759f0abf5be8dc37673b",
-      "source": "TGcom24",
-      "title": "Proteste studentesche in Francia, Trump: \"Colpa di Islam e immigrazione\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/francia-proteste-studentesche-diretta_117359850-202602k.shtml",
-      "published": "2026-10-06T15:51:00+00:00"
     },
     {
       "id": "c2b13d283cc173c859d6",
