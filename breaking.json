@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-10-07T05:00:34.103560+00:00",
+  "updated_at": "2026-10-07T05:13:21.417862+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-07T05:00:34.103560+00:00"
+      "checked_at": "2026-10-07T05:13:21.417862+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-07T05:00:34.103560+00:00"
+      "checked_at": "2026-10-07T05:13:21.417862+00:00"
     }
   },
   "items": [
+    {
+      "id": "d42f451cdd087d904461",
+      "source": "BBC News",
+      "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
+      "url": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T05:02:18+00:00"
+    },
+    {
+      "id": "4c2a565958149c16c410",
+      "source": "BBC News",
+      "title": "The Republican candidates walking a Trump tightrope",
+      "url": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T05:00:21+00:00"
+    },
+    {
+      "id": "dc495551edb4806da977",
+      "source": "TGcom24",
+      "title": "Ucraina, attacco missilistico russo su Kiev: due morti",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-7-ottobre_117374095-202602k.shtml",
+      "published": "2026-10-07T04:59:00+00:00"
+    },
     {
       "id": "f0c0e8686bc0f7d73251",
       "source": "BBC News",
@@ -38,13 +59,6 @@
       "title": "Atene, oltre 2mila manifestanti in piazza contro l'arrivo di Rubio",
       "url": "https://www.tgcom24.mediaset.it/mondo/atene-oltre-2mila-manifestanti-in-piazza-contro-l-arrivo-di-rubio_117373110-202602k.shtml",
       "published": "2026-10-07T04:02:00+00:00"
-    },
-    {
-      "id": "5f1187bb9fe30bf3d786",
-      "source": "BBC News",
-      "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
-      "url": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T02:06:23+00:00"
     },
     {
       "id": "731c81109514a915e849",
@@ -341,13 +355,6 @@
       "published": "2026-10-06T09:48:37+00:00"
     },
     {
-      "id": "168219a2bc884fbec7a7",
-      "source": "TGcom24",
-      "title": "Germania, l'ex capo dei Servizi segreti esteri arrestato per spionaggio",
-      "url": "https://www.tgcom24.mediaset.it/mondo/germania-arresto-ex-capo-servizi-segreti-esteri_117352028-202602k.shtml",
-      "published": "2026-10-06T09:41:00+00:00"
-    },
-    {
       "id": "af5398373a3ba95bb246",
       "source": "BBC News",
       "title": "The small African nation ready for Messi's big night",
@@ -360,13 +367,6 @@
       "title": "Yemeni military says it has 'secured' Red Sea waterway",
       "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-06T07:43:07+00:00"
-    },
-    {
-      "id": "a9de7ab9010a94f66730",
-      "source": "BBC News",
-      "title": "What are the US midterms? A simple guide",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T23:40:58+00:00"
     }
   ]
 }
