@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-07T11:51:00.079604+00:00",
+  "updated_at": "2026-10-07T12:00:52.035921+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-07T11:51:00.079604+00:00"
+      "checked_at": "2026-10-07T12:00:52.035921+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-07T11:51:00.079604+00:00"
+      "checked_at": "2026-10-07T12:00:52.035921+00:00"
     }
   },
   "items": [
+    {
+      "id": "f2d7ca6d5939c2704c8f",
+      "source": "BBC News",
+      "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T11:51:52+00:00"
+    },
     {
       "id": "6090b5c2f92dcb1fa404",
       "source": "BBC News",
@@ -31,13 +38,6 @@
       "title": "Trump to speak to Putin about plague lab worker's death in Russia",
       "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-07T11:24:17+00:00"
-    },
-    {
-      "id": "f2d7ca6d5939c2704c8f",
-      "source": "BBC News",
-      "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T11:21:49+00:00"
     },
     {
       "id": "9f6d8a9b5ad9b23f2f05",
