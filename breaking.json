@@ -1,29 +1,43 @@
 {
-  "updated_at": "2026-10-07T11:15:54.007676+00:00",
+  "updated_at": "2026-10-07T11:33:10.863392+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-07T11:15:54.007676+00:00"
+      "checked_at": "2026-10-07T11:33:10.863392+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-07T11:15:54.007676+00:00"
+      "checked_at": "2026-10-07T11:33:10.863392+00:00"
     }
   },
   "items": [
     {
-      "id": "9f6d8a9b5ad9b23f2f05",
+      "id": "992006adf3e623309b38",
+      "source": "TGcom24",
+      "title": "È morta Barbara Spinelli, giornalista ed ex europarlamentare",
+      "url": "https://www.tgcom24.mediaset.it/politica/lutto-morta-barbara-spinelli_117389027-202602k.shtml",
+      "published": "2026-10-07T11:30:00+00:00"
+    },
+    {
+      "id": "dadaff53cdf1a0e6e3d9",
       "source": "BBC News",
-      "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 15",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T11:05:37+00:00"
+      "title": "Trump to speak to Putin about plague lab worker's death in Russia",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T11:24:17+00:00"
     },
     {
       "id": "f2d7ca6d5939c2704c8f",
       "source": "BBC News",
       "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
       "url": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T11:04:48+00:00"
+      "published": "2026-10-07T11:21:49+00:00"
+    },
+    {
+      "id": "9f6d8a9b5ad9b23f2f05",
+      "source": "BBC News",
+      "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 15",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T11:05:37+00:00"
     },
     {
       "id": "4d8f1c20de09398e9691",
@@ -66,13 +80,6 @@
       "title": "How did Christa Pike survive execution attempt - and what happens next?",
       "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-07T10:01:47+00:00"
-    },
-    {
-      "id": "dadaff53cdf1a0e6e3d9",
-      "source": "BBC News",
-      "title": "Trump to speak to Putin about plague lab worker's death in Russia",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T09:59:13+00:00"
     },
     {
       "id": "ad0111b6959c54328657",
@@ -175,7 +182,7 @@
     {
       "id": "dc495551edb4806da977",
       "source": "TGcom24",
-      "title": "Ucraina, diversi attacchi missilistici su Kiev e altre città: 11 morti",
+      "title": "Ucraina, missili russi su Kiev e altre 12 città: almeno 19 morti",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-7-ottobre_117374095-202602k.shtml",
       "published": "2026-10-07T04:59:00+00:00"
     },
@@ -318,13 +325,6 @@
       "title": "What is pneumonic plague and how does it spread?",
       "url": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-06T15:35:22+00:00"
-    },
-    {
-      "id": "2f48daf1fd7b81070e6b",
-      "source": "TGcom24",
-      "title": "Allarme morbillo negli Usa: 5 vittime in Pennsylvania, a New York è stato d'emergenza",
-      "url": "https://www.tgcom24.mediaset.it/mondo/morbillo-allarme-pennsylvania-new-york_117360803-202602k.shtml",
-      "published": "2026-10-06T14:57:00+00:00"
     },
     {
       "id": "0b13421ef91306acc6f6",
