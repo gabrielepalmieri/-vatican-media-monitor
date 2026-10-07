@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-07T17:42:20.724858+00:00",
+  "updated_at": "2026-10-07T17:55:09.373589+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-07T17:42:20.724858+00:00"
+      "checked_at": "2026-10-07T17:55:09.373589+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-07T17:42:20.724858+00:00"
+      "checked_at": "2026-10-07T17:55:09.373589+00:00"
     }
   },
   "items": [
+    {
+      "id": "6090b5c2f92dcb1fa404",
+      "source": "BBC News",
+      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T17:47:31+00:00"
+    },
     {
       "id": "e3bc521e15f301f201c1",
       "source": "TGcom24",
@@ -31,13 +38,6 @@
       "title": "Mattarella concede tre grazie: c'è anche il gioielliere Guido Gianni che uccise due rapinatori",
       "url": "https://www.tgcom24.mediaset.it/politica/presidente-repubblica-sergio-mattarella-concede-grazia-gioielliere-guido-gianni_117403096-202602k.shtml",
       "published": "2026-10-07T16:55:00+00:00"
-    },
-    {
-      "id": "6090b5c2f92dcb1fa404",
-      "source": "BBC News",
-      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T16:41:57+00:00"
     },
     {
       "id": "175ca7840119770fe0da",
