@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-07T08:43:09.901724+00:00",
+  "updated_at": "2026-10-07T08:59:45.154587+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-07T08:43:09.901724+00:00"
+      "checked_at": "2026-10-07T08:59:45.154587+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-07T08:43:09.901724+00:00"
+      "checked_at": "2026-10-07T08:59:45.154587+00:00"
     }
   },
   "items": [
+    {
+      "id": "b923dc131caaebd08464",
+      "source": "TGcom24",
+      "title": "Neonato muore dopo il parto a Napoli: arrestato primario, tre sanitari sospesi",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/napoli-castellammare-neonato-morto-arresto-primario_117383776-202602k.shtml",
+      "published": "2026-10-07T08:29:00+00:00"
+    },
     {
       "id": "666dcd17b5d98a28cd99",
       "source": "BBC News",
@@ -290,13 +297,6 @@
       "title": "Bologna, 18enne picchia la madre perché non gli compra una tuta: arrestato",
       "url": "https://www.tgcom24.mediaset.it/cronaca/bologna-18enne-picchia-madre-tuta_117354137-202602k.shtml",
       "published": "2026-10-06T12:01:00+00:00"
-    },
-    {
-      "id": "fa3d336a606bd4366188",
-      "source": "TGcom24",
-      "title": "Crans-Montana, Jessica Moretti chiede l'indennità per infortunio nel rogo",
-      "url": "https://www.tgcom24.mediaset.it/mondo/crans-montana-jessica-moretti-indennita-infortunio_117355838-202602k.shtml",
-      "published": "2026-10-06T11:35:00+00:00"
     },
     {
       "id": "62a76e2d2cd16f574dc3",
