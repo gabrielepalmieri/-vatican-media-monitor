@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-10-07T14:18:02.842228+00:00",
+  "updated_at": "2026-10-07T14:34:41.824041+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-07T14:18:02.842228+00:00"
+      "checked_at": "2026-10-07T14:34:41.824041+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-07T14:18:02.842228+00:00"
+      "checked_at": "2026-10-07T14:34:41.824041+00:00"
     }
   },
   "items": [
+    {
+      "id": "9f6d8a9b5ad9b23f2f05",
+      "source": "BBC News",
+      "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 22",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T14:21:45+00:00"
+    },
     {
       "id": "df5e31e8c532f978c24e",
       "source": "TGcom24",
       "title": "Carburanti, Meloni: \"Valutiamo accise mobili, spero si ripristini price cap\"",
       "url": "https://www.tgcom24.mediaset.it/politica/carburanti-meloni-accise-mobili-price-cap-flessibilita-ue_117396701-202602k.shtml",
       "published": "2026-10-07T14:08:00+00:00"
-    },
-    {
-      "id": "9f6d8a9b5ad9b23f2f05",
-      "source": "BBC News",
-      "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 20",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T13:02:17+00:00"
     },
     {
       "id": "83fa467565d138abf7e2",
