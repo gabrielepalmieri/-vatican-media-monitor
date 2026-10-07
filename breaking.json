@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-07T16:27:21.252572+00:00",
+  "updated_at": "2026-10-07T16:44:21.864634+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-07T16:27:21.252572+00:00"
+      "checked_at": "2026-10-07T16:44:21.864634+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-07T16:27:21.252572+00:00"
+      "checked_at": "2026-10-07T16:44:21.864634+00:00"
     }
   },
   "items": [
+    {
+      "id": "d6f97ed94424ddec315b",
+      "source": "BBC News",
+      "title": "Canada suspends plans to expand assisted dying to people with mental illness",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T16:42:57+00:00"
+    },
+    {
+      "id": "6090b5c2f92dcb1fa404",
+      "source": "BBC News",
+      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T16:41:57+00:00"
+    },
     {
       "id": "175ca7840119770fe0da",
       "source": "TGcom24",
@@ -24,13 +38,6 @@
       "title": "Israelis demand accountability over 7 October failures three years after attacks",
       "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-07T16:00:18+00:00"
-    },
-    {
-      "id": "6090b5c2f92dcb1fa404",
-      "source": "BBC News",
-      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T15:57:51+00:00"
     },
     {
       "id": "36dd296c9b9a1a8e5dfc",
@@ -178,13 +185,6 @@
       "title": "Neonato muore dopo il parto a Napoli: arrestato primario, tre sanitari sospesi",
       "url": "https://www.tgcom24.mediaset.it/cronaca/napoli-castellammare-neonato-morto-arresto-primario_117383776-202602k.shtml",
       "published": "2026-10-07T08:29:00+00:00"
-    },
-    {
-      "id": "666dcd17b5d98a28cd99",
-      "source": "BBC News",
-      "title": "India's opposition leader dragged on to bus as police break up protest",
-      "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T07:45:47+00:00"
     },
     {
       "id": "1e075499fcab83d102c4",
