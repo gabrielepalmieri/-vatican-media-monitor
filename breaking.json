@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-07T19:18:03.480170+00:00",
+  "updated_at": "2026-10-07T19:32:45.912720+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-07T19:18:03.480170+00:00"
+      "checked_at": "2026-10-07T19:32:45.912720+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-07T19:18:03.480170+00:00"
+      "checked_at": "2026-10-07T19:32:45.912720+00:00"
     }
   },
   "items": [
+    {
+      "id": "d6f97ed94424ddec315b",
+      "source": "BBC News",
+      "title": "Canada suspends plans to expand assisted dying to people with mental illness",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T19:30:51+00:00"
+    },
+    {
+      "id": "9f86b2c362c5dcf72820",
+      "source": "TGcom24",
+      "title": "Spagna, morta Maricarmen Abascal, simbolo delle proteste per il diritto alla casa",
+      "url": "https://www.tgcom24.mediaset.it/mondo/e--morta-maricarmen-abascal-simbolo-delle-proteste-per-il-diritto-alla-casa-in-spagna_117407086-202602k.shtml",
+      "published": "2026-10-07T19:20:00+00:00"
+    },
     {
       "id": "a841fddd8884d0eb2bb6",
       "source": "TGcom24",
@@ -52,13 +66,6 @@
       "title": "Carburanti, Eni: \"Manteniamo prezzi sostenibili, price cap serve per i picchi\"",
       "url": "https://www.tgcom24.mediaset.it/politica/carburanti-meloni-accise-mobili-price-cap-flessibilita-ue_117396701-202602k.shtml",
       "published": "2026-10-07T17:30:00+00:00"
-    },
-    {
-      "id": "d6f97ed94424ddec315b",
-      "source": "BBC News",
-      "title": "Canada suspends plans to expand assisted dying to people with mental illness",
-      "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T17:29:46+00:00"
     },
     {
       "id": "454f54408eb53e176411",
@@ -269,13 +276,6 @@
       "title": "Peste in Russia, Wsj: \"Washington preme su Mosca, nota ufficiale su morte 28enne\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/peste-polmonare-russia-washington-donald-trump-vladimir-putin_117373500-202602k.shtml",
       "published": "2026-10-07T04:30:00+00:00"
-    },
-    {
-      "id": "163e88d21677fe38297f",
-      "source": "TGcom24",
-      "title": "Atene, oltre 2mila manifestanti in piazza contro l'arrivo di Rubio",
-      "url": "https://www.tgcom24.mediaset.it/mondo/atene-oltre-2mila-manifestanti-in-piazza-contro-l-arrivo-di-rubio_117373110-202602k.shtml",
-      "published": "2026-10-07T04:02:00+00:00"
     },
     {
       "id": "3955ffe6f317266df9f6",
