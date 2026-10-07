@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-07T10:14:18.069247+00:00",
+  "updated_at": "2026-10-07T10:34:27.634061+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-07T10:14:18.069247+00:00"
+      "checked_at": "2026-10-07T10:34:27.634061+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-07T10:14:18.069247+00:00"
+      "checked_at": "2026-10-07T10:34:27.634061+00:00"
     }
   },
   "items": [
+    {
+      "id": "f2d7ca6d5939c2704c8f",
+      "source": "BBC News",
+      "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T10:33:05+00:00"
+    },
+    {
+      "id": "6090b5c2f92dcb1fa404",
+      "source": "BBC News",
+      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T10:23:23+00:00"
+    },
     {
       "id": "731c81109514a915e849",
       "source": "BBC News",
@@ -26,11 +40,39 @@
       "published": "2026-10-07T10:07:00+00:00"
     },
     {
+      "id": "6724cc44f046087f0aa0",
+      "source": "BBC News",
+      "title": "How did Christa Pike survive execution attempt - and what happens next?",
+      "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T10:01:47+00:00"
+    },
+    {
+      "id": "dadaff53cdf1a0e6e3d9",
+      "source": "BBC News",
+      "title": "Trump to speak to Putin about plague lab worker's death in Russia",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T09:59:13+00:00"
+    },
+    {
+      "id": "ad0111b6959c54328657",
+      "source": "BBC News",
+      "title": "Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations",
+      "url": "https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T09:49:31+00:00"
+    },
+    {
       "id": "0c4f49e6a4ddb50d1761",
       "source": "TGcom24",
       "title": "Delitto di Garlasco, legale di Andrea Sempio in tribunale a Pavia per ascoltare intercettazioni",
       "url": "https://www.tgcom24.mediaset.it/cronaca/delitto-garlasco-sempio-intercettazioni-tribunale-pavia_117385087-202602k.shtml",
       "published": "2026-10-07T09:49:00+00:00"
+    },
+    {
+      "id": "95acdb8fc7079b6aeaf2",
+      "source": "BBC News",
+      "title": "Japan beer giants raided over alleged price-fixing cartel",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T09:45:56+00:00"
     },
     {
       "id": "418169143f30f21a343d",
@@ -42,7 +84,7 @@
     {
       "id": "89664be6657eefb7047d",
       "source": "TGcom24",
-      "title": "Medio Oriente, media: \"Idf lancia operazioni antiterrorismo in tutta la Cisgiordania\"",
+      "title": "Cisgiordania, media: coloni uccidono 44enne, operazioni antiterrorismo di Idf",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-israele-hamas-ultime-notizie-7-ottobre_117385074-202602k.shtml",
       "published": "2026-10-07T09:20:00+00:00"
     },
@@ -56,7 +98,7 @@
     {
       "id": "666dcd17b5d98a28cd99",
       "source": "BBC News",
-      "title": "India's opposition leader dragged onto bus as police break up protest",
+      "title": "India's opposition leader dragged on to bus as police break up protest",
       "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-07T07:45:47+00:00"
     },
@@ -66,6 +108,13 @@
       "title": "Ucraina, Comitato militare Nato in visita a Kiev",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-7-ottobre_117374095-202602k.shtml",
       "published": "2026-10-07T07:45:00+00:00"
+    },
+    {
+      "id": "0199598e973353472329",
+      "source": "BBC News",
+      "title": "Oscar-winning actress Eva Marie Saint dies aged 102",
+      "url": "https://www.bbc.co.uk/news/articles/cqze43ky1xgdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T07:37:16+00:00"
     },
     {
       "id": "4ad5918f146ff4302103",
@@ -108,13 +157,6 @@
       "title": "Ucraina, diversi attacchi missilistici su Kiev e altre città: 11 morti",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-7-ottobre_117374095-202602k.shtml",
       "published": "2026-10-07T04:59:00+00:00"
-    },
-    {
-      "id": "f0c0e8686bc0f7d73251",
-      "source": "BBC News",
-      "title": "Pornhub returns to Australia but only for adults with Apple devices",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgdlzvl9ego?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T04:39:59+00:00"
     },
     {
       "id": "38a6311930bbb7a9f7ac",
@@ -201,13 +243,6 @@
       "published": "2026-10-06T20:18:00+00:00"
     },
     {
-      "id": "00ef83ffd8d6000146bb",
-      "source": "BBC News",
-      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-      "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T20:15:31+00:00"
-    },
-    {
       "id": "0f231a91d42a4503a73d",
       "source": "BBC News",
       "title": "Ex-US spy who stashed gold bars in his home admits to $200m scam",
@@ -241,13 +276,6 @@
       "title": "Russia, petroliera in fiamme al largo di Sochi: \"Possibile attacco con drone\"",
       "url": "https://www.tgcom24.mediaset.it/2026/video/russia-petroliera-incendio-sochi_117365240-02k.shtml",
       "published": "2026-10-06T18:14:00+00:00"
-    },
-    {
-      "id": "3de543b129a81decebc6",
-      "source": "BBC News",
-      "title": "Tear gas in Paris and Marseille as school protests grow across France",
-      "url": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T18:03:19+00:00"
     },
     {
       "id": "28f669f09f98ae7d027a",
@@ -311,27 +339,6 @@
       "title": "Watch: How Russia responded to US after plague researcher death",
       "url": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-06T13:32:42+00:00"
-    },
-    {
-      "id": "62a76e2d2cd16f574dc3",
-      "source": "BBC News",
-      "title": "'Ghost particles' from space telescope wins physics Nobel",
-      "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T11:24:19+00:00"
-    },
-    {
-      "id": "e7ca492de53472a07953",
-      "source": "BBC News",
-      "title": "Former German spy chief arrested for espionage and treason",
-      "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T10:05:42+00:00"
-    },
-    {
-      "id": "602d1e4528424c65e4ff",
-      "source": "BBC News",
-      "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
-      "url": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T09:48:37+00:00"
     }
   ]
 }
