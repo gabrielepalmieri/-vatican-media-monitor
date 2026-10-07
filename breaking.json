@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-07T18:09:54.718737+00:00",
+  "updated_at": "2026-10-07T18:29:19.802897+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-07T18:09:54.718737+00:00"
+      "checked_at": "2026-10-07T18:29:19.802897+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-07T18:09:54.718737+00:00"
+      "checked_at": "2026-10-07T18:29:19.802897+00:00"
     }
   },
   "items": [
+    {
+      "id": "dadaff53cdf1a0e6e3d9",
+      "source": "BBC News",
+      "title": "Trump to speak to Putin about plague lab worker's death in Russia",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T18:27:40+00:00"
+    },
+    {
+      "id": "9f6d8a9b5ad9b23f2f05",
+      "source": "BBC News",
+      "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T18:12:58+00:00"
+    },
     {
       "id": "c2d6c4a26f8378304aba",
       "source": "TGcom24",
@@ -73,20 +87,6 @@
       "title": "Assalto alla Cgil, confermate in appello le sette condanne",
       "url": "https://www.tgcom24.mediaset.it/cronaca/assalto-cgil-confermate-condanne-fiore-castellino_117398848-202602k.shtml",
       "published": "2026-10-07T15:10:00+00:00"
-    },
-    {
-      "id": "9f6d8a9b5ad9b23f2f05",
-      "source": "BBC News",
-      "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 24",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T14:53:43+00:00"
-    },
-    {
-      "id": "dadaff53cdf1a0e6e3d9",
-      "source": "BBC News",
-      "title": "Trump to speak to Putin about plague lab worker's death in Russia",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T14:50:28+00:00"
     },
     {
       "id": "9d5dac7cff702c79f6f5",
