@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-07T14:51:51.904685+00:00",
+  "updated_at": "2026-10-07T15:02:49.488457+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-07T14:51:51.904685+00:00"
+      "checked_at": "2026-10-07T15:02:49.488457+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-07T14:51:51.904685+00:00"
+      "checked_at": "2026-10-07T15:02:49.488457+00:00"
     }
   },
   "items": [
+    {
+      "id": "9f6d8a9b5ad9b23f2f05",
+      "source": "BBC News",
+      "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 24",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T14:53:43+00:00"
+    },
     {
       "id": "dadaff53cdf1a0e6e3d9",
       "source": "BBC News",
@@ -24,13 +31,6 @@
       "title": "7 ottobre, Netanyahu: \"Faremo i conti con tutti gli assassini\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/sette-ottobre-israele-tre-anni-fa-minuto-di-silenzio_117374491-202602k.shtml",
       "published": "2026-10-07T14:26:00+00:00"
-    },
-    {
-      "id": "9f6d8a9b5ad9b23f2f05",
-      "source": "BBC News",
-      "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 22",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T14:21:45+00:00"
     },
     {
       "id": "df5e31e8c532f978c24e",
