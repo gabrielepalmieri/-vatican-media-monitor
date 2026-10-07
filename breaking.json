@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-07T11:01:59.593543+00:00",
+  "updated_at": "2026-10-07T11:15:54.007676+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-07T11:01:59.593543+00:00"
+      "checked_at": "2026-10-07T11:15:54.007676+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-07T11:01:59.593543+00:00"
+      "checked_at": "2026-10-07T11:15:54.007676+00:00"
     }
   },
   "items": [
+    {
+      "id": "9f6d8a9b5ad9b23f2f05",
+      "source": "BBC News",
+      "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 15",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T11:05:37+00:00"
+    },
+    {
+      "id": "f2d7ca6d5939c2704c8f",
+      "source": "BBC News",
+      "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T11:04:48+00:00"
+    },
     {
       "id": "4d8f1c20de09398e9691",
       "source": "TGcom24",
@@ -19,25 +33,11 @@
       "published": "2026-10-07T10:59:00+00:00"
     },
     {
-      "id": "c35e75c7e7ba9619b1a1",
-      "source": "BBC News",
-      "title": "India's first bank rate hike since 2023 signals growing inflation concerns",
-      "url": "https://www.bbc.co.uk/news/articles/c5j9kngz3j1go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T10:44:02+00:00"
-    },
-    {
       "id": "3dca4a0bb656c01b0db4",
       "source": "TGcom24",
       "title": "Sanità, fondazione Gimbe: \"Tra il 2023 e il 2026 tagli invisibili per 18,8 miliardi\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/sanita-fondazione-gimbe-tagli-invisibili_117386282-202602k.shtml",
       "published": "2026-10-07T10:34:00+00:00"
-    },
-    {
-      "id": "f2d7ca6d5939c2704c8f",
-      "source": "BBC News",
-      "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T10:33:05+00:00"
     },
     {
       "id": "6090b5c2f92dcb1fa404",
