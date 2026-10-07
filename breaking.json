@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-07T05:13:21.417862+00:00",
+  "updated_at": "2026-10-07T05:33:42.810043+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-07T05:13:21.417862+00:00"
+      "checked_at": "2026-10-07T05:33:42.810043+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-07T05:13:21.417862+00:00"
+      "checked_at": "2026-10-07T05:33:42.810043+00:00"
     }
   },
   "items": [
+    {
+      "id": "29de6bfaf333cc98234f",
+      "source": "TGcom24",
+      "title": "Sette ottobre, in Israele minuto silenzio familiari vittime in luoghi attacco Hamas",
+      "url": "https://www.tgcom24.mediaset.it/mondo/sette-ottobre-israele-tre-anni-fa-minuto-di-silenzio_117374491-202602k.shtml",
+      "published": "2026-10-07T05:20:00+00:00"
+    },
     {
       "id": "d42f451cdd087d904461",
       "source": "BBC News",
@@ -110,6 +117,13 @@
       "published": "2026-10-06T21:10:00+00:00"
     },
     {
+      "id": "0f4658a991a24c2a41c4",
+      "source": "BBC News",
+      "title": "How drunk is too drunk? Cornell rape allegations expose 'loopholes' in consent laws",
+      "url": "https://www.bbc.co.uk/news/articles/c9e8l0ep8d1mo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T20:40:01+00:00"
+    },
+    {
       "id": "446623c6715206493b52",
       "source": "TGcom24",
       "title": "Auto contro la folla a Modena, l'attentatore El Koudri tenta il suicidio in carcere",
@@ -122,6 +136,13 @@
       "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
       "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-06T20:15:31+00:00"
+    },
+    {
+      "id": "0f231a91d42a4503a73d",
+      "source": "BBC News",
+      "title": "Ex-US spy who stashed gold bars in his home admits to $200m scam",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wvq965dngo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T19:53:45+00:00"
     },
     {
       "id": "6e6d6bc8aac85121254c",
@@ -341,25 +362,11 @@
       "published": "2026-10-06T10:05:22+00:00"
     },
     {
-      "id": "4af7fc12707d918fcaf1",
-      "source": "TGcom24",
-      "title": "Bologna, provano a imbarcarsi per Tel Aviv con passaporti falsi: denunciati",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/bologna-volo-tel-aviv-passaporti-falsi_117354058-202602k.shtml",
-      "published": "2026-10-06T10:03:00+00:00"
-    },
-    {
       "id": "602d1e4528424c65e4ff",
       "source": "BBC News",
       "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
       "url": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-06T09:48:37+00:00"
-    },
-    {
-      "id": "af5398373a3ba95bb246",
-      "source": "BBC News",
-      "title": "The small African nation ready for Messi's big night",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqly0lx461m8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T07:50:34+00:00"
     },
     {
       "id": "0fa233c367a85a8733ea",
