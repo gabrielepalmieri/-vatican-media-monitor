@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-08T03:10:51.625716+00:00",
+  "updated_at": "2026-10-08T03:26:33.476660+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-10-08T03:10:51.625716+00:00"
+      "checked_at": "2026-10-08T03:26:33.476660+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-08T03:10:51.625716+00:00"
+      "checked_at": "2026-10-08T03:26:33.476660+00:00"
     }
   },
   "items": [
+    {
+      "id": "3961813b8f599d144938",
+      "source": "BBC News",
+      "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
+      "url": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T03:02:06+00:00"
+    },
+    {
+      "id": "186f38508e8a145144a0",
+      "source": "BBC News",
+      "title": "Trump wants a new Camp David retreat at his posh Florida golf club",
+      "url": "https://www.bbc.co.uk/news/articles/c9gkvxjvl7v3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T03:00:50+00:00"
+    },
     {
       "id": "95acdb8fc7079b6aeaf2",
       "source": "BBC News",
@@ -19,11 +33,46 @@
       "published": "2026-10-08T00:53:46+00:00"
     },
     {
+      "id": "3cef254c4eb867214826",
+      "source": "BBC News",
+      "title": "Cornell rape case accuser has received ‘threats’, attorney tells BBC Newsnight",
+      "url": "https://www.bbc.co.uk/news/videos/ckly0420q7ypo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T00:46:36+00:00"
+    },
+    {
       "id": "96007bbd37904fbd0147",
       "source": "BBC News",
       "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
       "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-08T00:09:17+00:00"
+    },
+    {
+      "id": "8fe53782569c37a302ca",
+      "source": "BBC News",
+      "title": "She made India fall in love with women's cricket - now her era as captain is over",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T23:31:00+00:00"
+    },
+    {
+      "id": "143cc9779d2b1e25b81f",
+      "source": "BBC News",
+      "title": "Former Venezuelan President Nicolás Maduro expected to face more charges this week",
+      "url": "https://www.bbc.co.uk/news/articles/cx62y37r1p8eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T22:50:00+00:00"
+    },
+    {
+      "id": "114a080f0e5c3eb53f74",
+      "source": "BBC News",
+      "title": "'House of Horrors': California couple accused of abusing surrogate-born children",
+      "url": "https://www.bbc.co.uk/news/videos/cmx236yd1nr6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T22:20:03+00:00"
+    },
+    {
+      "id": "6e7285e24fe00943c341",
+      "source": "BBC News",
+      "title": "How toxic haze is causing Singapore’s landmarks to disappear",
+      "url": "https://www.bbc.co.uk/news/videos/cmp8g7gel3xlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T22:10:20+00:00"
     },
     {
       "id": "e7d4ce06721489bb898e",
@@ -45,13 +94,6 @@
       "title": "Chinese runner dropped by sponsor after riding bike during marathon",
       "url": "https://www.bbc.co.uk/news/articles/c3y0enr9e078o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-07T20:29:31+00:00"
-    },
-    {
-      "id": "2d3d43109e36b75f4c4d",
-      "source": "BBC News",
-      "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
-      "url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T20:27:03+00:00"
     },
     {
       "id": "7e8731b1bd23532641c0",
@@ -229,13 +271,6 @@
       "published": "2026-10-07T10:01:47+00:00"
     },
     {
-      "id": "ad0111b6959c54328657",
-      "source": "BBC News",
-      "title": "Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations",
-      "url": "https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T09:49:31+00:00"
-    },
-    {
       "id": "0c4f49e6a4ddb50d1761",
       "source": "TGcom24",
       "title": "Delitto di Garlasco, legale di Andrea Sempio in tribunale a Pavia per ascoltare intercettazioni",
@@ -285,13 +320,6 @@
       "published": "2026-10-07T05:00:21+00:00"
     },
     {
-      "id": "3955ffe6f317266df9f6",
-      "source": "BBC News",
-      "title": "What we know about Christa Pike’s ‘unprecedented' recovery after failed execution",
-      "url": "https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T23:42:35+00:00"
-    },
-    {
       "id": "6b602008218a9b72d5cf",
       "source": "BBC News",
       "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
@@ -304,13 +332,6 @@
       "title": "Watch: Riot police clash with school protesters and use tear gas in France",
       "url": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-06T21:22:22+00:00"
-    },
-    {
-      "id": "0f4658a991a24c2a41c4",
-      "source": "BBC News",
-      "title": "Drinking and consent - Cornell rape allegations expose 'loopholes' in laws",
-      "url": "https://www.bbc.co.uk/news/articles/c9e8l0ep8d1mo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T20:40:01+00:00"
     },
     {
       "id": "13824ed18c937dc811b8",
