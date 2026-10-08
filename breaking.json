@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-08T05:25:13.751352+00:00",
+  "updated_at": "2026-10-08T05:41:49.423550+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-08T05:25:13.751352+00:00"
+      "checked_at": "2026-10-08T05:41:49.423550+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-08T05:25:13.751352+00:00"
+      "checked_at": "2026-10-08T05:41:49.423550+00:00"
     }
   },
   "items": [
+    {
+      "id": "c09057477e34e9c1f97d",
+      "source": "TGcom24",
+      "title": "Iran, media: il Pentagono ha ordinato all'esercito Usa di preparare nuovi raid",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-8-ottobre_117411633-202602k.shtml",
+      "published": "2026-10-08T05:33:00+00:00"
+    },
     {
       "id": "a38fa77256e23ca25356",
       "source": "TGcom24",
@@ -42,7 +49,7 @@
     {
       "id": "64370401e64935ea2d68",
       "source": "BBC News",
-      "title": "France's school protests: what lies behind the anger",
+      "title": "France's school protests: What lies behind the anger",
       "url": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-08T03:38:46+00:00"
     },
@@ -311,13 +318,6 @@
       "title": "Delitto di Garlasco, legale di Andrea Sempio in tribunale a Pavia per ascoltare intercettazioni",
       "url": "https://www.tgcom24.mediaset.it/cronaca/delitto-garlasco-sempio-intercettazioni-tribunale-pavia_117385087-202602k.shtml",
       "published": "2026-10-07T09:49:00+00:00"
-    },
-    {
-      "id": "89664be6657eefb7047d",
-      "source": "TGcom24",
-      "title": "Cisgiordania, media: coloni uccidono 44enne, operazioni antiterrorismo di Idf",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-israele-hamas-ultime-notizie-7-ottobre_117385074-202602k.shtml",
-      "published": "2026-10-07T09:20:00+00:00"
     },
     {
       "id": "4c2a565958149c16c410",
