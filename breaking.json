@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-08T16:47:10.898679+00:00",
+  "updated_at": "2026-10-08T17:01:30.892526+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-08T16:47:10.898679+00:00"
+      "checked_at": "2026-10-08T17:01:30.892526+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-08T16:47:10.898679+00:00"
+      "checked_at": "2026-10-08T17:01:30.892526+00:00"
     }
   },
   "items": [
+    {
+      "id": "0a137ca89b66f40a17cf",
+      "source": "BBC News",
+      "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
+      "url": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T16:54:37+00:00"
+    },
     {
       "id": "9b0b81862a52e47e274f",
       "source": "BBC News",
@@ -59,13 +66,6 @@
       "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
       "url": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-08T15:44:02+00:00"
-    },
-    {
-      "id": "0a137ca89b66f40a17cf",
-      "source": "BBC News",
-      "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
-      "url": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T15:43:45+00:00"
     },
     {
       "id": "5cdaa95dd85815f7a0b7",
@@ -416,13 +416,6 @@
       "title": "Israelis demand accountability over 7 October failures three years after attacks",
       "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-07T16:00:18+00:00"
-    },
-    {
-      "id": "4c2a565958149c16c410",
-      "source": "BBC News",
-      "title": "The Republican candidates walking a Trump tightrope",
-      "url": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T05:00:21+00:00"
     }
   ]
 }
