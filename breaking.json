@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-08T12:34:13.189947+00:00",
+  "updated_at": "2026-10-08T12:59:06.917914+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-08T12:34:13.189947+00:00"
+      "checked_at": "2026-10-08T12:59:06.917914+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-08T12:34:13.189947+00:00"
+      "checked_at": "2026-10-08T12:59:06.917914+00:00"
     }
   },
   "items": [
+    {
+      "id": "9b0b81862a52e47e274f",
+      "source": "BBC News",
+      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T12:43:56+00:00"
+    },
+    {
+      "id": "7e85fbf991af1baf442d",
+      "source": "TGcom24",
+      "title": "Tragedia sul lavoro a Roma: esplosione in un'officina, un morto",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/roma-esplosione-officina_117425297-202602k.shtml",
+      "published": "2026-10-08T12:40:00+00:00"
+    },
     {
       "id": "8894cf3fd1e41677613d",
       "source": "BBC News",
@@ -26,11 +40,11 @@
       "published": "2026-10-08T12:11:31+00:00"
     },
     {
-      "id": "9b0b81862a52e47e274f",
+      "id": "e762362b7779e6cccfc9",
       "source": "BBC News",
-      "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
-      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T12:06:57+00:00"
+      "title": "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T12:04:25+00:00"
     },
     {
       "id": "11ada30216df1a52c1e1",
@@ -367,13 +381,6 @@
       "title": "Israelis demand accountability over 7 October failures three years after attacks",
       "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-07T16:00:18+00:00"
-    },
-    {
-      "id": "36dd296c9b9a1a8e5dfc",
-      "source": "TGcom24",
-      "title": "Francia, chiusa piattaforma con contenuti intimi rubati a oltre 17mila donne",
-      "url": "https://www.tgcom24.mediaset.it/mondo/francia-chiusa-piattaforma-con-contenuti-intimi-rubati-donne_117399191-202602k.shtml",
-      "published": "2026-10-07T15:45:00+00:00"
     },
     {
       "id": "4c2a565958149c16c410",
