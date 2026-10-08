@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-08T09:09:37.377016+00:00",
+  "updated_at": "2026-10-08T09:26:50.691094+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-08T09:09:37.377016+00:00"
+      "checked_at": "2026-10-08T09:26:50.691094+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-08T09:09:37.377016+00:00"
+      "checked_at": "2026-10-08T09:26:50.691094+00:00"
     }
   },
   "items": [
+    {
+      "id": "f09c98964bab8325acf1",
+      "source": "TGcom24",
+      "title": "Tragedia nel Padovano: investito da un furgone, bimbo muore due giorni dopo",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/tragedia-nel-padovano-investito-da-un-furgone-bimbo-muore-due-giorni-dopo_117421972-202602k.shtml",
+      "published": "2026-10-08T09:19:00+00:00"
+    },
     {
       "id": "05d7b60cce36a1387af8",
       "source": "TGcom24",
@@ -327,13 +334,6 @@
       "published": "2026-10-07T12:03:00+00:00"
     },
     {
-      "id": "992006adf3e623309b38",
-      "source": "TGcom24",
-      "title": "È morta Barbara Spinelli, giornalista ed ex europarlamentare",
-      "url": "https://www.tgcom24.mediaset.it/politica/lutto-morta-barbara-spinelli_117389027-202602k.shtml",
-      "published": "2026-10-07T11:30:00+00:00"
-    },
-    {
       "id": "4c2a565958149c16c410",
       "source": "BBC News",
       "title": "The Republican candidates walking a Trump tightrope",
@@ -346,13 +346,6 @@
       "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
       "url": "https://www.bbc.co.uk/news/articles/ck054zm1701qo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-06T22:17:56+00:00"
-    },
-    {
-      "id": "842aac3b66d510ebb03d",
-      "source": "BBC News",
-      "title": "Watch: Riot police clash with school protesters and use tear gas in France",
-      "url": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T21:22:22+00:00"
     }
   ]
 }
