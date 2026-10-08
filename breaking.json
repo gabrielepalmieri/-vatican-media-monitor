@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-08T17:01:30.892526+00:00",
+  "updated_at": "2026-10-08T17:15:30.503762+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-08T17:01:30.892526+00:00"
+      "checked_at": "2026-10-08T17:15:30.503762+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-08T17:01:30.892526+00:00"
+      "checked_at": "2026-10-08T17:15:30.503762+00:00"
     }
   },
   "items": [
+    {
+      "id": "45daae4f026f85d8aba6",
+      "source": "BBC News",
+      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+      "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T17:07:43+00:00"
+    },
     {
       "id": "0a137ca89b66f40a17cf",
       "source": "BBC News",
@@ -31,13 +38,6 @@
       "title": "Roma, un'altra donna denuncia: \"Spinta da una minicar mentre ero in bici\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/roma-minicar-donna-denuncia-aggressione_117437573-202602k.shtml",
       "published": "2026-10-08T16:25:00+00:00"
-    },
-    {
-      "id": "45daae4f026f85d8aba6",
-      "source": "BBC News",
-      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
-      "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T16:24:52+00:00"
     },
     {
       "id": "ffe2c585c7cfc8bb969d",
@@ -388,13 +388,6 @@
       "title": "Unifil: colpita postazione al confine tra Israele e Libano, nessun ferito",
       "url": "https://www.tgcom24.mediaset.it/mondo/libano-israele-unifil-attacco-onu-caschi-blu_117407268-202602k.shtml",
       "published": "2026-10-07T20:45:00+00:00"
-    },
-    {
-      "id": "7e8731b1bd23532641c0",
-      "source": "TGcom24",
-      "title": "Gioielliere graziato, la moglie: \"E' il mio eroe, mi ha salvato la vita\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/grazia-sergio-mattarella-presidente-repubblica-guido-gianni-moglie_117407824-202602k.shtml",
-      "published": "2026-10-07T20:05:00+00:00"
     },
     {
       "id": "d6f97ed94424ddec315b",
