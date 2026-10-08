@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-08T11:08:44.691662+00:00",
+  "updated_at": "2026-10-08T11:25:38.022031+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-08T11:08:44.691662+00:00"
+      "checked_at": "2026-10-08T11:25:38.022031+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-08T11:08:44.691662+00:00"
+      "checked_at": "2026-10-08T11:25:38.022031+00:00"
     }
   },
   "items": [
+    {
+      "id": "5a7cb70fc7af1f9a2953",
+      "source": "TGcom24",
+      "title": "Premio Nobel per la Letteratura alla canadese Anne Carson",
+      "url": "https://www.tgcom24.mediaset.it/mondo/premio-nobel-letteratura-anne-carson_117426576-202602k.shtml",
+      "published": "2026-10-08T11:12:00+00:00"
+    },
     {
       "id": "9b0b81862a52e47e274f",
       "source": "BBC News",
@@ -346,13 +353,6 @@
       "title": "Assalto alla Cgil, confermate in appello le sette condanne",
       "url": "https://www.tgcom24.mediaset.it/cronaca/assalto-cgil-confermate-condanne-fiore-castellino_117398848-202602k.shtml",
       "published": "2026-10-07T15:10:00+00:00"
-    },
-    {
-      "id": "9d5dac7cff702c79f6f5",
-      "source": "TGcom24",
-      "title": "7 ottobre, Netanyahu: \"Faremo i conti con tutti gli assassini\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/sette-ottobre-israele-tre-anni-fa-minuto-di-silenzio_117374491-202602k.shtml",
-      "published": "2026-10-07T14:26:00+00:00"
     },
     {
       "id": "4c2a565958149c16c410",
