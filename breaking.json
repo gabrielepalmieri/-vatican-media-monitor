@@ -1,29 +1,36 @@
 {
-  "updated_at": "2026-10-08T10:42:46.565221+00:00",
+  "updated_at": "2026-10-08T10:55:33.081795+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-08T10:42:46.565221+00:00"
+      "checked_at": "2026-10-08T10:55:33.081795+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-08T10:42:46.565221+00:00"
+      "checked_at": "2026-10-08T10:55:33.081795+00:00"
     }
   },
   "items": [
+    {
+      "id": "9b0b81862a52e47e274f",
+      "source": "BBC News",
+      "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
+      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T10:52:50+00:00"
+    },
+    {
+      "id": "5a910977d6d7a984d89a",
+      "source": "TGcom24",
+      "title": "La riforma elettorale è legge, via libera dalla Camera con 227 sì",
+      "url": "https://www.tgcom24.mediaset.it/politica/la-riforma-elettorale-e-legge-via-libera-dalla-camera-con-227-si_117425615-202602k.shtml",
+      "published": "2026-10-08T10:45:00+00:00"
+    },
     {
       "id": "a0257c68c193819db856",
       "source": "TGcom24",
       "title": "Teramo, 16enne preso a schiaffi dai coetanei: zigomo fratturato",
       "url": "https://www.tgcom24.mediaset.it/cronaca/teramo-aggressione-scuola-schiaffo-frattura-zigomo_117422158-202602k.shtml",
       "published": "2026-10-08T10:20:00+00:00"
-    },
-    {
-      "id": "9b0b81862a52e47e274f",
-      "source": "BBC News",
-      "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
-      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T10:16:33+00:00"
     },
     {
       "id": "e7e9395ceef29598d2a9",
@@ -346,13 +353,6 @@
       "title": "7 ottobre, Netanyahu: \"Faremo i conti con tutti gli assassini\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/sette-ottobre-israele-tre-anni-fa-minuto-di-silenzio_117374491-202602k.shtml",
       "published": "2026-10-07T14:26:00+00:00"
-    },
-    {
-      "id": "df5e31e8c532f978c24e",
-      "source": "TGcom24",
-      "title": "Carburanti, Meloni: \"Valutiamo accise mobili, spero si ripristini price cap\"",
-      "url": "https://www.tgcom24.mediaset.it/politica/carburanti-meloni-accise-mobili-price-cap-flessibilita-ue_117396701-202602k.shtml",
-      "published": "2026-10-07T14:08:00+00:00"
     },
     {
       "id": "4c2a565958149c16c410",
