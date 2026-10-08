@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-08T20:09:44.234163+00:00",
+  "updated_at": "2026-10-08T20:27:18.206690+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-08T20:09:44.234163+00:00"
+      "checked_at": "2026-10-08T20:27:18.206690+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-08T20:09:44.234163+00:00"
+      "checked_at": "2026-10-08T20:27:18.206690+00:00"
     }
   },
   "items": [
+    {
+      "id": "dff8055a72eeac1bda52",
+      "source": "TGcom24",
+      "title": "Garlasco, nel 2007 il pm non autorizzò Garofano a entrare in casa Poggi",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/delitto-di-garlasco-ris-garofano-impronte-dna_117440770-202602k.shtml",
+      "published": "2026-10-08T20:05:00+00:00"
+    },
     {
       "id": "34230821a09824ddd7f6",
       "source": "TGcom24",
@@ -311,13 +318,6 @@
       "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
       "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-08T05:00:44+00:00"
-    },
-    {
-      "id": "7543f90a7235e71b1a0a",
-      "source": "TGcom24",
-      "title": "Kaliningrad, la Lituania schiera l'esercito al confine con l'exclave russa",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-kaliningrad-ultime-notizie-7-ottobre_117411423-202602k.shtml",
-      "published": "2026-10-08T04:32:00+00:00"
     },
     {
       "id": "64370401e64935ea2d68",
