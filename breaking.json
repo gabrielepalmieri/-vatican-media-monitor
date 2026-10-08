@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-08T03:59:51.021580+00:00",
+  "updated_at": "2026-10-08T04:12:00.907467+00:00",
   "sources": {
     "TGcom24": {
-      "ok": false,
-      "checked_at": "2026-10-08T03:59:51.021580+00:00"
+      "ok": true,
+      "checked_at": "2026-10-08T04:12:00.907467+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-08T03:59:51.021580+00:00"
+      "checked_at": "2026-10-08T04:12:00.907467+00:00"
     }
   },
   "items": [
+    {
+      "id": "be60314d5d65b1fb994b",
+      "source": "TGcom24",
+      "title": "Bangladesh, almeno 1.140 bambini morti da marzo per epidemia di morbillo",
+      "url": "https://www.tgcom24.mediaset.it/mondo/bangladesh-bambini-morbillo_117409524-202602k.shtml",
+      "published": "2026-10-08T04:02:00+00:00"
+    },
     {
       "id": "0a137ca89b66f40a17cf",
       "source": "BBC News",
@@ -94,6 +101,13 @@
       "title": "How toxic haze is causing Singapore’s landmarks to disappear",
       "url": "https://www.bbc.co.uk/news/videos/cmp8g7gel3xlo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-07T22:10:20+00:00"
+    },
+    {
+      "id": "07afca30e458b3cd3e10",
+      "source": "TGcom24",
+      "title": "Allerta per maltempo in Toscana, scuole chiuse in più comuni",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/allerta-maltempo-toscana-scuole-chiuse_117409536-202602k.shtml",
+      "published": "2026-10-07T21:59:00+00:00"
     },
     {
       "id": "e7d4ce06721489bb898e",
@@ -304,20 +318,6 @@
       "title": "Ucraina, Comitato militare Nato in visita a Kiev",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-7-ottobre_117374095-202602k.shtml",
       "published": "2026-10-07T07:45:00+00:00"
-    },
-    {
-      "id": "4ad5918f146ff4302103",
-      "source": "TGcom24",
-      "title": "I familiari delle vittime del 7 ottobre chiedono inchiesta indipendente",
-      "url": "https://www.tgcom24.mediaset.it/mondo/sette-ottobre-israele-tre-anni-fa-minuto-di-silenzio_117374491-202602k.shtml",
-      "published": "2026-10-07T07:00:00+00:00"
-    },
-    {
-      "id": "3caee4fe8329c259768c",
-      "source": "TGcom24",
-      "title": "Germania, media: \"Ex capo dei servizi ha venduto segreti all'Azerbaigian\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/germania-arrestato-august-hanning-ex-capo-007-spionaggio_117375198-202602k.shtml",
-      "published": "2026-10-07T06:27:00+00:00"
     },
     {
       "id": "4c2a565958149c16c410",
