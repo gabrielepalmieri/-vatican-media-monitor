@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-10-08T10:10:05.527203+00:00",
+  "updated_at": "2026-10-08T10:28:15.240203+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-08T10:10:05.527203+00:00"
+      "checked_at": "2026-10-08T10:28:15.240203+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-08T10:10:05.527203+00:00"
+      "checked_at": "2026-10-08T10:28:15.240203+00:00"
     }
   },
   "items": [
+    {
+      "id": "a0257c68c193819db856",
+      "source": "TGcom24",
+      "title": "Teramo, 16enne preso a schiaffi dai coetanei: zigomo fratturato",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/teramo-aggressione-scuola-schiaffo-frattura-zigomo_117422158-202602k.shtml",
+      "published": "2026-10-08T10:20:00+00:00"
+    },
+    {
+      "id": "9b0b81862a52e47e274f",
+      "source": "BBC News",
+      "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
+      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T10:16:33+00:00"
+    },
+    {
+      "id": "e7e9395ceef29598d2a9",
+      "source": "BBC News",
+      "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
+      "url": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T10:07:58+00:00"
+    },
     {
       "id": "77b550c875f900c6384e",
       "source": "TGcom24",
@@ -327,25 +348,11 @@
       "published": "2026-10-07T14:08:00+00:00"
     },
     {
-      "id": "83fa467565d138abf7e2",
-      "source": "TGcom24",
-      "title": "Polonia, studente 19enne entra a scuola con un'accetta: almeno 7 feriti",
-      "url": "https://www.tgcom24.mediaset.it/mondo/polonia-attacco-scuola-ostroleka-accetta-feriti_117395212-202602k.shtml",
-      "published": "2026-10-07T13:01:00+00:00"
-    },
-    {
       "id": "4c2a565958149c16c410",
       "source": "BBC News",
       "title": "The Republican candidates walking a Trump tightrope",
       "url": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-07T05:00:21+00:00"
-    },
-    {
-      "id": "6b602008218a9b72d5cf",
-      "source": "BBC News",
-      "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
-      "url": "https://www.bbc.co.uk/news/articles/ck054zm1701qo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T22:17:56+00:00"
     }
   ]
 }
