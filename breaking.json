@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-08T17:15:30.503762+00:00",
+  "updated_at": "2026-10-08T17:33:19.193839+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-08T17:15:30.503762+00:00"
+      "checked_at": "2026-10-08T17:33:19.193839+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-08T17:15:30.503762+00:00"
+      "checked_at": "2026-10-08T17:33:19.193839+00:00"
     }
   },
   "items": [
+    {
+      "id": "af20a8060ac3c7a9bd66",
+      "source": "BBC News",
+      "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T17:16:32+00:00"
+    },
     {
       "id": "45daae4f026f85d8aba6",
       "source": "BBC News",
@@ -59,13 +66,6 @@
       "title": "Caso \"30 secondi\", la hostess: \"Anni estenuanti, nessuna merita quel calvario\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/caso-30-secondi-hostess-commenta-motivazioni_117435683-202602k.shtml",
       "published": "2026-10-08T15:55:00+00:00"
-    },
-    {
-      "id": "af20a8060ac3c7a9bd66",
-      "source": "BBC News",
-      "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T15:44:02+00:00"
     },
     {
       "id": "5cdaa95dd85815f7a0b7",
