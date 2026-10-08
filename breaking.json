@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-10-08T22:08:28.011335+00:00",
+  "updated_at": "2026-10-08T22:24:11.329662+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-08T22:08:28.011335+00:00"
+      "checked_at": "2026-10-08T22:24:11.329662+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-08T22:08:28.011335+00:00"
+      "checked_at": "2026-10-08T22:24:11.329662+00:00"
     }
   },
   "items": [
+    {
+      "id": "3aadf529289d29f759f4",
+      "source": "BBC News",
+      "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T22:21:56+00:00"
+    },
     {
       "id": "12d8075782bfe42f94e4",
       "source": "TGcom24",
       "title": "Proteste in Francia, il ministro dell'Istruzione: \"3mila supplenti nei licei più critici\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/proteste-studenti-francia-piano-prof-assenti_117432418-202602k.shtml",
       "published": "2026-10-08T22:04:00+00:00"
+    },
+    {
+      "id": "e99f942074bd84df4b38",
+      "source": "BBC News",
+      "title": "What Americans think about the death penalty",
+      "url": "https://www.bbc.co.uk/news/videos/cjx236wl9416o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T21:49:14+00:00"
     },
     {
       "id": "9c1384a7bd91b4e934cf",
@@ -38,6 +52,13 @@
       "title": "Garlasco, nel 2007 il pm non autorizzò Garofano a entrare in casa Poggi",
       "url": "https://www.tgcom24.mediaset.it/cronaca/delitto-di-garlasco-ris-garofano-impronte-dna_117440770-202602k.shtml",
       "published": "2026-10-08T20:05:00+00:00"
+    },
+    {
+      "id": "fe2b3098af79d25c4ec6",
+      "source": "BBC News",
+      "title": "BBC on Hurricane Isaias and its expected Gulf Coast landfall",
+      "url": "https://www.bbc.co.uk/news/videos/ckz65l2gne1po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T19:39:32+00:00"
     },
     {
       "id": "34230821a09824ddd7f6",
@@ -159,6 +180,13 @@
       "published": "2026-10-08T14:36:00+00:00"
     },
     {
+      "id": "2dac98e662e7422fe396",
+      "source": "BBC News",
+      "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T14:33:23+00:00"
+    },
+    {
       "id": "424788b8dd24c0c7ca24",
       "source": "BBC News",
       "title": "Arizona congressional candidate says she was raped while repairing campaign sign",
@@ -206,6 +234,13 @@
       "title": "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation",
       "url": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-08T12:04:25+00:00"
+    },
+    {
+      "id": "05bcbbc26d63c628e289",
+      "source": "BBC News",
+      "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
+      "url": "https://www.bbc.co.uk/news/videos/c962yz01l7mmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T12:01:55+00:00"
     },
     {
       "id": "11ada30216df1a52c1e1",
@@ -320,13 +355,6 @@
       "published": "2026-10-08T03:38:46+00:00"
     },
     {
-      "id": "af55aab7c37310f9585b",
-      "source": "BBC News",
-      "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T03:32:35+00:00"
-    },
-    {
       "id": "3961813b8f599d144938",
       "source": "BBC News",
       "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
@@ -339,20 +367,6 @@
       "title": "Trump wants a new Camp David-like retreat at his Florida golf club",
       "url": "https://www.bbc.co.uk/news/articles/c9gkvxjvl7v3o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-08T03:00:50+00:00"
-    },
-    {
-      "id": "95acdb8fc7079b6aeaf2",
-      "source": "BBC News",
-      "title": "Asahi and Kirin among Japan beer giants raided over alleged price-fixing cartel",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T00:53:46+00:00"
-    },
-    {
-      "id": "3cef254c4eb867214826",
-      "source": "BBC News",
-      "title": "Cornell rape case accuser has received ‘threats’, attorney tells BBC Newshour",
-      "url": "https://www.bbc.co.uk/news/videos/ckly0420q7ypo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T00:46:36+00:00"
     },
     {
       "id": "8fe53782569c37a302ca",
@@ -381,13 +395,6 @@
       "title": "Former Venezuelan President Nicolás Maduro expected to face more charges this week",
       "url": "https://www.bbc.co.uk/news/articles/cx62y37r1p8eo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-07T22:50:00+00:00"
-    },
-    {
-      "id": "114a080f0e5c3eb53f74",
-      "source": "BBC News",
-      "title": "'House of Horrors': California couple accused of abusing surrogate-born children",
-      "url": "https://www.bbc.co.uk/news/videos/cmx236yd1nr6o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T22:20:03+00:00"
     },
     {
       "id": "6e7285e24fe00943c341",
