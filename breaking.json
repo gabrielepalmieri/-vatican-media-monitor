@@ -1,29 +1,50 @@
 {
-  "updated_at": "2026-10-08T11:54:27.726093+00:00",
+  "updated_at": "2026-10-08T12:11:06.750238+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-08T11:54:27.726093+00:00"
+      "checked_at": "2026-10-08T12:11:06.750238+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-08T11:54:27.726093+00:00"
+      "checked_at": "2026-10-08T12:11:06.750238+00:00"
     }
   },
   "items": [
+    {
+      "id": "9b0b81862a52e47e274f",
+      "source": "BBC News",
+      "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
+      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T12:06:57+00:00"
+    },
+    {
+      "id": "8894cf3fd1e41677613d",
+      "source": "BBC News",
+      "title": "Italy overhauls electoral system after fiercely contested debate",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T12:02:04+00:00"
+    },
+    {
+      "id": "fea126e6bfcc00593a3e",
+      "source": "BBC News",
+      "title": "Bear kills man in home attack near Mongolian capital",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg79wz9v2yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T11:52:59+00:00"
+    },
+    {
+      "id": "0a33747dc0d238bb88bc",
+      "source": "BBC News",
+      "title": "Residents airlifted to safety after flooding in central Chile",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T11:31:22+00:00"
+    },
     {
       "id": "5a7cb70fc7af1f9a2953",
       "source": "TGcom24",
       "title": "Premio Nobel per la Letteratura alla canadese Anne Carson",
       "url": "https://www.tgcom24.mediaset.it/mondo/premio-nobel-letteratura-anne-carson_117426576-202602k.shtml",
       "published": "2026-10-08T11:12:00+00:00"
-    },
-    {
-      "id": "9b0b81862a52e47e274f",
-      "source": "BBC News",
-      "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
-      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T10:52:50+00:00"
     },
     {
       "id": "5a910977d6d7a984d89a",
