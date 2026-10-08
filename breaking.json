@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-08T08:36:09.754908+00:00",
+  "updated_at": "2026-10-08T08:53:48.517132+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-08T08:36:09.754908+00:00"
+      "checked_at": "2026-10-08T08:53:48.517132+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-08T08:36:09.754908+00:00"
+      "checked_at": "2026-10-08T08:53:48.517132+00:00"
     }
   },
   "items": [
+    {
+      "id": "05d7b60cce36a1387af8",
+      "source": "TGcom24",
+      "title": "Istat, quasi un terzo delle famiglie ha limitato la spesa alimentare",
+      "url": "https://www.tgcom24.mediaset.it/economia/istat-famiglie-limitano-spesa-alimentare_117418897-202602k.shtml",
+      "published": "2026-10-08T08:30:00+00:00"
+    },
     {
       "id": "5cdaa95dd85815f7a0b7",
       "source": "BBC News",
@@ -21,7 +28,7 @@
     {
       "id": "6647bcd27813d603abf3",
       "source": "BBC News",
-      "title": "Christa Pike now walking after US execution went wrong, lawyer tells BBC",
+      "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
       "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-08T08:13:52+00:00"
     },
@@ -325,13 +332,6 @@
       "title": "È morta Barbara Spinelli, giornalista ed ex europarlamentare",
       "url": "https://www.tgcom24.mediaset.it/politica/lutto-morta-barbara-spinelli_117389027-202602k.shtml",
       "published": "2026-10-07T11:30:00+00:00"
-    },
-    {
-      "id": "4d8f1c20de09398e9691",
-      "source": "TGcom24",
-      "title": "Morte avvelenate da ricina, Procura: \"Improbabile la pista accidentale\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/morte-avvelenate-ricina-procura-pista-accidentale-improbabile_117386384-202602k.shtml",
-      "published": "2026-10-07T10:59:00+00:00"
     },
     {
       "id": "4c2a565958149c16c410",
