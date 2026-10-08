@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-08T16:30:08.456870+00:00",
+  "updated_at": "2026-10-08T16:47:10.898679+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-08T16:30:08.456870+00:00"
+      "checked_at": "2026-10-08T16:47:10.898679+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-08T16:30:08.456870+00:00"
+      "checked_at": "2026-10-08T16:47:10.898679+00:00"
     }
   },
   "items": [
+    {
+      "id": "9b0b81862a52e47e274f",
+      "source": "BBC News",
+      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T16:31:29+00:00"
+    },
     {
       "id": "6430f3df42ac0f66b700",
       "source": "TGcom24",
@@ -24,6 +31,13 @@
       "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
       "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-08T16:24:52+00:00"
+    },
+    {
+      "id": "ffe2c585c7cfc8bb969d",
+      "source": "BBC News",
+      "title": "Zambia signs US health deal after disputes over data-sharing",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09eyk0g8no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T16:24:05+00:00"
     },
     {
       "id": "a1bd0ac4ede4fc6563fd",
@@ -101,13 +115,6 @@
       "title": "Ucraina, Zelensky: \"Incontreremo delegazione americana negli Usa\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-8-ottobre_117411423-202602k.shtml",
       "published": "2026-10-08T13:15:00+00:00"
-    },
-    {
-      "id": "9b0b81862a52e47e274f",
-      "source": "BBC News",
-      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T12:43:56+00:00"
     },
     {
       "id": "7e85fbf991af1baf442d",
