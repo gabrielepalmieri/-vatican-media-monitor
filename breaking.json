@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-08T15:36:30.604265+00:00",
+  "updated_at": "2026-10-08T15:54:10.091501+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-08T15:36:30.604265+00:00"
+      "checked_at": "2026-10-08T15:54:10.091501+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-08T15:36:30.604265+00:00"
+      "checked_at": "2026-10-08T15:54:10.091501+00:00"
     }
   },
   "items": [
+    {
+      "id": "0a137ca89b66f40a17cf",
+      "source": "BBC News",
+      "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
+      "url": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T15:43:45+00:00"
+    },
+    {
+      "id": "45daae4f026f85d8aba6",
+      "source": "BBC News",
+      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+      "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T15:43:14+00:00"
+    },
     {
       "id": "5cdaa95dd85815f7a0b7",
       "source": "BBC News",
@@ -24,13 +38,6 @@
       "title": "Usa, l'avvocato di Christa Pike: \"Si è rimessa in piedi e riesce a camminare\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/christa-pike-cammina-ospedale-esecuzione-fallita-tennessee_117433598-202602k.shtml",
       "published": "2026-10-08T15:10:00+00:00"
-    },
-    {
-      "id": "45daae4f026f85d8aba6",
-      "source": "BBC News",
-      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
-      "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T15:07:59+00:00"
     },
     {
       "id": "6647bcd27813d603abf3",
@@ -248,13 +255,6 @@
       "title": "Bangladesh, almeno 1.140 bambini morti da marzo per epidemia di morbillo",
       "url": "https://www.tgcom24.mediaset.it/mondo/bangladesh-bambini-morbillo_117409524-202602k.shtml",
       "published": "2026-10-08T04:02:00+00:00"
-    },
-    {
-      "id": "0a137ca89b66f40a17cf",
-      "source": "BBC News",
-      "title": "Outspoken Indian actor Nana Patekar suddenly dies at 75",
-      "url": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T03:41:34+00:00"
     },
     {
       "id": "64370401e64935ea2d68",
