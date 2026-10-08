@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-08T13:14:38.946104+00:00",
+  "updated_at": "2026-10-08T13:37:35.414775+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-08T13:14:38.946104+00:00"
+      "checked_at": "2026-10-08T13:37:35.414775+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-08T13:14:38.946104+00:00"
+      "checked_at": "2026-10-08T13:37:35.414775+00:00"
     }
   },
   "items": [
+    {
+      "id": "ee024b9afe800ef1bb5b",
+      "source": "TGcom24",
+      "title": "Ucraina, Zelensky: \"Incontreremo delegazione americana negli Usa\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-8-ottobre_117411423-202602k.shtml",
+      "published": "2026-10-08T13:15:00+00:00"
+    },
     {
       "id": "9b0b81862a52e47e274f",
       "source": "BBC News",
@@ -367,13 +374,6 @@
       "title": "Mattarella concede tre grazie: c'è anche il gioielliere Guido Gianni che uccise due rapinatori",
       "url": "https://www.tgcom24.mediaset.it/politica/presidente-repubblica-sergio-mattarella-concede-grazia-gioielliere-guido-gianni_117403096-202602k.shtml",
       "published": "2026-10-07T16:55:00+00:00"
-    },
-    {
-      "id": "175ca7840119770fe0da",
-      "source": "TGcom24",
-      "title": "Scontro treni in Puglia: Cassazione conferma condanne, assolta Ferrotramviaria",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/scontro-treni-puglia-cassazione-conferma-condanne-assolta-ferrotramviaria_117402733-202602k.shtml",
-      "published": "2026-10-07T16:20:00+00:00"
     },
     {
       "id": "0f74de6c29d6cde13dc0",
