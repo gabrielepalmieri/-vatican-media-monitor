@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-08T00:34:10.583441+00:00",
+  "updated_at": "2026-10-08T00:59:01.053932+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-10-08T00:34:10.583441+00:00"
+      "checked_at": "2026-10-08T00:59:01.053932+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-08T00:34:10.583441+00:00"
+      "checked_at": "2026-10-08T00:59:01.053932+00:00"
     }
   },
   "items": [
+    {
+      "id": "95acdb8fc7079b6aeaf2",
+      "source": "BBC News",
+      "title": "Japan beer giants raided over alleged price-fixing cartel",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T00:53:46+00:00"
+    },
     {
       "id": "96007bbd37904fbd0147",
       "source": "BBC News",
@@ -171,13 +178,6 @@
       "title": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
       "url": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-07T12:46:39+00:00"
-    },
-    {
-      "id": "95acdb8fc7079b6aeaf2",
-      "source": "BBC News",
-      "title": "Japan beer giants raided over alleged price-fixing cartel",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T12:09:59+00:00"
     },
     {
       "id": "896ebbb82004cf84a6c9",
