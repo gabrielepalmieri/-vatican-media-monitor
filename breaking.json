@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-08T05:41:49.423550+00:00",
+  "updated_at": "2026-10-08T05:54:44.750998+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-08T05:41:49.423550+00:00"
+      "checked_at": "2026-10-08T05:54:44.750998+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-08T05:41:49.423550+00:00"
+      "checked_at": "2026-10-08T05:54:44.750998+00:00"
     }
   },
   "items": [
@@ -19,11 +19,25 @@
       "published": "2026-10-08T05:33:00+00:00"
     },
     {
+      "id": "6a0764acc6679990c58d",
+      "source": "BBC News",
+      "title": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
+      "url": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T05:10:40+00:00"
+    },
+    {
       "id": "a38fa77256e23ca25356",
       "source": "TGcom24",
       "title": "Cina invia tre aerei e sette navi militari nello Stretto di Taiwan",
       "url": "https://www.tgcom24.mediaset.it/mondo/taiwan-cina-aerei-navi-stretto-usa_117411426-202602k.shtml",
       "published": "2026-10-08T05:01:00+00:00"
+    },
+    {
+      "id": "ce300947bfcd7db50213",
+      "source": "BBC News",
+      "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
+      "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T05:00:44+00:00"
     },
     {
       "id": "7543f90a7235e71b1a0a",
@@ -103,6 +117,13 @@
       "published": "2026-10-07T23:31:00+00:00"
     },
     {
+      "id": "9bd9b51fcd423a4351bc",
+      "source": "BBC News",
+      "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T23:18:40+00:00"
+    },
+    {
       "id": "143cc9779d2b1e25b81f",
       "source": "BBC News",
       "title": "Former Venezuelan President Nicolás Maduro expected to face more charges this week",
@@ -145,13 +166,6 @@
       "published": "2026-10-07T20:45:00+00:00"
     },
     {
-      "id": "281ada3ae53bbaf5aa25",
-      "source": "BBC News",
-      "title": "Chinese runner dropped by sponsor after riding bike during marathon",
-      "url": "https://www.bbc.co.uk/news/articles/c3y0enr9e078o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T20:29:31+00:00"
-    },
-    {
       "id": "7e8731b1bd23532641c0",
       "source": "TGcom24",
       "title": "Gioielliere graziato, la moglie: \"E' il mio eroe, mi ha salvato la vita\"",
@@ -178,20 +192,6 @@
       "title": "Trump: \"Non pensiamo che la peste in Russia sia un'arma biologica\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/peste-polmonare-russia-washington-donald-trump-vladimir-putin_117373500-202602k.shtml",
       "published": "2026-10-07T18:35:00+00:00"
-    },
-    {
-      "id": "dadaff53cdf1a0e6e3d9",
-      "source": "BBC News",
-      "title": "Trump to speak to Putin about plague lab worker's death in Russia",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T18:27:40+00:00"
-    },
-    {
-      "id": "9f6d8a9b5ad9b23f2f05",
-      "source": "BBC News",
-      "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T18:12:58+00:00"
     },
     {
       "id": "c2d6c4a26f8378304aba",
@@ -262,13 +262,6 @@
       "title": "Polonia, studente 19enne entra a scuola con un'accetta: almeno 7 feriti",
       "url": "https://www.tgcom24.mediaset.it/mondo/polonia-attacco-scuola-ostroleka-accetta-feriti_117395212-202602k.shtml",
       "published": "2026-10-07T13:01:00+00:00"
-    },
-    {
-      "id": "d3b2c29c0b54fca2322c",
-      "source": "BBC News",
-      "title": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
-      "url": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T12:46:39+00:00"
     },
     {
       "id": "896ebbb82004cf84a6c9",
