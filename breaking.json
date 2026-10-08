@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-08T18:14:13.582711+00:00",
+  "updated_at": "2026-10-08T18:38:36.794754+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-08T18:14:13.582711+00:00"
+      "checked_at": "2026-10-08T18:38:36.794754+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-08T18:14:13.582711+00:00"
+      "checked_at": "2026-10-08T18:38:36.794754+00:00"
     }
   },
   "items": [
+    {
+      "id": "9ebb3ab2ab5301020d6a",
+      "source": "TGcom24",
+      "title": "Attacco hacker al sito della Farnesina: \"Effetti mitigati dalla protezione\"",
+      "url": "https://www.tgcom24.mediaset.it/politica/farnesina-attacco-hacker-informatica-protezione-cybersicurezza_117435681-202602k.shtml",
+      "published": "2026-10-08T18:17:00+00:00"
+    },
     {
       "id": "615bef460245cf5ef79c",
       "source": "TGcom24",
@@ -381,13 +388,6 @@
       "title": "Allerta per maltempo in Toscana, scuole chiuse in più comuni",
       "url": "https://www.tgcom24.mediaset.it/cronaca/allerta-maltempo-toscana-scuole-chiuse_117409536-202602k.shtml",
       "published": "2026-10-07T21:59:00+00:00"
-    },
-    {
-      "id": "e7d4ce06721489bb898e",
-      "source": "TGcom24",
-      "title": "Torino, lancio di oggetti al corteo pro Pal: gli agenti rispondono con l'idrante",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/torino-lancio-di-oggetti-al-corteo-pro-pal-polizia-usa-idrante_117409855-202602k.shtml",
-      "published": "2026-10-07T21:20:00+00:00"
     },
     {
       "id": "d6f97ed94424ddec315b",
