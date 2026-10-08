@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-08T12:11:06.750238+00:00",
+  "updated_at": "2026-10-08T12:34:13.189947+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-08T12:11:06.750238+00:00"
+      "checked_at": "2026-10-08T12:34:13.189947+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-08T12:11:06.750238+00:00"
+      "checked_at": "2026-10-08T12:34:13.189947+00:00"
     }
   },
   "items": [
+    {
+      "id": "8894cf3fd1e41677613d",
+      "source": "BBC News",
+      "title": "Italy overhauls electoral system after fiercely contested debate",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T12:32:12+00:00"
+    },
+    {
+      "id": "e7e9395ceef29598d2a9",
+      "source": "BBC News",
+      "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
+      "url": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T12:11:31+00:00"
+    },
     {
       "id": "9b0b81862a52e47e274f",
       "source": "BBC News",
@@ -19,11 +33,11 @@
       "published": "2026-10-08T12:06:57+00:00"
     },
     {
-      "id": "8894cf3fd1e41677613d",
-      "source": "BBC News",
-      "title": "Italy overhauls electoral system after fiercely contested debate",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T12:02:04+00:00"
+      "id": "11ada30216df1a52c1e1",
+      "source": "TGcom24",
+      "title": "Maltempo, nel Napoletano tratta in salvo automobilista bloccata in un sottopasso",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/allerta-maltempo-toscana-scuole-chiuse_117409536-202602k.shtml",
+      "published": "2026-10-08T12:00:00+00:00"
     },
     {
       "id": "fea126e6bfcc00593a3e",
@@ -59,13 +73,6 @@
       "title": "Teramo, 16enne preso a schiaffi dai coetanei: zigomo fratturato",
       "url": "https://www.tgcom24.mediaset.it/cronaca/teramo-aggressione-scuola-schiaffo-frattura-zigomo_117422158-202602k.shtml",
       "published": "2026-10-08T10:20:00+00:00"
-    },
-    {
-      "id": "e7e9395ceef29598d2a9",
-      "source": "BBC News",
-      "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
-      "url": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T10:07:58+00:00"
     },
     {
       "id": "a1bd0ac4ede4fc6563fd",
@@ -367,13 +374,6 @@
       "title": "Francia, chiusa piattaforma con contenuti intimi rubati a oltre 17mila donne",
       "url": "https://www.tgcom24.mediaset.it/mondo/francia-chiusa-piattaforma-con-contenuti-intimi-rubati-donne_117399191-202602k.shtml",
       "published": "2026-10-07T15:45:00+00:00"
-    },
-    {
-      "id": "6cb5048c48bd9a133f50",
-      "source": "TGcom24",
-      "title": "Assalto alla Cgil, confermate in appello le sette condanne",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/assalto-cgil-confermate-condanne-fiore-castellino_117398848-202602k.shtml",
-      "published": "2026-10-07T15:10:00+00:00"
     },
     {
       "id": "4c2a565958149c16c410",
