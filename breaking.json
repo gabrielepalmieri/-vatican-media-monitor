@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-10-08T15:15:55.422081+00:00",
+  "updated_at": "2026-10-08T15:36:30.604265+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-08T15:15:55.422081+00:00"
+      "checked_at": "2026-10-08T15:36:30.604265+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-08T15:15:55.422081+00:00"
+      "checked_at": "2026-10-08T15:36:30.604265+00:00"
     }
   },
   "items": [
+    {
+      "id": "5cdaa95dd85815f7a0b7",
+      "source": "BBC News",
+      "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+      "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T15:21:46+00:00"
+    },
     {
       "id": "8803f82ce62d0a18b07f",
       "source": "TGcom24",
       "title": "Usa, l'avvocato di Christa Pike: \"Si è rimessa in piedi e riesce a camminare\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/christa-pike-cammina-ospedale-esecuzione-fallita-tennessee_117433598-202602k.shtml",
       "published": "2026-10-08T15:10:00+00:00"
+    },
+    {
+      "id": "45daae4f026f85d8aba6",
+      "source": "BBC News",
+      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+      "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T15:07:59+00:00"
     },
     {
       "id": "6647bcd27813d603abf3",
@@ -157,13 +171,6 @@
       "title": "Istat, quasi un terzo delle famiglie ha limitato la spesa alimentare",
       "url": "https://www.tgcom24.mediaset.it/economia/istat-famiglie-limitano-spesa-alimentare_117418897-202602k.shtml",
       "published": "2026-10-08T08:30:00+00:00"
-    },
-    {
-      "id": "5cdaa95dd85815f7a0b7",
-      "source": "BBC News",
-      "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-      "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T08:18:36+00:00"
     },
     {
       "id": "20f5edf0cc5d6e8c3aaf",
