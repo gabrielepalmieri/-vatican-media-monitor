@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-08T06:10:45.681102+00:00",
+  "updated_at": "2026-10-08T06:32:56.657374+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-08T06:10:45.681102+00:00"
+      "checked_at": "2026-10-08T06:32:56.657374+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-08T06:10:45.681102+00:00"
+      "checked_at": "2026-10-08T06:32:56.657374+00:00"
     }
   },
   "items": [
+    {
+      "id": "320ce83c49b87384f654",
+      "source": "TGcom24",
+      "title": "Legge elettorale, oggi il voto finale alla Camera sullo Stabilicum",
+      "url": "https://www.tgcom24.mediaset.it/politica/legge-elettorale-ultimo-voto-camera_117413640-202602k.shtml",
+      "published": "2026-10-08T06:25:00+00:00"
+    },
     {
       "id": "c09057477e34e9c1f97d",
       "source": "TGcom24",
@@ -304,13 +311,6 @@
       "title": "What happened in the failed execution of Christa Pike - and how did she survive?",
       "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-07T10:01:47+00:00"
-    },
-    {
-      "id": "0c4f49e6a4ddb50d1761",
-      "source": "TGcom24",
-      "title": "Delitto di Garlasco, legale di Andrea Sempio in tribunale a Pavia per ascoltare intercettazioni",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/delitto-garlasco-sempio-intercettazioni-tribunale-pavia_117385087-202602k.shtml",
-      "published": "2026-10-07T09:49:00+00:00"
     },
     {
       "id": "4c2a565958149c16c410",
