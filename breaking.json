@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-08T19:09:31.825802+00:00",
+  "updated_at": "2026-10-08T19:25:34.048555+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-08T19:09:31.825802+00:00"
+      "checked_at": "2026-10-08T19:25:34.048555+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-08T19:09:31.825802+00:00"
+      "checked_at": "2026-10-08T19:25:34.048555+00:00"
     }
   },
   "items": [
+    {
+      "id": "34230821a09824ddd7f6",
+      "source": "TGcom24",
+      "title": "Attacco cyber alla Farnesina, autori gli hacker russi Noname",
+      "url": "https://www.tgcom24.mediaset.it/politica/farnesina-attacco-hacker-informatica-protezione-cybersicurezza_117435681-202602k.shtml",
+      "published": "2026-10-08T19:22:00+00:00"
+    },
+    {
+      "id": "286c5b1271ceba0f65d7",
+      "source": "BBC News",
+      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+      "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T19:10:06+00:00"
+    },
     {
       "id": "36f5dc60c96bbda6ce46",
       "source": "TGcom24",
@@ -306,13 +320,6 @@
       "published": "2026-10-08T04:32:00+00:00"
     },
     {
-      "id": "be60314d5d65b1fb994b",
-      "source": "TGcom24",
-      "title": "Bangladesh, almeno 1.140 bambini morti da marzo per epidemia di morbillo",
-      "url": "https://www.tgcom24.mediaset.it/mondo/bangladesh-bambini-morbillo_117409524-202602k.shtml",
-      "published": "2026-10-08T04:02:00+00:00"
-    },
-    {
       "id": "64370401e64935ea2d68",
       "source": "BBC News",
       "title": "France's school protests: What lies behind the anger",
@@ -395,13 +402,6 @@
       "title": "How toxic haze is causing Singapore’s landmarks to disappear",
       "url": "https://www.bbc.co.uk/news/videos/cmp8g7gel3xlo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-07T22:10:20+00:00"
-    },
-    {
-      "id": "d6f97ed94424ddec315b",
-      "source": "BBC News",
-      "title": "Canada suspends plans to expand assisted dying to people with mental illness",
-      "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T19:30:51+00:00"
     },
     {
       "id": "64e60d29e8c66cae2caa",
