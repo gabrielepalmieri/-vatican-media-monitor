@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-08T21:24:43.895111+00:00",
+  "updated_at": "2026-10-08T21:42:00.446731+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-08T21:24:43.895111+00:00"
+      "checked_at": "2026-10-08T21:42:00.446731+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-08T21:24:43.895111+00:00"
+      "checked_at": "2026-10-08T21:42:00.446731+00:00"
     }
   },
   "items": [
+    {
+      "id": "9c1384a7bd91b4e934cf",
+      "source": "TGcom24",
+      "title": "Strage Fort Hood, Hegseth: la fucilazione del killer sarà pubblica e in diretta streaming",
+      "url": "https://www.tgcom24.mediaset.it/mondo/fucilazione-live-diretta-streaming-fort-hood-malik-hasan-usa_117443208-202602k.shtml",
+      "published": "2026-10-08T21:31:00+00:00"
+    },
     {
       "id": "0a137ca89b66f40a17cf",
       "source": "BBC News",
@@ -283,13 +290,6 @@
       "title": "Legge elettorale, oggi il voto finale alla Camera sullo Stabilicum",
       "url": "https://www.tgcom24.mediaset.it/politica/legge-elettorale-ultimo-voto-camera_117413640-202602k.shtml",
       "published": "2026-10-08T06:25:00+00:00"
-    },
-    {
-      "id": "c09057477e34e9c1f97d",
-      "source": "TGcom24",
-      "title": "Iran, media: il Pentagono ha ordinato all'esercito Usa di preparare nuovi raid",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-8-ottobre_117411633-202602k.shtml",
-      "published": "2026-10-08T05:33:00+00:00"
     },
     {
       "id": "6a0764acc6679990c58d",
