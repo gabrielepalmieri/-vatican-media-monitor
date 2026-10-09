@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-10-09T21:48:12.491812+00:00",
+  "updated_at": "2026-10-09T21:58:39.324536+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T21:48:12.491812+00:00"
+      "checked_at": "2026-10-09T21:58:39.324536+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T21:48:12.491812+00:00"
+      "checked_at": "2026-10-09T21:58:39.324536+00:00"
     }
   },
   "items": [
+    {
+      "id": "2e892f2390d39cce5c0f",
+      "source": "BBC News",
+      "title": "Three men found guilty of murdering two Australian surfer brothers and US friend",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T21:55:51+00:00"
+    },
+    {
+      "id": "b710545cba8433f155a5",
+      "source": "BBC News",
+      "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T21:54:28+00:00"
+    },
+    {
+      "id": "93e49cacb2a5ef9a2154",
+      "source": "BBC News",
+      "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+      "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T21:50:47+00:00"
+    },
     {
       "id": "d1db07dc11d43b7e4f56",
       "source": "TGcom24",
@@ -26,13 +47,6 @@
       "published": "2026-10-09T21:26:30+00:00"
     },
     {
-      "id": "b710545cba8433f155a5",
-      "source": "BBC News",
-      "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T21:16:49+00:00"
-    },
-    {
       "id": "20cf4151b8f332547c82",
       "source": "TGcom24",
       "title": "Panama, hotel a Penonomé collassato dopo la scossa",
@@ -45,20 +59,6 @@
       "title": "Commentator Katie Zacharia picked as new White House press secretary",
       "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T21:08:04+00:00"
-    },
-    {
-      "id": "2e892f2390d39cce5c0f",
-      "source": "BBC News",
-      "title": "Three men found guilty of murdering two Australian surfer brothers and US friend",
-      "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T21:04:59+00:00"
-    },
-    {
-      "id": "93e49cacb2a5ef9a2154",
-      "source": "BBC News",
-      "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
-      "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T20:42:11+00:00"
     },
     {
       "id": "084f41b49cf2e8e5e195",
