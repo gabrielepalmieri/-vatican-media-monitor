@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-09T10:19:07.222533+00:00",
+  "updated_at": "2026-10-09T10:36:17.466367+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T10:19:07.222533+00:00"
+      "checked_at": "2026-10-09T10:36:17.466367+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T10:19:07.222533+00:00"
+      "checked_at": "2026-10-09T10:36:17.466367+00:00"
     }
   },
   "items": [
+    {
+      "id": "18a0c139a6288e493a70",
+      "source": "TGcom24",
+      "title": "Bergamo, imprenditore edile muore schiacciato da un mini escavatore",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/bergamo-imprenditore-edile-morto-schiacciato_117450728-202602k.shtml",
+      "published": "2026-10-09T10:17:00+00:00"
+    },
+    {
+      "id": "9c47461cfed566a0a19e",
+      "source": "BBC News",
+      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+      "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T10:07:04+00:00"
+    },
     {
       "id": "52aa1b7c356403360a90",
       "source": "BBC News",
@@ -52,6 +66,13 @@
       "title": "Nobel per la Pace 2026 alla giurista sudafricana Navanethem \"Navi\" Pillay",
       "url": "https://www.tgcom24.mediaset.it/mondo/oslo-premio-nobel-pace-navanethem-navi-pillay_117451940-202602k.shtml",
       "published": "2026-10-09T09:10:00+00:00"
+    },
+    {
+      "id": "8289957c2bff5cfe5c87",
+      "source": "BBC News",
+      "title": "Thieves steal 30,000 wine bottles worth €5m in Italy, reports say",
+      "url": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T09:09:03+00:00"
     },
     {
       "id": "775ffc25a3d11aca3086",
@@ -159,6 +180,13 @@
       "published": "2026-10-09T03:36:41+00:00"
     },
     {
+      "id": "088dc78ba4ae2eb6faa9",
+      "source": "BBC News",
+      "title": "Christa Pike has 'profound' health turnaround after botched execution, lawyers say",
+      "url": "https://www.bbc.co.uk/news/articles/c6dxw90kdp5yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T02:09:45+00:00"
+    },
+    {
       "id": "5906604cc90cf59e7847",
       "source": "BBC News",
       "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
@@ -222,13 +250,6 @@
       "published": "2026-10-08T19:22:00+00:00"
     },
     {
-      "id": "286c5b1271ceba0f65d7",
-      "source": "BBC News",
-      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
-      "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T19:10:06+00:00"
-    },
-    {
       "id": "36f5dc60c96bbda6ce46",
       "source": "TGcom24",
       "title": "Proteste studentesche in Francia, oltre 500 fermi e quasi 50 agenti feriti",
@@ -262,13 +283,6 @@
       "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
       "url": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-08T17:16:32+00:00"
-    },
-    {
-      "id": "9b0b81862a52e47e274f",
-      "source": "BBC News",
-      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T16:31:29+00:00"
     },
     {
       "id": "6430f3df42ac0f66b700",
@@ -334,13 +348,6 @@
       "published": "2026-10-08T14:10:58+00:00"
     },
     {
-      "id": "06cb9528ebea0801d362",
-      "source": "TGcom24",
-      "title": "Proteste in Francia, ministro dell'Istruzione promette piano per i prof assenti",
-      "url": "https://www.tgcom24.mediaset.it/mondo/nuove-proteste-degli-studenti-in-francia-ministro-promette-piano-d-urgenza-per-i-prof-assenti_117432418-202602k.shtml",
-      "published": "2026-10-08T14:05:00+00:00"
-    },
-    {
       "id": "8894cf3fd1e41677613d",
       "source": "BBC News",
       "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
@@ -395,13 +402,6 @@
       "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
       "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-08T05:00:44+00:00"
-    },
-    {
-      "id": "64370401e64935ea2d68",
-      "source": "BBC News",
-      "title": "France's school protests: What lies behind the anger",
-      "url": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T03:38:46+00:00"
     },
     {
       "id": "8fe53782569c37a302ca",
