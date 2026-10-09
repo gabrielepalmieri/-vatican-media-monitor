@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-09T11:45:50.464671+00:00",
+  "updated_at": "2026-10-09T11:59:26.853059+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T11:45:50.464671+00:00"
+      "checked_at": "2026-10-09T11:59:26.853059+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T11:45:50.464671+00:00"
+      "checked_at": "2026-10-09T11:59:26.853059+00:00"
     }
   },
   "items": [
+    {
+      "id": "5100fa56b38e13ed6f96",
+      "source": "BBC News",
+      "title": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T11:44:49+00:00"
+    },
     {
       "id": "afd340d577cf6df79f3e",
       "source": "BBC News",
@@ -339,13 +346,6 @@
       "title": "Caso \"30 secondi\", la hostess: \"Anni estenuanti, nessuna merita quel calvario\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/caso-30-secondi-hostess-commenta-motivazioni_117435683-202602k.shtml",
       "published": "2026-10-08T15:55:00+00:00"
-    },
-    {
-      "id": "5cdaa95dd85815f7a0b7",
-      "source": "BBC News",
-      "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-      "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T15:21:46+00:00"
     },
     {
       "id": "2dac98e662e7422fe396",
