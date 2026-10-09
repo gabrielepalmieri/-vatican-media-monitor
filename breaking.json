@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-09T18:54:56.997547+00:00",
+  "updated_at": "2026-10-09T19:07:37.453661+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T18:54:56.997547+00:00"
+      "checked_at": "2026-10-09T19:07:37.453661+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T18:54:56.997547+00:00"
+      "checked_at": "2026-10-09T19:07:37.453661+00:00"
     }
   },
   "items": [
+    {
+      "id": "cecf4bde13d3af406409",
+      "source": "BBC News",
+      "title": "Commentator Katie Zacharia picked as new White House press secretary",
+      "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T18:52:06+00:00"
+    },
     {
       "id": "7589a5f05876bdb94db7",
       "source": "TGcom24",
@@ -108,6 +115,13 @@
       "title": "Watch: 'I am Jane Doe' protests across US call for end to sexual violence",
       "url": "https://www.bbc.co.uk/news/videos/cmy83pp3904vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T16:19:36+00:00"
+    },
+    {
+      "id": "a55c06b0031eab8dcf9b",
+      "source": "BBC News",
+      "title": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
+      "url": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T15:26:33+00:00"
     },
     {
       "id": "b44855156a7dd2bd3b97",
@@ -367,13 +381,6 @@
       "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
       "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-08T23:11:10+00:00"
-    },
-    {
-      "id": "4aa98fd42389a1926dd6",
-      "source": "BBC News",
-      "title": "​​USS Lincoln finally docks in San Diego after 10-month mission",
-      "url": "https://www.bbc.co.uk/news/videos/cwp8gnp14xr2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T22:26:10+00:00"
     }
   ]
 }
