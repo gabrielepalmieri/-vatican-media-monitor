@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-09T14:55:02.897482+00:00",
+  "updated_at": "2026-10-09T15:09:15.576059+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T14:55:02.897482+00:00"
+      "checked_at": "2026-10-09T15:09:15.576059+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T14:55:02.897482+00:00"
+      "checked_at": "2026-10-09T15:09:15.576059+00:00"
     }
   },
   "items": [
+    {
+      "id": "89d49fe334dd0a47296f",
+      "source": "TGcom24",
+      "title": "Governo Usa impone sanzioni alla Corte penale internazionale",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-sanzioni-corte-penale-internazionale_117464803-202602k.shtml",
+      "published": "2026-10-09T14:57:00+00:00"
+    },
     {
       "id": "f005ad3007c326209113",
       "source": "BBC News",
@@ -24,6 +31,13 @@
       "title": "Nobel per la Pace a Pillay, Trump: \"Vergognoso premio a un'odiatrice dell'America\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/premio-nobel-pace-navanethem-navi-pillay_117451940-202602k.shtml",
       "published": "2026-10-09T14:22:00+00:00"
+    },
+    {
+      "id": "c797b06cf304e7f160e0",
+      "source": "BBC News",
+      "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+      "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T14:00:47+00:00"
     },
     {
       "id": "9c47461cfed566a0a19e",
@@ -332,13 +346,6 @@
       "title": "Garlasco, nel 2007 il pm non autorizzò Garofano a entrare in casa Poggi",
       "url": "https://www.tgcom24.mediaset.it/cronaca/delitto-di-garlasco-ris-garofano-impronte-dna_117440770-202602k.shtml",
       "published": "2026-10-08T20:05:00+00:00"
-    },
-    {
-      "id": "34230821a09824ddd7f6",
-      "source": "TGcom24",
-      "title": "Attacco cyber alla Farnesina, autori gli hacker russi Noname",
-      "url": "https://www.tgcom24.mediaset.it/politica/farnesina-attacco-hacker-informatica-protezione-cybersicurezza_117435681-202602k.shtml",
-      "published": "2026-10-08T19:22:00+00:00"
     },
     {
       "id": "45daae4f026f85d8aba6",
