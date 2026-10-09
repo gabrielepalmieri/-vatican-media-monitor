@@ -1,20 +1,27 @@
 {
-  "updated_at": "2026-10-09T18:01:06.787031+00:00",
+  "updated_at": "2026-10-09T18:15:23.586771+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T18:01:06.787031+00:00"
+      "checked_at": "2026-10-09T18:15:23.586771+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T18:01:06.787031+00:00"
+      "checked_at": "2026-10-09T18:15:23.586771+00:00"
     }
   },
   "items": [
     {
+      "id": "b5f9b963cefdd677712f",
+      "source": "TGcom24",
+      "title": "Salerno, tir precipita da un viadotto sulla A2 e si incendia: morto l'autista",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/salerno-tir-precipitato-a2-morto-autista-sicignano-degli-alburni_117469146-202602k.shtml",
+      "published": "2026-10-09T18:00:00+00:00"
+    },
+    {
       "id": "334519597fa110ffdc01",
       "source": "BBC News",
-      "title": "US unveils sanctions on ICC in move court condems as 'assault on rule of law'",
+      "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
       "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T17:43:03+00:00"
     },
@@ -332,13 +339,6 @@
       "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
       "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T04:53:50+00:00"
-    },
-    {
-      "id": "2cecc2be9a14df22f539",
-      "source": "TGcom24",
-      "title": "New York, agente dell'Ice spara e ferisce un uomo nel Bronx: proteste",
-      "url": "https://www.tgcom24.mediaset.it/mondo/usa-new-york-agente-ice-proteste-bronx_117443852-202602k.shtml",
-      "published": "2026-10-09T04:30:00+00:00"
     },
     {
       "id": "0ec0ec25a41dfa7d4e03",
