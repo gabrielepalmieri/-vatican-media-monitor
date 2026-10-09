@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-09T03:43:50.299423+00:00",
+  "updated_at": "2026-10-09T04:00:22.972894+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T03:43:50.299423+00:00"
+      "checked_at": "2026-10-09T04:00:22.972894+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T03:43:50.299423+00:00"
+      "checked_at": "2026-10-09T04:00:22.972894+00:00"
     }
   },
   "items": [
+    {
+      "id": "47129bb88d49f6665ec9",
+      "source": "TGcom24",
+      "title": "Ex Ilva, i sindacati: \"Da lunedì 12 ottobre sciopero nazionale di 24 ore in tutti i siti\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/ex-ilva-sciopero-nazionale-24-ore-sindacati-taranto_117443708-202602k.shtml",
+      "published": "2026-10-09T04:00:00+00:00"
+    },
     {
       "id": "0ec0ec25a41dfa7d4e03",
       "source": "BBC News",
@@ -334,13 +341,6 @@
       "published": "2026-10-08T07:15:45+00:00"
     },
     {
-      "id": "cab528ded7462bad0632",
-      "source": "TGcom24",
-      "title": "Brescia, ha malore mentre gioca in oratorio: 13enne muore",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/brescia-ragazzo-13-anni-arresto-cardiaco-oratorio-morto_117414519-202602k.shtml",
-      "published": "2026-10-08T07:03:00+00:00"
-    },
-    {
       "id": "6a0764acc6679990c58d",
       "source": "BBC News",
       "title": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
@@ -416,13 +416,6 @@
       "title": "Eritrean troops move deep into Ethiopia's Tigray region, residents tell BBC",
       "url": "https://www.bbc.co.uk/news/articles/ckvgd63rj92lo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-07T18:40:52+00:00"
-    },
-    {
-      "id": "0f74de6c29d6cde13dc0",
-      "source": "BBC News",
-      "title": "Israelis demand accountability over 7 October failures three years after attacks",
-      "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T16:00:18+00:00"
     }
   ]
 }
