@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-09T22:09:04.503519+00:00",
+  "updated_at": "2026-10-09T22:24:19.445797+00:00",
   "sources": {
     "TGcom24": {
-      "ok": false,
-      "checked_at": "2026-10-09T22:09:04.503519+00:00"
+      "ok": true,
+      "checked_at": "2026-10-09T22:24:19.445797+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T22:09:04.503519+00:00"
+      "checked_at": "2026-10-09T22:24:19.445797+00:00"
     }
   },
   "items": [
+    {
+      "id": "1bec687fecbd9c146bed",
+      "source": "TGcom24",
+      "title": "Florida, il governatore cancella un'esecuzione con l'iniezione letale",
+      "url": "https://www.tgcom24.mediaset.it/mondo/florida-cancellata-esecuzione-iniezione-letale_117478433-202602k.shtml",
+      "published": "2026-10-09T22:11:00+00:00"
+    },
     {
       "id": "cecf4bde13d3af406409",
       "source": "BBC News",
@@ -346,13 +353,6 @@
       "title": "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say",
       "url": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T09:09:03+00:00"
-    },
-    {
-      "id": "775ffc25a3d11aca3086",
-      "source": "TGcom24",
-      "title": "Doppia tromba marina nel Trapanese: danni e feriti",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/tromba-marina-trapani-marsala_117450028-202602k.shtml",
-      "published": "2026-10-09T08:45:00+00:00"
     },
     {
       "id": "dbf0f95b1fb68e75ee97",
