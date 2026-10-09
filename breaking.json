@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-09T10:36:17.466367+00:00",
+  "updated_at": "2026-10-09T10:52:40.152953+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T10:36:17.466367+00:00"
+      "checked_at": "2026-10-09T10:52:40.152953+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T10:36:17.466367+00:00"
+      "checked_at": "2026-10-09T10:52:40.152953+00:00"
     }
   },
   "items": [
+    {
+      "id": "dff0d0bbef19357e6609",
+      "source": "TGcom24",
+      "title": "Ritrovati i quadri di Renoir rubati dal museo in Costa Azzurra",
+      "url": "https://www.tgcom24.mediaset.it/mondo/renoir-rubati-ritrovati-francia-cagnes-sur-mer-museo_117455764-202602k.shtml",
+      "published": "2026-10-09T10:49:00+00:00"
+    },
     {
       "id": "18a0c139a6288e493a70",
       "source": "TGcom24",
@@ -327,13 +334,6 @@
       "published": "2026-10-08T15:10:00+00:00"
     },
     {
-      "id": "1f473832d2341e327e70",
-      "source": "TGcom24",
-      "title": "Davide Iacopini aggredito, I'attore operato d'urgenza alla testa a Roma",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/davide-iacopini-operato-d-urgenza-alla-testa_117432064-202602k.shtml",
-      "published": "2026-10-08T14:36:00+00:00"
-    },
-    {
       "id": "2dac98e662e7422fe396",
       "source": "BBC News",
       "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
@@ -402,20 +402,6 @@
       "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
       "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-08T05:00:44+00:00"
-    },
-    {
-      "id": "8fe53782569c37a302ca",
-      "source": "BBC News",
-      "title": "She made India fall in love with women's cricket - now her era as captain is over",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T23:31:00+00:00"
-    },
-    {
-      "id": "0c7e1bcea051bc3b2c4b",
-      "source": "BBC News",
-      "title": "Why Zimbabwe tycoon 'Sir Wicknell' was loved and hated in Africa",
-      "url": "https://www.bbc.co.uk/news/articles/c3x2wlplnelxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T23:29:15+00:00"
     }
   ]
 }
