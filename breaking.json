@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-09T17:08:22.277643+00:00",
+  "updated_at": "2026-10-09T17:22:32.314446+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T17:08:22.277643+00:00"
+      "checked_at": "2026-10-09T17:22:32.314446+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T17:08:22.277643+00:00"
+      "checked_at": "2026-10-09T17:22:32.314446+00:00"
     }
   },
   "items": [
+    {
+      "id": "d97b2238b5e3d62e9d3d",
+      "source": "BBC News",
+      "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
+      "url": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T17:14:44+00:00"
+    },
+    {
+      "id": "334519597fa110ffdc01",
+      "source": "BBC News",
+      "title": "US unveils sanctions on ICC in move court condems as 'assault on rule of law'",
+      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T17:12:03+00:00"
+    },
     {
       "id": "50ddef6c5e80ae410842",
       "source": "TGcom24",
@@ -52,13 +66,6 @@
       "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
       "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T16:15:09+00:00"
-    },
-    {
-      "id": "334519597fa110ffdc01",
-      "source": "BBC News",
-      "title": "US imposes sanctions on International Criminal Court",
-      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T16:06:59+00:00"
     },
     {
       "id": "b44855156a7dd2bd3b97",
