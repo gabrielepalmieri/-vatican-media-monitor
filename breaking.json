@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-09T16:01:36.000683+00:00",
+  "updated_at": "2026-10-09T16:15:39.542434+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T16:01:36.000683+00:00"
+      "checked_at": "2026-10-09T16:15:39.542434+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T16:01:36.000683+00:00"
+      "checked_at": "2026-10-09T16:15:39.542434+00:00"
     }
   },
   "items": [
+    {
+      "id": "c797b06cf304e7f160e0",
+      "source": "BBC News",
+      "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+      "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T16:15:09+00:00"
+    },
+    {
+      "id": "334519597fa110ffdc01",
+      "source": "BBC News",
+      "title": "US imposes sanctions on International Criminal Court",
+      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T16:06:59+00:00"
+    },
     {
       "id": "b44855156a7dd2bd3b97",
       "source": "TGcom24",
@@ -21,7 +35,7 @@
     {
       "id": "ab67512059393220f8ec",
       "source": "BBC News",
-      "title": "Ethiopia and Eritrea accuse each other of starting conflict after troops cross border",
+      "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
       "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T15:24:43+00:00"
     },
@@ -45,13 +59,6 @@
       "title": "Nobel per la Pace a Pillay, Trump: \"Vergognoso premio a un'odiatrice dell'America\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/premio-nobel-pace-navanethem-navi-pillay_117451940-202602k.shtml",
       "published": "2026-10-09T14:22:00+00:00"
-    },
-    {
-      "id": "c797b06cf304e7f160e0",
-      "source": "BBC News",
-      "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
-      "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T14:00:47+00:00"
     },
     {
       "id": "9c47461cfed566a0a19e",
@@ -341,81 +348,11 @@
       "published": "2026-10-08T21:31:00+00:00"
     },
     {
-      "id": "0a137ca89b66f40a17cf",
-      "source": "BBC News",
-      "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
-      "url": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T20:38:11+00:00"
-    },
-    {
-      "id": "45daae4f026f85d8aba6",
-      "source": "BBC News",
-      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
-      "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T17:38:59+00:00"
-    },
-    {
-      "id": "af20a8060ac3c7a9bd66",
-      "source": "BBC News",
-      "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T17:16:32+00:00"
-    },
-    {
-      "id": "ffe2c585c7cfc8bb969d",
-      "source": "BBC News",
-      "title": "Zambia signs US health deal after disputes over data-sharing",
-      "url": "https://www.bbc.co.uk/news/articles/cqd09eyk0g8no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T16:24:05+00:00"
-    },
-    {
-      "id": "a1bd0ac4ede4fc6563fd",
-      "source": "BBC News",
-      "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
-      "url": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T16:23:09+00:00"
-    },
-    {
-      "id": "2dac98e662e7422fe396",
-      "source": "BBC News",
-      "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T14:33:23+00:00"
-    },
-    {
-      "id": "8894cf3fd1e41677613d",
-      "source": "BBC News",
-      "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T12:32:12+00:00"
-    },
-    {
-      "id": "e7e9395ceef29598d2a9",
-      "source": "BBC News",
-      "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
-      "url": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T12:11:31+00:00"
-    },
-    {
-      "id": "e762362b7779e6cccfc9",
-      "source": "BBC News",
-      "title": "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T12:04:25+00:00"
-    },
-    {
       "id": "05bcbbc26d63c628e289",
       "source": "BBC News",
       "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
       "url": "https://www.bbc.co.uk/news/videos/c962yz01l7mmo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-08T12:01:55+00:00"
-    },
-    {
-      "id": "0a33747dc0d238bb88bc",
-      "source": "BBC News",
-      "title": "Residents airlifted to safety after flooding in central Chile",
-      "url": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T11:31:22+00:00"
     }
   ]
 }
