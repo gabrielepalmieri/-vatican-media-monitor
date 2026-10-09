@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-09T21:33:07.718175+00:00",
+  "updated_at": "2026-10-09T21:48:12.491812+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T21:33:07.718175+00:00"
+      "checked_at": "2026-10-09T21:48:12.491812+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T21:33:07.718175+00:00"
+      "checked_at": "2026-10-09T21:48:12.491812+00:00"
     }
   },
   "items": [
+    {
+      "id": "d1db07dc11d43b7e4f56",
+      "source": "TGcom24",
+      "title": "Bolzano, minorenne denuncia violenza sessuale",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/bolzano-minorenne-denuncia-violenza-sessuale_117477772-202602k.shtml",
+      "published": "2026-10-09T21:43:00+00:00"
+    },
     {
       "id": "a004e5ae0cf6aa58ac99",
       "source": "BBC News",
@@ -353,13 +360,6 @@
       "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
       "url": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T08:28:57+00:00"
-    },
-    {
-      "id": "d924bf634679157385b3",
-      "source": "TGcom24",
-      "title": "Scontri Askatasuna, perquisizioni in tutta Italia: chieste 19 misure cautelari",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/scontri-askatasuna-perquisizioni-in-tutta-italia-chieste-19-misure-cautelari_117449123-202602k.shtml",
-      "published": "2026-10-09T08:14:00+00:00"
     },
     {
       "id": "b99d70fd03ce2074a65a",
