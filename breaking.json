@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-09T16:34:31.514022+00:00",
+  "updated_at": "2026-10-09T16:53:13.404193+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T16:34:31.514022+00:00"
+      "checked_at": "2026-10-09T16:53:13.404193+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T16:34:31.514022+00:00"
+      "checked_at": "2026-10-09T16:53:13.404193+00:00"
     }
   },
   "items": [
@@ -31,6 +31,13 @@
       "title": "Olanda, Italia e altri 6 Paesi contro sanzioni Usa a Cpi: \"Forte sostegno a Corte\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-sanzioni-corte-penale-internazionale_117464803-202602k.shtml",
       "published": "2026-10-09T16:24:00+00:00"
+    },
+    {
+      "id": "bb4e8645ee788d42a21f",
+      "source": "BBC News",
+      "title": "Watch: 'I am Jane Doe' protests across US call for end to sexual violence",
+      "url": "https://www.bbc.co.uk/news/videos/cmy83pp3904vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T16:19:36+00:00"
     },
     {
       "id": "c797b06cf304e7f160e0",
@@ -360,13 +367,6 @@
       "title": "Strage Fort Hood, Hegseth: la fucilazione del killer sarà pubblica e in diretta streaming",
       "url": "https://www.tgcom24.mediaset.it/mondo/fucilazione-live-diretta-streaming-fort-hood-malik-hasan-usa_117443208-202602k.shtml",
       "published": "2026-10-08T21:31:00+00:00"
-    },
-    {
-      "id": "05bcbbc26d63c628e289",
-      "source": "BBC News",
-      "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
-      "url": "https://www.bbc.co.uk/news/videos/c962yz01l7mmo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T12:01:55+00:00"
     }
   ]
 }
