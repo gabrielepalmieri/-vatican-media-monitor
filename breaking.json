@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-09T08:27:56.396986+00:00",
+  "updated_at": "2026-10-09T08:43:32.334882+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T08:27:56.396986+00:00"
+      "checked_at": "2026-10-09T08:43:32.334882+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T08:27:56.396986+00:00"
+      "checked_at": "2026-10-09T08:43:32.334882+00:00"
     }
   },
   "items": [
+    {
+      "id": "dbf0f95b1fb68e75ee97",
+      "source": "BBC News",
+      "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T08:28:57+00:00"
+    },
     {
       "id": "d924bf634679157385b3",
       "source": "TGcom24",
@@ -73,13 +80,6 @@
       "title": "Russian strikes and approaching winter force many in Kyiv to pack bags and flee",
       "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T04:53:50+00:00"
-    },
-    {
-      "id": "dbf0f95b1fb68e75ee97",
-      "source": "BBC News",
-      "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
-      "url": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T04:44:22+00:00"
     },
     {
       "id": "2cecc2be9a14df22f539",
