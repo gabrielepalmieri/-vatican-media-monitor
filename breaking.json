@@ -1,20 +1,27 @@
 {
-  "updated_at": "2026-10-09T11:31:58.834425+00:00",
+  "updated_at": "2026-10-09T11:45:50.464671+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T11:31:58.834425+00:00"
+      "checked_at": "2026-10-09T11:45:50.464671+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T11:31:58.834425+00:00"
+      "checked_at": "2026-10-09T11:45:50.464671+00:00"
     }
   },
   "items": [
     {
+      "id": "afd340d577cf6df79f3e",
+      "source": "BBC News",
+      "title": "France promises 3,000 extra teachers in first step to calm student protests",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T11:35:00+00:00"
+    },
+    {
       "id": "061d82fc16e3e82e7d83",
       "source": "TGcom24",
-      "title": "Bruxelles scontri tra studenti e polizia: barricate e sassaiole",
+      "title": "Bruxelles, scontri tra manifestanti e polizia: barricate e sassaiole",
       "url": "https://www.tgcom24.mediaset.it/mondo/belgio-bruxelles-scontri-studenti-polizia_117457421-202602k.shtml",
       "published": "2026-10-09T11:18:00+00:00"
     },
