@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-09T19:49:27.575091+00:00",
+  "updated_at": "2026-10-09T19:58:04.051321+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T19:49:27.575091+00:00"
+      "checked_at": "2026-10-09T19:58:04.051321+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T19:49:27.575091+00:00"
+      "checked_at": "2026-10-09T19:58:04.051321+00:00"
     }
   },
   "items": [
+    {
+      "id": "34346ce1f371224939c6",
+      "source": "TGcom24",
+      "title": "Trump: colloquio di successo con Putin, la Russia ci fornirà gasolio",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-russia-trump-conclusa-telefonata-di-grande-successo-con-putin-la-russia-fornira-gasolio-_117471919-202602k.shtml",
+      "published": "2026-10-09T19:55:00+00:00"
+    },
+    {
+      "id": "0075409012a783d930c2",
+      "source": "BBC News",
+      "title": "Thai Queen makes first solo flight in fighter jet",
+      "url": "https://www.bbc.co.uk/news/videos/cqm263x40y37o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T19:48:26+00:00"
+    },
     {
       "id": "a004e5ae0cf6aa58ac99",
       "source": "BBC News",
@@ -353,13 +367,6 @@
       "title": "Why Elon Musk is taking on India's richest man over Starlink",
       "url": "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T06:42:37+00:00"
-    },
-    {
-      "id": "ef63fb34d7609ed18bff",
-      "source": "TGcom24",
-      "title": "Sciopero dei trasporti: a Milano si fermano per 24 ore metro, tram e bus",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/sciopero-metro-bus-milano-trasporto-pubblico-locale-venerdi-9-ottobre_117444003-202602k.shtml",
-      "published": "2026-10-09T06:30:00+00:00"
     },
     {
       "id": "41960ae00549164618d4",
