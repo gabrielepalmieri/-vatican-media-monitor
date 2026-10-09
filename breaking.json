@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-09T21:13:45.548583+00:00",
+  "updated_at": "2026-10-09T21:33:07.718175+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T21:13:45.548583+00:00"
+      "checked_at": "2026-10-09T21:33:07.718175+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T21:13:45.548583+00:00"
+      "checked_at": "2026-10-09T21:33:07.718175+00:00"
     }
   },
   "items": [
+    {
+      "id": "a004e5ae0cf6aa58ac99",
+      "source": "BBC News",
+      "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
+      "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T21:26:30+00:00"
+    },
+    {
+      "id": "b710545cba8433f155a5",
+      "source": "BBC News",
+      "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T21:16:49+00:00"
+    },
     {
       "id": "20cf4151b8f332547c82",
       "source": "TGcom24",
@@ -40,13 +54,6 @@
       "published": "2026-10-09T20:42:11+00:00"
     },
     {
-      "id": "b710545cba8433f155a5",
-      "source": "BBC News",
-      "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T20:32:42+00:00"
-    },
-    {
       "id": "084f41b49cf2e8e5e195",
       "source": "TGcom24",
       "title": "Petrolio russo agli Usa, Zelensky: \"Putin ripagherà diesel con terrore\"",
@@ -66,13 +73,6 @@
       "title": "Thai Queen makes first solo flight in fighter jet",
       "url": "https://www.bbc.co.uk/news/videos/cqm263x40y37o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T19:48:26+00:00"
-    },
-    {
-      "id": "a004e5ae0cf6aa58ac99",
-      "source": "BBC News",
-      "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
-      "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T19:39:52+00:00"
     },
     {
       "id": "bf04ff8f82d0497b3268",
