@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-09T10:02:30.302500+00:00",
+  "updated_at": "2026-10-09T10:19:07.222533+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T10:02:30.302500+00:00"
+      "checked_at": "2026-10-09T10:19:07.222533+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T10:02:30.302500+00:00"
+      "checked_at": "2026-10-09T10:19:07.222533+00:00"
     }
   },
   "items": [
+    {
+      "id": "52aa1b7c356403360a90",
+      "source": "BBC News",
+      "title": "Watch: Fleeing Kyiv for the countryside ahead of winter",
+      "url": "https://www.bbc.co.uk/news/videos/cqe8rn83088zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T10:00:49+00:00"
+    },
     {
       "id": "643a7b97334655794f2f",
       "source": "BBC News",
@@ -409,13 +416,6 @@
       "title": "Why Zimbabwe tycoon 'Sir Wicknell' was loved and hated in Africa",
       "url": "https://www.bbc.co.uk/news/articles/c3x2wlplnelxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-07T23:29:15+00:00"
-    },
-    {
-      "id": "6e7285e24fe00943c341",
-      "source": "BBC News",
-      "title": "How toxic haze is causing Singapore’s landmarks to disappear",
-      "url": "https://www.bbc.co.uk/news/videos/cmp8g7gel3xlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T22:10:20+00:00"
     }
   ]
 }
