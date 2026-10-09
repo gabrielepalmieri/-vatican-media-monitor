@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-09T18:15:23.586771+00:00",
+  "updated_at": "2026-10-09T18:37:07.196412+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T18:15:23.586771+00:00"
+      "checked_at": "2026-10-09T18:37:07.196412+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T18:15:23.586771+00:00"
+      "checked_at": "2026-10-09T18:37:07.196412+00:00"
     }
   },
   "items": [
+    {
+      "id": "93e49cacb2a5ef9a2154",
+      "source": "BBC News",
+      "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+      "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T18:36:18+00:00"
+    },
+    {
+      "id": "187a7fa12b3d30f76e41",
+      "source": "TGcom24",
+      "title": "Vittorio Sgarbi, il bollettino: \"Stabile ma sottoposto a tracheotomia\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/vittorio-sgarbi-ricoverato-come-sta-tracheostomia_117469504-202602k.shtml",
+      "published": "2026-10-09T18:19:00+00:00"
+    },
     {
       "id": "b5f9b963cefdd677712f",
       "source": "TGcom24",
@@ -73,13 +87,6 @@
       "title": "Man named Hitler Mussolini elected mayor in Peru",
       "url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T16:32:22+00:00"
-    },
-    {
-      "id": "3aadf529289d29f759f4",
-      "source": "BBC News",
-      "title": "Firing squad execution to be livestreamed, Pentagon says",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T16:29:47+00:00"
     },
     {
       "id": "855bfd7bcdac1d1d0849",
@@ -325,13 +332,6 @@
       "title": "Attacco ucraino nella regione russa di Belgorod: due morti",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-9-ottobre_117444274-202602k.shtml",
       "published": "2026-10-09T05:50:00+00:00"
-    },
-    {
-      "id": "7e1d5419d038101fde82",
-      "source": "TGcom24",
-      "title": "Spazio, addio a Margaret Hamilton: guidò il team che portò l'Apollo 11 sulla Luna",
-      "url": "https://www.tgcom24.mediaset.it/spazio/spazio-luna-apollo-11-sbarco-margaret-hamilton-morta_117443885-202602k.shtml",
-      "published": "2026-10-09T05:06:00+00:00"
     },
     {
       "id": "41960ae00549164618d4",
