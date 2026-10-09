@@ -1,22 +1,29 @@
 {
-  "updated_at": "2026-10-09T19:07:37.453661+00:00",
+  "updated_at": "2026-10-09T19:22:18.312395+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T19:07:37.453661+00:00"
+      "checked_at": "2026-10-09T19:22:18.312395+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T19:07:37.453661+00:00"
+      "checked_at": "2026-10-09T19:22:18.312395+00:00"
     }
   },
   "items": [
+    {
+      "id": "bf04ff8f82d0497b3268",
+      "source": "TGcom24",
+      "title": "Tromba marina nel Trapanese: gravi i passeggeri di un'auto travolta",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/tromba-marina-trapani-marsala_117450028-202602k.shtml",
+      "published": "2026-10-09T19:20:00+00:00"
+    },
     {
       "id": "cecf4bde13d3af406409",
       "source": "BBC News",
       "title": "Commentator Katie Zacharia picked as new White House press secretary",
       "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T18:52:06+00:00"
+      "published": "2026-10-09T19:09:18+00:00"
     },
     {
       "id": "7589a5f05876bdb94db7",
@@ -52,13 +59,6 @@
       "title": "Salerno, tir precipita da un viadotto sulla A2 e si incendia: morto l'autista",
       "url": "https://www.tgcom24.mediaset.it/cronaca/salerno-tir-precipitato-a2-morto-autista-sicignano-degli-alburni_117469146-202602k.shtml",
       "published": "2026-10-09T18:00:00+00:00"
-    },
-    {
-      "id": "40421bf98696be7cec79",
-      "source": "TGcom24",
-      "title": "Salerno, tir precipita da un viadotto sulla A2 e si incendia: morto l'autista",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/salerno-tir-precipitato-a2-morto-autista-sicignano-degli-alburni_117469146-202602k.shtml",
-      "published": "2026-10-09T17:42:00+00:00"
     },
     {
       "id": "c797b06cf304e7f160e0",
