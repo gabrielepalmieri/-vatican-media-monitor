@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-09T15:09:15.576059+00:00",
+  "updated_at": "2026-10-09T15:25:09.706014+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T15:09:15.576059+00:00"
+      "checked_at": "2026-10-09T15:25:09.706014+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T15:09:15.576059+00:00"
+      "checked_at": "2026-10-09T15:25:09.706014+00:00"
     }
   },
   "items": [
+    {
+      "id": "ab67512059393220f8ec",
+      "source": "BBC News",
+      "title": "Ethiopia and Eritrea accuse each other of starting conflict after troops cross border",
+      "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T15:24:43+00:00"
+    },
     {
       "id": "89d49fe334dd0a47296f",
       "source": "TGcom24",
@@ -52,13 +59,6 @@
       "title": "Pillay dedica il Nobel per la Pace ai sopravvissuti di crimini internazionali",
       "url": "https://www.tgcom24.mediaset.it/mondo/oslo-premio-nobel-pace-navanethem-navi-pillay_117451940-202602k.shtml",
       "published": "2026-10-09T13:40:00+00:00"
-    },
-    {
-      "id": "ab67512059393220f8ec",
-      "source": "BBC News",
-      "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
-      "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T13:31:07+00:00"
     },
     {
       "id": "7ba1dd1fbb07e14f373d",
