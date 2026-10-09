@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-09T15:25:09.706014+00:00",
+  "updated_at": "2026-10-09T15:43:48.489643+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T15:25:09.706014+00:00"
+      "checked_at": "2026-10-09T15:43:48.489643+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T15:25:09.706014+00:00"
+      "checked_at": "2026-10-09T15:43:48.489643+00:00"
     }
   },
   "items": [
+    {
+      "id": "b44855156a7dd2bd3b97",
+      "source": "TGcom24",
+      "title": "Roma, salgono a 6 le vittime della banda della minicar: uomo colpito da tubo",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/roma-aggressioni-minicar-primo-identikit_117445142-202602k.shtml",
+      "published": "2026-10-09T15:26:00+00:00"
+    },
     {
       "id": "ab67512059393220f8ec",
       "source": "BBC News",
@@ -341,13 +348,6 @@
       "published": "2026-10-08T20:38:11+00:00"
     },
     {
-      "id": "dff8055a72eeac1bda52",
-      "source": "TGcom24",
-      "title": "Garlasco, nel 2007 il pm non autorizzò Garofano a entrare in casa Poggi",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/delitto-di-garlasco-ris-garofano-impronte-dna_117440770-202602k.shtml",
-      "published": "2026-10-08T20:05:00+00:00"
-    },
-    {
       "id": "45daae4f026f85d8aba6",
       "source": "BBC News",
       "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
@@ -381,13 +381,6 @@
       "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
       "url": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-08T14:33:23+00:00"
-    },
-    {
-      "id": "424788b8dd24c0c7ca24",
-      "source": "BBC News",
-      "title": "Arizona congressional candidate says she was raped while repairing campaign sign",
-      "url": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T14:10:58+00:00"
     },
     {
       "id": "8894cf3fd1e41677613d",
