@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-09T09:14:38.047087+00:00",
+  "updated_at": "2026-10-09T09:35:39.769957+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T09:14:38.047087+00:00"
+      "checked_at": "2026-10-09T09:35:39.769957+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T09:14:38.047087+00:00"
+      "checked_at": "2026-10-09T09:35:39.769957+00:00"
     }
   },
   "items": [
+    {
+      "id": "3aadf529289d29f759f4",
+      "source": "BBC News",
+      "title": "Firing squad execution to be livestreamed, Pentagon says",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T09:29:52+00:00"
+    },
     {
       "id": "313df093d0ecd2cd7a0c",
       "source": "TGcom24",
@@ -52,13 +59,6 @@
       "title": "Meet India's feisty Gen Z protester who is taking on Modi",
       "url": "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T07:19:24+00:00"
-    },
-    {
-      "id": "3aadf529289d29f759f4",
-      "source": "BBC News",
-      "title": "Firing squad execution to be livestreamed, Pentagon says",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T07:05:05+00:00"
     },
     {
       "id": "a4008752a9486b52ca81",
