@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-09T04:13:33.330765+00:00",
+  "updated_at": "2026-10-09T04:35:47.514040+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T04:13:33.330765+00:00"
+      "checked_at": "2026-10-09T04:35:47.514040+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T04:13:33.330765+00:00"
+      "checked_at": "2026-10-09T04:35:47.514040+00:00"
     }
   },
   "items": [
+    {
+      "id": "2cecc2be9a14df22f539",
+      "source": "TGcom24",
+      "title": "New York, agente dell'Ice spara e ferisce un uomo nel Bronx: proteste",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-new-york-agente-ice-proteste-bronx_117443852-202602k.shtml",
+      "published": "2026-10-09T04:30:00+00:00"
+    },
     {
       "id": "47129bb88d49f6665ec9",
       "source": "TGcom24",
@@ -325,13 +332,6 @@
       "title": "Istat, quasi un terzo delle famiglie ha limitato la spesa alimentare",
       "url": "https://www.tgcom24.mediaset.it/economia/istat-famiglie-limitano-spesa-alimentare_117418897-202602k.shtml",
       "published": "2026-10-08T08:30:00+00:00"
-    },
-    {
-      "id": "20f5edf0cc5d6e8c3aaf",
-      "source": "TGcom24",
-      "title": "Maltempo in Toscana: scoperchiato il tetto di un asilo a Viareggio",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/allerta-maltempo-toscana-scuole-chiuse_117409536-202602k.shtml",
-      "published": "2026-10-08T07:45:00+00:00"
     },
     {
       "id": "96007bbd37904fbd0147",
