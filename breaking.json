@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-09T06:01:58.676474+00:00",
+  "updated_at": "2026-10-09T06:21:18.459904+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T06:01:58.676474+00:00"
+      "checked_at": "2026-10-09T06:21:18.459904+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T06:01:58.676474+00:00"
+      "checked_at": "2026-10-09T06:21:18.459904+00:00"
     }
   },
   "items": [
@@ -82,6 +82,13 @@
       "published": "2026-10-08T23:11:10+00:00"
     },
     {
+      "id": "4aa98fd42389a1926dd6",
+      "source": "BBC News",
+      "title": "​​USS Lincoln docks in San Diego after 10-month mission",
+      "url": "https://www.bbc.co.uk/news/videos/cwp8gnp14xr2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T22:26:10+00:00"
+    },
+    {
       "id": "12d8075782bfe42f94e4",
       "source": "TGcom24",
       "title": "Proteste in Francia, il ministro dell'Istruzione: \"3mila supplenti nei licei più critici\"",
@@ -115,13 +122,6 @@
       "title": "Garlasco, nel 2007 il pm non autorizzò Garofano a entrare in casa Poggi",
       "url": "https://www.tgcom24.mediaset.it/cronaca/delitto-di-garlasco-ris-garofano-impronte-dna_117440770-202602k.shtml",
       "published": "2026-10-08T20:05:00+00:00"
-    },
-    {
-      "id": "fe2b3098af79d25c4ec6",
-      "source": "BBC News",
-      "title": "BBC on Hurricane Isaias and its expected Gulf Coast landfall",
-      "url": "https://www.bbc.co.uk/news/videos/ckz65l2gne1po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T19:39:32+00:00"
     },
     {
       "id": "34230821a09824ddd7f6",
