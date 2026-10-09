@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-09T14:18:27.008455+00:00",
+  "updated_at": "2026-10-09T14:38:30.904291+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T14:18:27.008455+00:00"
+      "checked_at": "2026-10-09T14:38:30.904291+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T14:18:27.008455+00:00"
+      "checked_at": "2026-10-09T14:38:30.904291+00:00"
     }
   },
   "items": [
+    {
+      "id": "f005ad3007c326209113",
+      "source": "BBC News",
+      "title": "Two Renoir paintings stolen from French museum are recovered",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T14:25:18+00:00"
+    },
+    {
+      "id": "344591d095321ef3a8a2",
+      "source": "TGcom24",
+      "title": "Nobel per la Pace a Pillay, Trump: \"Vergognoso premio a un'odiatrice dell'America\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/premio-nobel-pace-navanethem-navi-pillay_117451940-202602k.shtml",
+      "published": "2026-10-09T14:22:00+00:00"
+    },
     {
       "id": "9c47461cfed566a0a19e",
       "source": "BBC News",
@@ -66,13 +80,6 @@
       "title": "ICE agent shoots man in New York City",
       "url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T12:18:52+00:00"
-    },
-    {
-      "id": "f005ad3007c326209113",
-      "source": "BBC News",
-      "title": "Two Renoir paintings stolen from French museum are recovered",
-      "url": "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T12:05:12+00:00"
     },
     {
       "id": "6e811e0be77cee468cd0",
@@ -332,13 +339,6 @@
       "title": "Attacco cyber alla Farnesina, autori gli hacker russi Noname",
       "url": "https://www.tgcom24.mediaset.it/politica/farnesina-attacco-hacker-informatica-protezione-cybersicurezza_117435681-202602k.shtml",
       "published": "2026-10-08T19:22:00+00:00"
-    },
-    {
-      "id": "36f5dc60c96bbda6ce46",
-      "source": "TGcom24",
-      "title": "Proteste studentesche in Francia, oltre 500 fermi e quasi 50 agenti feriti",
-      "url": "https://www.tgcom24.mediaset.it/mondo/proteste-studenti-francia-piano-prof-assenti_117432418-202602k.shtml",
-      "published": "2026-10-08T18:50:00+00:00"
     },
     {
       "id": "45daae4f026f85d8aba6",
