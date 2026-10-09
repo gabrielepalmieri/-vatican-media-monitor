@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-09T05:34:15.542618+00:00",
+  "updated_at": "2026-10-09T05:52:02.864433+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T05:34:15.542618+00:00"
+      "checked_at": "2026-10-09T05:52:02.864433+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T05:34:15.542618+00:00"
+      "checked_at": "2026-10-09T05:52:02.864433+00:00"
     }
   },
   "items": [
+    {
+      "id": "bcf5e9f2b1f9ec5b6f42",
+      "source": "TGcom24",
+      "title": "Attacco ucraino nella regione russa di Belgorod: due morti",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-9-ottobre_117444274-202602k.shtml",
+      "published": "2026-10-09T05:50:00+00:00"
+    },
     {
       "id": "7e1d5419d038101fde82",
       "source": "TGcom24",
@@ -19,11 +26,25 @@
       "published": "2026-10-09T05:06:00+00:00"
     },
     {
+      "id": "41960ae00549164618d4",
+      "source": "BBC News",
+      "title": "As freezing winter approaches, Kyiv residents look for shelter elsewhere",
+      "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T04:53:50+00:00"
+    },
+    {
       "id": "2cecc2be9a14df22f539",
       "source": "TGcom24",
       "title": "New York, agente dell'Ice spara e ferisce un uomo nel Bronx: proteste",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-new-york-agente-ice-proteste-bronx_117443852-202602k.shtml",
       "published": "2026-10-09T04:30:00+00:00"
+    },
+    {
+      "id": "88f95936944be04b87ed",
+      "source": "BBC News",
+      "title": "ICE agent shoots man in New York City",
+      "url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T04:26:19+00:00"
     },
     {
       "id": "47129bb88d49f6665ec9",
@@ -327,25 +348,11 @@
       "published": "2026-10-08T09:45:00+00:00"
     },
     {
-      "id": "f09c98964bab8325acf1",
-      "source": "TGcom24",
-      "title": "Tragedia nel Padovano: investito da un furgone, bimbo muore due giorni dopo",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/tragedia-nel-padovano-investito-da-un-furgone-bimbo-muore-due-giorni-dopo_117421972-202602k.shtml",
-      "published": "2026-10-08T09:19:00+00:00"
-    },
-    {
       "id": "96007bbd37904fbd0147",
       "source": "BBC News",
       "title": "Spanish pensioner whose eviction sparked nationwide protests dies",
       "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-08T07:15:45+00:00"
-    },
-    {
-      "id": "6a0764acc6679990c58d",
-      "source": "BBC News",
-      "title": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
-      "url": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T05:10:40+00:00"
     },
     {
       "id": "46f310a56f1b1b1baa92",
@@ -374,13 +381,6 @@
       "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
       "url": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-08T03:02:06+00:00"
-    },
-    {
-      "id": "186f38508e8a145144a0",
-      "source": "BBC News",
-      "title": "Trump wants a new Camp David-like retreat at his Florida golf club",
-      "url": "https://www.bbc.co.uk/news/articles/c9gkvxjvl7v3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T03:00:50+00:00"
     },
     {
       "id": "8fe53782569c37a302ca",
