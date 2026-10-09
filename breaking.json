@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-09T16:53:13.404193+00:00",
+  "updated_at": "2026-10-09T17:08:22.277643+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T16:53:13.404193+00:00"
+      "checked_at": "2026-10-09T17:08:22.277643+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T16:53:13.404193+00:00"
+      "checked_at": "2026-10-09T17:08:22.277643+00:00"
     }
   },
   "items": [
+    {
+      "id": "50ddef6c5e80ae410842",
+      "source": "TGcom24",
+      "title": "Procura Emirati: copilota volo Flydubai voleva strage come l'11 settembre",
+      "url": "https://www.tgcom24.mediaset.it/mondo/volo-flydubai-copilota-voleva-strage-11-settembre_117468664-202602k.shtml",
+      "published": "2026-10-09T17:02:00+00:00"
+    },
     {
       "id": "a33f29a34a1c3d54a558",
       "source": "BBC News",
@@ -360,13 +367,6 @@
       "title": "Proteste in Francia, il ministro dell'Istruzione: \"3mila supplenti nei licei più critici\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/proteste-studenti-francia-piano-prof-assenti_117432418-202602k.shtml",
       "published": "2026-10-08T22:04:00+00:00"
-    },
-    {
-      "id": "9c1384a7bd91b4e934cf",
-      "source": "TGcom24",
-      "title": "Strage Fort Hood, Hegseth: la fucilazione del killer sarà pubblica e in diretta streaming",
-      "url": "https://www.tgcom24.mediaset.it/mondo/fucilazione-live-diretta-streaming-fort-hood-malik-hasan-usa_117443208-202602k.shtml",
-      "published": "2026-10-08T21:31:00+00:00"
     }
   ]
 }
