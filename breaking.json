@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-09T13:12:00.324808+00:00",
+  "updated_at": "2026-10-09T13:30:28.845421+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T13:12:00.324808+00:00"
+      "checked_at": "2026-10-09T13:30:28.845421+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T13:12:00.324808+00:00"
+      "checked_at": "2026-10-09T13:30:28.845421+00:00"
     }
   },
   "items": [
+    {
+      "id": "7ba1dd1fbb07e14f373d",
+      "source": "TGcom24",
+      "title": "Crans-Montana, ospedali svizzeri chiedono 1,6 milioni di euro a famiglie italiane",
+      "url": "https://www.tgcom24.mediaset.it/mondo/crans-montana-gli-ospedali-svizzeri-chiedono-1-6-milioni-di-euro-alle-famiglie-italiane_117461452-202602k.shtml",
+      "published": "2026-10-09T13:20:00+00:00"
+    },
     {
       "id": "cc0c236770935ba6a926",
       "source": "TGcom24",
@@ -325,13 +332,6 @@
       "title": "Attacco hacker al sito della Farnesina: \"Effetti mitigati dalla protezione\"",
       "url": "https://www.tgcom24.mediaset.it/politica/farnesina-attacco-hacker-informatica-protezione-cybersicurezza_117435681-202602k.shtml",
       "published": "2026-10-08T18:17:00+00:00"
-    },
-    {
-      "id": "615bef460245cf5ef79c",
-      "source": "TGcom24",
-      "title": "Ex Ilva Taranto, stop alle attività dell'area a caldo e via alla cassa integrazione",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/ex-ilva-taranto-sospensione-attivita-area-a-caldo_117438994-202602k.shtml",
-      "published": "2026-10-08T17:48:00+00:00"
     },
     {
       "id": "45daae4f026f85d8aba6",
