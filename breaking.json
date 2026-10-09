@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-09T06:21:18.459904+00:00",
+  "updated_at": "2026-10-09T06:45:08.368199+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T06:21:18.459904+00:00"
+      "checked_at": "2026-10-09T06:45:08.368199+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T06:21:18.459904+00:00"
+      "checked_at": "2026-10-09T06:45:08.368199+00:00"
     }
   },
   "items": [
+    {
+      "id": "ef63fb34d7609ed18bff",
+      "source": "TGcom24",
+      "title": "Sciopero dei trasporti: a Milano si fermano per 24 ore metro, tram e bus",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/sciopero-metro-bus-milano-trasporto-pubblico-locale-venerdi-9-ottobre_117444003-202602k.shtml",
+      "published": "2026-10-09T06:30:00+00:00"
+    },
     {
       "id": "bcf5e9f2b1f9ec5b6f42",
       "source": "TGcom24",
@@ -31,6 +38,13 @@
       "title": "As freezing winter approaches, Kyiv residents look for shelter elsewhere",
       "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T04:53:50+00:00"
+    },
+    {
+      "id": "dbf0f95b1fb68e75ee97",
+      "source": "BBC News",
+      "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T04:44:22+00:00"
     },
     {
       "id": "2cecc2be9a14df22f539",
@@ -77,7 +91,7 @@
     {
       "id": "0e9bb1751e551c95d8d1",
       "source": "BBC News",
-      "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC from Ukrainian prison",
+      "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
       "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-08T23:11:10+00:00"
     },
@@ -222,13 +236,6 @@
       "published": "2026-10-08T15:10:00+00:00"
     },
     {
-      "id": "6647bcd27813d603abf3",
-      "source": "BBC News",
-      "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T15:02:32+00:00"
-    },
-    {
       "id": "1f473832d2341e327e70",
       "source": "TGcom24",
       "title": "Davide Iacopini aggredito, I'attore operato d'urgenza alla testa a Roma",
@@ -341,13 +348,6 @@
       "published": "2026-10-08T10:20:00+00:00"
     },
     {
-      "id": "77b550c875f900c6384e",
-      "source": "TGcom24",
-      "title": "Polonia, 15enne entra in una scuola elementare con un coltello e uccide una donna",
-      "url": "https://www.tgcom24.mediaset.it/mondo/polonia-nuovo-attacco-scuola-donna-uccisa_117422159-202602k.shtml",
-      "published": "2026-10-08T09:45:00+00:00"
-    },
-    {
       "id": "96007bbd37904fbd0147",
       "source": "BBC News",
       "title": "Spanish pensioner whose eviction sparked nationwide protests dies",
@@ -409,13 +409,6 @@
       "title": "How toxic haze is causing Singapore’s landmarks to disappear",
       "url": "https://www.bbc.co.uk/news/videos/cmp8g7gel3xlo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-07T22:10:20+00:00"
-    },
-    {
-      "id": "64e60d29e8c66cae2caa",
-      "source": "BBC News",
-      "title": "Eritrean troops move deep into Ethiopia's Tigray region, residents tell BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckvgd63rj92lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T18:40:52+00:00"
     }
   ]
 }
