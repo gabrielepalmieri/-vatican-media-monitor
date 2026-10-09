@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-09T13:46:26.896171+00:00",
+  "updated_at": "2026-10-09T14:01:54.626633+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T13:46:26.896171+00:00"
+      "checked_at": "2026-10-09T14:01:54.626633+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T13:46:26.896171+00:00"
+      "checked_at": "2026-10-09T14:01:54.626633+00:00"
     }
   },
   "items": [
+    {
+      "id": "9c47461cfed566a0a19e",
+      "source": "BBC News",
+      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+      "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T13:50:25+00:00"
+    },
     {
       "id": "2ebe1f3580eee5511782",
       "source": "TGcom24",
@@ -115,13 +122,6 @@
       "title": "Bergamo, imprenditore edile muore schiacciato da un mini escavatore",
       "url": "https://www.tgcom24.mediaset.it/cronaca/bergamo-imprenditore-edile-morto-schiacciato_117450728-202602k.shtml",
       "published": "2026-10-09T10:17:00+00:00"
-    },
-    {
-      "id": "9c47461cfed566a0a19e",
-      "source": "BBC News",
-      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-      "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T10:07:04+00:00"
     },
     {
       "id": "52aa1b7c356403360a90",
