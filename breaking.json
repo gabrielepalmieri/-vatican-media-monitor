@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-09T11:01:34.626257+00:00",
+  "updated_at": "2026-10-09T11:14:56.129563+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T11:01:34.626257+00:00"
+      "checked_at": "2026-10-09T11:14:56.129563+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T11:01:34.626257+00:00"
+      "checked_at": "2026-10-09T11:14:56.129563+00:00"
     }
   },
   "items": [
+    {
+      "id": "d3275d1fbfb98832263a",
+      "source": "BBC News",
+      "title": "Crazy Rich Asians to return as TV show with original film's stars",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T10:54:21+00:00"
+    },
     {
       "id": "dff0d0bbef19357e6609",
       "source": "TGcom24",
@@ -381,13 +388,6 @@
       "title": "Residents airlifted to safety after flooding in central Chile",
       "url": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-08T11:31:22+00:00"
-    },
-    {
-      "id": "96007bbd37904fbd0147",
-      "source": "BBC News",
-      "title": "Spanish pensioner whose eviction sparked nationwide protests dies",
-      "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T07:15:45+00:00"
     },
     {
       "id": "46f310a56f1b1b1baa92",
