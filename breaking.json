@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-10-09T17:22:32.314446+00:00",
+  "updated_at": "2026-10-09T17:35:55.791891+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T17:22:32.314446+00:00"
+      "checked_at": "2026-10-09T17:35:55.791891+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T17:22:32.314446+00:00"
+      "checked_at": "2026-10-09T17:35:55.791891+00:00"
     }
   },
   "items": [
+    {
+      "id": "982e9fe69fe3b4c5b074",
+      "source": "TGcom24",
+      "title": "Salerno, tir precipita da un viadotto sulla A2 e si incendia: morto l'autista",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/salerno-tir-precipitato-a2-morto-autista-sicignano-degli-alburni_117469146-202602k.shtml",
+      "published": "2026-10-09T17:30:00+00:00"
+    },
+    {
+      "id": "efeb2352eaef4a418b1d",
+      "source": "TGcom24",
+      "title": "Mattarella ha promulgato la legge elettorale",
+      "url": "https://www.tgcom24.mediaset.it/politica/mattarella-ha-promulgato-la-legge-elettorale_117469684-202602k.shtml",
+      "published": "2026-10-09T17:29:00+00:00"
+    },
+    {
+      "id": "b497f91a4cb10f97dd44",
+      "source": "BBC News",
+      "title": "US immigration officials defend ICE agents who shot man in same car as child",
+      "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T17:20:20+00:00"
+    },
     {
       "id": "d97b2238b5e3d62e9d3d",
       "source": "BBC News",
@@ -136,13 +157,6 @@
       "title": "Operaio morto a Caivano, arrestato il datore di lavoro",
       "url": "https://www.tgcom24.mediaset.it/cronaca/napoli-caivano-operaio-morto-arresto_117459542-202602k.shtml",
       "published": "2026-10-09T12:25:00+00:00"
-    },
-    {
-      "id": "88f95936944be04b87ed",
-      "source": "BBC News",
-      "title": "ICE agent shoots man in New York City",
-      "url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T12:18:52+00:00"
     },
     {
       "id": "6e811e0be77cee468cd0",
@@ -327,13 +341,6 @@
       "published": "2026-10-09T04:30:00+00:00"
     },
     {
-      "id": "47129bb88d49f6665ec9",
-      "source": "TGcom24",
-      "title": "Ex Ilva, i sindacati: \"Da lunedì 12 ottobre sciopero nazionale di 24 ore in tutti i siti\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/ex-ilva-sciopero-nazionale-24-ore-sindacati-taranto_117443708-202602k.shtml",
-      "published": "2026-10-09T04:00:00+00:00"
-    },
-    {
       "id": "0ec0ec25a41dfa7d4e03",
       "source": "BBC News",
       "title": "Adidas sues Australian label White Fox over four stripes design",
@@ -367,13 +374,6 @@
       "title": "​​USS Lincoln finally docks in San Diego after 10-month mission",
       "url": "https://www.bbc.co.uk/news/videos/cwp8gnp14xr2o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-08T22:26:10+00:00"
-    },
-    {
-      "id": "12d8075782bfe42f94e4",
-      "source": "TGcom24",
-      "title": "Proteste in Francia, il ministro dell'Istruzione: \"3mila supplenti nei licei più critici\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/proteste-studenti-francia-piano-prof-assenti_117432418-202602k.shtml",
-      "published": "2026-10-08T22:04:00+00:00"
     }
   ]
 }
