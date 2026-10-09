@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-09T12:32:36.405539+00:00",
+  "updated_at": "2026-10-09T12:53:19.336060+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T12:32:36.405539+00:00"
+      "checked_at": "2026-10-09T12:53:19.336060+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T12:32:36.405539+00:00"
+      "checked_at": "2026-10-09T12:53:19.336060+00:00"
     }
   },
   "items": [
+    {
+      "id": "cc0c236770935ba6a926",
+      "source": "TGcom24",
+      "title": "Pescara, uccise la moglie a colpi di pistola in strada: condannato all'ergastolo",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/pescara-uccide-moglie-ergastolo-antonio-mancini_117460188-202602k.shtml",
+      "published": "2026-10-09T12:48:00+00:00"
+    },
     {
       "id": "6aefc159e8d4102ab2fe",
       "source": "TGcom24",
@@ -98,7 +105,7 @@
     {
       "id": "52aa1b7c356403360a90",
       "source": "BBC News",
-      "title": "Watch: Fleeing Kyiv for the countryside ahead of winter",
+      "title": "Fleeing Kyiv for the countryside ahead of winter",
       "url": "https://www.bbc.co.uk/news/videos/cqe8rn83088zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T10:00:49+00:00"
     },
@@ -115,6 +122,13 @@
       "title": "Morte avvelenate da ricina, perquisizione nel liceo delle sorelle Di Vita",
       "url": "https://www.tgcom24.mediaset.it/cronaca/giallo-ricina-perquisizione-scuola-sorelle_117453205-202602k.shtml",
       "published": "2026-10-09T09:41:00+00:00"
+    },
+    {
+      "id": "5b408e6d8744cd19e85f",
+      "source": "BBC News",
+      "title": "Why is it so hard to put out Indonesian fires shrouding the region in toxic smog?",
+      "url": "https://www.bbc.co.uk/news/videos/c862y63x657no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T09:37:56+00:00"
     },
     {
       "id": "9325f4032b8acd9da71f",
@@ -269,13 +283,6 @@
       "title": "Proteste in Francia, il ministro dell'Istruzione: \"3mila supplenti nei licei più critici\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/proteste-studenti-francia-piano-prof-assenti_117432418-202602k.shtml",
       "published": "2026-10-08T22:04:00+00:00"
-    },
-    {
-      "id": "e99f942074bd84df4b38",
-      "source": "BBC News",
-      "title": "What Americans think about the death penalty",
-      "url": "https://www.bbc.co.uk/news/videos/cjx236wl9416o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T21:49:14+00:00"
     },
     {
       "id": "9c1384a7bd91b4e934cf",
