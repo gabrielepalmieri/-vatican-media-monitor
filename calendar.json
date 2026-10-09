@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-09T05:26:47.474733+00:00",
+  "updated_at": "2026-10-09T22:25:47.208632+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-10-09T05:26:47.474733+00:00",
+  "un_verified_at": "2026-10-09T22:25:47.208632+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,17 +1918,6 @@
     }
   ],
   "days": {
-    "2026-10-08": {
-      "saints": [
-        {
-          "title": "Santa Pelagia, vergine e martire di Antiochia",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/08/santa-pelagia--vergine-e-martire-di-antiochia.html"
-        }
-      ],
-      "un": [],
-      "un_available": true,
-      "holy_see": []
-    },
     "2026-10-09": {
       "saints": [
         {
@@ -2547,6 +2536,22 @@
         }
       ],
       "un": [],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-11-14": {
+      "saints": [
+        {
+          "title": "San Serapio",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/14/san-serapio.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata mondiale del diabete",
+          "url": "https://www.un.org/en/observances/diabetes-day"
+        }
+      ],
       "un_available": true,
       "holy_see": []
     }
