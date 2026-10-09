@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-09T22:24:19.445797+00:00",
+  "updated_at": "2026-10-09T22:41:39.090105+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T22:24:19.445797+00:00"
+      "checked_at": "2026-10-09T22:41:39.090105+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T22:24:19.445797+00:00"
+      "checked_at": "2026-10-09T22:41:39.090105+00:00"
     }
   },
   "items": [
@@ -166,6 +166,13 @@
       "published": "2026-10-09T16:32:22+00:00"
     },
     {
+      "id": "006fe39c07fc43d15976",
+      "source": "BBC News",
+      "title": "Tornado rips through Sicilian town and city",
+      "url": "https://www.bbc.co.uk/news/videos/cm4g1wwl0lxko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T16:25:00+00:00"
+    },
+    {
       "id": "855bfd7bcdac1d1d0849",
       "source": "TGcom24",
       "title": "Olanda, Italia e altri 6 Paesi contro sanzioni Usa a Cpi: \"Forte sostegno a Corte\"",
@@ -304,13 +311,6 @@
       "title": "Bergamo, imprenditore edile muore schiacciato da un mini escavatore",
       "url": "https://www.tgcom24.mediaset.it/cronaca/bergamo-imprenditore-edile-morto-schiacciato_117450728-202602k.shtml",
       "published": "2026-10-09T10:17:00+00:00"
-    },
-    {
-      "id": "52aa1b7c356403360a90",
-      "source": "BBC News",
-      "title": "Fleeing Kyiv for the countryside ahead of winter",
-      "url": "https://www.bbc.co.uk/news/videos/cqe8rn83088zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T10:00:49+00:00"
     },
     {
       "id": "643a7b97334655794f2f",
