@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-09T07:04:35.317304+00:00",
+  "updated_at": "2026-10-09T07:25:37.340549+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T07:04:35.317304+00:00"
+      "checked_at": "2026-10-09T07:25:37.340549+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T07:04:35.317304+00:00"
+      "checked_at": "2026-10-09T07:25:37.340549+00:00"
     }
   },
   "items": [
+    {
+      "id": "3aadf529289d29f759f4",
+      "source": "BBC News",
+      "title": "Firing squad execution to be livestreamed, Pentagon says",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T07:05:05+00:00"
+    },
+    {
+      "id": "a4008752a9486b52ca81",
+      "source": "TGcom24",
+      "title": "Toscana, rubate 30mila bottiglie di vino pregiato per un valore di 5 milioni",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/maxi-furto-vino-antinori-cortona-bottiglie-rubate_117446021-202602k.shtml",
+      "published": "2026-10-09T07:05:00+00:00"
+    },
     {
       "id": "ef63fb34d7609ed18bff",
       "source": "TGcom24",
@@ -35,7 +49,7 @@
     {
       "id": "41960ae00549164618d4",
       "source": "BBC News",
-      "title": "As freezing winter approaches, Kyiv residents look for shelter elsewhere",
+      "title": "Russian strikes and approaching winter force many in Kyiv to pack bags and flee",
       "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T04:53:50+00:00"
     },
@@ -75,13 +89,6 @@
       "published": "2026-10-09T03:36:41+00:00"
     },
     {
-      "id": "3aadf529289d29f759f4",
-      "source": "BBC News",
-      "title": "Firing squad execution to be livestreamed, Pentagon says",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T03:36:12+00:00"
-    },
-    {
       "id": "5906604cc90cf59e7847",
       "source": "BBC News",
       "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
@@ -98,7 +105,7 @@
     {
       "id": "4aa98fd42389a1926dd6",
       "source": "BBC News",
-      "title": "​​USS Lincoln docks in San Diego after 10-month mission",
+      "title": "​​USS Lincoln finally docks in San Diego after 10-month mission",
       "url": "https://www.bbc.co.uk/news/videos/cwp8gnp14xr2o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-08T22:26:10+00:00"
     },
@@ -339,13 +346,6 @@
       "title": "La riforma elettorale è legge, via libera dalla Camera con 227 sì",
       "url": "https://www.tgcom24.mediaset.it/politica/la-riforma-elettorale-e-legge-via-libera-dalla-camera-con-227-si_117425615-202602k.shtml",
       "published": "2026-10-08T10:45:00+00:00"
-    },
-    {
-      "id": "a0257c68c193819db856",
-      "source": "TGcom24",
-      "title": "Teramo, 16enne preso a schiaffi dai coetanei: zigomo fratturato",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/teramo-aggressione-scuola-schiaffo-frattura-zigomo_117422158-202602k.shtml",
-      "published": "2026-10-08T10:20:00+00:00"
     },
     {
       "id": "96007bbd37904fbd0147",
