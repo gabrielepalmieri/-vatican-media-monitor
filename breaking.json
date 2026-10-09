@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-09T07:25:37.340549+00:00",
+  "updated_at": "2026-10-09T07:43:10.681964+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T07:25:37.340549+00:00"
+      "checked_at": "2026-10-09T07:43:10.681964+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T07:25:37.340549+00:00"
+      "checked_at": "2026-10-09T07:43:10.681964+00:00"
     }
   },
   "items": [
+    {
+      "id": "58729b77668a73bd4c43",
+      "source": "TGcom24",
+      "title": "Roma, aggressioni con minicar: c'è un primo identikit",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/roma-aggressioni-minicar-primo-identikit_117445142-202602k.shtml",
+      "published": "2026-10-09T07:35:00+00:00"
+    },
     {
       "id": "3aadf529289d29f759f4",
       "source": "BBC News",
@@ -339,13 +346,6 @@
       "title": "Premio Nobel per la Letteratura alla canadese Anne Carson",
       "url": "https://www.tgcom24.mediaset.it/mondo/premio-nobel-letteratura-anne-carson_117426576-202602k.shtml",
       "published": "2026-10-08T11:12:00+00:00"
-    },
-    {
-      "id": "5a910977d6d7a984d89a",
-      "source": "TGcom24",
-      "title": "La riforma elettorale è legge, via libera dalla Camera con 227 sì",
-      "url": "https://www.tgcom24.mediaset.it/politica/la-riforma-elettorale-e-legge-via-libera-dalla-camera-con-227-si_117425615-202602k.shtml",
-      "published": "2026-10-08T10:45:00+00:00"
     },
     {
       "id": "96007bbd37904fbd0147",
