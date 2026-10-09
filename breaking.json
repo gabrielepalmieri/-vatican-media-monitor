@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-09T21:58:39.324536+00:00",
+  "updated_at": "2026-10-09T22:09:04.503519+00:00",
   "sources": {
     "TGcom24": {
-      "ok": true,
-      "checked_at": "2026-10-09T21:58:39.324536+00:00"
+      "ok": false,
+      "checked_at": "2026-10-09T22:09:04.503519+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T21:58:39.324536+00:00"
+      "checked_at": "2026-10-09T22:09:04.503519+00:00"
     }
   },
   "items": [
+    {
+      "id": "cecf4bde13d3af406409",
+      "source": "BBC News",
+      "title": "Commentator Katie Zacharia picked as new White House press secretary",
+      "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T22:00:21+00:00"
+    },
     {
       "id": "2e892f2390d39cce5c0f",
       "source": "BBC News",
@@ -52,13 +59,6 @@
       "title": "Panama, hotel a Penonomé collassato dopo la scossa",
       "url": "https://www.tgcom24.mediaset.it/2026/video/panama-un-hotel-a-penonome-completamente-collassato-dopo-la-scossa-_117477159-02k.shtml",
       "published": "2026-10-09T21:10:00+00:00"
-    },
-    {
-      "id": "cecf4bde13d3af406409",
-      "source": "BBC News",
-      "title": "Commentator Katie Zacharia picked as new White House press secretary",
-      "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T21:08:04+00:00"
     },
     {
       "id": "084f41b49cf2e8e5e195",
