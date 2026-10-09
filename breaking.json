@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-09T08:43:32.334882+00:00",
+  "updated_at": "2026-10-09T09:00:28.597936+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T08:43:32.334882+00:00"
+      "checked_at": "2026-10-09T09:00:28.597936+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T08:43:32.334882+00:00"
+      "checked_at": "2026-10-09T09:00:28.597936+00:00"
     }
   },
   "items": [
+    {
+      "id": "775ffc25a3d11aca3086",
+      "source": "TGcom24",
+      "title": "Doppia tromba marina nel Trapanese: danni e feriti",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/tromba-marina-trapani-marsala_117450028-202602k.shtml",
+      "published": "2026-10-09T08:45:00+00:00"
+    },
     {
       "id": "dbf0f95b1fb68e75ee97",
       "source": "BBC News",
@@ -31,6 +38,13 @@
       "title": "Roma, aggressioni con minicar: c'è un primo identikit",
       "url": "https://www.tgcom24.mediaset.it/cronaca/roma-aggressioni-minicar-primo-identikit_117445142-202602k.shtml",
       "published": "2026-10-09T07:35:00+00:00"
+    },
+    {
+      "id": "b99d70fd03ce2074a65a",
+      "source": "BBC News",
+      "title": "Meet India's feisty Gen Z protester who is taking on Modi",
+      "url": "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T07:19:24+00:00"
     },
     {
       "id": "3aadf529289d29f759f4",
@@ -77,7 +91,7 @@
     {
       "id": "41960ae00549164618d4",
       "source": "BBC News",
-      "title": "Russian strikes and approaching winter force many in Kyiv to pack bags and flee",
+      "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
       "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T04:53:50+00:00"
     },
@@ -334,13 +348,6 @@
       "published": "2026-10-08T12:01:55+00:00"
     },
     {
-      "id": "11ada30216df1a52c1e1",
-      "source": "TGcom24",
-      "title": "Maltempo, nel Napoletano tratta in salvo automobilista bloccata in un sottopasso",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/allerta-maltempo-toscana-scuole-chiuse_117409536-202602k.shtml",
-      "published": "2026-10-08T12:00:00+00:00"
-    },
-    {
       "id": "fea126e6bfcc00593a3e",
       "source": "BBC News",
       "title": "Bear kills man in home attack near Mongolian capital",
@@ -402,13 +409,6 @@
       "title": "Why Zimbabwe tycoon 'Sir Wicknell' was loved and hated in Africa",
       "url": "https://www.bbc.co.uk/news/articles/c3x2wlplnelxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-07T23:29:15+00:00"
-    },
-    {
-      "id": "9bd9b51fcd423a4351bc",
-      "source": "BBC News",
-      "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-07T23:18:40+00:00"
     },
     {
       "id": "6e7285e24fe00943c341",
