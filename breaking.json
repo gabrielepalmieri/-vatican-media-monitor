@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-09T13:30:28.845421+00:00",
+  "updated_at": "2026-10-09T13:46:26.896171+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-09T13:30:28.845421+00:00"
+      "checked_at": "2026-10-09T13:46:26.896171+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-09T13:30:28.845421+00:00"
+      "checked_at": "2026-10-09T13:46:26.896171+00:00"
     }
   },
   "items": [
+    {
+      "id": "2ebe1f3580eee5511782",
+      "source": "TGcom24",
+      "title": "Pillay dedica il Nobel per la Pace ai sopravvissuti di crimini internazionali",
+      "url": "https://www.tgcom24.mediaset.it/mondo/oslo-premio-nobel-pace-navanethem-navi-pillay_117451940-202602k.shtml",
+      "published": "2026-10-09T13:40:00+00:00"
+    },
+    {
+      "id": "ab67512059393220f8ec",
+      "source": "BBC News",
+      "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
+      "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T13:31:07+00:00"
+    },
     {
       "id": "7ba1dd1fbb07e14f373d",
       "source": "TGcom24",
@@ -327,13 +341,6 @@
       "published": "2026-10-08T18:50:00+00:00"
     },
     {
-      "id": "9ebb3ab2ab5301020d6a",
-      "source": "TGcom24",
-      "title": "Attacco hacker al sito della Farnesina: \"Effetti mitigati dalla protezione\"",
-      "url": "https://www.tgcom24.mediaset.it/politica/farnesina-attacco-hacker-informatica-protezione-cybersicurezza_117435681-202602k.shtml",
-      "published": "2026-10-08T18:17:00+00:00"
-    },
-    {
       "id": "45daae4f026f85d8aba6",
       "source": "BBC News",
       "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
@@ -409,13 +416,6 @@
       "title": "Residents airlifted to safety after flooding in central Chile",
       "url": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-08T11:31:22+00:00"
-    },
-    {
-      "id": "46f310a56f1b1b1baa92",
-      "source": "BBC News",
-      "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T05:06:09+00:00"
     }
   ]
 }
