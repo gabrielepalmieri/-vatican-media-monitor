@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-10T06:38:52.644043+00:00",
+  "updated_at": "2026-10-10T06:55:42.970750+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-10T06:38:52.644043+00:00"
+      "checked_at": "2026-10-10T06:55:42.970750+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-10T06:38:52.644043+00:00"
+      "checked_at": "2026-10-10T06:55:42.970750+00:00"
     }
   },
   "items": [
+    {
+      "id": "700a77dea26f9a85d526",
+      "source": "BBC News",
+      "title": "Hurricane Isaias downgraded after making landfall in Florida",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T06:54:16+00:00"
+    },
     {
       "id": "bc7d8691f1d9ffc37c4e",
       "source": "TGcom24",
@@ -94,13 +101,6 @@
       "title": "US country music star Ella Langley cancels show due to 'security threat'",
       "url": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-10T02:02:54+00:00"
-    },
-    {
-      "id": "700a77dea26f9a85d526",
-      "source": "BBC News",
-      "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T01:58:56+00:00"
     },
     {
       "id": "b497f91a4cb10f97dd44",
