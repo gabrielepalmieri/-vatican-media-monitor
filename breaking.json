@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-10T17:07:48.176870+00:00",
+  "updated_at": "2026-10-10T17:20:39.518929+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-10T17:07:48.176870+00:00"
+      "checked_at": "2026-10-10T17:20:39.518929+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-10T17:07:48.176870+00:00"
+      "checked_at": "2026-10-10T17:20:39.518929+00:00"
     }
   },
   "items": [
+    {
+      "id": "3e1e34279c0fdee4e002",
+      "source": "TGcom24",
+      "title": "Trump all'attacco di Zelensky: \"E' il momento di nuovo presidente ucraino\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-10-ottobre_117484247-202602k.shtml",
+      "published": "2026-10-10T17:15:00+00:00"
+    },
     {
       "id": "d01b66ce98c8a9103965",
       "source": "BBC News",
@@ -276,13 +283,6 @@
       "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
       "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T22:30:22+00:00"
-    },
-    {
-      "id": "1bec687fecbd9c146bed",
-      "source": "TGcom24",
-      "title": "Florida, il governatore cancella un'esecuzione con l'iniezione letale",
-      "url": "https://www.tgcom24.mediaset.it/mondo/florida-cancellata-esecuzione-iniezione-letale_117478433-202602k.shtml",
-      "published": "2026-10-09T22:11:00+00:00"
     },
     {
       "id": "2e892f2390d39cce5c0f",
