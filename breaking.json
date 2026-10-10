@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-10T14:49:04.650500+00:00",
+  "updated_at": "2026-10-10T14:57:58.137147+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-10T14:49:04.650500+00:00"
+      "checked_at": "2026-10-10T14:57:58.137147+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-10T14:49:04.650500+00:00"
+      "checked_at": "2026-10-10T14:57:58.137147+00:00"
     }
   },
   "items": [
+    {
+      "id": "8fc17464d5be31fe9527",
+      "source": "BBC News",
+      "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T14:49:32+00:00"
+    },
     {
       "id": "b710545cba8433f155a5",
       "source": "BBC News",
@@ -222,13 +229,6 @@
       "published": "2026-10-09T23:24:33+00:00"
     },
     {
-      "id": "cecf4bde13d3af406409",
-      "source": "BBC News",
-      "title": "Commentator Katie Zacharia picked as new White House press secretary",
-      "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T22:41:21+00:00"
-    },
-    {
       "id": "3e2edcd99910d36adc03",
       "source": "BBC News",
       "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
@@ -264,13 +264,6 @@
       "published": "2026-10-09T21:43:00+00:00"
     },
     {
-      "id": "a004e5ae0cf6aa58ac99",
-      "source": "BBC News",
-      "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
-      "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T21:26:30+00:00"
-    },
-    {
       "id": "20cf4151b8f332547c82",
       "source": "TGcom24",
       "title": "Panama, hotel a Penonomé collassato dopo la scossa",
@@ -304,13 +297,6 @@
       "title": "Thai Queen makes first solo flight in fighter jet",
       "url": "https://www.bbc.co.uk/news/videos/cqm263x40y37o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T19:48:26+00:00"
-    },
-    {
-      "id": "334519597fa110ffdc01",
-      "source": "BBC News",
-      "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T18:40:10+00:00"
     },
     {
       "id": "d97b2238b5e3d62e9d3d",
