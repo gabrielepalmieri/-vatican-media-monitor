@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-10T03:54:46.727079+00:00",
+  "updated_at": "2026-10-10T04:07:53.221024+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-10T03:54:46.727079+00:00"
+      "checked_at": "2026-10-10T04:07:53.221024+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-10T03:54:46.727079+00:00"
+      "checked_at": "2026-10-10T04:07:53.221024+00:00"
     }
   },
   "items": [
+    {
+      "id": "21a4f20e37d11fc7a7b2",
+      "source": "TGcom24",
+      "title": "Trump: con Meloni ottimo rapporto, probabilmente la incontrerò al G20",
+      "url": "https://www.tgcom24.mediaset.it/mondo/trump-grande-rapporto-meloni-andiamo-d-accordo_117478437-202602k.shtml",
+      "published": "2026-10-10T04:03:00+00:00"
+    },
     {
       "id": "84aab507a195b0bccf0a",
       "source": "BBC News",
@@ -374,13 +381,6 @@
       "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
       "url": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T09:30:49+00:00"
-    },
-    {
-      "id": "313df093d0ecd2cd7a0c",
-      "source": "TGcom24",
-      "title": "Nobel per la Pace 2026 alla giurista sudafricana Navanethem \"Navi\" Pillay",
-      "url": "https://www.tgcom24.mediaset.it/mondo/oslo-premio-nobel-pace-navanethem-navi-pillay_117451940-202602k.shtml",
-      "published": "2026-10-09T09:10:00+00:00"
     },
     {
       "id": "8289957c2bff5cfe5c87",
