@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-10T20:34:52.447967+00:00",
+  "updated_at": "2026-10-10T20:49:15.237845+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-10T20:34:52.447967+00:00"
+      "checked_at": "2026-10-10T20:49:15.237845+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-10T20:34:52.447967+00:00"
+      "checked_at": "2026-10-10T20:49:15.237845+00:00"
     }
   },
   "items": [
@@ -24,6 +24,13 @@
       "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
       "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-10T19:28:28+00:00"
+    },
+    {
+      "id": "b17b955575645bb4e18f",
+      "source": "BBC News",
+      "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
+      "url": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T19:25:03+00:00"
     },
     {
       "id": "59da8c6f8a6007b77396",
@@ -236,13 +243,6 @@
       "published": "2026-10-10T07:59:00+00:00"
     },
     {
-      "id": "3a0ef0c04c2602fd1239",
-      "source": "TGcom24",
-      "title": "Treviso, 13enne tenta suicidio a scuola: \"Era vittima di bullismo\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/treviso-scuola-media-bullismo-tentato-suicidio_117479843-202602k.shtml",
-      "published": "2026-10-10T07:03:00+00:00"
-    },
-    {
       "id": "9c9c4665222f598e9da1",
       "source": "BBC News",
       "title": "How the trial of murdered Australian brothers and US friend unfolded",
@@ -334,13 +334,6 @@
       "published": "2026-10-09T16:32:22+00:00"
     },
     {
-      "id": "006fe39c07fc43d15976",
-      "source": "BBC News",
-      "title": "Tornado rips through Sicilian town and city",
-      "url": "https://www.bbc.co.uk/news/videos/cm4g1wwl0lxko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T16:25:00+00:00"
-    },
-    {
       "id": "a55c06b0031eab8dcf9b",
       "source": "BBC News",
       "title": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
@@ -353,13 +346,6 @@
       "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
       "url": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T09:43:22+00:00"
-    },
-    {
-      "id": "5b408e6d8744cd19e85f",
-      "source": "BBC News",
-      "title": "Why is it so hard to put out Indonesian fires shrouding the region in toxic smog?",
-      "url": "https://www.bbc.co.uk/news/videos/c862y63x657no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T09:37:56+00:00"
     }
   ]
 }
