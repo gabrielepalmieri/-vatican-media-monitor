@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-10T21:21:42.732416+00:00",
+  "updated_at": "2026-10-10T21:34:53.537924+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-10T21:21:42.732416+00:00"
+      "checked_at": "2026-10-10T21:34:53.537924+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-10T21:21:42.732416+00:00"
+      "checked_at": "2026-10-10T21:34:53.537924+00:00"
     }
   },
   "items": [
+    {
+      "id": "d01b66ce98c8a9103965",
+      "source": "BBC News",
+      "title": "Several injured in attack on airport in Saudi capital Riyadh",
+      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T21:27:10+00:00"
+    },
     {
       "id": "c86dbd42dce5fa2bbac2",
       "source": "TGcom24",
@@ -66,13 +73,6 @@
       "title": "Ucraina, Mosca plaude a Trump: \"Anche lui vuole una leadership di pace per Kiev\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-10-ottobre_117484247-202602k.shtml",
       "published": "2026-10-10T18:43:00+00:00"
-    },
-    {
-      "id": "d01b66ce98c8a9103965",
-      "source": "BBC News",
-      "title": "Several injured in attack on airport in Saudi capital Riyadh",
-      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T18:37:10+00:00"
     },
     {
       "id": "398a93fefd3295804df3",
