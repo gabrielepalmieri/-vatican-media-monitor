@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-10T10:10:47.338157+00:00",
+  "updated_at": "2026-10-10T10:23:52.747180+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-10T10:10:47.338157+00:00"
+      "checked_at": "2026-10-10T10:23:52.747180+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-10T10:10:47.338157+00:00"
+      "checked_at": "2026-10-10T10:23:52.747180+00:00"
     }
   },
   "items": [
+    {
+      "id": "4f0fd402c72eb153d345",
+      "source": "BBC News",
+      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+      "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T10:06:23+00:00"
+    },
     {
       "id": "4c7f35f2f2445dfe3fb7",
       "source": "TGcom24",
@@ -143,13 +150,6 @@
       "title": "US country music star Ella Langley cancels show due to 'security threat'",
       "url": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-10T02:02:54+00:00"
-    },
-    {
-      "id": "b497f91a4cb10f97dd44",
-      "source": "BBC News",
-      "title": "US immigration officials defend ICE agents who shot man in same car as child",
-      "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T00:13:12+00:00"
     },
     {
       "id": "6b91458af33bc6107bfc",
@@ -362,27 +362,6 @@
       "published": "2026-10-09T13:50:25+00:00"
     },
     {
-      "id": "5100fa56b38e13ed6f96",
-      "source": "BBC News",
-      "title": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T11:44:49+00:00"
-    },
-    {
-      "id": "afd340d577cf6df79f3e",
-      "source": "BBC News",
-      "title": "France promises 3,000 extra teachers in first step to calm student protests",
-      "url": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T11:35:00+00:00"
-    },
-    {
-      "id": "d3275d1fbfb98832263a",
-      "source": "BBC News",
-      "title": "Crazy Rich Asians to return as TV show with original film's stars",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T10:54:21+00:00"
-    },
-    {
       "id": "643a7b97334655794f2f",
       "source": "BBC News",
       "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
@@ -397,13 +376,6 @@
       "published": "2026-10-09T09:37:56+00:00"
     },
     {
-      "id": "9325f4032b8acd9da71f",
-      "source": "BBC News",
-      "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
-      "url": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T09:30:49+00:00"
-    },
-    {
       "id": "8289957c2bff5cfe5c87",
       "source": "BBC News",
       "title": "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say",
@@ -411,39 +383,11 @@
       "published": "2026-10-09T09:09:03+00:00"
     },
     {
-      "id": "dbf0f95b1fb68e75ee97",
-      "source": "BBC News",
-      "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
-      "url": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T08:28:57+00:00"
-    },
-    {
       "id": "b99d70fd03ce2074a65a",
       "source": "BBC News",
       "title": "Meet India's feisty Gen Z protester who is taking on Modi",
       "url": "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T07:19:24+00:00"
-    },
-    {
-      "id": "0ec0ec25a41dfa7d4e03",
-      "source": "BBC News",
-      "title": "Adidas sues Australian label White Fox over four stripes design",
-      "url": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T03:36:41+00:00"
-    },
-    {
-      "id": "088dc78ba4ae2eb6faa9",
-      "source": "BBC News",
-      "title": "Christa Pike has 'profound' health turnaround after botched execution, lawyers say",
-      "url": "https://www.bbc.co.uk/news/articles/c6dxw90kdp5yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T02:09:45+00:00"
-    },
-    {
-      "id": "0e9bb1751e551c95d8d1",
-      "source": "BBC News",
-      "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T23:11:10+00:00"
     }
   ]
 }
