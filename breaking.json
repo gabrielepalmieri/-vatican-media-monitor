@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-10-10T16:49:57.332513+00:00",
+  "updated_at": "2026-10-10T16:59:08.511508+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-10T16:49:57.332513+00:00"
+      "checked_at": "2026-10-10T16:59:08.511508+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-10T16:49:57.332513+00:00"
+      "checked_at": "2026-10-10T16:59:08.511508+00:00"
     }
   },
   "items": [
+    {
+      "id": "d01b66ce98c8a9103965",
+      "source": "BBC News",
+      "title": "Several injured in attack on airport in Saudi capital Riyadh",
+      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T16:56:32+00:00"
+    },
     {
       "id": "83396ea479ae7d82b93c",
       "source": "TGcom24",
       "title": "Pennsylvania, uomo spara e uccide otto persone prima di togliersi la vita",
       "url": "https://www.tgcom24.mediaset.it/mondo/strage-pennsylvania-omicidio-suicidio_117506098-202602k.shtml",
       "published": "2026-10-10T16:40:00+00:00"
-    },
-    {
-      "id": "d01b66ce98c8a9103965",
-      "source": "BBC News",
-      "title": "Injuries reported in attack on airport in Saudi capital Riyadh",
-      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T16:37:06+00:00"
     },
     {
       "id": "388d4c7c31bc7c8bb44c",
