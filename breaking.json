@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-10T23:44:11.871126+00:00",
+  "updated_at": "2026-10-10T23:56:13.397671+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-10-10T23:44:11.871126+00:00"
+      "checked_at": "2026-10-10T23:56:13.397671+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-10T23:44:11.871126+00:00"
+      "checked_at": "2026-10-10T23:56:13.397671+00:00"
     }
   },
   "items": [
+    {
+      "id": "2de82cfb9c9eac534437",
+      "source": "BBC News",
+      "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
+      "url": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T23:31:35+00:00"
+    },
     {
       "id": "d4c5c48b0dc5704e0f2d",
       "source": "BBC News",
@@ -24,6 +31,13 @@
       "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
       "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-10T22:40:56+00:00"
+    },
+    {
+      "id": "8a2bc9951440b3a5970e",
+      "source": "BBC News",
+      "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+      "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T22:13:08+00:00"
     },
     {
       "id": "c86dbd42dce5fa2bbac2",
@@ -143,6 +157,13 @@
       "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
       "url": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-10T14:49:32+00:00"
+    },
+    {
+      "id": "b7774c768187528b6af2",
+      "source": "BBC News",
+      "title": "Why have hundreds of 'cockroach' protesters been detained in Delhi",
+      "url": "https://www.bbc.co.uk/news/videos/cqwy7p2y20gxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T14:13:13+00:00"
     },
     {
       "id": "ef9ead82cb4a80afb33c",
@@ -339,13 +360,6 @@
       "title": "Man named Hitler Mussolini elected mayor in Peru",
       "url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T16:32:22+00:00"
-    },
-    {
-      "id": "a55c06b0031eab8dcf9b",
-      "source": "BBC News",
-      "title": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
-      "url": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T15:26:33+00:00"
     }
   ]
 }
