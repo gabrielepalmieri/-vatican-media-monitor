@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-10T17:32:39.524716+00:00",
+  "updated_at": "2026-10-10T17:44:15.398843+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-10T17:32:39.524716+00:00"
+      "checked_at": "2026-10-10T17:44:15.398843+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-10T17:32:39.524716+00:00"
+      "checked_at": "2026-10-10T17:44:15.398843+00:00"
     }
   },
   "items": [
+    {
+      "id": "c57fd871e16ad46610e4",
+      "source": "BBC News",
+      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T17:31:24+00:00"
+    },
     {
       "id": "3e1e34279c0fdee4e002",
       "source": "TGcom24",
@@ -73,13 +80,6 @@
       "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
       "url": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-10T14:49:32+00:00"
-    },
-    {
-      "id": "b710545cba8433f155a5",
-      "source": "BBC News",
-      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T14:24:14+00:00"
     },
     {
       "id": "4978f89539f0e4b71234",
