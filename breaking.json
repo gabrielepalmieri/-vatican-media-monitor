@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-10T12:08:14.893367+00:00",
+  "updated_at": "2026-10-10T12:27:06.953999+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-10T12:08:14.893367+00:00"
+      "checked_at": "2026-10-10T12:27:06.953999+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-10T12:08:14.893367+00:00"
+      "checked_at": "2026-10-10T12:27:06.953999+00:00"
     }
   },
   "items": [
+    {
+      "id": "46c999496010f18d6f42",
+      "source": "TGcom24",
+      "title": "Maltempo a Bari, allagata cripta della Basilica di San Nicola",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/maltempo-allerta-meteo-oggi-news_117482912-202602k.shtml",
+      "published": "2026-10-10T12:07:00+00:00"
+    },
     {
       "id": "700a77dea26f9a85d526",
       "source": "BBC News",
@@ -24,6 +31,13 @@
       "title": "Verona, bimba travolta da un'auto nel cortile di casa: è gravissima",
       "url": "https://www.tgcom24.mediaset.it/cronaca/verona-bambina-travolta-auto-cortile_117491938-202602k.shtml",
       "published": "2026-10-10T11:37:00+00:00"
+    },
+    {
+      "id": "4978f89539f0e4b71234",
+      "source": "BBC News",
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T11:17:15+00:00"
     },
     {
       "id": "5dc7a10f8fd5184a064c",
@@ -299,13 +313,6 @@
       "published": "2026-10-09T18:00:00+00:00"
     },
     {
-      "id": "efeb2352eaef4a418b1d",
-      "source": "TGcom24",
-      "title": "Mattarella ha promulgato la legge elettorale",
-      "url": "https://www.tgcom24.mediaset.it/politica/mattarella-ha-promulgato-la-legge-elettorale_117469684-202602k.shtml",
-      "published": "2026-10-09T17:29:00+00:00"
-    },
-    {
       "id": "d97b2238b5e3d62e9d3d",
       "source": "BBC News",
       "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
@@ -341,20 +348,6 @@
       "published": "2026-10-09T15:24:43+00:00"
     },
     {
-      "id": "f005ad3007c326209113",
-      "source": "BBC News",
-      "title": "Two Renoir paintings stolen from French museum are recovered",
-      "url": "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T14:25:18+00:00"
-    },
-    {
-      "id": "9c47461cfed566a0a19e",
-      "source": "BBC News",
-      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-      "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T13:50:25+00:00"
-    },
-    {
       "id": "643a7b97334655794f2f",
       "source": "BBC News",
       "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
@@ -367,13 +360,6 @@
       "title": "Why is it so hard to put out Indonesian fires shrouding the region in toxic smog?",
       "url": "https://www.bbc.co.uk/news/videos/c862y63x657no?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T09:37:56+00:00"
-    },
-    {
-      "id": "8289957c2bff5cfe5c87",
-      "source": "BBC News",
-      "title": "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say",
-      "url": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T09:09:03+00:00"
     },
     {
       "id": "b99d70fd03ce2074a65a",
