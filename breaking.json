@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-10T11:49:25.295793+00:00",
+  "updated_at": "2026-10-10T11:58:08.881991+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-10T11:49:25.295793+00:00"
+      "checked_at": "2026-10-10T11:58:08.881991+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-10T11:49:25.295793+00:00"
+      "checked_at": "2026-10-10T11:58:08.881991+00:00"
     }
   },
   "items": [
+    {
+      "id": "700a77dea26f9a85d526",
+      "source": "BBC News",
+      "title": "Hurricane Isaias downgraded after making landfall in Florida",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T11:55:12+00:00"
+    },
     {
       "id": "9f48eb3533de35a63e92",
       "source": "TGcom24",
@@ -66,13 +73,6 @@
       "title": "Anthropic: \"Sistemi Ia hanno compiuto azioni non intenzionali su siti governativi\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/anthropic-sistemi-intelligenza-artificiale-azioni-non-intenzionali-siti-governativi_117483524-202602k.shtml",
       "published": "2026-10-10T08:31:00+00:00"
-    },
-    {
-      "id": "700a77dea26f9a85d526",
-      "source": "BBC News",
-      "title": "Hurricane Isaias downgraded after making landfall in Florida",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T08:29:59+00:00"
     },
     {
       "id": "00f33797ca076fa853a9",
