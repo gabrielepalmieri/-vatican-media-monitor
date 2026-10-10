@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-10T06:55:42.970750+00:00",
+  "updated_at": "2026-10-10T07:08:15.612829+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-10T06:55:42.970750+00:00"
+      "checked_at": "2026-10-10T07:08:15.612829+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-10T06:55:42.970750+00:00"
+      "checked_at": "2026-10-10T07:08:15.612829+00:00"
     }
   },
   "items": [
+    {
+      "id": "3a0ef0c04c2602fd1239",
+      "source": "TGcom24",
+      "title": "Treviso, 13enne tenta suicidio a scuola: \"Era vittima di bullismo\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/treviso-scuola-media-bullismo-tentato-suicidio_117479843-202602k.shtml",
+      "published": "2026-10-10T07:03:00+00:00"
+    },
     {
       "id": "700a77dea26f9a85d526",
       "source": "BBC News",
@@ -360,13 +367,6 @@
       "title": "Operaio morto a Caivano, arrestato il datore di lavoro",
       "url": "https://www.tgcom24.mediaset.it/cronaca/napoli-caivano-operaio-morto-arresto_117459542-202602k.shtml",
       "published": "2026-10-09T12:25:00+00:00"
-    },
-    {
-      "id": "6e811e0be77cee468cd0",
-      "source": "TGcom24",
-      "title": "Nobel per la Pace, Israele: \"Goebbels applaude dall'inferno per premio a Pillay\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/oslo-premio-nobel-pace-navanethem-navi-pillay_117451940-202602k.shtml",
-      "published": "2026-10-09T11:55:00+00:00"
     },
     {
       "id": "5100fa56b38e13ed6f96",
