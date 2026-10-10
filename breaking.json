@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-10T17:44:15.398843+00:00",
+  "updated_at": "2026-10-10T17:56:19.435458+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-10T17:44:15.398843+00:00"
+      "checked_at": "2026-10-10T17:56:19.435458+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-10T17:44:15.398843+00:00"
+      "checked_at": "2026-10-10T17:56:19.435458+00:00"
     }
   },
   "items": [
+    {
+      "id": "83ace8393851deee6a1e",
+      "source": "TGcom24",
+      "title": "Arabia Saudita, chiuso l'aeroporto di Riad dopo l'attacco degli Houthi",
+      "url": "https://www.tgcom24.mediaset.it/mondo/yemen-arabia-saudita-contro-houthi_117485695-202602k.shtml",
+      "published": "2026-10-10T17:45:00+00:00"
+    },
+    {
+      "id": "388d4c7c31bc7c8bb44c",
+      "source": "BBC News",
+      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T17:44:26+00:00"
+    },
     {
       "id": "c57fd871e16ad46610e4",
       "source": "BBC News",
@@ -38,13 +52,6 @@
       "title": "Pennsylvania, uomo spara e uccide otto persone prima di togliersi la vita",
       "url": "https://www.tgcom24.mediaset.it/mondo/strage-pennsylvania-omicidio-suicidio_117506098-202602k.shtml",
       "published": "2026-10-10T16:40:00+00:00"
-    },
-    {
-      "id": "388d4c7c31bc7c8bb44c",
-      "source": "BBC News",
-      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T16:30:21+00:00"
     },
     {
       "id": "e2eca2135029885b674c",
@@ -248,13 +255,6 @@
       "title": "Diesel, media: \"Accordo Trump-Putin dopo che Zelensky ha ignorato le richieste Usa\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/trump-accordo-putin-diesel-zelensky-continua-attacchi-raffinerie_117478516-202602k.shtml",
       "published": "2026-10-10T04:32:00+00:00"
-    },
-    {
-      "id": "21a4f20e37d11fc7a7b2",
-      "source": "TGcom24",
-      "title": "Trump: con Meloni ottimo rapporto, probabilmente la incontrerò al G20",
-      "url": "https://www.tgcom24.mediaset.it/mondo/trump-grande-rapporto-meloni-andiamo-d-accordo_117478437-202602k.shtml",
-      "published": "2026-10-10T04:03:00+00:00"
     },
     {
       "id": "78c4b96e080db4565a8a",
