@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-10T08:52:58.603882+00:00",
+  "updated_at": "2026-10-10T09:00:10.412272+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-10T08:52:58.603882+00:00"
+      "checked_at": "2026-10-10T09:00:10.412272+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-10T08:52:58.603882+00:00"
+      "checked_at": "2026-10-10T09:00:10.412272+00:00"
     }
   },
   "items": [
+    {
+      "id": "b78d39bd2d7ba3761a9f",
+      "source": "TGcom24",
+      "title": "Zaporizhzhia, sale bilancio delle vittime: \"Almeno otto morti, tra cui tre bambini\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-10-ottobre_117484247-202602k.shtml",
+      "published": "2026-10-10T09:00:00+00:00"
+    },
     {
       "id": "f4ef9d129553287325d2",
       "source": "TGcom24",
@@ -353,13 +360,6 @@
       "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
       "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T13:50:25+00:00"
-    },
-    {
-      "id": "2ebe1f3580eee5511782",
-      "source": "TGcom24",
-      "title": "Pillay dedica il Nobel per la Pace ai sopravvissuti di crimini internazionali",
-      "url": "https://www.tgcom24.mediaset.it/mondo/oslo-premio-nobel-pace-navanethem-navi-pillay_117451940-202602k.shtml",
-      "published": "2026-10-09T13:40:00+00:00"
     },
     {
       "id": "5100fa56b38e13ed6f96",
