@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-10T05:24:39.086245+00:00",
+  "updated_at": "2026-10-10T22:23:39.195343+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-10-10T05:24:39.086245+00:00",
+  "un_verified_at": "2026-10-10T22:23:39.195343+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,30 +1918,6 @@
     }
   ],
   "days": {
-    "2026-10-09": {
-      "saints": [
-        {
-          "title": "Ss. Dionigi, vescovo, e compagni, martiri di Parigi",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/09/ss--dionigi--vescovo--e-compagni--martiri-di-parigi.html"
-        },
-        {
-          "title": "San Giovanni Leonardi, fondatore dei Chierici Regolari della Madre di Dio",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/09/san-giovanni-leonardi--fondatore-dei-chierici-regolari-della-mad.html"
-        },
-        {
-          "title": "Sant'Abramo, patriarca",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/09/sant-abramo--patriarca.html"
-        }
-      ],
-      "un": [
-        {
-          "title": "Giornata mondiale della posta",
-          "url": "https://www.un.org/en/observances/world-post-day"
-        }
-      ],
-      "un_available": true,
-      "holy_see": []
-    },
     "2026-10-10": {
       "saints": [
         {
@@ -2554,6 +2530,39 @@
       ],
       "un_available": true,
       "holy_see": []
+    },
+    "2026-11-15": {
+      "saints": [
+        {
+          "title": "Sant'Alberto Magno, vescovo e dottore della Chiesa, domenicano",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/15/sant-alberto-magno--vescovo-e-dottore-della-chiesa--domenicano.html"
+        },
+        {
+          "title": "San Giuseppe Pignatelli, sacerdote gesuita",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/15/san-giuseppe-pignatelli--sacerdote-gesuita.html"
+        },
+        {
+          "title": "San Macuto (Maclovio)",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/15/san-macuto-o-maclovio.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata internazionale per la prevenzione e la lotta contro tutte le forme di criminalità organizzata transnazionale",
+          "url": "https://www.un.org/en/observances/fight-against-transnational-crime-day"
+        },
+        {
+          "title": "Giornata mondiale in ricordo delle vittime della strada",
+          "url": "https://www.un.org/en/observances/road-traffic-victims-day"
+        }
+      ],
+      "un_available": true,
+      "holy_see": [
+        {
+          "title": "Giornata mondiale dei poveri",
+          "url": "https://www.vatican.va/content/leo-xiv/it/messages/poor.html"
+        }
+      ]
     }
   }
 }
