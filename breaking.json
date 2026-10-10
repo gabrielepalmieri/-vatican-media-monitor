@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-10T20:49:15.237845+00:00",
+  "updated_at": "2026-10-10T20:58:28.411064+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-10T20:49:15.237845+00:00"
+      "checked_at": "2026-10-10T20:58:28.411064+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-10T20:49:15.237845+00:00"
+      "checked_at": "2026-10-10T20:58:28.411064+00:00"
     }
   },
   "items": [
+    {
+      "id": "4978f89539f0e4b71234",
+      "source": "BBC News",
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T20:51:12+00:00"
+    },
     {
       "id": "3b26e7e3d547ee3fc1cd",
       "source": "TGcom24",
@@ -129,13 +136,6 @@
       "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
       "url": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-10T14:49:32+00:00"
-    },
-    {
-      "id": "4978f89539f0e4b71234",
-      "source": "BBC News",
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T14:16:50+00:00"
     },
     {
       "id": "ef9ead82cb4a80afb33c",
