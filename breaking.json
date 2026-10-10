@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-10T16:22:02.401357+00:00",
+  "updated_at": "2026-10-10T16:35:48.432955+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-10T16:22:02.401357+00:00"
+      "checked_at": "2026-10-10T16:35:48.432955+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-10T16:22:02.401357+00:00"
+      "checked_at": "2026-10-10T16:35:48.432955+00:00"
     }
   },
   "items": [
+    {
+      "id": "388d4c7c31bc7c8bb44c",
+      "source": "BBC News",
+      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T16:30:21+00:00"
+    },
     {
       "id": "e2eca2135029885b674c",
       "source": "TGcom24",
@@ -24,13 +31,6 @@
       "title": "Several injured as Saudi capital airport reportedly hit again",
       "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-10T16:05:18+00:00"
-    },
-    {
-      "id": "388d4c7c31bc7c8bb44c",
-      "source": "BBC News",
-      "title": "Christa Pike discharged from hospital and returned to prison, her lawyers say",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T15:58:06+00:00"
     },
     {
       "id": "044e72511bb7ffc9dd14",
