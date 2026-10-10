@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-10T08:24:41.500605+00:00",
+  "updated_at": "2026-10-10T08:41:48.991587+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-10T08:24:41.500605+00:00"
+      "checked_at": "2026-10-10T08:41:48.991587+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-10T08:24:41.500605+00:00"
+      "checked_at": "2026-10-10T08:41:48.991587+00:00"
     }
   },
   "items": [
+    {
+      "id": "f4ef9d129553287325d2",
+      "source": "TGcom24",
+      "title": "Anthropic: \"Sistemi Ia hanno compiuto azioni non intenzionali su siti governativi\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/anthropic-sistemi-intelligenza-artificiale-azioni-non-intenzionali-siti-governativi_117483524-202602k.shtml",
+      "published": "2026-10-10T08:31:00+00:00"
+    },
+    {
+      "id": "700a77dea26f9a85d526",
+      "source": "BBC News",
+      "title": "Hurricane Isaias downgraded after making landfall in Florida",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T08:29:59+00:00"
+    },
     {
       "id": "00f33797ca076fa853a9",
       "source": "TGcom24",
@@ -24,13 +38,6 @@
       "title": "Treviso, 13enne tenta suicidio a scuola: \"Era vittima di bullismo\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/treviso-scuola-media-bullismo-tentato-suicidio_117479843-202602k.shtml",
       "published": "2026-10-10T07:03:00+00:00"
-    },
-    {
-      "id": "700a77dea26f9a85d526",
-      "source": "BBC News",
-      "title": "Hurricane Isaias downgraded after making landfall in Florida",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T06:54:16+00:00"
     },
     {
       "id": "bc7d8691f1d9ffc37c4e",
@@ -353,13 +360,6 @@
       "title": "Pillay dedica il Nobel per la Pace ai sopravvissuti di crimini internazionali",
       "url": "https://www.tgcom24.mediaset.it/mondo/oslo-premio-nobel-pace-navanethem-navi-pillay_117451940-202602k.shtml",
       "published": "2026-10-09T13:40:00+00:00"
-    },
-    {
-      "id": "7ba1dd1fbb07e14f373d",
-      "source": "TGcom24",
-      "title": "Crans-Montana, ospedali svizzeri chiedono 1,6 milioni di euro a famiglie italiane",
-      "url": "https://www.tgcom24.mediaset.it/mondo/crans-montana-gli-ospedali-svizzeri-chiedono-1-6-milioni-di-euro-alle-famiglie-italiane_117461452-202602k.shtml",
-      "published": "2026-10-09T13:20:00+00:00"
     },
     {
       "id": "5100fa56b38e13ed6f96",
