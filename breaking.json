@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-10T19:11:02.172835+00:00",
+  "updated_at": "2026-10-10T19:23:49.750783+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-10T19:11:02.172835+00:00"
+      "checked_at": "2026-10-10T19:23:49.750783+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-10T19:11:02.172835+00:00"
+      "checked_at": "2026-10-10T19:23:49.750783+00:00"
     }
   },
   "items": [
+    {
+      "id": "d4c5c48b0dc5704e0f2d",
+      "source": "BBC News",
+      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T19:08:17+00:00"
+    },
     {
       "id": "b4d44fa939a9caa7b0cc",
       "source": "TGcom24",
@@ -353,13 +360,6 @@
       "title": "Why is it so hard to put out Indonesian fires shrouding the region in toxic smog?",
       "url": "https://www.bbc.co.uk/news/videos/c862y63x657no?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T09:37:56+00:00"
-    },
-    {
-      "id": "b99d70fd03ce2074a65a",
-      "source": "BBC News",
-      "title": "Meet India's feisty Gen Z protester who is taking on Modi",
-      "url": "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T07:19:24+00:00"
     }
   ]
 }
