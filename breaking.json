@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-10T11:34:05.272710+00:00",
+  "updated_at": "2026-10-10T11:49:25.295793+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-10T11:34:05.272710+00:00"
+      "checked_at": "2026-10-10T11:49:25.295793+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-10T11:34:05.272710+00:00"
+      "checked_at": "2026-10-10T11:49:25.295793+00:00"
     }
   },
   "items": [
+    {
+      "id": "9f48eb3533de35a63e92",
+      "source": "TGcom24",
+      "title": "Verona, bimba travolta da un'auto nel cortile di casa: è gravissima",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/verona-bambina-travolta-auto-cortile_117491938-202602k.shtml",
+      "published": "2026-10-10T11:37:00+00:00"
+    },
     {
       "id": "5dc7a10f8fd5184a064c",
       "source": "TGcom24",
@@ -304,13 +311,6 @@
       "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
       "url": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T17:14:44+00:00"
-    },
-    {
-      "id": "50ddef6c5e80ae410842",
-      "source": "TGcom24",
-      "title": "Procura Emirati: copilota volo Flydubai voleva strage come l'11 settembre",
-      "url": "https://www.tgcom24.mediaset.it/mondo/volo-flydubai-copilota-voleva-strage-11-settembre_117468664-202602k.shtml",
-      "published": "2026-10-09T17:02:00+00:00"
     },
     {
       "id": "a33f29a34a1c3d54a558",
