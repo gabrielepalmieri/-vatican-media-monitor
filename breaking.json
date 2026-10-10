@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-10-10T23:05:54.096429+00:00",
+  "updated_at": "2026-10-10T23:21:02.748352+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-10-10T23:05:54.096429+00:00"
+      "checked_at": "2026-10-10T23:21:02.748352+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-10T23:05:54.096429+00:00"
+      "checked_at": "2026-10-10T23:21:02.748352+00:00"
     }
   },
   "items": [
+    {
+      "id": "d4c5c48b0dc5704e0f2d",
+      "source": "BBC News",
+      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T23:19:55+00:00"
+    },
     {
       "id": "d01b66ce98c8a9103965",
       "source": "BBC News",
       "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
       "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-10T22:40:56+00:00"
-    },
-    {
-      "id": "d4c5c48b0dc5704e0f2d",
-      "source": "BBC News",
-      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-      "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T22:02:07+00:00"
     },
     {
       "id": "c86dbd42dce5fa2bbac2",
