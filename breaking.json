@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-10T04:23:16.897005+00:00",
+  "updated_at": "2026-10-10T04:44:00.274359+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-10T04:23:16.897005+00:00"
+      "checked_at": "2026-10-10T04:44:00.274359+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-10T04:23:16.897005+00:00"
+      "checked_at": "2026-10-10T04:44:00.274359+00:00"
     }
   },
   "items": [
+    {
+      "id": "b710545cba8433f155a5",
+      "source": "BBC News",
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T04:38:20+00:00"
+    },
+    {
+      "id": "d839f2420bd4d31fb02c",
+      "source": "TGcom24",
+      "title": "Diesel, media: \"Accordo Trump-Putin dopo che Zelensky ha ignorato le richieste Usa'\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/trump-accordo-putin-diesel-zelensky-continua-attacchi-raffinerie_117478516-202602k.shtml",
+      "published": "2026-10-10T04:32:00+00:00"
+    },
     {
       "id": "21a4f20e37d11fc7a7b2",
       "source": "TGcom24",
@@ -31,13 +45,6 @@
       "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
       "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-10T01:58:56+00:00"
-    },
-    {
-      "id": "b710545cba8433f155a5",
-      "source": "BBC News",
-      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T00:45:51+00:00"
     },
     {
       "id": "b497f91a4cb10f97dd44",
@@ -360,13 +367,6 @@
       "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
       "url": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T09:43:22+00:00"
-    },
-    {
-      "id": "7cc3c34df42fab6dabb9",
-      "source": "TGcom24",
-      "title": "Morte avvelenate da ricina, perquisizione nel liceo delle sorelle Di Vita",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/giallo-ricina-perquisizione-scuola-sorelle_117453205-202602k.shtml",
-      "published": "2026-10-09T09:41:00+00:00"
     },
     {
       "id": "5b408e6d8744cd19e85f",
