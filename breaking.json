@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-10T05:09:27.814118+00:00",
+  "updated_at": "2026-10-10T05:23:31.627488+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-10T05:09:27.814118+00:00"
+      "checked_at": "2026-10-10T05:23:31.627488+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-10T05:09:27.814118+00:00"
+      "checked_at": "2026-10-10T05:23:31.627488+00:00"
     }
   },
   "items": [
@@ -19,6 +19,13 @@
       "published": "2026-10-10T05:06:00+00:00"
     },
     {
+      "id": "444713fdc3261958ba29",
+      "source": "BBC News",
+      "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T04:51:57+00:00"
+    },
+    {
       "id": "b710545cba8433f155a5",
       "source": "BBC News",
       "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
@@ -26,11 +33,25 @@
       "published": "2026-10-10T04:38:20+00:00"
     },
     {
+      "id": "c86743eccce1ac20a597",
+      "source": "BBC News",
+      "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+      "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T04:34:55+00:00"
+    },
+    {
       "id": "d839f2420bd4d31fb02c",
       "source": "TGcom24",
       "title": "Diesel, media: \"Accordo Trump-Putin dopo che Zelensky ha ignorato le richieste Usa'\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/trump-accordo-putin-diesel-zelensky-continua-attacchi-raffinerie_117478516-202602k.shtml",
       "published": "2026-10-10T04:32:00+00:00"
+    },
+    {
+      "id": "68062e5d71e56c451edf",
+      "source": "BBC News",
+      "title": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
+      "url": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T04:07:11+00:00"
     },
     {
       "id": "21a4f20e37d11fc7a7b2",
@@ -45,6 +66,20 @@
       "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
       "url": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-10T03:29:50+00:00"
+    },
+    {
+      "id": "9c9c4665222f598e9da1",
+      "source": "BBC News",
+      "title": "How the trial of two murdered Australian surfers ended in a guilty verdict",
+      "url": "https://www.bbc.co.uk/news/videos/cr86z34vz95yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T02:21:10+00:00"
+    },
+    {
+      "id": "78c4b96e080db4565a8a",
+      "source": "BBC News",
+      "title": "US country music star Ella Langley cancels show due to 'security threat'",
+      "url": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T02:02:54+00:00"
     },
     {
       "id": "700a77dea26f9a85d526",
@@ -94,13 +129,6 @@
       "title": "Florida, il governatore cancella un'esecuzione con l'iniezione letale",
       "url": "https://www.tgcom24.mediaset.it/mondo/florida-cancellata-esecuzione-iniezione-letale_117478433-202602k.shtml",
       "published": "2026-10-09T22:11:00+00:00"
-    },
-    {
-      "id": "2e892f2390d39cce5c0f",
-      "source": "BBC News",
-      "title": "Three men found guilty of murdering two Australian surfer brothers and US friend",
-      "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T21:55:51+00:00"
     },
     {
       "id": "93e49cacb2a5ef9a2154",
@@ -187,13 +215,6 @@
       "published": "2026-10-09T18:00:00+00:00"
     },
     {
-      "id": "c797b06cf304e7f160e0",
-      "source": "BBC News",
-      "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
-      "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T17:37:10+00:00"
-    },
-    {
       "id": "efeb2352eaef4a418b1d",
       "source": "TGcom24",
       "title": "Mattarella ha promulgato la legge elettorale",
@@ -234,13 +255,6 @@
       "title": "Olanda, Italia e altri 6 Paesi contro sanzioni Usa a Cpi: \"Forte sostegno a Corte\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-sanzioni-corte-penale-internazionale_117464803-202602k.shtml",
       "published": "2026-10-09T16:24:00+00:00"
-    },
-    {
-      "id": "bb4e8645ee788d42a21f",
-      "source": "BBC News",
-      "title": "Watch: 'I am Jane Doe' protests across US call for end to sexual violence",
-      "url": "https://www.bbc.co.uk/news/videos/cmy83pp3904vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T16:19:36+00:00"
     },
     {
       "id": "a55c06b0031eab8dcf9b",
@@ -402,13 +416,6 @@
       "title": "Meet India's feisty Gen Z protester who is taking on Modi",
       "url": "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T07:19:24+00:00"
-    },
-    {
-      "id": "41960ae00549164618d4",
-      "source": "BBC News",
-      "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
-      "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T04:53:50+00:00"
     },
     {
       "id": "0ec0ec25a41dfa7d4e03",
