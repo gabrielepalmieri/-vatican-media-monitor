@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-10-10T15:49:35.611281+00:00",
+  "updated_at": "2026-10-10T15:57:52.142299+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-10T15:49:35.611281+00:00"
+      "checked_at": "2026-10-10T15:57:52.142299+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-10T15:49:35.611281+00:00"
+      "checked_at": "2026-10-10T15:57:52.142299+00:00"
     }
   },
   "items": [
+    {
+      "id": "388d4c7c31bc7c8bb44c",
+      "source": "BBC News",
+      "title": "Christa Pike discharged from hospital and returned to prison, her lawyers say",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T15:53:04+00:00"
+    },
     {
       "id": "044e72511bb7ffc9dd14",
       "source": "TGcom24",
       "title": "Proteste in India: migliaia di arresti, anche il leader del Partito delle blatte",
       "url": "https://www.tgcom24.mediaset.it/mondo/proteste-india-partito-delle-blatte_117502033-202602k.shtml",
       "published": "2026-10-10T15:31:00+00:00"
-    },
-    {
-      "id": "388d4c7c31bc7c8bb44c",
-      "source": "BBC News",
-      "title": "Christa Pike discharged from hospital and returned to prison, her lawyers say",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T15:28:10+00:00"
     },
     {
       "id": "44397c60c245dcb65d61",
