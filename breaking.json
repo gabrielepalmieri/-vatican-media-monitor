@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-10T09:24:54.000562+00:00",
+  "updated_at": "2026-10-10T09:41:34.419966+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-10T09:24:54.000562+00:00"
+      "checked_at": "2026-10-10T09:41:34.419966+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-10T09:24:54.000562+00:00"
+      "checked_at": "2026-10-10T09:41:34.419966+00:00"
     }
   },
   "items": [
+    {
+      "id": "e497ceb29d5bcd4eeba3",
+      "source": "TGcom24",
+      "title": "Terremoto di magnitudo 3.3 lungo la costa della Calabria sud occidentale",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/terremoto-calabria-costa_117485666-202602k.shtml",
+      "published": "2026-10-10T09:26:00+00:00"
+    },
     {
       "id": "f9a2f191d364756671c9",
       "source": "BBC News",
@@ -346,13 +353,6 @@
       "title": "Two Renoir paintings stolen from French museum are recovered",
       "url": "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T14:25:18+00:00"
-    },
-    {
-      "id": "344591d095321ef3a8a2",
-      "source": "TGcom24",
-      "title": "Nobel per la Pace a Pillay, Trump: \"Vergognoso premio a un'odiatrice dell'America\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/premio-nobel-pace-navanethem-navi-pillay_117451940-202602k.shtml",
-      "published": "2026-10-09T14:22:00+00:00"
     },
     {
       "id": "9c47461cfed566a0a19e",
