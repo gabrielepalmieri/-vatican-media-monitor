@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-10T10:00:23.881808+00:00",
+  "updated_at": "2026-10-10T10:10:47.338157+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-10T10:00:23.881808+00:00"
+      "checked_at": "2026-10-10T10:10:47.338157+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-10T10:00:23.881808+00:00"
+      "checked_at": "2026-10-10T10:10:47.338157+00:00"
     }
   },
   "items": [
+    {
+      "id": "4c7f35f2f2445dfe3fb7",
+      "source": "TGcom24",
+      "title": "Maltempo nel Reggino, muri caduti e auto trascinate fino al mare",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/maltempo-allerta-meteo-oggi-news_117482912-202602k.shtml",
+      "published": "2026-10-10T10:02:00+00:00"
+    },
     {
       "id": "e497ceb29d5bcd4eeba3",
       "source": "TGcom24",
@@ -339,13 +346,6 @@
       "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
       "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T15:24:43+00:00"
-    },
-    {
-      "id": "89d49fe334dd0a47296f",
-      "source": "TGcom24",
-      "title": "Governo Usa impone sanzioni alla Corte penale internazionale",
-      "url": "https://www.tgcom24.mediaset.it/mondo/usa-sanzioni-corte-penale-internazionale_117464803-202602k.shtml",
-      "published": "2026-10-09T14:57:00+00:00"
     },
     {
       "id": "f005ad3007c326209113",
