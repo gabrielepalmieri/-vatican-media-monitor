@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-11T16:08:13.120645+00:00",
+  "updated_at": "2026-10-11T16:23:02.192097+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-11T16:08:13.120645+00:00"
+      "checked_at": "2026-10-11T16:23:02.192097+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-11T16:08:13.120645+00:00"
+      "checked_at": "2026-10-11T16:23:02.192097+00:00"
     }
   },
   "items": [
+    {
+      "id": "ca7dc0fc837381068a79",
+      "source": "TGcom24",
+      "title": "Ue, Von der Leyen: \"Solidarietà all'Ucraina e al presidente Zelensky\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-11-ottobre_117523430-202602k.shtml",
+      "published": "2026-10-11T16:11:00+00:00"
+    },
     {
       "id": "ffd1014546f287c5efb4",
       "source": "TGcom24",
@@ -227,13 +234,6 @@
       "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
       "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-10T22:13:08+00:00"
-    },
-    {
-      "id": "2fc975ee39cb4f6ad8d8",
-      "source": "TGcom24",
-      "title": "Missile Houthi sull'aeroporto di Riad, media: \"Almeno 12 morti e oltre 300 feriti\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/yemen-arabia-saudita-contro-houthi_117485695-202602k.shtml",
-      "published": "2026-10-10T21:57:00+00:00"
     },
     {
       "id": "4978f89539f0e4b71234",
