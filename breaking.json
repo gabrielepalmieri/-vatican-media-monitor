@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-11T19:40:10.123593+00:00",
+  "updated_at": "2026-10-11T19:50:38.404899+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-11T19:40:10.123593+00:00"
+      "checked_at": "2026-10-11T19:50:38.404899+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-11T19:40:10.123593+00:00"
+      "checked_at": "2026-10-11T19:50:38.404899+00:00"
     }
   },
   "items": [
+    {
+      "id": "c91323c0e24a4ca2d7fb",
+      "source": "TGcom24",
+      "title": "Treviso, cade da tettuccio di un'auto in corsa: gravissimo un 23enne",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/treviso-ragazzo-caduta-tettuccio-automobile-riprese-video_117568554-202602k.shtml",
+      "published": "2026-10-11T19:45:00+00:00"
+    },
     {
       "id": "b030dee0a01c1cceb17d",
       "source": "BBC News",
@@ -220,13 +227,6 @@
       "title": "Roma, denunciato il furto di minicar compatibile con quella usata nelle aggressioni",
       "url": "https://www.tgcom24.mediaset.it/cronaca/roma-banda-minicar-denunciato-furto-monteverde_117524246-202602k.shtml",
       "published": "2026-10-11T07:26:00+00:00"
-    },
-    {
-      "id": "c9ad3e6cc446295dac92",
-      "source": "TGcom24",
-      "title": "Pierferdinando Casini lascia il Parlamento: \"Non mi ricandido\"",
-      "url": "https://www.tgcom24.mediaset.it/politica/pierferdinando-casini-lascia-parlamento_117526159-202602k.shtml",
-      "published": "2026-10-11T06:43:00+00:00"
     },
     {
       "id": "ba968758fcadea235572",
