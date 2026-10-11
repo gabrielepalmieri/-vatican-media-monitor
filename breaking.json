@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-10-11T05:53:20.229420+00:00",
+  "updated_at": "2026-10-11T06:09:24.821635+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-11T05:53:20.229420+00:00"
+      "checked_at": "2026-10-11T06:09:24.821635+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-11T05:53:20.229420+00:00"
+      "checked_at": "2026-10-11T06:09:24.821635+00:00"
     }
   },
   "items": [
+    {
+      "id": "30009a89e29bbc28424c",
+      "source": "TGcom24",
+      "title": "Attacco contro l'aeroporto di Riad, Arabia Saudita: \"Risponderemo con fermezza\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/arabia-saudita-aeroporto-riad-attacco-houthi-yemen_117523602-202602k.shtml",
+      "published": "2026-10-11T05:58:00+00:00"
+    },
     {
       "id": "178c9425008e67fc6d2b",
       "source": "TGcom24",
       "title": "Usa, il Dipartimento di Giustizia indaga sui network televisivi per la copertura di Trump",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-dipartimento-giustizia-indaga-network-televisivi-donald-trump_117523599-202602k.shtml",
       "published": "2026-10-11T05:29:00+00:00"
+    },
+    {
+      "id": "ba968758fcadea235572",
+      "source": "BBC News",
+      "title": "US justice department investigates TV networks over Trump pool coverage",
+      "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T05:05:43+00:00"
     },
     {
       "id": "9b5001f4fe86b480b234",
