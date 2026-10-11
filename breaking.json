@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-11T05:26:55.213753+00:00",
+  "updated_at": "2026-10-11T05:41:16.738644+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-11T05:26:55.213753+00:00"
+      "checked_at": "2026-10-11T05:41:16.738644+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-11T05:26:55.213753+00:00"
+      "checked_at": "2026-10-11T05:41:16.738644+00:00"
     }
   },
   "items": [
+    {
+      "id": "178c9425008e67fc6d2b",
+      "source": "TGcom24",
+      "title": "Usa, il Dipartimento di Giustizia indaga sui network televisivi per la copertura di Trump",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-dipartimento-giustizia-indaga-network-televisivi-donald-trump_117523599-202602k.shtml",
+      "published": "2026-10-11T05:29:00+00:00"
+    },
     {
       "id": "9b5001f4fe86b480b234",
       "source": "TGcom24",
@@ -255,13 +262,6 @@
       "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
       "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-10T10:06:23+00:00"
-    },
-    {
-      "id": "4c7f35f2f2445dfe3fb7",
-      "source": "TGcom24",
-      "title": "Maltempo nel Reggino, muri caduti e auto trascinate fino al mare",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/maltempo-allerta-meteo-oggi-news_117482912-202602k.shtml",
-      "published": "2026-10-10T10:02:00+00:00"
     },
     {
       "id": "f9a2f191d364756671c9",
