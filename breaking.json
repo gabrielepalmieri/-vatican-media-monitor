@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-10-11T21:23:50.927795+00:00",
+  "updated_at": "2026-10-11T21:41:46.760559+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-11T21:23:50.927795+00:00"
+      "checked_at": "2026-10-11T21:41:46.760559+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-11T21:23:50.927795+00:00"
+      "checked_at": "2026-10-11T21:41:46.760559+00:00"
     }
   },
   "items": [
+    {
+      "id": "ff561d2f490256c72a3e",
+      "source": "BBC News",
+      "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T21:36:40+00:00"
+    },
+    {
+      "id": "30accc48a73dc2a8b484",
+      "source": "BBC News",
+      "title": "Saudi capital airport hit by second Houthi strike in two days",
+      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T21:30:11+00:00"
+    },
+    {
+      "id": "11876da3bd3d27bfa12d",
+      "source": "TGcom24",
+      "title": "Guerra Russia-Ucraina, media Usa: \"Viaggio di Witkoff e Kushner a Mosca è sospeso\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-11-ottobre_117523430-202602k.shtml",
+      "published": "2026-10-11T21:30:00+00:00"
+    },
     {
       "id": "af11ac501b717f05c0fc",
       "source": "BBC News",
@@ -66,13 +87,6 @@
       "title": "Ucraina, Zelensky: \"Attendiamo dettagli sulla tregua energetica dagli Usa\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-11-ottobre_117523430-202602k.shtml",
       "published": "2026-10-11T17:10:00+00:00"
-    },
-    {
-      "id": "30accc48a73dc2a8b484",
-      "source": "BBC News",
-      "title": "Saudi capital airport hit by second Houthi strike in two days",
-      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-11T16:41:37+00:00"
     },
     {
       "id": "6f0816bd3bc7f26cfb64",
@@ -227,13 +241,6 @@
       "title": "Bergamo, si barrica in casa con una pistola e minaccia il suicidio: arreso dopo 7 ore",
       "url": "https://www.tgcom24.mediaset.it/cronaca/bergamo-barrica-casa-pistola-arreso_117531231-202602k.shtml",
       "published": "2026-10-11T08:56:00+00:00"
-    },
-    {
-      "id": "f635b2dea24d1b40ea63",
-      "source": "TGcom24",
-      "title": "Napoli, incinta al settimo mese muore con la figlia: aperta un'inchiesta",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/castellamare-di-stabia-morta-incinta-greta-astarita_117528598-202602k.shtml",
-      "published": "2026-10-11T08:14:00+00:00"
     },
     {
       "id": "ba968758fcadea235572",
