@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-11T16:23:02.192097+00:00",
+  "updated_at": "2026-10-11T16:37:15.578989+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-11T16:23:02.192097+00:00"
+      "checked_at": "2026-10-11T16:37:15.578989+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-11T16:23:02.192097+00:00"
+      "checked_at": "2026-10-11T16:37:15.578989+00:00"
     }
   },
   "items": [
+    {
+      "id": "6f0816bd3bc7f26cfb64",
+      "source": "TGcom24",
+      "title": "Polonia, media: sventato presunto attentato per uccidere premier Tusk, un arresto",
+      "url": "https://www.tgcom24.mediaset.it/mondo/polonia-arrestato-presunto-attentatore-tusk_117559065-202602k.shtml",
+      "published": "2026-10-11T16:30:00+00:00"
+    },
     {
       "id": "ca7dc0fc837381068a79",
       "source": "TGcom24",
@@ -215,13 +222,6 @@
       "published": "2026-10-11T04:28:00+00:00"
     },
     {
-      "id": "640a639da9550cc0bb75",
-      "source": "TGcom24",
-      "title": "Cuba, altro blackout: al buio parte della zona orientale per un guasto",
-      "url": "https://www.tgcom24.mediaset.it/mondo/cuba-nuovo-blackout-energia-disagi-petrolio_117522926-202602k.shtml",
-      "published": "2026-10-11T04:00:00+00:00"
-    },
-    {
       "id": "2de82cfb9c9eac534437",
       "source": "BBC News",
       "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
@@ -325,13 +325,6 @@
       "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
       "url": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-10T04:51:57+00:00"
-    },
-    {
-      "id": "c86743eccce1ac20a597",
-      "source": "BBC News",
-      "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-      "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T04:34:55+00:00"
     }
   ]
 }
