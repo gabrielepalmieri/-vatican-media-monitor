@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-11T08:54:07.459862+00:00",
+  "updated_at": "2026-10-11T09:07:52.004571+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-11T08:54:07.459862+00:00"
+      "checked_at": "2026-10-11T09:07:52.004571+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-11T08:54:07.459862+00:00"
+      "checked_at": "2026-10-11T09:07:52.004571+00:00"
     }
   },
   "items": [
+    {
+      "id": "a1240e866f1c018216dd",
+      "source": "TGcom24",
+      "title": "Bergamo, si barrica in casa con una pistola e minaccia il suicidio: arreso dopo 7 ore",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/bergamo-barrica-casa-pistola-arreso_117531231-202602k.shtml",
+      "published": "2026-10-11T08:56:00+00:00"
+    },
     {
       "id": "c44435dbb969af13c0a5",
       "source": "BBC News",
@@ -241,13 +248,6 @@
       "title": "Cortei pro Pal in tutta Italia: tensioni tra manifestanti e polizia a Torino",
       "url": "https://www.tgcom24.mediaset.it/cronaca/manifestazioni-cortei-pro-pal-10-ottobre_117496976-202602k.shtml",
       "published": "2026-10-10T14:01:00+00:00"
-    },
-    {
-      "id": "da25ea2eb1a2e171da76",
-      "source": "TGcom24",
-      "title": "Usa, il Papa contro la pena di morte: \"È inammissibile\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/papa-leone-xiv-pena-di-morte-inammissibile_117495665-202602k.shtml",
-      "published": "2026-10-10T13:30:00+00:00"
     },
     {
       "id": "ab1180ab4a6410b1308d",
