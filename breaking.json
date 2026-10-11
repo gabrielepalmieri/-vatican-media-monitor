@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-11T01:24:23.001477+00:00",
+  "updated_at": "2026-10-11T01:41:49.539272+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-10-11T01:24:23.001477+00:00"
+      "checked_at": "2026-10-11T01:41:49.539272+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-11T01:24:23.001477+00:00"
+      "checked_at": "2026-10-11T01:41:49.539272+00:00"
     }
   },
   "items": [
+    {
+      "id": "c57fd871e16ad46610e4",
+      "source": "BBC News",
+      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T01:41:29+00:00"
+    },
     {
       "id": "d01b66ce98c8a9103965",
       "source": "BBC News",
@@ -59,13 +66,6 @@
       "title": "Usa, il bilancio dell'uragano Isaias: quattro morti e oltre 900mila persone al buio",
       "url": "https://www.tgcom24.mediaset.it/2026/video/usa-l-uragano-isaias-tocca-terra-in-florida-migliaia-senza-elettricita_117479651-02k.shtml",
       "published": "2026-10-10T20:03:00+00:00"
-    },
-    {
-      "id": "c57fd871e16ad46610e4",
-      "source": "BBC News",
-      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T19:28:28+00:00"
     },
     {
       "id": "b17b955575645bb4e18f",
