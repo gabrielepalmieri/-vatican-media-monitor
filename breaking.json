@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-11T21:53:49.373978+00:00",
+  "updated_at": "2026-10-11T22:06:47.989485+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-11T21:53:49.373978+00:00"
+      "checked_at": "2026-10-11T22:06:47.989485+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-11T21:53:49.373978+00:00"
+      "checked_at": "2026-10-11T22:06:47.989485+00:00"
     }
   },
   "items": [
+    {
+      "id": "46f4349291c60ad4e782",
+      "source": "TGcom24",
+      "title": "Sardegna, frana in una grotta: speleologo bloccato a dieci metri di profondità",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/sardegna-speleologo-bloccato_117573558-202602k.shtml",
+      "published": "2026-10-11T22:00:00+00:00"
+    },
     {
       "id": "ff561d2f490256c72a3e",
       "source": "BBC News",
@@ -234,13 +241,6 @@
       "title": "Allarme da 007 occidentali: Mosca vuole assassinare i vertici della difesa europea",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-11-ottobre_117523430-202602k.shtml",
       "published": "2026-10-11T09:21:00+00:00"
-    },
-    {
-      "id": "a1240e866f1c018216dd",
-      "source": "TGcom24",
-      "title": "Bergamo, si barrica in casa con una pistola e minaccia il suicidio: arreso dopo 7 ore",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/bergamo-barrica-casa-pistola-arreso_117531231-202602k.shtml",
-      "published": "2026-10-11T08:56:00+00:00"
     },
     {
       "id": "ba968758fcadea235572",
