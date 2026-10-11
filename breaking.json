@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-11T19:00:10.480580+00:00",
+  "updated_at": "2026-10-11T19:10:40.887553+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-11T19:00:10.480580+00:00"
+      "checked_at": "2026-10-11T19:10:40.887553+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-11T19:00:10.480580+00:00"
+      "checked_at": "2026-10-11T19:10:40.887553+00:00"
     }
   },
   "items": [
+    {
+      "id": "b030dee0a01c1cceb17d",
+      "source": "BBC News",
+      "title": "Orangutans released back into Borneo forest after devastating fires",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T19:08:04+00:00"
+    },
     {
       "id": "fa83b3e2bfb56acdcf78",
       "source": "TGcom24",
