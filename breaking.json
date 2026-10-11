@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-11T16:37:15.578989+00:00",
+  "updated_at": "2026-10-11T16:50:44.908417+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-11T16:37:15.578989+00:00"
+      "checked_at": "2026-10-11T16:50:44.908417+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-11T16:37:15.578989+00:00"
+      "checked_at": "2026-10-11T16:50:44.908417+00:00"
     }
   },
   "items": [
+    {
+      "id": "30accc48a73dc2a8b484",
+      "source": "BBC News",
+      "title": "Saudi capital airport hit by second strike in two days",
+      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T16:41:37+00:00"
+    },
     {
       "id": "6f0816bd3bc7f26cfb64",
       "source": "TGcom24",
@@ -236,13 +243,6 @@
       "published": "2026-10-10T22:13:08+00:00"
     },
     {
-      "id": "4978f89539f0e4b71234",
-      "source": "BBC News",
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T20:51:12+00:00"
-    },
-    {
       "id": "b17b955575645bb4e18f",
       "source": "BBC News",
       "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
@@ -278,13 +278,6 @@
       "published": "2026-10-10T14:58:55+00:00"
     },
     {
-      "id": "8fc17464d5be31fe9527",
-      "source": "BBC News",
-      "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T14:49:32+00:00"
-    },
-    {
       "id": "b7774c768187528b6af2",
       "source": "BBC News",
       "title": "Why have hundreds of 'cockroach' protesters been detained in Delhi",
@@ -297,13 +290,6 @@
       "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
       "url": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-10T12:28:51+00:00"
-    },
-    {
-      "id": "4f0fd402c72eb153d345",
-      "source": "BBC News",
-      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-      "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T10:06:23+00:00"
     },
     {
       "id": "f9a2f191d364756671c9",
