@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-11T12:14:12.632390+00:00",
+  "updated_at": "2026-10-11T12:39:21.973714+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-11T12:14:12.632390+00:00"
+      "checked_at": "2026-10-11T12:39:21.973714+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-11T12:14:12.632390+00:00"
+      "checked_at": "2026-10-11T12:39:21.973714+00:00"
     }
   },
   "items": [
+    {
+      "id": "6103e387cf5e72fae82e",
+      "source": "BBC News",
+      "title": "Pope Leo to have surgery after lump found on lung",
+      "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T12:32:23+00:00"
+    },
     {
       "id": "d0e279282b4392e69f38",
       "source": "BBC News",
@@ -26,18 +33,18 @@
       "published": "2026-10-11T12:03:52+00:00"
     },
     {
-      "id": "6103e387cf5e72fae82e",
-      "source": "BBC News",
-      "title": "Pope Leo to have surgery after lump found on lung",
-      "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-11T11:55:49+00:00"
-    },
-    {
       "id": "99a81724bca14967dfbc",
       "source": "TGcom24",
       "title": "Papa, Meloni: \"Vicina al Santo Padre, rincuorata dalla sua serenità\"",
       "url": "https://www.tgcom24.mediaset.it/politica/papa-vicinanza-bipartisan-politica_117539561-202602k.shtml",
       "published": "2026-10-11T11:55:00+00:00"
+    },
+    {
+      "id": "0db14c9efb917b2e16d8",
+      "source": "BBC News",
+      "title": "Riyadh airport attack another dangerous moment in already tense conflict",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T11:32:50+00:00"
     },
     {
       "id": "4af03e2450e730a524e4",
