@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-11T11:51:53.872211+00:00",
+  "updated_at": "2026-10-11T12:00:08.935759+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-11T11:51:53.872211+00:00"
+      "checked_at": "2026-10-11T12:00:08.935759+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-11T11:51:53.872211+00:00"
+      "checked_at": "2026-10-11T12:00:08.935759+00:00"
     }
   },
   "items": [
@@ -16,7 +16,14 @@
       "source": "BBC News",
       "title": "Pope Leo to have surgery after lump found on lung",
       "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-11T11:27:51+00:00"
+      "published": "2026-10-11T11:55:49+00:00"
+    },
+    {
+      "id": "99a81724bca14967dfbc",
+      "source": "TGcom24",
+      "title": "Papa, Meloni: \"Vicina al Santo Padre, rincuorata dalla sua serenità\"",
+      "url": "https://www.tgcom24.mediaset.it/politica/papa-vicinanza-bipartisan-politica_117539561-202602k.shtml",
+      "published": "2026-10-11T11:55:00+00:00"
     },
     {
       "id": "4af03e2450e730a524e4",
@@ -236,13 +243,6 @@
       "published": "2026-10-10T17:44:26+00:00"
     },
     {
-      "id": "3e1e34279c0fdee4e002",
-      "source": "TGcom24",
-      "title": "Trump all'attacco di Zelensky: \"È il momento di un nuovo presidente ucraino\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-10-ottobre_117484247-202602k.shtml",
-      "published": "2026-10-10T17:15:00+00:00"
-    },
-    {
       "id": "44397c60c245dcb65d61",
       "source": "BBC News",
       "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
@@ -318,13 +318,6 @@
       "title": "US country music star Ella Langley cancels show due to 'security threat'",
       "url": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-10T02:02:54+00:00"
-    },
-    {
-      "id": "6b91458af33bc6107bfc",
-      "source": "BBC News",
-      "title": "Questions remain over Ebola patient who travelled across three nations undetected",
-      "url": "https://www.bbc.co.uk/news/articles/cqp8gknl1njjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T00:00:08+00:00"
     }
   ]
 }
