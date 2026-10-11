@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-10-11T11:00:16.353930+00:00",
+  "updated_at": "2026-10-11T11:10:28.349959+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-11T11:00:16.353930+00:00"
+      "checked_at": "2026-10-11T11:10:28.349959+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-11T11:00:16.353930+00:00"
+      "checked_at": "2026-10-11T11:10:28.349959+00:00"
     }
   },
   "items": [
+    {
+      "id": "6103e387cf5e72fae82e",
+      "source": "BBC News",
+      "title": "Pope Leo to have surgery after lump found on lung",
+      "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T11:06:02+00:00"
+    },
     {
       "id": "dbb69d66b1241e1c40b8",
       "source": "TGcom24",
       "title": "Mestre, perseguitata dall'ex si chiude nel bagno di una pizzeria e lo fa arrestare",
       "url": "https://www.tgcom24.mediaset.it/cronaca/mestre-donna-perseguitata-nascosta-bagno-pizzeria-arrestato-ex-compagno_117535039-202602k.shtml",
       "published": "2026-10-11T10:55:00+00:00"
-    },
-    {
-      "id": "6103e387cf5e72fae82e",
-      "source": "BBC News",
-      "title": "Pope Leo to have surgery after lump found on lung",
-      "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-11T10:53:52+00:00"
     },
     {
       "id": "43e19b6d0bb330f2cd67",
