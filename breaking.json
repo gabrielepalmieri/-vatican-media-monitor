@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-11T10:23:30.438513+00:00",
+  "updated_at": "2026-10-11T10:41:08.004080+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-11T10:23:30.438513+00:00"
+      "checked_at": "2026-10-11T10:41:08.004080+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-11T10:23:30.438513+00:00"
+      "checked_at": "2026-10-11T10:41:08.004080+00:00"
     }
   },
   "items": [
+    {
+      "id": "43e19b6d0bb330f2cd67",
+      "source": "TGcom24",
+      "title": "Il Papa: \"Ho un nodulo al polmone, ho deciso di operarmi\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/il-papa-ho-un-nodulo-al-polmone-ho-deciso-di-operarmi-_117535844-202602k.shtml",
+      "published": "2026-10-11T10:20:00+00:00"
+    },
     {
       "id": "4d2b9382596294813363",
       "source": "TGcom24",
@@ -229,13 +236,6 @@
       "published": "2026-10-10T16:07:00+00:00"
     },
     {
-      "id": "044e72511bb7ffc9dd14",
-      "source": "TGcom24",
-      "title": "Proteste in India: migliaia di arresti, anche il leader del Partito delle blatte",
-      "url": "https://www.tgcom24.mediaset.it/mondo/proteste-india-partito-delle-blatte_117502033-202602k.shtml",
-      "published": "2026-10-10T15:31:00+00:00"
-    },
-    {
       "id": "44397c60c245dcb65d61",
       "source": "BBC News",
       "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
@@ -325,13 +325,6 @@
       "title": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
       "url": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T23:24:33+00:00"
-    },
-    {
-      "id": "3e2edcd99910d36adc03",
-      "source": "BBC News",
-      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-      "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T22:30:22+00:00"
     }
   ]
 }
