@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-11T06:09:24.821635+00:00",
+  "updated_at": "2026-10-11T06:29:33.377465+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-11T06:09:24.821635+00:00"
+      "checked_at": "2026-10-11T06:29:33.377465+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-11T06:09:24.821635+00:00"
+      "checked_at": "2026-10-11T06:29:33.377465+00:00"
     }
   },
   "items": [
+    {
+      "id": "c44435dbb969af13c0a5",
+      "source": "BBC News",
+      "title": "Delhi braces for more protests as 'cockroach' group's leaders released",
+      "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T06:02:25+00:00"
+    },
     {
       "id": "30009a89e29bbc28424c",
       "source": "TGcom24",
@@ -234,13 +241,6 @@
       "title": "Rimini, aggredisce l'autista perché il bus è fermo da troppo tempo: denunciato",
       "url": "https://www.tgcom24.mediaset.it/cronaca/rimini-autista-bus-aggressione_117494133-202602k.shtml",
       "published": "2026-10-10T12:57:00+00:00"
-    },
-    {
-      "id": "2862728bc71ec80cfb58",
-      "source": "BBC News",
-      "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T12:29:31+00:00"
     },
     {
       "id": "ab1180ab4a6410b1308d",
