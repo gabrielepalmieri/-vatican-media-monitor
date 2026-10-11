@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-11T21:09:47.911154+00:00",
+  "updated_at": "2026-10-11T21:23:50.927795+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-11T21:09:47.911154+00:00"
+      "checked_at": "2026-10-11T21:23:50.927795+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-11T21:09:47.911154+00:00"
+      "checked_at": "2026-10-11T21:23:50.927795+00:00"
     }
   },
   "items": [
+    {
+      "id": "af11ac501b717f05c0fc",
+      "source": "BBC News",
+      "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+      "url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T21:12:44+00:00"
+    },
     {
       "id": "4a9aacab09a853c2d114",
       "source": "TGcom24",
@@ -297,13 +304,6 @@
       "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
       "url": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-10T12:28:51+00:00"
-    },
-    {
-      "id": "f9a2f191d364756671c9",
-      "source": "BBC News",
-      "title": "Public executions in the US stopped nearly a century ago - why are they resuming now?",
-      "url": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T09:17:36+00:00"
     }
   ]
 }
