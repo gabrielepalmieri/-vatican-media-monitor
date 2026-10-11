@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-11T04:14:29.416343+00:00",
+  "updated_at": "2026-10-11T04:34:03.756753+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-11T04:14:29.416343+00:00"
+      "checked_at": "2026-10-11T04:34:03.756753+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-11T04:14:29.416343+00:00"
+      "checked_at": "2026-10-11T04:34:03.756753+00:00"
     }
   },
   "items": [
+    {
+      "id": "1dc255771cfcf94644d1",
+      "source": "TGcom24",
+      "title": "Trump: \"L'Ucraina dovrebbe tenere elezioni, Putin mi ha detto che vuole un accordo\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-11-ottobre_117523430-202602k.shtml",
+      "published": "2026-10-11T04:28:00+00:00"
+    },
     {
       "id": "640a639da9550cc0bb75",
       "source": "TGcom24",
@@ -21,7 +28,7 @@
     {
       "id": "d01b66ce98c8a9103965",
       "source": "BBC News",
-      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+      "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
       "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-11T03:57:22+00:00"
     },
@@ -264,13 +271,6 @@
       "published": "2026-10-10T09:17:36+00:00"
     },
     {
-      "id": "b78d39bd2d7ba3761a9f",
-      "source": "TGcom24",
-      "title": "Zaporizhzhia, sale bilancio delle vittime: \"Almeno 12 morti, fra cui tre bambini\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-10-ottobre_117484247-202602k.shtml",
-      "published": "2026-10-10T09:00:00+00:00"
-    },
-    {
       "id": "9c9c4665222f598e9da1",
       "source": "BBC News",
       "title": "How the trial of murdered Australian brothers and US friend unfolded",
@@ -353,13 +353,6 @@
       "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
       "url": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-09T17:14:44+00:00"
-    },
-    {
-      "id": "a33f29a34a1c3d54a558",
-      "source": "BBC News",
-      "title": "Man named Hitler Mussolini elected mayor in Peru",
-      "url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T16:32:22+00:00"
     }
   ]
 }
