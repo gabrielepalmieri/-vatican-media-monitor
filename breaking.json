@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-11T06:29:33.377465+00:00",
+  "updated_at": "2026-10-11T06:49:03.821099+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-11T06:29:33.377465+00:00"
+      "checked_at": "2026-10-11T06:49:03.821099+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-11T06:29:33.377465+00:00"
+      "checked_at": "2026-10-11T06:49:03.821099+00:00"
     }
   },
   "items": [
+    {
+      "id": "c9ad3e6cc446295dac92",
+      "source": "TGcom24",
+      "title": "Pierferdinando Casini lascia il Parlamento: \"Non mi ricandido\"",
+      "url": "https://www.tgcom24.mediaset.it/politica/pierferdinando-casini-lascia-parlamento_117526159-202602k.shtml",
+      "published": "2026-10-11T06:43:00+00:00"
+    },
     {
       "id": "c44435dbb969af13c0a5",
       "source": "BBC News",
@@ -262,13 +269,6 @@
       "title": "Verona, bimba travolta da un'auto nel cortile di casa: è gravissima",
       "url": "https://www.tgcom24.mediaset.it/cronaca/verona-bambina-travolta-auto-cortile_117491938-202602k.shtml",
       "published": "2026-10-10T11:37:00+00:00"
-    },
-    {
-      "id": "5dc7a10f8fd5184a064c",
-      "source": "TGcom24",
-      "title": "Sanzioni Usa a Cpi, l'Ue chiede il ritiro: \"Pronti a ogni misura necessaria\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/sanzioni-usa-cpi-ue-chiede-ritiro_117490280-202602k.shtml",
-      "published": "2026-10-10T10:52:00+00:00"
     },
     {
       "id": "4f0fd402c72eb153d345",
