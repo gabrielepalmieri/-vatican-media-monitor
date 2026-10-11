@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-11T14:25:07.158421+00:00",
+  "updated_at": "2026-10-11T14:41:44.767345+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-11T14:25:07.158421+00:00"
+      "checked_at": "2026-10-11T14:41:44.767345+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-11T14:25:07.158421+00:00"
+      "checked_at": "2026-10-11T14:41:44.767345+00:00"
     }
   },
   "items": [
+    {
+      "id": "903dd4e3e2ecb3fb9c1a",
+      "source": "BBC News",
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+      "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T14:38:10+00:00"
+    },
     {
       "id": "796769d770adb8040969",
       "source": "TGcom24",
@@ -38,13 +45,6 @@
       "title": "Papa, il messaggio di Mattarella: \"Il popolo italiano Le è vicino\"",
       "url": "https://www.tgcom24.mediaset.it/politica/papa-vicinanza-bipartisan-politica_117539561-202602k.shtml",
       "published": "2026-10-11T13:15:00+00:00"
-    },
-    {
-      "id": "903dd4e3e2ecb3fb9c1a",
-      "source": "BBC News",
-      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-      "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-11T12:50:46+00:00"
     },
     {
       "id": "d0e279282b4392e69f38",
