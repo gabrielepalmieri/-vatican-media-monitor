@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-11T17:40:27.463832+00:00",
+  "updated_at": "2026-10-11T17:51:06.627724+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-11T17:40:27.463832+00:00"
+      "checked_at": "2026-10-11T17:51:06.627724+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-11T17:40:27.463832+00:00"
+      "checked_at": "2026-10-11T17:51:06.627724+00:00"
     }
   },
   "items": [
+    {
+      "id": "f5660e42ebdefb16383f",
+      "source": "TGcom24",
+      "title": "È morta la cantante e conduttrice Wilma De Angelis",
+      "url": "https://www.tgcom24.mediaset.it/spettacolo/e-morta-la-cantante-e-conduttrice-wilma-de-angelis_117563904-202602k.shtml",
+      "published": "2026-10-11T17:41:00+00:00"
+    },
     {
       "id": "6334c2e573498275401a",
       "source": "BBC News",
@@ -227,13 +234,6 @@
       "title": "US justice department investigates TV networks over Trump pool coverage",
       "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-11T05:05:43+00:00"
-    },
-    {
-      "id": "9b5001f4fe86b480b234",
-      "source": "TGcom24",
-      "title": "Accordo Trump-Putin, Musk: \"Zelensky è andato troppo oltre\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-11-ottobre_117523430-202602k.shtml",
-      "published": "2026-10-11T04:52:00+00:00"
     },
     {
       "id": "2de82cfb9c9eac534437",
