@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-11T07:17:38.765496+00:00",
+  "updated_at": "2026-10-11T07:33:18.107031+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-11T07:17:38.765496+00:00"
+      "checked_at": "2026-10-11T07:33:18.107031+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-11T07:17:38.765496+00:00"
+      "checked_at": "2026-10-11T07:33:18.107031+00:00"
     }
   },
   "items": [
+    {
+      "id": "f31f3c86bc9a9426c731",
+      "source": "TGcom24",
+      "title": "Roma, denunciato il furto di una minicar compatibile con quella utilizzata per le aggressioni",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/roma-banda-minicar-denunciato-furto-monteverde_117524246-202602k.shtml",
+      "published": "2026-10-11T07:26:00+00:00"
+    },
     {
       "id": "c44435dbb969af13c0a5",
       "source": "BBC News",
@@ -255,13 +262,6 @@
       "title": "Maltempo a Bari, allagata cripta della Basilica di San Nicola",
       "url": "https://www.tgcom24.mediaset.it/cronaca/maltempo-allerta-meteo-oggi-news_117482912-202602k.shtml",
       "published": "2026-10-10T12:07:00+00:00"
-    },
-    {
-      "id": "9f48eb3533de35a63e92",
-      "source": "TGcom24",
-      "title": "Verona, bimba travolta da un'auto nel cortile di casa: è gravissima",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/verona-bambina-travolta-auto-cortile_117491938-202602k.shtml",
-      "published": "2026-10-10T11:37:00+00:00"
     },
     {
       "id": "4f0fd402c72eb153d345",
