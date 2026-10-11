@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-11T13:40:50.773148+00:00",
+  "updated_at": "2026-10-11T13:52:35.822968+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-11T13:40:50.773148+00:00"
+      "checked_at": "2026-10-11T13:52:35.822968+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-11T13:40:50.773148+00:00"
+      "checked_at": "2026-10-11T13:52:35.822968+00:00"
     }
   },
   "items": [
+    {
+      "id": "ad0906a8ed35aff84090",
+      "source": "TGcom24",
+      "title": "Firenze, auto invade la corsia opposta e investe un gruppo di ciclisti",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/firenze-auto-investe-un-gruppo-di-ciclisti_117547790-202602k.shtml",
+      "published": "2026-10-11T13:45:00+00:00"
+    },
     {
       "id": "6103e387cf5e72fae82e",
       "source": "BBC News",
@@ -241,13 +248,6 @@
       "title": "Kiev replica a Trump: \"Nuovo presidente? Zelensky fa bene il suo lavoro\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-10-ottobre_117484247-202602k.shtml",
       "published": "2026-10-10T19:23:00+00:00"
-    },
-    {
-      "id": "b4d44fa939a9caa7b0cc",
-      "source": "TGcom24",
-      "title": "Mosca plaude a Trump: \"Anche lui vuole una leadership di pace per Kiev\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-10-ottobre_117484247-202602k.shtml",
-      "published": "2026-10-10T18:43:00+00:00"
     },
     {
       "id": "398a93fefd3295804df3",
