@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-11T05:24:58.594448+00:00",
+  "updated_at": "2026-10-11T22:24:59.958031+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-10-11T05:24:58.594448+00:00",
+  "un_verified_at": "2026-10-11T22:24:59.958031+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,30 +1918,6 @@
     }
   ],
   "days": {
-    "2026-10-10": {
-      "saints": [
-        {
-          "title": "San Paolino, vescovo di York, discepolo di San Gregorio Magno",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/10/san-paolino--vescovo-di-york--discepolo-di-san-gregorio-magno.html"
-        },
-        {
-          "title": "Santi Daniele, Samuele e Compagni, primi martiri francescani",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/10.html"
-        }
-      ],
-      "un": [
-        {
-          "title": "Giornata mondiale della salute mentale",
-          "url": "https://www.who.int/campaigns/world-mental-health-day"
-        },
-        {
-          "title": "Giornata mondiale degli uccelli migratori",
-          "url": "https://www.worldmigratorybirdday.org"
-        }
-      ],
-      "un_available": true,
-      "holy_see": []
-    },
     "2026-10-11": {
       "saints": [
         {
@@ -2563,6 +2539,34 @@
           "url": "https://www.vatican.va/content/leo-xiv/it/messages/poor.html"
         }
       ]
+    },
+    "2026-11-16": {
+      "saints": [
+        {
+          "title": "Santa Margherita di Scozia",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/16/santa-margherita-di-scozia.html"
+        },
+        {
+          "title": "Santa Geltrude, vergine benedettina",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/16.html"
+        },
+        {
+          "title": "S. Agnese di Assisi, sorella di S. Chiara, vergine",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/16.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata internazionale della tolleranza",
+          "url": "https://www.unesco.org/en/days/tolerance"
+        },
+        {
+          "title": "Giornata internazionale della dieta mediterranea",
+          "url": "https://www.fao.org/newsroom/detail/fao-welcomes-un-s-decision-to-establish-an-international-day-for-the-mediterranean-diet/en"
+        }
+      ],
+      "un_available": true,
+      "holy_see": []
     }
   }
 }
