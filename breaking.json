@@ -1,22 +1,43 @@
 {
-  "updated_at": "2026-10-12T21:13:50.436256+00:00",
+  "updated_at": "2026-10-12T21:33:04.927054+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-12T21:13:50.436256+00:00"
+      "checked_at": "2026-10-12T21:33:04.927054+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-12T21:13:50.436256+00:00"
+      "checked_at": "2026-10-12T21:33:04.927054+00:00"
     }
   },
   "items": [
+    {
+      "id": "a4b0636c822f7f00d105",
+      "source": "TGcom24",
+      "title": "Ucraina, Trump: \"Putin vuole un accordo più di Zelensky\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-12-ottobre_117575197-202602k.shtml",
+      "published": "2026-10-12T21:25:00+00:00"
+    },
+    {
+      "id": "2b6d44be7ed524eb22cb",
+      "source": "BBC News",
+      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T21:20:51+00:00"
+    },
     {
       "id": "f21af8b44d9f163f5202",
       "source": "BBC News",
       "title": "Analysis: Trump's global headaches worsen weeks before crucial elections",
       "url": "https://www.bbc.co.uk/news/articles/cqgm087rkze2o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-12T21:07:25+00:00"
+    },
+    {
+      "id": "e4243d3d7c86bdaa4d8f",
+      "source": "BBC News",
+      "title": "Qantas flight grounded after bedbug outbreak",
+      "url": "https://www.bbc.co.uk/news/articles/cr62yzypnw7no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T21:01:45+00:00"
     },
     {
       "id": "d838f17599d65f98ab1a",
@@ -80,13 +101,6 @@
       "title": "Sardegna, dopo 26 ore è stato liberato lo speleologo intrappolato nella grotta",
       "url": "https://www.tgcom24.mediaset.it/cronaca/sardegna-raggiunto-soccorsi-speleologo-bloccato-grotta_117579793-202602k.shtml",
       "published": "2026-10-12T17:48:00+00:00"
-    },
-    {
-      "id": "2b6d44be7ed524eb22cb",
-      "source": "BBC News",
-      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-12T17:32:13+00:00"
     },
     {
       "id": "87aa20d70613c13a27c8",
@@ -276,13 +290,6 @@
       "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
       "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-12T09:38:03+00:00"
-    },
-    {
-      "id": "c2c84eb0c7c6890dd1bd",
-      "source": "TGcom24",
-      "title": "Papa, sala stampa vaticana: \"Nodulo emerso da controlli di routine\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/cosi-papa-leone-ha-scoperto-la-malattia_117577077-202602k.shtml",
-      "published": "2026-10-12T09:37:00+00:00"
     },
     {
       "id": "47adb7d80ee2096d1839",
