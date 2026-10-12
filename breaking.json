@@ -1,22 +1,29 @@
 {
-  "updated_at": "2026-10-12T12:59:27.755574+00:00",
+  "updated_at": "2026-10-12T13:28:39.436085+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-12T12:59:27.755574+00:00"
+      "checked_at": "2026-10-12T13:28:39.436085+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-12T12:59:27.755574+00:00"
+      "checked_at": "2026-10-12T13:28:39.436085+00:00"
     }
   },
   "items": [
     {
-      "id": "72e459e2c9556cffa5dc",
+      "id": "efad886923dcf27f7cb7",
+      "source": "TGcom24",
+      "title": "Spettacolo in lutto, morto il comico Giorgio Bracardi: aveva 93 anni",
+      "url": "https://www.tgcom24.mediaset.it/spettacolo/morto-giorgio-bracardi_117589098-202602k.shtml",
+      "published": "2026-10-12T13:12:00+00:00"
+    },
+    {
+      "id": "3504b8c27203c43ab40c",
       "source": "TGcom24",
       "title": "Legge elettorale: presentati 30 ricorsi, 6 dubbi di costituzionalità",
       "url": "https://www.tgcom24.mediaset.it/politica/legge-elettorale-ricorsi-dubbi-di-costituzionalita_117588091-202602k.shtml",
-      "published": "2026-10-12T12:53:00+00:00"
+      "published": "2026-10-12T12:52:00+00:00"
     },
     {
       "id": "078270b6479dcce54759",
@@ -49,7 +56,7 @@
     {
       "id": "e5cd3eea995100d7aae4",
       "source": "BBC News",
-      "title": "Tom Cruise film Digger could lose $245m at box office",
+      "title": "Tom Cruise film Digger forecast to lose $245m at box office",
       "url": "https://www.bbc.co.uk/news/articles/cke8re5v1pgmo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-12T11:29:18+00:00"
     },
@@ -290,13 +297,6 @@
       "title": "Poland detains man suspected of planning assassination of PM Tusk",
       "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-11T17:27:24+00:00"
-    },
-    {
-      "id": "e82db5e75923aea31bc7",
-      "source": "TGcom24",
-      "title": "Zelensky: \"Attendiamo dettagli sulla tregua energetica dagli Usa\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-11-ottobre_117523430-202602k.shtml",
-      "published": "2026-10-11T17:10:00+00:00"
     },
     {
       "id": "0db14c9efb917b2e16d8",
