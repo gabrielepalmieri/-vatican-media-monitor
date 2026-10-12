@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-12T04:57:07.164218+00:00",
+  "updated_at": "2026-10-12T05:10:36.338003+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-12T04:57:07.164218+00:00"
+      "checked_at": "2026-10-12T05:10:36.338003+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-12T04:57:07.164218+00:00"
+      "checked_at": "2026-10-12T05:10:36.338003+00:00"
     }
   },
   "items": [
+    {
+      "id": "47adb7d80ee2096d1839",
+      "source": "BBC News",
+      "title": "Documents falsified to evade tax on Abramovich's wealth",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T05:00:52+00:00"
+    },
     {
       "id": "355f399268424eed4828",
       "source": "TGcom24",
@@ -269,13 +276,6 @@
       "title": "Barchino di migranti si ribalta al largo di Gibuti: oltre 100 morti",
       "url": "https://www.tgcom24.mediaset.it/mondo/naufragio-gibuti-migranti-morti-dispersi_117532520-202602k.shtml",
       "published": "2026-10-11T10:06:00+00:00"
-    },
-    {
-      "id": "ba968758fcadea235572",
-      "source": "BBC News",
-      "title": "US justice department investigates TV networks over Trump pool coverage",
-      "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-11T05:05:43+00:00"
     },
     {
       "id": "2de82cfb9c9eac534437",
