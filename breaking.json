@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-12T10:45:09.216656+00:00",
+  "updated_at": "2026-10-12T11:03:01.886995+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-12T10:45:09.216656+00:00"
+      "checked_at": "2026-10-12T11:03:01.886995+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-12T10:45:09.216656+00:00"
+      "checked_at": "2026-10-12T11:03:01.886995+00:00"
     }
   },
   "items": [
+    {
+      "id": "e2e2028dc4e2fd6d7d9a",
+      "source": "TGcom24",
+      "title": "David Rossi (Mps), commissione d'inchiesta: una persona nel vicolo ha atteso che morisse",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/morte-david-rossi-mps-commissione-ris-video--ndrangheta_117583459-202602k.shtml",
+      "published": "2026-10-12T10:45:00+00:00"
+    },
     {
       "id": "d838f17599d65f98ab1a",
       "source": "BBC News",
@@ -173,13 +180,6 @@
       "published": "2026-10-11T22:00:00+00:00"
     },
     {
-      "id": "ff561d2f490256c72a3e",
-      "source": "BBC News",
-      "title": "Zelensky backs Trump's 'energy ceasefire' but says Russia continues to hit power plants",
-      "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-11T21:36:40+00:00"
-    },
-    {
       "id": "11876da3bd3d27bfa12d",
       "source": "TGcom24",
       "title": "Media Usa: \"Viaggio di Witkoff e Kushner a Mosca è sospeso\"",
@@ -283,13 +283,6 @@
       "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
       "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-11T14:38:10+00:00"
-    },
-    {
-      "id": "796769d770adb8040969",
-      "source": "TGcom24",
-      "title": "Ucraina, Zelensky replica a Trump: \"Elezioni se Putin accetta una tregua di 60 giorni\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-11-ottobre_117523430-202602k.shtml",
-      "published": "2026-10-11T14:20:00+00:00"
     },
     {
       "id": "6103e387cf5e72fae82e",
