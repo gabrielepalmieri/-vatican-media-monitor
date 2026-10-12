@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-12T15:19:46.002546+00:00",
+  "updated_at": "2026-10-12T15:39:51.986230+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-12T15:19:46.002546+00:00"
+      "checked_at": "2026-10-12T15:39:51.986230+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-12T15:19:46.002546+00:00"
+      "checked_at": "2026-10-12T15:39:51.986230+00:00"
     }
   },
   "items": [
+    {
+      "id": "46aa44bc1b3f61d7dcfe",
+      "source": "BBC News",
+      "title": "Thousands march to Indian Supreme Court to demand election chief resign",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T15:19:17+00:00"
+    },
     {
       "id": "5e64fe8341a677e3f9b9",
       "source": "TGcom24",
@@ -206,13 +213,6 @@
       "title": "Ucraina, il ministro degli Esteri: \"La Russia ha già violato la tregua energetica\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-12-ottobre_117575197-202602k.shtml",
       "published": "2026-10-12T07:01:00+00:00"
-    },
-    {
-      "id": "46aa44bc1b3f61d7dcfe",
-      "source": "BBC News",
-      "title": "Indian opposition leaders march to top court to demand election chief resign",
-      "url": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-12T06:42:35+00:00"
     },
     {
       "id": "55ff00b1c8dcaf4d5741",
