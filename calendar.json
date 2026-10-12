@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-12T05:28:07.312493+00:00",
+  "updated_at": "2026-10-12T22:25:34.146230+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-10-12T05:28:07.312493+00:00",
+  "un_verified_at": "2026-10-12T22:25:34.146230+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,30 +1918,6 @@
     }
   ],
   "days": {
-    "2026-10-11": {
-      "saints": [
-        {
-          "title": "San Filippo, diacono",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/11.html"
-        },
-        {
-          "title": "Sant'Alessandro Sauli, vescovo di Pavia",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/11.html"
-        },
-        {
-          "title": "San Giovanni XXIII, papa",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/11/san-giovanni-xxiii--papa.html"
-        }
-      ],
-      "un": [
-        {
-          "title": "Giornata internazionale delle bambine",
-          "url": "https://www.un.org/en/observances/girl-child-day"
-        }
-      ],
-      "un_available": true,
-      "holy_see": []
-    },
     "2026-10-12": {
       "saints": [
         {
@@ -2565,6 +2541,21 @@
           "url": "https://www.fao.org/newsroom/detail/fao-welcomes-un-s-decision-to-establish-an-international-day-for-the-mediterranean-diet/en"
         }
       ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-11-17": {
+      "saints": [
+        {
+          "title": "Santa Elisabetta d'Ungheria, terziaria francescana",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/17/santa-elisabetta-d-ungheria--terziaria-francescana.html"
+        },
+        {
+          "title": "San Gregorio Taumaturgo, vescovo di Neocesarea",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/17.html"
+        }
+      ],
+      "un": [],
       "un_available": true,
       "holy_see": []
     }
