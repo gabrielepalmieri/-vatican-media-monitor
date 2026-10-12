@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-12T10:03:12.029041+00:00",
+  "updated_at": "2026-10-12T10:27:02.556040+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-12T10:03:12.029041+00:00"
+      "checked_at": "2026-10-12T10:27:02.556040+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-12T10:03:12.029041+00:00"
+      "checked_at": "2026-10-12T10:27:02.556040+00:00"
     }
   },
   "items": [
+    {
+      "id": "9a5a51c18baae3502e0e",
+      "source": "TGcom24",
+      "title": "Premio Nobel per l'Economia agli economisti Robert E. Hall e Michael Woodford",
+      "url": "https://www.tgcom24.mediaset.it/mondo/premio-nobel-economia-robert-hall-michael-woodford_117583960-202602k.shtml",
+      "published": "2026-10-12T10:23:00+00:00"
+    },
     {
       "id": "89506b999feed6ac8dee",
       "source": "TGcom24",
@@ -201,6 +208,13 @@
       "published": "2026-10-11T17:41:00+00:00"
     },
     {
+      "id": "6334c2e573498275401a",
+      "source": "BBC News",
+      "title": "Poland detains man suspected of planning assassination of PM Tusk",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T17:27:24+00:00"
+    },
+    {
       "id": "e82db5e75923aea31bc7",
       "source": "TGcom24",
       "title": "Zelensky: \"Attendiamo dettagli sulla tregua energetica dagli Usa\"",
@@ -283,13 +297,6 @@
       "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
       "url": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-10T23:31:35+00:00"
-    },
-    {
-      "id": "8a2bc9951440b3a5970e",
-      "source": "BBC News",
-      "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
-      "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T22:13:08+00:00"
     }
   ]
 }
