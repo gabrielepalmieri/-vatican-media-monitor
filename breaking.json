@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-12T21:58:56.815426+00:00",
+  "updated_at": "2026-10-12T22:09:05.147103+00:00",
   "sources": {
     "TGcom24": {
-      "ok": true,
-      "checked_at": "2026-10-12T21:58:56.815426+00:00"
+      "ok": false,
+      "checked_at": "2026-10-12T22:09:05.147103+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-12T21:58:56.815426+00:00"
+      "checked_at": "2026-10-12T22:09:05.147103+00:00"
     }
   },
   "items": [
+    {
+      "id": "1b8e8d5b21aff9c7b9ac",
+      "source": "BBC News",
+      "title": "Immigration agents search congresswoman Ilhan Omar's home",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T22:05:31+00:00"
+    },
     {
       "id": "5eafaa26f07425f7f678",
       "source": "BBC News",
@@ -115,13 +122,6 @@
       "title": "Gallarate, bambino di 5 anni investito da un'auto: è grave",
       "url": "https://www.tgcom24.mediaset.it/cronaca/gallarate-bimbo-5-anni-investito-da-auto_117596001-202602k.shtml",
       "published": "2026-10-12T17:17:00+00:00"
-    },
-    {
-      "id": "1b8e8d5b21aff9c7b9ac",
-      "source": "BBC News",
-      "title": "Immigration agents search Congresswoman Ilhan Omar's home",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-12T17:09:55+00:00"
     },
     {
       "id": "e0c3ffa7ebc1768695f8",
