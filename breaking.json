@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-12T18:51:33.216328+00:00",
+  "updated_at": "2026-10-12T19:04:51.023275+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-12T18:51:33.216328+00:00"
+      "checked_at": "2026-10-12T19:04:51.023275+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-12T18:51:33.216328+00:00"
+      "checked_at": "2026-10-12T19:04:51.023275+00:00"
     }
   },
   "items": [
+    {
+      "id": "8710e693a4d25b1165af",
+      "source": "TGcom24",
+      "title": "Vaticano, annullate tutte le udienze del Papa fino al 20 ottobre",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/cosi-papa-leone-ha-scoperto-la-malattia_117577077-202602k.shtml",
+      "published": "2026-10-12T18:53:00+00:00"
+    },
     {
       "id": "1802b382eb4c874e32bf",
       "source": "BBC News",
@@ -269,13 +276,6 @@
       "title": "Parigi, il più antico mercato coperto devastato da un maxi-incendio",
       "url": "https://www.tgcom24.mediaset.it/mondo/parigi-incendio-mercato-centro_117575529-202602k.shtml",
       "published": "2026-10-12T06:18:00+00:00"
-    },
-    {
-      "id": "7136bbf8fd9ff43ae5d1",
-      "source": "TGcom24",
-      "title": "Ucraina, attacco missilistico russo su Kharkiv: tre morti e 25 feriti",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-12-ottobre_117575197-202602k.shtml",
-      "published": "2026-10-12T05:39:00+00:00"
     },
     {
       "id": "0f00217d95da1a0d4559",
