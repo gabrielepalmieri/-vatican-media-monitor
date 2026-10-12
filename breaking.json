@@ -1,22 +1,64 @@
 {
-  "updated_at": "2026-10-12T04:20:15.764553+00:00",
+  "updated_at": "2026-10-12T04:40:20.270784+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-12T04:20:15.764553+00:00"
+      "checked_at": "2026-10-12T04:40:20.270784+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-12T04:20:15.764553+00:00"
+      "checked_at": "2026-10-12T04:40:20.270784+00:00"
     }
   },
   "items": [
+    {
+      "id": "355f399268424eed4828",
+      "source": "TGcom24",
+      "title": "Copernicus, nel 2026 il secondo settembre più caldo mai registrato",
+      "url": "https://www.tgcom24.mediaset.it/mondo/copernicus-2026-secondo-settembre-piu-caldo_117575004-202602k.shtml",
+      "published": "2026-10-12T04:45:00+00:00"
+    },
     {
       "id": "c205129afd1f356bc314",
       "source": "TGcom24",
       "title": "Seul: \"Lanciati dalla Corea del Nord diversi missili balistici\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/seul-lanciati-dalla-corea-del-nord-diversi-missili-balistici-_117575001-202602k.shtml",
       "published": "2026-10-12T04:13:00+00:00"
+    },
+    {
+      "id": "e4603ef5722f65089edb",
+      "source": "BBC News",
+      "title": "Watch: Endangered orangutans released back into the wild after Borneo fires",
+      "url": "https://www.bbc.co.uk/news/videos/c6073z5rvrk3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T23:48:25+00:00"
+    },
+    {
+      "id": "2d2adb57de70a3bca7d5",
+      "source": "BBC News",
+      "title": "Iconic Australian band Powderfinger announce first tour in 17 years",
+      "url": "https://www.bbc.co.uk/news/articles/c680zyx8gkkjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T23:33:24+00:00"
+    },
+    {
+      "id": "3a2414f0fc5af555cf79",
+      "source": "BBC News",
+      "title": "Trump faces growing backlash over plans to import diesel from Russia",
+      "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T23:18:45+00:00"
+    },
+    {
+      "id": "8971a6ef0ce084fb9d40",
+      "source": "BBC News",
+      "title": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
+      "url": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T23:13:51+00:00"
+    },
+    {
+      "id": "a16bae10e7a9e2173a31",
+      "source": "BBC News",
+      "title": "Mourners killed by Kenya police at ex-PM's national farewell not part of violence, BBC finds",
+      "url": "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T23:13:20+00:00"
     },
     {
       "id": "30accc48a73dc2a8b484",
@@ -73,13 +115,6 @@
       "title": "Treviso, cade da tettuccio di un'auto in corsa: gravissimo un 23enne",
       "url": "https://www.tgcom24.mediaset.it/cronaca/treviso-ragazzo-caduta-tettuccio-automobile-riprese-video_117568554-202602k.shtml",
       "published": "2026-10-11T19:45:00+00:00"
-    },
-    {
-      "id": "b030dee0a01c1cceb17d",
-      "source": "BBC News",
-      "title": "Orangutans released back into Borneo forest after devastating fires",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-11T19:08:04+00:00"
     },
     {
       "id": "fa83b3e2bfb56acdcf78",
@@ -208,13 +243,6 @@
       "published": "2026-10-11T11:18:00+00:00"
     },
     {
-      "id": "c44435dbb969af13c0a5",
-      "source": "BBC News",
-      "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
-      "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-11T11:11:42+00:00"
-    },
-    {
       "id": "dbb69d66b1241e1c40b8",
       "source": "TGcom24",
       "title": "Mestre, perseguitata dall'ex si chiude nel bagno di una pizzeria e lo fa arrestare",
@@ -243,13 +271,6 @@
       "published": "2026-10-11T10:06:00+00:00"
     },
     {
-      "id": "fe89705b0199fbf3ac85",
-      "source": "TGcom24",
-      "title": "Zelensky a Trump: stop raid su raffinerie se Mosca ferma attacchi su siti energetici",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-11-ottobre_117523430-202602k.shtml",
-      "published": "2026-10-11T09:45:00+00:00"
-    },
-    {
       "id": "ba968758fcadea235572",
       "source": "BBC News",
       "title": "US justice department investigates TV networks over Trump pool coverage",
@@ -276,20 +297,6 @@
       "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
       "url": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-10T19:25:03+00:00"
-    },
-    {
-      "id": "398a93fefd3295804df3",
-      "source": "BBC News",
-      "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
-      "url": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T18:22:29+00:00"
-    },
-    {
-      "id": "388d4c7c31bc7c8bb44c",
-      "source": "BBC News",
-      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T17:44:26+00:00"
     }
   ]
 }
