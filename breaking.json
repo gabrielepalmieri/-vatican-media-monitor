@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-12T19:42:51.453014+00:00",
+  "updated_at": "2026-10-12T19:55:36.430040+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-12T19:42:51.453014+00:00"
+      "checked_at": "2026-10-12T19:55:36.430040+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-12T19:42:51.453014+00:00"
+      "checked_at": "2026-10-12T19:55:36.430040+00:00"
     }
   },
   "items": [
+    {
+      "id": "64a1050f8d8e658d1de9",
+      "source": "TGcom24",
+      "title": "Lega, Matteo Salvini si dimette da segretario per ricandidarsi al congresso",
+      "url": "https://www.tgcom24.mediaset.it/politica/matteo-salvini-dimette-segretario-lega_117603783-202602k.shtml",
+      "published": "2026-10-12T19:47:00+00:00"
+    },
     {
       "id": "429bf422b950f4ea6c1a",
       "source": "TGcom24",
@@ -269,13 +276,6 @@
       "title": "Kallas: \"Riad chiede di rafforzare Aspides, unire le forze nel Mar Rosso\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/attacco-houthi-arabia-saudita-ultime-notizie-12-ottobre_117575007-202602k.shtml",
       "published": "2026-10-12T07:55:00+00:00"
-    },
-    {
-      "id": "7c7aad4d02c5e8dd1958",
-      "source": "TGcom24",
-      "title": "Ucraina, il ministro degli Esteri: \"La Russia ha già violato la tregua energetica\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-12-ottobre_117575197-202602k.shtml",
-      "published": "2026-10-12T07:01:00+00:00"
     },
     {
       "id": "0f00217d95da1a0d4559",
