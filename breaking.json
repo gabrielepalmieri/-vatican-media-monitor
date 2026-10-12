@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-12T15:39:51.986230+00:00",
+  "updated_at": "2026-10-12T15:56:01.879296+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-12T15:39:51.986230+00:00"
+      "checked_at": "2026-10-12T15:56:01.879296+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-12T15:39:51.986230+00:00"
+      "checked_at": "2026-10-12T15:56:01.879296+00:00"
     }
   },
   "items": [
+    {
+      "id": "a24002101cee2c29bdc3",
+      "source": "TGcom24",
+      "title": "Roma, aggressioni in minicar: nuovo intervento chirurgico per l'attore Iacopini",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/roma-aggressioni-minicar-intervento-iacopini_117594599-202602k.shtml",
+      "published": "2026-10-12T15:48:00+00:00"
+    },
+    {
+      "id": "1b8e8d5b21aff9c7b9ac",
+      "source": "BBC News",
+      "title": "Immigration agents search Congresswoman Ilhan Omar's home",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T15:44:46+00:00"
+    },
     {
       "id": "46aa44bc1b3f61d7dcfe",
       "source": "BBC News",
@@ -24,13 +38,6 @@
       "title": "Milano, proclamato sciopero alla Scala per il 20 ottobre",
       "url": "https://www.tgcom24.mediaset.it/cronaca/milano-teatro-alla-scala-sciopero-20-ottobre_117593026-202602k.shtml",
       "published": "2026-10-12T15:16:00+00:00"
-    },
-    {
-      "id": "1b8e8d5b21aff9c7b9ac",
-      "source": "BBC News",
-      "title": "Immigration agents search Congresswoman Ilhan Omar's home",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-12T15:02:41+00:00"
     },
     {
       "id": "3c3d76731c5a037f0b0c",
@@ -311,13 +318,6 @@
       "title": "Media Usa: \"Viaggio di Witkoff e Kushner a Mosca è sospeso\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-11-ottobre_117523430-202602k.shtml",
       "published": "2026-10-11T21:30:00+00:00"
-    },
-    {
-      "id": "4a9aacab09a853c2d114",
-      "source": "TGcom24",
-      "title": "Tregua energetica Russa-Ucraina, media Usa: \"Mosca ancora non ha accettato\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-11-ottobre_117523430-202602k.shtml",
-      "published": "2026-10-11T20:20:00+00:00"
     },
     {
       "id": "6334c2e573498275401a",
