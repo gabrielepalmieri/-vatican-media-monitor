@@ -1,16 +1,44 @@
 {
-  "updated_at": "2026-10-12T12:16:42.132403+00:00",
+  "updated_at": "2026-10-12T12:59:27.755574+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-12T12:16:42.132403+00:00"
+      "checked_at": "2026-10-12T12:59:27.755574+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-12T12:16:42.132403+00:00"
+      "checked_at": "2026-10-12T12:59:27.755574+00:00"
     }
   },
   "items": [
+    {
+      "id": "72e459e2c9556cffa5dc",
+      "source": "TGcom24",
+      "title": "Legge elettorale: presentati 30 ricorsi, 6 dubbi di costituzionalità",
+      "url": "https://www.tgcom24.mediaset.it/politica/legge-elettorale-ricorsi-dubbi-di-costituzionalita_117588091-202602k.shtml",
+      "published": "2026-10-12T12:53:00+00:00"
+    },
+    {
+      "id": "078270b6479dcce54759",
+      "source": "TGcom24",
+      "title": "Usa, media: \"Da Musk 276 milioni per aiutare i repubblicani alle midterm\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/elon-musk-dona-milioni-repubblicani-midterm_117588003-202602k.shtml",
+      "published": "2026-10-12T12:22:00+00:00"
+    },
+    {
+      "id": "d838f17599d65f98ab1a",
+      "source": "BBC News",
+      "title": "Pupil arrested after two teachers shot at French school",
+      "url": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T12:18:45+00:00"
+    },
+    {
+      "id": "17322be250eb21f940af",
+      "source": "BBC News",
+      "title": "Who are the Houthis, and why are they so hard to fight?",
+      "url": "https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T12:15:01+00:00"
+    },
     {
       "id": "989572d32e47f9b936fe",
       "source": "TGcom24",
@@ -40,13 +68,6 @@
       "published": "2026-10-12T10:45:00+00:00"
     },
     {
-      "id": "d838f17599d65f98ab1a",
-      "source": "BBC News",
-      "title": "Pupil arrested after two teachers shot at French school",
-      "url": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-12T10:33:28+00:00"
-    },
-    {
       "id": "9b3e26e685d3c09afe78",
       "source": "BBC News",
       "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
@@ -73,6 +94,13 @@
       "title": "Mattarella: \"L'Ue è lo spazio in cui agire, rinsaldare il modello sociale\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/sergio-mattarella-unione-europea_117583454-202602k.shtml",
       "published": "2026-10-12T09:59:00+00:00"
+    },
+    {
+      "id": "dab8afd946e827a55c51",
+      "source": "BBC News",
+      "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
+      "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T09:38:03+00:00"
     },
     {
       "id": "c2c84eb0c7c6890dd1bd",
@@ -271,20 +299,6 @@
       "published": "2026-10-11T17:10:00+00:00"
     },
     {
-      "id": "6f0816bd3bc7f26cfb64",
-      "source": "TGcom24",
-      "title": "Polonia, media: sventato presunto attentato per uccidere premier Tusk, un arresto",
-      "url": "https://www.tgcom24.mediaset.it/mondo/polonia-arrestato-presunto-attentatore-tusk_117559065-202602k.shtml",
-      "published": "2026-10-11T16:30:00+00:00"
-    },
-    {
-      "id": "ca7dc0fc837381068a79",
-      "source": "TGcom24",
-      "title": "Ue, Von der Leyen: \"Solidarietà all'Ucraina e al presidente Zelensky\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-11-ottobre_117523430-202602k.shtml",
-      "published": "2026-10-11T16:11:00+00:00"
-    },
-    {
       "id": "0db14c9efb917b2e16d8",
       "source": "BBC News",
       "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
@@ -318,13 +332,6 @@
       "title": "Pope Leo to have surgery after lump found on lung",
       "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-11T13:38:55+00:00"
-    },
-    {
-      "id": "04b43ae231e464637b86",
-      "source": "BBC News",
-      "title": "Buildings swept away as flash floods hit central Nepal",
-      "url": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-11T10:34:02+00:00"
     }
   ]
 }
