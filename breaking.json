@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-12T09:28:26.324735+00:00",
+  "updated_at": "2026-10-12T09:47:58.970778+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-12T09:28:26.324735+00:00"
+      "checked_at": "2026-10-12T09:47:58.970778+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-12T09:28:26.324735+00:00"
+      "checked_at": "2026-10-12T09:47:58.970778+00:00"
     }
   },
   "items": [
+    {
+      "id": "c2c84eb0c7c6890dd1bd",
+      "source": "TGcom24",
+      "title": "Papa, sala stampa vaticana: \"Nodulo emerso da controlli di routine\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/cosi-papa-leone-ha-scoperto-la-malattia_117577077-202602k.shtml",
+      "published": "2026-10-12T09:37:00+00:00"
+    },
     {
       "id": "cf20f1072e407494171d",
       "source": "TGcom24",
@@ -269,13 +276,6 @@
       "title": "Firenze, auto invade la corsia opposta e investe un gruppo di ciclisti",
       "url": "https://www.tgcom24.mediaset.it/cronaca/firenze-auto-investe-un-gruppo-di-ciclisti_117547790-202602k.shtml",
       "published": "2026-10-11T13:33:00+00:00"
-    },
-    {
-      "id": "5433c63acf069afac029",
-      "source": "TGcom24",
-      "title": "Papa, il messaggio di Mattarella: \"Il popolo italiano Le è vicino\"",
-      "url": "https://www.tgcom24.mediaset.it/politica/papa-vicinanza-bipartisan-politica_117539561-202602k.shtml",
-      "published": "2026-10-11T13:15:00+00:00"
     },
     {
       "id": "04b43ae231e464637b86",
