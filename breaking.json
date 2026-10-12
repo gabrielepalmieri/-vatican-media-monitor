@@ -1,22 +1,43 @@
 {
-  "updated_at": "2026-10-12T10:27:02.556040+00:00",
+  "updated_at": "2026-10-12T10:45:09.216656+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-12T10:27:02.556040+00:00"
+      "checked_at": "2026-10-12T10:45:09.216656+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-12T10:27:02.556040+00:00"
+      "checked_at": "2026-10-12T10:45:09.216656+00:00"
     }
   },
   "items": [
+    {
+      "id": "d838f17599d65f98ab1a",
+      "source": "BBC News",
+      "title": "Pupil arrested after two teachers shot at French school",
+      "url": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T10:33:28+00:00"
+    },
+    {
+      "id": "9b3e26e685d3c09afe78",
+      "source": "BBC News",
+      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T10:28:47+00:00"
+    },
     {
       "id": "9a5a51c18baae3502e0e",
       "source": "TGcom24",
       "title": "Premio Nobel per l'Economia agli economisti Robert E. Hall e Michael Woodford",
       "url": "https://www.tgcom24.mediaset.it/mondo/premio-nobel-economia-robert-hall-michael-woodford_117583960-202602k.shtml",
       "published": "2026-10-12T10:23:00+00:00"
+    },
+    {
+      "id": "bb2c75c4b86d449eacd6",
+      "source": "BBC News",
+      "title": "Women's billion-dollar boom leaves players behind, says Fifpro",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmd7qn1g0xrxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T10:04:50+00:00"
     },
     {
       "id": "89506b999feed6ac8dee",
@@ -52,6 +73,13 @@
       "title": "Ucraina, il ministro degli Esteri: \"La Russia ha già violato la tregua energetica\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-12-ottobre_117575197-202602k.shtml",
       "published": "2026-10-12T07:01:00+00:00"
+    },
+    {
+      "id": "46aa44bc1b3f61d7dcfe",
+      "source": "BBC News",
+      "title": "Indian opposition leaders march to top court to demand election chief resign",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T06:42:35+00:00"
     },
     {
       "id": "55ff00b1c8dcaf4d5741",
@@ -138,13 +166,6 @@
       "published": "2026-10-11T23:13:20+00:00"
     },
     {
-      "id": "30accc48a73dc2a8b484",
-      "source": "BBC News",
-      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
-      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-11T22:45:58+00:00"
-    },
-    {
       "id": "46f4349291c60ad4e782",
       "source": "TGcom24",
       "title": "Sardegna, frana in una grotta: speleologo bloccato a dieci metri di profondità",
@@ -164,13 +185,6 @@
       "title": "Media Usa: \"Viaggio di Witkoff e Kushner a Mosca è sospeso\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-11-ottobre_117523430-202602k.shtml",
       "published": "2026-10-11T21:30:00+00:00"
-    },
-    {
-      "id": "af11ac501b717f05c0fc",
-      "source": "BBC News",
-      "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
-      "url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-11T21:12:44+00:00"
     },
     {
       "id": "d8ef6f9f32c7d828d99a",
