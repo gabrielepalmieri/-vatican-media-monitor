@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-12T09:47:58.970778+00:00",
+  "updated_at": "2026-10-12T10:03:12.029041+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-12T09:47:58.970778+00:00"
+      "checked_at": "2026-10-12T10:03:12.029041+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-12T09:47:58.970778+00:00"
+      "checked_at": "2026-10-12T10:03:12.029041+00:00"
     }
   },
   "items": [
+    {
+      "id": "89506b999feed6ac8dee",
+      "source": "TGcom24",
+      "title": "Mattarella: \"L'Ue è lo spazio in cui agire, rinsaldare il modello sociale\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/sergio-mattarella-unione-europea_117583454-202602k.shtml",
+      "published": "2026-10-12T09:59:00+00:00"
+    },
     {
       "id": "c2c84eb0c7c6890dd1bd",
       "source": "TGcom24",
@@ -194,13 +201,6 @@
       "published": "2026-10-11T17:41:00+00:00"
     },
     {
-      "id": "6334c2e573498275401a",
-      "source": "BBC News",
-      "title": "Poland detains man suspected of planning assassination of PM Tusk",
-      "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-11T17:27:24+00:00"
-    },
-    {
       "id": "e82db5e75923aea31bc7",
       "source": "TGcom24",
       "title": "Zelensky: \"Attendiamo dettagli sulla tregua energetica dagli Usa\"",
@@ -269,13 +269,6 @@
       "title": "Pope Leo to have surgery after lump found on lung",
       "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-11T13:38:55+00:00"
-    },
-    {
-      "id": "ef4eb34324522619184f",
-      "source": "TGcom24",
-      "title": "Firenze, auto invade la corsia opposta e investe un gruppo di ciclisti",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/firenze-auto-investe-un-gruppo-di-ciclisti_117547790-202602k.shtml",
-      "published": "2026-10-11T13:33:00+00:00"
     },
     {
       "id": "04b43ae231e464637b86",
