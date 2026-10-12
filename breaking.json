@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-12T05:10:36.338003+00:00",
+  "updated_at": "2026-10-12T05:27:54.927669+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-12T05:10:36.338003+00:00"
+      "checked_at": "2026-10-12T05:27:54.927669+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-12T05:10:36.338003+00:00"
+      "checked_at": "2026-10-12T05:27:54.927669+00:00"
     }
   },
   "items": [
+    {
+      "id": "1b581f25b87b57bae765",
+      "source": "BBC News",
+      "title": "Homes and bridges swept away as fresh floods hit Nepal",
+      "url": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T05:26:47+00:00"
+    },
+    {
+      "id": "35474cb930b09d9c9344",
+      "source": "TGcom24",
+      "title": "Riad: \"Distrutto missile lanciato dagli Houthi verso il Sud dell'Arabia\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/attacco-houthi-arabia-saudita-ultime-notizie-12-ottobre_117575007-202602k.shtml",
+      "published": "2026-10-12T05:13:00+00:00"
+    },
     {
       "id": "47adb7d80ee2096d1839",
       "source": "BBC News",
@@ -229,13 +243,6 @@
       "published": "2026-10-11T13:15:00+00:00"
     },
     {
-      "id": "1b581f25b87b57bae765",
-      "source": "BBC News",
-      "title": "Homes and bridges swept away as fresh floods hit Nepal",
-      "url": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-11T12:03:52+00:00"
-    },
-    {
       "id": "99a81724bca14967dfbc",
       "source": "TGcom24",
       "title": "Papa, Meloni: \"Vicina al Santo Padre, rincuorata dalla sua serenità\"",
@@ -269,13 +276,6 @@
       "title": "Il Papa: \"Ho un nodulo al polmone, ho deciso di operarmi\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/il-papa-ho-un-nodulo-al-polmone-ho-deciso-di-operarmi-_117535844-202602k.shtml",
       "published": "2026-10-11T10:20:00+00:00"
-    },
-    {
-      "id": "4d2b9382596294813363",
-      "source": "TGcom24",
-      "title": "Barchino di migranti si ribalta al largo di Gibuti: oltre 100 morti",
-      "url": "https://www.tgcom24.mediaset.it/mondo/naufragio-gibuti-migranti-morti-dispersi_117532520-202602k.shtml",
-      "published": "2026-10-11T10:06:00+00:00"
     },
     {
       "id": "2de82cfb9c9eac534437",
