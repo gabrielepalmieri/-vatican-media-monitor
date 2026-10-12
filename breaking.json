@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-10-12T15:03:43.960535+00:00",
+  "updated_at": "2026-10-12T15:19:46.002546+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-12T15:03:43.960535+00:00"
+      "checked_at": "2026-10-12T15:19:46.002546+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-12T15:03:43.960535+00:00"
+      "checked_at": "2026-10-12T15:19:46.002546+00:00"
     }
   },
   "items": [
+    {
+      "id": "5e64fe8341a677e3f9b9",
+      "source": "TGcom24",
+      "title": "Milano, proclamato sciopero alla Scala per il 20 ottobre",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-teatro-alla-scala-sciopero-20-ottobre_117593026-202602k.shtml",
+      "published": "2026-10-12T15:16:00+00:00"
+    },
     {
       "id": "1b8e8d5b21aff9c7b9ac",
       "source": "BBC News",
       "title": "Immigration agents search Congresswoman Ilhan Omar's home",
       "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-12T15:02:41+00:00"
+    },
+    {
+      "id": "3c3d76731c5a037f0b0c",
+      "source": "BBC News",
+      "title": "Why the US is bringing back firing squads",
+      "url": "https://www.bbc.co.uk/news/articles/cmpwg28vrexzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T14:56:43+00:00"
     },
     {
       "id": "e2ab231e64e7bb054144",
@@ -38,6 +52,13 @@
       "title": "Roma, operaio muore precipitando dal tetto di un capannone",
       "url": "https://www.tgcom24.mediaset.it/cronaca/roma-operaio-morto-tetto-capannone_117591329-202602k.shtml",
       "published": "2026-10-12T14:36:00+00:00"
+    },
+    {
+      "id": "1802b382eb4c874e32bf",
+      "source": "BBC News",
+      "title": "Fridges in French supermarkets hit by cyber attack",
+      "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T14:30:09+00:00"
     },
     {
       "id": "d838f17599d65f98ab1a",
@@ -292,25 +313,11 @@
       "published": "2026-10-11T21:30:00+00:00"
     },
     {
-      "id": "d8ef6f9f32c7d828d99a",
-      "source": "BBC News",
-      "title": "Watch: What's behind Trump's energy ceasefire claim?",
-      "url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-11T20:55:02+00:00"
-    },
-    {
       "id": "4a9aacab09a853c2d114",
       "source": "TGcom24",
       "title": "Tregua energetica Russa-Ucraina, media Usa: \"Mosca ancora non ha accettato\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-11-ottobre_117523430-202602k.shtml",
       "published": "2026-10-11T20:20:00+00:00"
-    },
-    {
-      "id": "c91323c0e24a4ca2d7fb",
-      "source": "TGcom24",
-      "title": "Treviso, cade da tettuccio di un'auto in corsa: gravissimo un 23enne",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/treviso-ragazzo-caduta-tettuccio-automobile-riprese-video_117568554-202602k.shtml",
-      "published": "2026-10-11T19:45:00+00:00"
     },
     {
       "id": "6334c2e573498275401a",
