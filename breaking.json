@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-12T05:27:54.927669+00:00",
+  "updated_at": "2026-10-12T05:44:14.127580+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-12T05:27:54.927669+00:00"
+      "checked_at": "2026-10-12T05:44:14.127580+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-12T05:27:54.927669+00:00"
+      "checked_at": "2026-10-12T05:44:14.127580+00:00"
     }
   },
   "items": [
+    {
+      "id": "7136bbf8fd9ff43ae5d1",
+      "source": "TGcom24",
+      "title": "Ucraina, attacco missilistico russo su Kharkiv: tre morti e 25 feriti",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-12-ottobre_117575197-202602k.shtml",
+      "published": "2026-10-12T05:39:00+00:00"
+    },
     {
       "id": "1b581f25b87b57bae765",
       "source": "BBC News",
@@ -269,13 +276,6 @@
       "title": "Buildings swept away as flash floods hit central Nepal",
       "url": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-11T10:34:02+00:00"
-    },
-    {
-      "id": "43e19b6d0bb330f2cd67",
-      "source": "TGcom24",
-      "title": "Il Papa: \"Ho un nodulo al polmone, ho deciso di operarmi\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/il-papa-ho-un-nodulo-al-polmone-ho-deciso-di-operarmi-_117535844-202602k.shtml",
-      "published": "2026-10-11T10:20:00+00:00"
     },
     {
       "id": "2de82cfb9c9eac534437",
