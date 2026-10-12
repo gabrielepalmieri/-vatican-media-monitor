@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-10-12T22:24:04.657441+00:00",
+  "updated_at": "2026-10-12T22:42:22.127227+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-10-12T22:24:04.657441+00:00"
+      "checked_at": "2026-10-12T22:42:22.127227+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-12T22:24:04.657441+00:00"
+      "checked_at": "2026-10-12T22:42:22.127227+00:00"
     }
   },
   "items": [
+    {
+      "id": "5eafaa26f07425f7f678",
+      "source": "BBC News",
+      "title": "Breaking Bad actor RJ Mitte dies aged 34",
+      "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T22:24:11+00:00"
+    },
     {
       "id": "1b8e8d5b21aff9c7b9ac",
       "source": "BBC News",
       "title": "Immigration agents search congresswoman Ilhan Omar's home",
       "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-12T22:05:31+00:00"
-    },
-    {
-      "id": "5eafaa26f07425f7f678",
-      "source": "BBC News",
-      "title": "Breaking Bad actor RJ Mitte dies aged 34",
-      "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-12T21:47:53+00:00"
     },
     {
       "id": "a4b0636c822f7f00d105",
