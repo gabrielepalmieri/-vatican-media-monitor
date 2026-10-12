@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-12T06:01:26.951585+00:00",
+  "updated_at": "2026-10-12T06:22:55.144073+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-12T06:01:26.951585+00:00"
+      "checked_at": "2026-10-12T06:22:55.144073+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-12T06:01:26.951585+00:00"
+      "checked_at": "2026-10-12T06:22:55.144073+00:00"
     }
   },
   "items": [
+    {
+      "id": "a89769a7257908d00c8c",
+      "source": "TGcom24",
+      "title": "Parigi, il più antico mercato coperto devastato da un maxi-incendio",
+      "url": "https://www.tgcom24.mediaset.it/mondo/parigi-incendio-mercato-centro_117575529-202602k.shtml",
+      "published": "2026-10-12T06:18:00+00:00"
+    },
     {
       "id": "7136bbf8fd9ff43ae5d1",
       "source": "TGcom24",
@@ -105,7 +112,7 @@
     {
       "id": "ff561d2f490256c72a3e",
       "source": "BBC News",
-      "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "title": "Zelensky backs Trump's 'energy ceasefire' but says Russia continues to hit power plants",
       "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-11T21:36:40+00:00"
     },
@@ -262,13 +269,6 @@
       "title": "Comunali, Tajani: \"Vogliamo governare Milano, Perego incarna spirito della città\"",
       "url": "https://www.tgcom24.mediaset.it/politica/elezioni-comunali-milano-antonio-tajani-matteo-perego-di-cremnago_117538525-202602k.shtml",
       "published": "2026-10-11T11:18:00+00:00"
-    },
-    {
-      "id": "dbb69d66b1241e1c40b8",
-      "source": "TGcom24",
-      "title": "Mestre, perseguitata dall'ex si chiude nel bagno di una pizzeria e lo fa arrestare",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/mestre-donna-perseguitata-nascosta-bagno-pizzeria-arrestato-ex-compagno_117535039-202602k.shtml",
-      "published": "2026-10-11T10:55:00+00:00"
     },
     {
       "id": "04b43ae231e464637b86",
