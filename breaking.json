@@ -1,29 +1,36 @@
 {
-  "updated_at": "2026-10-12T15:56:01.879296+00:00",
+  "updated_at": "2026-10-12T16:10:00.377859+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-12T15:56:01.879296+00:00"
+      "checked_at": "2026-10-12T16:10:00.377859+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-12T15:56:01.879296+00:00"
+      "checked_at": "2026-10-12T16:10:00.377859+00:00"
     }
   },
   "items": [
+    {
+      "id": "1b8e8d5b21aff9c7b9ac",
+      "source": "BBC News",
+      "title": "Immigration agents search Congresswoman Ilhan Omar's home",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T16:04:13+00:00"
+    },
+    {
+      "id": "21c23ca5922311a1a8cd",
+      "source": "BBC News",
+      "title": "Watch: What could Trump's energy ceasefire mean for Ukraine?",
+      "url": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T15:51:30+00:00"
+    },
     {
       "id": "a24002101cee2c29bdc3",
       "source": "TGcom24",
       "title": "Roma, aggressioni in minicar: nuovo intervento chirurgico per l'attore Iacopini",
       "url": "https://www.tgcom24.mediaset.it/cronaca/roma-aggressioni-minicar-intervento-iacopini_117594599-202602k.shtml",
       "published": "2026-10-12T15:48:00+00:00"
-    },
-    {
-      "id": "1b8e8d5b21aff9c7b9ac",
-      "source": "BBC News",
-      "title": "Immigration agents search Congresswoman Ilhan Omar's home",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-12T15:44:46+00:00"
     },
     {
       "id": "46aa44bc1b3f61d7dcfe",
@@ -220,13 +227,6 @@
       "title": "Ucraina, il ministro degli Esteri: \"La Russia ha già violato la tregua energetica\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-12-ottobre_117575197-202602k.shtml",
       "published": "2026-10-12T07:01:00+00:00"
-    },
-    {
-      "id": "55ff00b1c8dcaf4d5741",
-      "source": "BBC News",
-      "title": "Watch: How did Roman Abramovich's advisors help hide his wealth?",
-      "url": "https://www.bbc.co.uk/news/videos/c9rkynp1m01mo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-12T06:35:02+00:00"
     },
     {
       "id": "a89769a7257908d00c8c",
