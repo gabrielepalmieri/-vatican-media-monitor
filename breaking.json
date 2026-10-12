@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-12T14:42:18.810992+00:00",
+  "updated_at": "2026-10-12T15:03:43.960535+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-12T14:42:18.810992+00:00"
+      "checked_at": "2026-10-12T15:03:43.960535+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-12T14:42:18.810992+00:00"
+      "checked_at": "2026-10-12T15:03:43.960535+00:00"
     }
   },
   "items": [
+    {
+      "id": "1b8e8d5b21aff9c7b9ac",
+      "source": "BBC News",
+      "title": "Immigration agents search Congresswoman Ilhan Omar's home",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T15:02:41+00:00"
+    },
+    {
+      "id": "e2ab231e64e7bb054144",
+      "source": "TGcom24",
+      "title": "Sardegna, raggiunto dai soccorritori lo speleologo bloccato in una grotta",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/sardegna-raggiunto-soccorsi-speleologo-bloccato-grotta_117579793-202602k.shtml",
+      "published": "2026-10-12T14:56:00+00:00"
+    },
     {
       "id": "96314d3c37342ecc3fab",
       "source": "BBC News",
@@ -269,13 +283,6 @@
       "title": "Mourners killed by Kenya police at ex-PM's national farewell not part of violence, BBC finds",
       "url": "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-11T23:13:20+00:00"
-    },
-    {
-      "id": "46f4349291c60ad4e782",
-      "source": "TGcom24",
-      "title": "Sardegna, frana in una grotta: speleologo bloccato a dieci metri di profondità",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/sardegna-speleologo-bloccato_117573558-202602k.shtml",
-      "published": "2026-10-11T22:00:00+00:00"
     },
     {
       "id": "11876da3bd3d27bfa12d",
