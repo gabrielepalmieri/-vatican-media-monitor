@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-12T17:29:50.713876+00:00",
+  "updated_at": "2026-10-12T17:45:00.873751+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-12T17:29:50.713876+00:00"
+      "checked_at": "2026-10-12T17:45:00.873751+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-12T17:29:50.713876+00:00"
+      "checked_at": "2026-10-12T17:45:00.873751+00:00"
     }
   },
   "items": [
+    {
+      "id": "2b6d44be7ed524eb22cb",
+      "source": "BBC News",
+      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T17:32:13+00:00"
+    },
     {
       "id": "87aa20d70613c13a27c8",
       "source": "TGcom24",
@@ -31,13 +38,6 @@
       "title": "Immigration agents search Congresswoman Ilhan Omar's home",
       "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-12T17:09:55+00:00"
-    },
-    {
-      "id": "2b6d44be7ed524eb22cb",
-      "source": "BBC News",
-      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-12T16:53:00+00:00"
     },
     {
       "id": "e0c3ffa7ebc1768695f8",
