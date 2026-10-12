@@ -1,16 +1,51 @@
 {
-  "updated_at": "2026-10-12T13:56:51.823156+00:00",
+  "updated_at": "2026-10-12T14:15:59.425622+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-12T13:56:51.823156+00:00"
+      "checked_at": "2026-10-12T14:15:59.425622+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-12T13:56:51.823156+00:00"
+      "checked_at": "2026-10-12T14:15:59.425622+00:00"
     }
   },
   "items": [
+    {
+      "id": "d838f17599d65f98ab1a",
+      "source": "BBC News",
+      "title": "Pupil arrested after two teachers shot at French school",
+      "url": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T14:13:16+00:00"
+    },
+    {
+      "id": "e5cd3eea995100d7aae4",
+      "source": "BBC News",
+      "title": "Tom Cruise film Digger forecast to become one of Hollywood's biggest flops",
+      "url": "https://www.bbc.co.uk/news/articles/cke8re5v1pgmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T14:11:27+00:00"
+    },
+    {
+      "id": "6420724bf0886580f316",
+      "source": "TGcom24",
+      "title": "Delitto di Garlasco, Andrea Sempio: \"Chiariremo tutto appena potremo\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/delitto-di-garlasco-andrea-sempio-chiariremo-tutto-appena-potremo-_117589315-202602k.shtml",
+      "published": "2026-10-12T14:05:00+00:00"
+    },
+    {
+      "id": "9b3e26e685d3c09afe78",
+      "source": "BBC News",
+      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T14:00:03+00:00"
+    },
+    {
+      "id": "09b7e0b1ae5081362e9f",
+      "source": "BBC News",
+      "title": "US detains man accused in multi-billion Venezuelan money laundering scheme",
+      "url": "https://www.bbc.co.uk/news/articles/crp3gy0x0dd1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T13:49:05+00:00"
+    },
     {
       "id": "f3a8aa31f9b910d51b38",
       "source": "TGcom24",
@@ -40,16 +75,9 @@
       "published": "2026-10-12T12:22:00+00:00"
     },
     {
-      "id": "d838f17599d65f98ab1a",
-      "source": "BBC News",
-      "title": "Pupil arrested after two teachers shot at French school",
-      "url": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-12T12:18:45+00:00"
-    },
-    {
       "id": "17322be250eb21f940af",
       "source": "BBC News",
-      "title": "Who are the Houthis, and why are they so hard to fight?",
+      "title": "Why is it so hard to fight the Houthis?",
       "url": "https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-12T12:15:01+00:00"
     },
@@ -59,13 +87,6 @@
       "title": "David Rossi (Mps), in un video dei Ris la ricostruzione della sua morte",
       "url": "https://www.tgcom24.mediaset.it/2026/video/morte-david-rossi-mps-la-ricostruzione-video-dei-ris-una-persona-nel-vicolo-ha-atteso-che-morisse-_117587406-02k.shtml",
       "published": "2026-10-12T11:58:00+00:00"
-    },
-    {
-      "id": "e5cd3eea995100d7aae4",
-      "source": "BBC News",
-      "title": "Tom Cruise film Digger forecast to lose $245m at box office",
-      "url": "https://www.bbc.co.uk/news/articles/cke8re5v1pgmo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-12T11:29:18+00:00"
     },
     {
       "id": "d01bbc076b5727a76458",
@@ -80,13 +101,6 @@
       "title": "David Rossi (Mps), commissione d'inchiesta: una persona nel vicolo ha atteso che morisse",
       "url": "https://www.tgcom24.mediaset.it/cronaca/morte-david-rossi-mps-commissione-ris-video--ndrangheta_117583459-202602k.shtml",
       "published": "2026-10-12T10:45:00+00:00"
-    },
-    {
-      "id": "9b3e26e685d3c09afe78",
-      "source": "BBC News",
-      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-      "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-12T10:28:47+00:00"
     },
     {
       "id": "9a5a51c18baae3502e0e",
@@ -220,13 +234,6 @@
       "title": "Robert Pattinson on new film Primetime and how hunting predators became hit TV",
       "url": "https://www.bbc.co.uk/news/articles/cmn5d92423vyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-11T23:39:12+00:00"
-    },
-    {
-      "id": "2d2adb57de70a3bca7d5",
-      "source": "BBC News",
-      "title": "Iconic Australian band Powderfinger announce first tour in 17 years",
-      "url": "https://www.bbc.co.uk/news/articles/c680zyx8gkkjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-11T23:33:24+00:00"
     },
     {
       "id": "3a2414f0fc5af555cf79",
