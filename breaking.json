@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-13T01:26:32.749241+00:00",
+  "updated_at": "2026-10-13T01:45:19.778380+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-10-13T01:26:32.749241+00:00"
+      "checked_at": "2026-10-13T01:45:19.778380+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-13T01:26:32.749241+00:00"
+      "checked_at": "2026-10-13T01:45:19.778380+00:00"
     }
   },
   "items": [
+    {
+      "id": "9b3e26e685d3c09afe78",
+      "source": "BBC News",
+      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T01:26:02+00:00"
+    },
     {
       "id": "5eafaa26f07425f7f678",
       "source": "BBC News",
@@ -59,13 +66,6 @@
       "title": "Pupil arrested after two teachers shot at French school",
       "url": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-12T21:01:28+00:00"
-    },
-    {
-      "id": "9b3e26e685d3c09afe78",
-      "source": "BBC News",
-      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-      "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-12T20:54:09+00:00"
     },
     {
       "id": "f3c62bc95abd92eaf760",
@@ -374,13 +374,6 @@
       "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
       "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-11T14:38:10+00:00"
-    },
-    {
-      "id": "6103e387cf5e72fae82e",
-      "source": "BBC News",
-      "title": "Pope Leo to have surgery after lump found on lung",
-      "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-11T13:38:55+00:00"
     }
   ]
 }
