@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-13T06:22:59.948647+00:00",
+  "updated_at": "2026-10-13T06:51:00.421323+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-13T06:22:59.948647+00:00"
+      "checked_at": "2026-10-13T06:51:00.421323+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-13T06:22:59.948647+00:00"
+      "checked_at": "2026-10-13T06:51:00.421323+00:00"
     }
   },
   "items": [
+    {
+      "id": "5eafaa26f07425f7f678",
+      "source": "BBC News",
+      "title": "Breaking Bad actor RJ Mitte dies aged 34",
+      "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T06:26:05+00:00"
+    },
+    {
+      "id": "d6d82c6f30fad4cfc4f3",
+      "source": "TGcom24",
+      "title": "Francia, attacco hacker ai frigoriferi dei supermercati: danni per milioni di euro",
+      "url": "https://www.tgcom24.mediaset.it/mondo/francia-hacker-frigoriferi-supermercati_117612366-202602k.shtml",
+      "published": "2026-10-13T06:25:00+00:00"
+    },
     {
       "id": "7083d1e35847d25b10d6",
       "source": "TGcom24",
@@ -87,13 +101,6 @@
       "title": "Francia, la Marina abborda una petroliera fantasma nell'Oceano Indiano",
       "url": "https://www.tgcom24.mediaset.it/mondo/francia-marina-abborda-petroliera-fantasma-oceano-indiano_117608175-202602k.shtml",
       "published": "2026-10-13T04:00:00+00:00"
-    },
-    {
-      "id": "5eafaa26f07425f7f678",
-      "source": "BBC News",
-      "title": "Breaking Bad actor RJ Mitte dies aged 34",
-      "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T03:44:40+00:00"
     },
     {
       "id": "c972a5b485aba9560aeb",
@@ -332,13 +339,6 @@
       "title": "Spettacolo in lutto, morto il comico Giorgio Bracardi: aveva 93 anni",
       "url": "https://www.tgcom24.mediaset.it/spettacolo/morto-giorgio-bracardi_117589098-202602k.shtml",
       "published": "2026-10-12T13:12:00+00:00"
-    },
-    {
-      "id": "3504b8c27203c43ab40c",
-      "source": "TGcom24",
-      "title": "Legge elettorale: presentati 30 ricorsi, 6 dubbi di costituzionalità",
-      "url": "https://www.tgcom24.mediaset.it/politica/legge-elettorale-ricorsi-dubbi-di-costituzionalita_117588091-202602k.shtml",
-      "published": "2026-10-12T12:52:00+00:00"
     },
     {
       "id": "17322be250eb21f940af",
