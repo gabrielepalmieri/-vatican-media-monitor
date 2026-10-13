@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-13T10:46:57.902692+00:00",
+  "updated_at": "2026-10-13T11:03:08.866477+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-13T10:46:57.902692+00:00"
+      "checked_at": "2026-10-13T11:03:08.866477+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-13T10:46:57.902692+00:00"
+      "checked_at": "2026-10-13T11:03:08.866477+00:00"
     }
   },
   "items": [
+    {
+      "id": "5b39e55165f9d6b2e48f",
+      "source": "BBC News",
+      "title": "Bulgarian PM summons Russian ambassador after ship sinks in Black Sea drone attack",
+      "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T10:57:17+00:00"
+    },
     {
       "id": "a1ecc844572b100a9c0a",
       "source": "TGcom24",
@@ -52,13 +59,6 @@
       "title": "US emergency call records reveal confusion after failed execution of Christa Pike",
       "url": "https://www.bbc.co.uk/news/articles/ck1exg6qjdz3o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-13T09:11:08+00:00"
-    },
-    {
-      "id": "5b39e55165f9d6b2e48f",
-      "source": "BBC News",
-      "title": "Ship sinks in new drone attack off Bulgaria, PM summons Russian ambassador",
-      "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T08:52:48+00:00"
     },
     {
       "id": "b14673b66ceeb249e331",
