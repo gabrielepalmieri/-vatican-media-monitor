@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-13T09:18:34.269457+00:00",
+  "updated_at": "2026-10-13T09:38:02.638937+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-13T09:18:34.269457+00:00"
+      "checked_at": "2026-10-13T09:38:02.638937+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-13T09:18:34.269457+00:00"
+      "checked_at": "2026-10-13T09:38:02.638937+00:00"
     }
   },
   "items": [
+    {
+      "id": "72fb717d5163081f5656",
+      "source": "TGcom24",
+      "title": "L'allarme di Varsavia: \"Nato si prepari ad attacco ibrido letale dalla Russia\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-13-ottobre_117611441-202602k.shtml",
+      "published": "2026-10-13T09:36:00+00:00"
+    },
+    {
+      "id": "2d401bb7148b8322d965",
+      "source": "BBC News",
+      "title": "US emergency call records reveal confusion after failed execution of Christa Pike",
+      "url": "https://www.bbc.co.uk/news/articles/ck1exg6qjdz3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T09:11:08+00:00"
+    },
     {
       "id": "5b39e55165f9d6b2e48f",
       "source": "BBC News",
@@ -24,13 +38,6 @@
       "title": "Torino, costringe la compagna a pratiche sessuali estreme: arrestato per tortura",
       "url": "https://www.tgcom24.mediaset.it/cronaca/torino-pratiche-sessuali-estreme-arrestato-chieri_117615420-202602k.shtml",
       "published": "2026-10-13T08:40:00+00:00"
-    },
-    {
-      "id": "3f564a07e77f4c079764",
-      "source": "BBC News",
-      "title": "Emergency calls from botched Christa Pike execution released to US media",
-      "url": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T08:20:07+00:00"
     },
     {
       "id": "5eafaa26f07425f7f678",
@@ -339,13 +346,6 @@
       "title": "Why the US is bringing back firing squads",
       "url": "https://www.bbc.co.uk/news/articles/cmpwg28vrexzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-12T14:56:43+00:00"
-    },
-    {
-      "id": "e2ab231e64e7bb054144",
-      "source": "TGcom24",
-      "title": "Sardegna, raggiunto dai soccorritori lo speleologo bloccato in una grotta",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/sardegna-raggiunto-soccorsi-speleologo-bloccato-grotta_117579793-202602k.shtml",
-      "published": "2026-10-12T14:56:00+00:00"
     },
     {
       "id": "e5cd3eea995100d7aae4",
