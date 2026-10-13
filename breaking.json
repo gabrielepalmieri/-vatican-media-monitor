@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-13T07:32:23.367483+00:00",
+  "updated_at": "2026-10-13T07:51:21.119686+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-13T07:32:23.367483+00:00"
+      "checked_at": "2026-10-13T07:51:21.119686+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-13T07:32:23.367483+00:00"
+      "checked_at": "2026-10-13T07:51:21.119686+00:00"
     }
   },
   "items": [
+    {
+      "id": "3f564a07e77f4c079764",
+      "source": "BBC News",
+      "title": "Emergency calls from botched Christa Pike execution released to US media",
+      "url": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T07:49:13+00:00"
+    },
     {
       "id": "0b2b7a6eb8921a432c43",
       "source": "BBC News",
@@ -133,7 +140,7 @@
     {
       "id": "1fdd72365582cb7a2598",
       "source": "BBC News",
-      "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
+      "title": "Dating app Bumble in $1bn takeover talks, say reports",
       "url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-13T01:50:47+00:00"
     },
