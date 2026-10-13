@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-13T04:02:23.815697+00:00",
+  "updated_at": "2026-10-13T04:19:35.432909+00:00",
   "sources": {
     "TGcom24": {
-      "ok": false,
-      "checked_at": "2026-10-13T04:02:23.815697+00:00"
+      "ok": true,
+      "checked_at": "2026-10-13T04:19:35.432909+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-13T04:02:23.815697+00:00"
+      "checked_at": "2026-10-13T04:19:35.432909+00:00"
     }
   },
   "items": [
+    {
+      "id": "fc7e69440cabb31e97cc",
+      "source": "TGcom24",
+      "title": "Francia, la Marina abborda una petroliera fantasma nell'Oceano Indiano",
+      "url": "https://www.tgcom24.mediaset.it/mondo/francia-marina-abborda-petroliera-fantasma-oceano-indiano_117608175-202602k.shtml",
+      "published": "2026-10-13T04:00:00+00:00"
+    },
     {
       "id": "5eafaa26f07425f7f678",
       "source": "BBC News",
@@ -31,6 +38,13 @@
       "title": "Immigration agents search congresswoman Ilhan Omar's home",
       "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-12T22:05:31+00:00"
+    },
+    {
+      "id": "4eaf6e58501218fd378b",
+      "source": "TGcom24",
+      "title": "Kiev, drone russo contro un grattacielo: almeno due morti",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-12-ottobre_117575197-202602k.shtml",
+      "published": "2026-10-12T21:58:00+00:00"
     },
     {
       "id": "a4b0636c822f7f00d105",
@@ -271,25 +285,11 @@
       "published": "2026-10-12T10:45:00+00:00"
     },
     {
-      "id": "9a5a51c18baae3502e0e",
-      "source": "TGcom24",
-      "title": "Premio Nobel per l'Economia agli economisti Robert E. Hall e Michael Woodford",
-      "url": "https://www.tgcom24.mediaset.it/mondo/premio-nobel-economia-robert-hall-michael-woodford_117583960-202602k.shtml",
-      "published": "2026-10-12T10:23:00+00:00"
-    },
-    {
       "id": "bb2c75c4b86d449eacd6",
       "source": "BBC News",
       "title": "Women's billion-dollar boom leaves players behind, says Fifpro",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmd7qn1g0xrxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-12T10:04:50+00:00"
-    },
-    {
-      "id": "89506b999feed6ac8dee",
-      "source": "TGcom24",
-      "title": "Mattarella: \"L'Ue è lo spazio in cui agire, rinsaldare il modello sociale\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/sergio-mattarella-unione-europea_117583454-202602k.shtml",
-      "published": "2026-10-12T09:59:00+00:00"
     },
     {
       "id": "dab8afd946e827a55c51",
