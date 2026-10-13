@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-10-13T03:27:09.268686+00:00",
+  "updated_at": "2026-10-13T03:46:34.149634+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-10-13T03:27:09.268686+00:00"
+      "checked_at": "2026-10-13T03:46:34.149634+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-13T03:27:09.268686+00:00"
+      "checked_at": "2026-10-13T03:46:34.149634+00:00"
     }
   },
   "items": [
+    {
+      "id": "5eafaa26f07425f7f678",
+      "source": "BBC News",
+      "title": "Breaking Bad actor RJ Mitte dies aged 34",
+      "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T03:44:40+00:00"
+    },
     {
       "id": "9b3e26e685d3c09afe78",
       "source": "BBC News",
       "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
       "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-13T01:26:02+00:00"
-    },
-    {
-      "id": "5eafaa26f07425f7f678",
-      "source": "BBC News",
-      "title": "Breaking Bad actor RJ Mitte dies aged 34",
-      "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T00:12:25+00:00"
     },
     {
       "id": "1b8e8d5b21aff9c7b9ac",
@@ -346,20 +346,6 @@
       "title": "Poland detains man suspected of planning assassination of PM Tusk",
       "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-11T17:27:24+00:00"
-    },
-    {
-      "id": "0db14c9efb917b2e16d8",
-      "source": "BBC News",
-      "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
-      "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-11T15:32:32+00:00"
-    },
-    {
-      "id": "d0e279282b4392e69f38",
-      "source": "BBC News",
-      "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
-      "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-11T15:32:23+00:00"
     }
   ]
 }
