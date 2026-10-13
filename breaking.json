@@ -1,16 +1,51 @@
 {
-  "updated_at": "2026-10-13T22:02:54.903440+00:00",
+  "updated_at": "2026-10-13T22:25:39.711250+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-13T22:02:54.903440+00:00"
+      "checked_at": "2026-10-13T22:25:39.711250+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-13T22:02:54.903440+00:00"
+      "checked_at": "2026-10-13T22:25:39.711250+00:00"
     }
   },
   "items": [
+    {
+      "id": "4c189cc07c52b876467d",
+      "source": "BBC News",
+      "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
+      "url": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T22:07:40+00:00"
+    },
+    {
+      "id": "33402a2f6830cf363ca1",
+      "source": "TGcom24",
+      "title": "Omicidio Tupac, Duane \"Keffe D\" Davis condannato a 40 anni di carcere",
+      "url": "https://www.tgcom24.mediaset.it/mondo/tupac-condanna-duane-davis-omicidio-40-anni-carcere_117645269-202602k.shtml",
+      "published": "2026-10-13T22:07:00+00:00"
+    },
+    {
+      "id": "729a43abc4ea2d84df55",
+      "source": "BBC News",
+      "title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T22:02:09+00:00"
+    },
+    {
+      "id": "a807b23dd45e5c04c460",
+      "source": "BBC News",
+      "title": "Who's to blame for the toxic smog choking South East Asia?",
+      "url": "https://www.bbc.co.uk/news/articles/ckreyq9re0n0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T22:01:43+00:00"
+    },
+    {
+      "id": "c869216733d5b082eb95",
+      "source": "BBC News",
+      "title": "Why the lonely in China are hiring 'temporary children'",
+      "url": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T22:00:20+00:00"
+    },
     {
       "id": "ec4aad0cd8446a848dfb",
       "source": "BBC News",
@@ -264,27 +299,6 @@
       "published": "2026-10-13T07:16:00+00:00"
     },
     {
-      "id": "74bf1fb212191b612bbe",
-      "source": "TGcom24",
-      "title": "Ucraina, colpite due navi al largo della Bulgaria: \"Attacchi inaccettabili\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-13-ottobre_117611441-202602k.shtml",
-      "published": "2026-10-13T06:54:00+00:00"
-    },
-    {
-      "id": "3de95574f3559e0b7349",
-      "source": "BBC News",
-      "title": "Death threats and isolation - the cost of fighting sexual violence in Iraq",
-      "url": "https://www.bbc.co.uk/news/articles/cqd089r55vp3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T05:02:57+00:00"
-    },
-    {
-      "id": "c4683e4dc3da9b14281e",
-      "source": "BBC News",
-      "title": "Where the US midterm elections will be won and lost",
-      "url": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T05:02:44+00:00"
-    },
-    {
       "id": "f214a22852b7f8830ad3",
       "source": "BBC News",
       "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
@@ -299,25 +313,11 @@
       "published": "2026-10-13T04:27:22+00:00"
     },
     {
-      "id": "ef8e72dea71e73ef945d",
-      "source": "BBC News",
-      "title": "Boardroom feud tests trusted Indian business empire",
-      "url": "https://www.bbc.co.uk/news/articles/c54g1mp7lz7zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-12T23:10:32+00:00"
-    },
-    {
       "id": "9c6f62d63d4c3ccb90c0",
       "source": "BBC News",
       "title": "The island where locals say data centres are taking their water",
       "url": "https://www.bbc.co.uk/news/articles/cqj6j7wlxd5eo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-12T22:30:55+00:00"
-    },
-    {
-      "id": "21c23ca5922311a1a8cd",
-      "source": "BBC News",
-      "title": "What could Trump's energy ceasefire mean for Ukraine?",
-      "url": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-12T15:51:30+00:00"
     }
   ]
 }
