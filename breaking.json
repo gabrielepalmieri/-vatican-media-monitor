@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-13T04:19:35.432909+00:00",
+  "updated_at": "2026-10-13T04:39:55.907460+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-13T04:19:35.432909+00:00"
+      "checked_at": "2026-10-13T04:39:55.907460+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-13T04:19:35.432909+00:00"
+      "checked_at": "2026-10-13T04:39:55.907460+00:00"
     }
   },
   "items": [
+    {
+      "id": "9b3e26e685d3c09afe78",
+      "source": "BBC News",
+      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T04:30:09+00:00"
+    },
+    {
+      "id": "d97fa1fe3b33b1774e5c",
+      "source": "TGcom24",
+      "title": "Monito Fmi: \"L'economia mondiale ha retto, ma potrebbe essere al limite\"",
+      "url": "https://www.tgcom24.mediaset.it/economia/fondo-monetario-internazionale-economia-mondiale-limite_117610320-202602k.shtml",
+      "published": "2026-10-13T04:29:00+00:00"
+    },
     {
       "id": "fc7e69440cabb31e97cc",
       "source": "TGcom24",
@@ -24,13 +38,6 @@
       "title": "Breaking Bad actor RJ Mitte dies aged 34",
       "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-13T03:44:40+00:00"
-    },
-    {
-      "id": "9b3e26e685d3c09afe78",
-      "source": "BBC News",
-      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-      "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T01:26:02+00:00"
     },
     {
       "id": "1b8e8d5b21aff9c7b9ac",
@@ -276,13 +283,6 @@
       "title": "Tregua energetica, Cremlino: \"No alla tregua, vogliamo una pace duratura\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-12-ottobre_117575197-202602k.shtml",
       "published": "2026-10-12T11:19:00+00:00"
-    },
-    {
-      "id": "e2e2028dc4e2fd6d7d9a",
-      "source": "TGcom24",
-      "title": "David Rossi (Mps), commissione d'inchiesta: una persona nel vicolo ha atteso che morisse",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/morte-david-rossi-mps-commissione-ris-video--ndrangheta_117583459-202602k.shtml",
-      "published": "2026-10-12T10:45:00+00:00"
     },
     {
       "id": "bb2c75c4b86d449eacd6",
