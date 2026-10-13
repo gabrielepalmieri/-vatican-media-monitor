@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-13T23:15:11.778111+00:00",
+  "updated_at": "2026-10-13T23:42:33.348036+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-13T23:15:11.778111+00:00"
+      "checked_at": "2026-10-13T23:42:33.348036+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-13T23:15:11.778111+00:00"
+      "checked_at": "2026-10-13T23:42:33.348036+00:00"
     }
   },
   "items": [
+    {
+      "id": "b0da7e6f90afd10363c2",
+      "source": "BBC News",
+      "title": "Zimbabwean author denies using AI to write award-winning story",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T23:31:10+00:00"
+    },
     {
       "id": "c44faaf53df99878d4e1",
       "source": "BBC News",
@@ -227,13 +234,6 @@
       "title": "Viminale, femminicidi in calo nei primi nove mesi dell'anno",
       "url": "https://www.tgcom24.mediaset.it/cronaca/viminale-omicidi-calo-donne-vittime_117624094-202602k.shtml",
       "published": "2026-10-13T12:39:00+00:00"
-    },
-    {
-      "id": "cdfb28aadfa34e961e1b",
-      "source": "BBC News",
-      "title": "BBC FM radio transmissions suspended in Afghanistan",
-      "url": "https://www.bbc.co.uk/news/articles/cm8ezp4g7p6po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T12:13:57+00:00"
     },
     {
       "id": "c67bb9d3a76fce8f2f09",
