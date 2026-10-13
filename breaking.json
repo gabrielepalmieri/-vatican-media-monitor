@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-13T13:54:20.873701+00:00",
+  "updated_at": "2026-10-13T14:13:20.996752+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-13T13:54:20.873701+00:00"
+      "checked_at": "2026-10-13T14:13:20.996752+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-13T13:54:20.873701+00:00"
+      "checked_at": "2026-10-13T14:13:20.996752+00:00"
     }
   },
   "items": [
+    {
+      "id": "5b39e55165f9d6b2e48f",
+      "source": "BBC News",
+      "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
+      "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T14:06:27+00:00"
+    },
     {
       "id": "c32df0ec7704073fb5be",
       "source": "BBC News",
@@ -19,18 +26,18 @@
       "published": "2026-10-13T13:40:45+00:00"
     },
     {
+      "id": "09e900acee568aecc0e9",
+      "source": "BBC News",
+      "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
+      "url": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T13:27:31+00:00"
+    },
+    {
       "id": "fe30f7484752dbf3eedf",
       "source": "BBC News",
       "title": "Hungarian MPs scrap Orbán's anti-LGBTQ measures",
       "url": "https://www.bbc.co.uk/news/articles/c6vg9nj4l322o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-13T13:23:45+00:00"
-    },
-    {
-      "id": "5b39e55165f9d6b2e48f",
-      "source": "BBC News",
-      "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-      "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T13:17:58+00:00"
     },
     {
       "id": "e7f7ac93856630df2853",
@@ -262,13 +269,6 @@
       "title": "Israele, Herzog lavora a un governo di unità nazionale con Netanyahu ed Eisenkot",
       "url": "https://www.tgcom24.mediaset.it/mondo/israele-herzog-lavora-per-governo-unita-nazionale_117604520-202602k.shtml",
       "published": "2026-10-12T20:22:00+00:00"
-    },
-    {
-      "id": "93624f344d0e881dc67f",
-      "source": "BBC News",
-      "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-      "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-12T20:17:37+00:00"
     },
     {
       "id": "64a1050f8d8e658d1de9",
