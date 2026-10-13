@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-13T11:39:17.517093+00:00",
+  "updated_at": "2026-10-13T11:55:05.902343+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-13T11:39:17.517093+00:00"
+      "checked_at": "2026-10-13T11:55:05.902343+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-13T11:39:17.517093+00:00"
+      "checked_at": "2026-10-13T11:55:05.902343+00:00"
     }
   },
   "items": [
+    {
+      "id": "9a364a2c2187826eb843",
+      "source": "TGcom24",
+      "title": "Ungheria, eliminata la prima legge anti-Lgbtqia+ voluta da Orbán",
+      "url": "https://www.tgcom24.mediaset.it/mondo/ungheria-cancella-norma-anti-lgbtqia-voluta-da-orban_117617497-202602k.shtml",
+      "published": "2026-10-13T11:40:00+00:00"
+    },
     {
       "id": "c32df0ec7704073fb5be",
       "source": "BBC News",
@@ -320,13 +327,6 @@
       "published": "2026-10-12T17:17:00+00:00"
     },
     {
-      "id": "e0c3ffa7ebc1768695f8",
-      "source": "TGcom24",
-      "title": "Cinisello Balsamo, trovato neonato abbandonato in una busta per strada",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/cinisello-balsamo-neonato-busta_117595972-202602k.shtml",
-      "published": "2026-10-12T16:50:00+00:00"
-    },
-    {
       "id": "96314d3c37342ecc3fab",
       "source": "BBC News",
       "title": "South Africa's deputy police chief resigns after being charged with sexual offences",
@@ -395,13 +395,6 @@
       "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
       "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-12T05:00:52+00:00"
-    },
-    {
-      "id": "e4603ef5722f65089edb",
-      "source": "BBC News",
-      "title": "Watch: Endangered orangutans released back into the wild after Borneo fires",
-      "url": "https://www.bbc.co.uk/news/videos/c6073z5rvrk3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-11T23:48:25+00:00"
     }
   ]
 }
