@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-13T05:28:13.060457+00:00",
+  "updated_at": "2026-10-13T05:44:47.981283+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-13T05:28:13.060457+00:00"
+      "checked_at": "2026-10-13T05:44:47.981283+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-13T05:28:13.060457+00:00"
+      "checked_at": "2026-10-13T05:44:47.981283+00:00"
     }
   },
   "items": [
@@ -68,6 +68,13 @@
       "published": "2026-10-13T04:27:22+00:00"
     },
     {
+      "id": "f091ba96c9bc6b24fd06",
+      "source": "BBC News",
+      "title": "Watch: US man eyes pumpkin world record after fifth contest win",
+      "url": "https://www.bbc.co.uk/news/videos/c80405zkgyqvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T04:04:57+00:00"
+    },
+    {
       "id": "fc7e69440cabb31e97cc",
       "source": "TGcom24",
       "title": "Francia, la Marina abborda una petroliera fantasma nell'Oceano Indiano",
@@ -82,11 +89,32 @@
       "published": "2026-10-13T03:44:40+00:00"
     },
     {
+      "id": "c972a5b485aba9560aeb",
+      "source": "BBC News",
+      "title": "One dead and several hurt after rollercoaster incident at Six Flags",
+      "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T02:26:21+00:00"
+    },
+    {
       "id": "1fdd72365582cb7a2598",
       "source": "BBC News",
       "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
       "url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-13T01:50:47+00:00"
+    },
+    {
+      "id": "ef8e72dea71e73ef945d",
+      "source": "BBC News",
+      "title": "Boardroom feud tests trusted Indian business empire",
+      "url": "https://www.bbc.co.uk/news/articles/c54g1mp7lz7zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T23:10:32+00:00"
+    },
+    {
+      "id": "9c6f62d63d4c3ccb90c0",
+      "source": "BBC News",
+      "title": "The island where locals say data centres are taking their water",
+      "url": "https://www.bbc.co.uk/news/articles/cqj6j7wlxd5eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T22:30:55+00:00"
     },
     {
       "id": "1b8e8d5b21aff9c7b9ac",
