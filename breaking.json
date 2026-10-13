@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-13T20:13:14.780583+00:00",
+  "updated_at": "2026-10-13T20:50:38.145150+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-13T20:13:14.780583+00:00"
+      "checked_at": "2026-10-13T20:50:38.145150+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-13T20:13:14.780583+00:00"
+      "checked_at": "2026-10-13T20:50:38.145150+00:00"
     }
   },
   "items": [
+    {
+      "id": "51118d5b1bf7658d1bd7",
+      "source": "BBC News",
+      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T20:46:06+00:00"
+    },
+    {
+      "id": "7083b1222347cb77028e",
+      "source": "TGcom24",
+      "title": "Papa operato per aenocarcinoma polmonare: asportato lobo inferiore del polmone destro",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/papa-leone-xiv-intervento-polmone-ultime-notizie_117612385-202602k.shtml",
+      "published": "2026-10-13T20:27:00+00:00"
+    },
     {
       "id": "c44faaf53df99878d4e1",
       "source": "BBC News",
@@ -45,13 +59,6 @@
       "title": "Cornell bans all fraternity parties over gang sex assault allegations",
       "url": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-13T18:25:28+00:00"
-    },
-    {
-      "id": "51118d5b1bf7658d1bd7",
-      "source": "BBC News",
-      "title": "Pope's surgery to remove lump on lung 'concluded successfully', Vatican says",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T18:24:03+00:00"
     },
     {
       "id": "3f65413513af2557fd50",
@@ -311,13 +318,6 @@
       "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
       "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-13T05:02:34+00:00"
-    },
-    {
-      "id": "e9700481f11ded6b3491",
-      "source": "TGcom24",
-      "title": "Georgia, si \"sgancia\" dal sedile delle montagne russe: morto un uomo",
-      "url": "https://www.tgcom24.mediaset.it/mondo/six-flags-over-georgia-incidente-morto_117610357-202602k.shtml",
-      "published": "2026-10-13T04:58:00+00:00"
     },
     {
       "id": "57fc1bf48b7ac6739ac9",
