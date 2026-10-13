@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-13T14:13:20.996752+00:00",
+  "updated_at": "2026-10-13T14:41:15.961605+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-13T14:13:20.996752+00:00"
+      "checked_at": "2026-10-13T14:41:15.961605+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-13T14:13:20.996752+00:00"
+      "checked_at": "2026-10-13T14:41:15.961605+00:00"
     }
   },
   "items": [
+    {
+      "id": "c972a5b485aba9560aeb",
+      "source": "BBC News",
+      "title": "One dead and several hurt after rollercoaster incident at Six Flags",
+      "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T14:38:43+00:00"
+    },
+    {
+      "id": "6227cb8c373421242296",
+      "source": "TGcom24",
+      "title": "Morte per ricina, terminata dopo 5 ore la perquisizione all'Agrario di Riccia",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/pietracatella-ricina-gianni-di-vita-veleno-omicidio_117615053-202602k.shtml",
+      "published": "2026-10-13T14:37:00+00:00"
+    },
     {
       "id": "5b39e55165f9d6b2e48f",
       "source": "BBC News",
@@ -87,13 +101,6 @@
       "title": "Immigration agents search congresswoman Ilhan Omar's home",
       "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-13T10:37:39+00:00"
-    },
-    {
-      "id": "c972a5b485aba9560aeb",
-      "source": "BBC News",
-      "title": "One dead and several hurt after rollercoaster incident at Six Flags",
-      "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T10:28:07+00:00"
     },
     {
       "id": "b296df44f6db497bce8e",
@@ -283,13 +290,6 @@
       "title": "Perugia, scontro tra auto e camion: morti due giovani di 20 e 21 anni",
       "url": "https://www.tgcom24.mediaset.it/cronaca/perugia-scontro-auto-camion-morti-due-giovani_117599625-202602k.shtml",
       "published": "2026-10-12T19:22:00+00:00"
-    },
-    {
-      "id": "8710e693a4d25b1165af",
-      "source": "TGcom24",
-      "title": "Vaticano, annullate tutte le udienze del Papa fino al 20 ottobre",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/cosi-papa-leone-ha-scoperto-la-malattia_117577077-202602k.shtml",
-      "published": "2026-10-12T18:53:00+00:00"
     },
     {
       "id": "96314d3c37342ecc3fab",
