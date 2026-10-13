@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-13T08:04:30.764438+00:00",
+  "updated_at": "2026-10-13T08:28:45.110225+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-13T08:04:30.764438+00:00"
+      "checked_at": "2026-10-13T08:28:45.110225+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-13T08:04:30.764438+00:00"
+      "checked_at": "2026-10-13T08:28:45.110225+00:00"
     }
   },
   "items": [
+    {
+      "id": "3f564a07e77f4c079764",
+      "source": "BBC News",
+      "title": "Emergency calls from botched Christa Pike execution released to US media",
+      "url": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T08:20:07+00:00"
+    },
     {
       "id": "5eafaa26f07425f7f678",
       "source": "BBC News",
@@ -24,13 +31,6 @@
       "title": "Manovra, Giorgetti: \"Scostamento è passo consapevole dalla linea di prudenza\"",
       "url": "https://www.tgcom24.mediaset.it/politica/manovra-finanziaria-giorgetti-scostamento_117615073-202602k.shtml",
       "published": "2026-10-13T08:00:00+00:00"
-    },
-    {
-      "id": "3f564a07e77f4c079764",
-      "source": "BBC News",
-      "title": "Emergency calls from botched Christa Pike execution released to US media",
-      "url": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T07:49:13+00:00"
     },
     {
       "id": "0b2b7a6eb8921a432c43",
