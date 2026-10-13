@@ -1,29 +1,36 @@
 {
-  "updated_at": "2026-10-13T19:52:05.515626+00:00",
+  "updated_at": "2026-10-13T20:13:14.780583+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-13T19:52:05.515626+00:00"
+      "checked_at": "2026-10-13T20:13:14.780583+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-13T19:52:05.515626+00:00"
+      "checked_at": "2026-10-13T20:13:14.780583+00:00"
     }
   },
   "items": [
+    {
+      "id": "c44faaf53df99878d4e1",
+      "source": "BBC News",
+      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T20:02:15+00:00"
+    },
+    {
+      "id": "040b23a32b403d8c38db",
+      "source": "TGcom24",
+      "title": "L'Arabia Saudita: \"Intercettati tre missili contro Riad e il sud del regno\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-13-ottobre_117637310-202602k.shtml",
+      "published": "2026-10-13T19:59:00+00:00"
+    },
     {
       "id": "d9aaa960805751d95dd6",
       "source": "BBC News",
       "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
       "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-13T19:51:14+00:00"
-    },
-    {
-      "id": "c44faaf53df99878d4e1",
-      "source": "BBC News",
-      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T19:48:36+00:00"
     },
     {
       "id": "57548a2bd46ad623034a",
@@ -311,13 +318,6 @@
       "title": "Georgia, si \"sgancia\" dal sedile delle montagne russe: morto un uomo",
       "url": "https://www.tgcom24.mediaset.it/mondo/six-flags-over-georgia-incidente-morto_117610357-202602k.shtml",
       "published": "2026-10-13T04:58:00+00:00"
-    },
-    {
-      "id": "d97fa1fe3b33b1774e5c",
-      "source": "TGcom24",
-      "title": "Monito Fmi: \"L'economia mondiale ha retto, ma potrebbe essere al limite\"",
-      "url": "https://www.tgcom24.mediaset.it/economia/fondo-monetario-internazionale-economia-mondiale-limite_117610320-202602k.shtml",
-      "published": "2026-10-13T04:29:00+00:00"
     },
     {
       "id": "57fc1bf48b7ac6739ac9",
