@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-13T18:31:08.686405+00:00",
+  "updated_at": "2026-10-13T18:57:41.724107+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-13T18:31:08.686405+00:00"
+      "checked_at": "2026-10-13T18:57:41.724107+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-13T18:31:08.686405+00:00"
+      "checked_at": "2026-10-13T18:57:41.724107+00:00"
     }
   },
   "items": [
@@ -75,6 +75,13 @@
       "published": "2026-10-13T17:10:50+00:00"
     },
     {
+      "id": "3d6e1c255d36c91a4111",
+      "source": "BBC News",
+      "title": "Inside Katie Zacharia's very brief White House briefing",
+      "url": "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T17:04:37+00:00"
+    },
+    {
       "id": "01f402135d5f16cfea5d",
       "source": "TGcom24",
       "title": "Scontri a Parigi durante la mobilitazione studentesca: incendiata un'auto",
@@ -87,6 +94,13 @@
       "title": "Cuneo, smantellata rete di \"professionisti\" della cannabis indoor: 8 arresti",
       "url": "https://www.tgcom24.mediaset.it/2026/video/cuneo-smantellata-una-rete-di-professionisti-della-cannabis-indoor-8-arresti_117630461-02k.shtml",
       "published": "2026-10-13T16:17:00+00:00"
+    },
+    {
+      "id": "3f6b758c77dfeb7546f9",
+      "source": "BBC News",
+      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+      "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T15:52:15+00:00"
     },
     {
       "id": "9215e2cafdf6936c1d08",
@@ -339,13 +353,6 @@
       "title": "What could Trump's energy ceasefire mean for Ukraine?",
       "url": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-12T15:51:30+00:00"
-    },
-    {
-      "id": "17322be250eb21f940af",
-      "source": "BBC News",
-      "title": "Why is it so hard to fight the Houthis?",
-      "url": "https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-12T12:15:01+00:00"
     }
   ]
 }
