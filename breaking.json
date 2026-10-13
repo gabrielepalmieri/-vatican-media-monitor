@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-13T14:41:15.961605+00:00",
+  "updated_at": "2026-10-13T14:59:29.177094+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-13T14:41:15.961605+00:00"
+      "checked_at": "2026-10-13T14:59:29.177094+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-13T14:41:15.961605+00:00"
+      "checked_at": "2026-10-13T14:59:29.177094+00:00"
     }
   },
   "items": [
+    {
+      "id": "5b39e55165f9d6b2e48f",
+      "source": "BBC News",
+      "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
+      "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T14:51:59+00:00"
+    },
     {
       "id": "c972a5b485aba9560aeb",
       "source": "BBC News",
@@ -24,13 +31,6 @@
       "title": "Morte per ricina, terminata dopo 5 ore la perquisizione all'Agrario di Riccia",
       "url": "https://www.tgcom24.mediaset.it/cronaca/pietracatella-ricina-gianni-di-vita-veleno-omicidio_117615053-202602k.shtml",
       "published": "2026-10-13T14:37:00+00:00"
-    },
-    {
-      "id": "5b39e55165f9d6b2e48f",
-      "source": "BBC News",
-      "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-      "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T14:06:27+00:00"
     },
     {
       "id": "c32df0ec7704073fb5be",
