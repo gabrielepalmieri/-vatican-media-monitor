@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-14T17:09:04.743183+00:00",
+  "updated_at": "2026-10-14T17:36:10.695658+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-14T17:09:04.743183+00:00"
+      "checked_at": "2026-10-14T17:36:10.695658+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-14T17:09:04.743183+00:00"
+      "checked_at": "2026-10-14T17:36:10.695658+00:00"
     }
   },
   "items": [
+    {
+      "id": "99966e96f9a4bba7b3c4",
+      "source": "BBC News",
+      "title": "Kenya confirms second Ebola case - a relative of the first victim",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T17:23:01+00:00"
+    },
+    {
+      "id": "aad68a2d1284e4bead3f",
+      "source": "TGcom24",
+      "title": "Pavia, armi e simboli nazisti: arrestato suprematista 19enne",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/pavia-armi-simboli-nazisti-arrestato-19enne_117669043-202602k.shtml",
+      "published": "2026-10-14T17:07:00+00:00"
+    },
     {
       "id": "0db2212e55a64cebc5d9",
       "source": "BBC News",
@@ -24,13 +38,6 @@
       "title": "Uk, Burnham a Zelensky: \"Al fianco dell'Ucraina, sostegno non cambierà\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-14-ottobre_117646600-202602k.shtml",
       "published": "2026-10-14T16:40:00+00:00"
-    },
-    {
-      "id": "99966e96f9a4bba7b3c4",
-      "source": "BBC News",
-      "title": "Kenya confirms second Ebola case as relative of country's first victim",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T16:23:40+00:00"
     },
     {
       "id": "df0147eba1810fc763e3",
