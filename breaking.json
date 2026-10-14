@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-14T00:30:01.378114+00:00",
+  "updated_at": "2026-10-14T01:10:13.203290+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-14T00:30:01.378114+00:00"
+      "checked_at": "2026-10-14T01:10:13.203290+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-14T00:30:01.378114+00:00"
+      "checked_at": "2026-10-14T01:10:13.203290+00:00"
     }
   },
   "items": [
+    {
+      "id": "ee6bb2f9aea72c39c361",
+      "source": "BBC News",
+      "title": "What we know about the man who died falling from a Six Flags rollercoaster",
+      "url": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T00:59:16+00:00"
+    },
     {
       "id": "51118d5b1bf7658d1bd7",
       "source": "BBC News",
@@ -311,13 +318,6 @@
       "title": "Papa Leone XIV ricoverato al Gemelli: nel pomeriggio l'intervento",
       "url": "https://www.tgcom24.mediaset.it/cronaca/papa-leone-xiv-oggi-ricovero_117612385-202602k.shtml",
       "published": "2026-10-13T07:16:00+00:00"
-    },
-    {
-      "id": "9c6f62d63d4c3ccb90c0",
-      "source": "BBC News",
-      "title": "The island where locals say data centres are taking their water",
-      "url": "https://www.bbc.co.uk/news/articles/cqj6j7wlxd5eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-12T22:30:55+00:00"
     }
   ]
 }
