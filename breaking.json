@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-14T17:36:10.695658+00:00",
+  "updated_at": "2026-10-14T18:06:25.620208+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-14T17:36:10.695658+00:00"
+      "checked_at": "2026-10-14T18:06:25.620208+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-14T17:36:10.695658+00:00"
+      "checked_at": "2026-10-14T18:06:25.620208+00:00"
     }
   },
   "items": [
+    {
+      "id": "7751ff3f24dc6fb56761",
+      "source": "BBC News",
+      "title": "What if you could turn off your algorithm? Australia is about to try",
+      "url": "https://www.bbc.co.uk/news/videos/ck78pj2qy42po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T18:00:54+00:00"
+    },
+    {
+      "id": "20ff650831fbba6db464",
+      "source": "TGcom24",
+      "title": "Comunità ebraica Roma: \"Anpi non partecipi a commemorazioni del 16 ottobre\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/comunita-ebraica-roma-anpi-non-partecipi-a-commemorazioni-16-ottobre_117672462-202602k.shtml",
+      "published": "2026-10-14T17:40:00+00:00"
+    },
     {
       "id": "99966e96f9a4bba7b3c4",
       "source": "BBC News",
@@ -353,20 +367,6 @@
       "title": "Saudi employee charged with planting recording device in OpenAI office",
       "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-13T21:42:49+00:00"
-    },
-    {
-      "id": "d1e6dd572fac7caa3e8a",
-      "source": "TGcom24",
-      "title": "Raid russo su centrale termoelettrica a Kiev, Zelensky: \"Alleati non ci hanno avvertito\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-russia-raid-centrale-termoelettrica-zelensky_117642513-202602k.shtml",
-      "published": "2026-10-13T21:34:00+00:00"
-    },
-    {
-      "id": "3d6e1c255d36c91a4111",
-      "source": "BBC News",
-      "title": "Inside Katie Zacharia's very brief White House briefing",
-      "url": "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T17:04:37+00:00"
     }
   ]
 }
