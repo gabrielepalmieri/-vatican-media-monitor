@@ -1,16 +1,44 @@
 {
-  "updated_at": "2026-10-14T04:06:46.549853+00:00",
+  "updated_at": "2026-10-14T04:37:07.740146+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-14T04:06:46.549853+00:00"
+      "checked_at": "2026-10-14T04:37:07.740146+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-14T04:06:46.549853+00:00"
+      "checked_at": "2026-10-14T04:37:07.740146+00:00"
     }
   },
   "items": [
+    {
+      "id": "e3a1ea8835233ba4b3e4",
+      "source": "BBC News",
+      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T04:36:06+00:00"
+    },
+    {
+      "id": "279c7903f57fd5fdb884",
+      "source": "TGcom24",
+      "title": "Usa, Trump grazia due meccanici condannati per violazioni norme antinquinamento",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-trump-grazia-meccanici-condannati_117646542-202602k.shtml",
+      "published": "2026-10-14T04:30:00+00:00"
+    },
+    {
+      "id": "c44faaf53df99878d4e1",
+      "source": "BBC News",
+      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T04:20:17+00:00"
+    },
+    {
+      "id": "67c23ff2f6acb0d8268f",
+      "source": "BBC News",
+      "title": "Russia arrests Japanese journalist on alleged espionage",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T04:10:49+00:00"
+    },
     {
       "id": "e10a34bcfc93aa2b8609",
       "source": "TGcom24",
@@ -19,11 +47,18 @@
       "published": "2026-10-14T04:00:00+00:00"
     },
     {
-      "id": "e3a1ea8835233ba4b3e4",
+      "id": "bd289795d6b1d40ec0ce",
       "source": "BBC News",
-      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T03:54:41+00:00"
+      "title": "Lena Dunham's Girls to return for limited HBO run",
+      "url": "https://www.bbc.co.uk/news/articles/c9m26xp4zp8jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T02:09:30+00:00"
+    },
+    {
+      "id": "ee03c7f55de3cd8e0280",
+      "source": "BBC News",
+      "title": "Bank of America hit with $1.2bn fine for money laundering failings",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T02:05:32+00:00"
     },
     {
       "id": "ee6bb2f9aea72c39c361",
@@ -59,13 +94,6 @@
       "title": "Zimbabwean author denies using AI to write award-winning story",
       "url": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-13T23:31:10+00:00"
-    },
-    {
-      "id": "c44faaf53df99878d4e1",
-      "source": "BBC News",
-      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T22:29:55+00:00"
     },
     {
       "id": "4c189cc07c52b876467d",
@@ -180,13 +208,6 @@
       "published": "2026-10-13T17:37:00+00:00"
     },
     {
-      "id": "82d9b2a82a4419ef2d6e",
-      "source": "BBC News",
-      "title": "Argentina targets UK in legal claim over Falklands oil exploration",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T17:36:43+00:00"
-    },
-    {
       "id": "66997d7cd1816e99064c",
       "source": "TGcom24",
       "title": "Liliana Resinovich, tracce di Dna di un uomo sconosciuto trovate sui suoi jeans",
@@ -264,13 +285,6 @@
       "published": "2026-10-13T12:05:00+00:00"
     },
     {
-      "id": "3f564a07e77f4c079764",
-      "source": "BBC News",
-      "title": "Watch: Emergency calls from botched Christa Pike execution released",
-      "url": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T12:03:51+00:00"
-    },
-    {
       "id": "9a364a2c2187826eb843",
       "source": "TGcom24",
       "title": "Ungheria, eliminata la prima legge anti-Lgbtqia+ voluta da Orbán",
@@ -304,20 +318,6 @@
       "title": "Torino, costringe la compagna a pratiche sessuali estreme: arrestato per tortura",
       "url": "https://www.tgcom24.mediaset.it/cronaca/torino-pratiche-sessuali-estreme-arrestato-chieri_117615420-202602k.shtml",
       "published": "2026-10-13T08:40:00+00:00"
-    },
-    {
-      "id": "5eafaa26f07425f7f678",
-      "source": "BBC News",
-      "title": "Breaking Bad actor RJ Mitte dies aged 34",
-      "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T08:03:34+00:00"
-    },
-    {
-      "id": "9dc2ef4c15ae69dbbd09",
-      "source": "TGcom24",
-      "title": "Manovra, Giorgetti: \"Scostamento è passo consapevole dalla linea di prudenza\"",
-      "url": "https://www.tgcom24.mediaset.it/politica/manovra-finanziaria-giorgetti-scostamento_117615073-202602k.shtml",
-      "published": "2026-10-13T08:00:00+00:00"
     }
   ]
 }
