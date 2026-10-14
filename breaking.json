@@ -1,16 +1,51 @@
 {
-  "updated_at": "2026-10-14T09:22:29.420583+00:00",
+  "updated_at": "2026-10-14T09:54:10.785428+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-14T09:22:29.420583+00:00"
+      "checked_at": "2026-10-14T09:54:10.785428+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-14T09:22:29.420583+00:00"
+      "checked_at": "2026-10-14T09:54:10.785428+00:00"
     }
   },
   "items": [
+    {
+      "id": "f23f2fec64758f44a1dc",
+      "source": "TGcom24",
+      "title": "Metano, l'Ue propone il rinvio della stretta sulle importazioni al 2028",
+      "url": "https://www.tgcom24.mediaset.it/economia/stretta-emissioni-metano-ue-rinvio_117651915-202602k.shtml",
+      "published": "2026-10-14T09:52:00+00:00"
+    },
+    {
+      "id": "e59a20e846389f66b493",
+      "source": "BBC News",
+      "title": "Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T09:42:08+00:00"
+    },
+    {
+      "id": "a088d66a9b8f682c95a0",
+      "source": "BBC News",
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T09:32:54+00:00"
+    },
+    {
+      "id": "417ef77e331763e618a4",
+      "source": "BBC News",
+      "title": "What we know about Russia's overnight strikes on Ukraine",
+      "url": "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T09:25:03+00:00"
+    },
+    {
+      "id": "f7e733b4638a7b6f7287",
+      "source": "TGcom24",
+      "title": "Iran, 23enne condannata a morte per un post sui social",
+      "url": "https://www.tgcom24.mediaset.it/mondo/iran-condannata-morte-social_117650716-202602k.shtml",
+      "published": "2026-10-14T09:23:00+00:00"
+    },
     {
       "id": "9e7425c18a84838e40dc",
       "source": "BBC News",
@@ -59,13 +94,6 @@
       "title": "Ucraina, Zelensky: \"Attacco su Kiev è deliberata mancanza di rispetto verso Usa\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-14-ottobre_117646600-202602k.shtml",
       "published": "2026-10-14T07:25:00+00:00"
-    },
-    {
-      "id": "e59a20e846389f66b493",
-      "source": "BBC News",
-      "title": "Russian strikes leave 600,000 without power in Ukraine, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T07:21:50+00:00"
     },
     {
       "id": "2245d932a5f7ba362c7e",
@@ -122,13 +150,6 @@
       "title": "What we know about the deadly Six Flags rollercoaster incident in Georgia",
       "url": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-14T00:59:16+00:00"
-    },
-    {
-      "id": "a088d66a9b8f682c95a0",
-      "source": "BBC News",
-      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T23:42:22+00:00"
     },
     {
       "id": "0063a488805ecfbdc7df",
@@ -318,13 +339,6 @@
       "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
       "url": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-13T13:27:31+00:00"
-    },
-    {
-      "id": "e7f7ac93856630df2853",
-      "source": "TGcom24",
-      "title": "Viminale, femminicidi in calo nei primi nove mesi dell'anno",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/viminale-omicidi-calo-donne-vittime_117624094-202602k.shtml",
-      "published": "2026-10-13T12:39:00+00:00"
     }
   ]
 }
