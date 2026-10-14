@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-14T07:21:05.005765+00:00",
+  "updated_at": "2026-10-14T07:55:29.848013+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-14T07:21:05.005765+00:00"
+      "checked_at": "2026-10-14T07:55:29.848013+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-14T07:21:05.005765+00:00"
+      "checked_at": "2026-10-14T07:55:29.848013+00:00"
     }
   },
   "items": [
+    {
+      "id": "e52b0a0d6ef402b21d52",
+      "source": "TGcom24",
+      "title": "Ucraina, Zelensky: \"Attacco su Kiev è deliberata mancanza di rispetto verso Usa\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-14-ottobre_117646600-202602k.shtml",
+      "published": "2026-10-14T07:25:00+00:00"
+    },
+    {
+      "id": "51118d5b1bf7658d1bd7",
+      "source": "BBC News",
+      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T07:23:46+00:00"
+    },
     {
       "id": "67c23ff2f6acb0d8268f",
       "source": "BBC News",
@@ -94,13 +108,6 @@
       "title": "What we know about the man who died falling from a Six Flags rollercoaster",
       "url": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-14T00:59:16+00:00"
-    },
-    {
-      "id": "51118d5b1bf7658d1bd7",
-      "source": "BBC News",
-      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T00:17:00+00:00"
     },
     {
       "id": "a088d66a9b8f682c95a0",
@@ -318,13 +325,6 @@
       "title": "Ungheria, eliminata la prima legge anti-Lgbtqia+ voluta da Orbán",
       "url": "https://www.tgcom24.mediaset.it/mondo/ungheria-cancella-norma-anti-lgbtqia-voluta-da-orban_117617497-202602k.shtml",
       "published": "2026-10-13T11:40:00+00:00"
-    },
-    {
-      "id": "a1ecc844572b100a9c0a",
-      "source": "TGcom24",
-      "title": "Istat: in 25 anni prezzi cresciuti del 63% ma per la casa oltre 100% in più",
-      "url": "https://www.tgcom24.mediaset.it/tgcomlab/focus/istat-25-anni-prezzi-cresciuti-63-_117619867-202602k.shtml",
-      "published": "2026-10-13T10:44:00+00:00"
     }
   ]
 }
