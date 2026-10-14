@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-14T08:22:05.337540+00:00",
+  "updated_at": "2026-10-14T08:56:27.530402+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-14T08:22:05.337540+00:00"
+      "checked_at": "2026-10-14T08:56:27.530402+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-14T08:22:05.337540+00:00"
+      "checked_at": "2026-10-14T08:56:27.530402+00:00"
     }
   },
   "items": [
+    {
+      "id": "51118d5b1bf7658d1bd7",
+      "source": "BBC News",
+      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T08:53:40+00:00"
+    },
+    {
+      "id": "72367cec7769f140d0d6",
+      "source": "TGcom24",
+      "title": "Minicar a Roma, individuati i due presunti aggressori dei passanti: sono due minorenni",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/roma-banda-minicar-individuati-minorenni_117650742-202602k.shtml",
+      "published": "2026-10-14T08:39:00+00:00"
+    },
     {
       "id": "9e7425c18a84838e40dc",
       "source": "BBC News",
@@ -45,13 +59,6 @@
       "title": "Ucraina, Zelensky: \"Attacco su Kiev è deliberata mancanza di rispetto verso Usa\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-14-ottobre_117646600-202602k.shtml",
       "published": "2026-10-14T07:25:00+00:00"
-    },
-    {
-      "id": "51118d5b1bf7658d1bd7",
-      "source": "BBC News",
-      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T07:23:46+00:00"
     },
     {
       "id": "e59a20e846389f66b493",
@@ -318,13 +325,6 @@
       "title": "Viminale, femminicidi in calo nei primi nove mesi dell'anno",
       "url": "https://www.tgcom24.mediaset.it/cronaca/viminale-omicidi-calo-donne-vittime_117624094-202602k.shtml",
       "published": "2026-10-13T12:39:00+00:00"
-    },
-    {
-      "id": "c67bb9d3a76fce8f2f09",
-      "source": "TGcom24",
-      "title": "Dpfp e scostamento di bilancio, ok da Camera e Senato alle risoluzioni di maggioranza",
-      "url": "https://www.tgcom24.mediaset.it/politica/dpfp-e-scostamento-di-bilancio-ok-da-camera-e-senato-alle-risoluzioni-di-maggioranza_117623239-202602k.shtml",
-      "published": "2026-10-13T12:05:00+00:00"
     }
   ]
 }
