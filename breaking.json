@@ -1,29 +1,36 @@
 {
-  "updated_at": "2026-10-14T10:22:07.489001+00:00",
+  "updated_at": "2026-10-14T10:54:07.762337+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-14T10:22:07.489001+00:00"
+      "checked_at": "2026-10-14T10:54:07.762337+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-14T10:22:07.489001+00:00"
+      "checked_at": "2026-10-14T10:54:07.762337+00:00"
     }
   },
   "items": [
+    {
+      "id": "9e7425c18a84838e40dc",
+      "source": "BBC News",
+      "title": "Turkish police raid opposition TV station, halting live broadcasts",
+      "url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T10:50:11+00:00"
+    },
+    {
+      "id": "10ae4c8235a80220b08f",
+      "source": "TGcom24",
+      "title": "Garlasco, il primo avvocato di Stasi in procura: \"Portiamo Alberto fuori dal carcere\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/delitto-garlasco-alberto-stasi_117653663-202602k.shtml",
+      "published": "2026-10-14T10:38:00+00:00"
+    },
     {
       "id": "d9aaa960805751d95dd6",
       "source": "BBC News",
       "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
       "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-14T10:08:26+00:00"
-    },
-    {
-      "id": "9e7425c18a84838e40dc",
-      "source": "BBC News",
-      "title": "Turkish police raid opposition TV station, halting live broadcasts",
-      "url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T10:07:02+00:00"
     },
     {
       "id": "e59a20e846389f66b493",
@@ -325,13 +332,6 @@
       "title": "Garlasco, il legale di Andrea Sempio: \"Abbiamo una prova formidabile\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/garlasco-legale-andrea-sempio-prova-formidabile_117628505-202602k.shtml",
       "published": "2026-10-13T15:37:00+00:00"
-    },
-    {
-      "id": "6227cb8c373421242296",
-      "source": "TGcom24",
-      "title": "Morte per ricina, terminata dopo 5 ore la perquisizione all'Agrario di Riccia",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/pietracatella-ricina-gianni-di-vita-veleno-omicidio_117615053-202602k.shtml",
-      "published": "2026-10-13T14:37:00+00:00"
     },
     {
       "id": "09e900acee568aecc0e9",
