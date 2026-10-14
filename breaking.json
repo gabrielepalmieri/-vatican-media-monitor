@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-14T19:13:53.224166+00:00",
+  "updated_at": "2026-10-14T19:47:22.543967+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-14T19:13:53.224166+00:00"
+      "checked_at": "2026-10-14T19:47:22.543967+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-14T19:13:53.224166+00:00"
+      "checked_at": "2026-10-14T19:47:22.543967+00:00"
     }
   },
   "items": [
+    {
+      "id": "60dcd79c4a3b00ca2e11",
+      "source": "TGcom24",
+      "title": "Ex Ilva, commissari: \"Stabilimenti di Genova, Taranto e Novi Ligure non chiudono\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/ex-ilva-commissari-genova-taranto-novi-ligure_117660541-202602k.shtml",
+      "published": "2026-10-14T19:15:00+00:00"
+    },
     {
       "id": "eb42651ad69bcb0c9d1d",
       "source": "TGcom24",
@@ -124,13 +131,6 @@
       "published": "2026-10-14T15:10:00+00:00"
     },
     {
-      "id": "8ef35584d1b398c2120d",
-      "source": "TGcom24",
-      "title": "Genova, lavoratori dell'ex Ilva occupano la Prefettura",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/ex-ilva-lavoratori-occupano-prefettura-genova_117660541-202602k.shtml",
-      "published": "2026-10-14T14:35:00+00:00"
-    },
-    {
       "id": "76e76fb6dc0ae8919f00",
       "source": "BBC News",
       "title": "Hundreds of thousands of workers on strike across Republic of Ireland",
@@ -150,6 +150,13 @@
       "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
       "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-14T13:41:51+00:00"
+    },
+    {
+      "id": "da18e1c3bee36cd552da",
+      "source": "TGcom24",
+      "title": "Papa Leone, il nuovo bollettino: \"Decorso post-operatorio regolare\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/papa-leone-operato-ultime-notizie_117648243-202602k.shtml",
+      "published": "2026-10-14T13:39:00+00:00"
     },
     {
       "id": "20c74569beb810d1f9cb",
@@ -276,13 +283,6 @@
       "title": "Ucraina, Zelensky: \"Attacco su Kiev è deliberata mancanza di rispetto verso Usa\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-14-ottobre_117646600-202602k.shtml",
       "published": "2026-10-14T07:25:00+00:00"
-    },
-    {
-      "id": "2245d932a5f7ba362c7e",
-      "source": "TGcom24",
-      "title": "Papa Leone operato: \"Prima notte tranquilla\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/papa-leone-operato-ultime-notizie_117648243-202602k.shtml",
-      "published": "2026-10-14T06:50:00+00:00"
     },
     {
       "id": "91abec41bf311c24f9ab",
