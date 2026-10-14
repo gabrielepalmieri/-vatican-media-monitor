@@ -1,22 +1,50 @@
 {
-  "updated_at": "2026-10-14T16:03:36.133243+00:00",
+  "updated_at": "2026-10-14T16:38:22.237636+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-14T16:03:36.133243+00:00"
+      "checked_at": "2026-10-14T16:38:22.237636+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-14T16:03:36.133243+00:00"
+      "checked_at": "2026-10-14T16:38:22.237636+00:00"
     }
   },
   "items": [
+    {
+      "id": "99966e96f9a4bba7b3c4",
+      "source": "BBC News",
+      "title": "Kenya confirms second Ebola case as relative of country's first victim",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T16:23:40+00:00"
+    },
+    {
+      "id": "df0147eba1810fc763e3",
+      "source": "TGcom24",
+      "title": "Ucraina, Salvini: \"Abbiamo dato tanto, non potremo sostenere Kiev all'infinito\"",
+      "url": "https://www.tgcom24.mediaset.it/politica/ucraina-salvini-sostegno-a-kiev_117662410-202602k.shtml",
+      "published": "2026-10-14T16:05:00+00:00"
+    },
     {
       "id": "e3b3927f091d3686b977",
       "source": "BBC News",
       "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
       "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-14T15:56:57+00:00"
+    },
+    {
+      "id": "20f13f5e0029d4732c43",
+      "source": "BBC News",
+      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+      "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T15:54:04+00:00"
+    },
+    {
+      "id": "0db2212e55a64cebc5d9",
+      "source": "BBC News",
+      "title": "Netflix to lay off 1,000 staff in steepest cuts since 2022",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T15:51:01+00:00"
     },
     {
       "id": "ee6bb2f9aea72c39c361",
@@ -31,6 +59,13 @@
       "title": "Zelensky: \"Ringrazio Meloni per il sostegno e la posizione inequivocabile\"",
       "url": "https://www.tgcom24.mediaset.it/politica/giorgia-meloni-comunicazioni-consiglio-europeo_117650332-202602k.shtml",
       "published": "2026-10-14T15:40:00+00:00"
+    },
+    {
+      "id": "dc8fef774faabf7c12cb",
+      "source": "BBC News",
+      "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
+      "url": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T15:34:19+00:00"
     },
     {
       "id": "7783f7b4167159063e36",
@@ -87,6 +122,13 @@
       "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
       "url": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-14T13:35:29+00:00"
+    },
+    {
+      "id": "0c6880636437c963285b",
+      "source": "BBC News",
+      "title": "Are the European Women's World Cup play-offs working?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq0k0x1l8gndo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T13:25:56+00:00"
     },
     {
       "id": "e59a20e846389f66b493",
@@ -150,13 +192,6 @@
       "title": "Garlasco, il primo avvocato di Stasi in procura: \"Portiamo Alberto fuori dal carcere\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/delitto-garlasco-alberto-stasi_117653663-202602k.shtml",
       "published": "2026-10-14T10:38:00+00:00"
-    },
-    {
-      "id": "d9aaa960805751d95dd6",
-      "source": "BBC News",
-      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-      "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T10:08:26+00:00"
     },
     {
       "id": "f23f2fec64758f44a1dc",
@@ -264,13 +299,6 @@
       "published": "2026-10-13T23:42:15+00:00"
     },
     {
-      "id": "b0da7e6f90afd10363c2",
-      "source": "BBC News",
-      "title": "Zimbabwean author denies using AI to write award-winning story",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T23:31:10+00:00"
-    },
-    {
       "id": "660bf5bc40ea1f39585b",
       "source": "BBC News",
       "title": "Pictured: Winning entries for Wildlife Photographer of the Year 2026",
@@ -318,20 +346,6 @@
       "title": "Raid russo su centrale termoelettrica a Kiev, Zelensky: \"Alleati non ci hanno avvertito\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-russia-raid-centrale-termoelettrica-zelensky_117642513-202602k.shtml",
       "published": "2026-10-13T21:34:00+00:00"
-    },
-    {
-      "id": "7083b1222347cb77028e",
-      "source": "TGcom24",
-      "title": "Papa operato per aenocarcinoma polmonare: asportato lobo inferiore del polmone destro",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/papa-leone-xiv-intervento-polmone-ultime-notizie_117612385-202602k.shtml",
-      "published": "2026-10-13T20:27:00+00:00"
-    },
-    {
-      "id": "57548a2bd46ad623034a",
-      "source": "BBC News",
-      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-      "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T19:23:28+00:00"
     },
     {
       "id": "3d6e1c255d36c91a4111",
