@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-14T22:04:10.041207+00:00",
+  "updated_at": "2026-10-14T22:33:06.586225+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-14T22:04:10.041207+00:00"
+      "checked_at": "2026-10-14T22:33:06.586225+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-14T22:04:10.041207+00:00"
+      "checked_at": "2026-10-14T22:33:06.586225+00:00"
     }
   },
   "items": [
+    {
+      "id": "20c74569beb810d1f9cb",
+      "source": "BBC News",
+      "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
+      "url": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T22:31:10+00:00"
+    },
     {
       "id": "c14d130f6b018a20ff45",
       "source": "TGcom24",
@@ -206,13 +213,6 @@
       "title": "Papa Leone, il nuovo bollettino: \"Decorso post-operatorio regolare\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/papa-leone-operato-ultime-notizie_117648243-202602k.shtml",
       "published": "2026-10-14T13:39:00+00:00"
-    },
-    {
-      "id": "20c74569beb810d1f9cb",
-      "source": "BBC News",
-      "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
-      "url": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T13:35:29+00:00"
     },
     {
       "id": "0c6880636437c963285b",
