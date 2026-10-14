@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-10-14T21:04:30.905463+00:00",
+  "updated_at": "2026-10-14T21:34:35.700185+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-14T21:04:30.905463+00:00"
+      "checked_at": "2026-10-14T21:34:35.700185+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-14T21:04:30.905463+00:00"
+      "checked_at": "2026-10-14T21:34:35.700185+00:00"
     }
   },
   "items": [
+    {
+      "id": "8a546e96918ed64bdcc7",
+      "source": "TGcom24",
+      "title": "Ucraina, Axios: Casa Bianca nega ruolo in limitazioni a Starlink",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-14-ottobre_117646600-202602k.shtml",
+      "published": "2026-10-14T21:30:00+00:00"
+    },
     {
       "id": "c62fe78fa6bf1044e8e2",
       "source": "BBC News",
       "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
       "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-14T20:55:24+00:00"
+    },
+    {
+      "id": "e169d8e8bdc742e77401",
+      "source": "BBC News",
+      "title": "Why Zelensky's meeting with Burnham matters",
+      "url": "https://www.bbc.co.uk/news/videos/c65yngxdzdd5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T20:41:03+00:00"
     },
     {
       "id": "1ecb815fbc8070bda089",
@@ -306,13 +320,6 @@
       "published": "2026-10-14T07:25:00+00:00"
     },
     {
-      "id": "91abec41bf311c24f9ab",
-      "source": "TGcom24",
-      "title": "Meloni, mano tesa a Trump: \"Tra Italia e Usa amicizia storica\"",
-      "url": "https://www.tgcom24.mediaset.it/politica/meloni-trump-italia-usa-amicizia_117646866-202602k.shtml",
-      "published": "2026-10-14T05:52:00+00:00"
-    },
-    {
       "id": "b7304ce0280a15af5c1f",
       "source": "BBC News",
       "title": "World's oldest shipwreck found off coast of Turkey",
@@ -353,13 +360,6 @@
       "title": "Who's to blame for the toxic haze choking South East Asia?",
       "url": "https://www.bbc.co.uk/news/articles/ckreyq9re0n0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-13T22:01:43+00:00"
-    },
-    {
-      "id": "c869216733d5b082eb95",
-      "source": "BBC News",
-      "title": "Why the lonely in China are hiring 'temporary children'",
-      "url": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T22:00:20+00:00"
     },
     {
       "id": "ec4aad0cd8446a848dfb",
