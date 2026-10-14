@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-14T14:28:42.446640+00:00",
+  "updated_at": "2026-10-14T14:59:11.111352+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-14T14:28:42.446640+00:00"
+      "checked_at": "2026-10-14T14:59:11.111352+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-14T14:28:42.446640+00:00"
+      "checked_at": "2026-10-14T14:59:11.111352+00:00"
     }
   },
   "items": [
+    {
+      "id": "8ef35584d1b398c2120d",
+      "source": "TGcom24",
+      "title": "Genova, lavoratori dell'ex Ilva occupano la Prefettura",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/ex-ilva-lavoratori-occupano-prefettura-genova_117660541-202602k.shtml",
+      "published": "2026-10-14T14:35:00+00:00"
+    },
+    {
+      "id": "76e76fb6dc0ae8919f00",
+      "source": "BBC News",
+      "title": "Hundreds of thousands of workers on strike across Republic of Ireland",
+      "url": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T14:18:18+00:00"
+    },
     {
       "id": "456669a3657e9ecda7c8",
       "source": "TGcom24",
@@ -28,7 +42,7 @@
     {
       "id": "7783f7b4167159063e36",
       "source": "BBC News",
-      "title": "US inflation rises more than expected ahead of midterm elections",
+      "title": "US inflation rises more than expected - here's what is happening with prices",
       "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-14T13:40:36+00:00"
     },
@@ -52,6 +66,13 @@
       "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
       "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-14T13:09:51+00:00"
+    },
+    {
+      "id": "ffd4ed6dc62b6f903751",
+      "source": "BBC News",
+      "title": "What we know about the Pope's lung cancer diagnosis",
+      "url": "https://www.bbc.co.uk/news/videos/cwyvrmp9qgrgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T12:37:33+00:00"
     },
     {
       "id": "046e9a2c7bfa9b47dbec",
@@ -215,6 +236,13 @@
       "published": "2026-10-14T04:30:00+00:00"
     },
     {
+      "id": "cda48f2d404f315d4a1a",
+      "source": "BBC News",
+      "title": "Watch: Hong Kong crowds queue to see Van Gogh painting unveiled for first time in 60 years",
+      "url": "https://www.bbc.co.uk/news/videos/ck0e0l3le555o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T04:21:25+00:00"
+    },
+    {
       "id": "e10a34bcfc93aa2b8609",
       "source": "TGcom24",
       "title": "Media: \"Colloqui Trump-Netanyahu per un attacco all'Iran prima delle elezioni\"",
@@ -250,11 +278,11 @@
       "published": "2026-10-13T23:31:10+00:00"
     },
     {
-      "id": "4c189cc07c52b876467d",
+      "id": "660bf5bc40ea1f39585b",
       "source": "BBC News",
-      "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
-      "url": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T22:07:40+00:00"
+      "title": "Pictured: Winning entries for Wildlife Photographer of the Year 2026",
+      "url": "https://www.bbc.co.uk/news/articles/cw5y4nv05rp8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-13T23:26:54+00:00"
     },
     {
       "id": "33402a2f6830cf363ca1",
@@ -320,25 +348,11 @@
       "published": "2026-10-13T19:23:28+00:00"
     },
     {
-      "id": "3f65413513af2557fd50",
-      "source": "BBC News",
-      "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
-      "url": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T18:23:22+00:00"
-    },
-    {
       "id": "21f8fc67c9b0b66dd99f",
       "source": "TGcom24",
       "title": "Usa, l'ambasciatrice in Grecia Guilfoyle si dimette dopo le pressioni di Trump",
       "url": "https://www.tgcom24.mediaset.it/mondo/trump-casa-bianca-dimissioni-guilfoyle-ambasciatrice-grecia_117632977-202602k.shtml",
       "published": "2026-10-13T18:13:00+00:00"
-    },
-    {
-      "id": "d8c84a1ca1b32f4fdd30",
-      "source": "TGcom24",
-      "title": "Papa Leone, l'intervento al polmone si è \"concluso positivamente\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/papa-leone-xiv-oggi-ricovero_117612385-202602k.shtml",
-      "published": "2026-10-13T17:52:00+00:00"
     },
     {
       "id": "c972a5b485aba9560aeb",
@@ -353,13 +367,6 @@
       "title": "Inside Katie Zacharia's very brief White House briefing",
       "url": "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-13T17:04:37+00:00"
-    },
-    {
-      "id": "09e900acee568aecc0e9",
-      "source": "BBC News",
-      "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
-      "url": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T13:27:31+00:00"
     }
   ]
 }
