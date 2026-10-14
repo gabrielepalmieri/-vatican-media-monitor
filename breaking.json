@@ -1,29 +1,50 @@
 {
-  "updated_at": "2026-10-14T12:15:18.559567+00:00",
+  "updated_at": "2026-10-14T12:59:12.364814+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-14T12:15:18.559567+00:00"
+      "checked_at": "2026-10-14T12:59:12.364814+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-14T12:15:18.559567+00:00"
+      "checked_at": "2026-10-14T12:59:12.364814+00:00"
     }
   },
   "items": [
     {
-      "id": "bf1dec57c110c59c3685",
+      "id": "e3b3927f091d3686b977",
+      "source": "BBC News",
+      "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
+      "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T12:36:24+00:00"
+    },
+    {
+      "id": "046e9a2c7bfa9b47dbec",
       "source": "TGcom24",
-      "title": "Nuovo Codice della Strada, stretta sulle minicar truccate e niente patenti ai 17enni",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/codice-della-strada-scatta-stretta-sulle-minicar-truccate_117653453-202602k.shtml",
-      "published": "2026-10-14T12:07:00+00:00"
+      "title": "Confesercenti: in 4 anni le guerre sono costate oltre 2mila euro a famiglia",
+      "url": "https://www.tgcom24.mediaset.it/2026/video/guerre-in-quattro-anni-le-tensioni-sono-costate-oltre-2mila-euro-a-famiglia_117653762-02k.shtml",
+      "published": "2026-10-14T12:31:00+00:00"
+    },
+    {
+      "id": "a088d66a9b8f682c95a0",
+      "source": "BBC News",
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T12:27:00+00:00"
     },
     {
       "id": "c44faaf53df99878d4e1",
       "source": "BBC News",
       "title": "Houthi missile hits Aramco building after Saudi-led coalition strike on Yemen fuel depot",
       "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T11:33:24+00:00"
+      "published": "2026-10-14T12:26:13+00:00"
+    },
+    {
+      "id": "bf1dec57c110c59c3685",
+      "source": "TGcom24",
+      "title": "Nuovo Codice della Strada, stretta sulle minicar truccate e niente patenti ai 17enni",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/codice-della-strada-scatta-stretta-sulle-minicar-truccate_117653453-202602k.shtml",
+      "published": "2026-10-14T12:07:00+00:00"
     },
     {
       "id": "e59a20e846389f66b493",
@@ -38,6 +59,13 @@
       "title": "Minicar a Roma, i due minori denunciati: \"Quella notte ci siamo divertiti così\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/roma-banda-minicar-individuati-minorenni_117650742-202602k.shtml",
       "published": "2026-10-14T11:31:00+00:00"
+    },
+    {
+      "id": "3c2ac80267ca662f3c9a",
+      "source": "BBC News",
+      "title": "Mauritius reels from worst riots in decades after woman shot by police",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T11:24:25+00:00"
     },
     {
       "id": "51118d5b1bf7658d1bd7",
@@ -80,13 +108,6 @@
       "title": "Metano, l'Ue propone il rinvio della stretta sulle importazioni al 2028",
       "url": "https://www.tgcom24.mediaset.it/economia/stretta-emissioni-metano-ue-rinvio_117651915-202602k.shtml",
       "published": "2026-10-14T09:52:00+00:00"
-    },
-    {
-      "id": "a088d66a9b8f682c95a0",
-      "source": "BBC News",
-      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T09:32:54+00:00"
     },
     {
       "id": "417ef77e331763e618a4",
@@ -157,6 +178,13 @@
       "title": "Usa, giudice riammette alla Casa Bianca i giornalisti banditi da Trump",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-casa-bianca-giornalisti_117646545-202602k.shtml",
       "published": "2026-10-14T05:09:00+00:00"
+    },
+    {
+      "id": "b7304ce0280a15af5c1f",
+      "source": "BBC News",
+      "title": "World's oldest shipwreck found off coast of Turkey",
+      "url": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T05:00:35+00:00"
     },
     {
       "id": "279c7903f57fd5fdb884",
@@ -318,20 +346,6 @@
       "title": "Inside Katie Zacharia's very brief White House briefing",
       "url": "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-13T17:04:37+00:00"
-    },
-    {
-      "id": "01f402135d5f16cfea5d",
-      "source": "TGcom24",
-      "title": "Scontri a Parigi durante la mobilitazione studentesca: incendiata un'auto",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/parigi-scontri-studenti-auto-incendiata_117631818-02k.shtml",
-      "published": "2026-10-13T16:43:00+00:00"
-    },
-    {
-      "id": "3f6b758c77dfeb7546f9",
-      "source": "BBC News",
-      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-      "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T15:52:15+00:00"
     },
     {
       "id": "09e900acee568aecc0e9",
