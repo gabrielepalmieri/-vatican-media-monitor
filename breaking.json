@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-14T01:35:42.945221+00:00",
+  "updated_at": "2026-10-14T02:03:16.340449+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-14T01:35:42.945221+00:00"
+      "checked_at": "2026-10-14T02:03:16.340449+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-14T01:35:42.945221+00:00"
+      "checked_at": "2026-10-14T02:03:16.340449+00:00"
     }
   },
   "items": [
+    {
+      "id": "e3a1ea8835233ba4b3e4",
+      "source": "BBC News",
+      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T01:56:57+00:00"
+    },
     {
       "id": "ee6bb2f9aea72c39c361",
       "source": "BBC News",
@@ -52,13 +59,6 @@
       "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
       "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-13T22:29:55+00:00"
-    },
-    {
-      "id": "e3a1ea8835233ba4b3e4",
-      "source": "BBC News",
-      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T22:14:33+00:00"
     },
     {
       "id": "4c189cc07c52b876467d",
