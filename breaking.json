@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-10-14T11:20:47.336052+00:00",
+  "updated_at": "2026-10-14T11:52:45.431657+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-14T11:20:47.336052+00:00"
+      "checked_at": "2026-10-14T11:52:45.431657+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-14T11:20:47.336052+00:00"
+      "checked_at": "2026-10-14T11:52:45.431657+00:00"
     }
   },
   "items": [
+    {
+      "id": "c44faaf53df99878d4e1",
+      "source": "BBC News",
+      "title": "Houthi missile hits Aramco building after Saudi-led coalition hits Yemen fuel depot",
+      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T11:33:24+00:00"
+    },
+    {
+      "id": "e59a20e846389f66b493",
+      "source": "BBC News",
+      "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T11:32:07+00:00"
+    },
+    {
+      "id": "ffc9f4047844bc362666",
+      "source": "TGcom24",
+      "title": "Minicar a Roma, i due minori denunciati: \"Quella notte ci siamo divertiti così\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/roma-banda-minicar-individuati-minorenni_117650742-202602k.shtml",
+      "published": "2026-10-14T11:31:00+00:00"
+    },
     {
       "id": "51118d5b1bf7658d1bd7",
       "source": "BBC News",
@@ -47,13 +68,6 @@
       "published": "2026-10-14T10:08:26+00:00"
     },
     {
-      "id": "e59a20e846389f66b493",
-      "source": "BBC News",
-      "title": "Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T10:04:28+00:00"
-    },
-    {
       "id": "f23f2fec64758f44a1dc",
       "source": "TGcom24",
       "title": "Metano, l'Ue propone il rinvio della stretta sulle importazioni al 2028",
@@ -70,7 +84,7 @@
     {
       "id": "417ef77e331763e618a4",
       "source": "BBC News",
-      "title": "What we know about Russia's overnight strikes on Ukraine",
+      "title": "Watch: Block of flats destroyed in Russian strikes on Ukraine",
       "url": "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-14T09:25:03+00:00"
     },
@@ -143,13 +157,6 @@
       "title": "Usa, Trump grazia due meccanici condannati per violazioni norme antinquinamento",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-trump-grazia-meccanici-condannati_117646542-202602k.shtml",
       "published": "2026-10-14T04:30:00+00:00"
-    },
-    {
-      "id": "c44faaf53df99878d4e1",
-      "source": "BBC News",
-      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T04:20:17+00:00"
     },
     {
       "id": "e10a34bcfc93aa2b8609",
@@ -325,13 +332,6 @@
       "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
       "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-13T15:52:15+00:00"
-    },
-    {
-      "id": "9215e2cafdf6936c1d08",
-      "source": "TGcom24",
-      "title": "Garlasco, il legale di Andrea Sempio: \"Abbiamo una prova formidabile\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/garlasco-legale-andrea-sempio-prova-formidabile_117628505-202602k.shtml",
-      "published": "2026-10-13T15:37:00+00:00"
     },
     {
       "id": "09e900acee568aecc0e9",
