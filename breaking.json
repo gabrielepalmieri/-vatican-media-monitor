@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-14T00:01:11.935590+00:00",
+  "updated_at": "2026-10-14T00:30:01.378114+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-14T00:01:11.935590+00:00"
+      "checked_at": "2026-10-14T00:30:01.378114+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-14T00:01:11.935590+00:00"
+      "checked_at": "2026-10-14T00:30:01.378114+00:00"
     }
   },
   "items": [
+    {
+      "id": "51118d5b1bf7658d1bd7",
+      "source": "BBC News",
+      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T00:17:00+00:00"
+    },
     {
       "id": "a088d66a9b8f682c95a0",
       "source": "BBC News",
@@ -94,13 +101,6 @@
       "title": "Raid russo su centrale termoelettrica a Kiev, Zelensky: \"Alleati non ci hanno avvertito\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-russia-raid-centrale-termoelettrica-zelensky_117642513-202602k.shtml",
       "published": "2026-10-13T21:34:00+00:00"
-    },
-    {
-      "id": "51118d5b1bf7658d1bd7",
-      "source": "BBC News",
-      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T20:46:06+00:00"
     },
     {
       "id": "7083b1222347cb77028e",
