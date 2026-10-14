@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-14T16:38:22.237636+00:00",
+  "updated_at": "2026-10-14T17:09:04.743183+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-14T16:38:22.237636+00:00"
+      "checked_at": "2026-10-14T17:09:04.743183+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-14T16:38:22.237636+00:00"
+      "checked_at": "2026-10-14T17:09:04.743183+00:00"
     }
   },
   "items": [
+    {
+      "id": "0db2212e55a64cebc5d9",
+      "source": "BBC News",
+      "title": "Netflix to lay off 1,000 staff in steepest cuts since 2022",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T16:47:32+00:00"
+    },
+    {
+      "id": "ff762a2f500502db746b",
+      "source": "TGcom24",
+      "title": "Uk, Burnham a Zelensky: \"Al fianco dell'Ucraina, sostegno non cambierà\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-14-ottobre_117646600-202602k.shtml",
+      "published": "2026-10-14T16:40:00+00:00"
+    },
     {
       "id": "99966e96f9a4bba7b3c4",
       "source": "BBC News",
@@ -38,13 +52,6 @@
       "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
       "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-14T15:54:04+00:00"
-    },
-    {
-      "id": "0db2212e55a64cebc5d9",
-      "source": "BBC News",
-      "title": "Netflix to lay off 1,000 staff in steepest cuts since 2022",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T15:51:01+00:00"
     },
     {
       "id": "ee6bb2f9aea72c39c361",
