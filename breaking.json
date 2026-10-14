@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-14T05:05:33.850546+00:00",
+  "updated_at": "2026-10-14T05:34:20.574752+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-14T05:05:33.850546+00:00"
+      "checked_at": "2026-10-14T05:34:20.574752+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-14T05:05:33.850546+00:00"
+      "checked_at": "2026-10-14T05:34:20.574752+00:00"
     }
   },
   "items": [
+    {
+      "id": "9b526ced6029123ac70d",
+      "source": "TGcom24",
+      "title": "Usa, giudice riammette alla Casa Bianca i giornalisti banditi da Trump",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-casa-bianca-giornalisti_117646545-202602k.shtml",
+      "published": "2026-10-14T05:09:00+00:00"
+    },
     {
       "id": "e3a1ea8835233ba4b3e4",
       "source": "BBC News",
@@ -311,13 +318,6 @@
       "title": "L'allarme di Varsavia: \"Nato si prepari ad attacco ibrido letale dalla Russia\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-13-ottobre_117611441-202602k.shtml",
       "published": "2026-10-13T09:36:00+00:00"
-    },
-    {
-      "id": "b14673b66ceeb249e331",
-      "source": "TGcom24",
-      "title": "Torino, costringe la compagna a pratiche sessuali estreme: arrestato per tortura",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/torino-pratiche-sessuali-estreme-arrestato-chieri_117615420-202602k.shtml",
-      "published": "2026-10-13T08:40:00+00:00"
     }
   ]
 }
