@@ -1,22 +1,43 @@
 {
-  "updated_at": "2026-10-14T13:29:41.040070+00:00",
+  "updated_at": "2026-10-14T14:01:50.041616+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-14T13:29:41.040070+00:00"
+      "checked_at": "2026-10-14T14:01:50.041616+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-14T13:29:41.040070+00:00"
+      "checked_at": "2026-10-14T14:01:50.041616+00:00"
     }
   },
   "items": [
+    {
+      "id": "a088d66a9b8f682c95a0",
+      "source": "BBC News",
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T13:41:51+00:00"
+    },
+    {
+      "id": "7783f7b4167159063e36",
+      "source": "BBC News",
+      "title": "US inflation rises more than expected ahead of midterm elections",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T13:40:36+00:00"
+    },
     {
       "id": "e59a20e846389f66b493",
       "source": "BBC News",
       "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
       "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-14T13:11:17+00:00"
+    },
+    {
+      "id": "3817e649a436f264a67e",
+      "source": "TGcom24",
+      "title": "Senato, doppio ok alle risoluzioni di maggioranza in vista del Consiglio europeo",
+      "url": "https://www.tgcom24.mediaset.it/politica/giorgia-meloni-comunicazioni-consiglio-europeo_117650332-202602k.shtml",
+      "published": "2026-10-14T13:10:00+00:00"
     },
     {
       "id": "e3b3927f091d3686b977",
@@ -31,13 +52,6 @@
       "title": "Confesercenti: in 4 anni le guerre sono costate oltre 2mila euro a famiglia",
       "url": "https://www.tgcom24.mediaset.it/2026/video/guerre-in-quattro-anni-le-tensioni-sono-costate-oltre-2mila-euro-a-famiglia_117653762-02k.shtml",
       "published": "2026-10-14T12:31:00+00:00"
-    },
-    {
-      "id": "a088d66a9b8f682c95a0",
-      "source": "BBC News",
-      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T12:27:00+00:00"
     },
     {
       "id": "c44faaf53df99878d4e1",
@@ -325,13 +339,6 @@
       "title": "Corsico, travolto dalla sua auto: muore un anziano di 77 anni",
       "url": "https://www.tgcom24.mediaset.it/cronaca/corsico-travolto-dalla-sua-auto-morto-anziano_117631988-202602k.shtml",
       "published": "2026-10-13T17:37:00+00:00"
-    },
-    {
-      "id": "66997d7cd1816e99064c",
-      "source": "TGcom24",
-      "title": "Liliana Resinovich, tracce di Dna di un uomo sconosciuto trovate sui suoi jeans",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/liliana-resinovich-dna-uomo-sconosciuto-periti-gip-trieste_117632366-202602k.shtml",
-      "published": "2026-10-13T17:13:00+00:00"
     },
     {
       "id": "c972a5b485aba9560aeb",
