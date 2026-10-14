@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-14T05:34:20.574752+00:00",
+  "updated_at": "2026-10-14T06:04:18.805412+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-14T05:34:20.574752+00:00"
+      "checked_at": "2026-10-14T06:04:18.805412+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-14T05:34:20.574752+00:00"
+      "checked_at": "2026-10-14T06:04:18.805412+00:00"
     }
   },
   "items": [
+    {
+      "id": "91abec41bf311c24f9ab",
+      "source": "TGcom24",
+      "title": "Meloni, mano tesa a Trump: \"Tra Italia e Usa amicizia storica\"",
+      "url": "https://www.tgcom24.mediaset.it/politica/meloni-trump-italia-usa-amicizia_117646866-202602k.shtml",
+      "published": "2026-10-14T05:52:00+00:00"
+    },
     {
       "id": "9b526ced6029123ac70d",
       "source": "TGcom24",
@@ -311,13 +318,6 @@
       "title": "Ilaria Salis, annullata la condanna nella causa con gli ex collaboratori",
       "url": "https://www.tgcom24.mediaset.it/politica/ilaria-salis-annullata-condanna-collaboratori_117618302-202602k.shtml",
       "published": "2026-10-13T10:05:00+00:00"
-    },
-    {
-      "id": "72fb717d5163081f5656",
-      "source": "TGcom24",
-      "title": "L'allarme di Varsavia: \"Nato si prepari ad attacco ibrido letale dalla Russia\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-13-ottobre_117611441-202602k.shtml",
-      "published": "2026-10-13T09:36:00+00:00"
     }
   ]
 }
