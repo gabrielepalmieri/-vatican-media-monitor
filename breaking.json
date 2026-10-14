@@ -1,22 +1,29 @@
 {
-  "updated_at": "2026-10-14T03:34:33.873151+00:00",
+  "updated_at": "2026-10-14T04:06:46.549853+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-14T03:34:33.873151+00:00"
+      "checked_at": "2026-10-14T04:06:46.549853+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-14T03:34:33.873151+00:00"
+      "checked_at": "2026-10-14T04:06:46.549853+00:00"
     }
   },
   "items": [
+    {
+      "id": "e10a34bcfc93aa2b8609",
+      "source": "TGcom24",
+      "title": "Media: \"Colloqui Trump-Netanyahu per un attacco all'Iran prima delle elezioni\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/netanyahu-trump-attacco-iran-israele-stati-uniti_117645810-202602k.shtml",
+      "published": "2026-10-14T04:00:00+00:00"
+    },
     {
       "id": "e3a1ea8835233ba4b3e4",
       "source": "BBC News",
       "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
       "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T01:56:57+00:00"
+      "published": "2026-10-14T03:54:41+00:00"
     },
     {
       "id": "ee6bb2f9aea72c39c361",
@@ -311,13 +318,6 @@
       "title": "Manovra, Giorgetti: \"Scostamento è passo consapevole dalla linea di prudenza\"",
       "url": "https://www.tgcom24.mediaset.it/politica/manovra-finanziaria-giorgetti-scostamento_117615073-202602k.shtml",
       "published": "2026-10-13T08:00:00+00:00"
-    },
-    {
-      "id": "a7e6b5b93705bcfb69e9",
-      "source": "TGcom24",
-      "title": "Papa Leone XIV ricoverato al Gemelli: nel pomeriggio l'intervento",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/papa-leone-xiv-oggi-ricovero_117612385-202602k.shtml",
-      "published": "2026-10-13T07:16:00+00:00"
     }
   ]
 }
