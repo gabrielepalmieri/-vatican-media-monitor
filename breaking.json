@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-10-14T06:42:58.903085+00:00",
+  "updated_at": "2026-10-14T07:21:05.005765+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-14T06:42:58.903085+00:00"
+      "checked_at": "2026-10-14T07:21:05.005765+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-14T06:42:58.903085+00:00"
+      "checked_at": "2026-10-14T07:21:05.005765+00:00"
     }
   },
   "items": [
+    {
+      "id": "67c23ff2f6acb0d8268f",
+      "source": "BBC News",
+      "title": "Russia arrests Japanese journalist on spying charges",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T07:12:37+00:00"
+    },
+    {
+      "id": "2245d932a5f7ba362c7e",
+      "source": "TGcom24",
+      "title": "Papa Leone operato: \"Prima notte tranquilla\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/papa-leone-operato-ultime-notizie_117648243-202602k.shtml",
+      "published": "2026-10-14T06:50:00+00:00"
+    },
+    {
+      "id": "9e7425c18a84838e40dc",
+      "source": "BBC News",
+      "title": "Turkey police raid opposition TV station, halting live broadcasts",
+      "url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T06:32:02+00:00"
+    },
     {
       "id": "91abec41bf311c24f9ab",
       "source": "TGcom24",
@@ -45,13 +66,6 @@
       "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
       "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-14T04:20:17+00:00"
-    },
-    {
-      "id": "67c23ff2f6acb0d8268f",
-      "source": "BBC News",
-      "title": "Russia arrests Japanese journalist on alleged espionage",
-      "url": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T04:10:49+00:00"
     },
     {
       "id": "e10a34bcfc93aa2b8609",
@@ -133,7 +147,7 @@
     {
       "id": "a807b23dd45e5c04c460",
       "source": "BBC News",
-      "title": "Who's to blame for the toxic smog choking South East Asia?",
+      "title": "Who's to blame for the toxic haze choking South East Asia?",
       "url": "https://www.bbc.co.uk/news/articles/ckreyq9re0n0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-13T22:01:43+00:00"
     },
@@ -311,13 +325,6 @@
       "title": "Istat: in 25 anni prezzi cresciuti del 63% ma per la casa oltre 100% in più",
       "url": "https://www.tgcom24.mediaset.it/tgcomlab/focus/istat-25-anni-prezzi-cresciuti-63-_117619867-202602k.shtml",
       "published": "2026-10-13T10:44:00+00:00"
-    },
-    {
-      "id": "b296df44f6db497bce8e",
-      "source": "TGcom24",
-      "title": "Ilaria Salis, annullata la condanna nella causa con gli ex collaboratori",
-      "url": "https://www.tgcom24.mediaset.it/politica/ilaria-salis-annullata-condanna-collaboratori_117618302-202602k.shtml",
-      "published": "2026-10-13T10:05:00+00:00"
     }
   ]
 }
