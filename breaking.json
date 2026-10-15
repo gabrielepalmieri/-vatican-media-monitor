@@ -1,29 +1,36 @@
 {
-  "updated_at": "2026-10-15T09:54:11.743447+00:00",
+  "updated_at": "2026-10-15T10:20:48.998344+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-15T09:54:11.743447+00:00"
+      "checked_at": "2026-10-15T10:20:48.998344+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-15T09:54:11.743447+00:00"
+      "checked_at": "2026-10-15T10:20:48.998344+00:00"
     }
   },
   "items": [
+    {
+      "id": "5c09ac12c70ff687fec1",
+      "source": "BBC News",
+      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T10:14:31+00:00"
+    },
+    {
+      "id": "512f78ad36df9cc0831f",
+      "source": "TGcom24",
+      "title": "Manovra 2027 da 23,5 miliardi, coperture da tagli ministeri e giochi",
+      "url": "https://www.tgcom24.mediaset.it/economia/manovra-dpfp-23-5-miliardi-2027_117696782-202602k.shtml",
+      "published": "2026-10-15T09:55:00+00:00"
+    },
     {
       "id": "c2f8868bd304f7462bb7",
       "source": "TGcom24",
       "title": "Istat, 5,4 milioni di persone in povertà assoluta in Italia nel 2025: sono il 9,3%",
       "url": "https://www.tgcom24.mediaset.it/economia/istat-report-poverta-italia-famiglie-sud-mezzogiorno-crisi_117694537-202602k.shtml",
       "published": "2026-10-15T09:25:00+00:00"
-    },
-    {
-      "id": "5c09ac12c70ff687fec1",
-      "source": "BBC News",
-      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T09:10:10+00:00"
     },
     {
       "id": "72a1ead7ec012e4c6a25",
@@ -313,13 +320,6 @@
       "published": "2026-10-14T13:41:51+00:00"
     },
     {
-      "id": "da18e1c3bee36cd552da",
-      "source": "TGcom24",
-      "title": "Papa Leone, il nuovo bollettino: \"Decorso post-operatorio regolare\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/papa-leone-operato-ultime-notizie_117648243-202602k.shtml",
-      "published": "2026-10-14T13:39:00+00:00"
-    },
-    {
       "id": "0c6880636437c963285b",
       "source": "BBC News",
       "title": "Are the European Women's World Cup play-offs working?",
@@ -353,20 +353,6 @@
       "title": "Pictured: Winning entries for Wildlife Photographer of the Year 2026",
       "url": "https://www.bbc.co.uk/news/articles/cw5y4nv05rp8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-13T23:26:54+00:00"
-    },
-    {
-      "id": "729a43abc4ea2d84df55",
-      "source": "BBC News",
-      "title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T22:02:09+00:00"
-    },
-    {
-      "id": "a807b23dd45e5c04c460",
-      "source": "BBC News",
-      "title": "Who's to blame for the toxic haze choking South East Asia?",
-      "url": "https://www.bbc.co.uk/news/articles/ckreyq9re0n0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T22:01:43+00:00"
     }
   ]
 }
