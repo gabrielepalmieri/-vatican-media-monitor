@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-15T20:35:14.217595+00:00",
+  "updated_at": "2026-10-15T21:05:43.426174+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-15T20:35:14.217595+00:00"
+      "checked_at": "2026-10-15T21:05:43.426174+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-15T20:35:14.217595+00:00"
+      "checked_at": "2026-10-15T21:05:43.426174+00:00"
     }
   },
   "items": [
+    {
+      "id": "dec3d4387a2442a92efe",
+      "source": "BBC News",
+      "title": "Letters with 'suspicious substances' sent to US election offices",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T20:52:13+00:00"
+    },
     {
       "id": "7f17693f2927b751452d",
       "source": "TGcom24",
@@ -24,13 +31,6 @@
       "title": "Giallo a Modena, marito e moglie trovati decapitati in casa",
       "url": "https://www.tgcom24.mediaset.it/cronaca/modena-mirandola-marito-moglie-morti-ipotesi-omicidio_117717735-202602k.shtml",
       "published": "2026-10-15T19:31:00+00:00"
-    },
-    {
-      "id": "dec3d4387a2442a92efe",
-      "source": "BBC News",
-      "title": "Letters with 'suspicious substances' sent to US election offices",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T19:13:09+00:00"
     },
     {
       "id": "d3fee3d3e5b64279ef87",
@@ -299,25 +299,11 @@
       "published": "2026-10-15T07:25:54+00:00"
     },
     {
-      "id": "5936740618c336f82fb6",
-      "source": "TGcom24",
-      "title": "Ucraina, Musk: \"È ora che Zelensky se ne vada\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-15ottobre_117688692-202602k.shtml",
-      "published": "2026-10-15T06:37:00+00:00"
-    },
-    {
       "id": "0e3479ea1488ddbd0e43",
       "source": "BBC News",
       "title": "North Korea and China open new bridge after 12-year delay",
       "url": "https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15T06:24:45+00:00"
-    },
-    {
-      "id": "5b93183da43ed7888a20",
-      "source": "TGcom24",
-      "title": "Milano, anziane picchiate e abusate in Rsa mentre venivano lavate e vestite",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-anziane-picchiate-rsa-violenza-sessuale_117689060-202602k.shtml",
-      "published": "2026-10-15T05:59:00+00:00"
     },
     {
       "id": "65af4f63929d3adacee9",
