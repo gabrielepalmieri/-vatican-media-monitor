@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-15T13:39:42.680505+00:00",
+  "updated_at": "2026-10-15T14:14:57.018318+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-15T13:39:42.680505+00:00"
+      "checked_at": "2026-10-15T14:14:57.018318+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-15T13:39:42.680505+00:00"
+      "checked_at": "2026-10-15T14:14:57.018318+00:00"
     }
   },
   "items": [
+    {
+      "id": "a1e6db32f4a1014eca4a",
+      "source": "TGcom24",
+      "title": "Ocse: dal 2011 al 2024 espatriato il 6% dei giovani italiani, la metà sono laureati",
+      "url": "https://www.tgcom24.mediaset.it/tgcomlab/lavoro/ocse-espatrio-giovani-italiani-lavoro_117704797-202602k.shtml",
+      "published": "2026-10-15T13:30:00+00:00"
+    },
     {
       "id": "e5edc464d797a349b109",
       "source": "TGcom24",
@@ -66,13 +73,6 @@
       "title": "Eight crew missing after drone attack leaves tanker ablaze off Romania's coast",
       "url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15T11:12:54+00:00"
-    },
-    {
-      "id": "e43c23fc57d1185dffec",
-      "source": "BBC News",
-      "title": "Watch: Harry and Meghan at first joint engagement since UK return",
-      "url": "https://www.bbc.co.uk/news/videos/cme8r0eexr3yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T11:10:59+00:00"
     },
     {
       "id": "3100bf1b2e0bd082e8a6",
@@ -325,13 +325,6 @@
       "title": "What if you could turn off your algorithm? Australia is about to try",
       "url": "https://www.bbc.co.uk/news/videos/ck78pj2qy42po?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-14T18:00:54+00:00"
-    },
-    {
-      "id": "20ff650831fbba6db464",
-      "source": "TGcom24",
-      "title": "Comunità ebraica Roma: \"Anpi non partecipi a commemorazioni del 16 ottobre\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/comunita-ebraica-roma-anpi-non-partecipi-a-commemorazioni-16-ottobre_117672462-202602k.shtml",
-      "published": "2026-10-14T17:40:00+00:00"
     }
   ]
 }
