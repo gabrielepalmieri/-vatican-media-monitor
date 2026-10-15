@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-15T05:36:21.102565+00:00",
+  "updated_at": "2026-10-15T22:36:10.696781+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-10-15T05:36:21.102565+00:00",
+  "un_verified_at": "2026-10-15T22:36:10.696781+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,17 +1918,6 @@
     }
   ],
   "days": {
-    "2026-10-14": {
-      "saints": [
-        {
-          "title": "San Callisto I, papa e martire",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/14/san-callisto-i--papa-e-martire.html"
-        }
-      ],
-      "un": [],
-      "un_available": true,
-      "holy_see": []
-    },
     "2026-10-15": {
       "saints": [
         {
@@ -2567,6 +2556,30 @@
         {
           "title": "Giornata mondiale della filosofia",
           "url": "https://www.unesco.org/en/days/philosophy"
+        }
+      ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-11-20": {
+      "saints": [
+        {
+          "title": "Anna Kolesárová",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/20/anna-kolesarova-.html"
+        },
+        {
+          "title": "San Gelasio I, papa",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/20.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata dell’industrializzazione dell’Africa",
+          "url": "https://www.un.org/en/observances/africa-industrialization-day"
+        },
+        {
+          "title": "Giornata mondiale dell’infanzia",
+          "url": "https://www.un.org/en/observances/world-childrens-day"
         }
       ],
       "un_available": true,
