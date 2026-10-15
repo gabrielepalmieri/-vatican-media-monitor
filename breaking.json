@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-15T09:22:27.052662+00:00",
+  "updated_at": "2026-10-15T09:54:11.743447+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-15T09:22:27.052662+00:00"
+      "checked_at": "2026-10-15T09:54:11.743447+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-15T09:22:27.052662+00:00"
+      "checked_at": "2026-10-15T09:54:11.743447+00:00"
     }
   },
   "items": [
+    {
+      "id": "c2f8868bd304f7462bb7",
+      "source": "TGcom24",
+      "title": "Istat, 5,4 milioni di persone in povertà assoluta in Italia nel 2025: sono il 9,3%",
+      "url": "https://www.tgcom24.mediaset.it/economia/istat-report-poverta-italia-famiglie-sud-mezzogiorno-crisi_117694537-202602k.shtml",
+      "published": "2026-10-15T09:25:00+00:00"
+    },
     {
       "id": "5c09ac12c70ff687fec1",
       "source": "BBC News",
@@ -318,13 +325,6 @@
       "title": "Are the European Women's World Cup play-offs working?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cq0k0x1l8gndo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-14T13:25:56+00:00"
-    },
-    {
-      "id": "3817e649a436f264a67e",
-      "source": "TGcom24",
-      "title": "Senato, doppio ok alle risoluzioni di maggioranza in vista del Consiglio europeo",
-      "url": "https://www.tgcom24.mediaset.it/politica/giorgia-meloni-comunicazioni-consiglio-europeo_117650332-202602k.shtml",
-      "published": "2026-10-14T13:10:00+00:00"
     },
     {
       "id": "ffd4ed6dc62b6f903751",
