@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-15T11:51:16.638829+00:00",
+  "updated_at": "2026-10-15T12:13:59.051764+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-15T11:51:16.638829+00:00"
+      "checked_at": "2026-10-15T12:13:59.051764+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-15T11:51:16.638829+00:00"
+      "checked_at": "2026-10-15T12:13:59.051764+00:00"
     }
   },
   "items": [
+    {
+      "id": "37738657269e2ac8564d",
+      "source": "BBC News",
+      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T12:03:51+00:00"
+    },
+    {
+      "id": "ef92fff779d6d8db6ba8",
+      "source": "TGcom24",
+      "title": "Mattarella: \"Impossibile che le scuole celebrino 51 giornate nazionali\"",
+      "url": "https://www.tgcom24.mediaset.it/politica/mattarella-troppe-51-giornate-nazionali_117701951-202602k.shtml",
+      "published": "2026-10-15T12:01:00+00:00"
+    },
     {
       "id": "5c09ac12c70ff687fec1",
       "source": "BBC News",
@@ -59,13 +73,6 @@
       "title": "Inps, nel 2025 oltre 4,5 milioni di persone con pensioni sotto ai 1000 euro",
       "url": "https://www.tgcom24.mediaset.it/economia/inps-pensioni-trattamenti-sotto-mille-euro-italia-pensionati_117698228-202602k.shtml",
       "published": "2026-10-15T10:32:00+00:00"
-    },
-    {
-      "id": "37738657269e2ac8564d",
-      "source": "BBC News",
-      "title": "Ukraine to restart strikes on Russian oil refineries, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T10:27:26+00:00"
     },
     {
       "id": "0516b3ddd0c24b7fb6be",
@@ -318,13 +325,6 @@
       "title": "Gb, Burnham a Zelensky: \"Al fianco dell'Ucraina, sostegno non cambierà\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-14-ottobre_117646600-202602k.shtml",
       "published": "2026-10-14T16:40:00+00:00"
-    },
-    {
-      "id": "df0147eba1810fc763e3",
-      "source": "TGcom24",
-      "title": "Ucraina, Salvini: \"Abbiamo dato tanto, non potremo sostenere Kiev all'infinito\"",
-      "url": "https://www.tgcom24.mediaset.it/politica/ucraina-salvini-sostegno-a-kiev_117662410-202602k.shtml",
-      "published": "2026-10-14T16:05:00+00:00"
     }
   ]
 }
