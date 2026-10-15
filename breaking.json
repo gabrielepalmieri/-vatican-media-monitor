@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-15T17:17:17.539125+00:00",
+  "updated_at": "2026-10-15T17:45:53.525527+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-15T17:17:17.539125+00:00"
+      "checked_at": "2026-10-15T17:45:53.525527+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-15T17:17:17.539125+00:00"
+      "checked_at": "2026-10-15T17:45:53.525527+00:00"
     }
   },
   "items": [
+    {
+      "id": "0b8553a0b223967d77df",
+      "source": "BBC News",
+      "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
+      "url": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T17:31:37+00:00"
+    },
+    {
+      "id": "3664a4b486a2ace64e47",
+      "source": "TGcom24",
+      "title": "Varese, è morto il bambino di cinque anni investito da un'auto lunedì",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/varese-incidente-bimbo-5-anni-morto_117712353-202602k.shtml",
+      "published": "2026-10-15T17:30:00+00:00"
+    },
     {
       "id": "1ea828fa1e75334455da",
       "source": "TGcom24",
@@ -192,13 +206,6 @@
       "title": "White House defends new press secretary over her legal credentials",
       "url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15T08:41:04+00:00"
-    },
-    {
-      "id": "9c4f9db50fbf12c05c9b",
-      "source": "BBC News",
-      "title": "What's going on between Kelly Clarkson and a Brooklyn store bird?",
-      "url": "https://www.bbc.co.uk/news/videos/c6e3x9z8jpj1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T08:19:00+00:00"
     },
     {
       "id": "c75df7fe11dd85acf64b",
