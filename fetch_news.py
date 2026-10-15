@@ -9,6 +9,7 @@ from pathlib import Path
 from urllib.parse import quote, urlparse
 from urllib.request import Request, urlopen
 from xml.etree import ElementTree as ET
+from author_sources import AUTHOR_SOURCES, fetch_author_source
 
 ROOT = Path(__file__).resolve().parent
 OUT = ROOT / "news.json"
@@ -87,6 +88,7 @@ DIRECT_TERMS = (
 PRIORITY_SOURCES = [
     ("Italia", "Domani", ["domani", "editorialedomani.it"], "editorialedomani.it"),
     ("Italia", "Il Tempo", ["il tempo", "iltempo.it"], "iltempo.it"),
+    ("Italia", "Il Giornale", ["il giornale", "ilgiornale.it"], "ilgiornale.it"),
     ("Italia", "Corriere della Sera", ["corriere della sera", "corriere.it"], "corriere.it"),
     ("Italia", "la Repubblica", ["la repubblica", "repubblica.it"], "repubblica.it"),
     ("Italia", "La Stampa", ["la stampa", "lastampa.it"], "lastampa.it"),
@@ -280,7 +282,7 @@ def source_queries(country: str) -> list[str]:
 
 def source_matches(source: str, aliases: list[str]) -> bool:
     value=source.casefold()
-    return any((value == alias.casefold() if len(alias) <= 2 else alias.casefold() in value)
+    return any((value == alias.casefold() if len(alias) <= 2 or alias.casefold() in {"il giornale", "il tempo"} else alias.casefold() in value)
                for alias in aliases)
 
 def coverage_for(items: list[dict]) -> list[dict]:
@@ -384,7 +386,8 @@ def main() -> None:
     for country, language, source, url in DIRECT_FEEDS:
         jobs.append((url,country,language,"news",source))
     with ThreadPoolExecutor(max_workers=8) as pool:
-        futures=[pool.submit(parse_feed,*job) for job in jobs]
+        futures=[pool.submit(fetch_author_source, config, fetch, topic_for, valid_title, RETENTION_DAYS) for config in AUTHOR_SOURCES]
+        futures += [pool.submit(parse_feed,*job) for job in jobs]
         for future in as_completed(futures): items += future.result()
     # Conserva gli articoli recenti già trovati: i feed di ricerca cambiano
     # ordine e possono smettere di mostrare un articolo dopo poche ore.
@@ -413,8 +416,12 @@ def main() -> None:
             unique[key]=x
         else:
             old=unique[key]
+            author_item=x if x.get("author") else old if old.get("author") else None
             direct_url=x["url"] if x.get("origin")=="direct" else old["url"] if old.get("origin")=="direct" else None
             if x["published"]>old["published"]: unique[key]=x
+            if author_item:
+                unique[key]["author"]=author_item["author"]
+                unique[key]["author_url"]=author_item["author_url"]
             if direct_url:
                 unique[key]["url"]=direct_url
                 unique[key]["origin"]="direct"
@@ -425,3 +432,4 @@ def main() -> None:
     print(f"Salvati {len(result)} contenuti in {OUT}")
 
 if __name__ == "__main__": main()
+
