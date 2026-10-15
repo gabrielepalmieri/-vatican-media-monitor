@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-15T14:14:57.018318+00:00",
+  "updated_at": "2026-10-15T14:49:50.818854+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-15T14:14:57.018318+00:00"
+      "checked_at": "2026-10-15T14:49:50.818854+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-15T14:14:57.018318+00:00"
+      "checked_at": "2026-10-15T14:49:50.818854+00:00"
     }
   },
   "items": [
+    {
+      "id": "e9f588e8cdbfd65749c6",
+      "source": "BBC News",
+      "title": "Trump calls off livestream for Fort Hood shooter's execution by firing squad",
+      "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T14:47:56+00:00"
+    },
+    {
+      "id": "1787263a5d421d5b391a",
+      "source": "TGcom24",
+      "title": "Fort Hood, Trump: \"La fucilazione del killer non sarà in streaming\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/trump-fucilazione-killer-fort-hood-hasan-streaming-usa_117707198-202602k.shtml",
+      "published": "2026-10-15T14:31:00+00:00"
+    },
     {
       "id": "a1e6db32f4a1014eca4a",
       "source": "TGcom24",
@@ -171,13 +185,6 @@
       "title": "Indian woman and boyfriend get death sentence in 'blue drum' murder case",
       "url": "https://www.bbc.co.uk/news/articles/c6wy435gd311o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15T07:25:54+00:00"
-    },
-    {
-      "id": "6c8a1ab149f0660adfb9",
-      "source": "TGcom24",
-      "title": "Sala stampa: \"Papa Leone ha trascorso bene la seconda notte al Gemelli\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/papa-leone-ospedale-gemelli-bollettino-seconda-notte_117690741-202602k.shtml",
-      "published": "2026-10-15T07:00:00+00:00"
     },
     {
       "id": "5936740618c336f82fb6",
