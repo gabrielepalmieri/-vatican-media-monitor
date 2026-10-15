@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-15T18:11:07.832243+00:00",
+  "updated_at": "2026-10-15T18:43:53.952805+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-15T18:11:07.832243+00:00"
+      "checked_at": "2026-10-15T18:43:53.952805+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-15T18:11:07.832243+00:00"
+      "checked_at": "2026-10-15T18:43:53.952805+00:00"
     }
   },
   "items": [
+    {
+      "id": "c1b42ed6a0e249b304b4",
+      "source": "BBC News",
+      "title": "An Australian band’s ‘unreal’ journey to break a gig world record",
+      "url": "https://www.bbc.co.uk/news/videos/c62keqn7wpwdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T18:09:58+00:00"
+    },
     {
       "id": "a0144985647818ab6593",
       "source": "TGcom24",
@@ -38,6 +45,13 @@
       "title": "Varese, è morto il bambino di cinque anni investito da un'auto lunedì",
       "url": "https://www.tgcom24.mediaset.it/cronaca/varese-incidente-bimbo-5-anni-morto_117712353-202602k.shtml",
       "published": "2026-10-15T17:30:00+00:00"
+    },
+    {
+      "id": "1f06b7bddb502ced5be6",
+      "source": "BBC News",
+      "title": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T17:18:49+00:00"
     },
     {
       "id": "1ea828fa1e75334455da",
@@ -94,6 +108,13 @@
       "title": "Watch: Pupils heard 'cracking' sound heard moments before Pakistan school roof collapse",
       "url": "https://www.bbc.co.uk/news/videos/cmq8n5gv1pnpo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15T15:05:29+00:00"
+    },
+    {
+      "id": "4a39c5f8b2a1fd3e7c86",
+      "source": "BBC News",
+      "title": "Was Neanderthal life violent? This wound suggests lethal fighting was more common",
+      "url": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T15:00:05+00:00"
     },
     {
       "id": "8422b906e1c81e49e39a",
@@ -341,25 +362,11 @@
       "published": "2026-10-14T22:19:13+00:00"
     },
     {
-      "id": "c14d130f6b018a20ff45",
-      "source": "TGcom24",
-      "title": "Usa: \"Distrutta un'imbarcazione legata all'Iran nel golfo dell'Oman\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/usa-distrutta-un-imbarcazione-legata-all-iran-nel-golfo-dell-oman-_117683818-202602k.shtml",
-      "published": "2026-10-14T22:01:00+00:00"
-    },
-    {
       "id": "1ecb815fbc8070bda089",
       "source": "BBC News",
       "title": "Student protesters attack government buildings in Albania",
       "url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-14T20:29:05+00:00"
-    },
-    {
-      "id": "7751ff3f24dc6fb56761",
-      "source": "BBC News",
-      "title": "What if you could turn off your algorithm? Australia is about to try",
-      "url": "https://www.bbc.co.uk/news/videos/ck78pj2qy42po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T18:00:54+00:00"
     }
   ]
 }
