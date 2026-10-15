@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-15T05:33:51.437848+00:00",
+  "updated_at": "2026-10-15T06:04:27.163289+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-15T05:33:51.437848+00:00"
+      "checked_at": "2026-10-15T06:04:27.163289+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-15T05:33:51.437848+00:00"
+      "checked_at": "2026-10-15T06:04:27.163289+00:00"
     }
   },
   "items": [
+    {
+      "id": "5b93183da43ed7888a20",
+      "source": "TGcom24",
+      "title": "Milano, anziane picchiate e abusate in Rsa mentre venivano lavate e vestite",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-anziane-picchiate-rsa-violenza-sessuale_117689060-202602k.shtml",
+      "published": "2026-10-15T05:59:00+00:00"
+    },
     {
       "id": "84d816a7665be2ab21ed",
       "source": "TGcom24",
@@ -94,13 +101,6 @@
       "title": "Ucraina, Axios: Casa Bianca nega ruolo in limitazioni a Starlink",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-14-ottobre_117646600-202602k.shtml",
       "published": "2026-10-14T21:30:00+00:00"
-    },
-    {
-      "id": "e169d8e8bdc742e77401",
-      "source": "BBC News",
-      "title": "Why Zelensky's meeting with Burnham matters",
-      "url": "https://www.bbc.co.uk/news/videos/c65yngxdzdd5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T20:41:03+00:00"
     },
     {
       "id": "1ecb815fbc8070bda089",
@@ -332,13 +332,6 @@
       "title": "Watch: Block of flats destroyed in Russian strikes on Ukraine",
       "url": "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-14T09:25:03+00:00"
-    },
-    {
-      "id": "f7e733b4638a7b6f7287",
-      "source": "TGcom24",
-      "title": "Iran, 23enne condannata a morte per un post sui social",
-      "url": "https://www.tgcom24.mediaset.it/mondo/iran-condannata-morte-social_117650716-202602k.shtml",
-      "published": "2026-10-14T09:23:00+00:00"
     },
     {
       "id": "cda48f2d404f315d4a1a",
