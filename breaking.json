@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-15T11:19:53.110048+00:00",
+  "updated_at": "2026-10-15T11:51:16.638829+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-15T11:19:53.110048+00:00"
+      "checked_at": "2026-10-15T11:51:16.638829+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-15T11:19:53.110048+00:00"
+      "checked_at": "2026-10-15T11:51:16.638829+00:00"
     }
   },
   "items": [
+    {
+      "id": "5c09ac12c70ff687fec1",
+      "source": "BBC News",
+      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T11:25:19+00:00"
+    },
+    {
+      "id": "59e67797661ed283c751",
+      "source": "TGcom24",
+      "title": "Droghe, in Italia 92 nuove sostanze: più ricoveri al pronto soccorso",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/droga-92-nuove-sostanze-in-italia-nell-ultimo-anno_117696034-202602k.shtml",
+      "published": "2026-10-15T11:16:00+00:00"
+    },
     {
       "id": "8422b906e1c81e49e39a",
       "source": "BBC News",
@@ -31,13 +45,6 @@
       "title": "Pakistan, crolla il tetto di una scuola: morti più di 30 bambini e un'insegnante",
       "url": "https://www.tgcom24.mediaset.it/mondo/pakistan-crollo-tetto-scuola_117692162-202602k.shtml",
       "published": "2026-10-15T11:05:00+00:00"
-    },
-    {
-      "id": "5c09ac12c70ff687fec1",
-      "source": "BBC News",
-      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T10:53:40+00:00"
     },
     {
       "id": "c5315b9b67384d5a155e",
@@ -318,20 +325,6 @@
       "title": "Ucraina, Salvini: \"Abbiamo dato tanto, non potremo sostenere Kiev all'infinito\"",
       "url": "https://www.tgcom24.mediaset.it/politica/ucraina-salvini-sostegno-a-kiev_117662410-202602k.shtml",
       "published": "2026-10-14T16:05:00+00:00"
-    },
-    {
-      "id": "dc3cfe113a2fa23a0bd7",
-      "source": "BBC News",
-      "title": "'It's rough out here': Americans struggle with rising inflation",
-      "url": "https://www.bbc.co.uk/news/articles/c305649p2d6o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T15:57:11+00:00"
-    },
-    {
-      "id": "b662c7b5729b53df2eb7",
-      "source": "TGcom24",
-      "title": "Zelensky: \"Ringrazio Meloni per il sostegno e la posizione inequivocabile\"",
-      "url": "https://www.tgcom24.mediaset.it/politica/giorgia-meloni-comunicazioni-consiglio-europeo_117650332-202602k.shtml",
-      "published": "2026-10-14T15:40:00+00:00"
     }
   ]
 }
