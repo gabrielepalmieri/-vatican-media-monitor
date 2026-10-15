@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-15T08:22:08.504745+00:00",
+  "updated_at": "2026-10-15T08:57:21.066278+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-15T08:22:08.504745+00:00"
+      "checked_at": "2026-10-15T08:57:21.066278+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-15T08:22:08.504745+00:00"
+      "checked_at": "2026-10-15T08:57:21.066278+00:00"
     }
   },
   "items": [
+    {
+      "id": "567133b8c9f3a8bfa7f7",
+      "source": "BBC News",
+      "title": "White House defends new press secretary amid questions about her legal credentials",
+      "url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T08:41:04+00:00"
+    },
     {
       "id": "1ec747524f278433bc1b",
       "source": "TGcom24",
@@ -89,13 +96,6 @@
       "published": "2026-10-15T03:26:36+00:00"
     },
     {
-      "id": "567133b8c9f3a8bfa7f7",
-      "source": "BBC News",
-      "title": "White House defends new press secretary amid questions about her legal credentials",
-      "url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T03:03:16+00:00"
-    },
-    {
       "id": "2d088d18d3d4fa0940ef",
       "source": "BBC News",
       "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
@@ -112,7 +112,7 @@
     {
       "id": "71ae8ff74ffd9e673664",
       "source": "BBC News",
-      "title": "Inside Brooklyn novelty shop at centre of 'surreal' row with Kelly Clarkson over mechanical bird",
+      "title": "At the Brooklyn novelty shop in 'surreal' row with Kelly Clarkson over mechanical bird",
       "url": "https://www.bbc.co.uk/news/articles/cxvgdneplgzeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-14T22:19:13+00:00"
     },
