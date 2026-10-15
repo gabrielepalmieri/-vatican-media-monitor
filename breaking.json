@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-15T18:43:53.952805+00:00",
+  "updated_at": "2026-10-15T19:18:20.966788+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-15T18:43:53.952805+00:00"
+      "checked_at": "2026-10-15T19:18:20.966788+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-15T18:43:53.952805+00:00"
+      "checked_at": "2026-10-15T19:18:20.966788+00:00"
     }
   },
   "items": [
+    {
+      "id": "d3fee3d3e5b64279ef87",
+      "source": "TGcom24",
+      "title": "Milano, studentessa tedesca in Erasmus denuncia violenza sessuale",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-studentessa-erasmus-denuncia-violenza-sessuale_117715462-202602k.shtml",
+      "published": "2026-10-15T19:10:00+00:00"
+    },
     {
       "id": "c1b42ed6a0e249b304b4",
       "source": "BBC News",
@@ -59,6 +66,13 @@
       "title": "Ex Ilva, il governo convoca i sindacati il 27 ottobre",
       "url": "https://www.tgcom24.mediaset.it/cronaca/ex-ilva-governo-convoca-sindacati-27-ottobre_117712343-202602k.shtml",
       "published": "2026-10-15T17:00:00+00:00"
+    },
+    {
+      "id": "9a81157c37e549b38c18",
+      "source": "BBC News",
+      "title": "Maduro pleads not guilty to new torture-related charges in New York",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T16:52:44+00:00"
     },
     {
       "id": "37738657269e2ac8564d",
@@ -311,13 +325,6 @@
       "title": "Australian woman charged with lacing colleague's curry with snail poison",
       "url": "https://www.bbc.co.uk/news/articles/cmp3gnep35gko?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15T04:17:45+00:00"
-    },
-    {
-      "id": "faede194ddbe0ae0e717",
-      "source": "TGcom24",
-      "title": "Turchia, pioggia torrenziale a Istanbul causa inondazioni e danni",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/turchia-pioggia-torrenziale-a-istanbul-causa-inondazioni-e-danni_117688264-02k.shtml",
-      "published": "2026-10-15T04:00:00+00:00"
     },
     {
       "id": "7696e3d7943d2efd42de",
