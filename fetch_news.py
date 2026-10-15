@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Raccoglie feed pubblici e genera il database statico della dashboard."""
 from __future__ import annotations
-import hashlib, html, json, re, ssl
+import hashlib, html, json, re, ssl, unicodedata
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
@@ -61,6 +61,26 @@ def social_platform(source: str, url: str = "") -> str:
                 or host == domain or host.endswith("."+domain) for domain in domains):
             return name
     return ""
+
+def social_relevant(title: str) -> bool:
+    """Search-engine matches alone do not establish a post's relevance."""
+    text = html.unescape(str(title)).casefold()
+    # Preserve the distinction between a father and the Pope before folding accents.
+    text = re.sub(r'\bpap[àá](?!\w)', 'genitore', text)
+    text = re.sub(r'https?://\S+|www\.\S+', ' ', text)
+    text = ''.join(c for c in unicodedata.normalize('NFKD', text) if not unicodedata.combining(c))
+    text = re.sub(r'[_#]', ' ', text)
+    named = re.search(r'\b(?:pope|papst|pontiff|pontific\w*|pape|prevost|bergoglio|ratzinger|rupnik|santo padre|saint pere|holy father|heiliger vater|magnifica humanitas|amoris laetitia|fratelli tutti|leone\s*xiv|leo\s*xiv|leon\s*xiv|leao\s*xiv|papa\s+(?:leone|leon|leao|francesco|francisco)|(?:il|del|al|el|o|do|ao)\s+papa)\b', text)
+    if named:
+        return True
+    institution = re.search(r'\b(?:radiovatican\w*|vatican\w*|vatikan\w*|santa sede|holy see|saint[- ]siege|heiliger stuhl|santa se|curia|conclave|chiesa cattolica|catholic church|iglesia catolica|eglise catholique|igreja catolica|katholische kirche)\b', text)
+    commercial = re.search(r'\b(?:salumeria|provolone\w*|ristorant\w*|restaurant\w*|ristorazione|prenota|booking|sconto\w*|discount\w*|vacation rental|casa vacanze|biglietti|tickets|guided tour|tour guidat\w*)\b', text)
+    if institution and not commercial:
+        return True
+    sensitive = re.search(r'\b(?:abus\w*|missbrauch\w*|safeguarding|sfruttamento|cover[- ]?up|insabbi\w*)\b', text)
+    church = re.search(r'\b(?:chiesa|church|iglesia|eglise|igreja|kirche|clero|clergy|prete|preti|priest\w*|sacerdot\w*|vescov\w*|bishop\w*|cardinal\w*|dioces\w*|minori)\b', text)
+    return bool(sensitive and church)
+
 
 def social_queries(language: str) -> list[str]:
     subjects=SOCIAL_SUBJECTS.get(language,SOCIAL_SUBJECTS["English"])
@@ -249,6 +269,7 @@ def parse_feed(url: str, country: str, language: str, kind: str, direct_source: 
             source=platform
         item_kind="social" if platform else kind
         if not valid_title(display_title): continue
+        if item_kind == "social" and not social_relevant(display_title): continue
         uid=hashlib.sha1((display_title.lower()+source.lower()).encode()).hexdigest()[:16]
         out.append({"id":uid,"title":display_title,"url":link,"source":source,"country":country,"language":language,"published":published(item.findtext("pubDate", "")),"topic":topic_for(display_title),"kind":item_kind,"cluster_size":1,"origin":"direct" if direct_source else "search"})
     if direct_source:
@@ -411,6 +432,9 @@ def main() -> None:
             x["source"]=platform
             x["kind"]="social"
             x["id"]=hashlib.sha1((x["title"].lower()+platform.lower()).encode()).hexdigest()[:16]
+        # Recheck retained posts too, so old false positives are removed immediately.
+        if x.get("kind") == "social" and not social_relevant(x["title"]):
+            continue
         key=(re.sub(r"\W+","",x["title"].lower())[:160],x["source"].casefold())
         if key not in unique:
             unique[key]=x
@@ -432,4 +456,5 @@ def main() -> None:
     print(f"Salvati {len(result)} contenuti in {OUT}")
 
 if __name__ == "__main__": main()
+
 
