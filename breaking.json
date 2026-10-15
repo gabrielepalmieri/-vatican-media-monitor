@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-15T10:20:48.998344+00:00",
+  "updated_at": "2026-10-15T10:53:47.642483+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-15T10:20:48.998344+00:00"
+      "checked_at": "2026-10-15T10:53:47.642483+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-15T10:20:48.998344+00:00"
+      "checked_at": "2026-10-15T10:53:47.642483+00:00"
     }
   },
   "items": [
+    {
+      "id": "74a1ec91a7ca5bccea67",
+      "source": "TGcom24",
+      "title": "Inps, nel 2025 oltre 4,5 milioni di persone con pensioni sotto ai 1000 euro",
+      "url": "https://www.tgcom24.mediaset.it/economia/inps-pensioni-trattamenti-sotto-mille-euro-italia-pensionati_117698228-202602k.shtml",
+      "published": "2026-10-15T10:32:00+00:00"
+    },
     {
       "id": "5c09ac12c70ff687fec1",
       "source": "BBC News",
@@ -304,13 +311,6 @@
       "title": "Hundreds of thousands of workers on strike across Republic of Ireland",
       "url": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-14T14:18:18+00:00"
-    },
-    {
-      "id": "456669a3657e9ecda7c8",
-      "source": "TGcom24",
-      "title": "Decorso post-operatorio regolare per Papa Leone, si è alzato e ha mangiato",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/papa-intervento-decorso-post-operatorio-regolare-nuovo-bollettino_117659776-202602k.shtml",
-      "published": "2026-10-14T14:05:00+00:00"
     },
     {
       "id": "a088d66a9b8f682c95a0",
