@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-15T19:18:20.966788+00:00",
+  "updated_at": "2026-10-15T19:45:09.605897+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-15T19:18:20.966788+00:00"
+      "checked_at": "2026-10-15T19:45:09.605897+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-15T19:18:20.966788+00:00"
+      "checked_at": "2026-10-15T19:45:09.605897+00:00"
     }
   },
   "items": [
+    {
+      "id": "eac8805134b5aa3c6454",
+      "source": "TGcom24",
+      "title": "Giallo a Modena, marito e moglie trovati decapitati in casa",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/modena-mirandola-marito-moglie-morti-ipotesi-omicidio_117717735-202602k.shtml",
+      "published": "2026-10-15T19:31:00+00:00"
+    },
+    {
+      "id": "dec3d4387a2442a92efe",
+      "source": "BBC News",
+      "title": "Letters with 'suspicious substances' sent to US election offices",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T19:13:09+00:00"
+    },
     {
       "id": "d3fee3d3e5b64279ef87",
       "source": "TGcom24",
@@ -147,7 +161,7 @@
     {
       "id": "a1e6db32f4a1014eca4a",
       "source": "TGcom24",
-      "title": "Ocse: dal 2011 al 2024 espatriato il 6% dei giovani italiani, la metà sono laureati",
+      "title": "Ocse: dal 2011 al 2024 espatriato il 6% dei giovani italiani, metà sono laureati",
       "url": "https://www.tgcom24.mediaset.it/tgcomlab/lavoro/ocse-espatrio-giovani-italiani-lavoro_117704797-202602k.shtml",
       "published": "2026-10-15T13:30:00+00:00"
     },
@@ -301,7 +315,7 @@
     {
       "id": "84d816a7665be2ab21ed",
       "source": "TGcom24",
-      "title": "Metronotte ucciso nel Salernitano con un colpo di pistola: si indaga per omicidio",
+      "title": "Metronotte ucciso nel Salernitano con un colpo di pistola",
       "url": "https://www.tgcom24.mediaset.it/cronaca/agropoli-salerno-metronotte-omicidio_117688711-202602k.shtml",
       "published": "2026-10-15T05:07:00+00:00"
     },
@@ -311,13 +325,6 @@
       "title": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds",
       "url": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15T05:00:23+00:00"
-    },
-    {
-      "id": "fe9930f8f376bb3162ad",
-      "source": "TGcom24",
-      "title": "Ucraina, media: \"Usa hanno proposto ai Paesi Ue lo sblocco di alcuni asset russi\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-15ottobre_117688692-202602k.shtml",
-      "published": "2026-10-15T04:33:00+00:00"
     },
     {
       "id": "7be8592fc59d2846e0d1",
