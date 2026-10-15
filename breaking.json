@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-15T06:42:51.415027+00:00",
+  "updated_at": "2026-10-15T07:21:18.773496+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-15T06:42:51.415027+00:00"
+      "checked_at": "2026-10-15T07:21:18.773496+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-15T06:42:51.415027+00:00"
+      "checked_at": "2026-10-15T07:21:18.773496+00:00"
     }
   },
   "items": [
+    {
+      "id": "9454755cedb8e5ee96a5",
+      "source": "BBC News",
+      "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T07:20:45+00:00"
+    },
+    {
+      "id": "6c8a1ab149f0660adfb9",
+      "source": "TGcom24",
+      "title": "Sala stampa: \"Papa Leone ha trascorso bene la seconda notte al Gemelli\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/papa-leone-ospedale-gemelli-bollettino-seconda-notte_117690741-202602k.shtml",
+      "published": "2026-10-15T07:00:00+00:00"
+    },
     {
       "id": "5936740618c336f82fb6",
       "source": "TGcom24",
@@ -45,13 +59,6 @@
       "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
       "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15T04:30:08+00:00"
-    },
-    {
-      "id": "9454755cedb8e5ee96a5",
-      "source": "BBC News",
-      "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T04:19:17+00:00"
     },
     {
       "id": "faede194ddbe0ae0e717",
@@ -325,13 +332,6 @@
       "title": "Minicar a Roma, i due minori denunciati: \"Quella notte ci siamo divertiti così\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/roma-banda-minicar-individuati-minorenni_117650742-202602k.shtml",
       "published": "2026-10-14T11:31:00+00:00"
-    },
-    {
-      "id": "10ae4c8235a80220b08f",
-      "source": "TGcom24",
-      "title": "Garlasco, il primo avvocato di Stasi in procura: \"Portiamo Alberto fuori dal carcere\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/delitto-garlasco-alberto-stasi_117653663-202602k.shtml",
-      "published": "2026-10-14T10:38:00+00:00"
     },
     {
       "id": "cda48f2d404f315d4a1a",
