@@ -1,22 +1,29 @@
 {
-  "updated_at": "2026-10-15T21:35:56.417945+00:00",
+  "updated_at": "2026-10-15T22:01:41.462552+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-15T21:35:56.417945+00:00"
+      "checked_at": "2026-10-15T22:01:41.462552+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-15T21:35:56.417945+00:00"
+      "checked_at": "2026-10-15T22:01:41.462552+00:00"
     }
   },
   "items": [
     {
-      "id": "32a3c38479c101b118cc",
+      "id": "dec3d4387a2442a92efe",
+      "source": "BBC News",
+      "title": "Letters with 'suspicious substances' sent to US senators and election offices",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T21:42:26+00:00"
+    },
+    {
+      "id": "571651e6ba8eb2cc6965",
       "source": "TGcom24",
       "title": "Usa, sparatoria in una scuola elementare in Oregon: assalitore neutralizzato",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-oregon-sparatoria-scuola-elementare_117727345-202602k.shtml",
-      "published": "2026-10-15T21:28:00+00:00"
+      "published": "2026-10-15T21:15:00+00:00"
     },
     {
       "id": "1ff79cc5358285980e68",
@@ -24,13 +31,6 @@
       "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
       "url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15T21:12:14+00:00"
-    },
-    {
-      "id": "dec3d4387a2442a92efe",
-      "source": "BBC News",
-      "title": "Letters with 'suspicious substances' sent to US election offices",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T20:52:13+00:00"
     },
     {
       "id": "7f17693f2927b751452d",
