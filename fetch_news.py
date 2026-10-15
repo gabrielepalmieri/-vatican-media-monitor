@@ -68,7 +68,7 @@ def social_relevant(title: str) -> bool:
     # Preserve the distinction between a father and the Pope before folding accents.
     text = re.sub(r'\bpap[àá](?!\w)', 'genitore', text)
     text = re.sub(r'https?://\S+|www\.\S+', ' ', text)
-    text = ''.join(c for c in unicodedata.normalize('NFKD', text) if not unicodedata.combining(c))
+    text = ''.join(c for c in unicodedata.normalize('NFKD', text) if not unicodedata.combining(c)).casefold()
     text = re.sub(r'[_#]', ' ', text)
     named = re.search(r'\b(?:pope|papst|pontiff|pontific\w*|pape|prevost|bergoglio|ratzinger|rupnik|santo padre|saint pere|holy father|heiliger vater|magnifica humanitas|amoris laetitia|fratelli tutti|leone\s*xiv|leo\s*xiv|leon\s*xiv|leao\s*xiv|papa\s+(?:leone|leon|leao|francesco|francisco)|(?:il|del|al|el|o|do|ao)\s+papa)\b', text)
     if named:
