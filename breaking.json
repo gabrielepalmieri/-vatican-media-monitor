@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-15T07:21:18.773496+00:00",
+  "updated_at": "2026-10-15T07:56:24.760966+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-15T07:21:18.773496+00:00"
+      "checked_at": "2026-10-15T07:56:24.760966+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-15T07:21:18.773496+00:00"
+      "checked_at": "2026-10-15T07:56:24.760966+00:00"
     }
   },
   "items": [
+    {
+      "id": "8d067f8d5a5ebb6f6ef6",
+      "source": "TGcom24",
+      "title": "Morte per ricina, perquisizioni nella scuola delle sorelle Di Vita",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/pietracatella-avvelenate-con-ricina-trovate-piante_117690263-202602k.shtml",
+      "published": "2026-10-15T07:42:00+00:00"
+    },
     {
       "id": "9454755cedb8e5ee96a5",
       "source": "BBC News",
@@ -325,13 +332,6 @@
       "title": "Nuovo Codice della Strada, stretta sulle minicar truccate e niente patenti ai 17enni",
       "url": "https://www.tgcom24.mediaset.it/cronaca/codice-della-strada-scatta-stretta-sulle-minicar-truccate_117653453-202602k.shtml",
       "published": "2026-10-14T12:07:00+00:00"
-    },
-    {
-      "id": "ffc9f4047844bc362666",
-      "source": "TGcom24",
-      "title": "Minicar a Roma, i due minori denunciati: \"Quella notte ci siamo divertiti così\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/roma-banda-minicar-individuati-minorenni_117650742-202602k.shtml",
-      "published": "2026-10-14T11:31:00+00:00"
     },
     {
       "id": "cda48f2d404f315d4a1a",
