@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-16T05:05:57.309535+00:00",
+  "updated_at": "2026-10-16T05:33:32.603250+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-16T05:05:57.309535+00:00"
+      "checked_at": "2026-10-16T05:33:32.603250+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-16T05:05:57.309535+00:00"
+      "checked_at": "2026-10-16T05:33:32.603250+00:00"
     }
   },
   "items": [
+    {
+      "id": "fd262c7a60cf2af24425",
+      "source": "TGcom24",
+      "title": "Guerra Russia-Ucraina, raid incrociati: colpiti deposito di petrolio e data center",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-consiglio-europeo-ultime-notizie-16-ottobre_117730142-202602k.shtml",
+      "published": "2026-10-16T05:11:00+00:00"
+    },
     {
       "id": "2380e0ad29ff6f2441eb",
       "source": "BBC News",
@@ -318,13 +325,6 @@
       "title": "Obama says drift towards extremism 'not inevitable'",
       "url": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15T10:51:53+00:00"
-    },
-    {
-      "id": "74a1ec91a7ca5bccea67",
-      "source": "TGcom24",
-      "title": "Inps, nel 2025 oltre 4,5 milioni di persone con pensioni sotto ai 1000 euro",
-      "url": "https://www.tgcom24.mediaset.it/economia/inps-pensioni-trattamenti-sotto-mille-euro-italia-pensionati_117698228-202602k.shtml",
-      "published": "2026-10-15T10:32:00+00:00"
     },
     {
       "id": "0516b3ddd0c24b7fb6be",
