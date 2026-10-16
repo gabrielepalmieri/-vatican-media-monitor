@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-16T15:01:29.190095+00:00",
+  "updated_at": "2026-10-16T15:25:26.882807+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-16T15:01:29.190095+00:00"
+      "checked_at": "2026-10-16T15:25:26.882807+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-16T15:01:29.190095+00:00"
+      "checked_at": "2026-10-16T15:25:26.882807+00:00"
     }
   },
   "items": [
+    {
+      "id": "6dc756b639e6a297917c",
+      "source": "BBC News",
+      "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
+      "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16T15:22:12+00:00"
+    },
     {
       "id": "57a91138453b6506a4bd",
       "source": "BBC News",
@@ -24,13 +31,6 @@
       "title": "Raffaele Sollecito a Verissimo: \"Io e Stasi accomunati dall'ingiustizia\"",
       "url": "https://www.tgcom24.mediaset.it/televisione/verissimo-raffaele-sollecito-domenica-18-ottobre_117752335-202602k.shtml",
       "published": "2026-10-16T14:47:00+00:00"
-    },
-    {
-      "id": "6dc756b639e6a297917c",
-      "source": "BBC News",
-      "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
-      "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T14:44:11+00:00"
     },
     {
       "id": "4f4ffddafd92c323fb4d",
@@ -108,6 +108,13 @@
       "title": "Sanremo, 13enne dà fuoco a un clochard e gli brucia le gambe",
       "url": "https://www.tgcom24.mediaset.it/cronaca/sanremo-13enne-da-fuoco-a-clochard_117746081-202602k.shtml",
       "published": "2026-10-16T11:50:00+00:00"
+    },
+    {
+      "id": "1e4647bee9dcb6fa3247",
+      "source": "BBC News",
+      "title": "India's 'cockroach' party founder detained ahead of protest",
+      "url": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16T11:44:31+00:00"
     },
     {
       "id": "62897258c7df48ce8a71",
@@ -409,13 +416,6 @@
       "title": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds",
       "url": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15T05:00:23+00:00"
-    },
-    {
-      "id": "7be8592fc59d2846e0d1",
-      "source": "BBC News",
-      "title": "Australian woman charged with lacing colleague's curry with snail poison",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3gnep35gko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T04:17:45+00:00"
     }
   ]
 }
