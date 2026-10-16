@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-16T23:14:54.935631+00:00",
+  "updated_at": "2026-10-16T23:40:34.207190+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-16T23:14:54.935631+00:00"
+      "checked_at": "2026-10-16T23:40:34.207190+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-16T23:14:54.935631+00:00"
+      "checked_at": "2026-10-16T23:40:34.207190+00:00"
     }
   },
   "items": [
+    {
+      "id": "4f4ffddafd92c323fb4d",
+      "source": "BBC News",
+      "title": "Pope pictured for first time since surgery and cancer diagnosis",
+      "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16T23:20:37+00:00"
+    },
+    {
+      "id": "aa2e3f1494922cc95891",
+      "source": "BBC News",
+      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+      "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16T23:07:38+00:00"
+    },
     {
       "id": "0f2368574bfa8db31e7d",
       "source": "BBC News",
@@ -143,13 +157,6 @@
       "title": "Raffaele Sollecito a Verissimo: \"Io e Stasi accomunati dall'ingiustizia\"",
       "url": "https://www.tgcom24.mediaset.it/televisione/verissimo-raffaele-sollecito-domenica-18-ottobre_117752335-202602k.shtml",
       "published": "2026-10-16T14:47:00+00:00"
-    },
-    {
-      "id": "4f4ffddafd92c323fb4d",
-      "source": "BBC News",
-      "title": "Pope pictured for first time since surgery and cancer diagnosis",
-      "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T14:36:39+00:00"
     },
     {
       "id": "edae93403e9136af5a9c",
@@ -388,13 +395,6 @@
       "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
       "url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15T14:51:30+00:00"
-    },
-    {
-      "id": "5c09ac12c70ff687fec1",
-      "source": "BBC News",
-      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T11:25:19+00:00"
     }
   ]
 }
