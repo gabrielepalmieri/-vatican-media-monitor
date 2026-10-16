@@ -1,22 +1,43 @@
 {
-  "updated_at": "2026-10-16T19:33:15.706869+00:00",
+  "updated_at": "2026-10-16T19:59:04.976230+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-16T19:33:15.706869+00:00"
+      "checked_at": "2026-10-16T19:59:04.976230+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-16T19:33:15.706869+00:00"
+      "checked_at": "2026-10-16T19:59:04.976230+00:00"
     }
   },
   "items": [
+    {
+      "id": "bd183ae8cf84bf0802a5",
+      "source": "TGcom24",
+      "title": "Bimba morta a Bordighera, sentite le due sorelline di 9 e 10 anni",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/bimba-morta-bordighera-sentite-sorelle_117761085-202602k.shtml",
+      "published": "2026-10-16T19:45:00+00:00"
+    },
+    {
+      "id": "45a711272b203fe58163",
+      "source": "BBC News",
+      "title": "Trump denies limiting Ukraine access to Starlink network",
+      "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16T19:33:48+00:00"
+    },
     {
       "id": "935d834d71827e2c18d8",
       "source": "TGcom24",
       "title": "Trump silura la portavoce della Casa Bianca: Katie Zacharia in carica solo 5 giorni",
       "url": "https://www.tgcom24.mediaset.it/mondo/donald-trump-licenziamento-portavoce-katie-zacharia_117759299-202602k.shtml",
       "published": "2026-10-16T19:12:00+00:00"
+    },
+    {
+      "id": "bf5777030eed5293102c",
+      "source": "BBC News",
+      "title": "What we learned from heated US midterm Senate debates",
+      "url": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16T19:09:37+00:00"
     },
     {
       "id": "cf7806486745ece11dbe",
@@ -59,13 +80,6 @@
       "title": "Telefonata Putin-Leone, il Papa: \"Tregua in Ucraina\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/roma-papa-leone-xiv-gemelli-messa-angelus_117748407-202602k.shtml",
       "published": "2026-10-16T16:00:00+00:00"
-    },
-    {
-      "id": "6dc756b639e6a297917c",
-      "source": "BBC News",
-      "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
-      "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T15:59:30+00:00"
     },
     {
       "id": "3fb13a7d8899519b9d83",
@@ -122,13 +136,6 @@
       "title": "Dad fined after son, 2, died in Cyprus hotel fall",
       "url": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-16T14:21:32+00:00"
-    },
-    {
-      "id": "58cc4cb05a2c175ecd81",
-      "source": "BBC News",
-      "title": "US senators call for investigation into Ukraine's Starlink restrictions",
-      "url": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T14:19:50+00:00"
     },
     {
       "id": "87981ab2eb8dde9f709c",
@@ -299,13 +306,6 @@
       "published": "2026-10-16T04:37:00+00:00"
     },
     {
-      "id": "99d8192a1750ed453d1e",
-      "source": "TGcom24",
-      "title": "Duplice omicidio nel Modenese, la sindaca di Mirandola: \"Tragedia che scuote la comunità\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/modena-mirandola-marito-moglie-morti-ipotesi-omicidio_117717735-202602k.shtml",
-      "published": "2026-10-16T04:02:00+00:00"
-    },
-    {
       "id": "1f06b7bddb502ced5be6",
       "source": "BBC News",
       "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
@@ -383,13 +383,6 @@
       "published": "2026-10-15T15:26:16+00:00"
     },
     {
-      "id": "4a39c5f8b2a1fd3e7c86",
-      "source": "BBC News",
-      "title": "Was Neanderthal life violent? This wound suggests lethal fighting was more common",
-      "url": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T15:00:05+00:00"
-    },
-    {
       "id": "8422b906e1c81e49e39a",
       "source": "BBC News",
       "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
@@ -430,6 +423,13 @@
       "title": "White House defends new press secretary over her legal credentials",
       "url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15T08:41:04+00:00"
+    },
+    {
+      "id": "c75df7fe11dd85acf64b",
+      "source": "BBC News",
+      "title": "Actor Imran Khan ordered to leave India after participating in protest",
+      "url": "https://www.bbc.co.uk/news/articles/ck3r5pv5j1g1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15T08:17:07+00:00"
     }
   ]
 }
