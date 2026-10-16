@@ -1,22 +1,29 @@
 {
-  "updated_at": "2026-10-16T03:34:18.450141+00:00",
+  "updated_at": "2026-10-16T04:07:18.420546+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-16T03:34:18.450141+00:00"
+      "checked_at": "2026-10-16T04:07:18.420546+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-16T03:34:18.450141+00:00"
+      "checked_at": "2026-10-16T04:07:18.420546+00:00"
     }
   },
   "items": [
     {
+      "id": "99d8192a1750ed453d1e",
+      "source": "TGcom24",
+      "title": "Duplice omicidio nel Modenese, la sindaca di Mirandola: \"Tragedia che scuote la comunità\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/modena-mirandola-marito-moglie-morti-ipotesi-omicidio_117717735-202602k.shtml",
+      "published": "2026-10-16T04:02:00+00:00"
+    },
+    {
       "id": "17a40acfc6160cd1ca9e",
       "source": "BBC News",
-      "title": "Three children and teacher killed by 16-year-old at Oregon primary school",
+      "title": "Three children and teacher killed in US primary school shooting",
       "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T03:01:38+00:00"
+      "published": "2026-10-16T03:45:09+00:00"
     },
     {
       "id": "885aac6f7230ebf19bf1",
@@ -318,13 +325,6 @@
       "title": "Manovra 2027 da 23,5 miliardi, coperture da tagli ministeri e giochi",
       "url": "https://www.tgcom24.mediaset.it/economia/manovra-dpfp-23-5-miliardi-2027_117696782-202602k.shtml",
       "published": "2026-10-15T09:55:00+00:00"
-    },
-    {
-      "id": "c2f8868bd304f7462bb7",
-      "source": "TGcom24",
-      "title": "Istat, 5,4 milioni di persone in povertà assoluta in Italia nel 2025: sono il 9,3%",
-      "url": "https://www.tgcom24.mediaset.it/economia/istat-report-poverta-italia-famiglie-sud-mezzogiorno-crisi_117694537-202602k.shtml",
-      "published": "2026-10-15T09:25:00+00:00"
     },
     {
       "id": "567133b8c9f3a8bfa7f7",
