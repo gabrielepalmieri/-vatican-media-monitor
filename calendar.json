@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-16T05:35:52.635322+00:00",
+  "updated_at": "2026-10-16T22:35:57.676651+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-10-16T05:35:52.635322+00:00",
+  "un_verified_at": "2026-10-16T22:35:57.676651+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,22 +1918,6 @@
     }
   ],
   "days": {
-    "2026-10-15": {
-      "saints": [
-        {
-          "title": "Santa Teresa di Gesù, vergine, dottore della Chiesa, carmelitana scalza",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/15/santa-teresa-di-gesu--vergine--dottore-della-chiesa--carmelitana.html"
-        }
-      ],
-      "un": [
-        {
-          "title": "Giornata internazionale delle donne rurali",
-          "url": "https://www.un.org/en/observances/rural-women-day"
-        }
-      ],
-      "un_available": true,
-      "holy_see": []
-    },
     "2026-10-16": {
       "saints": [
         {
@@ -2584,6 +2568,27 @@
       ],
       "un_available": true,
       "holy_see": []
+    },
+    "2026-11-21": {
+      "saints": [
+        {
+          "title": "Beata Maria di Gesù Buon Pastore, fondatrice delle Suore della Sacra Famiglia di Nazaret",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/21.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata mondiale della televisione",
+          "url": "https://www.un.org/en/observances/world-television-day"
+        }
+      ],
+      "un_available": true,
+      "holy_see": [
+        {
+          "title": "Giornata Pro Orantibus",
+          "url": "https://www.vaticannews.va/it/festivita-liturgiche/presentazione-della-beata-vergine-maria-.html"
+        }
+      ]
     }
   }
 }
