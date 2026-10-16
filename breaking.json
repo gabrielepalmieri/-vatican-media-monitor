@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-16T23:40:34.207190+00:00",
+  "updated_at": "2026-10-16T23:56:16.507244+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-16T23:40:34.207190+00:00"
+      "checked_at": "2026-10-16T23:56:16.507244+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-16T23:40:34.207190+00:00"
+      "checked_at": "2026-10-16T23:56:16.507244+00:00"
     }
   },
   "items": [
@@ -45,6 +45,13 @@
       "title": "Petrolio, Brent oltre 110 dollari per la prima volta da maggio",
       "url": "https://www.tgcom24.mediaset.it/economia/petrolio-brent-oltre-110-dollari-per-la-prima-volta-da-maggio_117766437-202602k.shtml",
       "published": "2026-10-16T21:30:00+00:00"
+    },
+    {
+      "id": "6fe2f263d2a27a0bfbd4",
+      "source": "BBC News",
+      "title": "Katie Zacharia leaving her White House role less than five days on the job",
+      "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16T21:05:05+00:00"
     },
     {
       "id": "2bbb6d0ab9471f184e3d",
@@ -334,13 +341,6 @@
       "published": "2026-10-15T23:25:06+00:00"
     },
     {
-      "id": "dec3d4387a2442a92efe",
-      "source": "BBC News",
-      "title": "Letters with 'suspicious substances' sent to US senators and election offices",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T22:46:49+00:00"
-    },
-    {
       "id": "1ff79cc5358285980e68",
       "source": "BBC News",
       "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
@@ -360,20 +360,6 @@
       "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
       "url": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15T17:31:37+00:00"
-    },
-    {
-      "id": "9a81157c37e549b38c18",
-      "source": "BBC News",
-      "title": "Maduro pleads not guilty to new torture-related charges in New York",
-      "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T16:52:44+00:00"
-    },
-    {
-      "id": "37738657269e2ac8564d",
-      "source": "BBC News",
-      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-      "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T16:50:18+00:00"
     },
     {
       "id": "ecc7e41665a3b4bccd91",
