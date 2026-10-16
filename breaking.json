@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-16T08:20:11.878709+00:00",
+  "updated_at": "2026-10-16T08:54:28.757182+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-16T08:20:11.878709+00:00"
+      "checked_at": "2026-10-16T08:54:28.757182+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-16T08:20:11.878709+00:00"
+      "checked_at": "2026-10-16T08:54:28.757182+00:00"
     }
   },
   "items": [
+    {
+      "id": "6dc756b639e6a297917c",
+      "source": "BBC News",
+      "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+      "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16T08:47:17+00:00"
+    },
+    {
+      "id": "885aac6f7230ebf19bf1",
+      "source": "BBC News",
+      "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+      "url": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16T08:27:16+00:00"
+    },
     {
       "id": "f736449500811fe67214",
       "source": "TGcom24",
@@ -87,13 +101,6 @@
       "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
       "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-16T03:45:09+00:00"
-    },
-    {
-      "id": "885aac6f7230ebf19bf1",
-      "source": "BBC News",
-      "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
-      "url": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T01:36:45+00:00"
     },
     {
       "id": "1f06b7bddb502ced5be6",
@@ -395,13 +402,6 @@
       "title": "At the Brooklyn shop in 'surreal' row with Kelly Clarkson over mechanical bird",
       "url": "https://www.bbc.co.uk/news/articles/cxvgdneplgzeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-14T22:19:13+00:00"
-    },
-    {
-      "id": "1ecb815fbc8070bda089",
-      "source": "BBC News",
-      "title": "Student protesters attack government buildings in Albania",
-      "url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T20:29:05+00:00"
     }
   ]
 }
