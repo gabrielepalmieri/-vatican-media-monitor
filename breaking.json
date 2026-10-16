@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-16T11:19:50.877530+00:00",
+  "updated_at": "2026-10-16T11:50:43.623263+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-16T11:19:50.877530+00:00"
+      "checked_at": "2026-10-16T11:50:43.623263+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-16T11:19:50.877530+00:00"
+      "checked_at": "2026-10-16T11:50:43.623263+00:00"
     }
   },
   "items": [
+    {
+      "id": "17a40acfc6160cd1ca9e",
+      "source": "BBC News",
+      "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
+      "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16T11:41:58+00:00"
+    },
+    {
+      "id": "77129f70ded03232f9de",
+      "source": "TGcom24",
+      "title": "Atti persecutori contro la ex, Alessandro Basciano rinviato a giudizio",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/alessandro-basciano-rinviato-a-giudizio_117743513-202602k.shtml",
+      "published": "2026-10-16T11:20:00+00:00"
+    },
     {
       "id": "f7f41ffc78c263172c99",
       "source": "TGcom24",
@@ -24,13 +38,6 @@
       "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
       "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-16T10:37:47+00:00"
-    },
-    {
-      "id": "17a40acfc6160cd1ca9e",
-      "source": "BBC News",
-      "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
-      "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T10:36:50+00:00"
     },
     {
       "id": "950db69f504ef4c9984f",
@@ -283,13 +290,6 @@
       "title": "Watch: Moment drone hits supermarket in Odesa",
       "url": "https://www.bbc.co.uk/news/videos/cmwyq62z0n19o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15T17:06:12+00:00"
-    },
-    {
-      "id": "1ea828fa1e75334455da",
-      "source": "TGcom24",
-      "title": "Ex Ilva, il governo convoca i sindacati il 27 ottobre",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/ex-ilva-governo-convoca-sindacati-27-ottobre_117712343-202602k.shtml",
-      "published": "2026-10-15T17:00:00+00:00"
     },
     {
       "id": "9a81157c37e549b38c18",
