@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-16T19:08:36.326438+00:00",
+  "updated_at": "2026-10-16T19:33:15.706869+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-16T19:08:36.326438+00:00"
+      "checked_at": "2026-10-16T19:33:15.706869+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-16T19:08:36.326438+00:00"
+      "checked_at": "2026-10-16T19:33:15.706869+00:00"
     }
   },
   "items": [
+    {
+      "id": "935d834d71827e2c18d8",
+      "source": "TGcom24",
+      "title": "Trump silura la portavoce della Casa Bianca: Katie Zacharia in carica solo 5 giorni",
+      "url": "https://www.tgcom24.mediaset.it/mondo/donald-trump-licenziamento-portavoce-katie-zacharia_117759299-202602k.shtml",
+      "published": "2026-10-16T19:12:00+00:00"
+    },
     {
       "id": "cf7806486745ece11dbe",
       "source": "TGcom24",
@@ -332,13 +339,6 @@
       "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
       "url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15T22:37:21+00:00"
-    },
-    {
-      "id": "afa2603c3a9cd46ad973",
-      "source": "TGcom24",
-      "title": "Usa: Trump rimuove l'inviato al Dipartimento di Stato Paolo Zampolli",
-      "url": "https://www.tgcom24.mediaset.it/mondo/usa-donald-trump-rimuove-paolo-zamplli_117729070-202602k.shtml",
-      "published": "2026-10-15T22:10:00+00:00"
     },
     {
       "id": "e9f588e8cdbfd65749c6",
