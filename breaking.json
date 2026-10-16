@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-16T18:09:18.405556+00:00",
+  "updated_at": "2026-10-16T18:39:17.693073+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-16T18:09:18.405556+00:00"
+      "checked_at": "2026-10-16T18:39:17.693073+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-16T18:09:18.405556+00:00"
+      "checked_at": "2026-10-16T18:39:17.693073+00:00"
     }
   },
   "items": [
+    {
+      "id": "cf7806486745ece11dbe",
+      "source": "TGcom24",
+      "title": "Zelensky: \"Se l'Ucraina cade, ci saranno 20 milioni di profughi in Europa\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-consiglio-europeo-ultime-notizie-16-ottobre_117730142-202602k.shtml",
+      "published": "2026-10-16T18:20:00+00:00"
+    },
+    {
+      "id": "9855e65fb72b0bafc755",
+      "source": "BBC News",
+      "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
+      "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16T18:11:29+00:00"
+    },
     {
       "id": "9c62796ad61629d03214",
       "source": "TGcom24",
@@ -325,13 +339,6 @@
       "title": "Usa: Trump rimuove l'inviato al Dipartimento di Stato Paolo Zampolli",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-donald-trump-rimuove-paolo-zamplli_117729070-202602k.shtml",
       "published": "2026-10-15T22:10:00+00:00"
-    },
-    {
-      "id": "3eb1995fba024976aad0",
-      "source": "TGcom24",
-      "title": "Iran, media: \"Netanyahu ha parlato con Rubio di una possibile azione militare\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-netanyahu-rubio-azione-militare_117726996-202602k.shtml",
-      "published": "2026-10-15T21:45:00+00:00"
     },
     {
       "id": "e9f588e8cdbfd65749c6",
