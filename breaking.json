@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-16T10:53:31.394099+00:00",
+  "updated_at": "2026-10-16T11:19:50.877530+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-16T10:53:31.394099+00:00"
+      "checked_at": "2026-10-16T11:19:50.877530+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-16T10:53:31.394099+00:00"
+      "checked_at": "2026-10-16T11:19:50.877530+00:00"
     }
   },
   "items": [
+    {
+      "id": "f7f41ffc78c263172c99",
+      "source": "TGcom24",
+      "title": "Ue, Mattarella: \"Senza decisioni veloci, saranno altri a scegliere per noi\"",
+      "url": "https://www.tgcom24.mediaset.it/politica/mattarella-ue-servono-decisioni-veloci_117742804-202602k.shtml",
+      "published": "2026-10-16T10:50:00+00:00"
+    },
     {
       "id": "6dc756b639e6a297917c",
       "source": "BBC News",
@@ -297,13 +304,6 @@
       "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
       "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15T16:50:18+00:00"
-    },
-    {
-      "id": "a038ee6fd2cb310126e9",
-      "source": "TGcom24",
-      "title": "Trump-Putin, la Casa Bianca replica a Meloni: \"Quello sul diesel un grande accordo\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/diesel-trump-putin-replica-casa-bianca-meloni_117711092-202602k.shtml",
-      "published": "2026-10-15T16:31:00+00:00"
     },
     {
       "id": "ecc7e41665a3b4bccd91",
