@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-16T11:50:43.623263+00:00",
+  "updated_at": "2026-10-16T12:12:36.234588+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-16T11:50:43.623263+00:00"
+      "checked_at": "2026-10-16T12:12:36.234588+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-16T11:50:43.623263+00:00"
+      "checked_at": "2026-10-16T12:12:36.234588+00:00"
     }
   },
   "items": [
+    {
+      "id": "1b3f8ea001b4ee57471a",
+      "source": "TGcom24",
+      "title": "Sanremo, 13enne dà fuoco a un clochard e gli brucia le gambe",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/sanremo-13enne-da-fuoco-a-clochard_117746081-202602k.shtml",
+      "published": "2026-10-16T11:50:00+00:00"
+    },
     {
       "id": "17a40acfc6160cd1ca9e",
       "source": "BBC News",
@@ -276,13 +283,6 @@
       "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
       "url": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15T17:31:37+00:00"
-    },
-    {
-      "id": "3664a4b486a2ace64e47",
-      "source": "TGcom24",
-      "title": "Varese, è morto il bambino di cinque anni investito da un'auto lunedì",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/varese-incidente-bimbo-5-anni-morto_117712353-202602k.shtml",
-      "published": "2026-10-15T17:30:00+00:00"
     },
     {
       "id": "1cc86c75b9b4e1d75055",
