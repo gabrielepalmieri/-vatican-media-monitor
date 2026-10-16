@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-16T15:25:26.882807+00:00",
+  "updated_at": "2026-10-16T15:57:49.737594+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-16T15:25:26.882807+00:00"
+      "checked_at": "2026-10-16T15:57:49.737594+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-16T15:25:26.882807+00:00"
+      "checked_at": "2026-10-16T15:57:49.737594+00:00"
     }
   },
   "items": [
+    {
+      "id": "55b66ac5493e7425f53c",
+      "source": "TGcom24",
+      "title": "Cisgiordania, coloni aggrediscono una giornalista del \"Washington Post\"",
+      "url": "https://www.tgcom24.mediaset.it/2026/video/cisgiordania-attacco-coloni-giornalista_117754136-02k.shtml",
+      "published": "2026-10-16T15:29:00+00:00"
+    },
     {
       "id": "6dc756b639e6a297917c",
       "source": "BBC News",
@@ -297,13 +304,6 @@
       "title": "Usa, sparatoria in una scuola elementare in Oregon: morti tre bambini e un adulto",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-oregon-sparatoria-scuola-elementare_117727345-202602k.shtml",
       "published": "2026-10-15T21:15:00+00:00"
-    },
-    {
-      "id": "7f17693f2927b751452d",
-      "source": "TGcom24",
-      "title": "Scontro tra bus e treno all'ingresso del tunnel della Manica: 19 feriti",
-      "url": "https://www.tgcom24.mediaset.it/mondo/francia-scontro-bus-treno-tunnel-manica-19-feriti_117721523-202602k.shtml",
-      "published": "2026-10-15T20:00:00+00:00"
     },
     {
       "id": "e9f588e8cdbfd65749c6",
