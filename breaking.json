@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-17T13:08:28.421574+00:00",
+  "updated_at": "2026-10-17T13:32:12.206659+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-17T13:08:28.421574+00:00"
+      "checked_at": "2026-10-17T13:32:12.206659+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-17T13:08:28.421574+00:00"
+      "checked_at": "2026-10-17T13:32:12.206659+00:00"
     }
   },
   "items": [
+    {
+      "id": "c5ca73a45b149b17179a",
+      "source": "TGcom24",
+      "title": "Culle italiane sempre più vuote: in 10 anni 130mila nascite in meno",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/italia-nascite-in-calo-130mila-in-meno-in-dieci-anni_117783549-202602k.shtml",
+      "published": "2026-10-17T13:15:00+00:00"
+    },
     {
       "id": "51db9921145edd4302ed",
       "source": "TGcom24",
@@ -290,13 +297,6 @@
       "title": "What we learned from heated US midterm Senate debates",
       "url": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-16T19:09:37+00:00"
-    },
-    {
-      "id": "cf7806486745ece11dbe",
-      "source": "TGcom24",
-      "title": "Zelensky: \"Se l'Ucraina cade, ci saranno 20 milioni di profughi in Europa\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-consiglio-europeo-ultime-notizie-16-ottobre_117730142-202602k.shtml",
-      "published": "2026-10-16T18:20:00+00:00"
     },
     {
       "id": "9855e65fb72b0bafc755",
