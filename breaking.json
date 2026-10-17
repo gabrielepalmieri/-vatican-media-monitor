@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-17T22:01:21.275137+00:00",
+  "updated_at": "2026-10-17T22:18:04.022181+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-10-17T22:01:21.275137+00:00"
+      "checked_at": "2026-10-17T22:18:04.022181+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-17T22:01:21.275137+00:00"
+      "checked_at": "2026-10-17T22:18:04.022181+00:00"
     }
   },
   "items": [
+    {
+      "id": "4dec9edc9877378c3d71",
+      "source": "BBC News",
+      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17T22:09:50+00:00"
+    },
     {
       "id": "9bf492d9ea61965e5014",
       "source": "TGcom24",
@@ -318,13 +325,6 @@
       "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
       "url": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-16T15:45:10+00:00"
-    },
-    {
-      "id": "93a2e57f619e69154f2d",
-      "source": "BBC News",
-      "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-      "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T14:31:04+00:00"
     },
     {
       "id": "bb8723cba938ab7417a4",
