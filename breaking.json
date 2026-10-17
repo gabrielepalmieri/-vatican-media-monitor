@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-17T09:31:03.015329+00:00",
+  "updated_at": "2026-10-17T09:54:48.542785+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-17T09:31:03.015329+00:00"
+      "checked_at": "2026-10-17T09:54:48.542785+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-17T09:31:03.015329+00:00"
+      "checked_at": "2026-10-17T09:54:48.542785+00:00"
     }
   },
   "items": [
+    {
+      "id": "9d30a59501d5e4588a7c",
+      "source": "BBC News",
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17T09:42:13+00:00"
+    },
+    {
+      "id": "13b1044f8389b4b59ef6",
+      "source": "TGcom24",
+      "title": "Papa Leone, i medici: \"Idoneo alle dimissioni, lascerà il Gemelli nel pomeriggio\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/papa-leone-xiv-ospedale-dimissioni-ultime-notizie_117776437-202602k.shtml",
+      "published": "2026-10-17T09:36:00+00:00"
+    },
     {
       "id": "6fe2f263d2a27a0bfbd4",
       "source": "BBC News",
@@ -38,13 +52,6 @@
       "title": "Cgia Mestre: Milano e Roma le città che pagano più tasse",
       "url": "https://www.tgcom24.mediaset.it/economia/cgia-pressione-fiscale-record-milano-roma-tasse_117771996-202602k.shtml",
       "published": "2026-10-17T07:55:00+00:00"
-    },
-    {
-      "id": "9d30a59501d5e4588a7c",
-      "source": "BBC News",
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T07:41:01+00:00"
     },
     {
       "id": "0c15db1740d85b31660c",
@@ -304,13 +311,6 @@
       "title": "Enav: \"Ripristinata operatività dei voli al 100%\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/caos-voli-italia-guasto-rete-dati-enav-escluso-attacco-hacker_117730831-202602k.shtml",
       "published": "2026-10-16T13:50:00+00:00"
-    },
-    {
-      "id": "67f9428de5ad05c77603",
-      "source": "TGcom24",
-      "title": "Garlasco, la difesa di Sempio: \"Non può essere indagato a vita, meglio il processo\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/garlasco-sempio-difesa-indagine-processo_117751573-202602k.shtml",
-      "published": "2026-10-16T13:33:00+00:00"
     },
     {
       "id": "bb8723cba938ab7417a4",
