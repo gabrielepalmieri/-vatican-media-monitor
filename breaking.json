@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-17T20:59:36.196182+00:00",
+  "updated_at": "2026-10-17T21:16:41.884285+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-17T20:59:36.196182+00:00"
+      "checked_at": "2026-10-17T21:16:41.884285+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-17T20:59:36.196182+00:00"
+      "checked_at": "2026-10-17T21:16:41.884285+00:00"
     }
   },
   "items": [
+    {
+      "id": "115a7caaecde8dbd8f28",
+      "source": "BBC News",
+      "title": "Anti-government protesters battle with police in Albania",
+      "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17T20:53:00+00:00"
+    },
+    {
+      "id": "93d79d5ab2fcd294ddaa",
+      "source": "BBC News",
+      "title": "Violent clashes, looting and buildings ablaze as hundreds arrested after France protests",
+      "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17T20:52:17+00:00"
+    },
     {
       "id": "8145033c402533f6dbb4",
       "source": "TGcom24",
@@ -26,11 +40,25 @@
       "published": "2026-10-17T19:19:19+00:00"
     },
     {
+      "id": "c630dfd439fd178a4603",
+      "source": "BBC News",
+      "title": "At least 17 dead in crush at Hindu festival event in India",
+      "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17T19:19:16+00:00"
+    },
+    {
       "id": "a1766b8fd30b473508ed",
       "source": "TGcom24",
       "title": "Cortei: a Milano 50 persone portate in Questura, diversi agenti feriti",
       "url": "https://www.tgcom24.mediaset.it/cronaca/cortei-italia-in-piazza-sabato-17-ottobre-milano-genova-bologna-roma-torino_117789892-202602k.shtml",
       "published": "2026-10-17T18:58:00+00:00"
+    },
+    {
+      "id": "4d9d3b61be1e4d1f96e6",
+      "source": "BBC News",
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17T18:38:57+00:00"
     },
     {
       "id": "71ef4c52168be040fcce",
