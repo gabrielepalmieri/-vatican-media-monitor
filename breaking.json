@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-17T11:29:56.821324+00:00",
+  "updated_at": "2026-10-17T11:51:15.475448+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-17T11:29:56.821324+00:00"
+      "checked_at": "2026-10-17T11:51:15.475448+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-17T11:29:56.821324+00:00"
+      "checked_at": "2026-10-17T11:51:15.475448+00:00"
     }
   },
   "items": [
+    {
+      "id": "60a5d2018c947155da8c",
+      "source": "TGcom24",
+      "title": "Famiglia nel bosco, dopo 11 mesi i bambini tornano a casa",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/famiglia-bosco-ritorno-casa-palmoli_117779854-202602k.shtml",
+      "published": "2026-10-17T11:45:00+00:00"
+    },
     {
       "id": "e35eb014f55ed5603063",
       "source": "TGcom24",
@@ -290,13 +297,6 @@
       "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
       "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-16T16:00:30+00:00"
-    },
-    {
-      "id": "49ffc9074888e42e20d0",
-      "source": "TGcom24",
-      "title": "Telefonata Putin-Leone, il Papa: \"Tregua in Ucraina\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/roma-papa-leone-xiv-gemelli-messa-angelus_117748407-202602k.shtml",
-      "published": "2026-10-16T16:00:00+00:00"
     },
     {
       "id": "3fb13a7d8899519b9d83",
