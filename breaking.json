@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-17T13:32:12.206659+00:00",
+  "updated_at": "2026-10-17T13:55:46.567924+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-17T13:32:12.206659+00:00"
+      "checked_at": "2026-10-17T13:55:46.567924+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-17T13:32:12.206659+00:00"
+      "checked_at": "2026-10-17T13:55:46.567924+00:00"
     }
   },
   "items": [
+    {
+      "id": "ec1272ed4e4f4b02a2ec",
+      "source": "BBC News",
+      "title": "Pope discharged from hospital days after lung cancer surgery",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17T13:51:36+00:00"
+    },
+    {
+      "id": "9e64aae6254e2be5df89",
+      "source": "TGcom24",
+      "title": "Papa Leone lascia il Gemelli: domenica reciterà regolarmente l'Angelus",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/papa-leone-xiv-ospedale-dimissioni-ultime-notizie_117776437-202602k.shtml",
+      "published": "2026-10-17T13:40:00+00:00"
+    },
     {
       "id": "c5ca73a45b149b17179a",
       "source": "TGcom24",
@@ -24,13 +38,6 @@
       "title": "Marsiglia, manifestanti irrompono nel municipio: \"Prendiamo la Bastiglia\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/alta-tensione-francia-proteste-lacrimogeni-parigi-arresti_117778642-202602k.shtml",
       "published": "2026-10-17T12:41:00+00:00"
-    },
-    {
-      "id": "ec1272ed4e4f4b02a2ec",
-      "source": "BBC News",
-      "title": "Pope to be discharged days after lung cancer surgery",
-      "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T12:37:26+00:00"
     },
     {
       "id": "5a2f4cb48d1b9f15880c",
@@ -96,13 +103,6 @@
       "published": "2026-10-17T09:58:17+00:00"
     },
     {
-      "id": "13b1044f8389b4b59ef6",
-      "source": "TGcom24",
-      "title": "Papa Leone, i medici: \"Idoneo alle dimissioni, lascerà il Gemelli nel pomeriggio\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/papa-leone-xiv-ospedale-dimissioni-ultime-notizie_117776437-202602k.shtml",
-      "published": "2026-10-17T09:36:00+00:00"
-    },
-    {
       "id": "6fe2f263d2a27a0bfbd4",
       "source": "BBC News",
       "title": "Katie Zacharia leaving White House role less than five days into job",
@@ -157,13 +157,6 @@
       "title": "Roma, maxi blitz antidroga: 8 arresti e 222 chili di hashish sequestrati",
       "url": "https://www.tgcom24.mediaset.it/cronaca/roma-operazione-antidroga-8-arresti-200-kg-hashish_117769782-202602k.shtml",
       "published": "2026-10-17T05:31:00+00:00"
-    },
-    {
-      "id": "e9dfb1f23b1cc3914925",
-      "source": "BBC News",
-      "title": "Pope's health should not be taken 'for granted', says top Vatican diplomat",
-      "url": "https://www.bbc.co.uk/news/articles/c6kg53zrexdeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T05:01:40+00:00"
     },
     {
       "id": "e21ef1cf64b1c1f59e38",
@@ -276,13 +269,6 @@
       "title": "Bimba morta a Bordighera, sentite le due sorelline di 9 e 10 anni",
       "url": "https://www.tgcom24.mediaset.it/cronaca/bimba-morta-bordighera-sentite-sorelle_117761085-202602k.shtml",
       "published": "2026-10-16T19:45:00+00:00"
-    },
-    {
-      "id": "45a711272b203fe58163",
-      "source": "BBC News",
-      "title": "Trump denies limiting Ukraine access to Starlink network",
-      "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T19:33:48+00:00"
     },
     {
       "id": "935d834d71827e2c18d8",
