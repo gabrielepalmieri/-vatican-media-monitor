@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-17T07:37:17.486132+00:00",
+  "updated_at": "2026-10-17T08:00:32.986337+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-17T07:37:17.486132+00:00"
+      "checked_at": "2026-10-17T08:00:32.986337+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-17T07:37:17.486132+00:00"
+      "checked_at": "2026-10-17T08:00:32.986337+00:00"
     }
   },
   "items": [
+    {
+      "id": "3ea20c2d0ba1c64de1be",
+      "source": "TGcom24",
+      "title": "Cgia Mestre: Milano e Roma le città che pagano più tasse",
+      "url": "https://www.tgcom24.mediaset.it/economia/cgia-pressione-fiscale-record-milano-roma-tasse_117771996-202602k.shtml",
+      "published": "2026-10-17T07:55:00+00:00"
+    },
+    {
+      "id": "9d30a59501d5e4588a7c",
+      "source": "BBC News",
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17T07:41:01+00:00"
+    },
     {
       "id": "0c15db1740d85b31660c",
       "source": "TGcom24",
@@ -33,13 +47,6 @@
       "published": "2026-10-17T06:43:00+00:00"
     },
     {
-      "id": "9d30a59501d5e4588a7c",
-      "source": "BBC News",
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T06:39:40+00:00"
-    },
-    {
       "id": "aa85a6d7981c5f2b52ac",
       "source": "TGcom24",
       "title": "Padova, violenza sessuale su un 13enne nel bar dei genitori",
@@ -59,6 +66,13 @@
       "title": "Katie Zacharia leaving White House role less than five days into job",
       "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-17T05:20:40+00:00"
+    },
+    {
+      "id": "e9dfb1f23b1cc3914925",
+      "source": "BBC News",
+      "title": "Pope's health should not be taken 'for granted', says top Vatican diplomat",
+      "url": "https://www.bbc.co.uk/news/articles/c6kg53zrexdeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17T05:01:40+00:00"
     },
     {
       "id": "e21ef1cf64b1c1f59e38",
@@ -115,13 +129,6 @@
       "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
       "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-16T23:54:35+00:00"
-    },
-    {
-      "id": "4f4ffddafd92c323fb4d",
-      "source": "BBC News",
-      "title": "Pope pictured for first time since surgery and cancer diagnosis",
-      "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T23:20:37+00:00"
     },
     {
       "id": "0f2368574bfa8db31e7d",
@@ -243,13 +250,6 @@
       "published": "2026-10-16T15:29:00+00:00"
     },
     {
-      "id": "57a91138453b6506a4bd",
-      "source": "BBC News",
-      "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T14:57:51+00:00"
-    },
-    {
       "id": "ff4e54ecbafadc7953b6",
       "source": "TGcom24",
       "title": "Raffaele Sollecito a Verissimo: \"Io e Stasi accomunati dall'ingiustizia\"",
@@ -313,13 +313,6 @@
       "published": "2026-10-16T12:20:00+00:00"
     },
     {
-      "id": "1b3f8ea001b4ee57471a",
-      "source": "TGcom24",
-      "title": "Sanremo, 13enne dà fuoco a un clochard e gli brucia le gambe",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/sanremo-13enne-da-fuoco-a-clochard_117746081-202602k.shtml",
-      "published": "2026-10-16T11:50:00+00:00"
-    },
-    {
       "id": "1e4647bee9dcb6fa3247",
       "source": "BBC News",
       "title": "India's 'cockroach' party founder detained ahead of protest",
@@ -332,13 +325,6 @@
       "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
       "url": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-16T11:40:41+00:00"
-    },
-    {
-      "id": "c60432595555669f1056",
-      "source": "BBC News",
-      "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
-      "url": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T08:45:54+00:00"
     },
     {
       "id": "885aac6f7230ebf19bf1",
@@ -360,20 +346,6 @@
       "title": "They fled Russia, but the West sent them back",
       "url": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-16T04:57:28+00:00"
-    },
-    {
-      "id": "1f06b7bddb502ced5be6",
-      "source": "BBC News",
-      "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
-      "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T23:38:46+00:00"
-    },
-    {
-      "id": "a0cd776224b8977092b5",
-      "source": "BBC News",
-      "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T23:27:21+00:00"
     },
     {
       "id": "21e47200c90ce0a11e06",
