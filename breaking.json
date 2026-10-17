@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-17T04:57:51.968722+00:00",
+  "updated_at": "2026-10-17T05:17:10.300807+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-17T04:57:51.968722+00:00"
+      "checked_at": "2026-10-17T05:17:10.300807+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-17T04:57:51.968722+00:00"
+      "checked_at": "2026-10-17T05:17:10.300807+00:00"
     }
   },
   "items": [
+    {
+      "id": "9d30a59501d5e4588a7c",
+      "source": "BBC News",
+      "title": "Trump waives several Russia sanctions as new US law takes effect",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17T05:02:50+00:00"
+    },
+    {
+      "id": "e21ef1cf64b1c1f59e38",
+      "source": "TGcom24",
+      "title": "Ucraina, Trump sospende sanzioni e dazi contro la Russia",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizia-17-ottobre_117768757-202602k.shtml",
+      "published": "2026-10-17T05:01:00+00:00"
+    },
     {
       "id": "757dd061deec7a3c3f60",
       "source": "TGcom24",
@@ -31,13 +45,6 @@
       "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
       "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-17T03:11:10+00:00"
-    },
-    {
-      "id": "9d30a59501d5e4588a7c",
-      "source": "BBC News",
-      "title": "Trump waives several Russia sanctions as new US law takes effect",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T02:48:36+00:00"
     },
     {
       "id": "7276bfd23818af927a84",
@@ -325,13 +332,6 @@
       "title": "Corteo studenti a Roma, incappucciati lanciano petardi e bombe carta",
       "url": "https://www.tgcom24.mediaset.it/cronaca/scuola-scioperi-occupazioni-no-meloni-day-padova-blitz-digos-molotov_117730829-202602k.shtml",
       "published": "2026-10-16T09:55:00+00:00"
-    },
-    {
-      "id": "5831cca161aef0aa68d6",
-      "source": "TGcom24",
-      "title": "Istat: l'energia fa volare l'inflazione, a settembre è al +4,2%",
-      "url": "https://www.tgcom24.mediaset.it/economia/istat-inflazione-energia-beni-energetici-aumento_117740816-202602k.shtml",
-      "published": "2026-10-16T09:25:00+00:00"
     },
     {
       "id": "c60432595555669f1056",
