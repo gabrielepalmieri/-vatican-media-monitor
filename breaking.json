@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-17T11:51:15.475448+00:00",
+  "updated_at": "2026-10-17T12:06:31.456256+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-17T11:51:15.475448+00:00"
+      "checked_at": "2026-10-17T12:06:31.456256+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-17T11:51:15.475448+00:00"
+      "checked_at": "2026-10-17T12:06:31.456256+00:00"
     }
   },
   "items": [
+    {
+      "id": "9d30a59501d5e4588a7c",
+      "source": "BBC News",
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17T11:56:06+00:00"
+    },
     {
       "id": "60a5d2018c947155da8c",
       "source": "TGcom24",
@@ -52,13 +59,6 @@
       "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
       "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-17T09:58:17+00:00"
-    },
-    {
-      "id": "9d30a59501d5e4588a7c",
-      "source": "BBC News",
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T09:42:13+00:00"
     },
     {
       "id": "13b1044f8389b4b59ef6",
