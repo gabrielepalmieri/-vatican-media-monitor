@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-18T05:23:32.173826+00:00",
+  "updated_at": "2026-10-18T05:51:52.244085+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-18T05:23:32.173826+00:00"
+      "checked_at": "2026-10-18T05:51:52.244085+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-18T05:23:32.173826+00:00"
+      "checked_at": "2026-10-18T05:51:52.244085+00:00"
     }
   },
   "items": [
+    {
+      "id": "2bd706fa49a88a672bbb",
+      "source": "TGcom24",
+      "title": "Scontri in Francia, Vance: \"Immigrazione tra le cause delle violenze\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/francia-proteste-scontri-18-ottobre_117815817-202602k.shtml",
+      "published": "2026-10-18T05:30:00+00:00"
+    },
     {
       "id": "411eacae37827c041f1c",
       "source": "BBC News",
@@ -241,13 +248,6 @@
       "title": "Hormuz, petroliera urta mina e prende fuoco: persi 2 milioni di barili di greggio",
       "url": "https://www.tgcom24.mediaset.it/2026/video/hormuz-petroliera-urta-una-mina-e-prende-fuoco_117773378-02k.shtml",
       "published": "2026-10-17T10:40:00+00:00"
-    },
-    {
-      "id": "41c1da4a40585b052183",
-      "source": "TGcom24",
-      "title": "Ucraina, Zelensky: \"Allentamento delle sanzioni Usa premia Putin\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizia-17-ottobre_117768757-202602k.shtml",
-      "published": "2026-10-17T10:11:00+00:00"
     },
     {
       "id": "aa2e3f1494922cc95891",
