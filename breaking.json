@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-18T20:02:20.796660+00:00",
+  "updated_at": "2026-10-18T20:20:44.895314+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-18T20:02:20.796660+00:00"
+      "checked_at": "2026-10-18T20:20:44.895314+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-18T20:02:20.796660+00:00"
+      "checked_at": "2026-10-18T20:20:44.895314+00:00"
     }
   },
   "items": [
+    {
+      "id": "7254b594809b11b83d98",
+      "source": "BBC News",
+      "title": "Macron calls for calm in France and warns rioting must not escalate",
+      "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T20:06:20+00:00"
+    },
+    {
+      "id": "bc0134d487b59db06e31",
+      "source": "TGcom24",
+      "title": "Meloni: \"Valutiamo altri strumenti per chi sfrutta i cortei per seminare caos\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-guerriglia-piazza-duomo_117835751-202602k.shtml",
+      "published": "2026-10-18T20:01:00+00:00"
+    },
     {
       "id": "03a264ba1bae31fdf54b",
       "source": "BBC News",
@@ -24,13 +38,6 @@
       "title": "Ucraina, Zelensky attacca Trump: \"Spinge Kiev alla resa\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-18-ottobre_117815443-202602k.shtml",
       "published": "2026-10-18T19:31:00+00:00"
-    },
-    {
-      "id": "7254b594809b11b83d98",
-      "source": "BBC News",
-      "title": "Macron calls for calm in France and warns rioting must not escalate",
-      "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T19:14:10+00:00"
     },
     {
       "id": "a2dd8d57c0efd91cc237",
@@ -220,13 +227,6 @@
       "title": "Canada, media locali: \"Almeno sette morti nell'incendio nella base militare\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/canada-incendio-base-militare-wainwright_117815440-202602k.shtml",
       "published": "2026-10-18T06:45:00+00:00"
-    },
-    {
-      "id": "f372255ea98ca0424869",
-      "source": "TGcom24",
-      "title": "Medioriente, elicottero saudita precipita vicino allo Yemen: due morti",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-18-ottobre_117816941-202602k.shtml",
-      "published": "2026-10-18T06:20:00+00:00"
     },
     {
       "id": "411eacae37827c041f1c",
