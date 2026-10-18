@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-18T03:19:10.437096+00:00",
+  "updated_at": "2026-10-18T03:49:39.152535+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-10-18T03:19:10.437096+00:00"
+      "checked_at": "2026-10-18T03:49:39.152535+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-18T03:19:10.437096+00:00"
+      "checked_at": "2026-10-18T03:49:39.152535+00:00"
     }
   },
   "items": [
+    {
+      "id": "4ab61c65ab4cc3f15f06",
+      "source": "BBC News",
+      "title": "Deadly fire breaks out at Canada military base",
+      "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T03:23:08+00:00"
+    },
     {
       "id": "9d30a59501d5e4588a7c",
       "source": "BBC News",
@@ -325,13 +332,6 @@
       "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
       "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-16T16:00:30+00:00"
-    },
-    {
-      "id": "3fb13a7d8899519b9d83",
-      "source": "BBC News",
-      "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
-      "url": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T15:45:10+00:00"
     }
   ]
 }
