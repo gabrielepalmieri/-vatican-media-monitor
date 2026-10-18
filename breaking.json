@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-18T07:12:37.585500+00:00",
+  "updated_at": "2026-10-18T07:36:24.296324+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-18T07:12:37.585500+00:00"
+      "checked_at": "2026-10-18T07:36:24.296324+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-18T07:12:37.585500+00:00"
+      "checked_at": "2026-10-18T07:36:24.296324+00:00"
     }
   },
   "items": [
+    {
+      "id": "3667180f976de21208bd",
+      "source": "TGcom24",
+      "title": "Scontri in Francia, polizia: \"Numero record di 855 fermi a Parigi\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/francia-proteste-scontri-18-ottobre_117815817-202602k.shtml",
+      "published": "2026-10-18T07:30:00+00:00"
+    },
     {
       "id": "4ab61c65ab4cc3f15f06",
       "source": "BBC News",
@@ -45,6 +52,13 @@
       "title": "Scontri in Francia, Vance: \"Immigrazione tra le cause delle violenze\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/francia-proteste-scontri-18-ottobre_117815817-202602k.shtml",
       "published": "2026-10-18T05:30:00+00:00"
+    },
+    {
+      "id": "6f735e086f864ca26294",
+      "source": "BBC News",
+      "title": "Church makes sainthood case for 'WW1 hero' priest",
+      "url": "https://www.bbc.co.uk/news/articles/cmg47rwddpxko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T05:15:53+00:00"
     },
     {
       "id": "411eacae37827c041f1c",
@@ -234,13 +248,6 @@
       "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
       "url": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-17T12:11:58+00:00"
-    },
-    {
-      "id": "60a5d2018c947155da8c",
-      "source": "TGcom24",
-      "title": "Famiglia nel bosco, dopo 11 mesi i bambini tornano a casa per il weekend",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/famiglia-bosco-ritorno-casa-palmoli_117779854-202602k.shtml",
-      "published": "2026-10-17T11:45:00+00:00"
     },
     {
       "id": "ddb0f3f7a258c06b7046",
