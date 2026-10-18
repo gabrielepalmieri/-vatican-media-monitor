@@ -1,22 +1,43 @@
 {
-  "updated_at": "2026-10-18T12:36:17.577496+00:00",
+  "updated_at": "2026-10-18T13:09:00.911037+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-18T12:36:17.577496+00:00"
+      "checked_at": "2026-10-18T13:09:00.911037+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-18T12:36:17.577496+00:00"
+      "checked_at": "2026-10-18T13:09:00.911037+00:00"
     }
   },
   "items": [
+    {
+      "id": "dfcb2e155d2ab157336c",
+      "source": "TGcom24",
+      "title": "Roma, anziano uccide la moglie malata e poi si toglie la vita",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/roma-anziano-uccide-moglie-malata-poi-si-toglie-la-vita_117831027-202602k.shtml",
+      "published": "2026-10-18T13:06:00+00:00"
+    },
+    {
+      "id": "4ab61c65ab4cc3f15f06",
+      "source": "BBC News",
+      "title": "Several dead or injured in major fire at Canada military base",
+      "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T12:41:59+00:00"
+    },
     {
       "id": "4d9d3b61be1e4d1f96e6",
       "source": "BBC News",
       "title": "European diplomats attacked by Israeli settlers in West Bank",
       "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-18T12:16:14+00:00"
+    },
+    {
+      "id": "5b6dc5baedb2bdb5d815",
+      "source": "TGcom24",
+      "title": "Ucraina, droni su San Pietroburgo colpiscono terminal petrolifero: un morto",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-18-ottobre_117815443-202602k.shtml",
+      "published": "2026-10-18T12:15:00+00:00"
     },
     {
       "id": "e864eafbe403f2251f22",
@@ -40,11 +61,11 @@
       "published": "2026-10-18T11:57:49+00:00"
     },
     {
-      "id": "acca4761d220ecc02880",
+      "id": "5a6ff925549d65f8736d",
       "source": "TGcom24",
       "title": "Elly Schlein: \"Pronta a essere candidata premier del Pd con o senza le primarie\"",
       "url": "https://www.tgcom24.mediaset.it/politica/schlein-candidata-premier_117828789-202602k.shtml",
-      "published": "2026-10-18T11:55:00+00:00"
+      "published": "2026-10-18T11:45:00+00:00"
     },
     {
       "id": "29a8e9b2db9fb74ff2ed",
@@ -101,13 +122,6 @@
       "title": "Ucraina, Zelensky: \"Da annuncio tregua energetica subiti 76 attacchi\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-18-ottobre_117815443-202602k.shtml",
       "published": "2026-10-18T09:05:00+00:00"
-    },
-    {
-      "id": "4ab61c65ab4cc3f15f06",
-      "source": "BBC News",
-      "title": "Several dead or injured in major fire at Canada military base",
-      "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T08:52:41+00:00"
     },
     {
       "id": "5c56c160e421a11c571c",
@@ -236,27 +250,6 @@
       "published": "2026-10-17T18:58:00+00:00"
     },
     {
-      "id": "71ef4c52168be040fcce",
-      "source": "TGcom24",
-      "title": "Meloni: \"Ogni reticenza sulle violenze di piazza diventa giustificazione\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/cortei-italia-in-piazza-sabato-17-ottobre-milano-genova-bologna-roma-torino_117789892-202602k.shtml",
-      "published": "2026-10-17T17:55:00+00:00"
-    },
-    {
-      "id": "40a1106afd2b8bd3957a",
-      "source": "TGcom24",
-      "title": "Romania, abbattuti due droni nello spazio aereo sul Mar Nero",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizia-17-ottobre_117768757-202602k.shtml",
-      "published": "2026-10-17T16:35:00+00:00"
-    },
-    {
-      "id": "a27dbe91b1131e784be0",
-      "source": "TGcom24",
-      "title": "Cisgiordania, coloni aggrediscono diplomatici europei: aperta un'indagine",
-      "url": "https://www.tgcom24.mediaset.it/mondo/cisgiordania-coloni-aggrediscono-diplomatici_117790048-202602k.shtml",
-      "published": "2026-10-17T16:00:00+00:00"
-    },
-    {
       "id": "ec1272ed4e4f4b02a2ec",
       "source": "BBC News",
       "title": "Pope discharged from hospital days after lung cancer surgery",
@@ -311,13 +304,6 @@
       "title": "The uncertain future of Canada's 30 rescued belugas",
       "url": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-17T01:18:08+00:00"
-    },
-    {
-      "id": "68cdcc64ab5efa8940a2",
-      "source": "BBC News",
-      "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
-      "url": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T00:41:58+00:00"
     }
   ]
 }
