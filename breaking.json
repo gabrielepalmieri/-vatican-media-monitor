@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-10-18T14:44:01.591378+00:00",
+  "updated_at": "2026-10-18T15:05:55.448119+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-18T14:44:01.591378+00:00"
+      "checked_at": "2026-10-18T15:05:55.448119+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-18T14:44:01.591378+00:00"
+      "checked_at": "2026-10-18T15:05:55.448119+00:00"
     }
   },
   "items": [
+    {
+      "id": "a57f91b476af71349ad8",
+      "source": "TGcom24",
+      "title": "Sciopero autotrasporto, Salvini conferma incontri martedì a Milano",
+      "url": "https://www.tgcom24.mediaset.it/politica/autotrasporto-salvini-conferma-incontri-martedi-a-milano-chiedo-buon-senso-e-rispetto-_117835763-202602k.shtml",
+      "published": "2026-10-18T14:44:00+00:00"
+    },
     {
       "id": "d5a66ccdcab39d6ff437",
       "source": "TGcom24",
       "title": "Nubifragio all'Elba, allagamenti nella zona di Cavo",
       "url": "https://www.tgcom24.mediaset.it/cronaca/maltempo-nubifragio-elba_117834931-202602k.shtml",
       "published": "2026-10-18T14:14:00+00:00"
+    },
+    {
+      "id": "964943e8027183897652",
+      "source": "BBC News",
+      "title": "Search for Amelia Earhart's plane resumes after stormy weather",
+      "url": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T13:47:07+00:00"
     },
     {
       "id": "dfcb2e155d2ab157336c",
@@ -241,13 +255,6 @@
       "title": "At least 17 dead in crush at Hindu festival event in India",
       "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-17T19:19:16+00:00"
-    },
-    {
-      "id": "a1766b8fd30b473508ed",
-      "source": "TGcom24",
-      "title": "Scontri a Milano, 50 persone portate in Questura e diversi agenti feriti",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/cortei-italia-in-piazza-sabato-17-ottobre-milano-genova-bologna-roma-torino_117789892-202602k.shtml",
-      "published": "2026-10-17T18:58:00+00:00"
     },
     {
       "id": "ec1272ed4e4f4b02a2ec",
