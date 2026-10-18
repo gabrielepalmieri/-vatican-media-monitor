@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-18T01:06:46.829468+00:00",
+  "updated_at": "2026-10-18T01:34:01.585830+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-10-18T01:06:46.829468+00:00"
+      "checked_at": "2026-10-18T01:34:01.585830+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-18T01:06:46.829468+00:00"
+      "checked_at": "2026-10-18T01:34:01.585830+00:00"
     }
   },
   "items": [
+    {
+      "id": "9d30a59501d5e4588a7c",
+      "source": "BBC News",
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T01:10:25+00:00"
+    },
     {
       "id": "4d9d3b61be1e4d1f96e6",
       "source": "BBC News",
@@ -59,13 +66,6 @@
       "title": "Macron: \"Uniti contro il caos, 400 arresti: gli autori saranno perseguiti e puniti\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/alta-tensione-francia-proteste-lacrimogeni-parigi-arresti_117778642-202602k.shtml",
       "published": "2026-10-17T19:54:00+00:00"
-    },
-    {
-      "id": "9d30a59501d5e4588a7c",
-      "source": "BBC News",
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T19:19:19+00:00"
     },
     {
       "id": "c630dfd439fd178a4603",
