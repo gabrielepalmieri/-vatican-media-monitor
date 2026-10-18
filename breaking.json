@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-18T15:05:55.448119+00:00",
+  "updated_at": "2026-10-18T15:29:39.252241+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-18T15:05:55.448119+00:00"
+      "checked_at": "2026-10-18T15:29:39.252241+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-18T15:05:55.448119+00:00"
+      "checked_at": "2026-10-18T15:29:39.252241+00:00"
     }
   },
   "items": [
+    {
+      "id": "3f5826869e618cfae050",
+      "source": "TGcom24",
+      "title": "Milano, nuove tensioni in zona Duomo: assaltati negozi, esplosi petardi",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-tensioni-piazza-duomo_117835751-202602k.shtml",
+      "published": "2026-10-18T15:01:00+00:00"
+    },
     {
       "id": "a57f91b476af71349ad8",
       "source": "TGcom24",
@@ -243,13 +250,6 @@
       "published": "2026-10-17T20:53:00+00:00"
     },
     {
-      "id": "8145033c402533f6dbb4",
-      "source": "TGcom24",
-      "title": "Macron: \"Uniti contro il caos, 400 arresti: gli autori saranno perseguiti e puniti\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/alta-tensione-francia-proteste-lacrimogeni-parigi-arresti_117778642-202602k.shtml",
-      "published": "2026-10-17T19:54:00+00:00"
-    },
-    {
       "id": "c630dfd439fd178a4603",
       "source": "BBC News",
       "title": "At least 17 dead in crush at Hindu festival event in India",
@@ -290,13 +290,6 @@
       "title": "Katie Zacharia leaving White House role less than five days into job",
       "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-17T09:14:10+00:00"
-    },
-    {
-      "id": "5367279e2fb004b0af32",
-      "source": "BBC News",
-      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
-      "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T03:11:10+00:00"
     }
   ]
 }
