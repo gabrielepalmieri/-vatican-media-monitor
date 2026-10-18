@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-18T20:44:50.613466+00:00",
+  "updated_at": "2026-10-18T21:05:20.150262+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-18T20:44:50.613466+00:00"
+      "checked_at": "2026-10-18T21:05:20.150262+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-18T20:44:50.613466+00:00"
+      "checked_at": "2026-10-18T21:05:20.150262+00:00"
     }
   },
   "items": [
+    {
+      "id": "4484ef115479c85c8cc2",
+      "source": "BBC News",
+      "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+      "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T21:00:22+00:00"
+    },
     {
       "id": "7254b594809b11b83d98",
       "source": "BBC News",
@@ -24,6 +31,13 @@
       "title": "Meloni: \"Valutiamo altri strumenti per chi sfrutta i cortei per seminare caos\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/milano-guerriglia-piazza-duomo_117835751-202602k.shtml",
       "published": "2026-10-18T20:01:00+00:00"
+    },
+    {
+      "id": "c695a797db07b36b4dff",
+      "source": "BBC News",
+      "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+      "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T19:53:27+00:00"
     },
     {
       "id": "03a264ba1bae31fdf54b",
@@ -145,13 +159,6 @@
       "published": "2026-10-18T12:15:00+00:00"
     },
     {
-      "id": "e864eafbe403f2251f22",
-      "source": "BBC News",
-      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-      "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T12:07:31+00:00"
-    },
-    {
       "id": "6507093086d244ca4968",
       "source": "TGcom24",
       "title": "Scontri a Milano, Confcommercio: \"Oltre mezzo milione di euro di danni\"",
@@ -220,20 +227,6 @@
       "title": "Ucraina, Zelensky: \"Da annuncio tregua energetica subiti 76 attacchi\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-18-ottobre_117815443-202602k.shtml",
       "published": "2026-10-18T09:05:00+00:00"
-    },
-    {
-      "id": "412a637e50b5cace385b",
-      "source": "TGcom24",
-      "title": "Canada, media locali: \"Almeno sette morti nell'incendio nella base militare\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/canada-incendio-base-militare-wainwright_117815440-202602k.shtml",
-      "published": "2026-10-18T06:45:00+00:00"
-    },
-    {
-      "id": "411eacae37827c041f1c",
-      "source": "BBC News",
-      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T05:04:31+00:00"
     },
     {
       "id": "9d30a59501d5e4588a7c",
