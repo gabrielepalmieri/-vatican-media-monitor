@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-10-18T21:30:12.665408+00:00",
+  "updated_at": "2026-10-18T21:52:02.463894+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-18T21:30:12.665408+00:00"
+      "checked_at": "2026-10-18T21:52:02.463894+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-18T21:30:12.665408+00:00"
+      "checked_at": "2026-10-18T21:52:02.463894+00:00"
     }
   },
   "items": [
+    {
+      "id": "03a264ba1bae31fdf54b",
+      "source": "BBC News",
+      "title": "What we know so far about deadly fire at Canadian military base",
+      "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T21:37:56+00:00"
+    },
     {
       "id": "5df816f6de64e9365965",
       "source": "TGcom24",
       "title": "Ucraina, Trump contro Zelensky: \"Kiev non vuole la fine della guerra\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-18-ottobre_117815443-202602k.shtml",
       "published": "2026-10-18T21:25:00+00:00"
-    },
-    {
-      "id": "03a264ba1bae31fdf54b",
-      "source": "BBC News",
-      "title": "What we know so far about deadly fire at Canadian military base",
-      "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T21:23:01+00:00"
     },
     {
       "id": "4484ef115479c85c8cc2",
