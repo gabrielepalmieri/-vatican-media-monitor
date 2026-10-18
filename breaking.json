@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-18T03:49:39.152535+00:00",
+  "updated_at": "2026-10-18T04:11:36.359635+00:00",
   "sources": {
     "TGcom24": {
-      "ok": false,
-      "checked_at": "2026-10-18T03:49:39.152535+00:00"
+      "ok": true,
+      "checked_at": "2026-10-18T04:11:36.359635+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-18T03:49:39.152535+00:00"
+      "checked_at": "2026-10-18T04:11:36.359635+00:00"
     }
   },
   "items": [
@@ -16,7 +16,14 @@
       "source": "BBC News",
       "title": "Deadly fire breaks out at Canada military base",
       "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T03:23:08+00:00"
+      "published": "2026-10-18T04:00:50+00:00"
+    },
+    {
+      "id": "5338ad14c26a2be63b57",
+      "source": "TGcom24",
+      "title": "Usa, la proposta di Witkoffe Kushner all'Europa: \"Comprate più gas dalla Russia\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-la-proposta-di-witkoffe-kushner-all-europa-comprate-piu-gas-dalla-russia-_117814846-202602k.shtml",
+      "published": "2026-10-18T04:00:00+00:00"
     },
     {
       "id": "9d30a59501d5e4588a7c",
@@ -38,6 +45,13 @@
       "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
       "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-17T22:09:50+00:00"
+    },
+    {
+      "id": "6295548093bd085a3548",
+      "source": "TGcom24",
+      "title": "A fuoco il municipio di Limoges dopo le proteste in Francia, il sindaco: \"Danni gravissimi\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/alta-tensione-francia-proteste-lacrimogeni-parigi-arresti_117778642-202602k.shtml",
+      "published": "2026-10-17T21:59:00+00:00"
     },
     {
       "id": "a287502049726ae37189",
@@ -243,20 +257,6 @@
       "published": "2026-10-17T08:30:00+00:00"
     },
     {
-      "id": "3ea20c2d0ba1c64de1be",
-      "source": "TGcom24",
-      "title": "Cgia Mestre: Milano e Roma le città che pagano più tasse",
-      "url": "https://www.tgcom24.mediaset.it/economia/cgia-pressione-fiscale-record-milano-roma-tasse_117771996-202602k.shtml",
-      "published": "2026-10-17T07:55:00+00:00"
-    },
-    {
-      "id": "0c15db1740d85b31660c",
-      "source": "TGcom24",
-      "title": "Ucraina, raid russi in tutto il Paese: lanciati oltre 332 droni",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizia-17-ottobre_117768757-202602k.shtml",
-      "published": "2026-10-17T07:25:00+00:00"
-    },
-    {
       "id": "5367279e2fb004b0af32",
       "source": "BBC News",
       "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
@@ -325,13 +325,6 @@
       "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
       "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-16T18:11:29+00:00"
-    },
-    {
-      "id": "cc36c821a303d847e25e",
-      "source": "BBC News",
-      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-      "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T16:00:30+00:00"
     }
   ]
 }
