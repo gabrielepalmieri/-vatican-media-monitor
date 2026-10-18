@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-18T05:34:21.444895+00:00",
+  "updated_at": "2026-10-18T22:32:22.055586+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-10-18T05:34:21.444895+00:00",
+  "un_verified_at": "2026-10-18T22:32:22.055586+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,26 +1918,6 @@
     }
   ],
   "days": {
-    "2026-10-17": {
-      "saints": [
-        {
-          "title": "Sant'Ignazio di Antiochia, vescovo, martire a Roma",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/17/sant-ignazio-di-antiochia--vescovo--martire-a-roma.html"
-        },
-        {
-          "title": "Beato Pietro Casani, sacerdote scolopio",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/17.html"
-        }
-      ],
-      "un": [
-        {
-          "title": "Giornata internazionale per l’eliminazione della povertà",
-          "url": "https://www.un.org/en/observances/day-for-eradicating-poverty"
-        }
-      ],
-      "un_available": true,
-      "holy_see": []
-    },
     "2026-10-18": {
       "saints": [
         {
@@ -2581,6 +2561,25 @@
           "url": "https://www.vatican.va/content/leo-xiv/it/messages/youth.html"
         }
       ]
+    },
+    "2026-11-23": {
+      "saints": [
+        {
+          "title": "San Clemente I, papa e martire",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/23/san-clemente-i--papa-e-martire--le-sue-reliquie-sono-venerate-ne.html"
+        },
+        {
+          "title": "San Colombano, abate",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/23/san-colombano--abate.html"
+        },
+        {
+          "title": "Santa Felicita, martire",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/23.html"
+        }
+      ],
+      "un": [],
+      "un_available": true,
+      "holy_see": []
     }
   }
 }
