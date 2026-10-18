@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-18T15:29:39.252241+00:00",
+  "updated_at": "2026-10-18T15:51:51.645783+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-18T15:29:39.252241+00:00"
+      "checked_at": "2026-10-18T15:51:51.645783+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-18T15:29:39.252241+00:00"
+      "checked_at": "2026-10-18T15:51:51.645783+00:00"
     }
   },
   "items": [
+    {
+      "id": "7ba9352d04a5d771b2dc",
+      "source": "BBC News",
+      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+      "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T15:46:10+00:00"
+    },
+    {
+      "id": "171cecaa7380e58e9277",
+      "source": "TGcom24",
+      "title": "Scontri in piazza, Meloni convoca per lunedì una riunione sull'ordine pubblico",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-tensioni-piazza-duomo_117835751-202602k.shtml",
+      "published": "2026-10-18T15:31:00+00:00"
+    },
     {
       "id": "3f5826869e618cfae050",
       "source": "TGcom24",
@@ -73,13 +87,6 @@
       "title": "Scontri a Milano, Confcommercio: \"Oltre mezzo milione di euro di danni\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/scontri-milano-sindaco-sala-pochi-agenti_117821793-202602k.shtml",
       "published": "2026-10-18T12:00:00+00:00"
-    },
-    {
-      "id": "7ba9352d04a5d771b2dc",
-      "source": "BBC News",
-      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T11:57:49+00:00"
     },
     {
       "id": "5a6ff925549d65f8736d",
