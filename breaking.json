@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-18T04:36:32.777920+00:00",
+  "updated_at": "2026-10-18T05:02:25.448765+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-18T04:36:32.777920+00:00"
+      "checked_at": "2026-10-18T05:02:25.448765+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-18T04:36:32.777920+00:00"
+      "checked_at": "2026-10-18T05:02:25.448765+00:00"
     }
   },
   "items": [
+    {
+      "id": "385ce8009e4d06054ed3",
+      "source": "TGcom24",
+      "title": "Trump: \"Congelamento delle nuove sanzioni alla Russia è un'ottima decisione\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-18-ottobre_117815443-202602k.shtml",
+      "published": "2026-10-18T05:00:00+00:00"
+    },
     {
       "id": "8b49a82ff05137907a97",
       "source": "TGcom24",
@@ -21,7 +28,7 @@
     {
       "id": "4ab61c65ab4cc3f15f06",
       "source": "BBC News",
-      "title": "Deadly fire breaks out at Canada military base",
+      "title": "Deaths confirmed in major fire at Canada military base",
       "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-18T04:00:50+00:00"
     },
@@ -248,13 +255,6 @@
       "title": "Katie Zacharia leaving White House role less than five days into job",
       "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-17T09:14:10+00:00"
-    },
-    {
-      "id": "cdc498b418aaf110d31b",
-      "source": "TGcom24",
-      "title": "Carburanti, in autostrada il gasolio arriva a sfiorare i 2,3 euro al litro",
-      "url": "https://www.tgcom24.mediaset.it/economia/carburanti-autostrada-gasolio-benzina-euro-al-litro_117773555-202602k.shtml",
-      "published": "2026-10-17T09:05:00+00:00"
     },
     {
       "id": "5367279e2fb004b0af32",
