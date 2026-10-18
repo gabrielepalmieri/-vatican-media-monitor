@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-18T23:27:50.962902+00:00",
+  "updated_at": "2026-10-18T23:45:09.158744+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-10-18T23:27:50.962902+00:00"
+      "checked_at": "2026-10-18T23:45:09.158744+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-18T23:27:50.962902+00:00"
+      "checked_at": "2026-10-18T23:45:09.158744+00:00"
     }
   },
   "items": [
@@ -19,11 +19,18 @@
       "published": "2026-10-18T23:20:15+00:00"
     },
     {
-      "id": "03a264ba1bae31fdf54b",
+      "id": "374b016f4decb1bc82aa",
       "source": "BBC News",
-      "title": "What we know so far about deadly fire at Canadian military base",
-      "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T21:37:56+00:00"
+      "title": "Major fire at Canada military base leaves four dead, dozens injured",
+      "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T23:06:09+00:00"
+    },
+    {
+      "id": "1842506f78f0b2e4cfd9",
+      "source": "BBC News",
+      "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
+      "url": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T22:22:51+00:00"
     },
     {
       "id": "5df816f6de64e9365965",
@@ -234,13 +241,6 @@
       "title": "Scontri a Milano, il sindaco Sala: \"Pochi agenti, sottovalutato il problema\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/scontri-milano-sindaco-sala-pochi-agenti_117821793-202602k.shtml",
       "published": "2026-10-18T09:35:00+00:00"
-    },
-    {
-      "id": "9d30a59501d5e4588a7c",
-      "source": "BBC News",
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T01:10:25+00:00"
     },
     {
       "id": "4dec9edc9877378c3d71",
