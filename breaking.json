@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-18T12:05:17.990069+00:00",
+  "updated_at": "2026-10-18T12:36:17.577496+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-18T12:05:17.990069+00:00"
+      "checked_at": "2026-10-18T12:36:17.577496+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-18T12:05:17.990069+00:00"
+      "checked_at": "2026-10-18T12:36:17.577496+00:00"
     }
   },
   "items": [
+    {
+      "id": "4d9d3b61be1e4d1f96e6",
+      "source": "BBC News",
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T12:16:14+00:00"
+    },
+    {
+      "id": "e864eafbe403f2251f22",
+      "source": "BBC News",
+      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+      "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T12:07:31+00:00"
+    },
     {
       "id": "6507093086d244ca4968",
       "source": "TGcom24",
@@ -61,13 +75,6 @@
       "published": "2026-10-18T10:58:00+00:00"
     },
     {
-      "id": "e864eafbe403f2251f22",
-      "source": "BBC News",
-      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-      "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T10:53:54+00:00"
-    },
-    {
       "id": "38bd643f1e893b117e90",
       "source": "TGcom24",
       "title": "Papa Leone si affaccia dal Palazzo Apostolico per l'Angelus: \"Grazie a chi ha pregato per me\"",
@@ -112,7 +119,7 @@
     {
       "id": "3667180f976de21208bd",
       "source": "TGcom24",
-      "title": "Scontri in Francia, polizia: \"Numero record di 855 fermi a Parigi\"",
+      "title": "Scontri in Francia, ministro dell'Interno: \"Record di 1.800 fermi a Parigi\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/francia-proteste-scontri-18-ottobre_117815817-202602k.shtml",
       "published": "2026-10-18T07:30:00+00:00"
     },
@@ -173,13 +180,6 @@
       "published": "2026-10-18T01:10:25+00:00"
     },
     {
-      "id": "4d9d3b61be1e4d1f96e6",
-      "source": "BBC News",
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T23:52:38+00:00"
-    },
-    {
       "id": "4dec9edc9877378c3d71",
       "source": "BBC News",
       "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
@@ -231,7 +231,7 @@
     {
       "id": "a1766b8fd30b473508ed",
       "source": "TGcom24",
-      "title": "Cortei: a Milano 50 persone portate in Questura, diversi agenti feriti",
+      "title": "Scontri a Milano, 50 persone portate in Questura e diversi agenti feriti",
       "url": "https://www.tgcom24.mediaset.it/cronaca/cortei-italia-in-piazza-sabato-17-ottobre-milano-genova-bologna-roma-torino_117789892-202602k.shtml",
       "published": "2026-10-17T18:58:00+00:00"
     },
@@ -243,18 +243,18 @@
       "published": "2026-10-17T17:55:00+00:00"
     },
     {
-      "id": "7a4af200a44f826bd6bc",
-      "source": "TGcom24",
-      "title": "Milano, guerriglia e bombe carta sulla polizia in Duomo al termine del corteo",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/cortei-italia-in-piazza-sabato-17-ottobre-milano-genova-bologna-roma-torino_117789892-202602k.shtml",
-      "published": "2026-10-17T17:03:00+00:00"
-    },
-    {
       "id": "40a1106afd2b8bd3957a",
       "source": "TGcom24",
       "title": "Romania, abbattuti due droni nello spazio aereo sul Mar Nero",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizia-17-ottobre_117768757-202602k.shtml",
       "published": "2026-10-17T16:35:00+00:00"
+    },
+    {
+      "id": "a27dbe91b1131e784be0",
+      "source": "TGcom24",
+      "title": "Cisgiordania, coloni aggrediscono diplomatici europei: aperta un'indagine",
+      "url": "https://www.tgcom24.mediaset.it/mondo/cisgiordania-coloni-aggrediscono-diplomatici_117790048-202602k.shtml",
+      "published": "2026-10-17T16:00:00+00:00"
     },
     {
       "id": "ec1272ed4e4f4b02a2ec",
