@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-10-18T14:14:47.271773+00:00",
+  "updated_at": "2026-10-18T14:44:01.591378+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-18T14:14:47.271773+00:00"
+      "checked_at": "2026-10-18T14:44:01.591378+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-18T14:14:47.271773+00:00"
+      "checked_at": "2026-10-18T14:44:01.591378+00:00"
     }
   },
   "items": [
     {
-      "id": "4ab61c65ab4cc3f15f06",
-      "source": "BBC News",
-      "title": "Several dead or injured in major fire at Canada military base",
-      "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T14:07:20+00:00"
+      "id": "d5a66ccdcab39d6ff437",
+      "source": "TGcom24",
+      "title": "Nubifragio all'Elba, allagamenti nella zona di Cavo",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/maltempo-nubifragio-elba_117834931-202602k.shtml",
+      "published": "2026-10-18T14:14:00+00:00"
     },
     {
       "id": "dfcb2e155d2ab157336c",
@@ -290,13 +290,6 @@
       "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
       "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-17T03:11:10+00:00"
-    },
-    {
-      "id": "7276bfd23818af927a84",
-      "source": "BBC News",
-      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T02:33:09+00:00"
     }
   ]
 }
