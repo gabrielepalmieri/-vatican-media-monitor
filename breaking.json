@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-18T05:51:52.244085+00:00",
+  "updated_at": "2026-10-18T06:08:51.417154+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-18T05:51:52.244085+00:00"
+      "checked_at": "2026-10-18T06:08:51.417154+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-18T05:51:52.244085+00:00"
+      "checked_at": "2026-10-18T06:08:51.417154+00:00"
     }
   },
   "items": [
+    {
+      "id": "93d79d5ab2fcd294ddaa",
+      "source": "BBC News",
+      "title": "Violent clashes, looting and buildings ablaze in France as over 1,200 arrested after protests",
+      "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T05:56:20+00:00"
+    },
     {
       "id": "2bd706fa49a88a672bbb",
       "source": "TGcom24",
@@ -103,13 +110,6 @@
       "published": "2026-10-17T20:53:00+00:00"
     },
     {
-      "id": "93d79d5ab2fcd294ddaa",
-      "source": "BBC News",
-      "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
-      "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T20:52:17+00:00"
-    },
-    {
       "id": "8145033c402533f6dbb4",
       "source": "TGcom24",
       "title": "Macron: \"Uniti contro il caos, 400 arresti: gli autori saranno perseguiti e puniti\"",
@@ -189,7 +189,7 @@
     {
       "id": "9e64aae6254e2be5df89",
       "source": "TGcom24",
-      "title": "Papa Leone lascia il Gemelli: domenica reciterà regolarmente l'Angelus",
+      "title": "Papa Leone ha lasciato il Gemelli: domenica regolarmente all'Angelus",
       "url": "https://www.tgcom24.mediaset.it/cronaca/papa-leone-xiv-ospedale-dimissioni-ultime-notizie_117776437-202602k.shtml",
       "published": "2026-10-17T13:40:00+00:00"
     },
@@ -224,7 +224,7 @@
     {
       "id": "60a5d2018c947155da8c",
       "source": "TGcom24",
-      "title": "Famiglia nel bosco, dopo 11 mesi i bambini tornano a casa",
+      "title": "Famiglia nel bosco, dopo 11 mesi i bambini tornano a casa per il weekend",
       "url": "https://www.tgcom24.mediaset.it/cronaca/famiglia-bosco-ritorno-casa-palmoli_117779854-202602k.shtml",
       "published": "2026-10-17T11:45:00+00:00"
     },
