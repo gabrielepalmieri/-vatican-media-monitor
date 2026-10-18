@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-10-18T08:48:17.466139+00:00",
+  "updated_at": "2026-10-18T09:08:04.302957+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-18T08:48:17.466139+00:00"
+      "checked_at": "2026-10-18T09:08:04.302957+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-18T08:48:17.466139+00:00"
+      "checked_at": "2026-10-18T09:08:04.302957+00:00"
     }
   },
   "items": [
+    {
+      "id": "4ab61c65ab4cc3f15f06",
+      "source": "BBC News",
+      "title": "Several dead or injured in major fire at Canada military base",
+      "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T08:52:41+00:00"
+    },
     {
       "id": "5c56c160e421a11c571c",
       "source": "TGcom24",
       "title": "Manifestazioni e proteste contro il caro-vita, arriva un autunno caldo",
       "url": "https://www.tgcom24.mediaset.it/cronaca/caro-vita-sciopero-generale-calendario-30-ottobre-20-novembre-proteste-scuola_117818509-202602k.shtml",
       "published": "2026-10-18T08:09:00+00:00"
-    },
-    {
-      "id": "4ab61c65ab4cc3f15f06",
-      "source": "BBC News",
-      "title": "Several dead or injured in major fire at Canada military base",
-      "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T08:05:49+00:00"
     },
     {
       "id": "3667180f976de21208bd",
