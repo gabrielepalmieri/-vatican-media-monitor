@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-18T09:30:59.524061+00:00",
+  "updated_at": "2026-10-18T09:54:45.904872+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-18T09:30:59.524061+00:00"
+      "checked_at": "2026-10-18T09:54:45.904872+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-18T09:30:59.524061+00:00"
+      "checked_at": "2026-10-18T09:54:45.904872+00:00"
     }
   },
   "items": [
+    {
+      "id": "3d95bd1a9a22bdff847c",
+      "source": "TGcom24",
+      "title": "Scontri a Milano, il sindaco Sala: \"Pochi agenti, sottovalutato il problema\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/scontri-milano-sindaco-sala-pochi-agenti_117821793-202602k.shtml",
+      "published": "2026-10-18T09:35:00+00:00"
+    },
     {
       "id": "49b7240941e1d6985e2b",
       "source": "TGcom24",
@@ -66,13 +73,6 @@
       "title": "Scontri in Francia, Vance: \"Immigrazione tra le cause delle violenze\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/francia-proteste-scontri-18-ottobre_117815817-202602k.shtml",
       "published": "2026-10-18T05:30:00+00:00"
-    },
-    {
-      "id": "6f735e086f864ca26294",
-      "source": "BBC News",
-      "title": "Church makes sainthood case for 'WW1 hero' priest",
-      "url": "https://www.bbc.co.uk/news/articles/cmg47rwddpxko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T05:15:53+00:00"
     },
     {
       "id": "411eacae37827c041f1c",
@@ -234,13 +234,6 @@
       "title": "Papa Leone ha lasciato il Gemelli: domenica regolarmente all'Angelus",
       "url": "https://www.tgcom24.mediaset.it/cronaca/papa-leone-xiv-ospedale-dimissioni-ultime-notizie_117776437-202602k.shtml",
       "published": "2026-10-17T13:40:00+00:00"
-    },
-    {
-      "id": "c5ca73a45b149b17179a",
-      "source": "TGcom24",
-      "title": "Culle italiane sempre più vuote: in 10 anni 130mila nascite in meno",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/italia-nascite-in-calo-130mila-in-meno-in-dieci-anni_117783549-202602k.shtml",
-      "published": "2026-10-17T13:15:00+00:00"
     },
     {
       "id": "3889e90e8287fee1a689",
