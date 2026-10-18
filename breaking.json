@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-18T06:08:51.417154+00:00",
+  "updated_at": "2026-10-18T06:37:33.613845+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-18T06:08:51.417154+00:00"
+      "checked_at": "2026-10-18T06:37:33.613845+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-18T06:08:51.417154+00:00"
+      "checked_at": "2026-10-18T06:37:33.613845+00:00"
     }
   },
   "items": [
+    {
+      "id": "f372255ea98ca0424869",
+      "source": "TGcom24",
+      "title": "Medioriente, elicottero saudita precipita vicino allo Yemen: due morti",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-18-ottobre_117816941-202602k.shtml",
+      "published": "2026-10-18T06:20:00+00:00"
+    },
     {
       "id": "93d79d5ab2fcd294ddaa",
       "source": "BBC News",
@@ -243,13 +250,6 @@
       "published": "2026-10-17T10:46:41+00:00"
     },
     {
-      "id": "5cc732d684c2b47dcee6",
-      "source": "TGcom24",
-      "title": "Hormuz, petroliera urta mina e prende fuoco: persi 2 milioni di barili di greggio",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/hormuz-petroliera-urta-una-mina-e-prende-fuoco_117773378-02k.shtml",
-      "published": "2026-10-17T10:40:00+00:00"
-    },
-    {
       "id": "aa2e3f1494922cc95891",
       "source": "BBC News",
       "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
@@ -278,13 +278,6 @@
       "published": "2026-10-17T02:33:09+00:00"
     },
     {
-      "id": "e666d4abba96672d37d6",
-      "source": "BBC News",
-      "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
-      "url": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T01:55:45+00:00"
-    },
-    {
       "id": "ff5a72e90649b787acca",
       "source": "BBC News",
       "title": "The uncertain future of Canada's 30 rescued belugas",
@@ -299,20 +292,6 @@
       "published": "2026-10-17T00:41:58+00:00"
     },
     {
-      "id": "04afe8d4647a325f40c3",
-      "source": "BBC News",
-      "title": "Judge throws out child sex abuse charges against actor Timothy Busfield",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T00:38:34+00:00"
-    },
-    {
-      "id": "7d46059a72354bc8dc80",
-      "source": "BBC News",
-      "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T23:54:35+00:00"
-    },
-    {
       "id": "0f2368574bfa8db31e7d",
       "source": "BBC News",
       "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
@@ -325,13 +304,6 @@
       "title": "What we learned from heated US midterm Senate debates",
       "url": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-16T19:09:37+00:00"
-    },
-    {
-      "id": "9855e65fb72b0bafc755",
-      "source": "BBC News",
-      "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-      "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T18:11:29+00:00"
     }
   ]
 }
