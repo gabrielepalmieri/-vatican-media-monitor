@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-18T11:06:34.814534+00:00",
+  "updated_at": "2026-10-18T11:29:17.392970+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-18T11:06:34.814534+00:00"
+      "checked_at": "2026-10-18T11:29:17.392970+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-18T11:06:34.814534+00:00"
+      "checked_at": "2026-10-18T11:29:17.392970+00:00"
     }
   },
   "items": [
+    {
+      "id": "212595efc1b723d71956",
+      "source": "BBC News",
+      "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
+      "url": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T11:09:32+00:00"
+    },
     {
       "id": "299bc7029093beff4a8e",
       "source": "BBC News",
@@ -297,13 +304,6 @@
       "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
       "url": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-17T00:41:58+00:00"
-    },
-    {
-      "id": "0f2368574bfa8db31e7d",
-      "source": "BBC News",
-      "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T23:07:18+00:00"
     }
   ]
 }
