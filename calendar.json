@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-19T05:37:01.361900+00:00",
+  "updated_at": "2026-10-19T22:35:58.920038+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-10-19T05:37:01.361900+00:00",
+  "un_verified_at": "2026-10-19T22:35:58.920038+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,22 +1918,6 @@
     }
   ],
   "days": {
-    "2026-10-18": {
-      "saints": [
-        {
-          "title": "San Luca evangelista, medico, patrono degli artisti",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/18/san-luca-evangelista--medico--patrono-degli-artisti.html"
-        }
-      ],
-      "un": [],
-      "un_available": true,
-      "holy_see": [
-        {
-          "title": "Giornata missionaria mondiale",
-          "url": "https://www.vatican.va/content/leo-xiv/it/messages/mission.html"
-        }
-      ]
-    },
     "2026-10-19": {
       "saints": [
         {
@@ -2578,6 +2562,26 @@
         }
       ],
       "un": [],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-11-24": {
+      "saints": [
+        {
+          "title": "San Crisogono, martire di Aquileia",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/24/san-crisogono--martire-di-aquileia.html"
+        },
+        {
+          "title": "Sant'Andrea Dũng Lạc sacerdote e compagni, martiri",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/24/sant-andrea-d_ng-lc-sacerdote-e-compagni--martiri.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata mondiale dei gemelli siamesi",
+          "url": "https://www.un.org/en/observances/conjoined-twins-day"
+        }
+      ],
       "un_available": true,
       "holy_see": []
     }
