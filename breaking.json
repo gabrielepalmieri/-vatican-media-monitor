@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-19T01:39:47.431043+00:00",
+  "updated_at": "2026-10-19T02:08:41.927459+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-10-19T01:39:47.431043+00:00"
+      "checked_at": "2026-10-19T02:08:41.927459+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-19T01:39:47.431043+00:00"
+      "checked_at": "2026-10-19T02:08:41.927459+00:00"
     }
   },
   "items": [
+    {
+      "id": "0c7bf809d32f3f77b892",
+      "source": "BBC News",
+      "title": "Bollywood actor Tiger Shroff survives shooting in Mumbai",
+      "url": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T01:50:48+00:00"
+    },
+    {
+      "id": "61baf5fef4a6b687be0a",
+      "source": "BBC News",
+      "title": "Australian Greens senator denies claims of misconduct towards women",
+      "url": "https://www.bbc.co.uk/news/articles/cmpdgj8z8v2do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T01:32:40+00:00"
+    },
     {
       "id": "99f7c8081941e2cc390b",
       "source": "BBC News",
@@ -283,13 +297,6 @@
       "title": "At least 17 dead in crush at Hindu festival event in India",
       "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-17T19:19:16+00:00"
-    },
-    {
-      "id": "ec1272ed4e4f4b02a2ec",
-      "source": "BBC News",
-      "title": "Pope discharged from hospital days after lung cancer surgery",
-      "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T13:51:36+00:00"
     }
   ]
 }
