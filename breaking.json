@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-19T12:09:24.771841+00:00",
+  "updated_at": "2026-10-19T12:45:30.906639+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-19T12:09:24.771841+00:00"
+      "checked_at": "2026-10-19T12:45:30.906639+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-19T12:09:24.771841+00:00"
+      "checked_at": "2026-10-19T12:45:30.906639+00:00"
     }
   },
   "items": [
+    {
+      "id": "bbcdb576ef84f8b9ddb5",
+      "source": "TGcom24",
+      "title": "Scontri a Milano, Salvini: \"Basta manifestazioni in piazza Duomo, sia blindata\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-saccheggi-piazza-duomo-guerriglia_117870371-202602k.shtml",
+      "published": "2026-10-19T12:35:00+00:00"
+    },
     {
       "id": "d4ae9eb35c889b915e92",
       "source": "TGcom24",
@@ -290,13 +297,6 @@
       "title": "Caos in Francia, il discorso alla nazione di Macron: \"Rabbia e vergogna\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/caos-francia-discorso-nazione-macron_117852982-202602k.shtml",
       "published": "2026-10-18T18:50:00+00:00"
-    },
-    {
-      "id": "17014f7fcea7f849ad4c",
-      "source": "TGcom24",
-      "title": "Nuova guerriglia a Milano, 200 giovani fermati: l'80% è minorenne",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-guerriglia-piazza-duomo_117835751-202602k.shtml",
-      "published": "2026-10-18T17:46:00+00:00"
     },
     {
       "id": "212595efc1b723d71956",
