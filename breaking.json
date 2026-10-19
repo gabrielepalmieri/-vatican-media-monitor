@@ -1,20 +1,48 @@
 {
-  "updated_at": "2026-10-19T08:13:52.886627+00:00",
+  "updated_at": "2026-10-19T08:55:38.779105+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-19T08:13:52.886627+00:00"
+      "checked_at": "2026-10-19T08:55:38.779105+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-19T08:13:52.886627+00:00"
+      "checked_at": "2026-10-19T08:55:38.779105+00:00"
     }
   },
   "items": [
     {
+      "id": "231105b8f6010ec98f13",
+      "source": "TGcom24",
+      "title": "Scontri a Milano, il bilancio: 32 arresti, 23 sono minori",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-saccheggi-piazza-duomo-guerriglia_117870371-202602k.shtml",
+      "published": "2026-10-19T08:45:00+00:00"
+    },
+    {
+      "id": "8070a2eafa0f83ec786f",
+      "source": "BBC News",
+      "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T08:31:32+00:00"
+    },
+    {
+      "id": "87b51f02b99166703020",
+      "source": "TGcom24",
+      "title": "Proteste in Francia, manifestanti bloccano l'accesso al Louvre",
+      "url": "https://www.tgcom24.mediaset.it/mondo/francia-scontri-ministro-interno-laurent-nunez-responsabilita-controllo-dimissioni_117866923-202602k.shtml",
+      "published": "2026-10-19T08:22:00+00:00"
+    },
+    {
+      "id": "93e3bfd68ca55359f898",
+      "source": "BBC News",
+      "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
+      "url": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T08:17:19+00:00"
+    },
+    {
       "id": "822dcac1350895c460a2",
       "source": "BBC News",
-      "title": "France's government under pressure after weekend of widespread violence",
+      "title": "Katya Adler: France's government under pressure after weekend of widespread violence",
       "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19T07:46:54+00:00"
     },
@@ -94,13 +122,6 @@
       "title": "TikTok sospende e poi riattiva account del documentario su Musk: \"Un errore\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/cinema-documentario-musk-alex-gibney-tiktok_117864745-202602k.shtml",
       "published": "2026-10-19T04:54:00+00:00"
-    },
-    {
-      "id": "8070a2eafa0f83ec786f",
-      "source": "BBC News",
-      "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T04:30:59+00:00"
     },
     {
       "id": "d888dba39496ee1eea56",
@@ -271,32 +292,11 @@
       "published": "2026-10-18T14:44:00+00:00"
     },
     {
-      "id": "d5a66ccdcab39d6ff437",
-      "source": "TGcom24",
-      "title": "Nubifragio all'Elba, allagamenti nella zona di Cavo",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/maltempo-nubifragio-elba_117834931-202602k.shtml",
-      "published": "2026-10-18T14:14:00+00:00"
-    },
-    {
       "id": "964943e8027183897652",
       "source": "BBC News",
       "title": "Search for Amelia Earhart's plane resumes after stormy weather",
       "url": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-18T13:47:07+00:00"
-    },
-    {
-      "id": "dfcb2e155d2ab157336c",
-      "source": "TGcom24",
-      "title": "Roma, anziano uccide la moglie malata e poi si toglie la vita",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/roma-anziano-uccide-moglie-malata-poi-si-toglie-la-vita_117831027-202602k.shtml",
-      "published": "2026-10-18T13:06:00+00:00"
-    },
-    {
-      "id": "4d9d3b61be1e4d1f96e6",
-      "source": "BBC News",
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T12:16:14+00:00"
     },
     {
       "id": "212595efc1b723d71956",
@@ -325,13 +325,6 @@
       "title": "How day of protests unfolded as disorder breaks out across France",
       "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-17T21:33:17+00:00"
-    },
-    {
-      "id": "115a7caaecde8dbd8f28",
-      "source": "BBC News",
-      "title": "Anti-government protesters battle with police in Albania",
-      "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T20:53:00+00:00"
     }
   ]
 }
