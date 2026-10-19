@@ -1,6 +1,23 @@
 {
-  "updated_at": "2026-10-19T22:47:49.637184+00:00",
+  "updated_at": "2026-10-19T23:51:05.234695+00:00",
   "items": [
+    {
+      "id": "a785e5970f95cea8",
+      "title": "Picierno: “Il mio sciopero della fame per Oleshky, salviamo i civili ucraini dall’assassino Putin”",
+      "url": "https://www.repubblica.it/esteri/2026/10/20/news/oleshky_pina_picierno_sciopero_della_fame_per_la_citta_ucraina-425658896/?rss",
+      "source": "la Repubblica",
+      "country": "Italia",
+      "language": "Italiano",
+      "published": "2026-10-19T23:00:51+00:00",
+      "topic": "Attualità",
+      "kind": "news",
+      "cluster_size": 1,
+      "origin": "direct",
+      "cluster_id": "a785e5970f95cea8",
+      "cluster_sources": [
+        "la Repubblica"
+      ]
+    },
     {
       "id": "f408335f45b11cfd",
       "title": "Ultime news di Podcast/Non è Francesco",
@@ -648,23 +665,6 @@
       ]
     },
     {
-      "id": "22d3b66f907fb251",
-      "title": "Previsioni meteo, intensa perturbazione atlantica con piogge persistenti al Nord-Ovest",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNXR4Z1ZPVTNQN3JQeDVhekF6eTRVNHVvcFFHbVg3WEtCZ2tFSjFqa25UcFBOMHFqWEhRUlRVYWEzcjRWMV9IY2lGejZHWTNKLW9Fd1JxMXVlWjRVWHZlNVd6d1F6Y3BVVzY0RW44ajBtMXU2YzFreWhoUWRDR252SjFZQk5HRE1EblBpY2tWblE0QzdwY255bXZXTkpWOUt6NFc1QktySTRVQXZkYmc?oc=5",
-      "source": "la Repubblica",
-      "country": "Italia",
-      "language": "Italiano",
-      "published": "2026-10-19T22:01:00+00:00",
-      "topic": "Attualità",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "search",
-      "cluster_id": "22d3b66f907fb251",
-      "cluster_sources": [
-        "la Repubblica"
-      ]
-    },
-    {
       "id": "2698a6bf05075b9b",
       "title": "Nora Bossong: Möchte nicht durch diese Kirche krank werden",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONmQ4ODc2UnJ2RzRsS2lKX1BaTGtxNF9mWFRpejR2bDFPenFXQW1VLUNUbkUyZFFYeUhqMkZFbnZ0TEYwTVdTNGVoQkk0OVQ1aE1WRHdBU0FFVnBDLURaOElBNjFBWHNsQl92OWFhWkg0bnllMHNsR05aLXoyN2MtaERfRFJjZGNIbnNnTHZub3NPYkJ0ajNaU29iMEFMRUhZeXYw?oc=5",
@@ -713,6 +713,23 @@
       "cluster_id": "c95c19d5ebc10013",
       "cluster_sources": [
         "Katholisch.de"
+      ]
+    },
+    {
+      "id": "22d3b66f907fb251",
+      "title": "Previsioni meteo, intensa perturbazione atlantica con piogge persistenti al Nord-Ovest",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNXR4Z1ZPVTNQN3JQeDVhekF6eTRVNHVvcFFHbVg3WEtCZ2tFSjFqa25UcFBOMHFqWEhRUlRVYWEzcjRWMV9IY2lGejZHWTNKLW9Fd1JxMXVlWjRVWHZlNVd6d1F6Y3BVVzY0RW44ajBtMXU2YzFreWhoUWRDR252SjFZQk5HRE1EblBpY2tWblE0QzdwY255bXZXTkpWOUt6NFc1QktySTRVQXZkYmc?oc=5",
+      "source": "la Repubblica",
+      "country": "Italia",
+      "language": "Italiano",
+      "published": "2026-10-19T22:01:00+00:00",
+      "topic": "Attualità",
+      "kind": "news",
+      "cluster_size": 1,
+      "origin": "search",
+      "cluster_id": "22d3b66f907fb251",
+      "cluster_sources": [
+        "la Repubblica"
       ]
     },
     {
@@ -90710,8 +90727,8 @@
       ]
     },
     {
-      "id": "13b5ede317e979ff",
-      "title": "Papa Leone, l’attesa per l’esito degli esami istologici e le incognite sul viaggio in Sud America",
+      "id": "6f9891099cad6d85",
+      "title": "Papa Leone, l?attesa per l?esito degli esami istologici e le incognite sul viaggio in Sud America",
       "url": "https://www.ilmessaggero.it/vaticano/papa_esami_istologici_malattia_intervento-9827519.html",
       "source": "Il Messaggero",
       "country": "Italia",
@@ -90721,7 +90738,7 @@
       "kind": "news",
       "cluster_size": 1,
       "origin": "direct",
-      "cluster_id": "13b5ede317e979ff",
+      "cluster_id": "6f9891099cad6d85",
       "cluster_sources": [
         "Il Messaggero"
       ]
@@ -91789,40 +91806,6 @@
       "cluster_sources": [
         "Il Messaggero"
       ]
-    },
-    {
-      "id": "08eeabb49e2713e8",
-      "title": "Il ricovero del Papa, l’attesa tra studenti e pazienti: “Speriamo di vederlo in corsia”",
-      "url": "https://www.repubblica.it/cronaca/2026/10/13/news/ricovero_papa_gemelli_preghiere_attesa-425643934/",
-      "source": "la Repubblica",
-      "country": "Italia",
-      "language": "Italiano",
-      "published": "2026-10-12T23:00:00+00:00",
-      "topic": "Pace e diplomazia",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "direct",
-      "cluster_id": "08eeabb49e2713e8",
-      "cluster_sources": [
-        "la Repubblica"
-      ]
-    },
-    {
-      "id": "71a8a07136e14751",
-      "title": "Il cardinale Kikuchi: “Ho visto il Papa sorridente, meglio l’abbia detto lui per evitare chiacchiere”",
-      "url": "https://www.repubblica.it/cronaca/2026/10/13/news/tarcisius_kikuchi_papa_leone_xiv_intervista-425643707/",
-      "source": "la Repubblica",
-      "country": "Italia",
-      "language": "Italiano",
-      "published": "2026-10-12T23:00:00+00:00",
-      "topic": "Attualità",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "direct",
-      "cluster_id": "71a8a07136e14751",
-      "cluster_sources": [
-        "la Repubblica"
-      ]
     }
   ],
   "source_coverage": [
@@ -91985,9 +91968,10 @@
       "country": "Italia",
       "source": "la Repubblica",
       "group": "Testata",
-      "count": 180,
-      "last_seen": "2026-10-19T22:11:00+00:00",
+      "count": 179,
+      "last_seen": "2026-10-19T23:00:51+00:00",
       "item_ids": [
+        "a785e5970f95cea8",
         "cea8b76dd852f9ec",
         "6f69d1e7ecac9356",
         "50c60e72bfa8cde9",
@@ -92165,9 +92149,7 @@
         "3738305511335209",
         "f6c7b410104a293f",
         "5985516a39565ca0",
-        "adf00d9fc681cbba",
-        "08eeabb49e2713e8",
-        "71a8a07136e14751"
+        "adf00d9fc681cbba"
       ]
     },
     {
@@ -92725,7 +92707,7 @@
         "300f18e0bca37501",
         "5c1640858890f530",
         "a6aa9cf0d3ab6d69",
-        "13b5ede317e979ff",
+        "6f9891099cad6d85",
         "2e800c5cf3e54594",
         "716890f21220eba1",
         "bdafb910a7929af4",
