@@ -1,22 +1,43 @@
 {
-  "updated_at": "2026-10-19T23:02:12.054718+00:00",
+  "updated_at": "2026-10-19T23:25:33.668305+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-19T23:02:12.054718+00:00"
+      "checked_at": "2026-10-19T23:25:33.668305+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-19T23:02:12.054718+00:00"
+      "checked_at": "2026-10-19T23:25:33.668305+00:00"
     }
   },
   "items": [
+    {
+      "id": "57a601c8b2d406ca75a0",
+      "source": "BBC News",
+      "title": "Five ways El Niño is affecting the weather around the world",
+      "url": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T23:08:25+00:00"
+    },
+    {
+      "id": "95a53ac4d08a21065e14",
+      "source": "BBC News",
+      "title": "In pictures: Dussehra celebrated across India as triumph of good over evil",
+      "url": "https://www.bbc.co.uk/news/articles/c98rzynj6e1yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T23:04:08+00:00"
+    },
     {
       "id": "d8b2a7f325f26ca10cc4",
       "source": "TGcom24",
       "title": "Francia, il premier Lecornu atteso venerdì a Limoges",
       "url": "https://www.tgcom24.mediaset.it/mondo/francia-scontri-polizia-coprifuoco-parigi_117866923-202602k.shtml",
       "published": "2026-10-19T22:00:00+00:00"
+    },
+    {
+      "id": "4cebbfd9b86a85ec9efa",
+      "source": "BBC News",
+      "title": "Clean up begins after French riots but police remain",
+      "url": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T21:30:08+00:00"
     },
     {
       "id": "a8bfd3f04c00ef6147d4",
@@ -201,13 +222,6 @@
       "published": "2026-10-19T13:51:00+00:00"
     },
     {
-      "id": "2f19de933b40515490fa",
-      "source": "BBC News",
-      "title": "Watch: Are the French riots a warning of an intense election to come?",
-      "url": "https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T13:43:27+00:00"
-    },
-    {
       "id": "433fb809e3094b5063a2",
       "source": "BBC News",
       "title": "Exiled critic of Rwandan president found beheaded",
@@ -346,13 +360,6 @@
       "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
       "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-18T23:20:15+00:00"
-    },
-    {
-      "id": "212595efc1b723d71956",
-      "source": "BBC News",
-      "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
-      "url": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T11:09:32+00:00"
     }
   ]
 }
