@@ -1,22 +1,57 @@
 {
-  "updated_at": "2026-10-19T16:15:25.730499+00:00",
+  "updated_at": "2026-10-19T16:51:43.321880+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-19T16:15:25.730499+00:00"
+      "checked_at": "2026-10-19T16:51:43.321880+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-19T16:15:25.730499+00:00"
+      "checked_at": "2026-10-19T16:51:43.321880+00:00"
     }
   },
   "items": [
+    {
+      "id": "a414af273643fc4d2cd3",
+      "source": "BBC News",
+      "title": "Warning signs over threats to Australian politicians were rising before MP hit by car",
+      "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T16:32:47+00:00"
+    },
+    {
+      "id": "8a2625265f7ae2dcfb7e",
+      "source": "TGcom24",
+      "title": "Mattarella sulla guerriglia: \"Violenze inaccettabili, solidarietà a forze dell'ordine\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-saccheggi-piazza-duomo-guerriglia_117870371-202602k.shtml",
+      "published": "2026-10-19T16:29:00+00:00"
+    },
+    {
+      "id": "354f4e288c9c4f9a4887",
+      "source": "BBC News",
+      "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+      "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T16:22:12+00:00"
+    },
+    {
+      "id": "fd12f76da1f04dcf7a07",
+      "source": "BBC News",
+      "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+      "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T16:20:51+00:00"
+    },
     {
       "id": "35e65cbccf637d0390d9",
       "source": "BBC News",
       "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
       "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T16:08:06+00:00"
+      "published": "2026-10-19T16:16:55+00:00"
+    },
+    {
+      "id": "4e6f91fb4c303961343f",
+      "source": "BBC News",
+      "title": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
+      "url": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T16:16:51+00:00"
     },
     {
       "id": "ca008ff059c64aa1f09e",
@@ -31,6 +66,13 @@
       "title": "Allarmi bomba nelle scuole italiane: oltre 50 plessi evacuati dopo email anonime",
       "url": "https://www.tgcom24.mediaset.it/cronaca/allarme-bomba-scuola-verona-padova-arezzo-lucca-chieti_117886678-202602k.shtml",
       "published": "2026-10-19T15:31:00+00:00"
+    },
+    {
+      "id": "474f4151b8a1e754af40",
+      "source": "BBC News",
+      "title": "In pictures: French landmarks damaged and destroyed by violent protesters",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8n7l0le11o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T15:21:03+00:00"
     },
     {
       "id": "89a1d8a4fc7551b76497",
@@ -166,13 +208,6 @@
       "published": "2026-10-19T09:40:44+00:00"
     },
     {
-      "id": "8070a2eafa0f83ec786f",
-      "source": "BBC News",
-      "title": "Musk and Anthropic pledge public share giveaways",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T09:38:25+00:00"
-    },
-    {
       "id": "f69797545eba7a5505dc",
       "source": "BBC News",
       "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
@@ -243,13 +278,6 @@
       "published": "2026-10-19T06:40:00+00:00"
     },
     {
-      "id": "09d9cda16b31151d573d",
-      "source": "BBC News",
-      "title": "Bomb threat forces Israel to Austria flight into emergency landing",
-      "url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T06:29:55+00:00"
-    },
-    {
       "id": "0ffc32c2cbdd8e441ae0",
       "source": "TGcom24",
       "title": "Ucraina, Rubio: stop di Trump a sanzioni contro la Russia per favorire i negoziati",
@@ -299,25 +327,11 @@
       "published": "2026-10-19T00:06:25+00:00"
     },
     {
-      "id": "086e6dbf073f20c7554f",
-      "source": "BBC News",
-      "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
-      "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T23:28:45+00:00"
-    },
-    {
       "id": "985108373e5b05ae50da",
       "source": "BBC News",
       "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
       "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-18T23:20:15+00:00"
-    },
-    {
-      "id": "ca32cf17e5111eda9915",
-      "source": "TGcom24",
-      "title": "Frosinone, urta con il trattore un bracciante in bici: muore 36enne",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/frosinone-trattore-investe-bici-bracciante-morto_117863395-202602k.shtml",
-      "published": "2026-10-18T21:59:00+00:00"
     },
     {
       "id": "4484ef115479c85c8cc2",
