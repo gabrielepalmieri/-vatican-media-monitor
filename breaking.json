@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-19T10:36:58.489069+00:00",
+  "updated_at": "2026-10-19T11:06:40.849070+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-19T10:36:58.489069+00:00"
+      "checked_at": "2026-10-19T11:06:40.849070+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-19T10:36:58.489069+00:00"
+      "checked_at": "2026-10-19T11:06:40.849070+00:00"
     }
   },
   "items": [
+    {
+      "id": "b8ee6f2d0c3b8093630b",
+      "source": "TGcom24",
+      "title": "Protesta autotrasportatori: bloccato varco al porto di Napoli",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/autotrasportatori-in-protesta-porti-e-strade-bloccate-dalla-campania-alla-sicilia_117872154-202602k.shtml",
+      "published": "2026-10-19T10:36:00+00:00"
+    },
     {
       "id": "35e65cbccf637d0390d9",
       "source": "BBC News",
@@ -283,13 +290,6 @@
       "title": "Stipendi magistrati, Meloni non firma Dpcm per aumenti. Anm: valutiamo ricorso",
       "url": "https://www.tgcom24.mediaset.it/politica/meloni-dpcm-aumenti-magistrati-anm-ricorso_117839321-202602k.shtml",
       "published": "2026-10-18T16:29:00+00:00"
-    },
-    {
-      "id": "f40cb5f9bf4e2e9302ab",
-      "source": "TGcom24",
-      "title": "Nuova guerriglia a Milano, saccheggiato supermercato e distrutti dehors",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-tensioni-piazza-duomo_117835751-202602k.shtml",
-      "published": "2026-10-18T15:56:00+00:00"
     },
     {
       "id": "7ba9352d04a5d771b2dc",
