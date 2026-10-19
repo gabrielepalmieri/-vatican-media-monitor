@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-10-19T04:11:28.863875+00:00",
+  "updated_at": "2026-10-19T04:39:43.996687+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-19T04:11:28.863875+00:00"
+      "checked_at": "2026-10-19T04:39:43.996687+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-19T04:11:28.863875+00:00"
+      "checked_at": "2026-10-19T04:39:43.996687+00:00"
     }
   },
   "items": [
+    {
+      "id": "8070a2eafa0f83ec786f",
+      "source": "BBC News",
+      "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T04:30:59+00:00"
+    },
+    {
+      "id": "d888dba39496ee1eea56",
+      "source": "TGcom24",
+      "title": "Ucraina, media: Putin ha proposto vertice con Trump e Xi per negoziare un accordo",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/guerra-russia-ucraina-ultime-notizie-19ottobre_117864561-202602k.shtml",
+      "published": "2026-10-19T04:24:00+00:00"
+    },
+    {
+      "id": "822dcac1350895c460a2",
+      "source": "BBC News",
+      "title": "France's government under pressure after weekend of widespread violence",
+      "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T04:16:46+00:00"
+    },
     {
       "id": "b12da39175bab4645ec7",
       "source": "TGcom24",
@@ -31,13 +52,6 @@
       "title": "Threat forces Israel to Austria flight into emergency landing",
       "url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19T02:41:50+00:00"
-    },
-    {
-      "id": "8070a2eafa0f83ec786f",
-      "source": "BBC News",
-      "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T02:41:41+00:00"
     },
     {
       "id": "0c7bf809d32f3f77b892",
@@ -283,13 +297,6 @@
       "title": "Scontri a Milano, Piantedosi: \"Professionisti del disordine, avviate indagini\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/scontri-milano-sindaco-sala-pochi-agenti_117821793-202602k.shtml",
       "published": "2026-10-18T10:58:00+00:00"
-    },
-    {
-      "id": "38bd643f1e893b117e90",
-      "source": "TGcom24",
-      "title": "Il Papa si affaccia dal Palazzo Apostolico per l'Angelus: \"Grazie a chi ha pregato per me\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/papa-leone-si-affaccia-dal-palazzo-apostolico-per-l-angelus-buona-domenica-_117824745-202602k.shtml",
-      "published": "2026-10-18T10:22:00+00:00"
     },
     {
       "id": "411eacae37827c041f1c",
