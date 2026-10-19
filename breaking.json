@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-19T18:10:54.027018+00:00",
+  "updated_at": "2026-10-19T18:44:20.725380+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-19T18:10:54.027018+00:00"
+      "checked_at": "2026-10-19T18:44:20.725380+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-19T18:10:54.027018+00:00"
+      "checked_at": "2026-10-19T18:44:20.725380+00:00"
     }
   },
   "items": [
+    {
+      "id": "bb0c678f31f308a5c9f7",
+      "source": "BBC News",
+      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T18:23:50+00:00"
+    },
+    {
+      "id": "0042c604944cdd057b78",
+      "source": "BBC News",
+      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+      "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T18:22:48+00:00"
+    },
     {
       "id": "7864cca6d46b089bfd2b",
       "source": "TGcom24",
@@ -215,13 +229,6 @@
       "published": "2026-10-19T09:43:00+00:00"
     },
     {
-      "id": "0042c604944cdd057b78",
-      "source": "BBC News",
-      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-      "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T09:40:44+00:00"
-    },
-    {
       "id": "f69797545eba7a5505dc",
       "source": "BBC News",
       "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
@@ -311,13 +318,6 @@
       "title": "Condivide sui social per 12 anni le foto hot della compagna: condannato per revenge porn",
       "url": "https://www.tgcom24.mediaset.it/cronaca/torino-revenge-porn-condanna-foto-compagna-nuda-social_117864751-202602k.shtml",
       "published": "2026-10-19T05:22:00+00:00"
-    },
-    {
-      "id": "a21146bdbeed280859cb",
-      "source": "TGcom24",
-      "title": "TikTok sospende e poi riattiva account del documentario su Musk: \"Un errore\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/cinema-documentario-musk-alex-gibney-tiktok_117864745-202602k.shtml",
-      "published": "2026-10-19T04:54:00+00:00"
     },
     {
       "id": "99f7c8081941e2cc390b",
