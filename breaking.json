@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-19T06:47:10.537312+00:00",
+  "updated_at": "2026-10-19T07:32:37.067177+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-19T06:47:10.537312+00:00"
+      "checked_at": "2026-10-19T07:32:37.067177+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-19T06:47:10.537312+00:00"
+      "checked_at": "2026-10-19T07:32:37.067177+00:00"
     }
   },
   "items": [
+    {
+      "id": "b46ed0e0f76c282f6ce5",
+      "source": "TGcom24",
+      "title": "Migranti, collisione nell'Egeo con nave della guardia costiera: un neonato tra le vittime",
+      "url": "https://www.tgcom24.mediaset.it/mondo/migranti-naufragio-mar-egeo-collisione-guardia-costiera-morti_117868237-202602k.shtml",
+      "published": "2026-10-19T07:13:00+00:00"
+    },
     {
       "id": "299bc7029093beff4a8e",
       "source": "BBC News",
@@ -283,13 +290,6 @@
       "title": "European diplomats attacked by Israeli settlers in West Bank",
       "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-18T12:16:14+00:00"
-    },
-    {
-      "id": "5b6dc5baedb2bdb5d815",
-      "source": "TGcom24",
-      "title": "Ucraina, droni su San Pietroburgo colpiscono terminal petrolifero: un morto",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-18-ottobre_117815443-202602k.shtml",
-      "published": "2026-10-18T12:15:00+00:00"
     },
     {
       "id": "212595efc1b723d71956",
