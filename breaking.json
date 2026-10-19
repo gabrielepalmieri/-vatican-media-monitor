@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-19T03:06:01.064959+00:00",
+  "updated_at": "2026-10-19T03:35:38.870608+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-10-19T03:06:01.064959+00:00"
+      "checked_at": "2026-10-19T03:35:38.870608+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-19T03:06:01.064959+00:00"
+      "checked_at": "2026-10-19T03:35:38.870608+00:00"
     }
   },
   "items": [
+    {
+      "id": "09d9cda16b31151d573d",
+      "source": "BBC News",
+      "title": "Threat forces Israel to Austria flight into emergency landing",
+      "url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T02:41:50+00:00"
+    },
+    {
+      "id": "8070a2eafa0f83ec786f",
+      "source": "BBC News",
+      "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T02:41:41+00:00"
+    },
     {
       "id": "0c7bf809d32f3f77b892",
       "source": "BBC News",
@@ -290,13 +304,6 @@
       "title": "Anti-government protesters battle with police in Albania",
       "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-17T20:53:00+00:00"
-    },
-    {
-      "id": "c630dfd439fd178a4603",
-      "source": "BBC News",
-      "title": "At least 17 dead in crush at Hindu festival event in India",
-      "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T19:19:16+00:00"
     }
   ]
 }
