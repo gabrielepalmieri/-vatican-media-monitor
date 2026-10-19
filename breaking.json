@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-19T00:02:01.140096+00:00",
+  "updated_at": "2026-10-19T00:32:06.642730+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-10-19T00:02:01.140096+00:00"
+      "checked_at": "2026-10-19T00:32:06.642730+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-19T00:02:01.140096+00:00"
+      "checked_at": "2026-10-19T00:32:06.642730+00:00"
     }
   },
   "items": [
+    {
+      "id": "99f7c8081941e2cc390b",
+      "source": "BBC News",
+      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+      "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T00:06:25+00:00"
+    },
     {
       "id": "086e6dbf073f20c7554f",
       "source": "BBC News",
@@ -283,13 +290,6 @@
       "title": "Pope discharged from hospital days after lung cancer surgery",
       "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-17T13:51:36+00:00"
-    },
-    {
-      "id": "3889e90e8287fee1a689",
-      "source": "BBC News",
-      "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
-      "url": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T12:11:58+00:00"
     }
   ]
 }
