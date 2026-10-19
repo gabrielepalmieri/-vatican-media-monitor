@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-19T03:35:38.870608+00:00",
+  "updated_at": "2026-10-19T04:11:28.863875+00:00",
   "sources": {
     "TGcom24": {
-      "ok": false,
-      "checked_at": "2026-10-19T03:35:38.870608+00:00"
+      "ok": true,
+      "checked_at": "2026-10-19T04:11:28.863875+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-19T03:35:38.870608+00:00"
+      "checked_at": "2026-10-19T04:11:28.863875+00:00"
     }
   },
   "items": [
+    {
+      "id": "b12da39175bab4645ec7",
+      "source": "TGcom24",
+      "title": "Allarme bomba su volo Tel Aviv-Vienna, dirottato in Bulgaria",
+      "url": "https://www.tgcom24.mediaset.it/mondo/allarme-bomba-aereo-tel-aviv-vienna_117862833-202602k.shtml",
+      "published": "2026-10-19T04:01:00+00:00"
+    },
+    {
+      "id": "35e65cbccf637d0390d9",
+      "source": "BBC News",
+      "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
+      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T03:44:02+00:00"
+    },
     {
       "id": "09d9cda16b31151d573d",
       "source": "BBC News",
@@ -73,6 +87,13 @@
       "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
       "url": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-18T22:22:51+00:00"
+    },
+    {
+      "id": "ca32cf17e5111eda9915",
+      "source": "TGcom24",
+      "title": "Frosinone, urta con il trattore un bracciante in bici: muore 36enne",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/frosinone-trattore-investe-bici-bracciante-morto_117863395-202602k.shtml",
+      "published": "2026-10-18T21:59:00+00:00"
     },
     {
       "id": "5df816f6de64e9365965",
@@ -271,18 +292,11 @@
       "published": "2026-10-18T10:22:00+00:00"
     },
     {
-      "id": "0b2f5c12f7d2bcb6283c",
-      "source": "TGcom24",
-      "title": "Arezzo, si ribalta con il trattore di famiglia: morto 15enne",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/cortona-15-enne-si-ribalta-con-il-trattore-di-notte-muore_117822906-202602k.shtml",
-      "published": "2026-10-18T10:05:00+00:00"
-    },
-    {
-      "id": "3d95bd1a9a22bdff847c",
-      "source": "TGcom24",
-      "title": "Scontri a Milano, il sindaco Sala: \"Pochi agenti, sottovalutato il problema\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/scontri-milano-sindaco-sala-pochi-agenti_117821793-202602k.shtml",
-      "published": "2026-10-18T09:35:00+00:00"
+      "id": "411eacae37827c041f1c",
+      "source": "BBC News",
+      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T05:04:31+00:00"
     },
     {
       "id": "4dec9edc9877378c3d71",
