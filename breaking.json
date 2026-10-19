@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-19T23:25:33.668305+00:00",
+  "updated_at": "2026-10-19T23:53:47.932077+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-19T23:25:33.668305+00:00"
+      "checked_at": "2026-10-19T23:53:47.932077+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-19T23:25:33.668305+00:00"
+      "checked_at": "2026-10-19T23:53:47.932077+00:00"
     }
   },
   "items": [
+    {
+      "id": "c9bc29f2a081e396172f",
+      "source": "BBC News",
+      "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
+      "url": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T23:30:03+00:00"
+    },
     {
       "id": "57a601c8b2d406ca75a0",
       "source": "BBC News",
@@ -178,13 +185,6 @@
       "title": "Allarmi bomba nelle scuole italiane: oltre 50 plessi evacuati dopo email anonime",
       "url": "https://www.tgcom24.mediaset.it/cronaca/allarme-bomba-scuola-verona-padova-arezzo-lucca-chieti_117886678-202602k.shtml",
       "published": "2026-10-19T15:31:00+00:00"
-    },
-    {
-      "id": "474f4151b8a1e754af40",
-      "source": "BBC News",
-      "title": "In pictures: French landmarks damaged and destroyed by violent protesters",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8n7l0le11o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T15:21:03+00:00"
     },
     {
       "id": "89a1d8a4fc7551b76497",
