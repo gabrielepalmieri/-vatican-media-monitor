@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-10-19T09:26:23.820414+00:00",
+  "updated_at": "2026-10-19T10:03:23.965826+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-19T09:26:23.820414+00:00"
+      "checked_at": "2026-10-19T10:03:23.965826+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-19T09:26:23.820414+00:00"
+      "checked_at": "2026-10-19T10:03:23.965826+00:00"
     }
   },
   "items": [
+    {
+      "id": "680aa540e5e08391fe9f",
+      "source": "TGcom24",
+      "title": "I Gilet gialli annunciano \"secondo atto\" della protesta sabato prossimo in Francia",
+      "url": "https://www.tgcom24.mediaset.it/mondo/francia-scontri-ministro-interno-laurent-nunez-responsabilita-controllo-dimissioni_117866923-202602k.shtml",
+      "published": "2026-10-19T09:43:00+00:00"
+    },
+    {
+      "id": "8070a2eafa0f83ec786f",
+      "source": "BBC News",
+      "title": "Musk and Anthropic pledge public share giveaways",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T09:38:25+00:00"
+    },
+    {
+      "id": "d8b3c0ab938b85d1413d",
+      "source": "BBC News",
+      "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
+      "url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T09:24:33+00:00"
+    },
     {
       "id": "1be427ed855b10072175",
       "source": "TGcom24",
@@ -24,13 +45,6 @@
       "title": "Scontri a Milano, il bilancio: 32 arresti, 23 sono minori",
       "url": "https://www.tgcom24.mediaset.it/cronaca/milano-saccheggi-piazza-duomo-guerriglia_117870371-202602k.shtml",
       "published": "2026-10-19T08:45:00+00:00"
-    },
-    {
-      "id": "8070a2eafa0f83ec786f",
-      "source": "BBC News",
-      "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T08:31:32+00:00"
     },
     {
       "id": "87b51f02b99166703020",
@@ -285,20 +299,6 @@
       "published": "2026-10-18T15:31:00+00:00"
     },
     {
-      "id": "3f5826869e618cfae050",
-      "source": "TGcom24",
-      "title": "Milano, nuova guerriglia in Duomo: assaltati negozi, esplose bombe carta",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-tensioni-piazza-duomo_117835751-202602k.shtml",
-      "published": "2026-10-18T15:01:00+00:00"
-    },
-    {
-      "id": "964943e8027183897652",
-      "source": "BBC News",
-      "title": "Search for Amelia Earhart's plane resumes after stormy weather",
-      "url": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T13:47:07+00:00"
-    },
-    {
       "id": "212595efc1b723d71956",
       "source": "BBC News",
       "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
@@ -318,13 +318,6 @@
       "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
       "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-17T22:09:50+00:00"
-    },
-    {
-      "id": "a287502049726ae37189",
-      "source": "BBC News",
-      "title": "How day of protests unfolded as disorder breaks out across France",
-      "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T21:33:17+00:00"
     }
   ]
 }
