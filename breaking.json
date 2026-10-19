@@ -1,22 +1,43 @@
 {
-  "updated_at": "2026-10-19T10:03:23.965826+00:00",
+  "updated_at": "2026-10-19T10:36:58.489069+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-19T10:03:23.965826+00:00"
+      "checked_at": "2026-10-19T10:36:58.489069+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-19T10:03:23.965826+00:00"
+      "checked_at": "2026-10-19T10:36:58.489069+00:00"
     }
   },
   "items": [
+    {
+      "id": "35e65cbccf637d0390d9",
+      "source": "BBC News",
+      "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
+      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T10:33:12+00:00"
+    },
+    {
+      "id": "371b6db320ff964ac4cc",
+      "source": "TGcom24",
+      "title": "Yemen, media: 18 morti in attacco Houthi contro forze governative",
+      "url": "https://www.tgcom24.mediaset.it/mondo/yemen-houthi-attacco-morti-campo-addestramento-militare_117874937-202602k.shtml",
+      "published": "2026-10-19T10:09:00+00:00"
+    },
     {
       "id": "680aa540e5e08391fe9f",
       "source": "TGcom24",
       "title": "I Gilet gialli annunciano \"secondo atto\" della protesta sabato prossimo in Francia",
       "url": "https://www.tgcom24.mediaset.it/mondo/francia-scontri-ministro-interno-laurent-nunez-responsabilita-controllo-dimissioni_117866923-202602k.shtml",
       "published": "2026-10-19T09:43:00+00:00"
+    },
+    {
+      "id": "0042c604944cdd057b78",
+      "source": "BBC News",
+      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+      "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T09:40:44+00:00"
     },
     {
       "id": "8070a2eafa0f83ec786f",
@@ -31,6 +52,13 @@
       "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
       "url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19T09:24:33+00:00"
+    },
+    {
+      "id": "f69797545eba7a5505dc",
+      "source": "BBC News",
+      "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T09:11:42+00:00"
     },
     {
       "id": "1be427ed855b10072175",
@@ -159,13 +187,6 @@
       "published": "2026-10-19T04:01:00+00:00"
     },
     {
-      "id": "35e65cbccf637d0390d9",
-      "source": "BBC News",
-      "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
-      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T03:44:02+00:00"
-    },
-    {
       "id": "99f7c8081941e2cc390b",
       "source": "BBC News",
       "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
@@ -185,20 +206,6 @@
       "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
       "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-18T23:20:15+00:00"
-    },
-    {
-      "id": "374b016f4decb1bc82aa",
-      "source": "BBC News",
-      "title": "Major fire at Canada military base leaves four dead, dozens injured",
-      "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T23:06:09+00:00"
-    },
-    {
-      "id": "1842506f78f0b2e4cfd9",
-      "source": "BBC News",
-      "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
-      "url": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T22:22:51+00:00"
     },
     {
       "id": "ca32cf17e5111eda9915",
@@ -292,13 +299,6 @@
       "published": "2026-10-18T15:46:10+00:00"
     },
     {
-      "id": "171cecaa7380e58e9277",
-      "source": "TGcom24",
-      "title": "Scontri in piazza, Meloni convoca riunione sull'ordine pubblico",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-tensioni-piazza-duomo_117835751-202602k.shtml",
-      "published": "2026-10-18T15:31:00+00:00"
-    },
-    {
       "id": "212595efc1b723d71956",
       "source": "BBC News",
       "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
@@ -311,13 +311,6 @@
       "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
       "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-18T05:04:31+00:00"
-    },
-    {
-      "id": "4dec9edc9877378c3d71",
-      "source": "BBC News",
-      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-      "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T22:09:50+00:00"
     }
   ]
 }
