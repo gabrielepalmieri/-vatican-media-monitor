@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-19T14:08:01.341382+00:00",
+  "updated_at": "2026-10-19T14:40:11.071999+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-19T14:08:01.341382+00:00"
+      "checked_at": "2026-10-19T14:40:11.071999+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-19T14:08:01.341382+00:00"
+      "checked_at": "2026-10-19T14:40:11.071999+00:00"
     }
   },
   "items": [
+    {
+      "id": "28dc66e5214e763f2e7c",
+      "source": "TGcom24",
+      "title": "Milano, paura di nuovi disordini in centro: chiudono i negozi del lusso",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-saccheggi-piazza-duomo-guerriglia_117870371-202602k.shtml",
+      "published": "2026-10-19T14:23:00+00:00"
+    },
+    {
+      "id": "5a82ea71ed01c77c1b62",
+      "source": "BBC News",
+      "title": "Catalonia's former rebel president can return to Spain, court rules",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T14:06:53+00:00"
+    },
     {
       "id": "7f69a79076387a481380",
       "source": "TGcom24",
@@ -159,13 +173,6 @@
       "published": "2026-10-19T08:17:19+00:00"
     },
     {
-      "id": "822dcac1350895c460a2",
-      "source": "BBC News",
-      "title": "Katya Adler: France's government under pressure after weekend of widespread violence",
-      "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T07:46:54+00:00"
-    },
-    {
       "id": "eae38ff75fd2621b4ba8",
       "source": "TGcom24",
       "title": "Corte dei Conti: liste d'attesa criticità strutturale del sistema sanitario",
@@ -304,13 +311,6 @@
       "title": "Meloni: \"Valutiamo altri strumenti per chi sfrutta i cortei per seminare caos\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/milano-guerriglia-piazza-duomo_117835751-202602k.shtml",
       "published": "2026-10-18T20:01:00+00:00"
-    },
-    {
-      "id": "4320d621ba4d3715d75c",
-      "source": "TGcom24",
-      "title": "Ucraina, Zelensky attacca Trump: \"Spinge Kiev alla resa\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-18-ottobre_117815443-202602k.shtml",
-      "published": "2026-10-18T19:31:00+00:00"
     },
     {
       "id": "212595efc1b723d71956",
