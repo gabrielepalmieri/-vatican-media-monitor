@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-10-19T20:48:52.245396+00:00",
+  "updated_at": "2026-10-19T21:12:13.739924+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-19T20:48:52.245396+00:00"
+      "checked_at": "2026-10-19T21:12:13.739924+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-19T20:48:52.245396+00:00"
+      "checked_at": "2026-10-19T21:12:13.739924+00:00"
     }
   },
   "items": [
+    {
+      "id": "bb0c678f31f308a5c9f7",
+      "source": "BBC News",
+      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T20:49:00+00:00"
+    },
     {
       "id": "7662de745a847d346c5e",
       "source": "TGcom24",
       "title": "Trump a Tgcom24: \"Proteste italiane sono un problema di immigrazione\"",
       "url": "https://www.tgcom24.mediaset.it/2026/video/trump-a-tgcom24-sulle-proteste-italiane-sono-un-problema-di-immigrazione-_117901384-02k.shtml",
       "published": "2026-10-19T20:29:00+00:00"
-    },
-    {
-      "id": "bb0c678f31f308a5c9f7",
-      "source": "BBC News",
-      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T20:13:27+00:00"
     },
     {
       "id": "11cd3e5702db22c12f24",
@@ -238,7 +238,7 @@
     {
       "id": "371b6db320ff964ac4cc",
       "source": "TGcom24",
-      "title": "Yemen, media: 50 morti in attacco Houthi contro forze governative",
+      "title": "Yemen, media: 53 morti in attacco Houthi contro forze governative",
       "url": "https://www.tgcom24.mediaset.it/mondo/yemen-houthi-attacco-morti-campo-addestramento-militare_117874937-202602k.shtml",
       "published": "2026-10-19T10:09:00+00:00"
     },
