@@ -1,29 +1,36 @@
 {
-  "updated_at": "2026-10-19T19:51:52.617614+00:00",
+  "updated_at": "2026-10-19T20:16:14.378389+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-19T19:51:52.617614+00:00"
+      "checked_at": "2026-10-19T20:16:14.378389+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-19T19:51:52.617614+00:00"
+      "checked_at": "2026-10-19T20:16:14.378389+00:00"
     }
   },
   "items": [
+    {
+      "id": "bb0c678f31f308a5c9f7",
+      "source": "BBC News",
+      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T20:13:27+00:00"
+    },
+    {
+      "id": "11cd3e5702db22c12f24",
+      "source": "TGcom24",
+      "title": "Ucraina, Papa Leone telefona a Zelensky: appello per aiuti ai civili di Oleshky",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-19-ottobre_117864561-202602k.shtml",
+      "published": "2026-10-19T19:58:00+00:00"
+    },
     {
       "id": "bb2259270dcd0ee0d838",
       "source": "TGcom24",
       "title": "Netanyahu ringrazia Trump e poi afferma: \"Insieme elimineremo minaccia iraniana\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/netanyahu-trump-iran-houthi-yemen_117874937-202602k.shtml",
       "published": "2026-10-19T19:22:00+00:00"
-    },
-    {
-      "id": "bb0c678f31f308a5c9f7",
-      "source": "BBC News",
-      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T18:23:50+00:00"
     },
     {
       "id": "0042c604944cdd057b78",
@@ -304,13 +311,6 @@
       "title": "Scontri in Francia, ministro dell'Interno ammette: \"In alcune città abbiamo perso il controllo\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/francia-scontri-ministro-interno-laurent-nunez-responsabilita-controllo-dimissioni_117866923-202602k.shtml",
       "published": "2026-10-19T06:40:00+00:00"
-    },
-    {
-      "id": "0ffc32c2cbdd8e441ae0",
-      "source": "TGcom24",
-      "title": "Ucraina, Rubio: stop di Trump a sanzioni contro la Russia per favorire i negoziati",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-19ottobre_117864561-202602k.shtml",
-      "published": "2026-10-19T06:07:00+00:00"
     },
     {
       "id": "0ed08e5add3ac0310db8",
