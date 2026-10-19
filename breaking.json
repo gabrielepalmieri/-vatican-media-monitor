@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-19T17:15:37.537663+00:00",
+  "updated_at": "2026-10-19T17:45:51.958634+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-19T17:15:37.537663+00:00"
+      "checked_at": "2026-10-19T17:45:51.958634+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-19T17:15:37.537663+00:00"
+      "checked_at": "2026-10-19T17:45:51.958634+00:00"
     }
   },
   "items": [
+    {
+      "id": "35e65cbccf637d0390d9",
+      "source": "BBC News",
+      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T17:18:04+00:00"
+    },
+    {
+      "id": "b29bda4b8b19a33f418a",
+      "source": "TGcom24",
+      "title": "Francia, dalle 23 coprifuoco a Parigi: coinvolta anche Place de la République",
+      "url": "https://www.tgcom24.mediaset.it/mondo/francia-scontri-polizia-coprifuoco-parigi_117866923-202602k.shtml",
+      "published": "2026-10-19T17:18:00+00:00"
+    },
     {
       "id": "a414af273643fc4d2cd3",
       "source": "BBC News",
@@ -38,13 +52,6 @@
       "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
       "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19T16:20:51+00:00"
-    },
-    {
-      "id": "35e65cbccf637d0390d9",
-      "source": "BBC News",
-      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T16:16:55+00:00"
     },
     {
       "id": "4e6f91fb4c303961343f",
@@ -311,13 +318,6 @@
       "title": "Ucraina, media: Putin ha proposto vertice con Trump e Xi per negoziare un accordo",
       "url": "https://www.tgcom24.mediaset.it/cronaca/guerra-russia-ucraina-ultime-notizie-19ottobre_117864561-202602k.shtml",
       "published": "2026-10-19T04:24:00+00:00"
-    },
-    {
-      "id": "b12da39175bab4645ec7",
-      "source": "TGcom24",
-      "title": "Allarme bomba su volo Tel Aviv-Vienna, dirottato in Bulgaria",
-      "url": "https://www.tgcom24.mediaset.it/mondo/allarme-bomba-aereo-tel-aviv-vienna_117862833-202602k.shtml",
-      "published": "2026-10-19T04:01:00+00:00"
     },
     {
       "id": "99f7c8081941e2cc390b",
