@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-19T15:16:01.267193+00:00",
+  "updated_at": "2026-10-19T15:50:00.346920+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-19T15:16:01.267193+00:00"
+      "checked_at": "2026-10-19T15:50:00.346920+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-19T15:16:01.267193+00:00"
+      "checked_at": "2026-10-19T15:50:00.346920+00:00"
     }
   },
   "items": [
+    {
+      "id": "35e65cbccf637d0390d9",
+      "source": "BBC News",
+      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T15:40:28+00:00"
+    },
     {
       "id": "89a1d8a4fc7551b76497",
       "source": "TGcom24",
@@ -122,13 +129,6 @@
       "title": "Protesta autotrasportatori: bloccato varco al porto di Napoli",
       "url": "https://www.tgcom24.mediaset.it/cronaca/autotrasportatori-in-protesta-porti-e-strade-bloccate-dalla-campania-alla-sicilia_117872154-202602k.shtml",
       "published": "2026-10-19T10:36:00+00:00"
-    },
-    {
-      "id": "35e65cbccf637d0390d9",
-      "source": "BBC News",
-      "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
-      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T10:33:12+00:00"
     },
     {
       "id": "371b6db320ff964ac4cc",
