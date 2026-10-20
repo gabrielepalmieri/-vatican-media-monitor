@@ -1,22 +1,43 @@
 {
-  "updated_at": "2026-10-20T13:26:01.209340+00:00",
+  "updated_at": "2026-10-20T14:04:45.646670+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-20T13:26:01.209340+00:00"
+      "checked_at": "2026-10-20T14:04:45.646670+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-20T13:26:01.209340+00:00"
+      "checked_at": "2026-10-20T14:04:45.646670+00:00"
     }
   },
   "items": [
+    {
+      "id": "0f562a2a0a02f64bf887",
+      "source": "BBC News",
+      "title": "Zelensky and US envoys to hold Oslo talks as Rubio denies withholding intelligence",
+      "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T13:51:40+00:00"
+    },
+    {
+      "id": "361ddcb2ea9f13e5f8de",
+      "source": "TGcom24",
+      "title": "Il gip di Firenze archivia l'inchiesta sulla scomparsa della piccola Kata",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/piccola-kata-firenze-inchiesta-archiviata_117924694-202602k.shtml",
+      "published": "2026-10-20T13:46:00+00:00"
+    },
     {
       "id": "6a82e7d38dc99ea5fa94",
       "source": "BBC News",
       "title": "Kenya cult leader's children still being starved weeks before trial, son says",
       "url": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-20T13:23:32+00:00"
+    },
+    {
+      "id": "269d7b393f6cf66b537a",
+      "source": "TGcom24",
+      "title": "Scontri a Milano, il ministro Crosetto: \"Frutto della guerra ibrida\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-saccheggi-piazza-duomo-arresti_117915345-202602k.shtml",
+      "published": "2026-10-20T13:10:00+00:00"
     },
     {
       "id": "ff6b47572965a8df47ae",
@@ -38,13 +59,6 @@
       "title": "Ucraina, media: \"Trump vuole accordo con cessioni territoriali a Mosca\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-20-ottobre_117905205-202602k.shtml",
       "published": "2026-10-20T12:10:00+00:00"
-    },
-    {
-      "id": "0f562a2a0a02f64bf887",
-      "source": "BBC News",
-      "title": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
-      "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T12:08:41+00:00"
     },
     {
       "id": "415a44d47c4d93c96218",
@@ -311,13 +325,6 @@
       "title": "Netanyahu ringrazia Trump e poi afferma: \"Insieme elimineremo minaccia iraniana\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/netanyahu-trump-iran-houthi-yemen_117874937-202602k.shtml",
       "published": "2026-10-19T19:22:00+00:00"
-    },
-    {
-      "id": "7864cca6d46b089bfd2b",
-      "source": "TGcom24",
-      "title": "Salvini: \"Dalle parole ai fatti, 500 militari in più per difendere Milano\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-saccheggi-piazza-duomo-guerriglia_117870371-202602k.shtml",
-      "published": "2026-10-19T17:47:00+00:00"
     },
     {
       "id": "8d6690b5ce5850acecc7",
