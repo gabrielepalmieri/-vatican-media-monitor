@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-20T05:06:33.081835+00:00",
+  "updated_at": "2026-10-20T05:35:05.443615+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-20T05:06:33.081835+00:00"
+      "checked_at": "2026-10-20T05:35:05.443615+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-20T05:06:33.081835+00:00"
+      "checked_at": "2026-10-20T05:35:05.443615+00:00"
     }
   },
   "items": [
+    {
+      "id": "227f72b08e86f1c501b9",
+      "source": "TGcom24",
+      "title": "Caro gasolio, Trump annuncia 8 miliardi di dollari per gli agricoltori Usa",
+      "url": "https://www.tgcom24.mediaset.it/mondo/trump-europa-migranti_117905890-202602k.shtml",
+      "published": "2026-10-20T05:29:00+00:00"
+    },
+    {
+      "id": "500394fe9452d52d0265",
+      "source": "BBC News",
+      "title": "How is the US economy really doing under President Trump?",
+      "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T05:00:45+00:00"
+    },
     {
       "id": "9bd44029e07239a2d5e2",
       "source": "TGcom24",
@@ -33,11 +47,25 @@
       "published": "2026-10-20T04:00:00+00:00"
     },
     {
+      "id": "f813eb6092d855966439",
+      "source": "BBC News",
+      "title": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
+      "url": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T03:10:39+00:00"
+    },
+    {
       "id": "a414af273643fc4d2cd3",
       "source": "BBC News",
       "title": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
       "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-20T02:54:05+00:00"
+    },
+    {
+      "id": "f6b1c3da28c00d0dd0bd",
+      "source": "BBC News",
+      "title": "Seventh day of violent clashes between Albanian protesters and police",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T02:45:05+00:00"
     },
     {
       "id": "0042c604944cdd057b78",
@@ -145,6 +173,13 @@
       "published": "2026-10-19T19:58:00+00:00"
     },
     {
+      "id": "0328b0f8198056c67e86",
+      "source": "BBC News",
+      "title": "Mission blasts off for Mars to grab a piece of its moon",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T19:45:46+00:00"
+    },
+    {
       "id": "bb2259270dcd0ee0d838",
       "source": "TGcom24",
       "title": "Netanyahu ringrazia Trump e poi afferma: \"Insieme elimineremo minaccia iraniana\"",
@@ -189,7 +224,7 @@
     {
       "id": "4e6f91fb4c303961343f",
       "source": "BBC News",
-      "title": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
+      "title": "Obama blasts federal probe of Ilhan Omar as 'so appalling'",
       "url": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19T16:16:51+00:00"
     },
@@ -306,13 +341,6 @@
       "published": "2026-10-19T10:36:00+00:00"
     },
     {
-      "id": "371b6db320ff964ac4cc",
-      "source": "TGcom24",
-      "title": "Yemen, media: 53 morti in attacco Houthi contro forze governative",
-      "url": "https://www.tgcom24.mediaset.it/mondo/yemen-houthi-attacco-morti-campo-addestramento-militare_117874937-202602k.shtml",
-      "published": "2026-10-19T10:09:00+00:00"
-    },
-    {
       "id": "f69797545eba7a5505dc",
       "source": "BBC News",
       "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
@@ -346,13 +374,6 @@
       "title": "Funding shortages force World Food Programme to cut aid to Gaza",
       "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19T06:00:18+00:00"
-    },
-    {
-      "id": "99f7c8081941e2cc390b",
-      "source": "BBC News",
-      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
-      "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T00:06:25+00:00"
     },
     {
       "id": "985108373e5b05ae50da",
