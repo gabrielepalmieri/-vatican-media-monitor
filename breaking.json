@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-10-20T20:10:54.498160+00:00",
+  "updated_at": "2026-10-20T20:38:43.672236+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-20T20:10:54.498160+00:00"
+      "checked_at": "2026-10-20T20:38:43.672236+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-20T20:10:54.498160+00:00"
+      "checked_at": "2026-10-20T20:38:43.672236+00:00"
     }
   },
   "items": [
+    {
+      "id": "b385733e2d5018c1a765",
+      "source": "TGcom24",
+      "title": "Colloqui di Oslo: proposte su cessate fuoco, sicurezza e incontro Trump-Putin-Zelensky",
+      "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-cessate-fuoco-sicurezza-usa-russia_117936317-202602k.shtml",
+      "published": "2026-10-20T20:15:00+00:00"
+    },
+    {
+      "id": "910368d038d69becae53",
+      "source": "BBC News",
+      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T20:01:04+00:00"
+    },
+    {
+      "id": "f4ed65e431c2900ee34c",
+      "source": "BBC News",
+      "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
+      "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T20:00:57+00:00"
+    },
     {
       "id": "b276251a70cfcd1e7248",
       "source": "BBC News",
@@ -264,13 +285,6 @@
       "published": "2026-10-20T06:00:00+00:00"
     },
     {
-      "id": "227f72b08e86f1c501b9",
-      "source": "TGcom24",
-      "title": "Caro gasolio, Trump annuncia 8 miliardi di dollari per gli agricoltori Usa",
-      "url": "https://www.tgcom24.mediaset.it/mondo/trump-europa-migranti_117905890-202602k.shtml",
-      "published": "2026-10-20T05:29:00+00:00"
-    },
-    {
       "id": "500394fe9452d52d0265",
       "source": "BBC News",
       "title": "How is the US economy really doing under President Trump?",
@@ -383,32 +397,11 @@
       "published": "2026-10-19T14:13:18+00:00"
     },
     {
-      "id": "5a82ea71ed01c77c1b62",
-      "source": "BBC News",
-      "title": "Catalonia's former rebel president can return to Spain, court rules",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T14:06:53+00:00"
-    },
-    {
       "id": "433fb809e3094b5063a2",
       "source": "BBC News",
       "title": "Exiled critic of Rwandan president found beheaded",
       "url": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19T13:42:41+00:00"
-    },
-    {
-      "id": "400714c0c6e150633cd5",
-      "source": "BBC News",
-      "title": "Personal attacks fire up debate before Brazil's run-off vote",
-      "url": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T11:41:24+00:00"
-    },
-    {
-      "id": "f69797545eba7a5505dc",
-      "source": "BBC News",
-      "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
-      "url": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T09:11:42+00:00"
     }
   ]
 }
