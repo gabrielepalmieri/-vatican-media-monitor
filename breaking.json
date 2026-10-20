@@ -1,16 +1,58 @@
 {
-  "updated_at": "2026-10-20T11:14:08.113895+00:00",
+  "updated_at": "2026-10-20T11:48:20.193469+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-20T11:14:08.113895+00:00"
+      "checked_at": "2026-10-20T11:48:20.193469+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-20T11:14:08.113895+00:00"
+      "checked_at": "2026-10-20T11:48:20.193469+00:00"
     }
   },
   "items": [
+    {
+      "id": "ff6b47572965a8df47ae",
+      "source": "BBC News",
+      "title": "Suspect arrested after historic town hall set alight - French media",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T11:47:39+00:00"
+    },
+    {
+      "id": "f2b9ee5773b4e6e50e42",
+      "source": "TGcom24",
+      "title": "Arabia Saudita, Londra invia caccia Raf contro i raid degli Houthi",
+      "url": "https://www.tgcom24.mediaset.it/mondo/regno-unito-invia-caccia-arabia-saudita-contro-houthi_117920449-202602k.shtml",
+      "published": "2026-10-20T11:45:00+00:00"
+    },
+    {
+      "id": "0f562a2a0a02f64bf887",
+      "source": "BBC News",
+      "title": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
+      "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T11:30:59+00:00"
+    },
+    {
+      "id": "cebd41e5354c1277adf4",
+      "source": "BBC News",
+      "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+      "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T11:25:35+00:00"
+    },
+    {
+      "id": "18063e909229a9225ee0",
+      "source": "TGcom24",
+      "title": "Brescia, operaio resta schiacciato in fabbrica e muore in ospedale",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/brescia-operaio-resta-schiacciato-in-fabbrica-e-muore-in-ospedale_117920099-202602k.shtml",
+      "published": "2026-10-20T11:15:00+00:00"
+    },
+    {
+      "id": "55ce0013c64e14d7d6ef",
+      "source": "BBC News",
+      "title": "Residents warned not to drink tap water after hundreds fall sick near South Africa capital",
+      "url": "https://www.bbc.co.uk/news/articles/cvrly550780po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T11:09:09+00:00"
+    },
     {
       "id": "e54680ccf5e5a032fe2e",
       "source": "TGcom24",
@@ -38,13 +80,6 @@
       "title": "Mattarella: \"Welfare universale presidiato dalla Costituzione, non è confutabile\"",
       "url": "https://www.tgcom24.mediaset.it/politica/mattarella-welfare-universale-presidiato-dalla-costituzione-non-e-confutabile-_117913720-202602k.shtml",
       "published": "2026-10-20T09:01:00+00:00"
-    },
-    {
-      "id": "ff6b47572965a8df47ae",
-      "source": "BBC News",
-      "title": "Suspect arrested after historic town hall set alight during disorder - French media",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T08:58:26+00:00"
     },
     {
       "id": "079391a31def2b0ec313",
@@ -215,13 +250,6 @@
       "published": "2026-10-19T21:02:33+00:00"
     },
     {
-      "id": "bb0c678f31f308a5c9f7",
-      "source": "BBC News",
-      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T20:49:00+00:00"
-    },
-    {
       "id": "2405d7891caf6e4567a8",
       "source": "TGcom24",
       "title": "Trump a Tgcom24: \"Proteste italiane sono un problema di immigrazione\"",
@@ -306,20 +334,6 @@
       "published": "2026-10-19T16:16:51+00:00"
     },
     {
-      "id": "ca008ff059c64aa1f09e",
-      "source": "TGcom24",
-      "title": "Guerriglia a Milano, la procura: \"Azioni distruttive di rara violenza\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-saccheggi-piazza-duomo-guerriglia_117870371-202602k.shtml",
-      "published": "2026-10-19T15:59:00+00:00"
-    },
-    {
-      "id": "7a623bcc1f05929ec181",
-      "source": "TGcom24",
-      "title": "Allarmi bomba nelle scuole italiane: oltre 50 plessi evacuati dopo email anonime",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/allarme-bomba-scuola-verona-padova-arezzo-lucca-chieti_117886678-202602k.shtml",
-      "published": "2026-10-19T15:31:00+00:00"
-    },
-    {
       "id": "f004e8c1381638269237",
       "source": "BBC News",
       "title": "US airman dies as daredevil descent goes wrong before Texas college football game",
@@ -388,13 +402,6 @@
       "title": "Funding shortages force World Food Programme to cut aid to Gaza",
       "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19T06:00:18+00:00"
-    },
-    {
-      "id": "985108373e5b05ae50da",
-      "source": "BBC News",
-      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T23:20:15+00:00"
     }
   ]
 }
