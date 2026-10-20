@@ -1,29 +1,43 @@
 {
-  "updated_at": "2026-10-20T12:12:23.036507+00:00",
+  "updated_at": "2026-10-20T12:48:33.562167+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-20T12:12:23.036507+00:00"
+      "checked_at": "2026-10-20T12:48:33.562167+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-20T12:12:23.036507+00:00"
+      "checked_at": "2026-10-20T12:48:33.562167+00:00"
     }
   },
   "items": [
+    {
+      "id": "ff6b47572965a8df47ae",
+      "source": "BBC News",
+      "title": "Suspect arrested after historic town hall set alight - French media",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T12:45:43+00:00"
+    },
+    {
+      "id": "3e219c9d2998b81c348a",
+      "source": "TGcom24",
+      "title": "Caserta, accoltella un coetaneo a scuola dopo una lite: arrestato 14enne",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/castel-volturno-caserta-14enne-accoltella-coetaneo_117921247-202602k.shtml",
+      "published": "2026-10-20T12:31:00+00:00"
+    },
+    {
+      "id": "109871ca7faf61869f18",
+      "source": "TGcom24",
+      "title": "Ucraina, media: \"Trump vuole accordo con cessioni territoriali a Mosca\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-20-ottobre_117905205-202602k.shtml",
+      "published": "2026-10-20T12:10:00+00:00"
+    },
     {
       "id": "0f562a2a0a02f64bf887",
       "source": "BBC News",
       "title": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
       "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-20T12:08:41+00:00"
-    },
-    {
-      "id": "ff6b47572965a8df47ae",
-      "source": "BBC News",
-      "title": "Suspect arrested after historic town hall set alight - French media",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T11:47:39+00:00"
     },
     {
       "id": "f2b9ee5773b4e6e50e42",
@@ -292,25 +306,11 @@
       "published": "2026-10-19T17:18:04+00:00"
     },
     {
-      "id": "b29bda4b8b19a33f418a",
-      "source": "TGcom24",
-      "title": "Francia, dalle 23 coprifuoco a Parigi: coinvolta anche Place de la République",
-      "url": "https://www.tgcom24.mediaset.it/mondo/francia-scontri-polizia-coprifuoco-parigi_117866923-202602k.shtml",
-      "published": "2026-10-19T17:18:00+00:00"
-    },
-    {
       "id": "8d6690b5ce5850acecc7",
       "source": "BBC News",
       "title": "Vinted blocks French looters listing stolen goods for sale",
       "url": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19T16:46:35+00:00"
-    },
-    {
-      "id": "8a2625265f7ae2dcfb7e",
-      "source": "TGcom24",
-      "title": "Mattarella sulla guerriglia: \"Violenze inaccettabili, solidarietà a forze dell'ordine\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-saccheggi-piazza-duomo-guerriglia_117870371-202602k.shtml",
-      "published": "2026-10-19T16:29:00+00:00"
     },
     {
       "id": "fd12f76da1f04dcf7a07",
