@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-20T10:18:46.751506+00:00",
+  "updated_at": "2026-10-20T10:49:38.689316+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-20T10:18:46.751506+00:00"
+      "checked_at": "2026-10-20T10:49:38.689316+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-20T10:18:46.751506+00:00"
+      "checked_at": "2026-10-20T10:49:38.689316+00:00"
     }
   },
   "items": [
+    {
+      "id": "0736f50cd5b7798d4226",
+      "source": "TGcom24",
+      "title": "Autotrasportatori, Rixi: \"No a blocchi sine die, subito disponibili 480 milioni\"",
+      "url": "https://www.tgcom24.mediaset.it/politica/autotrasportatori-salvini_117911069-202602k.shtml",
+      "published": "2026-10-20T10:18:00+00:00"
+    },
     {
       "id": "04e0c84f3cf1919a42c2",
       "source": "TGcom24",
@@ -31,6 +38,13 @@
       "title": "Suspect arrested after historic town hall set alight during disorder - French media",
       "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-20T08:58:26+00:00"
+    },
+    {
+      "id": "079391a31def2b0ec313",
+      "source": "BBC News",
+      "title": "Why Israeli Gen Z voters are drawn to the far right",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T08:53:06+00:00"
     },
     {
       "id": "f6b57524f7fd580a7526",
@@ -304,13 +318,6 @@
       "title": "Allerta meteo per i temporali: scuole chiuse a Genova e altri comuni liguri",
       "url": "https://www.tgcom24.mediaset.it/cronaca/maltempo-genova-scuole-chiuse-temporali-toscana-allerta_117886164-202602k.shtml",
       "published": "2026-10-19T14:57:00+00:00"
-    },
-    {
-      "id": "28dc66e5214e763f2e7c",
-      "source": "TGcom24",
-      "title": "Milano, paura di nuovi disordini in centro: chiudono i negozi del lusso",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-saccheggi-piazza-duomo-guerriglia_117870371-202602k.shtml",
-      "published": "2026-10-19T14:23:00+00:00"
     },
     {
       "id": "f004e8c1381638269237",
