@@ -96,8 +96,15 @@
     function criticalSignal(item){
       if(item.kind!=='news')return null;
       const title=String(item.title||'').toLowerCase().replace(/\bpap[àá](?![\p{L}])/gu,'genitore').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
-      const target=/(?:\b(?:papa|pope|pape|papst|pontifice|pontiff|prevost|leone\s*xiv|leon\s*xiv|leo\s*xiv|vatican\w*|vatikan\w*|santa\s+sede|holy\s+see|saint[-\s]siege|curia\s+romana|roman\s+curia|chiesa\s+cattolica|iglesia\s+catolica|catholic\s+church|eglise\s+catholique)\b)/;
+      const target=/(?:\b(?:papa|pope|pape|papst|pontifice|pontiff|prevost|leone\s*xiv|leon\s*xiv|leo\s*xiv|vatican\w*|vatikan\w*|santa\s+sede|holy\s+see|saint[-\s]siege|curia\s+romana|roman\s+curia|parolin|segretari[oa]\s+di\s+stato|secretar(?:y\s+of\s+state|io\s+de\s+estado)|dicaster\w*|pontificia\s+accademia|pontifical\s+academy|chiesa\s+cattolica|iglesia\s+catolica|catholic\s+church|eglise\s+catholique)\b)/;
       if(!target.test(title))return null;
+      const role=/(?:suor|suora|sister|cardinal\w*|vescov\w*|bishop\w*|monsignor\w*|dicaster\w*|pontific\w*\s+(?:accademia|academy)|segretari[oa]\s+di\s+stato|parolin|papa|pope|pontifice|pontiff)/;
+      const request=title.match(new RegExp('\\b(?:chied\\w*|invoc\\w*|sollecit\\w*|domand\\w*|pide\\w*|exig\\w*|reclam\\w*|calls?\\s+for|demands?|urges?)\\b.{0,55}\\b(?:revoc\\w*|rimozion\\w*|dimission\\w*|destitu\\w*|removal|resign\\w*|dismiss\\w*)\\b.{0,90}\\b'+role.source+'\\b'));
+      if(request)return{type:'explicit',label:'Critica esplicita',evidence:request[0].slice(0,160)};
+      const scrutinyPhrase=/(?:bajo\s+la\s+lupa|under\s+scrutiny|nell.occhio\s+del\s+ciclone|sotto\s+la\s+lente|polverone|parole\s+inopportune|uscita\s+infelice)/;
+      const leadership=title.match(new RegExp(target.source+'.{0,55}\\b'+scrutinyPhrase.source+'\\b'))||title.match(new RegExp('\\b'+scrutinyPhrase.source+'\\b.{0,55}'+target.source));
+      if(leadership)return{type:'review',label:'Da verificare',evidence:leadership[0].slice(0,160)};
+
       if(/\b(?:moment de silence|minute de silence|silenzio e preghiera|prayerful silence|priest accused.{0,55}pope)\b/.test(title))return null;
       const criticism=/(?:contro|against|contra|gegen|critic\w*|critiqu\w*|kritisi\w*|attacc\w*|attack\w*|attaque\w*|accus\w*|acus\w*|denunc\w*|denonc\w*|slam\w*|blast\w*|rebuk\w*|reproch\w*|cuestion\w*|questionn\w*|arremet\w*|contest\w*|sfid\w*)/.source;
       const direct=new RegExp('\\b'+criticism+'\\b.{0,35}'+target.source);
