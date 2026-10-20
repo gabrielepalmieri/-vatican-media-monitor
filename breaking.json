@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-20T17:41:28.783027+00:00",
+  "updated_at": "2026-10-20T18:05:12.907539+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-20T17:41:28.783027+00:00"
+      "checked_at": "2026-10-20T18:05:12.907539+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-20T17:41:28.783027+00:00"
+      "checked_at": "2026-10-20T18:05:12.907539+00:00"
     }
   },
   "items": [
+    {
+      "id": "89eea0ada5020a10439d",
+      "source": "TGcom24",
+      "title": "Nordio: \"Fino a 12 anni per chi usa social per organizzare gruppi in piazza\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-saccheggi-piazza-duomo-arresti_117915345-202602k.shtml",
+      "published": "2026-10-20T17:47:00+00:00"
+    },
     {
       "id": "2289abf940d36f88c78d",
       "source": "TGcom24",
@@ -45,13 +52,6 @@
       "title": "Scontri a Milano, il gip: \"Rischio altissimo che accada di nuovo\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/milano-saccheggi-piazza-duomo-arresti_117915345-202602k.shtml",
       "published": "2026-10-20T16:29:00+00:00"
-    },
-    {
-      "id": "0f562a2a0a02f64bf887",
-      "source": "BBC News",
-      "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
-      "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T16:11:56+00:00"
     },
     {
       "id": "c3b6a2b249e46ae08185",
@@ -271,13 +271,6 @@
       "published": "2026-10-20T04:30:00+00:00"
     },
     {
-      "id": "35fe3c1c5a8e90858816",
-      "source": "TGcom24",
-      "title": "Zelensky accusa gli Usa: \"Ritarda consegna missili già pagati da Europa\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/zelensky-accusa-gli-usa-ritarda-consegna-missili-gia-pagati-da-europa-_117905205-202602k.shtml",
-      "published": "2026-10-20T04:00:00+00:00"
-    },
-    {
       "id": "f813eb6092d855966439",
       "source": "BBC News",
       "title": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
@@ -423,13 +416,6 @@
       "title": "Watch: Shops looted and restaurants gutted in Paris riots",
       "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19T06:40:35+00:00"
-    },
-    {
-      "id": "0ed08e5add3ac0310db8",
-      "source": "BBC News",
-      "title": "Funding shortages force World Food Programme to cut aid to Gaza",
-      "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T06:00:18+00:00"
     }
   ]
 }
