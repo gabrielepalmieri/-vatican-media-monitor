@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-20T15:11:32.186288+00:00",
+  "updated_at": "2026-10-20T15:38:51.675183+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-20T15:11:32.186288+00:00"
+      "checked_at": "2026-10-20T15:38:51.675183+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-20T15:11:32.186288+00:00"
+      "checked_at": "2026-10-20T15:38:51.675183+00:00"
     }
   },
   "items": [
+    {
+      "id": "ff6b47572965a8df47ae",
+      "source": "BBC News",
+      "title": "Suspect arrested after historic town hall set alight - French media",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T15:31:51+00:00"
+    },
     {
       "id": "11d77806280803ad3ad9",
       "source": "TGcom24",
@@ -59,13 +66,6 @@
       "title": "Scontri a Milano, il ministro Crosetto: \"Frutto della guerra ibrida\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/milano-saccheggi-piazza-duomo-arresti_117915345-202602k.shtml",
       "published": "2026-10-20T13:10:00+00:00"
-    },
-    {
-      "id": "ff6b47572965a8df47ae",
-      "source": "BBC News",
-      "title": "Suspect arrested after historic town hall set alight - French media",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T12:45:43+00:00"
     },
     {
       "id": "3e219c9d2998b81c348a",
