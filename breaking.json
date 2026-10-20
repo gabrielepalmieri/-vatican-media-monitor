@@ -1,22 +1,57 @@
 {
-  "updated_at": "2026-10-20T15:38:51.675183+00:00",
+  "updated_at": "2026-10-20T16:12:04.007993+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-20T15:38:51.675183+00:00"
+      "checked_at": "2026-10-20T16:12:04.007993+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-20T15:38:51.675183+00:00"
+      "checked_at": "2026-10-20T16:12:04.007993+00:00"
     }
   },
   "items": [
+    {
+      "id": "22f4be79a83dfd4c0bc2",
+      "source": "BBC News",
+      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+      "url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T16:09:54+00:00"
+    },
     {
       "id": "ff6b47572965a8df47ae",
       "source": "BBC News",
       "title": "Suspect arrested after historic town hall set alight - French media",
       "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T15:31:51+00:00"
+      "published": "2026-10-20T16:06:39+00:00"
+    },
+    {
+      "id": "6c6cc1660bfe70df78e3",
+      "source": "BBC News",
+      "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
+      "url": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T15:58:57+00:00"
+    },
+    {
+      "id": "470465922e92f186b7f1",
+      "source": "TGcom24",
+      "title": "Il Comitato autotrasportatori Sicilia revoca il fermo dei mezzi",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/sicilia-comitato-autotrasportatori-revoca-fermo_117928881-202602k.shtml",
+      "published": "2026-10-20T15:47:00+00:00"
+    },
+    {
+      "id": "9052b980995e3333a5c2",
+      "source": "BBC News",
+      "title": "Alberta votes overwhelmingly to remain part of Canada",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T15:45:24+00:00"
+    },
+    {
+      "id": "0f562a2a0a02f64bf887",
+      "source": "BBC News",
+      "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
+      "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T15:39:04+00:00"
     },
     {
       "id": "11d77806280803ad3ad9",
@@ -26,13 +61,6 @@
       "published": "2026-10-20T15:04:00+00:00"
     },
     {
-      "id": "22f4be79a83dfd4c0bc2",
-      "source": "BBC News",
-      "title": "Sudan army drones hit mourners and fuel market killing more than 200 people, sources say",
-      "url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T14:24:19+00:00"
-    },
-    {
       "id": "fd12f76da1f04dcf7a07",
       "source": "BBC News",
       "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
@@ -40,18 +68,18 @@
       "published": "2026-10-20T14:09:42+00:00"
     },
     {
-      "id": "0f562a2a0a02f64bf887",
-      "source": "BBC News",
-      "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
-      "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T13:51:40+00:00"
-    },
-    {
       "id": "361ddcb2ea9f13e5f8de",
       "source": "TGcom24",
       "title": "Il gip di Firenze archivia l'inchiesta sulla scomparsa della piccola Kata",
       "url": "https://www.tgcom24.mediaset.it/cronaca/piccola-kata-firenze-inchiesta-archiviata_117924694-202602k.shtml",
       "published": "2026-10-20T13:46:00+00:00"
+    },
+    {
+      "id": "4ce34d7a4ba38200d8be",
+      "source": "BBC News",
+      "title": "Huge setback for Alberta's separatist movement after decisive defeat",
+      "url": "https://www.bbc.co.uk/news/articles/cjly016320q1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T13:39:11+00:00"
     },
     {
       "id": "6a82e7d38dc99ea5fa94",
@@ -318,13 +346,6 @@
       "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
       "url": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19T20:00:43+00:00"
-    },
-    {
-      "id": "11cd3e5702db22c12f24",
-      "source": "TGcom24",
-      "title": "Ucraina, Papa Leone telefona a Zelensky: appello per aiuti ai civili di Oleshky",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-19-ottobre_117864561-202602k.shtml",
-      "published": "2026-10-19T19:58:00+00:00"
     },
     {
       "id": "0328b0f8198056c67e86",
