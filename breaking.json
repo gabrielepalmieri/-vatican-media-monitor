@@ -1,27 +1,34 @@
 {
-  "updated_at": "2026-10-20T18:05:12.907539+00:00",
+  "updated_at": "2026-10-20T18:38:47.962506+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-20T18:05:12.907539+00:00"
+      "checked_at": "2026-10-20T18:38:47.962506+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-20T18:05:12.907539+00:00"
+      "checked_at": "2026-10-20T18:38:47.962506+00:00"
     }
   },
   "items": [
     {
+      "id": "1466c35cd807d4565c3b",
+      "source": "TGcom24",
+      "title": "Protesta degli autotrasportatori, in Calabria tir fermi fino al 27 ottobre",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/fedralog-calabria-tir-fermi-27-ottobre_117935815-202602k.shtml",
+      "published": "2026-10-20T18:27:00+00:00"
+    },
+    {
       "id": "89eea0ada5020a10439d",
       "source": "TGcom24",
-      "title": "Nordio: \"Fino a 12 anni per chi usa social per organizzare gruppi in piazza\"",
+      "title": "Dl Sicurezza, Nordio:  fino a 12 anni a chi usa social per organizzare gruppi in piazza",
       "url": "https://www.tgcom24.mediaset.it/cronaca/milano-saccheggi-piazza-duomo-arresti_117915345-202602k.shtml",
       "published": "2026-10-20T17:47:00+00:00"
     },
     {
       "id": "2289abf940d36f88c78d",
       "source": "TGcom24",
-      "title": "Cortei, Piantedosi: \"Se il minore non è imputabile, sanzione a genitori\"",
+      "title": "Dl Sicurezza, Piantedosi:  se il minore non è imputabile, sanzione a genitori",
       "url": "https://www.tgcom24.mediaset.it/cronaca/milano-saccheggi-piazza-duomo-arresti_117915345-202602k.shtml",
       "published": "2026-10-20T17:31:00+00:00"
     },
@@ -35,7 +42,7 @@
     {
       "id": "74878c656d85425ec13b",
       "source": "TGcom24",
-      "title": "Sicurezza, Meloni: \"Nasce nuovo reato di partecipazione violenta a una manifestazione\"",
+      "title": "Dl Sicurezza, Meloni: nasce reato di partecipazione violenta a manifestazione",
       "url": "https://www.tgcom24.mediaset.it/cronaca/milano-saccheggi-piazza-duomo-arresti_117915345-202602k.shtml",
       "published": "2026-10-20T17:09:00+00:00"
     },
@@ -262,13 +269,6 @@
       "title": "Axios: \"Il segretario alla Difesa Usa ha incontrato Netanyahu in Israele\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/axios-il-segretario-alla-difesa-usa-ha-incontrato-netanyahu-in-israele-_117905892-202602k.shtml",
       "published": "2026-10-20T05:00:00+00:00"
-    },
-    {
-      "id": "63e98d94f7a539cadd26",
-      "source": "TGcom24",
-      "title": "Trump: \"Se l'Europa soccombe ai migranti noi ce ne andremo\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/trump-europa-migranti_117905890-202602k.shtml",
-      "published": "2026-10-20T04:30:00+00:00"
     },
     {
       "id": "f813eb6092d855966439",
