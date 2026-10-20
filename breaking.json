@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-20T19:13:50.611728+00:00",
+  "updated_at": "2026-10-20T19:48:17.550506+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-20T19:13:50.611728+00:00"
+      "checked_at": "2026-10-20T19:48:17.550506+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-20T19:13:50.611728+00:00"
+      "checked_at": "2026-10-20T19:48:17.550506+00:00"
     }
   },
   "items": [
+    {
+      "id": "b276251a70cfcd1e7248",
+      "source": "BBC News",
+      "title": "Trump sued over Canadian tariffs in latest legal challenge",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T19:30:05+00:00"
+    },
+    {
+      "id": "5df8317e4b7710dff490",
+      "source": "TGcom24",
+      "title": "Ex Ilva, via libera della Camera: il decreto diventa legge",
+      "url": "https://www.tgcom24.mediaset.it/politica/ex-ilva-camera-legge_117936153-202602k.shtml",
+      "published": "2026-10-20T19:30:00+00:00"
+    },
     {
       "id": "10c80edaff54cb0107ed",
       "source": "TGcom24",
@@ -257,13 +271,6 @@
       "published": "2026-10-20T06:00:00+00:00"
     },
     {
-      "id": "227f72b08e86f1c501b9",
-      "source": "TGcom24",
-      "title": "Caro gasolio, Trump annuncia 8 miliardi di dollari per gli agricoltori Usa",
-      "url": "https://www.tgcom24.mediaset.it/mondo/trump-europa-migranti_117905890-202602k.shtml",
-      "published": "2026-10-20T05:29:00+00:00"
-    },
-    {
       "id": "500394fe9452d52d0265",
       "source": "BBC News",
       "title": "How is the US economy really doing under President Trump?",
@@ -395,13 +402,6 @@
       "title": "Personal attacks fire up debate before Brazil's run-off vote",
       "url": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19T11:41:24+00:00"
-    },
-    {
-      "id": "028efab24742722d08dd",
-      "source": "BBC News",
-      "title": "Italy plans tougher security measures after violent protests",
-      "url": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T11:23:36+00:00"
     },
     {
       "id": "f69797545eba7a5505dc",
