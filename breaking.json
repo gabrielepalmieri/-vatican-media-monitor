@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-20T18:38:47.962506+00:00",
+  "updated_at": "2026-10-20T19:13:50.611728+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-20T18:38:47.962506+00:00"
+      "checked_at": "2026-10-20T19:13:50.611728+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-20T18:38:47.962506+00:00"
+      "checked_at": "2026-10-20T19:13:50.611728+00:00"
     }
   },
   "items": [
+    {
+      "id": "10c80edaff54cb0107ed",
+      "source": "TGcom24",
+      "title": "Scontri a Milano, comunità o domiciliari per 11 minorenni",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-saccheggi-piazza-duomo-arresti_117915345-202602k.shtml",
+      "published": "2026-10-20T19:00:00+00:00"
+    },
     {
       "id": "1466c35cd807d4565c3b",
       "source": "TGcom24",
@@ -264,13 +271,6 @@
       "published": "2026-10-20T05:00:45+00:00"
     },
     {
-      "id": "9bd44029e07239a2d5e2",
-      "source": "TGcom24",
-      "title": "Axios: \"Il segretario alla Difesa Usa ha incontrato Netanyahu in Israele\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/axios-il-segretario-alla-difesa-usa-ha-incontrato-netanyahu-in-israele-_117905892-202602k.shtml",
-      "published": "2026-10-20T05:00:00+00:00"
-    },
-    {
       "id": "f813eb6092d855966439",
       "source": "BBC News",
       "title": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
@@ -409,13 +409,6 @@
       "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
       "url": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19T09:11:42+00:00"
-    },
-    {
-      "id": "299bc7029093beff4a8e",
-      "source": "BBC News",
-      "title": "Watch: Shops looted and restaurants gutted in Paris riots",
-      "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T06:40:35+00:00"
     }
   ]
 }
