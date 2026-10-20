@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-20T05:37:11.704134+00:00",
+  "updated_at": "2026-10-20T22:35:38.475047+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-10-20T05:37:11.704134+00:00",
+  "un_verified_at": "2026-10-20T22:35:38.475047+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,21 +1918,6 @@
     }
   ],
   "days": {
-    "2026-10-19": {
-      "saints": [
-        {
-          "title": "Ss. Giovanni de Brébeuf e Isacco Jogues, sacerdoti, e Compagni, gesuiti, martiri canadesi",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/19/ss--giovanni-de-brebeuf-e-isacco-jogues--sacerdoti--e-compagni--.html"
-        },
-        {
-          "title": "San Paolo della Croce, sacerdote, fondatore dei Passionisti",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/19/san-paolo-della-croce--sacerdote--fondatore-dei-passionisti.html"
-        }
-      ],
-      "un": [],
-      "un_available": true,
-      "holy_see": []
-    },
     "2026-10-20": {
       "saints": [
         {
@@ -2580,6 +2565,34 @@
         {
           "title": "Giornata mondiale dei gemelli siamesi",
           "url": "https://www.un.org/en/observances/conjoined-twins-day"
+        }
+      ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-11-25": {
+      "saints": [
+        {
+          "title": "Beati Luigi e Maria Beltrame Quattrocchi, coniugi",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/25/beati-luigi-e-maria-beltrame-quattrocchi--coniugi.html"
+        },
+        {
+          "title": "San Mosè, martire a Roma",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/25.html"
+        },
+        {
+          "title": "San Pietro d'Alessandria, vescovo e martire",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/25.html"
+        },
+        {
+          "title": "Santa Caterina d'Alessandria, vergine e martire",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/25/santa-caterina-d-alessandria--vergine-e-martire.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata internazionale per l’eliminazione della violenza contro le donne",
+          "url": "https://www.un.org/en/observances/ending-violence-against-women-day"
         }
       ],
       "un_available": true,
