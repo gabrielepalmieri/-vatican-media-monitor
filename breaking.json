@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-20T14:37:38.757158+00:00",
+  "updated_at": "2026-10-20T15:11:32.186288+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-20T14:37:38.757158+00:00"
+      "checked_at": "2026-10-20T15:11:32.186288+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-20T14:37:38.757158+00:00"
+      "checked_at": "2026-10-20T15:11:32.186288+00:00"
     }
   },
   "items": [
+    {
+      "id": "11d77806280803ad3ad9",
+      "source": "TGcom24",
+      "title": "Controllore del bus aggredito da studenti nel Vicentino, testa spinta sull'asfalto",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/controllore-bus-aggressione-studenti-schio_117925424-202602k.shtml",
+      "published": "2026-10-20T15:04:00+00:00"
+    },
     {
       "id": "22f4be79a83dfd4c0bc2",
       "source": "BBC News",
@@ -28,7 +35,7 @@
     {
       "id": "0f562a2a0a02f64bf887",
       "source": "BBC News",
-      "title": "Zelensky and US envoys to hold Oslo talks as Rubio denies withholding intelligence",
+      "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
       "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-20T13:51:40+00:00"
     },
@@ -325,13 +332,6 @@
       "title": "Mission blasts off for Mars to grab a piece of its moon",
       "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19T19:45:46+00:00"
-    },
-    {
-      "id": "bb2259270dcd0ee0d838",
-      "source": "TGcom24",
-      "title": "Netanyahu ringrazia Trump e poi afferma: \"Insieme elimineremo minaccia iraniana\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/netanyahu-trump-iran-houthi-yemen_117874937-202602k.shtml",
-      "published": "2026-10-19T19:22:00+00:00"
     },
     {
       "id": "8d6690b5ce5850acecc7",
