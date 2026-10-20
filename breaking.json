@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-20T06:06:04.908820+00:00",
+  "updated_at": "2026-10-20T06:41:15.915904+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-20T06:06:04.908820+00:00"
+      "checked_at": "2026-10-20T06:41:15.915904+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-20T06:06:04.908820+00:00"
+      "checked_at": "2026-10-20T06:41:15.915904+00:00"
     }
   },
   "items": [
+    {
+      "id": "cefc108e664c84ae506b",
+      "source": "TGcom24",
+      "title": "Furto alla Reggia di Venaria Reale, rubati orologi per 150mila euro",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/reggia-venaria-torino-furto-orologi-antichi_117906643-202602k.shtml",
+      "published": "2026-10-20T06:35:00+00:00"
+    },
     {
       "id": "20936eb0b6edfe2d54b3",
       "source": "TGcom24",
@@ -332,13 +339,6 @@
       "title": "Italy plans tougher security measures after violent protests",
       "url": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19T11:23:36+00:00"
-    },
-    {
-      "id": "da3650d8fe075b4e386f",
-      "source": "TGcom24",
-      "title": "Scontri in Francia, il premier Lecornu ordina \"coprifuoco localizzati\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/francia-scontri-ministro-interno-laurent-nunez-responsabilita-controllo-dimissioni_117866923-202602k.shtml",
-      "published": "2026-10-19T11:07:00+00:00"
     },
     {
       "id": "f69797545eba7a5505dc",
