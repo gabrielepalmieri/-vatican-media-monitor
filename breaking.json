@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-21T10:00:13.004251+00:00",
+  "updated_at": "2026-10-21T10:26:04.187884+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-21T10:00:13.004251+00:00"
+      "checked_at": "2026-10-21T10:26:04.187884+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-21T10:00:13.004251+00:00"
+      "checked_at": "2026-10-21T10:26:04.187884+00:00"
     }
   },
   "items": [
+    {
+      "id": "d78b7614abf90d89cf91",
+      "source": "TGcom24",
+      "title": "Proteste studenti, Mario Draghi: \"I giovani non si sentono ascoltati\"",
+      "url": "https://www.tgcom24.mediaset.it/politica/proteste-studenti-mario-draghi-giovani-hanno-sensazione-che-nessuno-li-ascolti_117954100-202602k.shtml",
+      "published": "2026-10-21T10:12:00+00:00"
+    },
     {
       "id": "86a4d748dc8c7065934b",
       "source": "BBC News",
@@ -297,13 +304,6 @@
       "title": "Scontri a Milano, il gip: \"Rischio altissimo che accada di nuovo\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/milano-saccheggi-piazza-duomo-arresti_117915345-202602k.shtml",
       "published": "2026-10-20T16:29:00+00:00"
-    },
-    {
-      "id": "c3b6a2b249e46ae08185",
-      "source": "TGcom24",
-      "title": "Gas, scorte in Italia al 90%: traguardo raggiunto con 10 giorni di anticipo",
-      "url": "https://www.tgcom24.mediaset.it/economia/gas-scorte-italia-2026_117928083-202602k.shtml",
-      "published": "2026-10-20T16:11:00+00:00"
     },
     {
       "id": "6c6cc1660bfe70df78e3",
