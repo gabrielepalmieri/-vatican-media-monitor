@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-21T08:55:04.925529+00:00",
+  "updated_at": "2026-10-21T09:24:10.580960+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-21T08:55:04.925529+00:00"
+      "checked_at": "2026-10-21T09:24:10.580960+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-21T08:55:04.925529+00:00"
+      "checked_at": "2026-10-21T09:24:10.580960+00:00"
     }
   },
   "items": [
+    {
+      "id": "80de671a6e385a928e54",
+      "source": "TGcom24",
+      "title": "Caltanissetta, tenta rapina in gioielleria ma non c'è oro: arrestato 25enne",
+      "url": "https://www.tgcom24.mediaset.it/2026/video/caltanissetta-tenta-una-rapina-in-gioielleria-ma-non-c-e-oro-arrestato-25enne_117950517-02k.shtml",
+      "published": "2026-10-21T09:10:00+00:00"
+    },
     {
       "id": "164cc42082586d982473",
       "source": "TGcom24",
@@ -38,13 +45,6 @@
       "title": "Huge crowds watch attempt to save shark stranded in South Korean canal",
       "url": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-21T08:19:32+00:00"
-    },
-    {
-      "id": "910368d038d69becae53",
-      "source": "BBC News",
-      "title": "Zelensky says intelligence sharing 'works now' as US envoy to meet Putin in Russia",
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T08:18:53+00:00"
     },
     {
       "id": "7d251ae11da36a203b19",
@@ -210,7 +210,7 @@
     {
       "id": "f4ed65e431c2900ee34c",
       "source": "BBC News",
-      "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
+      "title": "Trump and Zelensky appear at loggerheads despite new optimism",
       "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-20T20:00:57+00:00"
     },
@@ -306,13 +306,6 @@
       "published": "2026-10-20T15:47:00+00:00"
     },
     {
-      "id": "11d77806280803ad3ad9",
-      "source": "TGcom24",
-      "title": "Controllore del bus aggredito da studenti nel Vicentino, testa spinta sull'asfalto",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/controllore-bus-aggressione-studenti-schio_117925424-202602k.shtml",
-      "published": "2026-10-20T15:04:00+00:00"
-    },
-    {
       "id": "fd12f76da1f04dcf7a07",
       "source": "BBC News",
       "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
@@ -367,20 +360,6 @@
       "title": "Clean up begins after French riots but police remain",
       "url": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19T21:30:08+00:00"
-    },
-    {
-      "id": "354f4e288c9c4f9a4887",
-      "source": "BBC News",
-      "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
-      "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T21:12:30+00:00"
-    },
-    {
-      "id": "da3e8bedbe929d65afc6",
-      "source": "BBC News",
-      "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
-      "url": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T21:02:33+00:00"
     }
   ]
 }
