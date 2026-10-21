@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-21T05:37:32.225230+00:00",
+  "updated_at": "2026-10-21T22:37:01.468878+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-10-21T05:37:32.225230+00:00",
+  "un_verified_at": "2026-10-21T22:37:01.468878+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,17 +1918,6 @@
     }
   ],
   "days": {
-    "2026-10-20": {
-      "saints": [
-        {
-          "title": "Santa Maria Bertilla Boscardin, vergine, di Vicenza",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/20/santa-maria-bertilla-boscardin--vergine--di-vicenza.html"
-        }
-      ],
-      "un": [],
-      "un_available": true,
-      "holy_see": []
-    },
     "2026-10-21": {
       "saints": [
         {
@@ -2593,6 +2582,34 @@
         {
           "title": "Giornata internazionale per l’eliminazione della violenza contro le donne",
           "url": "https://www.un.org/en/observances/ending-violence-against-women-day"
+        }
+      ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-11-26": {
+      "saints": [
+        {
+          "title": "San Siricio, papa",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/26.html"
+        },
+        {
+          "title": "San Silvestro, abate, fondatore dei Silvestrini",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/26/san-silvestro--abate--fondatore-dei-silvestrini.html"
+        },
+        {
+          "title": "San Leonardo da Porto Maurizio, francescano",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/26/san-leonardo-da-porto-maurizio--francescano.html"
+        },
+        {
+          "title": "Beato Giacomo Alberione",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/26.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata mondiale del trasporto sostenibile",
+          "url": "https://www.un.org/en/observances/sustainable-transport-day"
         }
       ],
       "un_available": true,
