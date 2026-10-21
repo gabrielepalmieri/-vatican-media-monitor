@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-10-21T09:24:10.580960+00:00",
+  "updated_at": "2026-10-21T10:00:13.004251+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-21T09:24:10.580960+00:00"
+      "checked_at": "2026-10-21T10:00:13.004251+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-21T09:24:10.580960+00:00"
+      "checked_at": "2026-10-21T10:00:13.004251+00:00"
     }
   },
   "items": [
+    {
+      "id": "86a4d748dc8c7065934b",
+      "source": "BBC News",
+      "title": "Is Ebola under control in Kenya after nine cases confirmed?",
+      "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T09:55:15+00:00"
+    },
+    {
+      "id": "3e5e54c28b333b7f80a8",
+      "source": "TGcom24",
+      "title": "Francia, massacra la famiglia e si uccide: quattro morti",
+      "url": "https://www.tgcom24.mediaset.it/mondo/francia-uccide-famiglia-suicidio_117951738-202602k.shtml",
+      "published": "2026-10-21T09:31:00+00:00"
+    },
+    {
+      "id": "a6a636d253401d1f8291",
+      "source": "BBC News",
+      "title": "Russia frees US citizen Stephen Hubbard, state media reports",
+      "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T09:22:23+00:00"
+    },
     {
       "id": "80de671a6e385a928e54",
       "source": "TGcom24",
@@ -166,13 +187,6 @@
       "published": "2026-10-20T23:51:43+00:00"
     },
     {
-      "id": "86a4d748dc8c7065934b",
-      "source": "BBC News",
-      "title": "Is Ebola under control in Kenya after nine cases confirmed?",
-      "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T23:41:30+00:00"
-    },
-    {
       "id": "e54506239825a26e49db",
       "source": "BBC News",
       "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
@@ -299,13 +313,6 @@
       "published": "2026-10-20T15:58:57+00:00"
     },
     {
-      "id": "470465922e92f186b7f1",
-      "source": "TGcom24",
-      "title": "Il Comitato autotrasportatori Sicilia revoca il fermo dei mezzi",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/sicilia-comitato-autotrasportatori-revoca-fermo_117928881-202602k.shtml",
-      "published": "2026-10-20T15:47:00+00:00"
-    },
-    {
       "id": "fd12f76da1f04dcf7a07",
       "source": "BBC News",
       "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
@@ -353,13 +360,6 @@
       "title": "US church on front line of battle against drug known as 'tranq'",
       "url": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-20T00:02:32+00:00"
-    },
-    {
-      "id": "4cebbfd9b86a85ec9efa",
-      "source": "BBC News",
-      "title": "Clean up begins after French riots but police remain",
-      "url": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T21:30:08+00:00"
     }
   ]
 }
