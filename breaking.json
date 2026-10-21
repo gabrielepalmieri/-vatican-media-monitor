@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-21T04:17:22.274540+00:00",
+  "updated_at": "2026-10-21T04:48:31.363514+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-21T04:17:22.274540+00:00"
+      "checked_at": "2026-10-21T04:48:31.363514+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-21T04:17:22.274540+00:00"
+      "checked_at": "2026-10-21T04:48:31.363514+00:00"
     }
   },
   "items": [
+    {
+      "id": "36ee6b34d5f2311f1b22",
+      "source": "TGcom24",
+      "title": "Taiwan, la Cina invia 29 aerei militari e 15 navi nello Stretto",
+      "url": "https://www.tgcom24.mediaset.it/mondo/taiwan-cina-invia-29-aerei-15-navi-nello-stretto_117945095-202602k.shtml",
+      "published": "2026-10-21T04:35:00+00:00"
+    },
     {
       "id": "9de58e13e36ec121a2a2",
       "source": "TGcom24",
@@ -35,7 +42,7 @@
     {
       "id": "7e957bb9a00917ca2fb0",
       "source": "BBC News",
-      "title": "France is divided over who to blame for and what to learn from weekend riots",
+      "title": "France is divided over who to blame for weekend riots and what to learn from them",
       "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-21T01:22:51+00:00"
     },
@@ -299,13 +306,6 @@
       "published": "2026-10-20T09:46:00+00:00"
     },
     {
-      "id": "09a9034d68e56da1f6aa",
-      "source": "TGcom24",
-      "title": "Mattarella: \"Welfare universale presidiato dalla Costituzione, non è confutabile\"",
-      "url": "https://www.tgcom24.mediaset.it/politica/mattarella-welfare-universale-presidiato-dalla-costituzione-non-e-confutabile-_117913720-202602k.shtml",
-      "published": "2026-10-20T09:01:00+00:00"
-    },
-    {
       "id": "079391a31def2b0ec313",
       "source": "BBC News",
       "title": "Why Israeli Gen Z voters are drawn to the far right",
@@ -374,13 +374,6 @@
       "title": "Mission blasts off for Mars to grab a piece of its moon",
       "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19T19:45:46+00:00"
-    },
-    {
-      "id": "8d6690b5ce5850acecc7",
-      "source": "BBC News",
-      "title": "Vinted blocks French looters listing stolen goods for sale",
-      "url": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T16:46:35+00:00"
     }
   ]
 }
