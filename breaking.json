@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-21T03:50:35.389791+00:00",
+  "updated_at": "2026-10-21T04:17:22.274540+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-21T03:50:35.389791+00:00"
+      "checked_at": "2026-10-21T04:17:22.274540+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-21T03:50:35.389791+00:00"
+      "checked_at": "2026-10-21T04:17:22.274540+00:00"
     }
   },
   "items": [
+    {
+      "id": "9de58e13e36ec121a2a2",
+      "source": "TGcom24",
+      "title": "Usa, la stretta di Trump: oltre 300.000 visti revocati in meno di due anni",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-trump-visti-revocati_117944225-202602k.shtml",
+      "published": "2026-10-21T04:00:00+00:00"
+    },
+    {
+      "id": "910368d038d69becae53",
+      "source": "BBC News",
+      "title": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T03:59:18+00:00"
+    },
     {
       "id": "6794b98686a355d4116c",
       "source": "BBC News",
@@ -73,13 +87,6 @@
       "title": "Garlasco, Andrea Sempio ai genitori di Chiara Poggi: \"Vorrei abbracciarli\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/garlasco-andrea-sempio-genitori-chiara-poggi_117931441-202602k.shtml",
       "published": "2026-10-20T21:30:00+00:00"
-    },
-    {
-      "id": "910368d038d69becae53",
-      "source": "BBC News",
-      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T21:27:39+00:00"
     },
     {
       "id": "ff6b47572965a8df47ae",
@@ -306,13 +313,6 @@
       "published": "2026-10-20T08:53:06+00:00"
     },
     {
-      "id": "f6b57524f7fd580a7526",
-      "source": "TGcom24",
-      "title": "Autotrasportatori, Salvini: \"Subito erogazione dei fondi stanziati, poi altre risorse\"",
-      "url": "https://www.tgcom24.mediaset.it/politica/autotrasportatori-salvini_117911069-202602k.shtml",
-      "published": "2026-10-20T08:19:00+00:00"
-    },
-    {
       "id": "f813eb6092d855966439",
       "source": "BBC News",
       "title": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
@@ -381,13 +381,6 @@
       "title": "Vinted blocks French looters listing stolen goods for sale",
       "url": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19T16:46:35+00:00"
-    },
-    {
-      "id": "4e6f91fb4c303961343f",
-      "source": "BBC News",
-      "title": "Obama blasts federal probe of Ilhan Omar as 'so appalling'",
-      "url": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T16:16:51+00:00"
     }
   ]
 }
