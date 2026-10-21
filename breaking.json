@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-21T07:03:35.554112+00:00",
+  "updated_at": "2026-10-21T07:46:08.633091+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-21T07:03:35.554112+00:00"
+      "checked_at": "2026-10-21T07:46:08.633091+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-21T07:03:35.554112+00:00"
+      "checked_at": "2026-10-21T07:46:08.633091+00:00"
     }
   },
   "items": [
+    {
+      "id": "73057821f28b2d7cd0b7",
+      "source": "TGcom24",
+      "title": "Catania, scossa di terremoto di magnitudo 3.8 ai piedi dell'Etna",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/catania-scossa-terremoto-etna_117949928-202602k.shtml",
+      "published": "2026-10-21T07:38:00+00:00"
+    },
+    {
+      "id": "eaa447d883dfa31450bc",
+      "source": "TGcom24",
+      "title": "Iran, Netanyahu era pronto ad attaccare il 10 ottobre ma Trump lo fermò",
+      "url": "https://www.tgcom24.mediaset.it/mondo/iran-netanyahu-pronto-attaccare-10-ottobre-trump-lo-ha-fermato_117947913-202602k.shtml",
+      "published": "2026-10-21T07:10:00+00:00"
+    },
     {
       "id": "7e957bb9a00917ca2fb0",
       "source": "BBC News",
@@ -35,7 +49,7 @@
     {
       "id": "d641c142174ea6a7d9e2",
       "source": "BBC News",
-      "title": "Elon Musk says merging Tesla and SpaceX is a good idea. Why?",
+      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
       "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-21T06:36:39+00:00"
     },
@@ -49,7 +63,7 @@
     {
       "id": "115b54958fe4b9402544",
       "source": "BBC News",
-      "title": "Elon Musk considering Tesla-SpaceX merger",
+      "title": "Elon Musk confirms talks to merge Tesla and SpaceX",
       "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-21T05:48:46+00:00"
     },
@@ -292,20 +306,6 @@
       "published": "2026-10-20T13:10:00+00:00"
     },
     {
-      "id": "3e219c9d2998b81c348a",
-      "source": "TGcom24",
-      "title": "Caserta, accoltella un coetaneo a scuola dopo una lite: arrestato 14enne",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/castel-volturno-caserta-14enne-accoltella-coetaneo_117921247-202602k.shtml",
-      "published": "2026-10-20T12:31:00+00:00"
-    },
-    {
-      "id": "109871ca7faf61869f18",
-      "source": "TGcom24",
-      "title": "Media: \"Trump vuole accordo con cessioni territoriali a Mosca\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-20-ottobre_117905205-202602k.shtml",
-      "published": "2026-10-20T12:10:00+00:00"
-    },
-    {
       "id": "55c5a25229e99ec1513d",
       "source": "BBC News",
       "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
@@ -367,13 +367,6 @@
       "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
       "url": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19T20:00:43+00:00"
-    },
-    {
-      "id": "0328b0f8198056c67e86",
-      "source": "BBC News",
-      "title": "Mission blasts off for Mars to grab a piece of its moon",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T19:45:46+00:00"
     }
   ]
 }
