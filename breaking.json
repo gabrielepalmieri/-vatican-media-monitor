@@ -1,16 +1,51 @@
 {
-  "updated_at": "2026-10-20T23:50:23.735698+00:00",
+  "updated_at": "2026-10-21T00:07:24.213952+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-20T23:50:23.735698+00:00"
+      "checked_at": "2026-10-21T00:07:24.213952+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-20T23:50:23.735698+00:00"
+      "checked_at": "2026-10-21T00:07:24.213952+00:00"
     }
   },
   "items": [
+    {
+      "id": "ec54c99b01e0ddb0173b",
+      "source": "BBC News",
+      "title": "Borneo is burning - living on the frontline of Asia's toxic haze",
+      "url": "https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T23:51:43+00:00"
+    },
+    {
+      "id": "86a4d748dc8c7065934b",
+      "source": "BBC News",
+      "title": "Is Ebola under control in Kenya after nine cases confirmed?",
+      "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T23:41:30+00:00"
+    },
+    {
+      "id": "115b54958fe4b9402544",
+      "source": "BBC News",
+      "title": "Elon Musk says Tesla-SpaceX merger being considered",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T23:24:47+00:00"
+    },
+    {
+      "id": "9392c0850bf7c3000898",
+      "source": "BBC News",
+      "title": "Is Donald Trump ready to do business with Myanmar?",
+      "url": "https://www.bbc.co.uk/news/articles/cw203zx1x1rno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T23:21:39+00:00"
+    },
+    {
+      "id": "e54506239825a26e49db",
+      "source": "BBC News",
+      "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+      "url": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T22:22:17+00:00"
+    },
     {
       "id": "b9e6fdb06e9fdd0015e0",
       "source": "TGcom24",
@@ -68,6 +103,13 @@
       "published": "2026-10-20T19:30:00+00:00"
     },
     {
+      "id": "ee4a3aadc62f7fe1617b",
+      "source": "BBC News",
+      "title": "Cornell Jane Doe says embattled university head doubted her gang-rape allegation",
+      "url": "https://www.bbc.co.uk/news/articles/cwn73z5gnnrro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T19:08:06+00:00"
+    },
+    {
       "id": "10c80edaff54cb0107ed",
       "source": "TGcom24",
       "title": "Scontri a Milano, comunità o domiciliari per 11 minorenni",
@@ -108,13 +150,6 @@
       "title": "Dl Sicurezza, Meloni: nasce reato di partecipazione violenta a manifestazione",
       "url": "https://www.tgcom24.mediaset.it/cronaca/milano-saccheggi-piazza-duomo-arresti_117915345-202602k.shtml",
       "published": "2026-10-20T17:09:00+00:00"
-    },
-    {
-      "id": "9052b980995e3333a5c2",
-      "source": "BBC News",
-      "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T16:59:06+00:00"
     },
     {
       "id": "8e9d19fe89d85fafdc06",
@@ -271,13 +306,6 @@
       "published": "2026-10-20T08:19:00+00:00"
     },
     {
-      "id": "500394fe9452d52d0265",
-      "source": "BBC News",
-      "title": "How is the US economy really doing under President Trump?",
-      "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T05:00:45+00:00"
-    },
-    {
       "id": "f813eb6092d855966439",
       "source": "BBC News",
       "title": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
@@ -311,20 +339,6 @@
       "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
       "url": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19T23:30:03+00:00"
-    },
-    {
-      "id": "57a601c8b2d406ca75a0",
-      "source": "BBC News",
-      "title": "Five ways El Niño is affecting the weather around the world",
-      "url": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T23:08:25+00:00"
-    },
-    {
-      "id": "95a53ac4d08a21065e14",
-      "source": "BBC News",
-      "title": "In pictures: Dussehra celebrated across India as triumph of good over evil",
-      "url": "https://www.bbc.co.uk/news/articles/c98rzynj6e1yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T23:04:08+00:00"
     },
     {
       "id": "4cebbfd9b86a85ec9efa",
