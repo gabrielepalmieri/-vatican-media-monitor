@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-10-21T07:46:08.633091+00:00",
+  "updated_at": "2026-10-21T08:19:25.057979+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-21T07:46:08.633091+00:00"
+      "checked_at": "2026-10-21T08:19:25.057979+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-21T07:46:08.633091+00:00"
+      "checked_at": "2026-10-21T08:19:25.057979+00:00"
     }
   },
   "items": [
+    {
+      "id": "910368d038d69becae53",
+      "source": "BBC News",
+      "title": "Zelensky says intelligence sharing 'works now' as US envoy to meet Putin in Russia",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T08:18:53+00:00"
+    },
+    {
+      "id": "7d251ae11da36a203b19",
+      "source": "TGcom24",
+      "title": "Meloni apre al divieto dei social per gli under 14 dopo gli scontri a Milano",
+      "url": "https://www.tgcom24.mediaset.it/politica/social-vietati-under-14-meloni-favorevole-divieto_117948834-202602k.shtml",
+      "published": "2026-10-21T08:10:00+00:00"
+    },
+    {
+      "id": "38863b4a09784e562ba5",
+      "source": "BBC News",
+      "title": "Australian MP loses both legs after alleged car attack",
+      "url": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T07:56:30+00:00"
+    },
     {
       "id": "73057821f28b2d7cd0b7",
       "source": "TGcom24",
@@ -40,13 +61,6 @@
       "published": "2026-10-21T06:40:00+00:00"
     },
     {
-      "id": "910368d038d69becae53",
-      "source": "BBC News",
-      "title": "US envoy arrives in Russia ahead of meeting with Putin as Zelensky says intelligence sharing 'works now'",
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T06:37:55+00:00"
-    },
-    {
       "id": "d641c142174ea6a7d9e2",
       "source": "BBC News",
       "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
@@ -70,7 +84,7 @@
     {
       "id": "516eca1cb43c3220e653",
       "source": "BBC News",
-      "title": "Pakistan arrests man hunted by US over $126m postage fraud case",
+      "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
       "url": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-21T05:46:33+00:00"
     },
@@ -299,13 +313,6 @@
       "published": "2026-10-20T13:23:32+00:00"
     },
     {
-      "id": "269d7b393f6cf66b537a",
-      "source": "TGcom24",
-      "title": "Scontri a Milano, il ministro Crosetto: \"Frutto della guerra ibrida\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-saccheggi-piazza-duomo-arresti_117915345-202602k.shtml",
-      "published": "2026-10-20T13:10:00+00:00"
-    },
-    {
       "id": "55c5a25229e99ec1513d",
       "source": "BBC News",
       "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
@@ -360,13 +367,6 @@
       "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
       "url": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19T21:02:33+00:00"
-    },
-    {
-      "id": "e33e248b46ce1e1da8ef",
-      "source": "BBC News",
-      "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
-      "url": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T20:00:43+00:00"
     }
   ]
 }
