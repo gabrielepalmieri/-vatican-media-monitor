@@ -1,27 +1,118 @@
 {
-  "updated_at": "2026-10-22T04:34:54.557538+00:00",
+  "updated_at": "2026-10-22T09:35:33.301514+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-22T04:34:54.557538+00:00"
+      "checked_at": "2026-10-22T09:35:33.301514+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-22T04:34:54.557538+00:00"
+      "checked_at": "2026-10-22T09:35:33.301514+00:00"
     }
   },
   "items": [
     {
+      "id": "5417f68b4ecdb2ef559a",
+      "source": "BBC News",
+      "title": "How do Israel's elections work and who are the main contenders?",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T09:27:10+00:00"
+    },
+    {
+      "id": "5c18a1046f2eb048ae14",
+      "source": "TGcom24",
+      "title": "Vertenza Eurallumina, quattro operai asserragliati a 60 metri d'altezza",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/eurallumina-operai-asserragliati_117995440-202602k.shtml",
+      "published": "2026-10-22T09:23:00+00:00"
+    },
+    {
+      "id": "4cc06d48e7c4b59e9731",
+      "source": "BBC News",
+      "title": "Some New Yorkers hail ban on horse-drawn carriages, but drivers fear for incomes",
+      "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T09:06:48+00:00"
+    },
+    {
+      "id": "961bfef04402c13ac551",
+      "source": "TGcom24",
+      "title": "Accordo Roma-Madrid, stop ai controlli Schengen alle frontiere con Italia",
+      "url": "https://www.tgcom24.mediaset.it/mondo/accordo-roma-madrid-stop-ai-controlli-schengen-alle-frontiere-con-italia_117994904-202602k.shtml",
+      "published": "2026-10-22T08:55:00+00:00"
+    },
+    {
+      "id": "9433ab3d22d0c2b0ca12",
+      "source": "BBC News",
+      "title": "Two European women held captive for more than a year in Niger freed in Libya",
+      "url": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T08:21:13+00:00"
+    },
+    {
+      "id": "864e3a52e4dd6f6ceb67",
+      "source": "BBC News",
+      "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T08:15:48+00:00"
+    },
+    {
+      "id": "dc736e9ac207075883d8",
+      "source": "TGcom24",
+      "title": "Caro carburanti, in autostrada il gasolio tocca i 2,3 euro al litro",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/protesta-autotrasportatori-gasolio-consiglio-dei-ministri_117992966-202602k.shtml",
+      "published": "2026-10-22T08:03:00+00:00"
+    },
+    {
+      "id": "5989445e87fb7ad5c12f",
+      "source": "TGcom24",
+      "title": "Ancona, truffe su fondi ricostruzione post sisma: 8 arresti e 51 indagati",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/ancona-truffe-fondi-ricostruzione-sisma-arresti-indagati_117991914-202602k.shtml",
+      "published": "2026-10-22T06:56:00+00:00"
+    },
+    {
+      "id": "e7a9247de287131486ad",
+      "source": "BBC News",
+      "title": "What is PHP and why did it spark a global cyber-security scramble?",
+      "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T06:24:59+00:00"
+    },
+    {
+      "id": "0e970d14739501a878e1",
+      "source": "TGcom24",
+      "title": "Iran, Trump: \"Non stiamo negoziando, presto accadrà qualcosa\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-22-ottobre_117989641-202602k.shtml",
+      "published": "2026-10-22T06:13:00+00:00"
+    },
+    {
+      "id": "dfc8ccab3e5de7d47ae3",
+      "source": "TGcom24",
+      "title": "Usa, Trump: \"Non permetteremo che ciò che accade in Francia avvenga da noi\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/proteste-francia-donald-trump_117988927-202602k.shtml",
+      "published": "2026-10-22T05:32:00+00:00"
+    },
+    {
+      "id": "0d28c7fc2703f118cc11",
+      "source": "BBC News",
+      "title": "How Arab parties could hold critical balance of power in Israeli election",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T05:30:22+00:00"
+    },
+    {
+      "id": "227199db442158f9c5ec",
+      "source": "TGcom24",
+      "title": "Russia-Ucraina, il sindaco di Mosca: \"630 droni lanciati da Kiev verso capitale russa\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-22-ottobre_117988925-202602k.shtml",
+      "published": "2026-10-22T04:59:00+00:00"
+    },
+    {
       "id": "e6423ab18933709affb9",
       "source": "TGcom24",
-      "title": "Arabia Saudita, attacco sull'aeroporto \"Re Fahd\": un morto e otto feriti",
+      "title": "Arabia Saudita, attacco sull'aeroporto \"Re Fahd\": due morti e otto feriti",
       "url": "https://www.tgcom24.mediaset.it/mondo/arabia-saudita-attacco-aeroporto-dammam-re-fahd_117988219-202602k.shtml",
       "published": "2026-10-22T04:30:00+00:00"
     },
     {
       "id": "a4565f7601c1464f0d30",
       "source": "BBC News",
-      "title": "No purchase, no seats: Starbucks China rolls out new policy",
+      "title": "No order, no seat: Starbucks China rolls out new store policy",
       "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-22T04:02:29+00:00"
     },
@@ -31,13 +122,6 @@
       "title": "Usa, multa di 25 miliardi a Meta in New Mexico per \"violazioni della privacy\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/multa-meta-zuckerberg-new-mexico-privacy_117980479-202602k.shtml",
       "published": "2026-10-22T04:01:00+00:00"
-    },
-    {
-      "id": "e7a9247de287131486ad",
-      "source": "BBC News",
-      "title": "What is PHP and why did it spark a global cyber-security scramble?",
-      "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T03:48:50+00:00"
     },
     {
       "id": "d2d1650c34e10866b684",
@@ -56,7 +140,7 @@
     {
       "id": "725853dac2f5eb0ee8b7",
       "source": "BBC News",
-      "title": "The real reasons US politicians are getting older",
+      "title": "The real reasons there are so few young politicians in the US",
       "url": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-21T23:52:12+00:00"
     },
@@ -138,13 +222,6 @@
       "published": "2026-10-21T21:27:41+00:00"
     },
     {
-      "id": "78e76da75bcb9e2951c4",
-      "source": "BBC News",
-      "title": "Huge crowds watch attempt to rescue shark stranded in South Korean canal",
-      "url": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T20:31:47+00:00"
-    },
-    {
       "id": "eee5a7c6e5af880e978c",
       "source": "BBC News",
       "title": "Ex-prosecutor charged with treason in Mexico over US drug raid",
@@ -168,16 +245,9 @@
     {
       "id": "a62468650273891252ee",
       "source": "BBC News",
-      "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+      "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
       "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-21T19:58:06+00:00"
-    },
-    {
-      "id": "2762a4578936c8b36445",
-      "source": "BBC News",
-      "title": "Websites taken down worldwide as critical cyber-security update issued",
-      "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T19:54:57+00:00"
     },
     {
       "id": "5b0533ea9b211c995d3f",
@@ -292,55 +362,6 @@
       "published": "2026-10-21T14:04:28+00:00"
     },
     {
-      "id": "8fff17be76771042125e",
-      "source": "TGcom24",
-      "title": "Il ministro Urso: il Viminale sta identificando i camionisti per rimuovere i presidi",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/protesta-autotrasportatori-industriali-campania-puglia_117965068-202602k.shtml",
-      "published": "2026-10-21T13:54:00+00:00"
-    },
-    {
-      "id": "035e4511bb0a46f844c1",
-      "source": "TGcom24",
-      "title": "Babysitter uccisa e fatta a pezzi a Milano, ergastolo per il compagno",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/babysitter-uccisa-milano-ergastolo-compagno_117965235-202602k.shtml",
-      "published": "2026-10-21T12:41:00+00:00"
-    },
-    {
-      "id": "84971770bd5b3c598382",
-      "source": "TGcom24",
-      "title": "Protesta autotrasportatori, caos sull'A1: chiuso il raccordo Caserta-Salerno",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/protesta-autotrasportatori-caos-sull-a1-chiuso-il-raccordo-con-l-a30-caserta-salerno_117956189-02k.shtml",
-      "published": "2026-10-21T12:03:00+00:00"
-    },
-    {
-      "id": "d2fa56dba4f27dceed84",
-      "source": "TGcom24",
-      "title": "Istat, in Italia sempre meno figli e sempre più nascite fuori dal matrimonio",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/istat-natalita-in-italia-sempre-meno-figli-calo-storico-fertilita_117956190-202602k.shtml",
-      "published": "2026-10-21T11:23:00+00:00"
-    },
-    {
-      "id": "211ec9eea093b8926a71",
-      "source": "TGcom24",
-      "title": "Putin rilascia il cittadino americano Stephen Hubbard come chiesto da Trump",
-      "url": "https://www.tgcom24.mediaset.it/mondo/putin-rilascia-hubbard-su-richiesta-trump_117955192-202602k.shtml",
-      "published": "2026-10-21T10:47:00+00:00"
-    },
-    {
-      "id": "d78b7614abf90d89cf91",
-      "source": "TGcom24",
-      "title": "Proteste degli studenti, Mario Draghi: \"I giovani non si sentono ascoltati\"",
-      "url": "https://www.tgcom24.mediaset.it/politica/proteste-studenti-mario-draghi-giovani-hanno-sensazione-che-nessuno-li-ascolti_117954100-202602k.shtml",
-      "published": "2026-10-21T10:12:00+00:00"
-    },
-    {
-      "id": "3e5e54c28b333b7f80a8",
-      "source": "TGcom24",
-      "title": "Francia, massacra la famiglia e si uccide: quattro morti",
-      "url": "https://www.tgcom24.mediaset.it/mondo/francia-uccide-famiglia-suicidio_117951738-202602k.shtml",
-      "published": "2026-10-21T09:31:00+00:00"
-    },
-    {
       "id": "115b54958fe4b9402544",
       "source": "BBC News",
       "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
@@ -388,27 +409,6 @@
       "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
       "url": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-20T22:22:17+00:00"
-    },
-    {
-      "id": "f4ed65e431c2900ee34c",
-      "source": "BBC News",
-      "title": "Trump and Zelensky at loggerheads despite new optimism",
-      "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T20:00:57+00:00"
-    },
-    {
-      "id": "b276251a70cfcd1e7248",
-      "source": "BBC News",
-      "title": "Trump sued over Canadian tariffs in latest legal challenge",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T19:30:05+00:00"
-    },
-    {
-      "id": "22f4be79a83dfd4c0bc2",
-      "source": "BBC News",
-      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
-      "url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T17:30:15+00:00"
     }
   ]
 }
