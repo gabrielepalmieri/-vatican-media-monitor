@@ -10,6 +10,7 @@ from urllib.parse import quote, urlparse
 from urllib.request import Request, urlopen
 from xml.etree import ElementTree as ET
 from author_sources import AUTHOR_SOURCES, fetch_author_source
+from social_accounts import feed_account, profile_account, enrich_social_posts
 
 ROOT = Path(__file__).resolve().parent
 OUT = ROOT / "news.json"
@@ -264,14 +265,17 @@ def parse_feed(url: str, country: str, language: str, kind: str, direct_source: 
             except ValueError: continue
         source=direct_source or source_from(item,title,link)
         display_title=title[:-len(source)-3].strip() if title.endswith(" - "+source) else title
-        platform=social_platform(source,link)
+        source_element=item.find("source")
+        source_url=source_element.get("url", "") if source_element is not None else ""
+        platform=social_platform(source,link) or social_platform("",source_url)
+        account=feed_account(item,platform,link)
         if platform:
             source=platform
         item_kind="social" if platform else kind
         if not valid_title(display_title): continue
         if item_kind == "social" and not social_relevant(display_title): continue
-        uid=hashlib.sha1((display_title.lower()+source.lower()).encode()).hexdigest()[:16]
-        out.append({"id":uid,"title":display_title,"url":link,"source":source,"country":country,"language":language,"published":published(item.findtext("pubDate", "")),"topic":topic_for(display_title),"kind":item_kind,"cluster_size":1,"origin":"direct" if direct_source else "search"})
+        uid=hashlib.sha1((display_title.lower()+source.lower()+(account.get("author", "").casefold() if item_kind=="social" else "")).encode()).hexdigest()[:16]
+        out.append({"id":uid,"title":display_title,"url":link,"source":source,"country":country,"language":language,"published":published(item.findtext("pubDate", "")),"topic":topic_for(display_title),"kind":item_kind,"cluster_size":1,"origin":"direct" if direct_source else "search",**account})
     if direct_source:
         newest=max((x["published"] for x in out),default="nessuno")
         print(f"Feed diretto {direct_source}: {len(out)} pertinenti, più recente {newest}, da {url}")
@@ -422,6 +426,8 @@ def main() -> None:
                     items.append(item)
         except (OSError, ValueError, KeyError, TypeError) as exc:
             print(f"Archivio precedente non utilizzabile: {exc}")
+    enrich_social_posts(items, fetch)
+    social_by_url={x["url"]:{"author":x["author"],"author_url":x.get("author_url", "")} for x in items if x.get("kind")=="social" and x.get("author")}
     unique={}
     for x in items:
         # L'archivio conserva il tema assegnato in passato: aggiorna anche
@@ -429,13 +435,15 @@ def main() -> None:
         x["topic"]=topic_for(x["title"])
         platform=social_platform(x["source"],x["url"])
         if platform:
+            account=social_by_url.get(x["url"]) or profile_account(x["url"],platform)
+            if account: x.update(account)
             x["source"]=platform
             x["kind"]="social"
-            x["id"]=hashlib.sha1((x["title"].lower()+platform.lower()).encode()).hexdigest()[:16]
+            x["id"]=hashlib.sha1((x["title"].lower()+platform.lower()+x.get("author", "").casefold()).encode()).hexdigest()[:16]
         # Recheck retained posts too, so old false positives are removed immediately.
         if x.get("kind") == "social" and not social_relevant(x["title"]):
             continue
-        key=(re.sub(r"\W+","",x["title"].lower())[:160],x["source"].casefold())
+        key=(re.sub(r"\W+","",x["title"].lower())[:160],x["source"].casefold(),x.get("author", "").casefold() if x.get("kind")=="social" else "")
         if key not in unique:
             unique[key]=x
         else:
@@ -445,7 +453,7 @@ def main() -> None:
             if x["published"]>old["published"]: unique[key]=x
             if author_item:
                 unique[key]["author"]=author_item["author"]
-                unique[key]["author_url"]=author_item["author_url"]
+                unique[key]["author_url"]=author_item.get("author_url", "")
             if direct_url:
                 unique[key]["url"]=direct_url
                 unique[key]["origin"]="direct"
@@ -456,5 +464,6 @@ def main() -> None:
     print(f"Salvati {len(result)} contenuti in {OUT}")
 
 if __name__ == "__main__": main()
+
 
 
