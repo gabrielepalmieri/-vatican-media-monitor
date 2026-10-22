@@ -1,16 +1,65 @@
 {
-  "updated_at": "2026-10-22T18:45:59.372098+00:00",
+  "updated_at": "2026-10-22T21:56:16.446957+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-22T18:45:59.372098+00:00"
+      "checked_at": "2026-10-22T21:56:16.446957+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-22T18:45:59.372098+00:00"
+      "checked_at": "2026-10-22T21:56:16.446957+00:00"
     }
   },
   "items": [
+    {
+      "id": "9dbda0c88ddb5146db44",
+      "source": "BBC News",
+      "title": "Trump says Musk has restored Ukraine's internet access",
+      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T21:42:39+00:00"
+    },
+    {
+      "id": "0bdf2e25a6af684a1230",
+      "source": "TGcom24",
+      "title": "Protesta autotrasportatori, Garante degli scioperi chiede la precettazione",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/protesta-autotrasportatori-blocco-tir-cdm_117992966-202602k.shtml",
+      "published": "2026-10-22T21:30:00+00:00"
+    },
+    {
+      "id": "4cc06d48e7c4b59e9731",
+      "source": "BBC News",
+      "title": "New York bans horse-drawn carriages over safety and abuse concerns",
+      "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T20:49:12+00:00"
+    },
+    {
+      "id": "ffc6e4370aec94bf74fb",
+      "source": "TGcom24",
+      "title": "Cisgiordania, fermate cinque attiviste italiane: Farnesina chiede il rilascio",
+      "url": "https://www.tgcom24.mediaset.it/mondo/cisgiordania-fermate-attiviste_118017888-202602k.shtml",
+      "published": "2026-10-22T20:08:00+00:00"
+    },
+    {
+      "id": "a9e273d46d119fe1ac2e",
+      "source": "BBC News",
+      "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
+      "url": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T19:27:57+00:00"
+    },
+    {
+      "id": "126b1cb5204a356946bf",
+      "source": "BBC News",
+      "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
+      "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T19:25:26+00:00"
+    },
+    {
+      "id": "77767e5173f3f2853e40",
+      "source": "TGcom24",
+      "title": "Ucraina, Putin: pronti a riprendere negoziati trilaterali",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-22-ottobre_117988925-202602k.shtml",
+      "published": "2026-10-22T19:24:00+00:00"
+    },
     {
       "id": "f32def22a92c8a44019c",
       "source": "BBC News",
@@ -38,13 +87,6 @@
       "title": "Sanità e liste d'attesa, Agenas: 4 milioni visite ed esami fuori tempo massimo",
       "url": "https://www.tgcom24.mediaset.it/salute/liste-attesa-sanita-regioni-dati_118008969-202602k.shtml",
       "published": "2026-10-22T17:49:00+00:00"
-    },
-    {
-      "id": "126b1cb5204a356946bf",
-      "source": "BBC News",
-      "title": "Total ban on protests in Marseille and Lyon after riots",
-      "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T17:45:44+00:00"
     },
     {
       "id": "d0147ebd5d474ec54d5e",
@@ -101,13 +143,6 @@
       "title": "Forte terremoto di magnitudo 7 colpisce la regione del Tibet",
       "url": "https://www.tgcom24.mediaset.it/mondo/terremoto-tibet-cina-22-ottobre-magnitudo-7_118008759-202602k.shtml",
       "published": "2026-10-22T16:50:00+00:00"
-    },
-    {
-      "id": "a9e273d46d119fe1ac2e",
-      "source": "BBC News",
-      "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
-      "url": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T16:40:07+00:00"
     },
     {
       "id": "3b00f4b284ea01916064",
@@ -313,13 +348,6 @@
       "published": "2026-10-22T09:23:00+00:00"
     },
     {
-      "id": "4cc06d48e7c4b59e9731",
-      "source": "BBC News",
-      "title": "New York City reconsiders a classic attraction: are horse-drawn carriages abuse?",
-      "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T09:06:48+00:00"
-    },
-    {
       "id": "961bfef04402c13ac551",
       "source": "TGcom24",
       "title": "Accordo Roma-Madrid, stop ai controlli Schengen alle frontiere con Italia",
@@ -341,20 +369,6 @@
       "published": "2026-10-22T06:56:00+00:00"
     },
     {
-      "id": "0e970d14739501a878e1",
-      "source": "TGcom24",
-      "title": "Iran, Trump: \"Non stiamo negoziando, presto accadrà qualcosa\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-22-ottobre_117989641-202602k.shtml",
-      "published": "2026-10-22T06:13:00+00:00"
-    },
-    {
-      "id": "dfc8ccab3e5de7d47ae3",
-      "source": "TGcom24",
-      "title": "Usa, Trump: \"Non permetteremo che ciò che accade in Francia avvenga da noi\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/proteste-francia-donald-trump_117988927-202602k.shtml",
-      "published": "2026-10-22T05:32:00+00:00"
-    },
-    {
       "id": "0d28c7fc2703f118cc11",
       "source": "BBC News",
       "title": "How Arab parties could hold critical balance of power in Israeli election",
@@ -362,39 +376,11 @@
       "published": "2026-10-22T05:30:22+00:00"
     },
     {
-      "id": "227199db442158f9c5ec",
-      "source": "TGcom24",
-      "title": "Russia-Ucraina, il sindaco di Mosca: \"630 droni lanciati da Kiev verso la capitale russa\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-22-ottobre_117988925-202602k.shtml",
-      "published": "2026-10-22T04:59:00+00:00"
-    },
-    {
-      "id": "e6423ab18933709affb9",
-      "source": "TGcom24",
-      "title": "Arabia Saudita, attacco sull'aeroporto \"Re Fahd\": due morti e otto feriti",
-      "url": "https://www.tgcom24.mediaset.it/mondo/arabia-saudita-attacco-aeroporto-dammam-re-fahd_117988219-202602k.shtml",
-      "published": "2026-10-22T04:30:00+00:00"
-    },
-    {
       "id": "a4565f7601c1464f0d30",
       "source": "BBC News",
       "title": "No order, no seat: Starbucks China rolls out new store policy",
       "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-22T04:02:29+00:00"
-    },
-    {
-      "id": "91dcf030f77745d29fcf",
-      "source": "TGcom24",
-      "title": "Usa, multa di 25 miliardi a Meta in New Mexico per \"violazioni della privacy\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/multa-meta-zuckerberg-new-mexico-privacy_117980479-202602k.shtml",
-      "published": "2026-10-22T04:01:00+00:00"
-    },
-    {
-      "id": "d2d1650c34e10866b684",
-      "source": "BBC News",
-      "title": "US embassy accuses Canada of election meddling ahead of midterms",
-      "url": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T03:05:28+00:00"
     },
     {
       "id": "725853dac2f5eb0ee8b7",
@@ -423,13 +409,6 @@
       "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
       "url": "https://www.bbc.co.uk/news/videos/cmx2302xe931o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-21T22:02:18+00:00"
-    },
-    {
-      "id": "28628c5775f0f8d48b40",
-      "source": "TGcom24",
-      "title": "Studentessa Erasmus violentata a Milano, fermato un 31enne senza fissa dimora",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/studentessa-erasmus-stupro-milano-fermato_117985446-202602k.shtml",
-      "published": "2026-10-21T22:02:00+00:00"
     },
     {
       "id": "abecf238d076109d3e1e",
