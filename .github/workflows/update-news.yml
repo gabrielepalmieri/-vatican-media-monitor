@@ -24,6 +24,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Install social link resolver
+        continue-on-error: true
+        run: python -m pip install "googlenewsdecoder==0.2.2"
       - name: Refresh repository before collection
         run: git pull --ff-only origin main
       - name: Collect international news

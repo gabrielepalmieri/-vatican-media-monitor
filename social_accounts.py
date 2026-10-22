@@ -103,12 +103,20 @@ def resolve_account(item, fetch):
     platform, original = item.get('source', ''), item.get('url', '')
     resolved = original if post_url(original, platform) else ''
     if not resolved and urlparse(original).hostname == 'news.google.com':
+        try:
+            from googlenewsdecoder import gnewsdecoder
+            result = gnewsdecoder(original, timeout=10)
+            candidate = result.get('decoded_url', '') if result.get('success') else ''
+            if post_url(candidate, platform):
+                resolved = candidate
+        except Exception:
+            pass
         # Older RSS links contain the publisher URL; newer links need the landing page.
         token = original.split('/')[-1].split('?')[0]
         try:
             decoded = base64.urlsafe_b64decode(token + '=' * (-len(token) % 4)).decode('utf-8', errors='ignore')
             candidates = re.findall(r'https://[^\s\x00-\x20<>"\x7f]+', decoded)
-            resolved = next((u for u in candidates if post_url(u, platform)), '')
+            resolved = resolved or next((u for u in candidates if post_url(u, platform)), '')
         except (ValueError, UnicodeError):
             pass
         if not resolved:
