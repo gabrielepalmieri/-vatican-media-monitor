@@ -24,6 +24,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Refresh repository before collection
+        run: git pull --ff-only origin main
       - name: Collect latest headlines
         run: python fetch_breaking.py
       - name: Save breaking feed
