@@ -1,16 +1,72 @@
 {
-  "updated_at": "2026-10-23T07:45:26.586841+00:00",
+  "updated_at": "2026-10-23T09:51:33.354144+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-23T07:45:26.586841+00:00"
+      "checked_at": "2026-10-23T09:51:33.354144+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-23T07:45:26.586841+00:00"
+      "checked_at": "2026-10-23T09:51:33.354144+00:00"
     }
   },
   "items": [
+    {
+      "id": "bcab05a46361e150b84f",
+      "source": "BBC News",
+      "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T09:44:40+00:00"
+    },
+    {
+      "id": "9dbda0c88ddb5146db44",
+      "source": "BBC News",
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T09:36:43+00:00"
+    },
+    {
+      "id": "ff16b5a7f66570058ca1",
+      "source": "TGcom24",
+      "title": "Scontri 17 ottobre, perquisizioni in 18 città: identificati 51 minorenni",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/scontri-a-milano-intelligence-modello-ceuta_118026399-202602k.shtml",
+      "published": "2026-10-23T09:09:00+00:00"
+    },
+    {
+      "id": "ad23910c7f24f30b9f15",
+      "source": "BBC News",
+      "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+      "url": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T08:45:58+00:00"
+    },
+    {
+      "id": "b8c0464419deed17c167",
+      "source": "TGcom24",
+      "title": "Israele, Netanyahu: blocco della Cisgiordania dopo il ferimento di 5 soldati",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-23-ottobre_118023877-202602k.shtml",
+      "published": "2026-10-23T08:40:00+00:00"
+    },
+    {
+      "id": "ac0825f844f65b88e32c",
+      "source": "TGcom24",
+      "title": "Papa Leone XIV salterà la visita prevista ad Assisi: \"Troppo presto\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/papa-leone-xiv-salta-assisi_118029991-202602k.shtml",
+      "published": "2026-10-23T08:09:00+00:00"
+    },
+    {
+      "id": "7819fc0da0a80bf848c4",
+      "source": "BBC News",
+      "title": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T08:00:07+00:00"
+    },
+    {
+      "id": "665d08ad907e8c9cf1d1",
+      "source": "BBC News",
+      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
+      "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T07:52:32+00:00"
+    },
     {
       "id": "b4531b36930f49ef3eab",
       "source": "TGcom24",
@@ -61,13 +117,6 @@
       "published": "2026-10-23T05:00:00+00:00"
     },
     {
-      "id": "7819fc0da0a80bf848c4",
-      "source": "BBC News",
-      "title": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T04:54:25+00:00"
-    },
-    {
       "id": "122b1c38ab6f84f3014e",
       "source": "TGcom24",
       "title": "Terremoto in Tibet, almeno 16 vittime: dalla Cina massimi sforzi per i soccorsi",
@@ -89,18 +138,18 @@
       "published": "2026-10-23T01:38:44+00:00"
     },
     {
+      "id": "1a4846ae0fdf974535ac",
+      "source": "BBC News",
+      "title": "Attack on actor Tiger Shroff is dark reminder of Bollywood's gangster past",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgjk1lp7njo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T23:55:39+00:00"
+    },
+    {
       "id": "a298432e7b7f8c3d3939",
       "source": "BBC News",
       "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
       "url": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-22T23:16:20+00:00"
-    },
-    {
-      "id": "665d08ad907e8c9cf1d1",
-      "source": "BBC News",
-      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
-      "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T23:16:16+00:00"
     },
     {
       "id": "79bde72b176e0a5144ba",
@@ -117,25 +166,11 @@
       "published": "2026-10-22T21:59:00+00:00"
     },
     {
-      "id": "9dbda0c88ddb5146db44",
-      "source": "BBC News",
-      "title": "Trump says Musk has restored access to Ukraine's Starlink network",
-      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T21:42:39+00:00"
-    },
-    {
       "id": "0bdf2e25a6af684a1230",
       "source": "TGcom24",
       "title": "Protesta autotrasportatori, Garante degli scioperi chiede la precettazione",
       "url": "https://www.tgcom24.mediaset.it/cronaca/protesta-autotrasportatori-blocco-tir-cdm_117992966-202602k.shtml",
       "published": "2026-10-22T21:30:00+00:00"
-    },
-    {
-      "id": "4cc06d48e7c4b59e9731",
-      "source": "BBC News",
-      "title": "New York bans horse-drawn carriages after 160 years over safety and abuse concerns",
-      "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T20:49:12+00:00"
     },
     {
       "id": "ffc6e4370aec94bf74fb",
@@ -285,27 +320,6 @@
       "published": "2026-10-22T14:57:00+00:00"
     },
     {
-      "id": "1f96478bf5bd82b50388",
-      "source": "TGcom24",
-      "title": "Caso Shalabayeva, la Cassazione dispone il terzo appello per 5 poliziotti",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/caso-shalabayeva-cassazione-terzo-processo-appello_118003750-202602k.shtml",
-      "published": "2026-10-22T13:50:00+00:00"
-    },
-    {
-      "id": "fc1fb79d8663460cf46b",
-      "source": "TGcom24",
-      "title": "Ucraina, evacuazione forzata di famiglie con bambini a Kramatorsk e Slovyansk",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-22-ottobre_117988925-202602k.shtml",
-      "published": "2026-10-22T13:02:00+00:00"
-    },
-    {
-      "id": "9f890df60dbfabcd39ab",
-      "source": "TGcom24",
-      "title": "Nordio: \"Carceri giovanili in sofferenza, serve ampliamento\"",
-      "url": "https://www.tgcom24.mediaset.it/politica/carceri-minorili-in-sofferenza-nordio-propone-ampliamento_118000326-202602k.shtml",
-      "published": "2026-10-22T12:20:00+00:00"
-    },
-    {
       "id": "2db7c4702c305d5bd7d3",
       "source": "BBC News",
       "title": "AI discovered a massive cyber-security flaw - here's what happened",
@@ -318,13 +332,6 @@
       "title": "At least four dead after storm brings flooding to southern France",
       "url": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-22T11:23:16+00:00"
-    },
-    {
-      "id": "e7a9247de287131486ad",
-      "source": "BBC News",
-      "title": "What is PHP and why did it spark a global cyber-security scramble?",
-      "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T11:15:58+00:00"
     },
     {
       "id": "2fde282fed44bc76a01e",
@@ -353,13 +360,6 @@
       "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
       "url": "https://www.bbc.co.uk/news/videos/cmx2302xe931o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-21T22:02:18+00:00"
-    },
-    {
-      "id": "a62468650273891252ee",
-      "source": "BBC News",
-      "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
-      "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T19:58:06+00:00"
     }
   ]
 }
