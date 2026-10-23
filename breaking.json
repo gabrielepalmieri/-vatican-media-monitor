@@ -1,16 +1,100 @@
 {
-  "updated_at": "2026-10-23T14:28:53.146215+00:00",
+  "updated_at": "2026-10-23T18:35:50.954941+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-23T14:28:53.146215+00:00"
+      "checked_at": "2026-10-23T18:35:50.954941+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-23T14:28:53.146215+00:00"
+      "checked_at": "2026-10-23T18:35:50.954941+00:00"
     }
   },
   "items": [
+    {
+      "id": "7bbc20b2dc0f1c155747",
+      "source": "BBC News",
+      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T18:10:56+00:00"
+    },
+    {
+      "id": "81e43cb5ab01d17d0d83",
+      "source": "BBC News",
+      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T16:59:51+00:00"
+    },
+    {
+      "id": "df7746d2b9adc6392fee",
+      "source": "TGcom24",
+      "title": "Ucraina, l'annuncio di Mosca su Oleshky: \"Cessate il fuoco dal 27 ottobre\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-zelensky-russia-usa_118025428-202602k.shtml",
+      "published": "2026-10-23T16:54:00+00:00"
+    },
+    {
+      "id": "e1949abffa40748aa6e2",
+      "source": "TGcom24",
+      "title": "Eni: tetto al prezzo di benzina e diesel proseguirà fino a fine anno",
+      "url": "https://www.tgcom24.mediaset.it/economia/eni-tetto-al-prezzo-di-benzina-e-diesel-proseguira-fino-a-fine-anno_118047484-202602k.shtml",
+      "published": "2026-10-23T16:20:00+00:00"
+    },
+    {
+      "id": "9dbda0c88ddb5146db44",
+      "source": "BBC News",
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T16:19:36+00:00"
+    },
+    {
+      "id": "6af493a6169beeb8708e",
+      "source": "BBC News",
+      "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T16:17:02+00:00"
+    },
+    {
+      "id": "7afe6354ca4d4fb3cf52",
+      "source": "BBC News",
+      "title": "Watch: CCTV footage appears to show gunmen near church in Jordan",
+      "url": "https://www.bbc.co.uk/news/videos/c39wz712q0kzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T15:59:36+00:00"
+    },
+    {
+      "id": "daed189b940a8af4abc0",
+      "source": "TGcom24",
+      "title": "Uccide la madre in Slovenia e fugge in Italia, arrestato in Friuli",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/uccide-madre-slovenia-arrestato-friuli_118046789-202602k.shtml",
+      "published": "2026-10-23T15:48:00+00:00"
+    },
+    {
+      "id": "bcab05a46361e150b84f",
+      "source": "BBC News",
+      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T15:37:07+00:00"
+    },
+    {
+      "id": "2e34385cd81f51313675",
+      "source": "BBC News",
+      "title": "Oil spill washes up on UAE beaches after tanker strike",
+      "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T15:30:47+00:00"
+    },
+    {
+      "id": "4ad95997a65f7a2e4f6c",
+      "source": "TGcom24",
+      "title": "Spara in strada vicino a Parigi: un morto e 4 feriti gravi, tra cui una 12enne",
+      "url": "https://www.tgcom24.mediaset.it/mondo/francia-sparatoria-vicino-parigi-un-morto-feriti_118042826-202602k.shtml",
+      "published": "2026-10-23T15:09:00+00:00"
+    },
+    {
+      "id": "a97814bb29a5bcbbbbe9",
+      "source": "BBC News",
+      "title": "US justice department investigating Corey Lewandowski over DHS role",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly0dg453v8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T14:58:19+00:00"
+    },
     {
       "id": "adfe96dd4f7ac7ceca49",
       "source": "TGcom24",
@@ -19,25 +103,11 @@
       "published": "2026-10-23T14:25:00+00:00"
     },
     {
-      "id": "6af493a6169beeb8708e",
+      "id": "65ad9a5152757298e09c",
       "source": "BBC News",
-      "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
-      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T14:15:23+00:00"
-    },
-    {
-      "id": "81e43cb5ab01d17d0d83",
-      "source": "BBC News",
-      "title": "Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T14:13:33+00:00"
-    },
-    {
-      "id": "7bbc20b2dc0f1c155747",
-      "source": "BBC News",
-      "title": "Six shot dead by gunmen at church funeral in Jordan, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T14:02:16+00:00"
+      "title": "PSG v Lyon moved as Paris prepares for more protests",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T14:18:41+00:00"
     },
     {
       "id": "41cf33ad64fce27fd267",
@@ -49,16 +119,9 @@
     {
       "id": "5de785eb4ec8bd749574",
       "source": "TGcom24",
-      "title": "Ucraina, chiusi i quattro aeroporti di Mosca per allarme droni da Kiev",
+      "title": "Ucraina, chiusi e poi riaperti i 4 aeroporti di Mosca per allarme droni da Kiev",
       "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-zelensky-russia-usa_118025428-202602k.shtml",
       "published": "2026-10-23T13:23:00+00:00"
-    },
-    {
-      "id": "bcab05a46361e150b84f",
-      "source": "BBC News",
-      "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T12:48:52+00:00"
     },
     {
       "id": "0a6c975ac4b95b85ce23",
@@ -94,13 +157,6 @@
       "title": "Grecia, social vietati ai minori di 15 anni dal 2027",
       "url": "https://www.tgcom24.mediaset.it/mondo/grecia-social-vietati-under-15-dal-2027_118036049-202602k.shtml",
       "published": "2026-10-23T11:15:00+00:00"
-    },
-    {
-      "id": "9dbda0c88ddb5146db44",
-      "source": "BBC News",
-      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T11:01:08+00:00"
     },
     {
       "id": "e2f559050a2142179058",
@@ -208,13 +264,6 @@
       "published": "2026-10-23T07:03:00+00:00"
     },
     {
-      "id": "b623820cde4e299f3257",
-      "source": "BBC News",
-      "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T06:26:25+00:00"
-    },
-    {
       "id": "dd88d880d3b58b3170ab",
       "source": "TGcom24",
       "title": "Reggio Calabria, narcotrafficante latitante arrestato in una comunità di recupero",
@@ -299,39 +348,11 @@
       "published": "2026-10-22T21:59:00+00:00"
     },
     {
-      "id": "0bdf2e25a6af684a1230",
-      "source": "TGcom24",
-      "title": "Protesta autotrasportatori, Garante degli scioperi chiede la precettazione",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/protesta-autotrasportatori-blocco-tir-cdm_117992966-202602k.shtml",
-      "published": "2026-10-22T21:30:00+00:00"
-    },
-    {
       "id": "9c24037fd2fe12eb95c5",
       "source": "BBC News",
       "title": "'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
       "url": "https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-22T20:48:56+00:00"
-    },
-    {
-      "id": "ffc6e4370aec94bf74fb",
-      "source": "TGcom24",
-      "title": "Cisgiordania, fermate cinque attiviste italiane: Farnesina chiede il rilascio",
-      "url": "https://www.tgcom24.mediaset.it/mondo/cisgiordania-fermate-attiviste_118017888-202602k.shtml",
-      "published": "2026-10-22T20:08:00+00:00"
-    },
-    {
-      "id": "77767e5173f3f2853e40",
-      "source": "TGcom24",
-      "title": "Ucraina, Putin: pronti a riprendere negoziati trilaterali",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-22-ottobre_117988925-202602k.shtml",
-      "published": "2026-10-22T19:24:00+00:00"
-    },
-    {
-      "id": "ad3bb6f83a7c17d86fb9",
-      "source": "BBC News",
-      "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
-      "url": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T17:49:13+00:00"
     },
     {
       "id": "f8ec4c6ea6c7eadde23f",
