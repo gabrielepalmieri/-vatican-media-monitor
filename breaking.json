@@ -1,29 +1,43 @@
 {
-  "updated_at": "2026-10-23T00:21:01.240867+00:00",
+  "updated_at": "2026-10-23T05:02:16.418159+00:00",
   "sources": {
     "TGcom24": {
-      "ok": false,
-      "checked_at": "2026-10-23T00:21:01.240867+00:00"
+      "ok": true,
+      "checked_at": "2026-10-23T05:02:16.418159+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-23T00:21:01.240867+00:00"
+      "checked_at": "2026-10-23T05:02:16.418159+00:00"
     }
   },
   "items": [
+    {
+      "id": "f4deb9d7007d62f70fb2",
+      "source": "TGcom24",
+      "title": "Guerra in Iran, Trump e Netanyahu: \"Pronti a finire il lavoro\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-23-ottobre_118023877-202602k.shtml",
+      "published": "2026-10-23T05:00:00+00:00"
+    },
+    {
+      "id": "122b1c38ab6f84f3014e",
+      "source": "TGcom24",
+      "title": "Terremoto in Tibet, almeno 16 vittime: dalla Cina massimi sforzi per i soccorsi",
+      "url": "https://www.tgcom24.mediaset.it/mondo/terremoto-tibet-vittime-xi-soccorsi_118023875-202602k.shtml",
+      "published": "2026-10-23T04:31:00+00:00"
+    },
+    {
+      "id": "1e54afaa2e1689bb1ff0",
+      "source": "TGcom24",
+      "title": "Umbria, approvata la legge sul suicidio assistito",
+      "url": "https://www.tgcom24.mediaset.it/politica/umbria-legge-suicidio-assistito_118022288-202602k.shtml",
+      "published": "2026-10-23T04:00:00+00:00"
+    },
     {
       "id": "56b2886214a22ed5cba8",
       "source": "BBC News",
       "title": "Trump ordered to answer questions under oath in BBC lawsuit",
       "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T00:10:46+00:00"
-    },
-    {
-      "id": "926990701be1c1b03a65",
-      "source": "BBC News",
-      "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T00:00:38+00:00"
+      "published": "2026-10-23T01:38:44+00:00"
     },
     {
       "id": "a298432e7b7f8c3d3939",
@@ -45,6 +59,13 @@
       "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
       "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-22T22:27:53+00:00"
+    },
+    {
+      "id": "95228ee618933ef1678c",
+      "source": "TGcom24",
+      "title": "Movimento 17 ottobre, pubblicate le istruzioni per i cortei di sabato",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/movimento-17-ottobre-chat-telegram-istruzioni-cortei_118016494-202602k.shtml",
+      "published": "2026-10-22T21:59:00+00:00"
     },
     {
       "id": "9dbda0c88ddb5146db44",
@@ -369,34 +390,6 @@
       "published": "2026-10-22T09:27:10+00:00"
     },
     {
-      "id": "5c18a1046f2eb048ae14",
-      "source": "TGcom24",
-      "title": "Vertenza Eurallumina, quattro operai asserragliati a 60 metri d'altezza",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/eurallumina-operai-asserragliati_117995440-202602k.shtml",
-      "published": "2026-10-22T09:23:00+00:00"
-    },
-    {
-      "id": "961bfef04402c13ac551",
-      "source": "TGcom24",
-      "title": "Accordo Roma-Madrid, stop ai controlli Schengen alle frontiere con Italia",
-      "url": "https://www.tgcom24.mediaset.it/mondo/accordo-roma-madrid-stop-ai-controlli-schengen-alle-frontiere-con-italia_117994904-202602k.shtml",
-      "published": "2026-10-22T08:55:00+00:00"
-    },
-    {
-      "id": "dc736e9ac207075883d8",
-      "source": "TGcom24",
-      "title": "Caro carburanti, in autostrada il gasolio tocca i 2,3 euro al litro",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/protesta-autotrasportatori-gasolio-consiglio-dei-ministri_117992966-202602k.shtml",
-      "published": "2026-10-22T08:03:00+00:00"
-    },
-    {
-      "id": "5989445e87fb7ad5c12f",
-      "source": "TGcom24",
-      "title": "Ancona, truffe su fondi ricostruzione post sisma: 8 arresti e 51 indagati",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/ancona-truffe-fondi-ricostruzione-sisma-arresti-indagati_117991914-202602k.shtml",
-      "published": "2026-10-22T06:56:00+00:00"
-    },
-    {
       "id": "0d28c7fc2703f118cc11",
       "source": "BBC News",
       "title": "How Arab parties could hold critical balance of power in Israeli election",
@@ -430,13 +423,6 @@
       "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
       "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-21T19:58:06+00:00"
-    },
-    {
-      "id": "d2ce77c78516b5882e82",
-      "source": "BBC News",
-      "title": "Macron accuses foreign leaders of exploiting French riots",
-      "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T14:04:28+00:00"
     }
   ]
 }
