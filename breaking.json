@@ -1,29 +1,162 @@
 {
-  "updated_at": "2026-10-23T09:51:33.354144+00:00",
+  "updated_at": "2026-10-23T14:28:53.146215+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-23T09:51:33.354144+00:00"
+      "checked_at": "2026-10-23T14:28:53.146215+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-23T09:51:33.354144+00:00"
+      "checked_at": "2026-10-23T14:28:53.146215+00:00"
     }
   },
   "items": [
     {
+      "id": "adfe96dd4f7ac7ceca49",
+      "source": "TGcom24",
+      "title": "Monreale, in provincia di Palermo, è la Capitale italiana del libro 2027",
+      "url": "https://www.tgcom24.mediaset.it/cultura/monreale-capitale-italiana-libro-2027_118042627-202602k.shtml",
+      "published": "2026-10-23T14:25:00+00:00"
+    },
+    {
+      "id": "6af493a6169beeb8708e",
+      "source": "BBC News",
+      "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T14:15:23+00:00"
+    },
+    {
+      "id": "81e43cb5ab01d17d0d83",
+      "source": "BBC News",
+      "title": "Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T14:13:33+00:00"
+    },
+    {
+      "id": "7bbc20b2dc0f1c155747",
+      "source": "BBC News",
+      "title": "Six shot dead by gunmen at church funeral in Jordan, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T14:02:16+00:00"
+    },
+    {
+      "id": "41cf33ad64fce27fd267",
+      "source": "TGcom24",
+      "title": "Sabato di fuoco, il Movimento 17 ottobre: \"Comunicheremo le piazze all'ultimo\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/movimento-17-ottobre-protesta-sabato-piazze-comunicato_118040813-202602k.shtml",
+      "published": "2026-10-23T13:56:00+00:00"
+    },
+    {
+      "id": "5de785eb4ec8bd749574",
+      "source": "TGcom24",
+      "title": "Ucraina, chiusi i quattro aeroporti di Mosca per allarme droni da Kiev",
+      "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-zelensky-russia-usa_118025428-202602k.shtml",
+      "published": "2026-10-23T13:23:00+00:00"
+    },
+    {
       "id": "bcab05a46361e150b84f",
       "source": "BBC News",
-      "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+      "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
       "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T09:44:40+00:00"
+      "published": "2026-10-23T12:48:52+00:00"
+    },
+    {
+      "id": "0a6c975ac4b95b85ce23",
+      "source": "TGcom24",
+      "title": "Giordania, uomini armati sparano in una chiesa: almeno 7 morti",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-23-ottobre_118023877-202602k.shtml",
+      "published": "2026-10-23T12:30:00+00:00"
+    },
+    {
+      "id": "47df3bfa0379480b1e6b",
+      "source": "BBC News",
+      "title": "Denmark to ban mink farming in government U-turn",
+      "url": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T12:17:45+00:00"
+    },
+    {
+      "id": "6eb528ae0cfa0317c131",
+      "source": "TGcom24",
+      "title": "Tortona, bambina di 3 anni trovata morta in casa: arrestata la madre",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/tortona-bimba-3-anni-trovata-morta-arrestata-madre_118038723-202602k.shtml",
+      "published": "2026-10-23T11:48:00+00:00"
+    },
+    {
+      "id": "70fbd553f0bd35880c7a",
+      "source": "BBC News",
+      "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
+      "url": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T11:30:32+00:00"
+    },
+    {
+      "id": "370772ce750a8bcf8636",
+      "source": "TGcom24",
+      "title": "Grecia, social vietati ai minori di 15 anni dal 2027",
+      "url": "https://www.tgcom24.mediaset.it/mondo/grecia-social-vietati-under-15-dal-2027_118036049-202602k.shtml",
+      "published": "2026-10-23T11:15:00+00:00"
     },
     {
       "id": "9dbda0c88ddb5146db44",
       "source": "BBC News",
       "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
       "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T09:36:43+00:00"
+      "published": "2026-10-23T11:01:08+00:00"
+    },
+    {
+      "id": "e2f559050a2142179058",
+      "source": "TGcom24",
+      "title": "Scossa di terremoto di magnitudo 5 nel Tirreno meridionale, avvertita a Palermo",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/scosse-di-terremoto-nel-tirreno-meridionale-la-piu-alta-di-magnitudo-5-avvertita-anche-a-palermo_118035878-202602k.shtml",
+      "published": "2026-10-23T10:43:00+00:00"
+    },
+    {
+      "id": "23dd3643b6038706f306",
+      "source": "BBC News",
+      "title": "Malawi opposition demands answers over president's prolonged stay abroad",
+      "url": "https://www.bbc.co.uk/news/articles/cmx28en5wkypo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T10:36:01+00:00"
+    },
+    {
+      "id": "665d08ad907e8c9cf1d1",
+      "source": "BBC News",
+      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
+      "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T10:23:07+00:00"
+    },
+    {
+      "id": "48a8cbc4573f4161c304",
+      "source": "BBC News",
+      "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
+      "url": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T10:14:37+00:00"
+    },
+    {
+      "id": "7819fc0da0a80bf848c4",
+      "source": "BBC News",
+      "title": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T10:14:33+00:00"
+    },
+    {
+      "id": "a089341b5c846d117dd4",
+      "source": "TGcom24",
+      "title": "Varese, uccide la fidanzata e si costituisce in Abruzzo: fermato 53enne",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/femminicidio-varese-uccide-fidanzata-si-costituisce-abruzzo_118034170-202602k.shtml",
+      "published": "2026-10-23T10:12:00+00:00"
+    },
+    {
+      "id": "266358d4f0779b1e83bd",
+      "source": "TGcom24",
+      "title": "Guerra in Ucraina, altra nave mercantile colpita da droni nel Mar Nero",
+      "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-zelensky-russia-usa_118025428-202602k.shtml",
+      "published": "2026-10-23T09:46:00+00:00"
+    },
+    {
+      "id": "653854a57e3846302742",
+      "source": "BBC News",
+      "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyqn6ejyd4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T09:23:53+00:00"
     },
     {
       "id": "ff16b5a7f66570058ca1",
@@ -42,9 +175,16 @@
     {
       "id": "b8c0464419deed17c167",
       "source": "TGcom24",
-      "title": "Israele, Netanyahu: blocco della Cisgiordania dopo il ferimento di 5 soldati",
+      "title": "Israele, Netanyahu: blocco della Cisgiordania dopo l'uccisione di 2 soldati",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-23-ottobre_118023877-202602k.shtml",
       "published": "2026-10-23T08:40:00+00:00"
+    },
+    {
+      "id": "d3cf83b3a9dfac8b9bd3",
+      "source": "BBC News",
+      "title": "Rubio turns to small Indian town as US faces high oil prices",
+      "url": "https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T08:39:42+00:00"
     },
     {
       "id": "ac0825f844f65b88e32c",
@@ -52,20 +192,6 @@
       "title": "Papa Leone XIV salterà la visita prevista ad Assisi: \"Troppo presto\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/papa-leone-xiv-salta-assisi_118029991-202602k.shtml",
       "published": "2026-10-23T08:09:00+00:00"
-    },
-    {
-      "id": "7819fc0da0a80bf848c4",
-      "source": "BBC News",
-      "title": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T08:00:07+00:00"
-    },
-    {
-      "id": "665d08ad907e8c9cf1d1",
-      "source": "BBC News",
-      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
-      "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T07:52:32+00:00"
     },
     {
       "id": "b4531b36930f49ef3eab",
@@ -108,6 +234,13 @@
       "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
       "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-23T05:16:37+00:00"
+    },
+    {
+      "id": "0b0c181e6c880229d901",
+      "source": "BBC News",
+      "title": "Blue Planet III: Moment octopus escapes death after hunt gone wrong",
+      "url": "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T05:05:03+00:00"
     },
     {
       "id": "f4deb9d7007d62f70fb2",
@@ -173,25 +306,18 @@
       "published": "2026-10-22T21:30:00+00:00"
     },
     {
+      "id": "9c24037fd2fe12eb95c5",
+      "source": "BBC News",
+      "title": "'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
+      "url": "https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T20:48:56+00:00"
+    },
+    {
       "id": "ffc6e4370aec94bf74fb",
       "source": "TGcom24",
       "title": "Cisgiordania, fermate cinque attiviste italiane: Farnesina chiede il rilascio",
       "url": "https://www.tgcom24.mediaset.it/mondo/cisgiordania-fermate-attiviste_118017888-202602k.shtml",
       "published": "2026-10-22T20:08:00+00:00"
-    },
-    {
-      "id": "a9e273d46d119fe1ac2e",
-      "source": "BBC News",
-      "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
-      "url": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T19:27:57+00:00"
-    },
-    {
-      "id": "126b1cb5204a356946bf",
-      "source": "BBC News",
-      "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
-      "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T19:25:26+00:00"
     },
     {
       "id": "77767e5173f3f2853e40",
@@ -201,46 +327,11 @@
       "published": "2026-10-22T19:24:00+00:00"
     },
     {
-      "id": "f32def22a92c8a44019c",
-      "source": "BBC News",
-      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-      "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T18:26:56+00:00"
-    },
-    {
-      "id": "694ad79aa8a8c3fc96c6",
-      "source": "TGcom24",
-      "title": "Campobasso, segregò sua sorella per 20 anni: definitiva la condanna a 5 anni",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/campobasso-sorella-segregata-condanna-fratello_118008801-202602k.shtml",
-      "published": "2026-10-22T18:15:00+00:00"
-    },
-    {
       "id": "ad3bb6f83a7c17d86fb9",
       "source": "BBC News",
       "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
       "url": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-22T17:49:13+00:00"
-    },
-    {
-      "id": "23c894f58936438c2f16",
-      "source": "TGcom24",
-      "title": "Sanità e liste d'attesa, Agenas: 4 milioni visite ed esami fuori tempo massimo",
-      "url": "https://www.tgcom24.mediaset.it/salute/liste-attesa-sanita-regioni-dati_118008969-202602k.shtml",
-      "published": "2026-10-22T17:49:00+00:00"
-    },
-    {
-      "id": "d0147ebd5d474ec54d5e",
-      "source": "BBC News",
-      "title": "'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy71ldj3w9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T17:21:42+00:00"
-    },
-    {
-      "id": "c03f667a79145e701430",
-      "source": "TGcom24",
-      "title": "Il muletto si ribalta, incidente mortale sul lavoro nel Salernitano",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/salerno-cava-cernicchiara-morte-sul-lavoro-operaio_118010142-202602k.shtml",
-      "published": "2026-10-22T17:20:00+00:00"
     },
     {
       "id": "f8ec4c6ea6c7eadde23f",
@@ -250,46 +341,11 @@
       "published": "2026-10-22T17:12:51+00:00"
     },
     {
-      "id": "f37eff6514fb8536005e",
-      "source": "BBC News",
-      "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
-      "url": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T17:07:03+00:00"
-    },
-    {
-      "id": "627955db9ee0a946cf13",
-      "source": "BBC News",
-      "title": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
-      "url": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T17:01:47+00:00"
-    },
-    {
-      "id": "52ad4168fe5c7fee7f74",
-      "source": "TGcom24",
-      "title": "Forte terremoto di magnitudo 7 colpisce la regione del Tibet",
-      "url": "https://www.tgcom24.mediaset.it/mondo/terremoto-tibet-cina-22-ottobre-magnitudo-7_118008759-202602k.shtml",
-      "published": "2026-10-22T16:50:00+00:00"
-    },
-    {
-      "id": "3b00f4b284ea01916064",
-      "source": "TGcom24",
-      "title": "Cortei, Salvini: a Milano i militari pronti a intervenire con Lince e droni",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/cortei-salvini-i-militari-a-milano-potranno-intervenire-con-lince-e-droni-_118004200-02k.shtml",
-      "published": "2026-10-22T16:29:00+00:00"
-    },
-    {
       "id": "d162c1631bf374a53d1f",
       "source": "BBC News",
       "title": "Crowd of 50 beats foreigner to death in South Africa",
       "url": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-22T16:15:25+00:00"
-    },
-    {
-      "id": "3407126bc1df559566b0",
-      "source": "TGcom24",
-      "title": "Zelensky alla Cnn: \"Con Trump nulla di personale, ma io contrario a revoca sanzioni\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-22-ottobre_117988925-202602k.shtml",
-      "published": "2026-10-22T16:05:00+00:00"
     },
     {
       "id": "6d737f0707a034b2e3e1",
@@ -299,67 +355,11 @@
       "published": "2026-10-22T15:56:36+00:00"
     },
     {
-      "id": "62fc4d869d02d0a3eb9a",
-      "source": "TGcom24",
-      "title": "20enne morto impiccato nel Leccese, spunta ipotesi sfida social: aperta indagine",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/lecce-suicidio-studente-daniele-bonatesta-ipotesi-sfida-social_118005146-202602k.shtml",
-      "published": "2026-10-22T15:44:00+00:00"
-    },
-    {
       "id": "b1ff965d09472a51f32d",
       "source": "BBC News",
       "title": "Damaging hail pelts Phoenix in rare storm",
       "url": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-22T15:11:49+00:00"
-    },
-    {
-      "id": "45079570a86af4784526",
-      "source": "TGcom24",
-      "title": "Unione europea, Premio Sacharov alla Corte penale internazionale",
-      "url": "https://www.tgcom24.mediaset.it/cultura/premio-sacharov-corte-penale-internazionale-reazione-schlein_118004371-202602k.shtml",
-      "published": "2026-10-22T14:57:00+00:00"
-    },
-    {
-      "id": "2db7c4702c305d5bd7d3",
-      "source": "BBC News",
-      "title": "AI discovered a massive cyber-security flaw - here's what happened",
-      "url": "https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T12:17:44+00:00"
-    },
-    {
-      "id": "75331d2a90eca40aef9e",
-      "source": "BBC News",
-      "title": "At least four dead after storm brings flooding to southern France",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T11:23:16+00:00"
-    },
-    {
-      "id": "2fde282fed44bc76a01e",
-      "source": "BBC News",
-      "title": "Moment man rescued from sinking car by Australian TV reporter",
-      "url": "https://www.bbc.co.uk/news/videos/cwdr8zm3r5gko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T11:08:33+00:00"
-    },
-    {
-      "id": "0d28c7fc2703f118cc11",
-      "source": "BBC News",
-      "title": "How Arab parties could hold critical balance of power in Israeli election",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T05:30:22+00:00"
-    },
-    {
-      "id": "725853dac2f5eb0ee8b7",
-      "source": "BBC News",
-      "title": "The real reasons there are so few young politicians in the US",
-      "url": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T23:52:12+00:00"
-    },
-    {
-      "id": "8b84d88c19062e1457f4",
-      "source": "BBC News",
-      "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
-      "url": "https://www.bbc.co.uk/news/videos/cmx2302xe931o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T22:02:18+00:00"
     }
   ]
 }
