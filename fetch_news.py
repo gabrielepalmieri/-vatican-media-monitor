@@ -91,6 +91,8 @@ def social_queries(language: str) -> list[str]:
 # Feed pubblicati dalle testate: si affiancano alla ricerca, che può omettere
 # articoli recenti. Gli URL restano facoltativi: un errore non blocca il job.
 DIRECT_FEEDS = [
+    ("Italia", "Italiano", "Vatican News", "https://www.vaticannews.va/it.rss.xml"),
+    ("Stati Uniti", "English", "Vatican News", "https://www.vaticannews.va/en.rss.xml"),
     ("Italia", "Italiano", "Il Messaggero", "https://www.ilmessaggero.it/XML/?p=feed&sezione=Vaticano"),
     ("Italia", "Italiano", "la Repubblica", "https://www.repubblica.it/rss/homepage/rss2.0.xml"),
     ("Italia", "Italiano", "la Repubblica", "https://www.repubblica.it/rss/esteri/rss2.0.xml"),
@@ -115,6 +117,7 @@ PRIORITY_SOURCES = [
     ("Italia", "La Stampa", ["la stampa", "lastampa.it"], "lastampa.it"),
     ("Italia", "Il Sole 24 Ore", ["il sole 24 ore", "ilsole24ore.com"], "ilsole24ore.com"),
     ("Italia", "Avvenire", ["avvenire", "avvenire.it"], "avvenire.it"),
+    ("Italia", "Vatican News", ["vatican news", "vaticannews.va"], "vaticannews.va"),
     ("Italia", "Famiglia Cristiana", ["famiglia cristiana", "famigliacristiana.it"], "famigliacristiana.it"),
     ("Italia", "La Nuova Bussola Quotidiana", ["la nuova bussola quotidiana","lanuovabq.it"], "lanuovabq.it"),
     ("Italia", "Silere Non Possum", ["silere non possum", "silerenonpossum.com"], "silerenonpossum.com"),
@@ -464,6 +467,7 @@ def main() -> None:
     print(f"Salvati {len(result)} contenuti in {OUT}")
 
 if __name__ == "__main__": main()
+
 
 
 
