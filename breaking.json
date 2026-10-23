@@ -1,29 +1,78 @@
 {
-  "updated_at": "2026-10-23T18:35:50.954941+00:00",
+  "updated_at": "2026-10-23T21:37:33.814698+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-23T18:35:50.954941+00:00"
+      "checked_at": "2026-10-23T21:37:33.814698+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-23T18:35:50.954941+00:00"
+      "checked_at": "2026-10-23T21:37:33.814698+00:00"
     }
   },
   "items": [
+    {
+      "id": "4f892d46e27074447208",
+      "source": "TGcom24",
+      "title": "Usa, Trump: \"Chiameremo lo Stretto di Hormuz con il mio nome\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/trump-stretto-di-hormuz-cambio-nome-oceano-atlantico_118055655-202602k.shtml",
+      "published": "2026-10-23T21:19:00+00:00"
+    },
+    {
+      "id": "a2ad9a5931b3418e6f5e",
+      "source": "BBC News",
+      "title": "Argentina drops investigation into President Milei over crypto fraud",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T20:59:39+00:00"
+    },
+    {
+      "id": "ff5f9c5d2da0e6932143",
+      "source": "BBC News",
+      "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
+      "url": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T20:18:13+00:00"
+    },
     {
       "id": "7bbc20b2dc0f1c155747",
       "source": "BBC News",
       "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
       "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T18:10:56+00:00"
+      "published": "2026-10-23T19:46:30+00:00"
+    },
+    {
+      "id": "6af493a6169beeb8708e",
+      "source": "BBC News",
+      "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T19:42:08+00:00"
     },
     {
       "id": "81e43cb5ab01d17d0d83",
       "source": "BBC News",
-      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+      "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
       "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T16:59:51+00:00"
+      "published": "2026-10-23T19:30:19+00:00"
+    },
+    {
+      "id": "e02019a8651b67336d57",
+      "source": "TGcom24",
+      "title": "Attentato vicino Parigi, Macron: \"Risparmiate persone in base al colore della pelle\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/francia-sparatoria-vicino-parigi-un-morto-feriti_118042826-202602k.shtml",
+      "published": "2026-10-23T19:17:00+00:00"
+    },
+    {
+      "id": "9dbda0c88ddb5146db44",
+      "source": "BBC News",
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T18:52:17+00:00"
+    },
+    {
+      "id": "f208abc52c88b2becc1f",
+      "source": "TGcom24",
+      "title": "Fermate in Cisgiordania, Tajani: \"Rientro delle attiviste previsto per il 24 ottobre\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/cisgiordania-fermate-attiviste_118017888-202602k.shtml",
+      "published": "2026-10-23T18:42:00+00:00"
     },
     {
       "id": "df7746d2b9adc6392fee",
@@ -40,23 +89,9 @@
       "published": "2026-10-23T16:20:00+00:00"
     },
     {
-      "id": "9dbda0c88ddb5146db44",
-      "source": "BBC News",
-      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T16:19:36+00:00"
-    },
-    {
-      "id": "6af493a6169beeb8708e",
-      "source": "BBC News",
-      "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
-      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T16:17:02+00:00"
-    },
-    {
       "id": "7afe6354ca4d4fb3cf52",
       "source": "BBC News",
-      "title": "Watch: CCTV footage appears to show gunmen near church in Jordan",
+      "title": "Watch: CCTV footage shows gunmen near church in Jordan",
       "url": "https://www.bbc.co.uk/news/videos/c39wz712q0kzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-23T15:59:36+00:00"
     },
@@ -87,13 +122,6 @@
       "title": "Spara in strada vicino a Parigi: un morto e 4 feriti gravi, tra cui una 12enne",
       "url": "https://www.tgcom24.mediaset.it/mondo/francia-sparatoria-vicino-parigi-un-morto-feriti_118042826-202602k.shtml",
       "published": "2026-10-23T15:09:00+00:00"
-    },
-    {
-      "id": "a97814bb29a5bcbbbbe9",
-      "source": "BBC News",
-      "title": "US justice department investigating Corey Lewandowski over DHS role",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly0dg453v8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T14:58:19+00:00"
     },
     {
       "id": "adfe96dd4f7ac7ceca49",
@@ -166,20 +194,6 @@
       "published": "2026-10-23T10:43:00+00:00"
     },
     {
-      "id": "23dd3643b6038706f306",
-      "source": "BBC News",
-      "title": "Malawi opposition demands answers over president's prolonged stay abroad",
-      "url": "https://www.bbc.co.uk/news/articles/cmx28en5wkypo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T10:36:01+00:00"
-    },
-    {
-      "id": "665d08ad907e8c9cf1d1",
-      "source": "BBC News",
-      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
-      "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T10:23:07+00:00"
-    },
-    {
       "id": "48a8cbc4573f4161c304",
       "source": "BBC News",
       "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
@@ -220,13 +234,6 @@
       "title": "Scontri 17 ottobre, perquisizioni in 18 città: identificati 51 minorenni",
       "url": "https://www.tgcom24.mediaset.it/cronaca/scontri-a-milano-intelligence-modello-ceuta_118026399-202602k.shtml",
       "published": "2026-10-23T09:09:00+00:00"
-    },
-    {
-      "id": "ad23910c7f24f30b9f15",
-      "source": "BBC News",
-      "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
-      "url": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T08:45:58+00:00"
     },
     {
       "id": "b8c0464419deed17c167",
@@ -278,46 +285,11 @@
       "published": "2026-10-23T05:47:00+00:00"
     },
     {
-      "id": "926990701be1c1b03a65",
-      "source": "BBC News",
-      "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T05:16:37+00:00"
-    },
-    {
       "id": "0b0c181e6c880229d901",
       "source": "BBC News",
       "title": "Blue Planet III: Moment octopus escapes death after hunt gone wrong",
       "url": "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-23T05:05:03+00:00"
-    },
-    {
-      "id": "f4deb9d7007d62f70fb2",
-      "source": "TGcom24",
-      "title": "Guerra in Iran, Trump e Netanyahu: \"Pronti a finire il lavoro\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-israele-ultime-notizie-23-ottobre_118023877-202602k.shtml",
-      "published": "2026-10-23T05:00:00+00:00"
-    },
-    {
-      "id": "122b1c38ab6f84f3014e",
-      "source": "TGcom24",
-      "title": "Terremoto in Tibet, almeno 16 vittime: dalla Cina massimi sforzi per i soccorsi",
-      "url": "https://www.tgcom24.mediaset.it/mondo/terremoto-tibet-vittime-xi-soccorsi_118023875-202602k.shtml",
-      "published": "2026-10-23T04:31:00+00:00"
-    },
-    {
-      "id": "1e54afaa2e1689bb1ff0",
-      "source": "TGcom24",
-      "title": "Umbria, approvata la legge sul suicidio assistito",
-      "url": "https://www.tgcom24.mediaset.it/politica/umbria-legge-suicidio-assistito_118022288-202602k.shtml",
-      "published": "2026-10-23T04:00:00+00:00"
-    },
-    {
-      "id": "56b2886214a22ed5cba8",
-      "source": "BBC News",
-      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T01:38:44+00:00"
     },
     {
       "id": "1a4846ae0fdf974535ac",
@@ -334,46 +306,11 @@
       "published": "2026-10-22T23:16:20+00:00"
     },
     {
-      "id": "79bde72b176e0a5144ba",
-      "source": "BBC News",
-      "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
-      "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T22:27:53+00:00"
-    },
-    {
-      "id": "95228ee618933ef1678c",
-      "source": "TGcom24",
-      "title": "Movimento 17 ottobre, pubblicate le istruzioni per i cortei di sabato",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/movimento-17-ottobre-chat-telegram-istruzioni-cortei_118016494-202602k.shtml",
-      "published": "2026-10-22T21:59:00+00:00"
-    },
-    {
       "id": "9c24037fd2fe12eb95c5",
       "source": "BBC News",
       "title": "'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
       "url": "https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-22T20:48:56+00:00"
-    },
-    {
-      "id": "f8ec4c6ea6c7eadde23f",
-      "source": "BBC News",
-      "title": "Race to update services' computer systems after cyber-security flaw found",
-      "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T17:12:51+00:00"
-    },
-    {
-      "id": "d162c1631bf374a53d1f",
-      "source": "BBC News",
-      "title": "Crowd of 50 beats foreigner to death in South Africa",
-      "url": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T16:15:25+00:00"
-    },
-    {
-      "id": "6d737f0707a034b2e3e1",
-      "source": "BBC News",
-      "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-      "url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T15:56:36+00:00"
     },
     {
       "id": "b1ff965d09472a51f32d",
