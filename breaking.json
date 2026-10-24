@@ -1,16 +1,51 @@
 {
-  "updated_at": "2026-10-24T21:08:49.495806+00:00",
+  "updated_at": "2026-10-24T23:07:27.085085+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-24T21:08:49.495806+00:00"
+      "checked_at": "2026-10-24T23:07:27.085085+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-24T21:08:49.495806+00:00"
+      "checked_at": "2026-10-24T23:07:27.085085+00:00"
     }
   },
   "items": [
+    {
+      "id": "05780620223f18a4fe0f",
+      "source": "BBC News",
+      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T23:02:06+00:00"
+    },
+    {
+      "id": "5a237dae3d95f0d033f1",
+      "source": "BBC News",
+      "title": "Who are the candidates in Brazil's presidential election?",
+      "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T22:08:47+00:00"
+    },
+    {
+      "id": "d76f9d395be13740370a",
+      "source": "TGcom24",
+      "title": "Cisgiordania, Katz: \"Circa 2mila palestinesi evacuati in un giorno da Hebron\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/cisgiordania-katz-circa-2mila-palestinesi-evacuati-in-un-giorno-da-hebron-_118101419-202602k.shtml",
+      "published": "2026-10-24T21:58:00+00:00"
+    },
+    {
+      "id": "12c11d004a1176eb855d",
+      "source": "TGcom24",
+      "title": "Piantedosi: \"In pochi giorni individuata la mente del Movimento 17 ottobre\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/manifestazioni-scontri-sabato-24-ottobre_118054760-202602k.shtml",
+      "published": "2026-10-24T21:23:00+00:00"
+    },
+    {
+      "id": "ff2491dc847f2e2709db",
+      "source": "BBC News",
+      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T21:09:27+00:00"
+    },
     {
       "id": "cafa1ad9507a6b65fb06",
       "source": "TGcom24",
@@ -59,13 +94,6 @@
       "title": "Two rescued after Nairobi building collapse with five still missing",
       "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-24T17:25:46+00:00"
-    },
-    {
-      "id": "05780620223f18a4fe0f",
-      "source": "BBC News",
-      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-      "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T17:21:42+00:00"
     },
     {
       "id": "07957ac8781a3f31a523",
@@ -208,32 +236,11 @@
       "published": "2026-10-24T09:23:00+00:00"
     },
     {
-      "id": "8abdf7c8de346d7105cc",
-      "source": "TGcom24",
-      "title": "Sciame sismico al largo della Sicilia: 44 scosse registrate dalla mezzanotte",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/sicilia-terremoto-al-largo-44-scosse_118064382-202602k.shtml",
-      "published": "2026-10-24T08:45:00+00:00"
-    },
-    {
-      "id": "595b0dd91f7f2fb18580",
-      "source": "TGcom24",
-      "title": "Sabato di proteste, oltre 150 perquisizioni a Milano e altre 20 città",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/manifestazioni-scontri-sabato-24-ottobre_118054760-202602k.shtml",
-      "published": "2026-10-24T08:04:00+00:00"
-    },
-    {
       "id": "81e43cb5ab01d17d0d83",
       "source": "BBC News",
       "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
       "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-24T07:17:44+00:00"
-    },
-    {
-      "id": "4b18943f61147714ee12",
-      "source": "TGcom24",
-      "title": "Scontri di piazza, \"noi vigilanti validi deterrenti contro la violenza”",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/scontri-piazza-vigilanza-privata-intervista-assiv_118047867-202602k.shtml",
-      "published": "2026-10-24T07:17:00+00:00"
     },
     {
       "id": "1353299cfa47626efb46",
@@ -353,13 +360,6 @@
       "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
       "url": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-23T11:30:32+00:00"
-    },
-    {
-      "id": "653854a57e3846302742",
-      "source": "BBC News",
-      "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyqn6ejyd4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T09:23:53+00:00"
     }
   ]
 }
