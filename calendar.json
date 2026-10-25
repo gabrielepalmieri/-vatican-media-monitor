@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-24T09:28:45.828512+00:00",
+  "updated_at": "2026-10-25T00:18:38.290967+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-10-24T09:28:45.828512+00:00",
+  "un_verified_at": "2026-10-25T00:18:38.290967+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,26 +1918,6 @@
     }
   ],
   "days": {
-    "2026-10-23": {
-      "saints": [
-        {
-          "title": "San Giovanni da Capestrano, sacerdote francescano, patrono dei cappellani militari",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/23/san-giovanni-da-capestrano--sacerdote-francescano--patrono-dei-c.html"
-        },
-        {
-          "title": "San Severino Boezio, filosofo romano e martire",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/23/san-severino-boezio--filosofo-romano-e-martire.html"
-        }
-      ],
-      "un": [
-        {
-          "title": "Giornata internazionale del leopardo delle nevi",
-          "url": "https://www.un.org/en/observances/snow-leopard-day"
-        }
-      ],
-      "un_available": true,
-      "holy_see": []
-    },
     "2026-10-24": {
       "saints": [
         {
@@ -2600,6 +2580,22 @@
         }
       ],
       "un": [],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-11-29": {
+      "saints": [
+        {
+          "title": "San Saturnino martire, sulla via Salaria nuova",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/29/san-saturnino-martire--sulla-via-salaria-nuova.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata internazionale di solidarietà con il popolo palestinese",
+          "url": "https://www.un.org/en/observances/international-day-of-solidarity-with-the-palestinian-people"
+        }
+      ],
       "un_available": true,
       "holy_see": []
     }
