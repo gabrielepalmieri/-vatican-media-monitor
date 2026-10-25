@@ -1,22 +1,50 @@
 {
-  "updated_at": "2026-10-25T20:00:05.532500+00:00",
+  "updated_at": "2026-10-25T22:19:17.759609+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-25T20:00:05.532500+00:00"
+      "checked_at": "2026-10-25T22:19:17.759609+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-25T20:00:05.532500+00:00"
+      "checked_at": "2026-10-25T22:19:17.759609+00:00"
     }
   },
   "items": [
     {
-      "id": "81cd565b7891c5f6d624",
+      "id": "62c5733ae2e9f04fc8a2",
       "source": "BBC News",
-      "title": "Early reports suggest record high turnout in Serbia elections",
-      "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25T19:55:15+00:00"
+      "title": "Deeply divided Israel braces for pivotal election",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T22:11:13+00:00"
+    },
+    {
+      "id": "cefbb21843c919c86eb6",
+      "source": "BBC News",
+      "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T22:06:26+00:00"
+    },
+    {
+      "id": "6bfc2c313d4a15d96c00",
+      "source": "BBC News",
+      "title": "Why Israel's election is one of the most important in its history",
+      "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T22:05:30+00:00"
+    },
+    {
+      "id": "1a521a88f5d3b3b75192",
+      "source": "TGcom24",
+      "title": "Serbia, Vucic ammette la sconfitta: vince la Lista degli studenti",
+      "url": "https://www.tgcom24.mediaset.it/mondo/elezioni-serbia-presidente-risultati_118147027-202602k.shtml",
+      "published": "2026-10-25T21:06:00+00:00"
+    },
+    {
+      "id": "7bae85c23b2775fd8490",
+      "source": "TGcom24",
+      "title": "Brasile, seggi aperti due ore in più per il ballottaggio Bolsonaro-Lula",
+      "url": "https://www.tgcom24.mediaset.it/mondo/presidenziali-brasile-risultati_118145024-202602k.shtml",
+      "published": "2026-10-25T20:29:00+00:00"
     },
     {
       "id": "a8edf78c1c6b5f2a3aa6",
@@ -201,32 +229,11 @@
       "published": "2026-10-25T07:31:00+00:00"
     },
     {
-      "id": "9cfb5411b1d38d3cc8af",
-      "source": "TGcom24",
-      "title": "Russia, attacco ucraino con droni a Belgorod: almeno un morto e dieci feriti",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-25-ottobre_118108510-202602k.shtml",
-      "published": "2026-10-25T07:02:00+00:00"
-    },
-    {
-      "id": "59f8612d9ae2774e40b6",
-      "source": "TGcom24",
-      "title": "Portogallo, proteste in diverse città per il diritto alla casa",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/portogallo-proteste-in-diverse-citta-per-il-diritto-alla-casa_118108513-02k.shtml",
-      "published": "2026-10-25T06:33:00+00:00"
-    },
-    {
       "id": "45a9d0ec98529a3d758c",
       "source": "BBC News",
       "title": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
       "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-25T05:45:31+00:00"
-    },
-    {
-      "id": "a4d62ec824cea7955e51",
-      "source": "TGcom24",
-      "title": "Aereo civile sorvola la residenza di Trump a Mar-a-Lago: intercettato da caccia militari",
-      "url": "https://www.tgcom24.mediaset.it/mondo/usa-florida-mar-a-lago-aereo-civile-su-residenza-donald-trump_118108508-202602k.shtml",
-      "published": "2026-10-25T05:34:00+00:00"
     },
     {
       "id": "131da791ed45572cb9e2",
@@ -311,20 +318,6 @@
       "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
       "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-24T15:21:44+00:00"
-    },
-    {
-      "id": "7cad08e3d097d1c78e24",
-      "source": "BBC News",
-      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T09:46:53+00:00"
-    },
-    {
-      "id": "0d54e96387211b400ee3",
-      "source": "BBC News",
-      "title": "Three released without charge after fatal arson attack in Ireland",
-      "url": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T09:38:28+00:00"
     }
   ]
 }
