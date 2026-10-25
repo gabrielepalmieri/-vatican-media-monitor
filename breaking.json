@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-10-25T01:03:29.138465+00:00",
+  "updated_at": "2026-10-25T05:59:32.543657+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-25T01:03:29.138465+00:00"
+      "checked_at": "2026-10-25T05:59:32.543657+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-25T01:03:29.138465+00:00"
+      "checked_at": "2026-10-25T05:59:32.543657+00:00"
     }
   },
   "items": [
+    {
+      "id": "a4d62ec824cea7955e51",
+      "source": "TGcom24",
+      "title": "Aereo civile sorvola la residenza di Trump a Mar-a-Lago: intercettato da caccia militari",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-florida-mar-a-lago-aereo-civile-su-residenza-donald-trump_118108508-202602k.shtml",
+      "published": "2026-10-25T05:34:00+00:00"
+    },
+    {
+      "id": "fa1cb72fd176831eac3e",
+      "source": "TGcom24",
+      "title": "Riad, l'aeroporto riprende i voli dopo due settimane di chiusura per attacchi Houthi",
+      "url": "https://www.tgcom24.mediaset.it/mondo/l-aeroporto-internazionale-di-riad-riprende-i-voli_118101456-202602k.shtml",
+      "published": "2026-10-25T05:02:00+00:00"
+    },
+    {
+      "id": "ff2491dc847f2e2709db",
+      "source": "BBC News",
+      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T04:16:52+00:00"
+    },
     {
       "id": "05780620223f18a4fe0f",
       "source": "BBC News",
@@ -38,13 +59,6 @@
       "title": "Piantedosi: \"In pochi giorni individuata la mente del Movimento 17 ottobre\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/manifestazioni-scontri-sabato-24-ottobre_118054760-202602k.shtml",
       "published": "2026-10-24T21:23:00+00:00"
-    },
-    {
-      "id": "ff2491dc847f2e2709db",
-      "source": "BBC News",
-      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T21:09:27+00:00"
     },
     {
       "id": "cafa1ad9507a6b65fb06",
@@ -208,13 +222,6 @@
       "published": "2026-10-24T10:16:00+00:00"
     },
     {
-      "id": "a03aad7a96ec3c7e90d0",
-      "source": "TGcom24",
-      "title": "Allarme Cgia: in Italia c'è un pensionato per ogni lavoratore",
-      "url": "https://www.tgcom24.mediaset.it/economia/pensioni-allarme-cgia-un-lavoratore-per-assegno-erogato_118065040-202602k.shtml",
-      "published": "2026-10-24T09:49:00+00:00"
-    },
-    {
       "id": "7cad08e3d097d1c78e24",
       "source": "BBC News",
       "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
@@ -227,13 +234,6 @@
       "title": "Three released without charge after fatal arson attack in Ireland",
       "url": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-24T09:38:28+00:00"
-    },
-    {
-      "id": "d278dcbff19918ee5d33",
-      "source": "TGcom24",
-      "title": "Proteste, ambasciata russa: ormai Mosca dietro a ogni problema in Italia",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/manifestazioni-scontri-sabato-24-ottobre_118054760-202602k.shtml",
-      "published": "2026-10-24T09:23:00+00:00"
     },
     {
       "id": "81e43cb5ab01d17d0d83",
@@ -346,13 +346,6 @@
       "title": "Trump administration sues to block certification of upcoming Alaska election",
       "url": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-23T18:49:14+00:00"
-    },
-    {
-      "id": "2e34385cd81f51313675",
-      "source": "BBC News",
-      "title": "Oil spill washes up on UAE beaches after tanker strike",
-      "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T15:30:47+00:00"
     }
   ]
 }
