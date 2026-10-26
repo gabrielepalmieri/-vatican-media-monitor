@@ -1,22 +1,43 @@
 {
-  "updated_at": "2026-10-26T00:26:47.828930+00:00",
+  "updated_at": "2026-10-26T05:05:58.814778+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-26T00:26:47.828930+00:00"
+      "checked_at": "2026-10-26T05:05:58.814778+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-26T00:26:47.828930+00:00"
+      "checked_at": "2026-10-26T05:05:58.814778+00:00"
     }
   },
   "items": [
+    {
+      "id": "5d342d4c73395a039a87",
+      "source": "TGcom24",
+      "title": "Kenya, schianto frontale tra bus e camion: almeno 24 morti",
+      "url": "https://www.tgcom24.mediaset.it/mondo/kenya-frontale-bus-camion-morti_118152479-202602k.shtml",
+      "published": "2026-10-26T05:00:00+00:00"
+    },
     {
       "id": "85cb661f0a22fe672041",
       "source": "BBC News",
       "title": "Venezuelan opposition leader María Machado returns after months in exile",
       "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25T23:33:14+00:00"
+      "published": "2026-10-26T03:05:22+00:00"
+    },
+    {
+      "id": "cefbb21843c919c86eb6",
+      "source": "BBC News",
+      "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T01:07:05+00:00"
+    },
+    {
+      "id": "ccdda7399b44799aa14b",
+      "source": "TGcom24",
+      "title": "Brasile, Lula eletto presidente per la quarta volta",
+      "url": "https://www.tgcom24.mediaset.it/mondo/presidenziali-brasile-risultati_118145024-202602k.shtml",
+      "published": "2026-10-26T00:35:00+00:00"
     },
     {
       "id": "5c1b8b841b4be6f859c4",
@@ -24,13 +45,6 @@
       "title": "Elezioni in Serbia, scoppia la festa degli studenti nelle piazze del Paese",
       "url": "https://www.tgcom24.mediaset.it/2026/video/serbia-studenti-in-piazza-per-la-vittoria-alle-elezioni_118149032-02k.shtml",
       "published": "2026-10-25T23:07:00+00:00"
-    },
-    {
-      "id": "cefbb21843c919c86eb6",
-      "source": "BBC News",
-      "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25T22:54:57+00:00"
     },
     {
       "id": "540c2825cae2288502e9",
@@ -59,13 +73,6 @@
       "title": "Serbia, Vucic ammette la sconfitta: vince la Lista degli studenti",
       "url": "https://www.tgcom24.mediaset.it/mondo/elezioni-serbia-presidente-risultati_118147027-202602k.shtml",
       "published": "2026-10-25T21:06:00+00:00"
-    },
-    {
-      "id": "7bae85c23b2775fd8490",
-      "source": "TGcom24",
-      "title": "Brasile, seggi aperti due ore in più per il ballottaggio Bolsonaro-Lula",
-      "url": "https://www.tgcom24.mediaset.it/mondo/presidenziali-brasile-risultati_118145024-202602k.shtml",
-      "published": "2026-10-25T20:29:00+00:00"
     },
     {
       "id": "a8edf78c1c6b5f2a3aa6",
@@ -215,13 +222,6 @@
       "published": "2026-10-25T09:00:00+00:00"
     },
     {
-      "id": "9b00c7686ec6b628496c",
-      "source": "TGcom24",
-      "title": "Iran, due funzionari al Nyt: \"Lecito colpire personale Usa in caso di attacco\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/iran-stati-uniti-israele-colpire-diplomatici-attacco_118112766-202602k.shtml",
-      "published": "2026-10-25T08:43:00+00:00"
-    },
-    {
       "id": "bcc37af3ff776f3f2ef7",
       "source": "BBC News",
       "title": "'I cannot teach you integrity': How employee theft is hurting small businesses in Africa",
@@ -304,20 +304,6 @@
       "title": "Two rescued after Nairobi building collapse with five still missing",
       "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-24T17:25:46+00:00"
-    },
-    {
-      "id": "3e9e48616c1af6b5dec4",
-      "source": "BBC News",
-      "title": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
-      "url": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T15:56:48+00:00"
-    },
-    {
-      "id": "3244a08701c1e98552f7",
-      "source": "BBC News",
-      "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
-      "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T15:21:44+00:00"
     }
   ]
 }
