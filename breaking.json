@@ -1,16 +1,142 @@
 {
-  "updated_at": "2026-10-26T05:05:58.814778+00:00",
+  "updated_at": "2026-10-26T11:00:08.619413+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-26T05:05:58.814778+00:00"
+      "checked_at": "2026-10-26T11:00:08.619413+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-26T05:05:58.814778+00:00"
+      "checked_at": "2026-10-26T11:00:08.619413+00:00"
     }
   },
   "items": [
+    {
+      "id": "642d0bb2d3dc28388f0f",
+      "source": "TGcom24",
+      "title": "Israele, l'opposizione chiede di avviare un'inchiesta per tradimento contro Netanyahu",
+      "url": "https://www.tgcom24.mediaset.it/mondo/israele-chiesta-procura-inchiesta-tradimento-netanyahu_118159912-202602k.shtml",
+      "published": "2026-10-26T10:26:00+00:00"
+    },
+    {
+      "id": "e003a419bea4a71084bb",
+      "source": "TGcom24",
+      "title": "Vicenza, si scaldano con un braciere: famiglia con bimbi intossicata da monossido",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/vicenza-monossido-braciere-bambini-isola-vicentina_118160435-202602k.shtml",
+      "published": "2026-10-26T09:43:00+00:00"
+    },
+    {
+      "id": "e9883ba5f84665df4d06",
+      "source": "BBC News",
+      "title": "Crowds welcome Venezuela's María Machado after months in exile",
+      "url": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T09:31:12+00:00"
+    },
+    {
+      "id": "da0c93a087d6b4c58637",
+      "source": "TGcom24",
+      "title": "Carburanti, Q8 Italia conferma price cap fino a fine anno",
+      "url": "https://www.tgcom24.mediaset.it/economia/carburanti-q8-italia-price-cap-proroga_118159839-202602k.shtml",
+      "published": "2026-10-26T09:15:00+00:00"
+    },
+    {
+      "id": "cefbb21843c919c86eb6",
+      "source": "BBC News",
+      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T09:04:47+00:00"
+    },
+    {
+      "id": "6c119253388586ac84a1",
+      "source": "TGcom24",
+      "title": "Sanità, Corte dei conti: accelerare le misure per ridurre le liste d'attesa",
+      "url": "https://www.tgcom24.mediaset.it/economia/sanita-corte-dei-conti-liste-d-attesa_118157355-202602k.shtml",
+      "published": "2026-10-26T08:45:00+00:00"
+    },
+    {
+      "id": "abf2cfbf8bdee104a923",
+      "source": "TGcom24",
+      "title": "Elezioni Brasile, Bolsonaro prepara il ricorso: \"Regole del gioco cambiate a partita in corso\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/presidenziali-brasile-risultati_118145024-202602k.shtml",
+      "published": "2026-10-26T08:19:00+00:00"
+    },
+    {
+      "id": "fecc3befab81099391d0",
+      "source": "BBC News",
+      "title": "Uganda imposes 21-day quarantine on citizens returning from DR Congo",
+      "url": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T08:18:22+00:00"
+    },
+    {
+      "id": "c61b43d27ec7309a4959",
+      "source": "TGcom24",
+      "title": "Il 30 ottobre in piazza, macchina della sicurezza già al lavoro",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/30-ottobre-piazza-macchina-sicurezza-al-lavoro_118156773-202602k.shtml",
+      "published": "2026-10-26T07:51:00+00:00"
+    },
+    {
+      "id": "d957de57242aa9651f83",
+      "source": "BBC News",
+      "title": "China's big political meeting could see Xi 'tighten discipline' in Party",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T07:40:57+00:00"
+    },
+    {
+      "id": "309be53c9e462bef4a74",
+      "source": "TGcom24",
+      "title": "Naro (Agrigento), scontro auto-tir: 4 operai morti, stavano andando a lavorare",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/naro-agrigento-incidente-morti_118157356-202602k.shtml",
+      "published": "2026-10-26T07:32:00+00:00"
+    },
+    {
+      "id": "61bee3f75fbe01b9516a",
+      "source": "TGcom24",
+      "title": "Youssef Siher in carcere, attesa per l'udienza di convalida del fermo",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/proteste-milano-movimento-17-ottobre-youssef-siher-udienza-convalida-fermo_118154866-202602k.shtml",
+      "published": "2026-10-26T06:53:00+00:00"
+    },
+    {
+      "id": "638b70c2e1708e6f63e0",
+      "source": "TGcom24",
+      "title": "Ucraina, droni sulla città russa di Voronezh: esplosioni e incendi, due morti",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-26ottobre_118154808-202602k.shtml",
+      "published": "2026-10-26T06:31:00+00:00"
+    },
+    {
+      "id": "cb661826cd6e67168d3a",
+      "source": "BBC News",
+      "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
+      "url": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T06:16:15+00:00"
+    },
+    {
+      "id": "bada3c683062efda6cc2",
+      "source": "TGcom24",
+      "title": "Albania, nuovi scontri a Tirana: diversi feriti",
+      "url": "https://www.tgcom24.mediaset.it/mondo/albania-proteste-tirana-feriti-tredicesima-giornata-mobilitazione_118154778-202602k.shtml",
+      "published": "2026-10-26T06:01:00+00:00"
+    },
+    {
+      "id": "fb11da3a54cd22f4d166",
+      "source": "TGcom24",
+      "title": "Caro-carburanti, in piazza anche i tassisti: protesta a Roma",
+      "url": "https://www.tgcom24.mediaset.it/economia/caro-carburanti-taxi-protesta-roma_118154757-202602k.shtml",
+      "published": "2026-10-26T05:32:00+00:00"
+    },
+    {
+      "id": "85cb661f0a22fe672041",
+      "source": "BBC News",
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T05:20:19+00:00"
+    },
+    {
+      "id": "9b397c4af4fc1f3b2dc2",
+      "source": "TGcom24",
+      "title": "Elezioni Brasile, Bolsonaro chiede annullamento: \"Impossibile riconoscere il risultato\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/presidenziali-brasile-risultati_118145024-202602k.shtml",
+      "published": "2026-10-26T05:06:00+00:00"
+    },
     {
       "id": "5d342d4c73395a039a87",
       "source": "TGcom24",
@@ -19,18 +145,25 @@
       "published": "2026-10-26T05:00:00+00:00"
     },
     {
-      "id": "85cb661f0a22fe672041",
+      "id": "c00598c884643f3c515e",
       "source": "BBC News",
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T03:05:22+00:00"
+      "title": "Australian murderer loses bid to eat Vegemite in prison",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T04:05:28+00:00"
     },
     {
-      "id": "cefbb21843c919c86eb6",
+      "id": "967c461411e44366b54b",
       "source": "BBC News",
-      "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T01:07:05+00:00"
+      "title": "Watch: How President Lula turned it around to beat Flávio Bolsonaro",
+      "url": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T02:53:00+00:00"
+    },
+    {
+      "id": "df9bfd4e1542e7ae25d4",
+      "source": "BBC News",
+      "title": "India's cartoonists built an audience online - now their posts are being restricted",
+      "url": "https://www.bbc.co.uk/news/articles/cm3elp3v7jkdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T01:09:41+00:00"
     },
     {
       "id": "ccdda7399b44799aa14b",
@@ -38,6 +171,20 @@
       "title": "Brasile, Lula eletto presidente per la quarta volta",
       "url": "https://www.tgcom24.mediaset.it/mondo/presidenziali-brasile-risultati_118145024-202602k.shtml",
       "published": "2026-10-26T00:35:00+00:00"
+    },
+    {
+      "id": "901d0ec031cc6384bb90",
+      "source": "BBC News",
+      "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
+      "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T23:44:34+00:00"
+    },
+    {
+      "id": "96f694276f1308dcf801",
+      "source": "BBC News",
+      "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+      "url": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T23:33:19+00:00"
     },
     {
       "id": "5c1b8b841b4be6f859c4",
@@ -82,13 +229,6 @@
       "published": "2026-10-25T19:40:00+00:00"
     },
     {
-      "id": "65146c067f544dca2d79",
-      "source": "BBC News",
-      "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25T19:14:27+00:00"
-    },
-    {
       "id": "709c8dd82e1818ed6f2c",
       "source": "TGcom24",
       "title": "Venezuela, la leader dell'opposizione Machado rientra nel Paese",
@@ -124,13 +264,6 @@
       "published": "2026-10-25T15:32:51+00:00"
     },
     {
-      "id": "48e533a67936a412569a",
-      "source": "TGcom24",
-      "title": "Nasce \"Lega Italia federale\": nel simbolo via il nome di Salvini",
-      "url": "https://www.tgcom24.mediaset.it/politica/foto/lega-italia-federale-simbolo_118127000-202602k.shtml",
-      "published": "2026-10-25T15:22:00+00:00"
-    },
-    {
       "id": "af95b605c6ecc43fa71f",
       "source": "BBC News",
       "title": "Gabon says access to social media restored after eight-month ban",
@@ -138,46 +271,11 @@
       "published": "2026-10-25T14:39:47+00:00"
     },
     {
-      "id": "d8b207be024048c14dce",
-      "source": "TGcom24",
-      "title": "Fonti vaticane: \"Il Papa non dovrà sottoporsi all'immunoterapia\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/papa-no-immunoterapia-dopo-intervento-polmone_118126842-202602k.shtml",
-      "published": "2026-10-25T14:33:00+00:00"
-    },
-    {
-      "id": "4ad7c39cee0861c8ba33",
-      "source": "TGcom24",
-      "title": "Lega, Salvini riconfermato segretario con 465 voti",
-      "url": "https://www.tgcom24.mediaset.it/politica/lega-salvini-riconfermato-segretario-con-465-voti_118124062-202602k.shtml",
-      "published": "2026-10-25T14:04:00+00:00"
-    },
-    {
-      "id": "7e3d1b50a8dbf98164c9",
-      "source": "TGcom24",
-      "title": "Netanyahu posta foto di atomica su Tel Aviv: \"Due anni per finire il lavoro con l'Iran\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-25ottobre_118112766-202602k.shtml",
-      "published": "2026-10-25T12:46:00+00:00"
-    },
-    {
-      "id": "fcdda6258965a88c1fef",
-      "source": "TGcom24",
-      "title": "Roma, scritte antisemite a Monteverde: \"Fuori gli ebrei dai Paesi europei\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/roma-scritte-antisemite-monteverde_118118497-202602k.shtml",
-      "published": "2026-10-25T12:16:00+00:00"
-    },
-    {
-      "id": "f3a6a4ef8aab08449ec8",
-      "source": "TGcom24",
-      "title": "Campobasso, madre e figlio trovati morti in casa: ipotesi omicidio-suicidio",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/campobasso-madre-e-figlio-trovati-morti-in-casa-a-ururi_118116381-202602k.shtml",
-      "published": "2026-10-25T11:32:00+00:00"
-    },
-    {
-      "id": "faa6cd9d869c7c0b5a09",
-      "source": "TGcom24",
-      "title": "Putin: \"Accusarci per disordini indica debolezza e incapacità dei leader europei\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-25-ottobre_118108510-202602k.shtml",
-      "published": "2026-10-25T11:14:00+00:00"
+      "id": "4c226bc16bf03e5f0d2a",
+      "source": "BBC News",
+      "title": "Russia to host first Olympic federation world event since Ukraine invasion",
+      "url": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T14:34:33+00:00"
     },
     {
       "id": "5d8714cc8c97dec815f2",
@@ -185,34 +283,6 @@
       "title": "El Salvador president says bodies found in Haiti are not those of hostages",
       "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-25T10:55:33+00:00"
-    },
-    {
-      "id": "ff29ee6b97027529136f",
-      "source": "TGcom24",
-      "title": "Movimento 17 ottobre, anche la moglie di Youssef Siher indagata per istigazione a delinquere",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/movimento-17-ottobre-moglie-youssef-siher-indagata_118115259-202602k.shtml",
-      "published": "2026-10-25T10:40:00+00:00"
-    },
-    {
-      "id": "ff2491dc847f2e2709db",
-      "source": "BBC News",
-      "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
-      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25T10:38:15+00:00"
-    },
-    {
-      "id": "f56f19c08fb846cf3530",
-      "source": "TGcom24",
-      "title": "Nordio: \"Mai sognato di chiedere arresti di massa per i ragazzi, l'obiettivo è prevenire\"",
-      "url": "https://www.tgcom24.mediaset.it/politica/carlo-nordio-no-arresti-di-massa-ragazzi-proteste_118114431-202602k.shtml",
-      "published": "2026-10-25T10:07:00+00:00"
-    },
-    {
-      "id": "26e3d20471794ebf1a71",
-      "source": "TGcom24",
-      "title": "Napoli, al posto della cocaina spaccia sale da cucina: pusher arrestato per truffa",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/napoli-pusher-spaccia-sale-per-cocaina_118113281-202602k.shtml",
-      "published": "2026-10-25T09:29:00+00:00"
     },
     {
       "id": "3c78121dfba5666b5f39",
@@ -229,13 +299,6 @@
       "published": "2026-10-25T08:36:47+00:00"
     },
     {
-      "id": "45a9d0ec98529a3d758c",
-      "source": "BBC News",
-      "title": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25T05:45:31+00:00"
-    },
-    {
       "id": "131da791ed45572cb9e2",
       "source": "BBC News",
       "title": "Israel to close West Bank crossings on election day as crackdown escalates",
@@ -243,67 +306,11 @@
       "published": "2026-10-25T05:15:52+00:00"
     },
     {
-      "id": "9c8801f5ac70366e997a",
-      "source": "BBC News",
-      "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-      "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25T02:27:15+00:00"
-    },
-    {
       "id": "c0fcad8cb221e48e2b5d",
       "source": "BBC News",
       "title": "The bitter row over military service that could shape Israel's future",
       "url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-24T23:03:21+00:00"
-    },
-    {
-      "id": "fd705a9b648ed0181922",
-      "source": "BBC News",
-      "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T23:03:09+00:00"
-    },
-    {
-      "id": "f978bb617dcf4a3b490d",
-      "source": "BBC News",
-      "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
-      "url": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T23:02:51+00:00"
-    },
-    {
-      "id": "9c175851f99366e6d42a",
-      "source": "BBC News",
-      "title": "A shark went astray and captured Korea's heart - will she finally make it back to sea?",
-      "url": "https://www.bbc.co.uk/news/articles/c9zrdknlmpdlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T22:58:43+00:00"
-    },
-    {
-      "id": "5a237dae3d95f0d033f1",
-      "source": "BBC News",
-      "title": "Who are the candidates in Brazil's presidential election?",
-      "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T22:08:47+00:00"
-    },
-    {
-      "id": "14f944cedb5cdeba1a9c",
-      "source": "BBC News",
-      "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
-      "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T19:37:35+00:00"
-    },
-    {
-      "id": "99ca776da8550d638636",
-      "source": "BBC News",
-      "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T19:12:51+00:00"
-    },
-    {
-      "id": "4a1dc0a23ae94684ff9f",
-      "source": "BBC News",
-      "title": "Two rescued after Nairobi building collapse with five still missing",
-      "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T17:25:46+00:00"
     }
   ]
 }
