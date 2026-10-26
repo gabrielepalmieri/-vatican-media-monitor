@@ -1,29 +1,99 @@
 {
-  "updated_at": "2026-10-26T17:07:59.680192+00:00",
+  "updated_at": "2026-10-26T21:36:33.294249+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-26T17:07:59.680192+00:00"
+      "checked_at": "2026-10-26T21:36:33.294249+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-26T17:07:59.680192+00:00"
+      "checked_at": "2026-10-26T21:36:33.294249+00:00"
     }
   },
   "items": [
     {
-      "id": "7dd65fa2b75db5d9c078",
+      "id": "66307671aeba9ff47df3",
+      "source": "TGcom24",
+      "title": "Ue all'Italia: \"Valutiamo aiuti Pac contro caro-carburanti agricoli\"",
+      "url": "https://www.tgcom24.mediaset.it/economia/ue-italia-valutiamo-aiuti-pac-contro-caro-carburanti_118187910-202602k.shtml",
+      "published": "2026-10-26T21:34:00+00:00"
+    },
+    {
+      "id": "6354c7806fa74d771acd",
       "source": "BBC News",
-      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T17:00:09+00:00"
+      "title": "'Maxxing' selected as Dictionary.com word of the year",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T21:31:53+00:00"
     },
     {
       "id": "dbd8afd7d8743ce06721",
       "source": "BBC News",
       "title": "Lula wins fourth term in dramatic Brazil election comeback",
       "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T16:49:14+00:00"
+      "published": "2026-10-26T21:02:47+00:00"
+    },
+    {
+      "id": "23a33fe82a1e890c42bc",
+      "source": "TGcom24",
+      "title": "Ucraina, missili russi vicino a una stazione della metro di Kiev",
+      "url": "https://www.tgcom24.mediaset.it/mondo/commissione-d-inchiesta-onu-accusa-mosca-di-crimini-contro-l-umanita-in-ucraina_118180307-202602k.shtml",
+      "published": "2026-10-26T20:53:00+00:00"
+    },
+    {
+      "id": "117194bb36ca975b3644",
+      "source": "TGcom24",
+      "title": "Brasile, Trump con Bolsonaro: \"Elezioni truccate\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/presidenziali-brasile-risultati_118145024-202602k.shtml",
+      "published": "2026-10-26T20:05:00+00:00"
+    },
+    {
+      "id": "8b6e4a472bb2553f1f9a",
+      "source": "TGcom24",
+      "title": "La professoressa di Youssef Siher: \"Contro di lui gogna mediatica\"",
+      "url": "https://www.tgcom24.mediaset.it/2026/video/la-professoressa-di-youssef-siher-contro-di-lui-gogna-mediatica-_118185273-02k.shtml",
+      "published": "2026-10-26T19:32:00+00:00"
+    },
+    {
+      "id": "4ce73bbcae617f6c2754",
+      "source": "BBC News",
+      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+      "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T19:27:21+00:00"
+    },
+    {
+      "id": "2d39219d085906d185b1",
+      "source": "TGcom24",
+      "title": "Youssef Siher, pm: \"Nei messaggi social una dichiarazione di guerra continua\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/proteste-milano-movimento-17-ottobre-youssef-siher-udienza-convalida-fermo_118154866-202602k.shtml",
+      "published": "2026-10-26T18:31:00+00:00"
+    },
+    {
+      "id": "b093ac84116207df2061",
+      "source": "BBC News",
+      "title": "Sydney's new $5bn airport has one big problem: Getting there is tough",
+      "url": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T18:00:10+00:00"
+    },
+    {
+      "id": "45baeff664eada04c18f",
+      "source": "TGcom24",
+      "title": "Crosetto: \"La linea dell'Italia sull'Ucraina non può cambiare\"",
+      "url": "https://www.tgcom24.mediaset.it/politica/-crosetto-la-linea-dell-italia-sull-ucraina-non-puo-cambiare-_118184176-202602k.shtml",
+      "published": "2026-10-26T18:00:00+00:00"
+    },
+    {
+      "id": "a6bedbc4ac804af2e7d9",
+      "source": "TGcom24",
+      "title": "Commissione d'inchiesta Onu accusa Mosca di crimini contro l'umanità in Ucraina",
+      "url": "https://www.tgcom24.mediaset.it/mondo/commissione-d-inchiesta-onu-accusa-mosca-di-crimini-contro-l-umanita-in-ucraina_118180307-202602k.shtml",
+      "published": "2026-10-26T17:15:00+00:00"
+    },
+    {
+      "id": "7dd65fa2b75db5d9c078",
+      "source": "BBC News",
+      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T17:00:09+00:00"
     },
     {
       "id": "601ac403c9c46982e959",
@@ -264,27 +334,6 @@
       "published": "2026-10-26T07:40:57+00:00"
     },
     {
-      "id": "309be53c9e462bef4a74",
-      "source": "TGcom24",
-      "title": "Naro (Agrigento), scontro auto-tir: 4 operai morti, stavano andando a lavorare",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/naro-agrigento-incidente-morti_118157356-202602k.shtml",
-      "published": "2026-10-26T07:32:00+00:00"
-    },
-    {
-      "id": "61bee3f75fbe01b9516a",
-      "source": "TGcom24",
-      "title": "Youssef Siher in carcere, attesa per l'udienza di convalida del fermo",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/proteste-milano-movimento-17-ottobre-youssef-siher-udienza-convalida-fermo_118154866-202602k.shtml",
-      "published": "2026-10-26T06:53:00+00:00"
-    },
-    {
-      "id": "638b70c2e1708e6f63e0",
-      "source": "TGcom24",
-      "title": "Ucraina, droni sulla città russa di Voronezh: esplosioni e incendi, due morti",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-26ottobre_118154808-202602k.shtml",
-      "published": "2026-10-26T06:31:00+00:00"
-    },
-    {
       "id": "4d753e3005e9ff88c319",
       "source": "BBC News",
       "title": "Who should win the men's Ballon d'Or? BBC Sport pundits have their say",
@@ -299,39 +348,11 @@
       "published": "2026-10-26T06:16:15+00:00"
     },
     {
-      "id": "bada3c683062efda6cc2",
-      "source": "TGcom24",
-      "title": "Albania, nuovi scontri a Tirana: diversi feriti",
-      "url": "https://www.tgcom24.mediaset.it/mondo/albania-proteste-tirana-feriti-tredicesima-giornata-mobilitazione_118154778-202602k.shtml",
-      "published": "2026-10-26T06:01:00+00:00"
-    },
-    {
-      "id": "fb11da3a54cd22f4d166",
-      "source": "TGcom24",
-      "title": "Caro-carburanti, in piazza anche i tassisti: protesta a Roma",
-      "url": "https://www.tgcom24.mediaset.it/economia/caro-carburanti-taxi-protesta-roma_118154757-202602k.shtml",
-      "published": "2026-10-26T05:32:00+00:00"
-    },
-    {
       "id": "85cb661f0a22fe672041",
       "source": "BBC News",
       "title": "Venezuelan opposition leader María Machado returns after months in exile",
       "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-26T05:20:19+00:00"
-    },
-    {
-      "id": "9b397c4af4fc1f3b2dc2",
-      "source": "TGcom24",
-      "title": "Elezioni Brasile, Bolsonaro chiede annullamento: \"Impossibile riconoscere il risultato\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/presidenziali-brasile-risultati_118145024-202602k.shtml",
-      "published": "2026-10-26T05:06:00+00:00"
-    },
-    {
-      "id": "5d342d4c73395a039a87",
-      "source": "TGcom24",
-      "title": "Kenya, schianto frontale tra bus e camion: almeno 24 morti",
-      "url": "https://www.tgcom24.mediaset.it/mondo/kenya-frontale-bus-camion-morti_118152479-202602k.shtml",
-      "published": "2026-10-26T05:00:00+00:00"
     },
     {
       "id": "c00598c884643f3c515e",
