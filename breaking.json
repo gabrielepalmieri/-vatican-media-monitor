@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-27T17:01:02.682724+00:00",
+  "updated_at": "2026-10-27T17:05:19.706160+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-27T17:01:02.682724+00:00"
+      "checked_at": "2026-10-27T17:05:19.706160+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-27T17:01:02.682724+00:00"
+      "checked_at": "2026-10-27T17:05:19.706160+00:00"
     }
   },
   "items": [
+    {
+      "id": "e4becce559ea004a015e",
+      "source": "BBC News",
+      "title": "Turnout so far highest on record as Israelis vote in pivotal election",
+      "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T17:00:51+00:00"
+    },
     {
       "id": "5ce92c15edba2f223fab",
       "source": "TGcom24",
@@ -157,13 +164,6 @@
       "title": "Netherlands pulls out of Eurovision again over Israel participation",
       "url": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-27T11:23:19+00:00"
-    },
-    {
-      "id": "e4becce559ea004a015e",
-      "source": "BBC News",
-      "title": "Turnout so far highest on record as Israelis vote in pivotal election",
-      "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T11:11:33+00:00"
     },
     {
       "id": "1c7395096592b4a736cb",
