@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-27T22:05:19.999082+00:00",
+  "updated_at": "2026-10-27T22:10:25.165725+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-27T22:05:19.999082+00:00"
+      "checked_at": "2026-10-27T22:10:25.165725+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-27T22:05:19.999082+00:00"
+      "checked_at": "2026-10-27T22:10:25.165725+00:00"
     }
   },
   "items": [
@@ -208,6 +208,13 @@
       "published": "2026-10-27T14:07:00+00:00"
     },
     {
+      "id": "0742ebd588bc2270a23d",
+      "source": "BBC News",
+      "title": "Trump vs Obama - which president has the star power to get out the vote?",
+      "url": "https://www.bbc.co.uk/news/videos/cv0ldjez8z32o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T13:59:22+00:00"
+    },
+    {
       "id": "61134aa1e5e77fb2abc9",
       "source": "BBC News",
       "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
@@ -353,20 +360,6 @@
       "title": "Sydney's new $5bn airport has one big problem: Getting there is tough",
       "url": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-26T18:00:10+00:00"
-    },
-    {
-      "id": "6ed5e7881efc554da373",
-      "source": "BBC News",
-      "title": "Israel and the US are both going to the polls - the consequences will be global",
-      "url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T16:30:34+00:00"
-    },
-    {
-      "id": "74f04026f1547c4345e0",
-      "source": "BBC News",
-      "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T15:37:33+00:00"
     }
   ]
 }
