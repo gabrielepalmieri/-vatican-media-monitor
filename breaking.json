@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-10-27T14:20:27.777908+00:00",
+  "updated_at": "2026-10-27T14:25:21.512166+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-27T14:20:27.777908+00:00"
+      "checked_at": "2026-10-27T14:25:21.512166+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-27T14:20:27.777908+00:00"
+      "checked_at": "2026-10-27T14:25:21.512166+00:00"
     }
   },
   "items": [
+    {
+      "id": "a6546ba9abdcbeb152e3",
+      "source": "BBC News",
+      "title": "Norway and Finland leaders hold rare call with Putin",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T14:23:05+00:00"
+    },
     {
       "id": "c6b400292fde38d16617",
       "source": "TGcom24",
       "title": "Milano, università Statale si dissocia dalla relatrice: su Siher opinioni personali",
       "url": "https://www.tgcom24.mediaset.it/cronaca/youssef-siher-docente-universita-statale-milano_118206642-202602k.shtml",
       "published": "2026-10-27T14:07:00+00:00"
+    },
+    {
+      "id": "cea074aa8965586769a5",
+      "source": "BBC News",
+      "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T13:59:42+00:00"
     },
     {
       "id": "584a25df4b7de899c222",
@@ -47,25 +61,11 @@
       "published": "2026-10-27T13:15:00+00:00"
     },
     {
-      "id": "a6546ba9abdcbeb152e3",
-      "source": "BBC News",
-      "title": "Norway and Finland leaders hold rare call with Putin",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T13:12:24+00:00"
-    },
-    {
       "id": "3c9309fc74ba6dd53770",
       "source": "TGcom24",
       "title": "Gas serra, l'Onu lancia l'allarme: nuovo record mondiale nel 2025",
       "url": "https://www.tgcom24.mediaset.it/mondo/clima-gas-serra-record-allarme-onu_118199487-202602k.shtml",
       "published": "2026-10-27T12:34:00+00:00"
-    },
-    {
-      "id": "4ce73bbcae617f6c2754",
-      "source": "BBC News",
-      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
-      "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T12:28:35+00:00"
     },
     {
       "id": "7d165c8dce812792c2b3",
