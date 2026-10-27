@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-27T20:35:20.029747+00:00",
+  "updated_at": "2026-10-27T20:39:13.782297+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-27T20:35:20.029747+00:00"
+      "checked_at": "2026-10-27T20:39:13.782297+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-27T20:35:20.029747+00:00"
+      "checked_at": "2026-10-27T20:39:13.782297+00:00"
     }
   },
   "items": [
+    {
+      "id": "0500d63a6adf37da07c8",
+      "source": "TGcom24",
+      "title": "Elezioni Israele, exit poll: boom dei partiti arabi, verso 17-18 seggi",
+      "url": "https://www.tgcom24.mediaset.it/mondo/israele-elezioni-knesset-diretta_118186865-202602k.shtml",
+      "published": "2026-10-27T20:36:00+00:00"
+    },
     {
       "id": "ab03b3c6707433cbe753",
       "source": "BBC News",
@@ -311,13 +318,6 @@
       "title": "Donald Trump's biggest economic problem looks strangely familiar",
       "url": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-27T06:01:11+00:00"
-    },
-    {
-      "id": "5dc6c5c50287373c2b4e",
-      "source": "TGcom24",
-      "title": "Ucraina, Cremlino: \"Al via la tregua umanitaria a Oleshky\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-27-ottobre_118192638-202602k.shtml",
-      "published": "2026-10-27T06:01:00+00:00"
     },
     {
       "id": "f6fd60f317fd65965110",
