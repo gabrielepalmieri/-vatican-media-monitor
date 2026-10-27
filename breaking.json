@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-27T13:35:19.154419+00:00",
+  "updated_at": "2026-10-27T13:40:27.220716+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-27T13:35:19.154419+00:00"
+      "checked_at": "2026-10-27T13:40:27.220716+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-27T13:35:19.154419+00:00"
+      "checked_at": "2026-10-27T13:40:27.220716+00:00"
     }
   },
   "items": [
@@ -19,11 +19,25 @@
       "published": "2026-10-27T13:25:54+00:00"
     },
     {
+      "id": "6bf9331d8951b112635d",
+      "source": "BBC News",
+      "title": "Nanotyrannus skeleton goes to auction in New York with £4.5m price tag",
+      "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T13:23:32+00:00"
+    },
+    {
       "id": "4bfedccd35f63c6d2925",
       "source": "TGcom24",
       "title": "Norvegia, Store: \"Telefonata di 90 minuti con Putin, alleati Ue informati\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-27-ottobre_118192638-202602k.shtml",
       "published": "2026-10-27T13:15:00+00:00"
+    },
+    {
+      "id": "a6546ba9abdcbeb152e3",
+      "source": "BBC News",
+      "title": "Norway and Finland leaders hold rare call with Putin",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T13:12:24+00:00"
     },
     {
       "id": "3c9309fc74ba6dd53770",
@@ -306,25 +320,11 @@
       "published": "2026-10-26T16:30:34+00:00"
     },
     {
-      "id": "48bac8ee5b0b87c84a71",
-      "source": "BBC News",
-      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T16:27:17+00:00"
-    },
-    {
       "id": "74f04026f1547c4345e0",
       "source": "BBC News",
       "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
       "url": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-26T15:37:33+00:00"
-    },
-    {
-      "id": "cefbb21843c919c86eb6",
-      "source": "BBC News",
-      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T14:34:52+00:00"
     },
     {
       "id": "0ecd83bf34926daab0a6",
