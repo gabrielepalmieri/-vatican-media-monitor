@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-27T13:40:27.220716+00:00",
+  "updated_at": "2026-10-27T13:45:30.160049+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-27T13:40:27.220716+00:00"
+      "checked_at": "2026-10-27T13:45:30.160049+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-27T13:40:27.220716+00:00"
+      "checked_at": "2026-10-27T13:45:30.160049+00:00"
     }
   },
   "items": [
+    {
+      "id": "584a25df4b7de899c222",
+      "source": "TGcom24",
+      "title": "Israele, affluenza al 44,9% alle 14, battuto ogni record dal '73",
+      "url": "https://www.tgcom24.mediaset.it/mondo/israele-elezioni-knesset-diretta_118186865-202602k.shtml",
+      "published": "2026-10-27T13:42:00+00:00"
+    },
     {
       "id": "61134aa1e5e77fb2abc9",
       "source": "BBC News",
@@ -73,13 +80,6 @@
       "title": "Ex-FBI chief James Comey faces federal charges for third time",
       "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-27T11:44:54+00:00"
-    },
-    {
-      "id": "adf103237b26e4b1d643",
-      "source": "TGcom24",
-      "title": "Israele, affluenza al 31,5% alle ore 12: il dato più alto dal 1977",
-      "url": "https://www.tgcom24.mediaset.it/mondo/israele-elezioni-knesset-diretta_118186865-202602k.shtml",
-      "published": "2026-10-27T11:37:00+00:00"
     },
     {
       "id": "49b89aa12451c003280b",
@@ -168,7 +168,7 @@
     {
       "id": "abc494598fa9d825064e",
       "source": "TGcom24",
-      "title": "Napoli, tenta di prendere e portare via un bambino di 5 anni davanti casa: denunciato",
+      "title": "Napoli, tenta di prendere e portare via un bambino di 5 anni: denunciato",
       "url": "https://www.tgcom24.mediaset.it/cronaca/napoli-marano-prova-a-rapire-bimbo-denunciato_118192643-202602k.shtml",
       "published": "2026-10-27T06:59:00+00:00"
     },
