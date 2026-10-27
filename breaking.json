@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-27T19:45:30.314791+00:00",
+  "updated_at": "2026-10-27T19:50:25.633503+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-27T19:45:30.314791+00:00"
+      "checked_at": "2026-10-27T19:50:25.633503+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-27T19:45:30.314791+00:00"
+      "checked_at": "2026-10-27T19:50:25.633503+00:00"
     }
   },
   "items": [
@@ -285,6 +285,20 @@
       "published": "2026-10-27T06:32:00+00:00"
     },
     {
+      "id": "c1188203fd0399426ca6",
+      "source": "BBC News",
+      "title": "'I would do it again' - Kaepernick reflects on price of protest, 10 years on",
+      "url": "https://www.bbc.co.uk/sport/american-football/articles/cm3el5dnpxp2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T06:15:24+00:00"
+    },
+    {
+      "id": "9c59b73c9fd5ceaf970f",
+      "source": "BBC News",
+      "title": "Donald Trump's biggest economic problem looks strangely familiar",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T06:01:11+00:00"
+    },
+    {
       "id": "5dc6c5c50287373c2b4e",
       "source": "TGcom24",
       "title": "Ucraina, Cremlino: \"Al via la tregua umanitaria a Oleshky\"",
@@ -346,13 +360,6 @@
       "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
       "url": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-26T15:37:33+00:00"
-    },
-    {
-      "id": "0ecd83bf34926daab0a6",
-      "source": "BBC News",
-      "title": "Who is Lula? From ex-worker and prisoner to Brazil's president again",
-      "url": "https://www.bbc.co.uk/news/articles/c35yn2ye1x85o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T11:39:16+00:00"
     }
   ]
 }
