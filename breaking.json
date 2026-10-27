@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-27T17:35:22.339812+00:00",
+  "updated_at": "2026-10-27T17:41:36.298048+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-27T17:35:22.339812+00:00"
+      "checked_at": "2026-10-27T17:41:36.298048+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-27T17:35:22.339812+00:00"
+      "checked_at": "2026-10-27T17:41:36.298048+00:00"
     }
   },
   "items": [
+    {
+      "id": "e4becce559ea004a015e",
+      "source": "BBC News",
+      "title": "Turnout so far highest on record as Israelis vote in pivotal election",
+      "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T17:39:57+00:00"
+    },
+    {
+      "id": "f33d957e046e6b3af0e7",
+      "source": "TGcom24",
+      "title": "Israele, affluenza al 66,7% alle 18: nove punti in più rispetto al 2022",
+      "url": "https://www.tgcom24.mediaset.it/mondo/israele-elezioni-knesset-diretta_118186865-202602k.shtml",
+      "published": "2026-10-27T17:33:00+00:00"
+    },
     {
       "id": "6bf9331d8951b112635d",
       "source": "BBC News",
@@ -31,13 +45,6 @@
       "title": "Brasile, non c'è traccia di Flavio Bolsonaro: \"Forse in volo per gli Usa\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/brasile-flavio-bolsonaro-fuga-argentina-usa_118214209-202602k.shtml",
       "published": "2026-10-27T17:06:00+00:00"
-    },
-    {
-      "id": "e4becce559ea004a015e",
-      "source": "BBC News",
-      "title": "Turnout so far highest on record as Israelis vote in pivotal election",
-      "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T17:00:51+00:00"
     },
     {
       "id": "5ce92c15edba2f223fab",
@@ -115,13 +122,6 @@
       "title": "Milano, università Statale si dissocia dalla relatrice: su Siher opinioni personali",
       "url": "https://www.tgcom24.mediaset.it/cronaca/youssef-siher-docente-universita-statale-milano_118206642-202602k.shtml",
       "published": "2026-10-27T14:07:00+00:00"
-    },
-    {
-      "id": "584a25df4b7de899c222",
-      "source": "TGcom24",
-      "title": "Israele, affluenza al 44,9% alle 14, battuto ogni record dal '73",
-      "url": "https://www.tgcom24.mediaset.it/mondo/israele-elezioni-knesset-diretta_118186865-202602k.shtml",
-      "published": "2026-10-27T13:42:00+00:00"
     },
     {
       "id": "61134aa1e5e77fb2abc9",
@@ -257,13 +257,6 @@
       "published": "2026-10-27T06:01:00+00:00"
     },
     {
-      "id": "6d26a68ad17525202657",
-      "source": "TGcom24",
-      "title": "Israele, aperti i seggi per il rinnovo della Knesset",
-      "url": "https://www.tgcom24.mediaset.it/mondo/israele-elezioni-knesset-diretta_118186865-202602k.shtml",
-      "published": "2026-10-27T05:28:00+00:00"
-    },
-    {
       "id": "f6fd60f317fd65965110",
       "source": "BBC News",
       "title": "Jay-Z to perform at Super Bowl half-time show",
@@ -311,6 +304,13 @@
       "title": "Ue all'Italia: \"Valutiamo aiuti Pac contro caro-carburanti agricoli\"",
       "url": "https://www.tgcom24.mediaset.it/economia/ue-italia-valutiamo-aiuti-pac-contro-caro-carburanti_118187910-202602k.shtml",
       "published": "2026-10-26T21:34:00+00:00"
+    },
+    {
+      "id": "23a33fe82a1e890c42bc",
+      "source": "TGcom24",
+      "title": "Ucraina, missili russi vicino a una stazione della metro di Kiev",
+      "url": "https://www.tgcom24.mediaset.it/mondo/commissione-d-inchiesta-onu-accusa-mosca-di-crimini-contro-l-umanita-in-ucraina_118180307-202602k.shtml",
+      "published": "2026-10-26T20:53:00+00:00"
     },
     {
       "id": "b093ac84116207df2061",
