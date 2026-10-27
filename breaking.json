@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-27T20:05:20.886495+00:00",
+  "updated_at": "2026-10-27T20:10:25.096800+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-27T20:05:20.886495+00:00"
+      "checked_at": "2026-10-27T20:10:25.096800+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-27T20:05:20.886495+00:00"
+      "checked_at": "2026-10-27T20:10:25.096800+00:00"
     }
   },
   "items": [
+    {
+      "id": "527a761bfc3db5106906",
+      "source": "TGcom24",
+      "title": "Elezioni Israele, exit poll: Netanyahu avanti con 24 seggi, Eisenkot a 22",
+      "url": "https://www.tgcom24.mediaset.it/mondo/israele-elezioni-knesset-diretta_118186865-202602k.shtml",
+      "published": "2026-10-27T20:04:00+00:00"
+    },
     {
       "id": "c91be190cb706e2e4101",
       "source": "TGcom24",
@@ -318,13 +325,6 @@
       "title": "Jay-Z to perform at Super Bowl half-time show",
       "url": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-27T05:05:15+00:00"
-    },
-    {
-      "id": "a59a9f2c6e59a0b5af5e",
-      "source": "TGcom24",
-      "title": "Usa, l'ex capo dell'Fbi Comey incriminato per la terza volta",
-      "url": "https://www.tgcom24.mediaset.it/mondo/usa-cex-capo-fbi-james-comey-incriminato-terza-volta_118189493-202602k.shtml",
-      "published": "2026-10-27T05:00:00+00:00"
     },
     {
       "id": "5854985dca4f5924b078",
