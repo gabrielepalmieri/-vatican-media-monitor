@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-27T12:00:59.498845+00:00",
+  "updated_at": "2026-10-27T12:05:19.271177+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-27T12:00:59.498845+00:00"
+      "checked_at": "2026-10-27T12:05:19.271177+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-27T12:00:59.498845+00:00"
+      "checked_at": "2026-10-27T12:05:19.271177+00:00"
     }
   },
   "items": [
+    {
+      "id": "61134aa1e5e77fb2abc9",
+      "source": "BBC News",
+      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+      "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T12:02:20+00:00"
+    },
     {
       "id": "4c32df1c56e499633679",
       "source": "BBC News",
@@ -59,13 +66,6 @@
       "title": "Perugia, incidente sul lavoro: muore operaio di 20 anni",
       "url": "https://www.tgcom24.mediaset.it/cronaca/perugia-operaio-20-anni-morto_118201608-202602k.shtml",
       "published": "2026-10-27T10:35:00+00:00"
-    },
-    {
-      "id": "61134aa1e5e77fb2abc9",
-      "source": "BBC News",
-      "title": "Mbappé dropped by major Chinese brands as backlash grows over Mao joke",
-      "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T10:19:13+00:00"
     },
     {
       "id": "1f72e46a0e3d8a5a8e5f",
