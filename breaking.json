@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-27T16:10:26.349157+00:00",
+  "updated_at": "2026-10-27T16:15:31.923508+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-27T16:10:26.349157+00:00"
+      "checked_at": "2026-10-27T16:15:31.923508+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-27T16:10:26.349157+00:00"
+      "checked_at": "2026-10-27T16:15:31.923508+00:00"
     }
   },
   "items": [
+    {
+      "id": "6bf9331d8951b112635d",
+      "source": "BBC News",
+      "title": "Nanotyrannus skeleton auctioned for $47.3m in New York",
+      "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T16:11:27+00:00"
+    },
+    {
+      "id": "a415d72d60c090281f65",
+      "source": "TGcom24",
+      "title": "Lecce, 78enne trovato morto in un pozzo: si indaga per omicidio",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/lecce-uomo-trovato-morto-pozzo-omicidio_118214408-202602k.shtml",
+      "published": "2026-10-27T16:11:00+00:00"
+    },
     {
       "id": "1d41ffc91fb09930d6f1",
       "source": "TGcom24",
@@ -80,13 +94,6 @@
       "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
       "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-27T13:25:54+00:00"
-    },
-    {
-      "id": "6bf9331d8951b112635d",
-      "source": "BBC News",
-      "title": "Nanotyrannus skeleton goes to auction in New York with £4.5m price tag",
-      "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T13:23:32+00:00"
     },
     {
       "id": "4bfedccd35f63c6d2925",
@@ -304,13 +311,6 @@
       "title": "Brasile, Trump con Bolsonaro: \"Elezioni truccate\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/presidenziali-brasile-risultati_118145024-202602k.shtml",
       "published": "2026-10-26T20:05:00+00:00"
-    },
-    {
-      "id": "8b6e4a472bb2553f1f9a",
-      "source": "TGcom24",
-      "title": "La professoressa di Youssef Siher: \"Contro di lui gogna mediatica\"",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/la-professoressa-di-youssef-siher-contro-di-lui-gogna-mediatica-_118185273-02k.shtml",
-      "published": "2026-10-26T19:32:00+00:00"
     },
     {
       "id": "b093ac84116207df2061",
