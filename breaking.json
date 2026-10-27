@@ -1,16 +1,72 @@
 {
-  "updated_at": "2026-10-27T00:46:06.663950+00:00",
+  "updated_at": "2026-10-27T05:39:42.822359+00:00",
   "sources": {
     "TGcom24": {
-      "ok": false,
-      "checked_at": "2026-10-27T00:46:06.663950+00:00"
+      "ok": true,
+      "checked_at": "2026-10-27T05:39:42.822359+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-27T00:46:06.663950+00:00"
+      "checked_at": "2026-10-27T05:39:42.822359+00:00"
     }
   },
   "items": [
+    {
+      "id": "6d26a68ad17525202657",
+      "source": "TGcom24",
+      "title": "Israele, aperti i seggi per il rinnovo della Knesset",
+      "url": "https://www.tgcom24.mediaset.it/mondo/israele-elezioni-knesset-diretta_118186865-202602k.shtml",
+      "published": "2026-10-27T05:28:00+00:00"
+    },
+    {
+      "id": "f6fd60f317fd65965110",
+      "source": "BBC News",
+      "title": "Jay-Z to perform at Super Bowl half-time show",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T05:05:15+00:00"
+    },
+    {
+      "id": "a59a9f2c6e59a0b5af5e",
+      "source": "TGcom24",
+      "title": "Usa, l'ex capo dell'Fbi Comey incriminato per la terza volta",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-cex-capo-fbi-james-comey-incriminato-terza-volta_118189493-202602k.shtml",
+      "published": "2026-10-27T05:00:00+00:00"
+    },
+    {
+      "id": "42107bd44f2053e064a2",
+      "source": "BBC News",
+      "title": "Meghan to co-host Junior MasterChef Australia",
+      "url": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T04:43:56+00:00"
+    },
+    {
+      "id": "5854985dca4f5924b078",
+      "source": "BBC News",
+      "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T02:40:17+00:00"
+    },
+    {
+      "id": "66e61948c110d55a957d",
+      "source": "BBC News",
+      "title": "Ex-FBI chief James Comey faces federal charges for third time",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T02:01:27+00:00"
+    },
+    {
+      "id": "be34b5f11474d42fbfb1",
+      "source": "BBC News",
+      "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T00:31:11+00:00"
+    },
+    {
+      "id": "215f76ab7475c195110a",
+      "source": "TGcom24",
+      "title": "La Siria chiuderà i confini con la Giordania dopo i raid",
+      "url": "https://www.tgcom24.mediaset.it/mondo/siria-chiusi-confini-con-giordania_118190033-202602k.shtml",
+      "published": "2026-10-26T22:25:00+00:00"
+    },
     {
       "id": "66307671aeba9ff47df3",
       "source": "TGcom24",
@@ -59,6 +115,13 @@
       "title": "Trump administration illegally fired James Comey's daughter, judge rules",
       "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-26T19:27:21+00:00"
+    },
+    {
+      "id": "6ae5919946385f9291a4",
+      "source": "BBC News",
+      "title": "Pope's South American trip to go ahead as planned after lung cancer surgery",
+      "url": "https://www.bbc.co.uk/news/articles/cjr4y5rq46p2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T18:46:19+00:00"
     },
     {
       "id": "2d39219d085906d185b1",
@@ -157,13 +220,6 @@
       "title": "Milano, disabile muore nel rogo del suo appartamento: sentito un vicino per possibile atto doloso",
       "url": "https://www.tgcom24.mediaset.it/cronaca/milano-anziana-disabile-morta-incendio_118176460-202602k.shtml",
       "published": "2026-10-26T15:10:00+00:00"
-    },
-    {
-      "id": "3682643f287c99664e91",
-      "source": "BBC News",
-      "title": "Part of Antarctica named after former BBC science correspondent",
-      "url": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T14:54:40+00:00"
     },
     {
       "id": "c471ce789cc4fbe04fa4",
@@ -299,34 +355,6 @@
       "published": "2026-10-26T09:31:12+00:00"
     },
     {
-      "id": "da0c93a087d6b4c58637",
-      "source": "TGcom24",
-      "title": "Carburanti, Q8 Italia conferma price cap fino a fine anno",
-      "url": "https://www.tgcom24.mediaset.it/economia/carburanti-q8-italia-price-cap-proroga_118159839-202602k.shtml",
-      "published": "2026-10-26T09:15:00+00:00"
-    },
-    {
-      "id": "6c119253388586ac84a1",
-      "source": "TGcom24",
-      "title": "Sanità, Corte dei conti: accelerare le misure per ridurre le liste d'attesa",
-      "url": "https://www.tgcom24.mediaset.it/economia/sanita-corte-dei-conti-liste-d-attesa_118157355-202602k.shtml",
-      "published": "2026-10-26T08:45:00+00:00"
-    },
-    {
-      "id": "abf2cfbf8bdee104a923",
-      "source": "TGcom24",
-      "title": "Elezioni Brasile, Bolsonaro prepara il ricorso: \"Regole del gioco cambiate a partita in corso\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/presidenziali-brasile-risultati_118145024-202602k.shtml",
-      "published": "2026-10-26T08:19:00+00:00"
-    },
-    {
-      "id": "c61b43d27ec7309a4959",
-      "source": "TGcom24",
-      "title": "Il 30 ottobre in piazza, macchina della sicurezza già al lavoro",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/30-ottobre-piazza-macchina-sicurezza-al-lavoro_118156773-202602k.shtml",
-      "published": "2026-10-26T07:51:00+00:00"
-    },
-    {
       "id": "d957de57242aa9651f83",
       "source": "BBC News",
       "title": "China's big political meeting could see Xi 'tighten discipline' in party",
@@ -339,20 +367,6 @@
       "title": "Who should win the men's Ballon d'Or? BBC Sport pundits have their say",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqjdmn0ndxjxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-26T06:19:12+00:00"
-    },
-    {
-      "id": "cb661826cd6e67168d3a",
-      "source": "BBC News",
-      "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
-      "url": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T06:16:15+00:00"
-    },
-    {
-      "id": "85cb661f0a22fe672041",
-      "source": "BBC News",
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T05:20:19+00:00"
     },
     {
       "id": "c00598c884643f3c515e",
