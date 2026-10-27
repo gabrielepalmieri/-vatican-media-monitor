@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-26T11:01:20.762657+00:00",
+  "updated_at": "2026-10-27T01:27:19.467262+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-10-26T11:01:20.762657+00:00",
+  "un_verified_at": "2026-10-27T01:27:19.467262+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,21 +1918,6 @@
     }
   ],
   "days": {
-    "2026-10-25": {
-      "saints": [
-        {
-          "title": "Ss. Crisanto e Daria, martiri, sulla via Salaria nuova",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/25/ss--crisanto-e-daria--martiri--sulla-via-salaria-nuova.html"
-        },
-        {
-          "title": "Santi Crispino e Crispiniano, martiri",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/25.html"
-        }
-      ],
-      "un": [],
-      "un_available": true,
-      "holy_see": []
-    },
     "2026-10-26": {
       "saints": [
         {
@@ -2590,6 +2575,30 @@
         {
           "title": "Giornata di commemorazione di tutte le vittime della guerra chimica",
           "url": "https://www.un.org/en/observances/chemical-warfare-victims-day"
+        }
+      ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-12-01": {
+      "saints": [
+        {
+          "title": "San Charles de Foucauld",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/01/san-charles-de-foucauld.html"
+        },
+        {
+          "title": "Sant'Eligio, vescovo di Noyon",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/01/sant-eligio--vescovo-di-noyon.html"
+        },
+        {
+          "title": "San Nahum, profeta",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/01.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata mondiale contro l’AIDS",
+          "url": "https://www.un.org/en/observances/world-aids-day"
         }
       ],
       "un_available": true,
