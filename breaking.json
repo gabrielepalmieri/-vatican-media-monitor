@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-27T13:15:31.564895+00:00",
+  "updated_at": "2026-10-27T13:20:29.048178+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-27T13:15:31.564895+00:00"
+      "checked_at": "2026-10-27T13:20:29.048178+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-27T13:15:31.564895+00:00"
+      "checked_at": "2026-10-27T13:20:29.048178+00:00"
     }
   },
   "items": [
+    {
+      "id": "4bfedccd35f63c6d2925",
+      "source": "TGcom24",
+      "title": "Norvegia, Store: \"Telefonata di 90 minuti con Putin, alleati Ue informati\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-27-ottobre_118192638-202602k.shtml",
+      "published": "2026-10-27T13:15:00+00:00"
+    },
     {
       "id": "3c9309fc74ba6dd53770",
       "source": "TGcom24",
@@ -304,13 +311,6 @@
       "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
       "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-26T16:27:17+00:00"
-    },
-    {
-      "id": "8a90b591e412b7a78562",
-      "source": "TGcom24",
-      "title": "Papa Leone, via libera dai medici: \"Confermato il viaggio in Sud America\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/papa-leone-xiv-viaggio-sud-america-confermato_118178914-202602k.shtml",
-      "published": "2026-10-26T16:21:00+00:00"
     },
     {
       "id": "74f04026f1547c4345e0",
