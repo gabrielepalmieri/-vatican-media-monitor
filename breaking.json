@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-27T16:20:29.106425+00:00",
+  "updated_at": "2026-10-27T16:25:20.620918+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-27T16:20:29.106425+00:00"
+      "checked_at": "2026-10-27T16:25:20.620918+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-27T16:20:29.106425+00:00"
+      "checked_at": "2026-10-27T16:25:20.620918+00:00"
     }
   },
   "items": [
+    {
+      "id": "23a9f14c22ea34d26d15",
+      "source": "BBC News",
+      "title": "FBI raids California home tied to former Congressman Eric Swalwell - US media",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgrk0zx641o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T16:20:22+00:00"
+    },
+    {
+      "id": "dd2d0bb060eec1e9bdd1",
+      "source": "BBC News",
+      "title": "Egyptian journalist Lina Attalah detained after court orders news site's closure",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T16:11:35+00:00"
+    },
     {
       "id": "6bf9331d8951b112635d",
       "source": "BBC News",
@@ -33,11 +47,11 @@
       "published": "2026-10-27T15:42:00+00:00"
     },
     {
-      "id": "23a9f14c22ea34d26d15",
+      "id": "08051cb2a4517a14dd56",
       "source": "BBC News",
-      "title": "FBI raids California home tied to former Congressman Eric Swalwell - US media",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgrk0zx641o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T15:31:07+00:00"
+      "title": "West warns of famine risk in Sudan as civil war grinds on",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T15:41:46+00:00"
     },
     {
       "id": "4c32df1c56e499633679",
