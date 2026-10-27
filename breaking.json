@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-27T23:30:42.634400+00:00",
+  "updated_at": "2026-10-27T23:35:16.934165+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-10-27T23:30:42.634400+00:00"
+      "checked_at": "2026-10-27T23:35:16.934165+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-27T23:30:42.634400+00:00"
+      "checked_at": "2026-10-27T23:35:16.934165+00:00"
     }
   },
   "items": [
+    {
+      "id": "f0f2fb61a2dd27472ab2",
+      "source": "BBC News",
+      "title": "Watch: 'No clear winner' in Israel election - what happens now?",
+      "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T23:27:13+00:00"
+    },
     {
       "id": "ce7d08477efeba96b886",
       "source": "TGcom24",
@@ -304,13 +311,6 @@
       "title": "Morte per la ricina, interrogato un addetto al ritiro rifiuti",
       "url": "https://www.tgcom24.mediaset.it/cronaca/ricina-pietracatella-nuovo-interrogatorio_118200487-202602k.shtml",
       "published": "2026-10-27T09:15:00+00:00"
-    },
-    {
-      "id": "65e498e6c3e87640ade2",
-      "source": "BBC News",
-      "title": "Why it could take time for a new Israeli government to form",
-      "url": "https://www.bbc.co.uk/news/videos/c574p31l1l2no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T08:37:30+00:00"
     },
     {
       "id": "c1188203fd0399426ca6",
