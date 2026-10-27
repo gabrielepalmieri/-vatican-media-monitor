@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-10-27T11:40:24.306120+00:00",
+  "updated_at": "2026-10-27T11:45:27.711818+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-27T11:40:24.306120+00:00"
+      "checked_at": "2026-10-27T11:45:27.711818+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-27T11:40:24.306120+00:00"
+      "checked_at": "2026-10-27T11:45:27.711818+00:00"
     }
   },
   "items": [
+    {
+      "id": "66e61948c110d55a957d",
+      "source": "BBC News",
+      "title": "Ex-FBI chief James Comey faces federal charges for third time",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T11:44:54+00:00"
+    },
     {
       "id": "adf103237b26e4b1d643",
       "source": "TGcom24",
       "title": "Israele, affluenza al 31,5% alle ore 12: il dato più alto dal 1977",
       "url": "https://www.tgcom24.mediaset.it/mondo/israele-elezioni-knesset-diretta_118186865-202602k.shtml",
       "published": "2026-10-27T11:37:00+00:00"
+    },
+    {
+      "id": "49b89aa12451c003280b",
+      "source": "BBC News",
+      "title": "Netherlands makes U-turn over Eurovision 2027 participation",
+      "url": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T11:23:19+00:00"
     },
     {
       "id": "4c32df1c56e499633679",
@@ -166,13 +180,6 @@
       "published": "2026-10-27T02:40:17+00:00"
     },
     {
-      "id": "66e61948c110d55a957d",
-      "source": "BBC News",
-      "title": "Ex-FBI chief James Comey faces federal charges for third time",
-      "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T02:01:27+00:00"
-    },
-    {
       "id": "18741a7431534d111af4",
       "source": "BBC News",
       "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
@@ -297,13 +304,6 @@
       "title": "Papa Leone, via libera dai medici: \"Confermato il viaggio in Sud America\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/papa-leone-xiv-viaggio-sud-america-confermato_118178914-202602k.shtml",
       "published": "2026-10-26T16:21:00+00:00"
-    },
-    {
-      "id": "d67f6ed1071d14dc692d",
-      "source": "BBC News",
-      "title": "Catholic bishops apologise for 'exploited' Trump meeting",
-      "url": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T15:46:31+00:00"
     },
     {
       "id": "74f04026f1547c4345e0",
