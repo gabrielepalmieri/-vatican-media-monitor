@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-27T15:35:22.449598+00:00",
+  "updated_at": "2026-10-27T15:40:28.329081+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-27T15:35:22.449598+00:00"
+      "checked_at": "2026-10-27T15:40:28.329081+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-27T15:35:22.449598+00:00"
+      "checked_at": "2026-10-27T15:40:28.329081+00:00"
     }
   },
   "items": [
+    {
+      "id": "23a9f14c22ea34d26d15",
+      "source": "BBC News",
+      "title": "FBI raids California home tied to former Congressman Eric Swalwell - US media",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgrk0zx641o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T15:31:07+00:00"
+    },
     {
       "id": "4c32df1c56e499633679",
       "source": "BBC News",
@@ -276,13 +283,6 @@
       "title": "Ue all'Italia: \"Valutiamo aiuti Pac contro caro-carburanti agricoli\"",
       "url": "https://www.tgcom24.mediaset.it/economia/ue-italia-valutiamo-aiuti-pac-contro-caro-carburanti_118187910-202602k.shtml",
       "published": "2026-10-26T21:34:00+00:00"
-    },
-    {
-      "id": "6354c7806fa74d771acd",
-      "source": "BBC News",
-      "title": "'Maxxing' selected as Dictionary.com word of the year",
-      "url": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T21:31:53+00:00"
     },
     {
       "id": "23a33fe82a1e890c42bc",
