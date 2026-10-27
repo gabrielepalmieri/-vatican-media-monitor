@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-27T22:25:18.000768+00:00",
+  "updated_at": "2026-10-27T22:30:42.591835+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-27T22:25:18.000768+00:00"
+      "checked_at": "2026-10-27T22:30:42.591835+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-27T22:25:18.000768+00:00"
+      "checked_at": "2026-10-27T22:30:42.591835+00:00"
     }
   },
   "items": [
+    {
+      "id": "ce7d08477efeba96b886",
+      "source": "TGcom24",
+      "title": "Il Mit precetta lo sciopero dei trasporti del 30 ottobre, ma l'Usb lo conferma",
+      "url": "https://www.tgcom24.mediaset.it/economia/mit-precetta-sciopero-trasporti-30-ottobre-usb-conferma_118228026-202602k.shtml",
+      "published": "2026-10-27T22:27:00+00:00"
+    },
     {
       "id": "ab03b3c6707433cbe753",
       "source": "BBC News",
@@ -297,13 +304,6 @@
       "title": "Why it could take time for a new Israeli government to form",
       "url": "https://www.bbc.co.uk/news/videos/c574p31l1l2no?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-27T08:37:30+00:00"
-    },
-    {
-      "id": "b1c3719038b1efae6c76",
-      "source": "TGcom24",
-      "title": "Concordia Sagittaria (Venezia), auto contro platano: morta 27enne",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/venezia-concordia-sagittaria-schianto-contro-platano_118195544-202602k.shtml",
-      "published": "2026-10-27T08:34:00+00:00"
     },
     {
       "id": "bca5c89273f7f72cfd7f",
