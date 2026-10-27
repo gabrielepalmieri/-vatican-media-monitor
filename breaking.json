@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-27T18:50:25.007450+00:00",
+  "updated_at": "2026-10-27T18:55:21.661879+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-27T18:50:25.007450+00:00"
+      "checked_at": "2026-10-27T18:55:21.661879+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-27T18:50:25.007450+00:00"
+      "checked_at": "2026-10-27T18:55:21.661879+00:00"
     }
   },
   "items": [
+    {
+      "id": "fb4f61cb06e3934f990b",
+      "source": "TGcom24",
+      "title": "Scontri in piazza, Piantedosi: \"Non è finita, attenzione alta per venerdì\"",
+      "url": "https://www.tgcom24.mediaset.it/politica/scontri-piazza-venerdi-30-ottobre-piantedosi_118216859-202602k.shtml",
+      "published": "2026-10-27T18:47:00+00:00"
+    },
     {
       "id": "a6546ba9abdcbeb152e3",
       "source": "BBC News",
@@ -290,13 +297,6 @@
       "title": "La Siria chiuderà i confini con la Giordania dopo i raid",
       "url": "https://www.tgcom24.mediaset.it/mondo/siria-chiusi-confini-con-giordania_118190033-202602k.shtml",
       "published": "2026-10-26T22:25:00+00:00"
-    },
-    {
-      "id": "66307671aeba9ff47df3",
-      "source": "TGcom24",
-      "title": "Ue all'Italia: \"Valutiamo aiuti Pac contro caro-carburanti agricoli\"",
-      "url": "https://www.tgcom24.mediaset.it/economia/ue-italia-valutiamo-aiuti-pac-contro-caro-carburanti_118187910-202602k.shtml",
-      "published": "2026-10-26T21:34:00+00:00"
     },
     {
       "id": "b093ac84116207df2061",
