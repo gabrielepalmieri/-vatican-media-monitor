@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-27T15:10:28.173509+00:00",
+  "updated_at": "2026-10-27T15:15:31.555296+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-27T15:10:28.173509+00:00"
+      "checked_at": "2026-10-27T15:15:31.555296+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-27T15:10:28.173509+00:00"
+      "checked_at": "2026-10-27T15:15:31.555296+00:00"
     }
   },
   "items": [
+    {
+      "id": "4c32df1c56e499633679",
+      "source": "BBC News",
+      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+      "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T15:13:24+00:00"
+    },
     {
       "id": "4e96d105f715b344c1a1",
       "source": "TGcom24",
@@ -87,13 +94,6 @@
       "title": "Co-ordinated cattle raids kill at least 72 people in South Sudan",
       "url": "https://www.bbc.co.uk/news/articles/cr3wvl9qz3v2o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-27T12:25:14+00:00"
-    },
-    {
-      "id": "4c32df1c56e499633679",
-      "source": "BBC News",
-      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
-      "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T11:53:57+00:00"
     },
     {
       "id": "66e61948c110d55a957d",
