@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-27T11:35:17.903473+00:00",
+  "updated_at": "2026-10-27T11:40:24.306120+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-27T11:35:17.903473+00:00"
+      "checked_at": "2026-10-27T11:40:24.306120+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-27T11:35:17.903473+00:00"
+      "checked_at": "2026-10-27T11:40:24.306120+00:00"
     }
   },
   "items": [
+    {
+      "id": "adf103237b26e4b1d643",
+      "source": "TGcom24",
+      "title": "Israele, affluenza al 31,5% alle ore 12: il dato più alto dal 1977",
+      "url": "https://www.tgcom24.mediaset.it/mondo/israele-elezioni-knesset-diretta_118186865-202602k.shtml",
+      "published": "2026-10-27T11:37:00+00:00"
+    },
     {
       "id": "4c32df1c56e499633679",
       "source": "BBC News",
@@ -311,13 +318,6 @@
       "title": "Milano, disabile muore nel rogo del suo appartamento: sentito un vicino per possibile atto doloso",
       "url": "https://www.tgcom24.mediaset.it/cronaca/milano-anziana-disabile-morta-incendio_118176460-202602k.shtml",
       "published": "2026-10-26T15:10:00+00:00"
-    },
-    {
-      "id": "c471ce789cc4fbe04fa4",
-      "source": "TGcom24",
-      "title": "Ex Ilva, la Procura chiede gli arresti domiciliari per Lucia Morselli e altri due indagati",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/ex-ilva-taranto-chiesti-domiciliari-manager_118174022-202602k.shtml",
-      "published": "2026-10-26T14:41:00+00:00"
     },
     {
       "id": "cefbb21843c919c86eb6",
