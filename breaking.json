@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-27T15:40:28.329081+00:00",
+  "updated_at": "2026-10-27T15:45:37.637024+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-27T15:40:28.329081+00:00"
+      "checked_at": "2026-10-27T15:45:37.637024+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-27T15:40:28.329081+00:00"
+      "checked_at": "2026-10-27T15:45:37.637024+00:00"
     }
   },
   "items": [
+    {
+      "id": "1d41ffc91fb09930d6f1",
+      "source": "TGcom24",
+      "title": "Monza, lite sfocia in omicidio: 34enne ucciso con almeno otto coltellate",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/monza-omicidio-lite-coltellate-38enne-arrestato_118214228-202602k.shtml",
+      "published": "2026-10-27T15:42:00+00:00"
+    },
     {
       "id": "23a9f14c22ea34d26d15",
       "source": "BBC News",
@@ -304,13 +311,6 @@
       "title": "La professoressa di Youssef Siher: \"Contro di lui gogna mediatica\"",
       "url": "https://www.tgcom24.mediaset.it/2026/video/la-professoressa-di-youssef-siher-contro-di-lui-gogna-mediatica-_118185273-02k.shtml",
       "published": "2026-10-26T19:32:00+00:00"
-    },
-    {
-      "id": "2d39219d085906d185b1",
-      "source": "TGcom24",
-      "title": "Youssef Siher, pm: \"Nei messaggi social una dichiarazione di guerra continua\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/proteste-milano-movimento-17-ottobre-youssef-siher-udienza-convalida-fermo_118154866-202602k.shtml",
-      "published": "2026-10-26T18:31:00+00:00"
     },
     {
       "id": "b093ac84116207df2061",
