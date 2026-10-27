@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-27T20:25:18.584676+00:00",
+  "updated_at": "2026-10-27T20:30:46.480384+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-27T20:25:18.584676+00:00"
+      "checked_at": "2026-10-27T20:30:46.480384+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-27T20:25:18.584676+00:00"
+      "checked_at": "2026-10-27T20:30:46.480384+00:00"
     }
   },
   "items": [
+    {
+      "id": "ab03b3c6707433cbe753",
+      "source": "BBC News",
+      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T20:19:53+00:00"
+    },
     {
       "id": "527a761bfc3db5106906",
       "source": "TGcom24",
@@ -136,13 +143,6 @@
       "title": "West warns of famine risk in Sudan as civil war grinds on",
       "url": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-27T15:41:46+00:00"
-    },
-    {
-      "id": "4c32df1c56e499633679",
-      "source": "BBC News",
-      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
-      "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T15:13:24+00:00"
     },
     {
       "id": "014c9ec66a5f560f4830",
