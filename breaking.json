@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-27T22:10:25.165725+00:00",
+  "updated_at": "2026-10-27T22:15:29.434347+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-27T22:10:25.165725+00:00"
+      "checked_at": "2026-10-27T22:15:29.434347+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-27T22:10:25.165725+00:00"
+      "checked_at": "2026-10-27T22:15:29.434347+00:00"
     }
   },
   "items": [
+    {
+      "id": "ab03b3c6707433cbe753",
+      "source": "BBC News",
+      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T22:11:08+00:00"
+    },
     {
       "id": "0a5bba246bdabff1f071",
       "source": "TGcom24",
@@ -52,13 +59,6 @@
       "title": "Elezioni Israele, exit poll: boom dei partiti arabi, verso i 18 seggi",
       "url": "https://www.tgcom24.mediaset.it/mondo/israele-elezioni-knesset-diretta_118186865-202602k.shtml",
       "published": "2026-10-27T20:36:00+00:00"
-    },
-    {
-      "id": "ab03b3c6707433cbe753",
-      "source": "BBC News",
-      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T20:19:53+00:00"
     },
     {
       "id": "527a761bfc3db5106906",
