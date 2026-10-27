@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-27T23:15:29.077886+00:00",
+  "updated_at": "2026-10-27T23:20:25.348556+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-10-27T23:15:29.077886+00:00"
+      "checked_at": "2026-10-27T23:20:25.348556+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-27T23:15:29.077886+00:00"
+      "checked_at": "2026-10-27T23:20:25.348556+00:00"
     }
   },
   "items": [
@@ -59,6 +59,13 @@
       "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
       "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-27T20:44:40+00:00"
+    },
+    {
+      "id": "d6dd70999e51df0b40b1",
+      "source": "BBC News",
+      "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+      "url": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T20:42:38+00:00"
     },
     {
       "id": "0500d63a6adf37da07c8",
@@ -306,13 +313,6 @@
       "published": "2026-10-27T08:37:30+00:00"
     },
     {
-      "id": "bca5c89273f7f72cfd7f",
-      "source": "BBC News",
-      "title": "'A dream come true' - Harry Kane on his Ballon d'Or win",
-      "url": "https://www.bbc.co.uk/news/videos/cm9wznvx1l17o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T07:22:41+00:00"
-    },
-    {
       "id": "c1188203fd0399426ca6",
       "source": "BBC News",
       "title": "'I would do it again' - Kaepernick reflects on price of protest, 10 years on",
@@ -353,13 +353,6 @@
       "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
       "url": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-27T00:31:11+00:00"
-    },
-    {
-      "id": "b093ac84116207df2061",
-      "source": "BBC News",
-      "title": "Sydney's new $5bn airport has one big problem: Getting there is tough",
-      "url": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T18:00:10+00:00"
     }
   ]
 }
