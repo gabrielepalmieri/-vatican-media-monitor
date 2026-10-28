@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-28T15:01:06.678150+00:00",
+  "updated_at": "2026-10-28T15:05:21.583822+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-28T15:01:06.678150+00:00"
+      "checked_at": "2026-10-28T15:05:21.583822+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-28T15:01:06.678150+00:00"
+      "checked_at": "2026-10-28T15:05:21.583822+00:00"
     }
   },
   "items": [
+    {
+      "id": "a652c605bcf810c65bd9",
+      "source": "TGcom24",
+      "title": "Cesena, uomo ucciso a colpi d'arma da fuoco: il cadavere ritrovato in un pozzo",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/cesena-longiano-cadavere-pozzo_118249383-202602k.shtml",
+      "published": "2026-10-28T14:58:00+00:00"
+    },
     {
       "id": "5b834c5368b48f72cf7d",
       "source": "BBC News",
@@ -255,13 +262,6 @@
       "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
       "url": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-27T21:09:12+00:00"
-    },
-    {
-      "id": "e0964fcc9328abecec82",
-      "source": "TGcom24",
-      "title": "Manovra, la premier Meloni: \"Manteniamo gli impegni facendo quadrare i conti\"",
-      "url": "https://www.tgcom24.mediaset.it/politica/manovra-2027-giorgia-meloni_118228291-202602k.shtml",
-      "published": "2026-10-27T21:03:00+00:00"
     },
     {
       "id": "d6dd70999e51df0b40b1",
