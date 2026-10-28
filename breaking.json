@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-28T15:35:20.177102+00:00",
+  "updated_at": "2026-10-28T15:40:27.279281+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-28T15:35:20.177102+00:00"
+      "checked_at": "2026-10-28T15:40:27.279281+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-28T15:35:20.177102+00:00"
+      "checked_at": "2026-10-28T15:40:27.279281+00:00"
     }
   },
   "items": [
+    {
+      "id": "5b834c5368b48f72cf7d",
+      "source": "BBC News",
+      "title": "What we know so far about deadly Spain train crash",
+      "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T15:36:11+00:00"
+    },
+    {
+      "id": "9638d43d5e85e8038295",
+      "source": "TGcom24",
+      "title": "Gas, il Tft ad Amsterdam supera i 100 euro al megawattora",
+      "url": "https://www.tgcom24.mediaset.it/economia/gas-supera-100-euro-crisi-energetica_118251086-202602k.shtml",
+      "published": "2026-10-28T15:35:00+00:00"
+    },
     {
       "id": "e1d67316dba34bba4a29",
       "source": "TGcom24",
@@ -24,13 +38,6 @@
       "title": "Cesena, uomo ucciso a colpi d'arma da fuoco: il cadavere ritrovato in un pozzo",
       "url": "https://www.tgcom24.mediaset.it/cronaca/cesena-longiano-cadavere-pozzo_118249383-202602k.shtml",
       "published": "2026-10-28T14:58:00+00:00"
-    },
-    {
-      "id": "5b834c5368b48f72cf7d",
-      "source": "BBC News",
-      "title": "What we know so far about deadly Spain train crash",
-      "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T14:53:38+00:00"
     },
     {
       "id": "1ce817a39f0bd316a8bf",
