@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-28T11:45:31.114286+00:00",
+  "updated_at": "2026-10-28T11:50:25.752125+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-28T11:45:31.114286+00:00"
+      "checked_at": "2026-10-28T11:50:25.752125+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-28T11:45:31.114286+00:00"
+      "checked_at": "2026-10-28T11:50:25.752125+00:00"
     }
   },
   "items": [
+    {
+      "id": "5b834c5368b48f72cf7d",
+      "source": "BBC News",
+      "title": "What we know so far about deadly Spain train crash",
+      "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T11:48:45+00:00"
+    },
     {
       "id": "01c8c68f9c398133b04c",
       "source": "TGcom24",
@@ -283,13 +290,6 @@
       "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
       "url": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-27T14:29:39+00:00"
-    },
-    {
-      "id": "0742ebd588bc2270a23d",
-      "source": "BBC News",
-      "title": "Trump v Obama - which president has the star power to get out the vote?",
-      "url": "https://www.bbc.co.uk/news/videos/cv0ldjez8z32o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T13:59:22+00:00"
     },
     {
       "id": "61134aa1e5e77fb2abc9",
