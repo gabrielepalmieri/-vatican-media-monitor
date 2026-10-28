@@ -1,20 +1,27 @@
 {
-  "updated_at": "2026-10-28T23:05:17.643702+00:00",
+  "updated_at": "2026-10-28T23:10:23.951507+00:00",
   "sources": {
     "TGcom24": {
-      "ok": false,
-      "checked_at": "2026-10-28T23:05:17.643702+00:00"
+      "ok": true,
+      "checked_at": "2026-10-28T23:10:23.951507+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-28T23:05:17.643702+00:00"
+      "checked_at": "2026-10-28T23:10:23.951507+00:00"
     }
   },
   "items": [
     {
+      "id": "c02d7c6911931ef0a51a",
+      "source": "TGcom24",
+      "title": "Travolto da una rotoballa di fieno in Molise, agricoltore muore in ospedale",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/travolto-da-una-rotoballa-di-fieno-in-molise-agricoltore-muore-in-ospedale_118278719-202602k.shtml",
+      "published": "2026-10-28T23:04:00+00:00"
+    },
+    {
       "id": "22d5328c068cf23153bf",
       "source": "TGcom24",
-      "title": "Bolsonaro: \"Io il vero presidente del Brasile, guiderò l'opposizione dagli Usa\"",
+      "title": "Bolsonaro dagli Usa: \"Io il vero presidente del Brasile\", poi fa retromarcia",
       "url": "https://www.tgcom24.mediaset.it/mondo/brasile-flavio-bolsonaro-volo-stati-uniti_118214209-202602k.shtml",
       "published": "2026-10-28T22:29:00+00:00"
     },
@@ -262,13 +269,6 @@
       "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
       "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-28T10:31:22+00:00"
-    },
-    {
-      "id": "10a3236ed1c204572fa9",
-      "source": "TGcom24",
-      "title": "David Rossi, le Dda di Firenze, Brescia e Bologna indagano per omicidio",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/david-rossi-dda-indagine-omicidio_118238631-202602k.shtml",
-      "published": "2026-10-28T10:23:00+00:00"
     },
     {
       "id": "6b8bc0671050f1f880cc",
