@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-28T10:30:46.840613+00:00",
+  "updated_at": "2026-10-28T10:35:20.447918+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-28T10:30:46.840613+00:00"
+      "checked_at": "2026-10-28T10:35:20.447918+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-28T10:30:46.840613+00:00"
+      "checked_at": "2026-10-28T10:35:20.447918+00:00"
     }
   },
   "items": [
+    {
+      "id": "0fd3c1e34aed6045bf7a",
+      "source": "BBC News",
+      "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+      "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T10:31:22+00:00"
+    },
     {
       "id": "10a3236ed1c204572fa9",
       "source": "TGcom24",
@@ -31,13 +38,6 @@
       "title": "Accise, nuovo taglio fino al 7 novembre: circa 4,9 centesimi in meno sul gasolio",
       "url": "https://www.tgcom24.mediaset.it/economia/taglio-accise-7-novembre_118238262-202602k.shtml",
       "published": "2026-10-28T08:51:00+00:00"
-    },
-    {
-      "id": "0fd3c1e34aed6045bf7a",
-      "source": "BBC News",
-      "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-      "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T07:53:20+00:00"
     },
     {
       "id": "8a4122a5b8e545198b29",
