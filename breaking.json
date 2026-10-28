@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-28T05:00:58.875851+00:00",
+  "updated_at": "2026-10-28T05:05:18.349547+00:00",
   "sources": {
     "TGcom24": {
-      "ok": false,
-      "checked_at": "2026-10-28T05:00:58.875851+00:00"
+      "ok": true,
+      "checked_at": "2026-10-28T05:05:18.349547+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-28T05:00:58.875851+00:00"
+      "checked_at": "2026-10-28T05:05:18.349547+00:00"
     }
   },
   "items": [
+    {
+      "id": "8c5f718f940d693758c3",
+      "source": "TGcom24",
+      "title": "Coppia rientra a casa dal lavoro nel Veneziano, trova i ladri e viene aggredita",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/coppia-rientra-a-casa-dal-lavoro-nel-veneziano-trova-i-ladri-e-viene-aggredita_118232951-202602k.shtml",
+      "published": "2026-10-28T05:02:00+00:00"
+    },
     {
       "id": "f0f2fb61a2dd27472ab2",
       "source": "BBC News",
@@ -24,6 +31,13 @@
       "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
       "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-28T02:20:25+00:00"
+    },
+    {
+      "id": "0940db003374e09d8921",
+      "source": "TGcom24",
+      "title": "Brasile, media: \"Gli Usa rilasceranno il visto a Bolsonaro e famiglia\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/brasile-flavio-bolsonaro-volo-stati-uniti_118214209-202602k.shtml",
+      "published": "2026-10-27T22:59:00+00:00"
     },
     {
       "id": "ce7d08477efeba96b886",
@@ -297,20 +311,6 @@
       "title": "What does Israel's election mean for Gaza and the wider world?",
       "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-27T10:17:36+00:00"
-    },
-    {
-      "id": "2d6d123bda8425a17216",
-      "source": "TGcom24",
-      "title": "Movimento 17 ottobre, Siher non risponde al gip durante l'interrogatorio",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-youssef-siher-non-risponde-gip_118201227-202602k.shtml",
-      "published": "2026-10-27T09:57:00+00:00"
-    },
-    {
-      "id": "f6f88aa52057821df4ea",
-      "source": "TGcom24",
-      "title": "Morte per la ricina, interrogato un addetto al ritiro rifiuti",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/ricina-pietracatella-nuovo-interrogatorio_118200487-202602k.shtml",
-      "published": "2026-10-27T09:15:00+00:00"
     },
     {
       "id": "c1188203fd0399426ca6",
