@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-28T15:20:28.577752+00:00",
+  "updated_at": "2026-10-28T15:25:23.181492+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-28T15:20:28.577752+00:00"
+      "checked_at": "2026-10-28T15:25:23.181492+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-28T15:20:28.577752+00:00"
+      "checked_at": "2026-10-28T15:25:23.181492+00:00"
     }
   },
   "items": [
+    {
+      "id": "e1d67316dba34bba4a29",
+      "source": "TGcom24",
+      "title": "Caso Siher, Tribunale di Milano dopo il video di Meloni: \"Critiche irricevibili\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/caso-siher-giorgia-meloni-attacca-gip-milano_118251094-202602k.shtml",
+      "published": "2026-10-28T15:20:00+00:00"
+    },
     {
       "id": "a652c605bcf810c65bd9",
       "source": "TGcom24",
@@ -248,13 +255,6 @@
       "title": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
       "url": "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-27T21:46:43+00:00"
-    },
-    {
-      "id": "0a5bba246bdabff1f071",
-      "source": "TGcom24",
-      "title": "Melania Trump: \"Iniziato il cessate il fuoco nella regione di Kherson\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-melania-cessate-fuoco-iniziato_118228290-202602k.shtml",
-      "published": "2026-10-27T21:21:00+00:00"
     },
     {
       "id": "84a43fbdb9d37bd308fc",
