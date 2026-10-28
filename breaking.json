@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-28T06:00:59.888101+00:00",
+  "updated_at": "2026-10-28T06:05:22.108040+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-28T06:00:59.888101+00:00"
+      "checked_at": "2026-10-28T06:05:22.108040+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-28T06:00:59.888101+00:00"
+      "checked_at": "2026-10-28T06:05:22.108040+00:00"
     }
   },
   "items": [
+    {
+      "id": "bdb41d3f3c76762bec6e",
+      "source": "TGcom24",
+      "title": "Ucraina, attacco russo contro condominio a Kharkiv: morto anche un bambino",
+      "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-russia-attacco-guerra-stati-uniti_118234170-202602k.shtml",
+      "published": "2026-10-28T06:03:00+00:00"
+    },
     {
       "id": "b616c4aa7d99e8db79d4",
       "source": "TGcom24",
@@ -297,13 +304,6 @@
       "title": "Netherlands pulls out of Eurovision again over Israel participation",
       "url": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-27T11:23:19+00:00"
-    },
-    {
-      "id": "1c7395096592b4a736cb",
-      "source": "TGcom24",
-      "title": "Teramo, 3 operai senza stipendio minacciano di lanciarsi da un'impalcatura",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/foto/teramo-tre-operai-senza-stipendio-minacciano-di-lanciarsi-da-un-impalcatura-alta-10-metri_118202502-202602k.shtml",
-      "published": "2026-10-27T11:07:00+00:00"
     },
     {
       "id": "1f72e46a0e3d8a5a8e5f",
