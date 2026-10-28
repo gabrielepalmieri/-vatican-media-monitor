@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-28T23:20:25.428897+00:00",
+  "updated_at": "2026-10-28T23:25:16.330983+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-28T23:20:25.428897+00:00"
+      "checked_at": "2026-10-28T23:25:16.330983+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-28T23:20:25.428897+00:00"
+      "checked_at": "2026-10-28T23:25:16.330983+00:00"
     }
   },
   "items": [
+    {
+      "id": "6407e85b75b505598340",
+      "source": "BBC News",
+      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+      "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T23:21:48+00:00"
+    },
     {
       "id": "c02d7c6911931ef0a51a",
       "source": "TGcom24",
@@ -24,13 +31,6 @@
       "title": "Bolsonaro dagli Usa: \"Io il vero presidente del Brasile\", poi fa retromarcia",
       "url": "https://www.tgcom24.mediaset.it/mondo/brasile-flavio-bolsonaro-volo-stati-uniti_118214209-202602k.shtml",
       "published": "2026-10-28T22:29:00+00:00"
-    },
-    {
-      "id": "6407e85b75b505598340",
-      "source": "BBC News",
-      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-      "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T22:13:35+00:00"
     },
     {
       "id": "d5ab44a45dc438a8a4c2",
