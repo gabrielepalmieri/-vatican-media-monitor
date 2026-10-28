@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-28T20:55:18.799921+00:00",
+  "updated_at": "2026-10-28T21:00:59.878921+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-28T20:55:18.799921+00:00"
+      "checked_at": "2026-10-28T21:00:59.878921+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-28T20:55:18.799921+00:00"
+      "checked_at": "2026-10-28T21:00:59.878921+00:00"
     }
   },
   "items": [
+    {
+      "id": "e35d065f73a38fbde5c7",
+      "source": "BBC News",
+      "title": "Israel's election deadlock is a sign of the country's deep divisions",
+      "url": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T20:53:02+00:00"
+    },
     {
       "id": "2a12bfd40481790a5b49",
       "source": "TGcom24",
@@ -220,13 +227,6 @@
       "title": "Capo Lista Unita araba: chi vuole alternativa a Netanyahu dovrà parlare con noi",
       "url": "https://www.tgcom24.mediaset.it/mondo/israele-elezioni-knesset-diretta_118186865-202602k.shtml",
       "published": "2026-10-28T10:43:00+00:00"
-    },
-    {
-      "id": "885878cafbc2a36698f5",
-      "source": "BBC News",
-      "title": "Netanyahu and Eisenkot face difficult paths to power as neither set to win majority",
-      "url": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T10:35:13+00:00"
     },
     {
       "id": "0fd3c1e34aed6045bf7a",
