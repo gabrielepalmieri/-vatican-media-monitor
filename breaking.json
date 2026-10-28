@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-28T10:45:30.634066+00:00",
+  "updated_at": "2026-10-28T10:50:25.520361+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-28T10:45:30.634066+00:00"
+      "checked_at": "2026-10-28T10:50:25.520361+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-28T10:45:30.634066+00:00"
+      "checked_at": "2026-10-28T10:50:25.520361+00:00"
     }
   },
   "items": [
+    {
+      "id": "abc7d9f3df2517a998f4",
+      "source": "TGcom24",
+      "title": "Israele, capo Lista Unita araba: \"Chi vuole alternativa a Netanyahu dovrà parlare con noi\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/israele-elezioni-knesset-diretta_118186865-202602k.shtml",
+      "published": "2026-10-28T10:43:00+00:00"
+    },
     {
       "id": "885878cafbc2a36698f5",
       "source": "BBC News",
@@ -269,13 +276,6 @@
       "title": "Monza, lite sfocia in omicidio: 34enne ucciso con almeno otto coltellate",
       "url": "https://www.tgcom24.mediaset.it/cronaca/monza-omicidio-lite-coltellate-38enne-arrestato_118214228-202602k.shtml",
       "published": "2026-10-27T15:42:00+00:00"
-    },
-    {
-      "id": "014c9ec66a5f560f4830",
-      "source": "TGcom24",
-      "title": "Papa Leone: \"Basta preparare altre guerre, solo la pace è santa\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/papa-leone-basta-guerre-pace-santa_118213398-202602k.shtml",
-      "published": "2026-10-27T15:12:00+00:00"
     },
     {
       "id": "cea074aa8965586769a5",
