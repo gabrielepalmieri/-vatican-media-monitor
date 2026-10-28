@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-27T10:29:25.657564+00:00",
+  "updated_at": "2026-10-28T01:16:55.814268+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-10-27T10:29:25.657564+00:00",
+  "un_verified_at": "2026-10-28T01:16:55.814268+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,29 +1918,6 @@
     }
   ],
   "days": {
-    "2026-10-26": {
-      "saints": [
-        {
-          "title": "San Beano, vescovo",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/26.html"
-        },
-        {
-          "title": "San Cedda, vescovo",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/26.html"
-        },
-        {
-          "title": "San Demetrio, martire",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/26.html"
-        },
-        {
-          "title": "San Folco Scotti",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/26/san-folco-scotti.html"
-        }
-      ],
-      "un": [],
-      "un_available": true,
-      "holy_see": []
-    },
     "2026-10-27": {
       "saints": [
         {
@@ -2599,6 +2576,30 @@
         {
           "title": "Giornata mondiale contro l’AIDS",
           "url": "https://www.un.org/en/observances/world-aids-day"
+        }
+      ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-12-02": {
+      "saints": [
+        {
+          "title": "San Pimenio, martire sulla via Portuense",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/02.html"
+        },
+        {
+          "title": "Santa Bibiana, matrona romana",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/02.html"
+        },
+        {
+          "title": "San Silverio, papa",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/02/san-silverio--papa.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata internazionale per l’abolizione della schiavitù",
+          "url": "https://www.un.org/en/observances/slavery-abolition-day"
         }
       ],
       "un_available": true,
