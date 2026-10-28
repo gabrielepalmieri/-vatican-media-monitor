@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-28T16:32:45.616724+00:00",
+  "updated_at": "2026-10-28T16:35:21.061207+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-28T16:32:45.616724+00:00"
+      "checked_at": "2026-10-28T16:35:21.061207+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-28T16:32:45.616724+00:00"
+      "checked_at": "2026-10-28T16:35:21.061207+00:00"
     }
   },
   "items": [
+    {
+      "id": "333cd94380fcd6ba9d35",
+      "source": "TGcom24",
+      "title": "Manovra, alzata fino a 55mila la soglia del secondo scaglione Irpef",
+      "url": "https://www.tgcom24.mediaset.it/politica/consiglio-dei-ministri-manovra-2027_118254074-202602k.shtml",
+      "published": "2026-10-28T16:31:00+00:00"
+    },
     {
       "id": "360f71c09d368bc9dbeb",
       "source": "TGcom24",
@@ -255,13 +262,6 @@
       "title": "Brasile, media: \"Gli Usa rilasceranno il visto a Bolsonaro e famiglia\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/brasile-flavio-bolsonaro-volo-stati-uniti_118214209-202602k.shtml",
       "published": "2026-10-27T22:59:00+00:00"
-    },
-    {
-      "id": "ce7d08477efeba96b886",
-      "source": "TGcom24",
-      "title": "Il Mit precetta lo sciopero dei trasporti del 30 ottobre, ma l'Usb lo conferma",
-      "url": "https://www.tgcom24.mediaset.it/economia/mit-precetta-sciopero-trasporti-30-ottobre-usb-conferma_118228026-202602k.shtml",
-      "published": "2026-10-27T22:27:00+00:00"
     },
     {
       "id": "ab03b3c6707433cbe753",
