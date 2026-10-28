@@ -1,22 +1,29 @@
 {
-  "updated_at": "2026-10-28T20:20:27.291252+00:00",
+  "updated_at": "2026-10-28T20:25:18.864298+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-28T20:20:27.291252+00:00"
+      "checked_at": "2026-10-28T20:25:18.864298+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-28T20:20:27.291252+00:00"
+      "checked_at": "2026-10-28T20:25:18.864298+00:00"
     }
   },
   "items": [
+    {
+      "id": "55ca6869e868b6c19ba7",
+      "source": "BBC News",
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T20:24:39+00:00"
+    },
     {
       "id": "6407e85b75b505598340",
       "source": "BBC News",
       "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
       "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T20:19:10+00:00"
+      "published": "2026-10-28T20:22:49+00:00"
     },
     {
       "id": "07b4fe2c703f527ea6e3",
@@ -73,13 +80,6 @@
       "title": "Manovra, Meloni: lo stop al bollo auto diventa strutturale",
       "url": "https://www.tgcom24.mediaset.it/politica/consiglio-dei-ministri-manovra-2027_118254074-202602k.shtml",
       "published": "2026-10-28T17:05:00+00:00"
-    },
-    {
-      "id": "55ca6869e868b6c19ba7",
-      "source": "BBC News",
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T16:59:47+00:00"
     },
     {
       "id": "d347e037684f98796a7f",
