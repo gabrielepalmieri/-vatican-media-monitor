@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-28T20:15:32.320787+00:00",
+  "updated_at": "2026-10-28T20:20:27.291252+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-28T20:15:32.320787+00:00"
+      "checked_at": "2026-10-28T20:20:27.291252+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-28T20:15:32.320787+00:00"
+      "checked_at": "2026-10-28T20:20:27.291252+00:00"
     }
   },
   "items": [
+    {
+      "id": "6407e85b75b505598340",
+      "source": "BBC News",
+      "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+      "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T20:19:10+00:00"
+    },
     {
       "id": "07b4fe2c703f527ea6e3",
       "source": "TGcom24",
@@ -38,13 +45,6 @@
       "title": "Usa, la Federal Reserve lascia i tassi di interesse invariati",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-la-federal-reserve-lascia-i-tassi-di-interesse-invariati_118263112-202602k.shtml",
       "published": "2026-10-28T18:45:00+00:00"
-    },
-    {
-      "id": "6407e85b75b505598340",
-      "source": "BBC News",
-      "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
-      "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T18:42:45+00:00"
     },
     {
       "id": "a8b2f44c729a20926915",
