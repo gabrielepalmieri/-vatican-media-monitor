@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-28T20:40:25.794519+00:00",
+  "updated_at": "2026-10-28T20:45:30.626040+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-28T20:40:25.794519+00:00"
+      "checked_at": "2026-10-28T20:45:30.626040+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-28T20:40:25.794519+00:00"
+      "checked_at": "2026-10-28T20:45:30.626040+00:00"
     }
   },
   "items": [
+    {
+      "id": "2a12bfd40481790a5b49",
+      "source": "TGcom24",
+      "title": "Israele, Eisenkot: \"Agirò per un governo del cambiamento sionista\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/israele-elezioni-knesset-diretta_118186865-202602k.shtml",
+      "published": "2026-10-28T20:40:00+00:00"
+    },
     {
       "id": "55ca6869e868b6c19ba7",
       "source": "BBC News",
@@ -255,13 +262,6 @@
       "title": "Scontro fra treni in Spagna, vagoni precipitati in una scarpata: \"Decine di morti\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/scontro-treni-spagna-feriti_118238823-202602k.shtml",
       "published": "2026-10-28T09:20:00+00:00"
-    },
-    {
-      "id": "b79810e96ac7044665cd",
-      "source": "TGcom24",
-      "title": "Accise, nuovo taglio fino al 7 novembre: circa 4,9 centesimi in meno sul gasolio",
-      "url": "https://www.tgcom24.mediaset.it/economia/taglio-accise-7-novembre_118238262-202602k.shtml",
-      "published": "2026-10-28T08:51:00+00:00"
     },
     {
       "id": "589c58112b158894efd0",
