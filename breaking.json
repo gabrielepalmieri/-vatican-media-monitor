@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-28T19:25:20.387127+00:00",
+  "updated_at": "2026-10-28T19:30:48.271851+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-28T19:25:20.387127+00:00"
+      "checked_at": "2026-10-28T19:30:48.271851+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-28T19:25:20.387127+00:00"
+      "checked_at": "2026-10-28T19:30:48.271851+00:00"
     }
   },
   "items": [
@@ -17,6 +17,13 @@
       "title": "Scontro tra treni in Spagna, la Farnesina: sette italiani coinvolti, due disperse",
       "url": "https://www.tgcom24.mediaset.it/mondo/scontro-treni-spagna-toledo-morti_118238823-202602k.shtml",
       "published": "2026-10-28T19:15:00+00:00"
+    },
+    {
+      "id": "dffba36041cfd594cc87",
+      "source": "BBC News",
+      "title": "How did Flávio Bolsonaro end up in Miami?",
+      "url": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T18:51:05+00:00"
     },
     {
       "id": "f1ee420a954dd5cb189e",
@@ -73,13 +80,6 @@
       "title": "Manovra, alzata fino a 55mila la soglia del secondo scaglione Irpef",
       "url": "https://www.tgcom24.mediaset.it/politica/consiglio-dei-ministri-manovra-2027_118254074-202602k.shtml",
       "published": "2026-10-28T16:31:00+00:00"
-    },
-    {
-      "id": "fc2079370a4755ecb781",
-      "source": "BBC News",
-      "title": "What we know as Flávio Bolsonaro lands in US after Brazil election loss",
-      "url": "https://www.bbc.co.uk/news/videos/c6x29djyx7g9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T16:30:29+00:00"
     },
     {
       "id": "360f71c09d368bc9dbeb",
@@ -262,13 +262,6 @@
       "title": "Serbia, assale poliziotto davanti all'ambasciata d'Israele: ucciso",
       "url": "https://www.tgcom24.mediaset.it/mondo/serbia-poliziotto-ambasciata-israele-ucciso_118234832-202602k.shtml",
       "published": "2026-10-28T07:47:00+00:00"
-    },
-    {
-      "id": "ee6a25e0e764941d66ed",
-      "source": "TGcom24",
-      "title": "Cosenza, blitz anti 'ndrangheta: arrestato anche il sindaco di Corigliano-Rossano",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/cosenza-blitz-ndrangheta-arrestato-flavio-stasi-sindaco-corigliano-rossano_118234831-202602k.shtml",
-      "published": "2026-10-28T07:10:00+00:00"
     },
     {
       "id": "2258bd9862944721400f",
