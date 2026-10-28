@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-28T14:25:18.825890+00:00",
+  "updated_at": "2026-10-28T14:30:51.352050+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-28T14:25:18.825890+00:00"
+      "checked_at": "2026-10-28T14:30:51.352050+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-28T14:25:18.825890+00:00"
+      "checked_at": "2026-10-28T14:30:51.352050+00:00"
     }
   },
   "items": [
@@ -17,6 +17,13 @@
       "title": "Brasile, Flavio Bolsonaro è atterrato Miami",
       "url": "https://www.tgcom24.mediaset.it/mondo/brasile-flavio-bolsonaro-volo-stati-uniti_118214209-202602k.shtml",
       "published": "2026-10-28T14:29:00+00:00"
+    },
+    {
+      "id": "a290dc88fc225fce5ec1",
+      "source": "BBC News",
+      "title": "Israel's election result is messy - here's why",
+      "url": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T14:26:24+00:00"
     },
     {
       "id": "20a2b6097dde8d226d51",
@@ -192,13 +199,6 @@
       "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
       "url": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-28T04:32:36+00:00"
-    },
-    {
-      "id": "f0f2fb61a2dd27472ab2",
-      "source": "BBC News",
-      "title": "Watch: What happens now after close vote in Israeli election?",
-      "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T04:22:59+00:00"
     },
     {
       "id": "84151c6f5549f23f7db4",
