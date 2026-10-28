@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-28T14:01:03.032008+00:00",
+  "updated_at": "2026-10-28T14:05:19.844869+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-28T14:01:03.032008+00:00"
+      "checked_at": "2026-10-28T14:05:19.844869+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-28T14:01:03.032008+00:00"
+      "checked_at": "2026-10-28T14:05:19.844869+00:00"
     }
   },
   "items": [
+    {
+      "id": "20a2b6097dde8d226d51",
+      "source": "TGcom24",
+      "title": "Torino, colpito da uno studente con calci, pugni e una sedia: prof in ospedale",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/torino-prof-colpito-studente_118248336-202602k.shtml",
+      "published": "2026-10-28T14:01:00+00:00"
+    },
     {
       "id": "39b1e4b9739476bbccc1",
       "source": "TGcom24",
@@ -262,13 +269,6 @@
       "title": "Israele, exit poll: Likud avanti, ma nessuna coalizione ha la maggioranza",
       "url": "https://www.tgcom24.mediaset.it/mondo/israele-elezioni-knesset-diretta_118186865-202602k.shtml",
       "published": "2026-10-27T20:04:00+00:00"
-    },
-    {
-      "id": "c91be190cb706e2e4101",
-      "source": "TGcom24",
-      "title": "Dalla Bce via libera a Intesa Sanpaolo all'acquisizione di Mps",
-      "url": "https://www.tgcom24.mediaset.it/economia/dalla-bce-via-libera-a-intesa-sanpaolo-all-acquisizione-di-monte-paschi-di-siena_118225297-202602k.shtml",
-      "published": "2026-10-27T19:50:00+00:00"
     },
     {
       "id": "cdb3aef155061af09078",
