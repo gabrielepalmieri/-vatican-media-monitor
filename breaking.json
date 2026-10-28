@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-28T08:50:26.970043+00:00",
+  "updated_at": "2026-10-28T08:55:19.225230+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-28T08:50:26.970043+00:00"
+      "checked_at": "2026-10-28T08:55:19.225230+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-28T08:50:26.970043+00:00"
+      "checked_at": "2026-10-28T08:55:19.225230+00:00"
     }
   },
   "items": [
+    {
+      "id": "b79810e96ac7044665cd",
+      "source": "TGcom24",
+      "title": "Accise, nuovo taglio fino al 7 novembre: circa 4,9 centesimi in meno sul gasolio",
+      "url": "https://www.tgcom24.mediaset.it/economia/taglio-accise-7-novembre_118238262-202602k.shtml",
+      "published": "2026-10-28T08:51:00+00:00"
+    },
     {
       "id": "0fd3c1e34aed6045bf7a",
       "source": "BBC News",
@@ -290,13 +297,6 @@
       "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
       "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-27T13:25:54+00:00"
-    },
-    {
-      "id": "4bfedccd35f63c6d2925",
-      "source": "TGcom24",
-      "title": "Norvegia, Store: \"Telefonata di 90 minuti con Putin, alleati Ue informati\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-27-ottobre_118192638-202602k.shtml",
-      "published": "2026-10-27T13:15:00+00:00"
     },
     {
       "id": "1f72e46a0e3d8a5a8e5f",
