@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-28T11:01:01.923889+00:00",
+  "updated_at": "2026-10-28T11:05:19.806420+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-28T11:01:01.923889+00:00"
+      "checked_at": "2026-10-28T11:05:19.806420+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-28T11:01:01.923889+00:00"
+      "checked_at": "2026-10-28T11:05:19.806420+00:00"
     }
   },
   "items": [
+    {
+      "id": "a7ba8d6b9890f7e48302",
+      "source": "TGcom24",
+      "title": "Scontro fra treni in Spagna: \"ipotesi errore umano\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/scontro-treni-spagna-toledo-morti_118238823-202602k.shtml",
+      "published": "2026-10-28T11:00:00+00:00"
+    },
     {
       "id": "abc7d9f3df2517a998f4",
       "source": "TGcom24",
@@ -269,13 +276,6 @@
       "title": "Lecce, 78enne trovato morto in un pozzo: si indaga per omicidio",
       "url": "https://www.tgcom24.mediaset.it/cronaca/lecce-uomo-trovato-morto-pozzo-omicidio_118214408-202602k.shtml",
       "published": "2026-10-27T16:11:00+00:00"
-    },
-    {
-      "id": "1d41ffc91fb09930d6f1",
-      "source": "TGcom24",
-      "title": "Monza, lite sfocia in omicidio: 34enne ucciso con almeno otto coltellate",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/monza-omicidio-lite-coltellate-38enne-arrestato_118214228-202602k.shtml",
-      "published": "2026-10-27T15:42:00+00:00"
     },
     {
       "id": "cea074aa8965586769a5",
