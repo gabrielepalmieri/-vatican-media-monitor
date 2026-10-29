@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-29T05:00:58.916340+00:00",
+  "updated_at": "2026-10-29T05:05:18.909993+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-29T05:00:58.916340+00:00"
+      "checked_at": "2026-10-29T05:05:18.909993+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-29T05:00:58.916340+00:00"
+      "checked_at": "2026-10-29T05:05:18.909993+00:00"
     }
   },
   "items": [
+    {
+      "id": "f0b1c8dada530e953dd9",
+      "source": "TGcom24",
+      "title": "Precipita da 15 metri durante la potatura di un albero, grave operaio",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/precipita-da-15-metri-durante-la-potatura-di-un-albero-grave-operaio_118284227-202602k.shtml",
+      "published": "2026-10-29T05:02:00+00:00"
+    },
     {
       "id": "5b834c5368b48f72cf7d",
       "source": "BBC News",
@@ -262,13 +269,6 @@
       "title": "Scontro fra treni in Spagna: \"Ipotesi errore umano\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/scontro-treni-spagna-toledo-morti_118238823-202602k.shtml",
       "published": "2026-10-28T11:00:00+00:00"
-    },
-    {
-      "id": "abc7d9f3df2517a998f4",
-      "source": "TGcom24",
-      "title": "Capo Lista Unita araba: chi vuole alternativa a Netanyahu dovrà parlare con noi",
-      "url": "https://www.tgcom24.mediaset.it/mondo/israele-elezioni-knesset-diretta_118186865-202602k.shtml",
-      "published": "2026-10-28T10:43:00+00:00"
     },
     {
       "id": "0fd3c1e34aed6045bf7a",
