@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-29T07:50:24.787542+00:00",
+  "updated_at": "2026-10-29T07:55:20.140861+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-29T07:50:24.787542+00:00"
+      "checked_at": "2026-10-29T07:55:20.140861+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-29T07:50:24.787542+00:00"
+      "checked_at": "2026-10-29T07:55:20.140861+00:00"
     }
   },
   "items": [
+    {
+      "id": "36ffbdb4c0aeb7c0fdfc",
+      "source": "BBC News",
+      "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+      "url": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T07:54:33+00:00"
+    },
     {
       "id": "bad2cd88948b4f41df73",
       "source": "TGcom24",
@@ -73,13 +80,6 @@
       "title": "What we know so far about deadly Spain train crash",
       "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-29T04:08:28+00:00"
-    },
-    {
-      "id": "36ffbdb4c0aeb7c0fdfc",
-      "source": "BBC News",
-      "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
-      "url": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T03:16:19+00:00"
     },
     {
       "id": "d80e57a894081ed739a8",
