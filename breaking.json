@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-29T16:35:20.529259+00:00",
+  "updated_at": "2026-10-29T16:40:25.973436+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-29T16:35:20.529259+00:00"
+      "checked_at": "2026-10-29T16:40:25.973436+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-29T16:35:20.529259+00:00"
+      "checked_at": "2026-10-29T16:40:25.973436+00:00"
     }
   },
   "items": [
+    {
+      "id": "20417d003fd354b03ff6",
+      "source": "TGcom24",
+      "title": "Ex Ilva, deciso lo spegnimento degli altiforni di Taranto",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/ex-ilva-cassazione-ricorsi_118301919-202602k.shtml",
+      "published": "2026-10-29T16:36:00+00:00"
+    },
     {
       "id": "dccdd4ada74bc5c816c9",
       "source": "BBC News",
@@ -339,13 +346,6 @@
       "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
       "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-28T21:16:30+00:00"
-    },
-    {
-      "id": "7c2673fbf8177cdfd91d",
-      "source": "TGcom24",
-      "title": "Wsj: \"Il vicepresidente Usa Vance ha contattato Teheran per riprendere i negoziati\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/donald-trump-dobbiamo-finire-lavoro-iran_118266405-202602k.shtml",
-      "published": "2026-10-28T21:10:00+00:00"
     },
     {
       "id": "287c436b78ee54d4d204",
