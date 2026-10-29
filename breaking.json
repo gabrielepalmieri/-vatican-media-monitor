@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-29T14:45:31.286700+00:00",
+  "updated_at": "2026-10-29T14:50:27.026250+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-29T14:45:31.286700+00:00"
+      "checked_at": "2026-10-29T14:50:27.026250+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-29T14:45:31.286700+00:00"
+      "checked_at": "2026-10-29T14:50:27.026250+00:00"
     }
   },
   "items": [
+    {
+      "id": "f78c1c5e600392b06f97",
+      "source": "BBC News",
+      "title": "Watch: VHS tapes and computers handed to police as Thomas Markle is investigated",
+      "url": "https://www.bbc.co.uk/news/videos/cm0rlxxpng5eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T14:49:25+00:00"
+    },
     {
       "id": "9ce8bc6ffbeea2961075",
       "source": "TGcom24",
@@ -206,13 +213,6 @@
       "title": "Ragusa, propaganda e contatti con l'Isis: ragazzina finisce in comunità",
       "url": "https://www.tgcom24.mediaset.it/cronaca/ragusa-propaganda-contatti-isis-minorenne-comunita_118287941-202602k.shtml",
       "published": "2026-10-29T07:47:00+00:00"
-    },
-    {
-      "id": "f78c1c5e600392b06f97",
-      "source": "BBC News",
-      "title": "Watch: VHS tapes and computers handed to police as Thomas Markle is investigated",
-      "url": "https://www.bbc.co.uk/news/videos/cm0rlxxpng5eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T07:28:26+00:00"
     },
     {
       "id": "0476e47711189499f28f",
