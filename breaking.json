@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-29T06:20:26.796232+00:00",
+  "updated_at": "2026-10-29T06:25:17.829977+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-29T06:20:26.796232+00:00"
+      "checked_at": "2026-10-29T06:25:17.829977+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-29T06:20:26.796232+00:00"
+      "checked_at": "2026-10-29T06:25:17.829977+00:00"
     }
   },
   "items": [
+    {
+      "id": "1c318e1e1f4fda0250f4",
+      "source": "TGcom24",
+      "title": "New York, una legge statale vieta ai minori interazioni con i chatbot",
+      "url": "https://www.tgcom24.mediaset.it/mondo/legge-stato-new-york-divieto-minori-interazioni-chatbot_118284673-202602k.shtml",
+      "published": "2026-10-29T06:19:00+00:00"
+    },
     {
       "id": "42246286957542a24ef4",
       "source": "TGcom24",
@@ -262,13 +269,6 @@
       "title": "Youssef Siher torna in libertà, arresto non convalidato",
       "url": "https://www.tgcom24.mediaset.it/cronaca/arresto-youssef-siher-liberta_118244735-202602k.shtml",
       "published": "2026-10-28T12:15:00+00:00"
-    },
-    {
-      "id": "ca762a7e217f76a5108f",
-      "source": "TGcom24",
-      "title": "Caso Hydra, si pente il referente del clan Senese in Lombardia",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/caso-hydra-si-pente-giancarlo-vestiti-clan-senese_118244623-202602k.shtml",
-      "published": "2026-10-28T11:51:00+00:00"
     },
     {
       "id": "0fd3c1e34aed6045bf7a",
