@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-29T07:45:29.652116+00:00",
+  "updated_at": "2026-10-29T07:50:24.787542+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-29T07:45:29.652116+00:00"
+      "checked_at": "2026-10-29T07:50:24.787542+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-29T07:45:29.652116+00:00"
+      "checked_at": "2026-10-29T07:50:24.787542+00:00"
     }
   },
   "items": [
+    {
+      "id": "bad2cd88948b4f41df73",
+      "source": "TGcom24",
+      "title": "Ragusa, propaganda e contatti con l'Isis: ragazzina finisce in comunità",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/ragusa-propaganda-contatti-isis-minorenne-comunita_118287941-202602k.shtml",
+      "published": "2026-10-29T07:47:00+00:00"
+    },
     {
       "id": "0476e47711189499f28f",
       "source": "TGcom24",
@@ -24,6 +31,13 @@
       "title": "Reggio Emilia, \"uccise il cugino per l'eredità\" con un bombolone alla crema",
       "url": "https://www.tgcom24.mediaset.it/cronaca/reggio-emilia-ucciso-cugino-eredita-bombolone-crema_118284879-202602k.shtml",
       "published": "2026-10-29T06:38:00+00:00"
+    },
+    {
+      "id": "30d788fb3bfb60b2af3e",
+      "source": "BBC News",
+      "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
+      "url": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T06:24:56+00:00"
     },
     {
       "id": "1c318e1e1f4fda0250f4",
@@ -61,11 +75,53 @@
       "published": "2026-10-29T04:08:28+00:00"
     },
     {
+      "id": "36ffbdb4c0aeb7c0fdfc",
+      "source": "BBC News",
+      "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+      "url": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T03:16:19+00:00"
+    },
+    {
+      "id": "d80e57a894081ed739a8",
+      "source": "BBC News",
+      "title": "'Like cutting up a Picasso': AI microdrama edit of Neighbours worries actors and crew",
+      "url": "https://www.bbc.co.uk/news/articles/cj1dw9znd1q1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T03:15:35+00:00"
+    },
+    {
+      "id": "689d1827b14d238e51b2",
+      "source": "BBC News",
+      "title": "Details of thousands of US immigration agents leaked in major hack",
+      "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T01:30:43+00:00"
+    },
+    {
       "id": "6407e85b75b505598340",
       "source": "BBC News",
       "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
       "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-29T01:14:01+00:00"
+    },
+    {
+      "id": "7890760b0d82740dc198",
+      "source": "BBC News",
+      "title": "Europe's youth take to the streets - they feel locked out of a promising future",
+      "url": "https://www.bbc.co.uk/news/articles/cm2ke80nd929o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T00:33:11+00:00"
+    },
+    {
+      "id": "e96d4659f42e6c9f14f3",
+      "source": "BBC News",
+      "title": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T00:00:15+00:00"
+    },
+    {
+      "id": "34a9b9c3cd95f629c515",
+      "source": "BBC News",
+      "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
+      "url": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T23:11:59+00:00"
     },
     {
       "id": "c02d7c6911931ef0a51a",
@@ -150,6 +206,13 @@
       "title": "Trump: \"Dobbiamo finire il lavoro in Iran, con un accordo o in altro modo\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/donald-trump-dobbiamo-finire-lavoro-iran_118266405-202602k.shtml",
       "published": "2026-10-28T20:05:00+00:00"
+    },
+    {
+      "id": "f074c4c4a6278d96483b",
+      "source": "BBC News",
+      "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+      "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T19:15:58+00:00"
     },
     {
       "id": "bd2f53c8cc0db767ca36",
@@ -262,13 +325,6 @@
       "title": "Torino, colpito da uno studente con calci, pugni e una sedia: prof in ospedale",
       "url": "https://www.tgcom24.mediaset.it/cronaca/torino-prof-colpito-studente_118248336-202602k.shtml",
       "published": "2026-10-28T14:01:00+00:00"
-    },
-    {
-      "id": "39b1e4b9739476bbccc1",
-      "source": "TGcom24",
-      "title": "Youssef Siher, la premier Meloni: \"Vergognosa la decisione della gip di Milano\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/arresto-youssef-siher-liberta_118244735-202602k.shtml",
-      "published": "2026-10-28T13:38:00+00:00"
     },
     {
       "id": "0fd3c1e34aed6045bf7a",
