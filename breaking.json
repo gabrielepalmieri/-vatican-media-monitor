@@ -1,20 +1,27 @@
 {
-  "updated_at": "2026-10-29T12:45:30.824071+00:00",
+  "updated_at": "2026-10-29T12:50:27.221031+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-29T12:45:30.824071+00:00"
+      "checked_at": "2026-10-29T12:50:27.221031+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-29T12:45:30.824071+00:00"
+      "checked_at": "2026-10-29T12:50:27.221031+00:00"
     }
   },
   "items": [
     {
+      "id": "710014ce1e75682df047",
+      "source": "BBC News",
+      "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T12:49:17+00:00"
+    },
+    {
       "id": "a1886a2ad73f28f8d3d8",
       "source": "TGcom24",
-      "title": "Accuse di brogli in Israele, Herzog: \"non infangare intera comunità araba\"",
+      "title": "Accuse di brogli in Israele, Herzog: \"Non infangare intera comunità araba\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/israele-elezioni-ultime-notizie_118290248-202602k.shtml",
       "published": "2026-10-29T12:39:00+00:00"
     },
@@ -38,13 +45,6 @@
       "title": "Progettava attentati in sinagoga e in moschea, arrestato un 22enne a Milano",
       "url": "https://www.tgcom24.mediaset.it/cronaca/foto/milano-22enne-arrestato-terrorismo_118295063-202602k.shtml",
       "published": "2026-10-29T11:39:00+00:00"
-    },
-    {
-      "id": "710014ce1e75682df047",
-      "source": "BBC News",
-      "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T11:34:03+00:00"
     },
     {
       "id": "dccdd4ada74bc5c816c9",
