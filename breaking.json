@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-29T15:15:31.794856+00:00",
+  "updated_at": "2026-10-29T15:20:28.566693+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-29T15:15:31.794856+00:00"
+      "checked_at": "2026-10-29T15:20:28.566693+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-29T15:15:31.794856+00:00"
+      "checked_at": "2026-10-29T15:20:28.566693+00:00"
     }
   },
   "items": [
+    {
+      "id": "dccdd4ada74bc5c816c9",
+      "source": "BBC News",
+      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T15:15:05+00:00"
+    },
     {
       "id": "1e9d6383fbb65d20819a",
       "source": "BBC News",
@@ -108,13 +115,6 @@
       "title": "Progettava attentati in sinagoga e in moschea, arrestato un 22enne a Milano",
       "url": "https://www.tgcom24.mediaset.it/cronaca/foto/milano-22enne-arrestato-terrorismo_118295063-202602k.shtml",
       "published": "2026-10-29T11:39:00+00:00"
-    },
-    {
-      "id": "dccdd4ada74bc5c816c9",
-      "source": "BBC News",
-      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T11:27:05+00:00"
     },
     {
       "id": "9abe16a9b298740e778f",
