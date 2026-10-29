@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-29T20:10:24.997617+00:00",
+  "updated_at": "2026-10-29T20:15:29.797958+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-29T20:10:24.997617+00:00"
+      "checked_at": "2026-10-29T20:15:29.797958+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-29T20:10:24.997617+00:00"
+      "checked_at": "2026-10-29T20:15:29.797958+00:00"
     }
   },
   "items": [
+    {
+      "id": "dccdd4ada74bc5c816c9",
+      "source": "BBC News",
+      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T20:15:05+00:00"
+    },
+    {
+      "id": "9116a8a88d3b34b81eca",
+      "source": "TGcom24",
+      "title": "Elicottero caduto in Bosnia, Mattarella: \"Cordoglio per la morte dei militari\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/elicottero-caduto-bosnia-meloni_118312564-202602k.shtml",
+      "published": "2026-10-29T20:10:00+00:00"
+    },
     {
       "id": "63cf5f4f57cb8cab6709",
       "source": "BBC News",
@@ -52,13 +66,6 @@
       "title": "Ex Ilva, deciso lo spegnimento degli altiforni di Taranto",
       "url": "https://www.tgcom24.mediaset.it/cronaca/ex-ilva-cassazione-ricorsi_118301919-202602k.shtml",
       "published": "2026-10-29T16:36:00+00:00"
-    },
-    {
-      "id": "dccdd4ada74bc5c816c9",
-      "source": "BBC News",
-      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T16:26:02+00:00"
     },
     {
       "id": "55ca6869e868b6c19ba7",
@@ -304,13 +311,6 @@
       "title": "Obama: \"La Casa Bianca si piega al volere di Putin e tradisce gli ucraini\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/obama-la-casa-bianca-si-piega-al-volere-di-putin-e-tradisce-gli-ucraini-_118284488-202602k.shtml",
       "published": "2026-10-29T05:50:00+00:00"
-    },
-    {
-      "id": "4200e16cb2ced1eb55a8",
-      "source": "TGcom24",
-      "title": "La Corea del Nord lancia una raffica di missili balistici nel Mar del Giappone",
-      "url": "https://www.tgcom24.mediaset.it/mondo/la-corea-del-nord-lancia-una-raffica-di-missili-balistici-nel-mar-del-giappone_118284485-202602k.shtml",
-      "published": "2026-10-29T05:26:00+00:00"
     },
     {
       "id": "d80e57a894081ed739a8",
