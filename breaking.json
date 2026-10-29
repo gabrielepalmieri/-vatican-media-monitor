@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-29T04:05:19.493959+00:00",
+  "updated_at": "2026-10-29T04:10:25.919080+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-29T04:05:19.493959+00:00"
+      "checked_at": "2026-10-29T04:10:25.919080+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-29T04:05:19.493959+00:00"
+      "checked_at": "2026-10-29T04:10:25.919080+00:00"
     }
   },
   "items": [
+    {
+      "id": "5b834c5368b48f72cf7d",
+      "source": "BBC News",
+      "title": "What we know so far about deadly Spain train crash",
+      "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T04:08:28+00:00"
+    },
     {
       "id": "6407e85b75b505598340",
       "source": "BBC News",
@@ -164,13 +171,6 @@
       "title": "Fakir, agente: \"Mi scuso per le frasi con la famiglia e con la polizia\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/abderrahim-fakir-agente-si-scusa-per-frasi_118252241-202602k.shtml",
       "published": "2026-10-28T15:49:00+00:00"
-    },
-    {
-      "id": "5b834c5368b48f72cf7d",
-      "source": "BBC News",
-      "title": "What we know so far about deadly Spain train crash",
-      "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T15:36:11+00:00"
     },
     {
       "id": "9638d43d5e85e8038295",
