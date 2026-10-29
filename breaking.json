@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-29T20:55:17.889692+00:00",
+  "updated_at": "2026-10-29T21:00:58.725019+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-29T20:55:17.889692+00:00"
+      "checked_at": "2026-10-29T21:00:58.725019+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-29T20:55:17.889692+00:00"
+      "checked_at": "2026-10-29T21:00:58.725019+00:00"
     }
   },
   "items": [
+    {
+      "id": "1c2358805243c3ffc531",
+      "source": "TGcom24",
+      "title": "È morto Patrick Stewart, l'attore di Star Trek e X-Men",
+      "url": "https://www.tgcom24.mediaset.it/spettacolo/patrick-stewart-morto-86-anni_118321435-202602k.shtml",
+      "published": "2026-10-29T20:45:00+00:00"
+    },
     {
       "id": "dccdd4ada74bc5c816c9",
       "source": "BBC News",
@@ -304,13 +311,6 @@
       "title": "New York, una legge statale vieta ai minori interazioni con i chatbot",
       "url": "https://www.tgcom24.mediaset.it/mondo/legge-stato-new-york-divieto-minori-interazioni-chatbot_118284673-202602k.shtml",
       "published": "2026-10-29T06:19:00+00:00"
-    },
-    {
-      "id": "42246286957542a24ef4",
-      "source": "TGcom24",
-      "title": "Obama: \"La Casa Bianca si piega al volere di Putin e tradisce gli ucraini\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/obama-la-casa-bianca-si-piega-al-volere-di-putin-e-tradisce-gli-ucraini-_118284488-202602k.shtml",
-      "published": "2026-10-29T05:50:00+00:00"
     },
     {
       "id": "d80e57a894081ed739a8",
