@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-29T11:20:27.204611+00:00",
+  "updated_at": "2026-10-29T11:25:18.151884+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-29T11:20:27.204611+00:00"
+      "checked_at": "2026-10-29T11:25:18.151884+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-29T11:20:27.204611+00:00"
+      "checked_at": "2026-10-29T11:25:18.151884+00:00"
     }
   },
   "items": [
+    {
+      "id": "55ca6869e868b6c19ba7",
+      "source": "BBC News",
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T11:22:18+00:00"
+    },
     {
       "id": "eaf9cdffb1c3f28a4e3a",
       "source": "BBC News",
@@ -255,13 +262,6 @@
       "title": "Israele, Eisenkot: \"Agirò per un governo del cambiamento sionista\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/israele-elezioni-knesset-diretta_118186865-202602k.shtml",
       "published": "2026-10-28T20:40:00+00:00"
-    },
-    {
-      "id": "55ca6869e868b6c19ba7",
-      "source": "BBC News",
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T20:24:39+00:00"
     },
     {
       "id": "07b4fe2c703f527ea6e3",
