@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-29T09:25:18.452413+00:00",
+  "updated_at": "2026-10-29T09:30:46.331808+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-29T09:25:18.452413+00:00"
+      "checked_at": "2026-10-29T09:30:46.331808+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-29T09:25:18.452413+00:00"
+      "checked_at": "2026-10-29T09:30:46.331808+00:00"
     }
   },
   "items": [
+    {
+      "id": "e96d4659f42e6c9f14f3",
+      "source": "BBC News",
+      "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T09:30:03+00:00"
+    },
+    {
+      "id": "a0b78d811e43ecbf01cb",
+      "source": "TGcom24",
+      "title": "Lavoro, Istat: a settembre il tasso di occupazione resta invariato al 63%",
+      "url": "https://www.tgcom24.mediaset.it/economia/lavoro-istat-occupazione_118291723-202602k.shtml",
+      "published": "2026-10-29T09:29:00+00:00"
+    },
     {
       "id": "f31fb8d542dcb0a1bcab",
       "source": "BBC News",
@@ -136,13 +150,6 @@
       "title": "Europe's youth take to the streets - they feel locked out of a promising future",
       "url": "https://www.bbc.co.uk/news/articles/cm2ke80nd929o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-29T00:33:11+00:00"
-    },
-    {
-      "id": "e96d4659f42e6c9f14f3",
-      "source": "BBC News",
-      "title": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T00:00:15+00:00"
     },
     {
       "id": "34a9b9c3cd95f629c515",
@@ -304,13 +311,6 @@
       "title": "Cesena, uomo ucciso a colpi d'arma da fuoco: il cadavere ritrovato in un pozzo",
       "url": "https://www.tgcom24.mediaset.it/cronaca/cesena-longiano-cadavere-pozzo_118249383-202602k.shtml",
       "published": "2026-10-28T14:58:00+00:00"
-    },
-    {
-      "id": "1ce817a39f0bd316a8bf",
-      "source": "TGcom24",
-      "title": "Brasile, Flavio Bolsonaro è atterrato Miami",
-      "url": "https://www.tgcom24.mediaset.it/mondo/brasile-flavio-bolsonaro-volo-stati-uniti_118214209-202602k.shtml",
-      "published": "2026-10-28T14:29:00+00:00"
     },
     {
       "id": "a290dc88fc225fce5ec1",
