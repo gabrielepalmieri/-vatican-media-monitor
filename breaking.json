@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-29T21:30:45.110653+00:00",
+  "updated_at": "2026-10-29T21:35:20.075428+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-29T21:30:45.110653+00:00"
+      "checked_at": "2026-10-29T21:35:20.075428+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-29T21:30:45.110653+00:00"
+      "checked_at": "2026-10-29T21:35:20.075428+00:00"
     }
   },
   "items": [
+    {
+      "id": "dccdd4ada74bc5c816c9",
+      "source": "BBC News",
+      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T21:31:12+00:00"
+    },
     {
       "id": "4e8c3941473ed05edb7c",
       "source": "TGcom24",
@@ -24,13 +31,6 @@
       "title": "È morto Patrick Stewart, l'attore di Star Trek e X-Men",
       "url": "https://www.tgcom24.mediaset.it/spettacolo/patrick-stewart-morto-86-anni_118321435-202602k.shtml",
       "published": "2026-10-29T20:45:00+00:00"
-    },
-    {
-      "id": "dccdd4ada74bc5c816c9",
-      "source": "BBC News",
-      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T20:15:05+00:00"
     },
     {
       "id": "9116a8a88d3b34b81eca",
