@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-29T11:40:25.538522+00:00",
+  "updated_at": "2026-10-29T11:45:31.295253+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-29T11:40:25.538522+00:00"
+      "checked_at": "2026-10-29T11:45:31.295253+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-29T11:40:25.538522+00:00"
+      "checked_at": "2026-10-29T11:45:31.295253+00:00"
     }
   },
   "items": [
+    {
+      "id": "bfa65dd7785358ca1848",
+      "source": "TGcom24",
+      "title": "Progettava attentati in sinagoga e in moschea, arrestato un 22enne a Milano",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/foto/milano-22enne-arrestato-terrorismo_118295063-202602k.shtml",
+      "published": "2026-10-29T11:39:00+00:00"
+    },
+    {
+      "id": "dccdd4ada74bc5c816c9",
+      "source": "BBC News",
+      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T11:27:05+00:00"
+    },
     {
       "id": "55ca6869e868b6c19ba7",
       "source": "BBC News",
@@ -318,13 +332,6 @@
       "title": "Watch: At the scene of Spain's deadly train crash",
       "url": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-28T16:45:16+00:00"
-    },
-    {
-      "id": "333cd94380fcd6ba9d35",
-      "source": "TGcom24",
-      "title": "Manovra, alzata fino a 55mila la soglia del secondo scaglione Irpef",
-      "url": "https://www.tgcom24.mediaset.it/politica/consiglio-dei-ministri-manovra-2027_118254074-202602k.shtml",
-      "published": "2026-10-28T16:31:00+00:00"
     },
     {
       "id": "a290dc88fc225fce5ec1",
