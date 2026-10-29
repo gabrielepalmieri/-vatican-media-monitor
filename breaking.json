@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-29T06:40:24.816883+00:00",
+  "updated_at": "2026-10-29T06:45:27.094790+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-29T06:40:24.816883+00:00"
+      "checked_at": "2026-10-29T06:45:27.094790+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-29T06:40:24.816883+00:00"
+      "checked_at": "2026-10-29T06:45:27.094790+00:00"
     }
   },
   "items": [
+    {
+      "id": "b8b7bfa8968a655aa3ec",
+      "source": "TGcom24",
+      "title": "Reggio Emilia, \"uccise il cugino per l'eredità\" con un bombolone alla crema",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/reggio-emilia-ucciso-cugino-eredita-bombolone-crema_118284879-202602k.shtml",
+      "published": "2026-10-29T06:38:00+00:00"
+    },
     {
       "id": "1c318e1e1f4fda0250f4",
       "source": "TGcom24",
@@ -262,13 +269,6 @@
       "title": "Youssef Siher, il gip: \"Ha evocato disobbedienza civile, non ha incitato a violenza\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/arresto-youssef-siher-liberta_118244735-202602k.shtml",
       "published": "2026-10-28T12:51:00+00:00"
-    },
-    {
-      "id": "3182b0e6f2c64022ce72",
-      "source": "TGcom24",
-      "title": "Youssef Siher torna in libertà, arresto non convalidato",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/arresto-youssef-siher-liberta_118244735-202602k.shtml",
-      "published": "2026-10-28T12:15:00+00:00"
     },
     {
       "id": "0fd3c1e34aed6045bf7a",
