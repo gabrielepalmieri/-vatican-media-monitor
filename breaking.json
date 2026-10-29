@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-29T16:25:19.267541+00:00",
+  "updated_at": "2026-10-29T16:30:48.087089+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-29T16:25:19.267541+00:00"
+      "checked_at": "2026-10-29T16:30:48.087089+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-29T16:25:19.267541+00:00"
+      "checked_at": "2026-10-29T16:30:48.087089+00:00"
     }
   },
   "items": [
+    {
+      "id": "dccdd4ada74bc5c816c9",
+      "source": "BBC News",
+      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T16:26:02+00:00"
+    },
     {
       "id": "55ca6869e868b6c19ba7",
       "source": "BBC News",
@@ -24,13 +31,6 @@
       "title": "Elezioni Israele, scrutinio completato: blocco Netanyahu 53 seggi, Eisenkot 48",
       "url": "https://www.tgcom24.mediaset.it/mondo/israele-elezioni-ultime-notizie_118290248-202602k.shtml",
       "published": "2026-10-29T15:44:00+00:00"
-    },
-    {
-      "id": "dccdd4ada74bc5c816c9",
-      "source": "BBC News",
-      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T15:15:05+00:00"
     },
     {
       "id": "1e9d6383fbb65d20819a",
