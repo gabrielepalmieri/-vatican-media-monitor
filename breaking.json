@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-29T21:40:24.846113+00:00",
+  "updated_at": "2026-10-29T21:45:27.894004+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-29T21:40:24.846113+00:00"
+      "checked_at": "2026-10-29T21:45:27.894004+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-29T21:40:24.846113+00:00"
+      "checked_at": "2026-10-29T21:45:27.894004+00:00"
     }
   },
   "items": [
+    {
+      "id": "a7d0fc1d1c9c5e4cd961",
+      "source": "BBC News",
+      "title": "Young athlete and former minister among victims of Spain train crash",
+      "url": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T21:33:35+00:00"
+    },
     {
       "id": "dccdd4ada74bc5c816c9",
       "source": "BBC News",
@@ -26,11 +33,25 @@
       "published": "2026-10-29T21:15:00+00:00"
     },
     {
+      "id": "ee276c6e0927ece2bc7a",
+      "source": "BBC News",
+      "title": "Watch: What leaked audio reveals about Spain train crash",
+      "url": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T20:50:25+00:00"
+    },
+    {
       "id": "1c2358805243c3ffc531",
       "source": "TGcom24",
       "title": "È morto Patrick Stewart, l'attore di Star Trek e X-Men",
       "url": "https://www.tgcom24.mediaset.it/spettacolo/patrick-stewart-morto-86-anni_118321435-202602k.shtml",
       "published": "2026-10-29T20:45:00+00:00"
+    },
+    {
+      "id": "d1ab29259010a2a2ca3a",
+      "source": "BBC News",
+      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T20:21:54+00:00"
     },
     {
       "id": "9116a8a88d3b34b81eca",
@@ -80,13 +101,6 @@
       "title": "Ex Ilva, deciso lo spegnimento degli altiforni di Taranto",
       "url": "https://www.tgcom24.mediaset.it/cronaca/ex-ilva-cassazione-ricorsi_118301919-202602k.shtml",
       "published": "2026-10-29T16:36:00+00:00"
-    },
-    {
-      "id": "55ca6869e868b6c19ba7",
-      "source": "BBC News",
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T15:47:20+00:00"
     },
     {
       "id": "219fe63ed83f389e1cb6",
@@ -220,13 +234,6 @@
       "title": "Sciopero generale il 30 ottobre contro il carovita, i salari bassi e il riarmo",
       "url": "https://www.tgcom24.mediaset.it/cronaca/sciopero-generale-30-ottobre_118289885-202602k.shtml",
       "published": "2026-10-29T10:16:00+00:00"
-    },
-    {
-      "id": "5b834c5368b48f72cf7d",
-      "source": "BBC News",
-      "title": "What we know so far about deadly Spain train crash",
-      "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T10:02:37+00:00"
     },
     {
       "id": "adc35454726200f8ae9e",
@@ -367,13 +374,6 @@
       "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
       "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-28T19:15:58+00:00"
-    },
-    {
-      "id": "d347e037684f98796a7f",
-      "source": "BBC News",
-      "title": "Watch: At the scene of Spain's deadly train crash",
-      "url": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T16:45:16+00:00"
     }
   ]
 }
