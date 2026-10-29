@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-29T21:20:27.256685+00:00",
+  "updated_at": "2026-10-29T21:25:16.863327+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-29T21:20:27.256685+00:00"
+      "checked_at": "2026-10-29T21:25:16.863327+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-29T21:20:27.256685+00:00"
+      "checked_at": "2026-10-29T21:25:16.863327+00:00"
     }
   },
   "items": [
+    {
+      "id": "4e8c3941473ed05edb7c",
+      "source": "TGcom24",
+      "title": "Elicottero caduto in Bosnia, Crosetto: \"Nessuno dei feriti rischia la vita\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/elicottero-italiano-di-eufor-althea-precipita-in-bosnia_118308479-202602k.shtml",
+      "published": "2026-10-29T21:15:00+00:00"
+    },
     {
       "id": "1c2358805243c3ffc531",
       "source": "TGcom24",
@@ -304,13 +311,6 @@
       "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
       "url": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-29T06:24:56+00:00"
-    },
-    {
-      "id": "1c318e1e1f4fda0250f4",
-      "source": "TGcom24",
-      "title": "New York, una legge statale vieta ai minori interazioni con i chatbot",
-      "url": "https://www.tgcom24.mediaset.it/mondo/legge-stato-new-york-divieto-minori-interazioni-chatbot_118284673-202602k.shtml",
-      "published": "2026-10-29T06:19:00+00:00"
     },
     {
       "id": "d80e57a894081ed739a8",
