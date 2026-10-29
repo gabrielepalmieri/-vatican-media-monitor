@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-29T15:10:28.002789+00:00",
+  "updated_at": "2026-10-29T15:15:31.794856+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-29T15:10:28.002789+00:00"
+      "checked_at": "2026-10-29T15:15:31.794856+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-29T15:10:28.002789+00:00"
+      "checked_at": "2026-10-29T15:15:31.794856+00:00"
     }
   },
   "items": [
+    {
+      "id": "1e9d6383fbb65d20819a",
+      "source": "BBC News",
+      "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T15:14:34+00:00"
+    },
+    {
+      "id": "876ed907bd6de398aeed",
+      "source": "TGcom24",
+      "title": "Debito federale Usa al 100% del pil, prima volta dal 1946",
+      "url": "https://www.tgcom24.mediaset.it/mondo/il-debito-federale-usa-al-100-del-pil-prima-volta-dal-1946_118304310-202602k.shtml",
+      "published": "2026-10-29T15:12:00+00:00"
+    },
     {
       "id": "f78c1c5e600392b06f97",
       "source": "BBC News",
@@ -80,13 +94,6 @@
       "title": "Accuse di brogli in Israele, Herzog: \"Non infangare intera comunità araba\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/israele-elezioni-ultime-notizie_118290248-202602k.shtml",
       "published": "2026-10-29T12:39:00+00:00"
-    },
-    {
-      "id": "1e9d6383fbb65d20819a",
-      "source": "BBC News",
-      "title": "Carney to push for closer ties at Canada-EU summit in Montreal",
-      "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T12:27:31+00:00"
     },
     {
       "id": "6ab775d5e3ac482f96df",
@@ -346,13 +353,6 @@
       "title": "Israele, Eisenkot: \"Agirò per un governo del cambiamento sionista\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/israele-elezioni-knesset-diretta_118186865-202602k.shtml",
       "published": "2026-10-28T20:40:00+00:00"
-    },
-    {
-      "id": "07b4fe2c703f527ea6e3",
-      "source": "TGcom24",
-      "title": "Trump: \"Dobbiamo finire il lavoro in Iran, con un accordo o in altro modo\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/donald-trump-dobbiamo-finire-lavoro-iran_118266405-202602k.shtml",
-      "published": "2026-10-28T20:05:00+00:00"
     },
     {
       "id": "f074c4c4a6278d96483b",
