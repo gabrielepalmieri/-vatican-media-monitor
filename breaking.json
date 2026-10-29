@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-29T13:01:01.593015+00:00",
+  "updated_at": "2026-10-29T13:05:19.982387+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-29T13:01:01.593015+00:00"
+      "checked_at": "2026-10-29T13:05:19.982387+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-29T13:01:01.593015+00:00"
+      "checked_at": "2026-10-29T13:05:19.982387+00:00"
     }
   },
   "items": [
+    {
+      "id": "d765e59e4a505a5a1a3c",
+      "source": "TGcom24",
+      "title": "Divieto social ai minori, Ue congela per 12 mesi le leggi nazionali",
+      "url": "https://www.tgcom24.mediaset.it/mondo/divieto-social-minori-ue-congela-leggi-nazionali_118297072-202602k.shtml",
+      "published": "2026-10-29T12:59:00+00:00"
+    },
     {
       "id": "710014ce1e75682df047",
       "source": "BBC News",
@@ -318,13 +325,6 @@
       "title": "Scontro tra treni in Spagna, la Farnesina: 9 italiani coinvolti, tre disperse",
       "url": "https://www.tgcom24.mediaset.it/mondo/scontro-treni-spagna-toledo-morti_118238823-202602k.shtml",
       "published": "2026-10-28T19:15:00+00:00"
-    },
-    {
-      "id": "f1ee420a954dd5cb189e",
-      "source": "TGcom24",
-      "title": "Usa, la Federal Reserve lascia i tassi di interesse invariati",
-      "url": "https://www.tgcom24.mediaset.it/mondo/usa-la-federal-reserve-lascia-i-tassi-di-interesse-invariati_118263112-202602k.shtml",
-      "published": "2026-10-28T18:45:00+00:00"
     },
     {
       "id": "d817532e3d3138de259c",
