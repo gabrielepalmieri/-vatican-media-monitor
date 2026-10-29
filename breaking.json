@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-29T09:01:00.621910+00:00",
+  "updated_at": "2026-10-29T09:05:19.136993+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-29T09:01:00.621910+00:00"
+      "checked_at": "2026-10-29T09:05:19.136993+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-29T09:01:00.621910+00:00"
+      "checked_at": "2026-10-29T09:05:19.136993+00:00"
     }
   },
   "items": [
+    {
+      "id": "c52d4bdb41944009daad",
+      "source": "BBC News",
+      "title": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
+      "url": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T08:23:31+00:00"
+    },
     {
       "id": "5b834c5368b48f72cf7d",
       "source": "BBC News",
@@ -157,13 +164,6 @@
       "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
       "url": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-28T21:24:41+00:00"
-    },
-    {
-      "id": "5b63565fb66ba7723bed",
-      "source": "BBC News",
-      "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
-      "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T21:16:30+00:00"
     },
     {
       "id": "7c2673fbf8177cdfd91d",
