@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-29T10:15:30.766446+00:00",
+  "updated_at": "2026-10-29T10:20:28.590306+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-29T10:15:30.766446+00:00"
+      "checked_at": "2026-10-29T10:20:28.590306+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-29T10:15:30.766446+00:00"
+      "checked_at": "2026-10-29T10:20:28.590306+00:00"
     }
   },
   "items": [
+    {
+      "id": "90753a45a1b8339e15ec",
+      "source": "TGcom24",
+      "title": "Sciopero generale il 30 ottobre contro il carovita, i salari bassi e il riarmo",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/sciopero-generale-30-ottobre_118289885-202602k.shtml",
+      "published": "2026-10-29T10:16:00+00:00"
+    },
     {
       "id": "5b834c5368b48f72cf7d",
       "source": "BBC News",
@@ -304,13 +311,6 @@
       "title": "Gas, il Tft ad Amsterdam supera i 100 euro al megawattora",
       "url": "https://www.tgcom24.mediaset.it/economia/gas-supera-100-euro-crisi-energetica_118251086-202602k.shtml",
       "published": "2026-10-28T15:35:00+00:00"
-    },
-    {
-      "id": "e1d67316dba34bba4a29",
-      "source": "TGcom24",
-      "title": "Caso Siher, Tribunale di Milano dopo il video di Meloni: \"Critiche irricevibili\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/caso-siher-giorgia-meloni-attacca-gip-milano_118251094-202602k.shtml",
-      "published": "2026-10-28T15:20:00+00:00"
     },
     {
       "id": "a290dc88fc225fce5ec1",
