@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-29T12:01:03.796509+00:00",
+  "updated_at": "2026-10-29T12:05:20.363894+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-29T12:01:03.796509+00:00"
+      "checked_at": "2026-10-29T12:05:20.363894+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-29T12:01:03.796509+00:00"
+      "checked_at": "2026-10-29T12:05:20.363894+00:00"
     }
   },
   "items": [
+    {
+      "id": "6ab775d5e3ac482f96df",
+      "source": "TGcom24",
+      "title": "Bce, Christine Lagarde a febbraio lascia la presidenza",
+      "url": "https://www.tgcom24.mediaset.it/economia/bce-christine-lagarde-lascia-presidenza_118293549-202602k.shtml",
+      "published": "2026-10-29T12:01:00+00:00"
+    },
     {
       "id": "bfa65dd7785358ca1848",
       "source": "TGcom24",
@@ -325,13 +332,6 @@
       "title": "Myanmar diplomat breaks down as he urges world to 'end our suffering'",
       "url": "https://www.bbc.co.uk/news/videos/cqz0ve10jxn2o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-28T17:34:41+00:00"
-    },
-    {
-      "id": "47896dd0d78152d8899e",
-      "source": "TGcom24",
-      "title": "Manovra, Meloni: lo stop al bollo auto diventa strutturale",
-      "url": "https://www.tgcom24.mediaset.it/politica/consiglio-dei-ministri-manovra-2027_118254074-202602k.shtml",
-      "published": "2026-10-28T17:05:00+00:00"
     },
     {
       "id": "d347e037684f98796a7f",
