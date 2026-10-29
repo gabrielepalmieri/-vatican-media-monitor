@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-29T15:45:31.483141+00:00",
+  "updated_at": "2026-10-29T15:50:26.461143+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-29T15:45:31.483141+00:00"
+      "checked_at": "2026-10-29T15:50:26.461143+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-29T15:45:31.483141+00:00"
+      "checked_at": "2026-10-29T15:50:26.461143+00:00"
     }
   },
   "items": [
+    {
+      "id": "55ca6869e868b6c19ba7",
+      "source": "BBC News",
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T15:47:20+00:00"
+    },
+    {
+      "id": "219fe63ed83f389e1cb6",
+      "source": "TGcom24",
+      "title": "Elezioni Israele, scrutinio completato: blocco Netanyahu 53 seggi, Eisenkot 48",
+      "url": "https://www.tgcom24.mediaset.it/mondo/israele-elezioni-ultime-notizie_118290248-202602k.shtml",
+      "published": "2026-10-29T15:44:00+00:00"
+    },
     {
       "id": "dccdd4ada74bc5c816c9",
       "source": "BBC News",
@@ -59,13 +73,6 @@
       "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
       "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-29T14:17:35+00:00"
-    },
-    {
-      "id": "55ca6869e868b6c19ba7",
-      "source": "BBC News",
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T13:49:04+00:00"
     },
     {
       "id": "f73643d86be9f35e7e80",
@@ -346,13 +353,6 @@
       "title": "Watch: King dances in the streets of the Bahamas capital",
       "url": "https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-28T20:44:10+00:00"
-    },
-    {
-      "id": "2a12bfd40481790a5b49",
-      "source": "TGcom24",
-      "title": "Israele, Eisenkot: \"Agirò per un governo del cambiamento sionista\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/israele-elezioni-knesset-diretta_118186865-202602k.shtml",
-      "published": "2026-10-28T20:40:00+00:00"
     },
     {
       "id": "f074c4c4a6278d96483b",
