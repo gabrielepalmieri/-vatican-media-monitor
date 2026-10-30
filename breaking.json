@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-30T08:30:45.185175+00:00",
+  "updated_at": "2026-10-30T08:35:20.856967+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-30T08:30:45.185175+00:00"
+      "checked_at": "2026-10-30T08:35:20.856967+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-30T08:30:45.185175+00:00"
+      "checked_at": "2026-10-30T08:35:20.856967+00:00"
     }
   },
   "items": [
+    {
+      "id": "b50e604621f311e69947",
+      "source": "BBC News",
+      "title": "How Kenyans got caught in $130m US ghost student scam",
+      "url": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T08:32:35+00:00"
+    },
     {
       "id": "7dd15666c5104a0b7032",
       "source": "BBC News",
@@ -24,13 +31,6 @@
       "title": "\"Novaya Gazeta\" annuncia la chiusura in Russia: \"Uccisi da autorità e servizi\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/novaya-gazeta-chiusura-russia_118335010-202602k.shtml",
       "published": "2026-10-30T07:57:00+00:00"
-    },
-    {
-      "id": "b50e604621f311e69947",
-      "source": "BBC News",
-      "title": "How Kenyans got caught in $130m US ghost student scam",
-      "url": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T07:29:10+00:00"
     },
     {
       "id": "9d23986986fef3b35848",
