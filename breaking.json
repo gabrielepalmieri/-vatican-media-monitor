@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-30T15:01:00.475247+00:00",
+  "updated_at": "2026-10-30T15:05:18.720991+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-30T15:01:00.475247+00:00"
+      "checked_at": "2026-10-30T15:05:18.720991+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-30T15:01:00.475247+00:00"
+      "checked_at": "2026-10-30T15:05:18.720991+00:00"
     }
   },
   "items": [
+    {
+      "id": "3d5ba911bf55a5f70244",
+      "source": "BBC News",
+      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T15:03:39+00:00"
+    },
     {
       "id": "22168b0fde4d56884906",
       "source": "TGcom24",
@@ -52,13 +59,6 @@
       "title": "Genova, incendio in casa: 70enne muore per salvare i gatti",
       "url": "https://www.tgcom24.mediaset.it/cronaca/muore-incendio-casa-salvare-gatti-avegno-genova_118340739-202602k.shtml",
       "published": "2026-10-30T13:35:00+00:00"
-    },
-    {
-      "id": "3d5ba911bf55a5f70244",
-      "source": "BBC News",
-      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T13:03:34+00:00"
     },
     {
       "id": "08430a077432be90c4d0",
