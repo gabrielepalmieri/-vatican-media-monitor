@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-30T20:30:44.693487+00:00",
+  "updated_at": "2026-10-30T20:35:17.369817+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-30T20:30:44.693487+00:00"
+      "checked_at": "2026-10-30T20:35:17.369817+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-30T20:30:44.693487+00:00"
+      "checked_at": "2026-10-30T20:35:17.369817+00:00"
     }
   },
   "items": [
+    {
+      "id": "9d9cc9e7d1a58325b396",
+      "source": "BBC News",
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T20:34:46+00:00"
+    },
     {
       "id": "3cc277ca907a724b4388",
       "source": "BBC News",
@@ -52,13 +59,6 @@
       "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
       "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T18:17:27+00:00"
-    },
-    {
-      "id": "9d9cc9e7d1a58325b396",
-      "source": "BBC News",
-      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T17:47:01+00:00"
     },
     {
       "id": "f55a4f905ae53cabcb47",
