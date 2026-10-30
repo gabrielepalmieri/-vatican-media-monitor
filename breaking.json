@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-30T14:05:20.985213+00:00",
+  "updated_at": "2026-10-30T14:10:26.189976+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-30T14:05:20.985213+00:00"
+      "checked_at": "2026-10-30T14:10:26.189976+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-30T14:05:20.985213+00:00"
+      "checked_at": "2026-10-30T14:10:26.189976+00:00"
     }
   },
   "items": [
+    {
+      "id": "df919be6472d6f36a5da",
+      "source": "TGcom24",
+      "title": "Caso Siher, Anm Milano: \"Inauditi attacchi sessisti a giudice e pm\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/caso-siher-anm-milano-attacchi-giudice_118354443-202602k.shtml",
+      "published": "2026-10-30T14:05:00+00:00"
+    },
     {
       "id": "5fe53539acd73a396bd3",
       "source": "BBC News",
@@ -367,13 +374,6 @@
       "title": "Ex Ilva, deciso lo spegnimento degli altiforni di Taranto",
       "url": "https://www.tgcom24.mediaset.it/cronaca/ex-ilva-cassazione-ricorsi_118301919-202602k.shtml",
       "published": "2026-10-29T16:36:00+00:00"
-    },
-    {
-      "id": "219fe63ed83f389e1cb6",
-      "source": "TGcom24",
-      "title": "Elezioni Israele, scrutinio completato: blocco Netanyahu 53 seggi, Eisenkot 48",
-      "url": "https://www.tgcom24.mediaset.it/mondo/israele-elezioni-ultime-notizie_118290248-202602k.shtml",
-      "published": "2026-10-29T15:44:00+00:00"
     },
     {
       "id": "2a1ca1de8f435f678f45",
