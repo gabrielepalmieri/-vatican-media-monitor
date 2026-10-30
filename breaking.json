@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-30T20:05:19.274370+00:00",
+  "updated_at": "2026-10-30T20:10:24.147785+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-30T20:05:19.274370+00:00"
+      "checked_at": "2026-10-30T20:10:24.147785+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-30T20:05:19.274370+00:00"
+      "checked_at": "2026-10-30T20:10:24.147785+00:00"
     }
   },
   "items": [
+    {
+      "id": "1ea9ae9215a298e0d433",
+      "source": "TGcom24",
+      "title": "Gli Usa approvano la possibile vendita di Patriot all'Ucraina per 2,1 miliardi",
+      "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-russia-guerra-ultime-notizie-30-ottobre_118332912-202602k.shtml",
+      "published": "2026-10-30T20:05:00+00:00"
+    },
     {
       "id": "8abb9b550b3dbebc0eb1",
       "source": "TGcom24",
@@ -395,13 +402,6 @@
       "title": "Brasile, Nyt: \"Trump ha aiutato Bolsonaro a lasciare il Paese\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/brasile-flavio-bolsonaro-volo-stati-uniti_118214209-202602k.shtml",
       "published": "2026-10-29T22:30:00+00:00"
-    },
-    {
-      "id": "4e8c3941473ed05edb7c",
-      "source": "TGcom24",
-      "title": "Elicottero caduto in Bosnia, Crosetto: \"Nessuno dei feriti rischia la vita\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/elicottero-italiano-di-eufor-althea-precipita-in-bosnia_118308479-202602k.shtml",
-      "published": "2026-10-29T21:15:00+00:00"
     },
     {
       "id": "3783191cec6c235a69f0",
