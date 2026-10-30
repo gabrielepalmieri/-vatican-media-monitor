@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-30T17:00:58.633268+00:00",
+  "updated_at": "2026-10-30T17:05:20.297981+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-30T17:00:58.633268+00:00"
+      "checked_at": "2026-10-30T17:05:20.297981+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-30T17:00:58.633268+00:00"
+      "checked_at": "2026-10-30T17:05:20.297981+00:00"
     }
   },
   "items": [
+    {
+      "id": "049e82343bc42cc4e134",
+      "source": "BBC News",
+      "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
+      "url": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T17:00:32+00:00"
+    },
     {
       "id": "228562134aefa590f65b",
       "source": "TGcom24",
@@ -409,13 +416,6 @@
       "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
       "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-29T14:58:28+00:00"
-    },
-    {
-      "id": "d2033671f94e3fb1804f",
-      "source": "BBC News",
-      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T14:17:35+00:00"
     },
     {
       "id": "eaf9cdffb1c3f28a4e3a",
