@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-30T06:05:18.065149+00:00",
+  "updated_at": "2026-10-30T06:10:23.848290+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-30T06:05:18.065149+00:00"
+      "checked_at": "2026-10-30T06:10:23.848290+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-30T06:05:18.065149+00:00"
+      "checked_at": "2026-10-30T06:10:23.848290+00:00"
     }
   },
   "items": [
+    {
+      "id": "3d0c79333c752babaf92",
+      "source": "BBC News",
+      "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+      "url": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T06:02:23+00:00"
+    },
     {
       "id": "58d92f92abe2e22a6e5e",
       "source": "TGcom24",
@@ -318,13 +325,6 @@
       "title": "How could Israel break election deadlock? Here are four scenarios",
       "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-29T09:06:48+00:00"
-    },
-    {
-      "id": "c52d4bdb41944009daad",
-      "source": "BBC News",
-      "title": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
-      "url": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T08:23:31+00:00"
     },
     {
       "id": "30d788fb3bfb60b2af3e",
