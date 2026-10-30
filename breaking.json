@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-30T10:30:46.836377+00:00",
+  "updated_at": "2026-10-30T10:35:18.835176+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-30T10:30:46.836377+00:00"
+      "checked_at": "2026-10-30T10:35:18.835176+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-30T10:30:46.836377+00:00"
+      "checked_at": "2026-10-30T10:35:18.835176+00:00"
     }
   },
   "items": [
+    {
+      "id": "fed4ef07a5d68c63557d",
+      "source": "TGcom24",
+      "title": "Etiopia, attacchi con droni a un campo di sfollati: almeno 16 morti",
+      "url": "https://www.tgcom24.mediaset.it/mondo/etiopia-attacco-droni-campo-sfollati_118342773-202602k.shtml",
+      "published": "2026-10-30T10:10:00+00:00"
+    },
     {
       "id": "fe6351f30560e9313c9f",
       "source": "BBC News",
@@ -360,13 +367,6 @@
       "title": "Accuse di brogli in Israele, Herzog: \"Non infangare intera comunità araba\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/israele-elezioni-ultime-notizie_118290248-202602k.shtml",
       "published": "2026-10-29T12:39:00+00:00"
-    },
-    {
-      "id": "6ab775d5e3ac482f96df",
-      "source": "TGcom24",
-      "title": "Bce, Christine Lagarde a febbraio lascia la presidenza",
-      "url": "https://www.tgcom24.mediaset.it/economia/bce-christine-lagarde-lascia-presidenza_118293549-202602k.shtml",
-      "published": "2026-10-29T12:01:00+00:00"
     },
     {
       "id": "9abe16a9b298740e778f",
