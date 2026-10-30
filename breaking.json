@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-30T17:30:47.629183+00:00",
+  "updated_at": "2026-10-30T17:35:18.907663+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-30T17:30:47.629183+00:00"
+      "checked_at": "2026-10-30T17:35:18.907663+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-30T17:30:47.629183+00:00"
+      "checked_at": "2026-10-30T17:35:18.907663+00:00"
     }
   },
   "items": [
+    {
+      "id": "f55a4f905ae53cabcb47",
+      "source": "TGcom24",
+      "title": "Cortei a Roma, manifestanti diretti verso il Parlamento: scontri con la polizia",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/sciopero-generale-30-ottobre-cortei-trasporti_118332719-202602k.shtml",
+      "published": "2026-10-30T17:27:00+00:00"
+    },
     {
       "id": "6889ebf9b1fbfac4505f",
       "source": "BBC News",
@@ -201,6 +208,13 @@
       "published": "2026-10-30T10:50:00+00:00"
     },
     {
+      "id": "6d7a91dccb406015676d",
+      "source": "BBC News",
+      "title": "What's at stake for Trump in the US midterms?",
+      "url": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T10:19:48+00:00"
+    },
+    {
       "id": "fed4ef07a5d68c63557d",
       "source": "TGcom24",
       "title": "Etiopia, attacchi con droni a un campo di sfollati: almeno 16 morti",
@@ -383,25 +397,11 @@
       "published": "2026-10-29T21:05:03+00:00"
     },
     {
-      "id": "ee276c6e0927ece2bc7a",
-      "source": "BBC News",
-      "title": "Watch: What leaked audio reveals about Spain train crash",
-      "url": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T20:50:25+00:00"
-    },
-    {
       "id": "1c2358805243c3ffc531",
       "source": "TGcom24",
       "title": "È morto Patrick Stewart, l'attore di Star Trek e X-Men",
       "url": "https://www.tgcom24.mediaset.it/spettacolo/patrick-stewart-morto-86-anni_118321435-202602k.shtml",
       "published": "2026-10-29T20:45:00+00:00"
-    },
-    {
-      "id": "9116a8a88d3b34b81eca",
-      "source": "TGcom24",
-      "title": "Elicottero caduto in Bosnia, Mattarella: \"Cordoglio per la morte dei militari\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/elicottero-caduto-bosnia-meloni_118312564-202602k.shtml",
-      "published": "2026-10-29T20:10:00+00:00"
     },
     {
       "id": "63cf5f4f57cb8cab6709",
