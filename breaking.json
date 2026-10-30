@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-30T15:50:27.774211+00:00",
+  "updated_at": "2026-10-30T15:55:20.010641+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-30T15:50:27.774211+00:00"
+      "checked_at": "2026-10-30T15:55:20.010641+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-30T15:50:27.774211+00:00"
+      "checked_at": "2026-10-30T15:55:20.010641+00:00"
     }
   },
   "items": [
+    {
+      "id": "5cff89561110981771fc",
+      "source": "TGcom24",
+      "title": "Ucraina, Kiev: \"Partiti i civili evacuati da Oleshky\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-russia-guerra-ultime-notizie-30-ottobre_118332912-202602k.shtml",
+      "published": "2026-10-30T15:48:00+00:00"
+    },
     {
       "id": "9d9cc9e7d1a58325b396",
       "source": "BBC News",
@@ -381,13 +388,6 @@
       "title": "Sparatoria al gala dei media alla Casa Bianca, fissato processo contro attentatore",
       "url": "https://www.tgcom24.mediaset.it/mondo/sparatoria-casa-bianca-processo-attentatore_118307693-202602k.shtml",
       "published": "2026-10-29T18:49:00+00:00"
-    },
-    {
-      "id": "9c55d2c0a92a74c7175e",
-      "source": "TGcom24",
-      "title": "Elicottero caduto in Bosnia, Meloni: \"Profondo dolore per le vittime\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/elicottero-caduto-bosnia-meloni_118312564-202602k.shtml",
-      "published": "2026-10-29T18:14:00+00:00"
     },
     {
       "id": "1e9d6383fbb65d20819a",
