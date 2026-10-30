@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-30T15:05:18.720991+00:00",
+  "updated_at": "2026-10-30T15:10:26.103810+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-30T15:05:18.720991+00:00"
+      "checked_at": "2026-10-30T15:10:26.103810+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-30T15:05:18.720991+00:00"
+      "checked_at": "2026-10-30T15:10:26.103810+00:00"
     }
   },
   "items": [
+    {
+      "id": "d1ab29259010a2a2ca3a",
+      "source": "BBC News",
+      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T15:09:29+00:00"
+    },
+    {
+      "id": "fe6351f30560e9313c9f",
+      "source": "BBC News",
+      "title": "Six dead after helicopter crashes in northern Indian state",
+      "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T15:06:05+00:00"
+    },
     {
       "id": "3d5ba911bf55a5f70244",
       "source": "BBC News",
@@ -136,13 +150,6 @@
       "title": "Etiopia, attacchi con droni a un campo di sfollati: almeno 16 morti",
       "url": "https://www.tgcom24.mediaset.it/mondo/etiopia-attacco-droni-campo-sfollati_118342773-202602k.shtml",
       "published": "2026-10-30T10:10:00+00:00"
-    },
-    {
-      "id": "fe6351f30560e9313c9f",
-      "source": "BBC News",
-      "title": "Helicopter carrying six people crashes in northern Indian state",
-      "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T10:07:58+00:00"
     },
     {
       "id": "b5c8309cfe022a7cad49",
@@ -332,13 +339,6 @@
       "title": "È morto Patrick Stewart, l'attore di Star Trek e X-Men",
       "url": "https://www.tgcom24.mediaset.it/spettacolo/patrick-stewart-morto-86-anni_118321435-202602k.shtml",
       "published": "2026-10-29T20:45:00+00:00"
-    },
-    {
-      "id": "d1ab29259010a2a2ca3a",
-      "source": "BBC News",
-      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-      "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T20:21:54+00:00"
     },
     {
       "id": "9116a8a88d3b34b81eca",
