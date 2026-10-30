@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-30T12:00:58.687347+00:00",
+  "updated_at": "2026-10-30T12:05:18.413243+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-30T12:00:58.687347+00:00"
+      "checked_at": "2026-10-30T12:05:18.413243+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-30T12:00:58.687347+00:00"
+      "checked_at": "2026-10-30T12:05:18.413243+00:00"
     }
   },
   "items": [
+    {
+      "id": "5aaa585a6d2dfdd7bdbc",
+      "source": "BBC News",
+      "title": "Google value plunges by $500bn as its own AI search hits ad sales",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T12:04:02+00:00"
+    },
     {
       "id": "129f6394f97d40199ec1",
       "source": "TGcom24",
@@ -220,13 +227,6 @@
       "title": "Brasile, Nyt: \"Trump ha aiutato Bolsonaro a lasciare il Paese\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/brasile-flavio-bolsonaro-volo-stati-uniti_118214209-202602k.shtml",
       "published": "2026-10-29T22:30:00+00:00"
-    },
-    {
-      "id": "5aaa585a6d2dfdd7bdbc",
-      "source": "BBC News",
-      "title": "Google value plunges by $500bn as AI search hits ad sales",
-      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T22:17:52+00:00"
     },
     {
       "id": "dccdd4ada74bc5c816c9",
