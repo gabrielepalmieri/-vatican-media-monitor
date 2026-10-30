@@ -117,6 +117,13 @@
       const controversyWord=/(?:scandal\w*|escandal\w*|corruz\w*|corrup\w*|polem\w*|controvers\w*|cism\w*|schism\w*)/;
       const controversy=title.match(new RegExp('\\b'+controversyWord.source+'\\b.{0,20}'+target.source))||title.match(new RegExp(target.source+'.{0,20}\\b'+controversyWord.source+'\\b'));
       if(controversy)return{type:'controversy',label:'Controversia collegata',evidence:controversy[0]};
+      // Una risposta istituzionale su documenti non riconosciuti è un segnale da verificare.
+      const spokesman=/(?:\b(?:vatican\w*|holy\s+see)\s+(?:spokes(?:man|woman|person)|press\s+office)|\bportavoce\s+(?:vatican\w*|della\s+santa\s+sede)|\b(?:sala\s+stampa|matteo\s+bruni)|\bportavoz\s+(?:del\s+vaticano|de\s+la\s+santa\s+sede))/;
+      const unacknowledged=/(?:\bnot\s+aware\b|\bunaware\b|\bnon\s+(?:essere\s+)?(?:a\s+conoscenza|al\s+corrente)\b|\bnon\s+(?:conosce|risulta|risultano)\b|\bno\s+(?:tener\s+constancia|tiene\s+constancia|estar\s+al\s+tanto)\b)/;
+      const records=/\b(?:correspondence|letters?|documents?|corrispondenza|letter[ae]|document[io]|cartas|correspondencia|documentos)\b/;
+      const answer=title.match(unacknowledged);
+      if(spokesman.test(title)&&answer&&records.test(title)&&Math.abs(title.search(spokesman)-answer.index)<110&&Math.abs(title.search(records)-answer.index)<100)
+        return{type:'review',label:'Da verificare',evidence:title.slice(Math.min(title.search(spokesman),answer.index),Math.min(title.length,Math.max(title.search(records)+title.match(records)[0].length,answer.index+answer[0].length))).slice(0,160)};
       const scrutiny=title.match(/\b(?:grande assente nel documento|assente nel documento|absent from (?:the )?(?:pope|vatican)|del processo.{0,35}non si sa nulla|no word on (?:the )?(?:trial|case)|scoppia il caso|caso .{0,100}(?:giusto processo|test del processo))\b/);
       if(scrutiny)return{type:'review',label:'Da verificare',evidence:scrutiny[0]};
       const review=title.match(/\b(?:scontro|clash\w*|dissens\w*|tension\w*|pressure\b|pression\w*|pujas?|ostacol\w*|obstacl\w*|ombra|fantasma|shadow|giacobin\w*|jacobin\w*)\b/);
