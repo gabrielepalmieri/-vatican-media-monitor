@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-30T20:55:18.510406+00:00",
+  "updated_at": "2026-10-30T21:00:57.651877+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-30T20:55:18.510406+00:00"
+      "checked_at": "2026-10-30T21:00:57.651877+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-30T20:55:18.510406+00:00"
+      "checked_at": "2026-10-30T21:00:57.651877+00:00"
     }
   },
   "items": [
+    {
+      "id": "5fe53539acd73a396bd3",
+      "source": "BBC News",
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T20:55:18+00:00"
+    },
     {
       "id": "2c5e90ffbd4f5070154e",
       "source": "BBC News",
@@ -66,13 +73,6 @@
       "title": "Tentano di sfondare lo sbarramento di polizia, otto fermati al corteo di Roma",
       "url": "https://www.tgcom24.mediaset.it/cronaca/sciopero-generale-30-ottobre-cortei-trasporti_118332719-202602k.shtml",
       "published": "2026-10-30T18:32:00+00:00"
-    },
-    {
-      "id": "5fe53539acd73a396bd3",
-      "source": "BBC News",
-      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T18:17:27+00:00"
     },
     {
       "id": "f55a4f905ae53cabcb47",
