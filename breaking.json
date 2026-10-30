@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-30T16:10:25.809275+00:00",
+  "updated_at": "2026-10-30T16:15:29.975889+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-30T16:10:25.809275+00:00"
+      "checked_at": "2026-10-30T16:15:29.975889+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-30T16:10:25.809275+00:00"
+      "checked_at": "2026-10-30T16:15:29.975889+00:00"
     }
   },
   "items": [
+    {
+      "id": "dd9b5a9e21a65b3cfd65",
+      "source": "TGcom24",
+      "title": "Bologna, i manifestanti lasciano tangenziale e autostrada dopo tre ore",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/sciopero-generale-30-ottobre-cortei-trasporti_118332719-202602k.shtml",
+      "published": "2026-10-30T16:10:00+00:00"
+    },
     {
       "id": "6889ebf9b1fbfac4505f",
       "source": "BBC News",
@@ -381,13 +388,6 @@
       "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
       "url": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-29T20:05:57+00:00"
-    },
-    {
-      "id": "98b238e0932d3142f85d",
-      "source": "TGcom24",
-      "title": "Sparatoria al gala dei media alla Casa Bianca, fissato processo contro attentatore",
-      "url": "https://www.tgcom24.mediaset.it/mondo/sparatoria-casa-bianca-processo-attentatore_118307693-202602k.shtml",
-      "published": "2026-10-29T18:49:00+00:00"
     },
     {
       "id": "1e9d6383fbb65d20819a",
