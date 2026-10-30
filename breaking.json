@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-30T15:55:20.010641+00:00",
+  "updated_at": "2026-10-30T16:00:59.105943+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-30T15:55:20.010641+00:00"
+      "checked_at": "2026-10-30T16:00:59.105943+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-30T15:55:20.010641+00:00"
+      "checked_at": "2026-10-30T16:00:59.105943+00:00"
     }
   },
   "items": [
+    {
+      "id": "6889ebf9b1fbfac4505f",
+      "source": "BBC News",
+      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+      "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T15:59:17+00:00"
+    },
     {
       "id": "5cff89561110981771fc",
       "source": "TGcom24",
@@ -73,13 +80,6 @@
       "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
       "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T14:48:22+00:00"
-    },
-    {
-      "id": "6889ebf9b1fbfac4505f",
-      "source": "BBC News",
-      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-      "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T14:19:43+00:00"
     },
     {
       "id": "df919be6472d6f36a5da",
