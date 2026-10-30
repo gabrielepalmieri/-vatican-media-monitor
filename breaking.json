@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-30T09:40:25.515498+00:00",
+  "updated_at": "2026-10-30T09:45:29.342306+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-30T09:40:25.515498+00:00"
+      "checked_at": "2026-10-30T09:45:29.342306+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-30T09:40:25.515498+00:00"
+      "checked_at": "2026-10-30T09:45:29.342306+00:00"
     }
   },
   "items": [
+    {
+      "id": "b5c8309cfe022a7cad49",
+      "source": "TGcom24",
+      "title": "Istat, il Pil è fermo nel terzo trimestre",
+      "url": "https://www.tgcom24.mediaset.it/economia/istat-pil-fermo-terzo-trimestre-2026_118341559-202602k.shtml",
+      "published": "2026-10-30T09:40:00+00:00"
+    },
     {
       "id": "b52e70375ae87045873b",
       "source": "TGcom24",
@@ -40,18 +47,18 @@
       "published": "2026-10-30T07:57:00+00:00"
     },
     {
+      "id": "e070672394196e456d20",
+      "source": "BBC News",
+      "title": "'I made the wrong decision,' Hyrox athlete who soiled herself in race tells BBC",
+      "url": "https://www.bbc.co.uk/news/videos/cwly4p6e9264o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T07:33:27+00:00"
+    },
+    {
       "id": "9d23986986fef3b35848",
       "source": "TGcom24",
       "title": "Ucraina, Mosca: \"Putin pronto a parlare con Macron e Merz\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-russia-guerra-ultime-notizie-30-ottobre_118332912-202602k.shtml",
       "published": "2026-10-30T07:19:00+00:00"
-    },
-    {
-      "id": "5655dbd2dbbcc0b21730",
-      "source": "BBC News",
-      "title": "'I made the wrong decision,' Hyrox athlete who soiled herself in race tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6gr8l15k744o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T06:10:50+00:00"
     },
     {
       "id": "3d0c79333c752babaf92",
@@ -346,13 +353,6 @@
       "title": "Bce, Christine Lagarde a febbraio lascia la presidenza",
       "url": "https://www.tgcom24.mediaset.it/economia/bce-christine-lagarde-lascia-presidenza_118293549-202602k.shtml",
       "published": "2026-10-29T12:01:00+00:00"
-    },
-    {
-      "id": "bfa65dd7785358ca1848",
-      "source": "TGcom24",
-      "title": "Progettava attentati in sinagoga e in moschea, arrestato un 22enne a Milano",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/foto/milano-22enne-arrestato-terrorismo_118295063-202602k.shtml",
-      "published": "2026-10-29T11:39:00+00:00"
     },
     {
       "id": "9abe16a9b298740e778f",
