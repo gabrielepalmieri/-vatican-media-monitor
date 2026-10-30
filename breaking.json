@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-30T07:15:28.774440+00:00",
+  "updated_at": "2026-10-30T07:20:23.999476+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-30T07:15:28.774440+00:00"
+      "checked_at": "2026-10-30T07:20:23.999476+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-30T07:15:28.774440+00:00"
+      "checked_at": "2026-10-30T07:20:23.999476+00:00"
     }
   },
   "items": [
+    {
+      "id": "abe6aed4481550fb4ca6",
+      "source": "BBC News",
+      "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T07:16:05+00:00"
+    },
     {
       "id": "5655dbd2dbbcc0b21730",
       "source": "BBC News",
@@ -38,13 +45,6 @@
       "title": "Sciopero generale del 30 ottobre: venerdì nero per sanità, scuole e trasporti",
       "url": "https://www.tgcom24.mediaset.it/cronaca/sciopero-generale-30-ottobre-cortei-trasporti_118332719-202602k.shtml",
       "published": "2026-10-30T05:31:00+00:00"
-    },
-    {
-      "id": "abe6aed4481550fb4ca6",
-      "source": "BBC News",
-      "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
-      "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T05:15:16+00:00"
     },
     {
       "id": "ef7b4cc0854c0bb15241",
