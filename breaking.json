@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-30T05:00:55.697674+00:00",
+  "updated_at": "2026-10-30T05:05:17.973150+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-30T05:00:55.697674+00:00"
+      "checked_at": "2026-10-30T05:05:17.973150+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-30T05:00:55.697674+00:00"
+      "checked_at": "2026-10-30T05:05:17.973150+00:00"
     }
   },
   "items": [
+    {
+      "id": "ef7b4cc0854c0bb15241",
+      "source": "TGcom24",
+      "title": "Sardegna, schiacciato dal furgone che stava riparando: muore 42enne",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/sardegna-incidente-sul-lavoro-muore-42enne_118326302-202602k.shtml",
+      "published": "2026-10-30T05:00:00+00:00"
+    },
     {
       "id": "710014ce1e75682df047",
       "source": "BBC News",
@@ -283,13 +290,6 @@
       "title": "How could Israel break election deadlock? Here are four scenarios",
       "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-29T09:06:48+00:00"
-    },
-    {
-      "id": "27936c71b655fba26097",
-      "source": "TGcom24",
-      "title": "Spagna, cariche e gas urticante contro manifestanti dopo la strage di Toledo",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/spagna-strage-treni-toledo-proteste-cariche_118291458-02k.shtml",
-      "published": "2026-10-29T08:34:00+00:00"
     },
     {
       "id": "c52d4bdb41944009daad",
