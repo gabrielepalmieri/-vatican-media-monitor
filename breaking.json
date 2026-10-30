@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-30T09:15:28.699992+00:00",
+  "updated_at": "2026-10-30T09:20:24.548508+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-30T09:15:28.699992+00:00"
+      "checked_at": "2026-10-30T09:20:24.548508+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-30T09:15:28.699992+00:00"
+      "checked_at": "2026-10-30T09:20:24.548508+00:00"
     }
   },
   "items": [
+    {
+      "id": "b52e70375ae87045873b",
+      "source": "TGcom24",
+      "title": "Elicottero precipitato, Giorgia Meloni ricorda i quattro militari morti",
+      "url": "https://www.tgcom24.mediaset.it/politica/elicottero-precipitato-giorgia-meloni-ricorda-militari-morti_118341159-202602k.shtml",
+      "published": "2026-10-30T09:15:00+00:00"
+    },
     {
       "id": "abe6aed4481550fb4ca6",
       "source": "BBC News",
@@ -369,13 +376,6 @@
       "published": "2026-10-29T11:07:35+00:00"
     },
     {
-      "id": "3d283f095debdf8af072",
-      "source": "TGcom24",
-      "title": "Rilascio Siher, Nordio: \"Sorpreso dalla decisione, ma non manderemo ispettori a Milano\"",
-      "url": "https://www.tgcom24.mediaset.it/politica/siher-nordio-rilascio_118293154-202602k.shtml",
-      "published": "2026-10-29T11:03:00+00:00"
-    },
-    {
       "id": "2d42f1bd7dc1c1526dd7",
       "source": "BBC News",
       "title": "Voter voices: Which issues matter most to Americans?",
@@ -395,13 +395,6 @@
       "title": "Details of thousands of US immigration agents leaked in major hack",
       "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-29T01:30:43+00:00"
-    },
-    {
-      "id": "5b63565fb66ba7723bed",
-      "source": "BBC News",
-      "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
-      "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T21:16:30+00:00"
     }
   ]
 }
