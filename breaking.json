@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-30T22:20:24.280261+00:00",
+  "updated_at": "2026-10-30T22:25:17.237760+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-30T22:20:24.280261+00:00"
+      "checked_at": "2026-10-30T22:25:17.237760+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-30T22:20:24.280261+00:00"
+      "checked_at": "2026-10-30T22:25:17.237760+00:00"
     }
   },
   "items": [
+    {
+      "id": "18f5c4a3358375dd21b5",
+      "source": "BBC News",
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T22:20:52+00:00"
+    },
+    {
+      "id": "66e71822e0622bead0c7",
+      "source": "TGcom24",
+      "title": "Cambiano Lotto e Superenalotto con la Manovra: arriva la quinta estrazione settimanale",
+      "url": "https://www.tgcom24.mediaset.it/economia/targa-personalizzata-lotto-superenalotto_118368306-202602k.shtml",
+      "published": "2026-10-30T22:18:00+00:00"
+    },
     {
       "id": "b0053581dcb7ff7d9eef",
       "source": "BBC News",
@@ -404,13 +418,6 @@
       "published": "2026-10-30T00:02:35+00:00"
     },
     {
-      "id": "3209870a16c493a6ecbe",
-      "source": "TGcom24",
-      "title": "Caso Siher, minacce al gip: indagano i carabinieri",
-      "url": "https://www.tgcom24.mediaset.it/politica/siher-nordio-rilascio_118293154-202602k.shtml",
-      "published": "2026-10-29T23:00:00+00:00"
-    },
-    {
       "id": "3783191cec6c235a69f0",
       "source": "BBC News",
       "title": "Venezuela opposition leader María Machado calls for elections upon return",
@@ -423,13 +430,6 @@
       "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
       "url": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-29T20:05:57+00:00"
-    },
-    {
-      "id": "eaf9cdffb1c3f28a4e3a",
-      "source": "BBC News",
-      "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
-      "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T11:07:35+00:00"
     },
     {
       "id": "2d42f1bd7dc1c1526dd7",
