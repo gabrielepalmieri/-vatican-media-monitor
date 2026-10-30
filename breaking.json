@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-30T21:20:25.266146+00:00",
+  "updated_at": "2026-10-30T21:25:17.325629+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-30T21:20:25.266146+00:00"
+      "checked_at": "2026-10-30T21:25:17.325629+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-30T21:20:25.266146+00:00"
+      "checked_at": "2026-10-30T21:25:17.325629+00:00"
     }
   },
   "items": [
+    {
+      "id": "07bf8fdaf9f88dbfbcd4",
+      "source": "TGcom24",
+      "title": "Targa personalizzata, costo fino a mille euro per i privati e 10mila per le imprese",
+      "url": "https://www.tgcom24.mediaset.it/economia/targa-personalizzata-lotto-superenalotto_118368306-202602k.shtml",
+      "published": "2026-10-30T21:17:00+00:00"
+    },
     {
       "id": "3cc277ca907a724b4388",
       "source": "BBC News",
@@ -402,13 +409,6 @@
       "title": "Caso Siher, minacce al gip: indagano i carabinieri",
       "url": "https://www.tgcom24.mediaset.it/politica/siher-nordio-rilascio_118293154-202602k.shtml",
       "published": "2026-10-29T23:00:00+00:00"
-    },
-    {
-      "id": "2e1fd7ecd8779922be16",
-      "source": "TGcom24",
-      "title": "Brasile, Nyt: \"Trump ha aiutato Bolsonaro a lasciare il Paese\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/brasile-flavio-bolsonaro-volo-stati-uniti_118214209-202602k.shtml",
-      "published": "2026-10-29T22:30:00+00:00"
     },
     {
       "id": "3783191cec6c235a69f0",
