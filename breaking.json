@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-30T18:30:45.589923+00:00",
+  "updated_at": "2026-10-30T18:35:19.747873+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-30T18:30:45.589923+00:00"
+      "checked_at": "2026-10-30T18:35:19.747873+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-30T18:30:45.589923+00:00"
+      "checked_at": "2026-10-30T18:35:19.747873+00:00"
     }
   },
   "items": [
+    {
+      "id": "e1cb57cb868d5498577c",
+      "source": "TGcom24",
+      "title": "Tentano di sfondare lo sbarramento di polizia, otto fermati al corteo di Roma",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/sciopero-generale-30-ottobre-cortei-trasporti_118332719-202602k.shtml",
+      "published": "2026-10-30T18:32:00+00:00"
+    },
     {
       "id": "5fe53539acd73a396bd3",
       "source": "BBC News",
@@ -402,13 +409,6 @@
       "title": "Venezuela opposition leader María Machado calls for elections upon return",
       "url": "https://www.bbc.co.uk/news/articles/ck054d5mnzreo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-29T21:05:03+00:00"
-    },
-    {
-      "id": "1c2358805243c3ffc531",
-      "source": "TGcom24",
-      "title": "È morto Patrick Stewart, l'attore di Star Trek e X-Men",
-      "url": "https://www.tgcom24.mediaset.it/spettacolo/patrick-stewart-morto-86-anni_118321435-202602k.shtml",
-      "published": "2026-10-29T20:45:00+00:00"
     },
     {
       "id": "63cf5f4f57cb8cab6709",
