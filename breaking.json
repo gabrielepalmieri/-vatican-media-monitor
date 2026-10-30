@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-30T13:35:18.717806+00:00",
+  "updated_at": "2026-10-30T13:40:25.471393+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-30T13:35:18.717806+00:00"
+      "checked_at": "2026-10-30T13:40:25.471393+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-30T13:35:18.717806+00:00"
+      "checked_at": "2026-10-30T13:40:25.471393+00:00"
     }
   },
   "items": [
@@ -16,7 +16,14 @@
       "source": "BBC News",
       "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
       "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T13:28:19+00:00"
+      "published": "2026-10-30T13:38:49+00:00"
+    },
+    {
+      "id": "cf45c5cedfeeb910065a",
+      "source": "TGcom24",
+      "title": "Genova, incendio in casa: 70enne muore per salvare i gatti",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/muore-incendio-casa-salvare-gatti-avegno-genova_118340739-202602k.shtml",
+      "published": "2026-10-30T13:35:00+00:00"
     },
     {
       "id": "3d5ba911bf55a5f70244",
@@ -360,13 +367,6 @@
       "title": "Elezioni Israele, scrutinio completato: blocco Netanyahu 53 seggi, Eisenkot 48",
       "url": "https://www.tgcom24.mediaset.it/mondo/israele-elezioni-ultime-notizie_118290248-202602k.shtml",
       "published": "2026-10-29T15:44:00+00:00"
-    },
-    {
-      "id": "876ed907bd6de398aeed",
-      "source": "TGcom24",
-      "title": "Debito federale Usa al 100% del pil, prima volta dal 1946",
-      "url": "https://www.tgcom24.mediaset.it/mondo/il-debito-federale-usa-al-100-del-pil-prima-volta-dal-1946_118304310-202602k.shtml",
-      "published": "2026-10-29T15:12:00+00:00"
     },
     {
       "id": "2a1ca1de8f435f678f45",
