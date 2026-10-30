@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-30T18:15:30.493592+00:00",
+  "updated_at": "2026-10-30T18:20:24.798917+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-30T18:15:30.493592+00:00"
+      "checked_at": "2026-10-30T18:20:24.798917+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-30T18:15:30.493592+00:00"
+      "checked_at": "2026-10-30T18:20:24.798917+00:00"
     }
   },
   "items": [
+    {
+      "id": "5fe53539acd73a396bd3",
+      "source": "BBC News",
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T18:17:27+00:00"
+    },
     {
       "id": "9d9cc9e7d1a58325b396",
       "source": "BBC News",
@@ -136,13 +143,6 @@
       "title": "Caso Siher, Anm Milano: \"Inauditi attacchi sessisti a giudice e pm\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/caso-siher-anm-milano-attacchi-giudice_118354443-202602k.shtml",
       "published": "2026-10-30T14:05:00+00:00"
-    },
-    {
-      "id": "5fe53539acd73a396bd3",
-      "source": "BBC News",
-      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T13:46:16+00:00"
     },
     {
       "id": "cf45c5cedfeeb910065a",
