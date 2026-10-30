@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-30T10:10:27.674138+00:00",
+  "updated_at": "2026-10-30T10:15:28.905427+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-30T10:10:27.674138+00:00"
+      "checked_at": "2026-10-30T10:15:28.905427+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-30T10:10:27.674138+00:00"
+      "checked_at": "2026-10-30T10:15:28.905427+00:00"
     }
   },
   "items": [
+    {
+      "id": "fe6351f30560e9313c9f",
+      "source": "BBC News",
+      "title": "Helicopter carrying six people crashes in northern Indian state",
+      "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T10:07:58+00:00"
+    },
     {
       "id": "b5c8309cfe022a7cad49",
       "source": "TGcom24",
@@ -150,13 +157,6 @@
       "title": "Indians turn to start-ups to care for ageing parents as young become more mobile",
       "url": "https://www.bbc.co.uk/news/articles/cmx2qr4rp1xeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T00:02:35+00:00"
-    },
-    {
-      "id": "7e4c8c9f6499910d49bb",
-      "source": "BBC News",
-      "title": "China made Mbappé apologise - but many don't know exactly what he said",
-      "url": "https://www.bbc.co.uk/news/articles/cm3wv36d603yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T23:03:15+00:00"
     },
     {
       "id": "3209870a16c493a6ecbe",
