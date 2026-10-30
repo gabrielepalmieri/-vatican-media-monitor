@@ -11,6 +11,7 @@ from urllib.request import Request, urlopen
 from xml.etree import ElementTree as ET
 from author_sources import AUTHOR_SOURCES, fetch_author_source
 from social_accounts import feed_account, profile_account, enrich_social_posts
+from vaticanist_authors import ROSTER, author_searches, enrich_vaticanists
 
 ROOT = Path(__file__).resolve().parent
 OUT = ROOT / "news.json"
@@ -251,7 +252,7 @@ def fetch(url: str) -> bytes:
     ctx = ssl.create_default_context()
     with urlopen(req, timeout=15, context=ctx) as r: return r.read()
 
-def parse_feed(url: str, country: str, language: str, kind: str, direct_source: str = "") -> list[dict]:
+def parse_feed(url: str, country: str, language: str, kind: str, direct_source: str = "", author_search: bool = False) -> list[dict]:
     out=[]
     try: root=ET.fromstring(fetch(url))
     except Exception as exc:
@@ -272,13 +273,17 @@ def parse_feed(url: str, country: str, language: str, kind: str, direct_source: 
         source_url=source_element.get("url", "") if source_element is not None else ""
         platform=social_platform(source,link) or social_platform("",source_url)
         account=feed_account(item,platform,link)
+        if not platform:
+            byline = clean(item.findtext("{http://purl.org/dc/elements/1.1/}creator", "") or item.findtext("author", ""))
+            if byline and not re.search(r"https?://|@|[<>]", byline):
+                account = {"author": byline, "author_verified": True}
         if platform:
             source=platform
         item_kind="social" if platform else kind
         if not valid_title(display_title): continue
         if item_kind == "social" and not social_relevant(display_title): continue
         uid=hashlib.sha1((display_title.lower()+source.lower()+(account.get("author", "").casefold() if item_kind=="social" else "")).encode()).hexdigest()[:16]
-        out.append({"id":uid,"title":display_title,"url":link,"source":source,"country":country,"language":language,"published":published(item.findtext("pubDate", "")),"topic":topic_for(display_title),"kind":item_kind,"cluster_size":1,"origin":"direct" if direct_source else "search",**account})
+        out.append({"id":uid,"title":display_title,"url":link,"source":source,"country":country,"language":language,"published":published(item.findtext("pubDate", "")),"topic":topic_for(display_title),"kind":item_kind,"cluster_size":1,"origin":"direct" if direct_source else "search",**({"author_search":True} if author_search else {}),**account})
     if direct_source:
         newest=max((x["published"] for x in out),default="nessuno")
         print(f"Feed diretto {direct_source}: {len(out)} pertinenti, più recente {newest}, da {url}")
@@ -354,6 +359,12 @@ def balanced_selection(items: list[dict]) -> list[dict]:
         if name: counts[name]=counts.get(name,0)+1
         if item.get("kind")=="social": social_counts[item["source"]]=social_counts.get(item["source"],0)+1
         return True
+    # Reserve one recent article for each identified journalist.
+    authors_seen = set()
+    for item in items:
+        ids = set(item.get("vaticanist_ids", []))
+        if ids - authors_seen and add(item,configured_name(item)):
+            authors_seen.update(ids)
     for _, name, aliases, _ in configured:
         for item in items:
             if source_matches(item["source"],aliases):
@@ -413,6 +424,8 @@ def main() -> None:
         jobs.append((feed_url(dedicated,"pt-PT","PT","PT:pt-150"),"Portogallo","Português","news"))
     for country, language, source, url in DIRECT_FEEDS:
         jobs.append((url,country,language,"news",source))
+    for query, (country, language, hl, gl, ceid) in author_searches():
+        jobs.append((feed_url(query,hl,gl,ceid),country,language,"news","",True))
     with ThreadPoolExecutor(max_workers=8) as pool:
         futures=[pool.submit(fetch_author_source, config, fetch, topic_for, valid_title, RETENTION_DAYS) for config in AUTHOR_SOURCES]
         futures += [pool.submit(parse_feed,*job) for job in jobs]
@@ -429,6 +442,7 @@ def main() -> None:
                     items.append(item)
         except (OSError, ValueError, KeyError, TypeError) as exc:
             print(f"Archivio precedente non utilizzabile: {exc}")
+    enrich_vaticanists(items)
     enrich_social_posts(items, fetch)
     social_by_url={x["url"]:{"author":x["author"],"author_url":x.get("author_url", "")} for x in items if x.get("kind")=="social" and x.get("author")}
     unique={}
@@ -457,13 +471,16 @@ def main() -> None:
             if author_item:
                 unique[key]["author"]=author_item["author"]
                 unique[key]["author_url"]=author_item.get("author_url", "")
+            for field in ("article_url", "author_verified", "byline_checked_at", "vaticanist_ids", "vaticanist_names", "author_search"):
+                if field in old or field in x:
+                    unique[key][field] = x.get(field) or old.get(field)
             if direct_url:
                 unique[key]["url"]=direct_url
                 unique[key]["origin"]="direct"
     ordered=sorted(unique.values(),key=lambda x:x["published"],reverse=True)
     result=balanced_selection(ordered)
     cluster(result)
-    OUT.write_text(json.dumps({"updated_at":datetime.now(timezone.utc).isoformat(),"items":result,"source_coverage":coverage_for(result)},ensure_ascii=False,indent=2),encoding="utf-8")
+    OUT.write_text(json.dumps({"updated_at":datetime.now(timezone.utc).isoformat(),"items":result,"source_coverage":coverage_for(result),"vaticanists":[{"id":p["id"],"name":p["name"]} for p in ROSTER]},ensure_ascii=False,indent=2),encoding="utf-8")
     print(f"Salvati {len(result)} contenuti in {OUT}")
 
 if __name__ == "__main__": main()
