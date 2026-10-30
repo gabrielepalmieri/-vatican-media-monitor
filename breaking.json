@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-10-30T11:15:29.825167+00:00",
+  "updated_at": "2026-10-30T11:20:25.255528+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-30T11:15:29.825167+00:00"
+      "checked_at": "2026-10-30T11:20:25.255528+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-30T11:15:29.825167+00:00"
+      "checked_at": "2026-10-30T11:20:25.255528+00:00"
     }
   },
   "items": [
+    {
+      "id": "8913cc02b441175924fc",
+      "source": "BBC News",
+      "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
+      "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T11:17:32+00:00"
+    },
     {
       "id": "ef4938be1f318371c074",
       "source": "TGcom24",
       "title": "Istat, inflazione a ottobre +5,4%: è il dato più alto da oltre tre anni",
       "url": "https://www.tgcom24.mediaset.it/economia/istat-inflazione-ottobre-5-4-_118345161-202602k.shtml",
       "published": "2026-10-30T10:50:00+00:00"
-    },
-    {
-      "id": "8913cc02b441175924fc",
-      "source": "BBC News",
-      "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
-      "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T10:32:06+00:00"
     },
     {
       "id": "fed4ef07a5d68c63557d",
