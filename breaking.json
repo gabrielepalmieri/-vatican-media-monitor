@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-30T07:20:23.999476+00:00",
+  "updated_at": "2026-10-30T07:25:17.578508+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-30T07:20:23.999476+00:00"
+      "checked_at": "2026-10-30T07:25:17.578508+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-30T07:20:23.999476+00:00"
+      "checked_at": "2026-10-30T07:25:17.578508+00:00"
     }
   },
   "items": [
+    {
+      "id": "9d23986986fef3b35848",
+      "source": "TGcom24",
+      "title": "Ucraina, Mosca: \"Putin pronto a parlare con Macron e Merz\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-russia-guerra-ultime-notizie-30-ottobre_118332912-202602k.shtml",
+      "published": "2026-10-30T07:19:00+00:00"
+    },
     {
       "id": "abe6aed4481550fb4ca6",
       "source": "BBC News",
@@ -360,13 +367,6 @@
       "title": "Cortei 30 ottobre, Piantedosi: allarmi ci sono ma forze dell’ordine preparate",
       "url": "https://www.tgcom24.mediaset.it/politica/cortei-piantedosi-allarmi-ci-sono_118293171-202602k.shtml",
       "published": "2026-10-29T10:41:00+00:00"
-    },
-    {
-      "id": "90753a45a1b8339e15ec",
-      "source": "TGcom24",
-      "title": "Sciopero generale il 30 ottobre contro il carovita, i salari bassi e il riarmo",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/sciopero-generale-30-ottobre_118289885-202602k.shtml",
-      "published": "2026-10-29T10:16:00+00:00"
     },
     {
       "id": "30d788fb3bfb60b2af3e",
