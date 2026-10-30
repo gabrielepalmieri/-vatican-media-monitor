@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-30T23:30:41.970163+00:00",
+  "updated_at": "2026-10-30T23:35:17.878040+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-10-30T23:30:41.970163+00:00"
+      "checked_at": "2026-10-30T23:35:17.878040+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-30T23:30:41.970163+00:00"
+      "checked_at": "2026-10-30T23:35:17.878040+00:00"
     }
   },
   "items": [
+    {
+      "id": "23aa003bdb391360b318",
+      "source": "BBC News",
+      "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
+      "url": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T23:19:17+00:00"
+    },
     {
       "id": "b7fb3d9423a3cb8192bf",
       "source": "TGcom24",
