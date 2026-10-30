@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-30T17:10:26.456972+00:00",
+  "updated_at": "2026-10-30T17:15:29.306210+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-30T17:10:26.456972+00:00"
+      "checked_at": "2026-10-30T17:15:29.306210+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-30T17:10:26.456972+00:00"
+      "checked_at": "2026-10-30T17:15:29.306210+00:00"
     }
   },
   "items": [
@@ -26,6 +26,13 @@
       "published": "2026-10-30T17:00:32+00:00"
     },
     {
+      "id": "3cc277ca907a724b4388",
+      "source": "BBC News",
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T16:48:12+00:00"
+    },
+    {
       "id": "228562134aefa590f65b",
       "source": "TGcom24",
       "title": "Strage di Castel D'Azzano, indagati tre carabinieri per omicidio colposo",
@@ -35,7 +42,7 @@
     {
       "id": "8913cc02b441175924fc",
       "source": "BBC News",
-      "title": "Ceasefire allows evacuation from devastated Russian-occupied Oleshky",
+      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
       "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T16:26:11+00:00"
     },
