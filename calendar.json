@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-29T11:28:42.314326+00:00",
+  "updated_at": "2026-10-30T01:55:00.219756+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-10-29T11:28:42.314326+00:00",
+  "un_verified_at": "2026-10-30T01:55:00.219756+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,17 +1918,6 @@
     }
   ],
   "days": {
-    "2026-10-28": {
-      "saints": [
-        {
-          "title": "Ss. Simone e Giuda (Taddeo), apostoli",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/28/ss--simone-e-giuda--taddeo---apostoli.html"
-        }
-      ],
-      "un": [],
-      "un_available": true,
-      "holy_see": []
-    },
     "2026-10-29": {
       "saints": [
         {
@@ -2596,6 +2585,30 @@
         {
           "title": "Giornata internazionale delle persone con disabilità",
           "url": "https://www.un.org/en/observances/day-of-persons-with-disabilities"
+        }
+      ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-12-04": {
+      "saints": [
+        {
+          "title": "San Giovanni Damasceno, sacerdote e dottore della Chiesa",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/04/san-giovanni-damasceno--sacerdote-e-dottore-della-chiesa.html"
+        },
+        {
+          "title": "Santa Barbara, martire",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/04.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata internazionale delle banche",
+          "url": "https://www.un.org/en/observances/international-day-of-banks"
+        },
+        {
+          "title": "Giornata internazionale contro le misure coercitive unilaterali",
+          "url": "https://www.un.org/en/observances/day-against-unilateral-coercive-measures"
         }
       ],
       "un_available": true,
