@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-30T06:35:18.894731+00:00",
+  "updated_at": "2026-10-30T06:40:25.248246+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-30T06:35:18.894731+00:00"
+      "checked_at": "2026-10-30T06:40:25.248246+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-30T06:35:18.894731+00:00"
+      "checked_at": "2026-10-30T06:40:25.248246+00:00"
     }
   },
   "items": [
@@ -68,11 +68,32 @@
       "published": "2026-10-30T03:05:17+00:00"
     },
     {
+      "id": "556bd777673b9738ac2c",
+      "source": "BBC News",
+      "title": "Democrats have an identity crisis - it won't be an easy fix",
+      "url": "https://www.bbc.co.uk/news/articles/cknv08980d3vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T02:14:41+00:00"
+    },
+    {
       "id": "56e2c6de7a481349ce2f",
       "source": "BBC News",
       "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
       "url": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T01:35:40+00:00"
+    },
+    {
+      "id": "ce08618507097ccbf1bf",
+      "source": "BBC News",
+      "title": "Many Cubans voted for Trump - now they're turning on Republican immigration policies",
+      "url": "https://www.bbc.co.uk/news/articles/c574p7z1xm8wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T00:43:04+00:00"
+    },
+    {
+      "id": "7e4c8c9f6499910d49bb",
+      "source": "BBC News",
+      "title": "China made Mbappé apologise - but many don't know exactly what he said",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wv36d603yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T23:03:15+00:00"
     },
     {
       "id": "3209870a16c493a6ecbe",
@@ -299,6 +320,13 @@
       "published": "2026-10-29T11:03:00+00:00"
     },
     {
+      "id": "2d42f1bd7dc1c1526dd7",
+      "source": "BBC News",
+      "title": "Voter voices: Which issues matter most to Americans?",
+      "url": "https://www.bbc.co.uk/news/videos/cm3wv3njppweo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T10:52:33+00:00"
+    },
+    {
       "id": "97721af1a8e49e4dc51b",
       "source": "TGcom24",
       "title": "Cortei 30 ottobre, Piantedosi: allarmi ci sono ma forze dell’ordine preparate",
@@ -311,20 +339,6 @@
       "title": "Sciopero generale il 30 ottobre contro il carovita, i salari bassi e il riarmo",
       "url": "https://www.tgcom24.mediaset.it/cronaca/sciopero-generale-30-ottobre_118289885-202602k.shtml",
       "published": "2026-10-29T10:16:00+00:00"
-    },
-    {
-      "id": "e96d4659f42e6c9f14f3",
-      "source": "BBC News",
-      "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T09:30:03+00:00"
-    },
-    {
-      "id": "f31fb8d542dcb0a1bcab",
-      "source": "BBC News",
-      "title": "How could Israel break election deadlock? Here are four scenarios",
-      "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T09:06:48+00:00"
     },
     {
       "id": "30d788fb3bfb60b2af3e",
