@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-30T03:20:24.900971+00:00",
+  "updated_at": "2026-10-30T03:25:17.991281+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-30T03:20:24.900971+00:00"
+      "checked_at": "2026-10-30T03:25:17.991281+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-30T03:20:24.900971+00:00"
+      "checked_at": "2026-10-30T03:25:17.991281+00:00"
     }
   },
   "items": [
+    {
+      "id": "710014ce1e75682df047",
+      "source": "BBC News",
+      "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T03:24:12+00:00"
+    },
     {
       "id": "3209870a16c493a6ecbe",
       "source": "TGcom24",
@@ -185,13 +192,6 @@
       "title": "Divieto social ai minori, Ue congela per 12 mesi le leggi nazionali",
       "url": "https://www.tgcom24.mediaset.it/mondo/divieto-social-minori-ue-congela-leggi-nazionali_118297072-202602k.shtml",
       "published": "2026-10-29T12:59:00+00:00"
-    },
-    {
-      "id": "710014ce1e75682df047",
-      "source": "BBC News",
-      "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T12:49:17+00:00"
     },
     {
       "id": "a1886a2ad73f28f8d3d8",
