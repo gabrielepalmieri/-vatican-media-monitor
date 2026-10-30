@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-30T20:40:24.450005+00:00",
+  "updated_at": "2026-10-30T20:45:27.703501+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-30T20:40:24.450005+00:00"
+      "checked_at": "2026-10-30T20:45:27.703501+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-30T20:40:24.450005+00:00"
+      "checked_at": "2026-10-30T20:45:27.703501+00:00"
     }
   },
   "items": [
+    {
+      "id": "2c5e90ffbd4f5070154e",
+      "source": "BBC News",
+      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T20:41:51+00:00"
+    },
     {
       "id": "3ae7ab54073408902780",
       "source": "TGcom24",
@@ -227,13 +234,6 @@
       "title": "Meloni: \"L'appoggio a Kiev ha prezzo politico ma non cambio idea\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-russia-guerra-ultime-notizie-30-ottobre_118332912-202602k.shtml",
       "published": "2026-10-30T11:27:00+00:00"
-    },
-    {
-      "id": "2c5e90ffbd4f5070154e",
-      "source": "BBC News",
-      "title": "Prominent Russian newspaper shuts down under pressure from authorities",
-      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T11:23:06+00:00"
     },
     {
       "id": "ef4938be1f318371c074",
