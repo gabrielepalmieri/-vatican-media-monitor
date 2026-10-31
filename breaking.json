@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-10-31T13:45:26.422088+00:00",
+  "updated_at": "2026-10-31T13:50:23.577550+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-31T13:45:26.422088+00:00"
+      "checked_at": "2026-10-31T13:50:23.577550+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-31T13:45:26.422088+00:00"
+      "checked_at": "2026-10-31T13:50:23.577550+00:00"
     }
   },
   "items": [
+    {
+      "id": "84d7ab542650f3cf0af1",
+      "source": "BBC News",
+      "title": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T13:45:34+00:00"
+    },
     {
       "id": "2a693af995b6e889c302",
       "source": "TGcom24",
       "title": "Zelensky: \"Rientrati in Ucraina i residenti evacuati da Oleshky\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-russia-guerra-ultime-notizie-31-ottobre_118369921-202602k.shtml",
       "published": "2026-10-31T13:16:00+00:00"
-    },
-    {
-      "id": "84d7ab542650f3cf0af1",
-      "source": "BBC News",
-      "title": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31T13:12:46+00:00"
     },
     {
       "id": "cc09c857e3a4742b97b0",
