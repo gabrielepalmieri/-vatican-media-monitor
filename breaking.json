@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-31T14:05:20.047623+00:00",
+  "updated_at": "2026-10-31T14:10:23.609070+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-31T14:05:20.047623+00:00"
+      "checked_at": "2026-10-31T14:10:23.609070+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-31T14:05:20.047623+00:00"
+      "checked_at": "2026-10-31T14:10:23.609070+00:00"
     }
   },
   "items": [
+    {
+      "id": "b5fb1b4ebee77fb79509",
+      "source": "TGcom24",
+      "title": "Reggio Emilia, perseguita la ex con mille telefonate: \"Ti sfregio con l'acido\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/reggio-emilia-minaccia-ex-compagna_118384175-202602k.shtml",
+      "published": "2026-10-31T14:07:00+00:00"
+    },
     {
       "id": "84d7ab542650f3cf0af1",
       "source": "BBC News",
@@ -318,13 +325,6 @@
       "title": "Strage Castel D'Azzano (Verona), indagati 3 carabinieri per omicidio colposo",
       "url": "https://www.tgcom24.mediaset.it/cronaca/strage-castel-d-azzano-verona-carabinieri-esplosione-indagini_118359189-202602k.shtml",
       "published": "2026-10-30T16:42:00+00:00"
-    },
-    {
-      "id": "dd9b5a9e21a65b3cfd65",
-      "source": "TGcom24",
-      "title": "Corteo a Bologna, tangenziale e autostrada liberate dopo tre ore",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/sciopero-generale-30-ottobre-cortei-trasporti_118332719-202602k.shtml",
-      "published": "2026-10-30T16:10:00+00:00"
     },
     {
       "id": "c0b8aa3bebd1f289e490",
