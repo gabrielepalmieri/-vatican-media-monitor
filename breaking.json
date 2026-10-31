@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-31T01:10:23.143895+00:00",
+  "updated_at": "2026-10-31T01:15:27.407904+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-10-31T01:10:23.143895+00:00"
+      "checked_at": "2026-10-31T01:15:27.407904+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-31T01:10:23.143895+00:00"
+      "checked_at": "2026-10-31T01:15:27.407904+00:00"
     }
   },
   "items": [
+    {
+      "id": "5ef8ff9fa9d0b5486033",
+      "source": "BBC News",
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T01:11:43+00:00"
+    },
     {
       "id": "18f5c4a3358375dd21b5",
       "source": "BBC News",
@@ -80,13 +87,6 @@
       "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
       "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T21:13:14+00:00"
-    },
-    {
-      "id": "5ef8ff9fa9d0b5486033",
-      "source": "BBC News",
-      "title": "Police deployed during stand-off over control of top Poland court",
-      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T20:52:01+00:00"
     },
     {
       "id": "2c5e90ffbd4f5070154e",
