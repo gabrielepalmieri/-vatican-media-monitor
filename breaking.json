@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-10-31T12:05:18.069243+00:00",
+  "updated_at": "2026-10-31T12:10:22.360189+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-31T12:05:18.069243+00:00"
+      "checked_at": "2026-10-31T12:10:22.360189+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-31T12:05:18.069243+00:00"
+      "checked_at": "2026-10-31T12:10:22.360189+00:00"
     }
   },
   "items": [
+    {
+      "id": "84d7ab542650f3cf0af1",
+      "source": "BBC News",
+      "title": "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T12:05:04+00:00"
+    },
     {
       "id": "5313e6bb537a674d0b8b",
       "source": "TGcom24",
       "title": "Sicurezza sul lavoro, al Colosseo stop a sub appalti ed edilizia acrobatica",
       "url": "https://www.tgcom24.mediaset.it/cronaca/colosseo-roma-cantieri-operaio-morto-intesa-sicurezza_118379463-202602k.shtml",
       "published": "2026-10-31T11:56:00+00:00"
-    },
-    {
-      "id": "84d7ab542650f3cf0af1",
-      "source": "BBC News",
-      "title": "Evacuated Ukrainians from Russian-occupied Oleshky arrive in Belarus",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31T11:18:14+00:00"
     },
     {
       "id": "375a731f215a724d8f70",
