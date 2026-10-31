@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-31T02:40:23.431291+00:00",
+  "updated_at": "2026-10-31T02:45:25.862103+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-10-31T02:40:23.431291+00:00"
+      "checked_at": "2026-10-31T02:45:25.862103+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-31T02:40:23.431291+00:00"
+      "checked_at": "2026-10-31T02:45:25.862103+00:00"
     }
   },
   "items": [
+    {
+      "id": "9855334f796eedc931c8",
+      "source": "BBC News",
+      "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+      "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T02:39:25+00:00"
+    },
     {
       "id": "896353637f6eba758ba5",
       "source": "BBC News",
@@ -327,13 +334,6 @@
       "published": "2026-10-30T09:15:00+00:00"
     },
     {
-      "id": "b50e604621f311e69947",
-      "source": "BBC News",
-      "title": "How Kenyans got caught in $130m US ghost student scam",
-      "url": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T08:32:35+00:00"
-    },
-    {
       "id": "36dbb96b2c4bdb081220",
       "source": "TGcom24",
       "title": "\"Novaya Gazeta\" annuncia la chiusura in Russia: \"Uccisi da autorità e servizi\"",
@@ -409,13 +409,6 @@
       "title": "Student-backed election winners demand sweeping resignations in Serbia",
       "url": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T00:17:28+00:00"
-    },
-    {
-      "id": "63cf5f4f57cb8cab6709",
-      "source": "BBC News",
-      "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T20:05:57+00:00"
     }
   ]
 }
