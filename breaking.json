@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-31T15:00:53.183198+00:00",
+  "updated_at": "2026-10-31T15:05:16.496602+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-31T15:00:53.183198+00:00"
+      "checked_at": "2026-10-31T15:05:16.496602+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-31T15:00:53.183198+00:00"
+      "checked_at": "2026-10-31T15:05:16.496602+00:00"
     }
   },
   "items": [
+    {
+      "id": "fbdda0b14fb38ee2d063",
+      "source": "TGcom24",
+      "title": "Manovra, tagli alle risorse dei ministeri per 4,7 miliardi in tre anni",
+      "url": "https://www.tgcom24.mediaset.it/politica/manovra-tagli-alle-risorse-dei-ministeri-per-4-7-miliardi-in-tre-anni_118387168-202602k.shtml",
+      "published": "2026-10-31T15:03:00+00:00"
+    },
     {
       "id": "84d7ab542650f3cf0af1",
       "source": "BBC News",
@@ -318,13 +325,6 @@
       "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
       "url": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T17:00:32+00:00"
-    },
-    {
-      "id": "228562134aefa590f65b",
-      "source": "TGcom24",
-      "title": "Strage Castel D'Azzano (Verona), indagati 3 carabinieri per omicidio colposo",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/strage-castel-d-azzano-verona-carabinieri-esplosione-indagini_118359189-202602k.shtml",
-      "published": "2026-10-30T16:42:00+00:00"
     },
     {
       "id": "3d5ba911bf55a5f70244",
