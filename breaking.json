@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-31T11:55:16.315647+00:00",
+  "updated_at": "2026-10-31T12:00:52.236089+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-31T11:55:16.315647+00:00"
+      "checked_at": "2026-10-31T12:00:52.236089+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-31T11:55:16.315647+00:00"
+      "checked_at": "2026-10-31T12:00:52.236089+00:00"
     }
   },
   "items": [
+    {
+      "id": "5313e6bb537a674d0b8b",
+      "source": "TGcom24",
+      "title": "Sicurezza sul lavoro, al Colosseo stop a sub appalti ed edilizia acrobatica",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/colosseo-roma-cantieri-operaio-morto-intesa-sicurezza_118379463-202602k.shtml",
+      "published": "2026-10-31T11:56:00+00:00"
+    },
     {
       "id": "84d7ab542650f3cf0af1",
       "source": "BBC News",
@@ -339,13 +346,6 @@
       "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
       "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T14:48:22+00:00"
-    },
-    {
-      "id": "df919be6472d6f36a5da",
-      "source": "TGcom24",
-      "title": "Caso Siher, Anm Milano: \"Inauditi attacchi sessisti a giudice e pm\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/caso-siher-anm-milano-attacchi-giudice_118354443-202602k.shtml",
-      "published": "2026-10-30T14:05:00+00:00"
     },
     {
       "id": "7dd15666c5104a0b7032",
