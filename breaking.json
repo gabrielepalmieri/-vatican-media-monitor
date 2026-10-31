@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-31T00:40:22.611305+00:00",
+  "updated_at": "2026-10-31T00:45:26.403287+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-10-31T00:40:22.611305+00:00"
+      "checked_at": "2026-10-31T00:45:26.403287+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-31T00:40:22.611305+00:00"
+      "checked_at": "2026-10-31T00:45:26.403287+00:00"
     }
   },
   "items": [
+    {
+      "id": "18f5c4a3358375dd21b5",
+      "source": "BBC News",
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T00:40:43+00:00"
+    },
     {
       "id": "5fe53539acd73a396bd3",
       "source": "BBC News",
@@ -45,13 +52,6 @@
       "title": "Piantedosi sui cortei: \"Nonostante i violenti, garantito diritto a manifestare\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/sciopero-generale-30-ottobre-cortei-trasporti_118332719-202602k.shtml",
       "published": "2026-10-30T22:56:00+00:00"
-    },
-    {
-      "id": "18f5c4a3358375dd21b5",
-      "source": "BBC News",
-      "title": "US approves sale of 500 Patriot missiles to Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T22:20:52+00:00"
     },
     {
       "id": "66e71822e0622bead0c7",
