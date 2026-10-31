@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-10-31T19:45:27.779187+00:00",
+  "updated_at": "2026-10-31T19:50:24.149657+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-31T19:45:27.779187+00:00"
+      "checked_at": "2026-10-31T19:50:24.149657+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-31T19:45:27.779187+00:00"
+      "checked_at": "2026-10-31T19:50:24.149657+00:00"
     }
   },
   "items": [
+    {
+      "id": "9136043e3d28fe680dea",
+      "source": "TGcom24",
+      "title": "Oleshky, il racconto degli evacuati: \"Costretti a mangiare cani dalla fame\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/evacuati-oleshky-cani-fame_118389268-202602k.shtml",
+      "published": "2026-10-31T19:45:00+00:00"
+    },
+    {
+      "id": "40e022561b124adaae64",
+      "source": "BBC News",
+      "title": "Clashes erupt between police and protesters in Paris",
+      "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T19:37:43+00:00"
+    },
     {
       "id": "a26d25e40754bf5d57ae",
       "source": "BBC News",
@@ -215,13 +229,6 @@
       "published": "2026-10-31T05:40:00+00:00"
     },
     {
-      "id": "f90b62287128ef3d3699",
-      "source": "TGcom24",
-      "title": "Media: \"Trump vuole riprendere attacchi all'Iran dopo le elezioni di midterm\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/trump-usa-nuovi-attacchi-iran-elezioni-midterm_118369181-202602k.shtml",
-      "published": "2026-10-31T05:00:00+00:00"
-    },
-    {
       "id": "b17c19e0f358a3446313",
       "source": "BBC News",
       "title": "Suited and booted: How Joseph Kabila went from president to rebel leader",
@@ -325,20 +332,6 @@
       "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
       "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T17:07:19+00:00"
-    },
-    {
-      "id": "049e82343bc42cc4e134",
-      "source": "BBC News",
-      "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
-      "url": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T17:00:32+00:00"
-    },
-    {
-      "id": "3d5ba911bf55a5f70244",
-      "source": "BBC News",
-      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T15:03:39+00:00"
     },
     {
       "id": "3638e9b01261dd7b97b6",
