@@ -1,29 +1,36 @@
 {
-  "updated_at": "2026-10-31T14:35:18.613269+00:00",
+  "updated_at": "2026-10-31T14:40:22.576388+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-31T14:35:18.613269+00:00"
+      "checked_at": "2026-10-31T14:40:22.576388+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-31T14:35:18.613269+00:00"
+      "checked_at": "2026-10-31T14:40:22.576388+00:00"
     }
   },
   "items": [
+    {
+      "id": "84d7ab542650f3cf0af1",
+      "source": "BBC News",
+      "title": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T14:38:39+00:00"
+    },
+    {
+      "id": "30a1a9a81257e88f2457",
+      "source": "BBC News",
+      "title": "Ethiopian PM puts ministers through military training",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T14:28:15+00:00"
+    },
     {
       "id": "b5fb1b4ebee77fb79509",
       "source": "TGcom24",
       "title": "Reggio Emilia, perseguita la ex con mille telefonate: \"Ti sfregio con l'acido\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/reggio-emilia-minaccia-ex-compagna_118384175-202602k.shtml",
       "published": "2026-10-31T14:07:00+00:00"
-    },
-    {
-      "id": "84d7ab542650f3cf0af1",
-      "source": "BBC News",
-      "title": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31T13:45:34+00:00"
     },
     {
       "id": "2a693af995b6e889c302",
@@ -201,13 +208,6 @@
       "published": "2026-10-31T01:11:43+00:00"
     },
     {
-      "id": "5fe53539acd73a396bd3",
-      "source": "BBC News",
-      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31T00:29:58+00:00"
-    },
-    {
       "id": "b541d9a89dab250eab5e",
       "source": "BBC News",
       "title": "'The necktie is dead': How US midterm candidates are dressing for votes",
@@ -327,20 +327,6 @@
       "published": "2026-10-30T16:42:00+00:00"
     },
     {
-      "id": "c0b8aa3bebd1f289e490",
-      "source": "BBC News",
-      "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
-      "url": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T15:17:11+00:00"
-    },
-    {
-      "id": "fe6351f30560e9313c9f",
-      "source": "BBC News",
-      "title": "Six dead after helicopter crashes in northern Indian state",
-      "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T15:06:05+00:00"
-    },
-    {
       "id": "3d5ba911bf55a5f70244",
       "source": "BBC News",
       "title": "Spain transport minister says he won't resign over high-speed rail disaster",
@@ -362,32 +348,11 @@
       "published": "2026-10-30T12:27:28+00:00"
     },
     {
-      "id": "6d81780d073d82f5a857",
-      "source": "BBC News",
-      "title": "China denies allegations of spy operation targeting Nvidia CEO",
-      "url": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T12:20:04+00:00"
-    },
-    {
       "id": "6d7a91dccb406015676d",
       "source": "BBC News",
       "title": "What's at stake for Trump in the US midterms?",
       "url": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T10:19:48+00:00"
-    },
-    {
-      "id": "0acca0bf72a5a186ad13",
-      "source": "BBC News",
-      "title": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
-      "url": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T07:53:38+00:00"
-    },
-    {
-      "id": "3d0c79333c752babaf92",
-      "source": "BBC News",
-      "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
-      "url": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T06:02:23+00:00"
     }
   ]
 }
