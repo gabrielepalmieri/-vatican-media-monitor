@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-31T13:15:28.475602+00:00",
+  "updated_at": "2026-10-31T13:20:22.434728+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-31T13:15:28.475602+00:00"
+      "checked_at": "2026-10-31T13:20:22.434728+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-31T13:15:28.475602+00:00"
+      "checked_at": "2026-10-31T13:20:22.434728+00:00"
     }
   },
   "items": [
+    {
+      "id": "2a693af995b6e889c302",
+      "source": "TGcom24",
+      "title": "Zelensky: \"Rientrati in Ucraina i residenti evacuati da Oleshky\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-russia-guerra-ultime-notizie-31-ottobre_118369921-202602k.shtml",
+      "published": "2026-10-31T13:16:00+00:00"
+    },
     {
       "id": "84d7ab542650f3cf0af1",
       "source": "BBC News",
@@ -318,13 +325,6 @@
       "title": "Corteo a Bologna, tangenziale e autostrada liberate dopo tre ore",
       "url": "https://www.tgcom24.mediaset.it/cronaca/sciopero-generale-30-ottobre-cortei-trasporti_118332719-202602k.shtml",
       "published": "2026-10-30T16:10:00+00:00"
-    },
-    {
-      "id": "5cff89561110981771fc",
-      "source": "TGcom24",
-      "title": "Ucraina, Kiev: \"Partiti i civili evacuati da Oleshky\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-russia-guerra-ultime-notizie-30-ottobre_118332912-202602k.shtml",
-      "published": "2026-10-30T15:48:00+00:00"
     },
     {
       "id": "c0b8aa3bebd1f289e490",
