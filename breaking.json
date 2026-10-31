@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-31T07:30:38.781863+00:00",
+  "updated_at": "2026-10-31T07:35:15.895986+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-31T07:30:38.781863+00:00"
+      "checked_at": "2026-10-31T07:35:15.895986+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-31T07:30:38.781863+00:00"
+      "checked_at": "2026-10-31T07:35:15.895986+00:00"
     }
   },
   "items": [
+    {
+      "id": "ad6e2bf950a88241c1cb",
+      "source": "TGcom24",
+      "title": "Incidente ferroviario in Spagna, Daniela Millán Parlanti è la seconda italiana dispersa",
+      "url": "https://www.tgcom24.mediaset.it/mondo/incidente-ferroviario-toledo-italiana-dispersa_118370646-202602k.shtml",
+      "published": "2026-10-31T07:30:00+00:00"
+    },
     {
       "id": "06b283ab6c76571538bb",
       "source": "TGcom24",
@@ -194,13 +201,6 @@
       "published": "2026-10-30T20:05:00+00:00"
     },
     {
-      "id": "8abb9b550b3dbebc0eb1",
-      "source": "TGcom24",
-      "title": "Cortei a Torino, cariche in pieno centro dopo un fitto lancio di bottiglie",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/sciopero-generale-30-ottobre-cortei-trasporti_118332719-202602k.shtml",
-      "published": "2026-10-30T19:33:00+00:00"
-    },
-    {
       "id": "5c8a41ec9beb539394ba",
       "source": "TGcom24",
       "title": "Cortei a Milano, anche l'eurodeputata Ilaria Salis ha preso parte ai presidi",
@@ -255,13 +255,6 @@
       "title": "Ucraina, Kiev: \"Partiti i civili evacuati da Oleshky\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-russia-guerra-ultime-notizie-30-ottobre_118332912-202602k.shtml",
       "published": "2026-10-30T15:48:00+00:00"
-    },
-    {
-      "id": "7d098e019bb9514dbdda",
-      "source": "TGcom24",
-      "title": "Corteo a Milano, manifestanti via dalla tangenziale: cori contro la polizia",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/sciopero-generale-30-ottobre-cortei-trasporti_118332719-202602k.shtml",
-      "published": "2026-10-30T15:22:00+00:00"
     },
     {
       "id": "c0b8aa3bebd1f289e490",
@@ -367,6 +360,13 @@
       "title": "Istat, il Pil è fermo nel terzo trimestre",
       "url": "https://www.tgcom24.mediaset.it/economia/istat-pil-fermo-terzo-trimestre-2026_118341559-202602k.shtml",
       "published": "2026-10-30T09:40:00+00:00"
+    },
+    {
+      "id": "b52e70375ae87045873b",
+      "source": "TGcom24",
+      "title": "Elicottero precipitato, Giorgia Meloni ricorda i quattro militari morti",
+      "url": "https://www.tgcom24.mediaset.it/politica/elicottero-precipitato-giorgia-meloni-ricorda-militari-morti_118341159-202602k.shtml",
+      "published": "2026-10-30T09:15:00+00:00"
     },
     {
       "id": "0acca0bf72a5a186ad13",
