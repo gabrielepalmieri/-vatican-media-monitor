@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-31T18:25:17.086830+00:00",
+  "updated_at": "2026-10-31T18:30:43.095828+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-31T18:25:17.086830+00:00"
+      "checked_at": "2026-10-31T18:30:43.095828+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-31T18:25:17.086830+00:00"
+      "checked_at": "2026-10-31T18:30:43.095828+00:00"
     }
   },
   "items": [
+    {
+      "id": "ac18499e628de53615a1",
+      "source": "TGcom24",
+      "title": "Mosca, allarme attentato al museo Tsaritsyno: edificio evacuato",
+      "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-russia-guerra-ultime-notizie-31-ottobre_118369921-202602k.shtml",
+      "published": "2026-10-31T18:25:00+00:00"
+    },
     {
       "id": "84d7ab542650f3cf0af1",
       "source": "BBC News",
@@ -290,13 +297,6 @@
       "title": "Piantedosi sui cortei: \"Nonostante i violenti, garantito diritto a manifestare\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/sciopero-generale-30-ottobre-cortei-trasporti_118332719-202602k.shtml",
       "published": "2026-10-30T22:56:00+00:00"
-    },
-    {
-      "id": "66e71822e0622bead0c7",
-      "source": "TGcom24",
-      "title": "Cambiano Lotto e Superenalotto con la Manovra: quinta estrazione settimanale",
-      "url": "https://www.tgcom24.mediaset.it/economia/targa-personalizzata-lotto-superenalotto_118368306-202602k.shtml",
-      "published": "2026-10-30T22:18:00+00:00"
     },
     {
       "id": "b0053581dcb7ff7d9eef",
