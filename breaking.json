@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-31T11:30:39.502242+00:00",
+  "updated_at": "2026-10-31T11:35:16.684461+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-31T11:30:39.502242+00:00"
+      "checked_at": "2026-10-31T11:35:16.684461+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-31T11:30:39.502242+00:00"
+      "checked_at": "2026-10-31T11:35:16.684461+00:00"
     }
   },
   "items": [
+    {
+      "id": "84d7ab542650f3cf0af1",
+      "source": "BBC News",
+      "title": "Evacuated Ukrainians from Russian-occupied Oleshky arrive in Belarus",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T11:18:14+00:00"
+    },
     {
       "id": "375a731f215a724d8f70",
       "source": "TGcom24",
@@ -52,13 +59,6 @@
       "title": "Imperia, auto precipita in un burrone: morto ragazzo di 16 anni, ferito il padre",
       "url": "https://www.tgcom24.mediaset.it/cronaca/imperia-auto-burrone-morto-ragazzo-16-anni_118373094-202602k.shtml",
       "published": "2026-10-31T09:05:00+00:00"
-    },
-    {
-      "id": "8913cc02b441175924fc",
-      "source": "BBC News",
-      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-      "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31T08:49:35+00:00"
     },
     {
       "id": "899c9b7f82846172b0dc",
