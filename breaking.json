@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-31T15:25:17.458422+00:00",
+  "updated_at": "2026-10-31T15:30:39.724422+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-31T15:25:17.458422+00:00"
+      "checked_at": "2026-10-31T15:30:39.724422+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-31T15:25:17.458422+00:00"
+      "checked_at": "2026-10-31T15:30:39.724422+00:00"
     }
   },
   "items": [
+    {
+      "id": "4f3d90d8e04850f926c2",
+      "source": "TGcom24",
+      "title": "Violente proteste in Albania, sassi e molotov contro la polizia a Tirana",
+      "url": "https://www.tgcom24.mediaset.it/mondo/violente-proteste-in-albania-sassi-e-molotov-contro-la-polizia-a-tirana_118388318-202602k.shtml",
+      "published": "2026-10-31T15:22:00+00:00"
+    },
     {
       "id": "4689f7389ba9cb5886dd",
       "source": "BBC News",
@@ -311,13 +318,6 @@
       "title": "Cortei a Milano, anche l'eurodeputata Ilaria Salis ha preso parte ai presidi",
       "url": "https://www.tgcom24.mediaset.it/cronaca/cortei-milano-salis-presidio-studenti_118362780-202602k.shtml",
       "published": "2026-10-30T19:01:00+00:00"
-    },
-    {
-      "id": "e1cb57cb868d5498577c",
-      "source": "TGcom24",
-      "title": "Tentano di sfondare lo sbarramento di polizia, otto fermati al corteo di Roma",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/sciopero-generale-30-ottobre-cortei-trasporti_118332719-202602k.shtml",
-      "published": "2026-10-30T18:32:00+00:00"
     },
     {
       "id": "6889ebf9b1fbfac4505f",
