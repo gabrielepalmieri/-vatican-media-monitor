@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-31T12:20:21.799205+00:00",
+  "updated_at": "2026-10-31T12:25:18.090995+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-31T12:20:21.799205+00:00"
+      "checked_at": "2026-10-31T12:25:18.090995+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-31T12:20:21.799205+00:00"
+      "checked_at": "2026-10-31T12:25:18.090995+00:00"
     }
   },
   "items": [
+    {
+      "id": "18f5c4a3358375dd21b5",
+      "source": "BBC News",
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T12:21:25+00:00"
+    },
     {
       "id": "84d7ab542650f3cf0af1",
       "source": "BBC News",
@@ -164,13 +171,6 @@
       "title": "Police deployed during stand-off over control of top Poland court",
       "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-31T01:11:43+00:00"
-    },
-    {
-      "id": "18f5c4a3358375dd21b5",
-      "source": "BBC News",
-      "title": "US approves sale of 500 Patriot missiles to Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31T00:40:43+00:00"
     },
     {
       "id": "5fe53539acd73a396bd3",
