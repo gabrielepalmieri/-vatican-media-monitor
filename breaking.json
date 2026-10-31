@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-31T21:25:17.078016+00:00",
+  "updated_at": "2026-10-31T21:30:43.650663+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-31T21:25:17.078016+00:00"
+      "checked_at": "2026-10-31T21:30:43.650663+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-31T21:25:17.078016+00:00"
+      "checked_at": "2026-10-31T21:30:43.650663+00:00"
     }
   },
   "items": [
+    {
+      "id": "40e022561b124adaae64",
+      "source": "BBC News",
+      "title": "Thousands demonstrate in Paris as protests spread across Europe",
+      "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T21:29:01+00:00"
+    },
     {
       "id": "c633d3f710dec21d0d66",
       "source": "TGcom24",
@@ -31,13 +38,6 @@
       "title": "Oleshky, il racconto degli evacuati: \"Costretti a mangiare cani dalla fame\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/evacuati-oleshky-cani-fame_118389268-202602k.shtml",
       "published": "2026-10-31T19:45:00+00:00"
-    },
-    {
-      "id": "40e022561b124adaae64",
-      "source": "BBC News",
-      "title": "Clashes erupt between police and protesters in Paris",
-      "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31T19:37:43+00:00"
     },
     {
       "id": "a26d25e40754bf5d57ae",
