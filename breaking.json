@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-31T00:25:18.118904+00:00",
+  "updated_at": "2026-10-31T00:30:41.669713+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-10-31T00:25:18.118904+00:00"
+      "checked_at": "2026-10-31T00:30:41.669713+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-31T00:25:18.118904+00:00"
+      "checked_at": "2026-10-31T00:30:41.669713+00:00"
     }
   },
   "items": [
+    {
+      "id": "5fe53539acd73a396bd3",
+      "source": "BBC News",
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T00:29:58+00:00"
+    },
     {
       "id": "b541d9a89dab250eab5e",
       "source": "BBC News",
@@ -73,13 +80,6 @@
       "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
       "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T21:13:14+00:00"
-    },
-    {
-      "id": "5fe53539acd73a396bd3",
-      "source": "BBC News",
-      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T20:55:18+00:00"
     },
     {
       "id": "5ef8ff9fa9d0b5486033",
