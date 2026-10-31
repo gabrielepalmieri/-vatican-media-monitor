@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-31T13:10:22.996905+00:00",
+  "updated_at": "2026-10-31T13:15:28.475602+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-31T13:10:22.996905+00:00"
+      "checked_at": "2026-10-31T13:15:28.475602+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-31T13:10:22.996905+00:00"
+      "checked_at": "2026-10-31T13:15:28.475602+00:00"
     }
   },
   "items": [
+    {
+      "id": "84d7ab542650f3cf0af1",
+      "source": "BBC News",
+      "title": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T13:12:46+00:00"
+    },
     {
       "id": "cc09c857e3a4742b97b0",
       "source": "BBC News",
@@ -31,13 +38,6 @@
       "title": "US approves sale of 500 Patriot missiles to Ukraine",
       "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-31T12:21:25+00:00"
-    },
-    {
-      "id": "84d7ab542650f3cf0af1",
-      "source": "BBC News",
-      "title": "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31T12:05:04+00:00"
     },
     {
       "id": "5313e6bb537a674d0b8b",
