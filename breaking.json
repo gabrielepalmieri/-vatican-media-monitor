@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-31T01:30:41.128992+00:00",
+  "updated_at": "2026-10-31T01:35:16.981127+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-10-31T01:30:41.128992+00:00"
+      "checked_at": "2026-10-31T01:35:16.981127+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-31T01:30:41.128992+00:00"
+      "checked_at": "2026-10-31T01:35:16.981127+00:00"
     }
   },
   "items": [
+    {
+      "id": "7c5e9f960a1bccddb2bf",
+      "source": "BBC News",
+      "title": "Responsible or panicked? Meet the people around the world already preparing for crisis",
+      "url": "https://www.bbc.co.uk/news/articles/ckreypn92w49o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T01:32:33+00:00"
+    },
     {
       "id": "5ef8ff9fa9d0b5486033",
       "source": "BBC News",
@@ -430,13 +437,6 @@
       "title": "Student-backed election winners demand sweeping resignations in Serbia",
       "url": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T00:17:28+00:00"
-    },
-    {
-      "id": "b23fde5dd8e2613860ad",
-      "source": "BBC News",
-      "title": "Indians turn to start-ups to care for ageing parents as young become more mobile",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2qr4rp1xeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T00:02:35+00:00"
     },
     {
       "id": "3783191cec6c235a69f0",
