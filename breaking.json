@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-31T15:50:22.748687+00:00",
+  "updated_at": "2026-10-31T15:55:18.673477+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-31T15:50:22.748687+00:00"
+      "checked_at": "2026-10-31T15:55:18.673477+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-31T15:50:22.748687+00:00"
+      "checked_at": "2026-10-31T15:55:18.673477+00:00"
     }
   },
   "items": [
+    {
+      "id": "84d7ab542650f3cf0af1",
+      "source": "BBC News",
+      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T15:50:41+00:00"
+    },
     {
       "id": "ab54a6c0dd0df432878b",
       "source": "TGcom24",
@@ -38,13 +45,6 @@
       "title": "Manovra, tagli alle risorse dei ministeri per 4,7 miliardi in tre anni",
       "url": "https://www.tgcom24.mediaset.it/politica/manovra-tagli-alle-risorse-dei-ministeri-per-4-7-miliardi-in-tre-anni_118387168-202602k.shtml",
       "published": "2026-10-31T15:03:00+00:00"
-    },
-    {
-      "id": "84d7ab542650f3cf0af1",
-      "source": "BBC News",
-      "title": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31T14:53:34+00:00"
     },
     {
       "id": "30a1a9a81257e88f2457",
