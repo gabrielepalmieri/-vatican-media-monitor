@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-31T22:45:27.620921+00:00",
+  "updated_at": "2026-10-31T22:50:22.881612+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-31T22:45:27.620921+00:00"
+      "checked_at": "2026-10-31T22:50:22.881612+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-31T22:45:27.620921+00:00"
+      "checked_at": "2026-10-31T22:50:22.881612+00:00"
     }
   },
   "items": [
+    {
+      "id": "490b3a3c818a327cb964",
+      "source": "TGcom24",
+      "title": "Polonia, scontro tra premier e presidente sulla nomina dei giudici",
+      "url": "https://www.tgcom24.mediaset.it/mondo/polonia-scontro-premier-presidente_118410483-202602k.shtml",
+      "published": "2026-10-31T22:30:00+00:00"
+    },
     {
       "id": "6fba5f5244e126b02361",
       "source": "BBC News",
@@ -26,11 +33,39 @@
       "published": "2026-10-31T21:29:01+00:00"
     },
     {
+      "id": "c633d3f710dec21d0d66",
+      "source": "TGcom24",
+      "title": "Roma, bimbo di un anno e mezzo muore soffocato da un pezzo di mela",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/roma-bimbo-muore-soffocato-mela_118407275-202602k.shtml",
+      "published": "2026-10-31T21:15:00+00:00"
+    },
+    {
+      "id": "37d0843d930935a4dcc5",
+      "source": "TGcom24",
+      "title": "Usa, archiviata causa di Trump contro Wall Street Journal sulla lettera a Epstein",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-archiviata-causa-trump-epstein_118406051-202602k.shtml",
+      "published": "2026-10-31T20:38:00+00:00"
+    },
+    {
+      "id": "9136043e3d28fe680dea",
+      "source": "TGcom24",
+      "title": "Oleshky, il racconto degli evacuati: \"Costretti a mangiare cani dalla fame\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/evacuati-oleshky-cani-fame_118389268-202602k.shtml",
+      "published": "2026-10-31T19:45:00+00:00"
+    },
+    {
       "id": "a26d25e40754bf5d57ae",
       "source": "BBC News",
       "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
       "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-31T19:22:26+00:00"
+    },
+    {
+      "id": "ac18499e628de53615a1",
+      "source": "TGcom24",
+      "title": "Mosca, allarme attentato al museo Tsaritsyno: edificio evacuato",
+      "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-russia-guerra-ultime-notizie-31-ottobre_118369921-202602k.shtml",
+      "published": "2026-10-31T18:25:00+00:00"
     },
     {
       "id": "84d7ab542650f3cf0af1",
@@ -40,11 +75,46 @@
       "published": "2026-10-31T17:53:35+00:00"
     },
     {
+      "id": "560477a5571de8d99c3b",
+      "source": "TGcom24",
+      "title": "Guerra Iran, Rubio: \"Stati Uniti aperti a una soluzione diplomatica\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-31-ottobre_118369181-202602k.shtml",
+      "published": "2026-10-31T17:41:00+00:00"
+    },
+    {
+      "id": "2e98f511e34ae9035e72",
+      "source": "TGcom24",
+      "title": "Elicottero caduto in Bosnia, aperta una doppia inchiesta sull'incidente",
+      "url": "https://www.tgcom24.mediaset.it/mondo/elicottero-caduto-bosnia-doppia-inchiesta_118391809-202602k.shtml",
+      "published": "2026-10-31T17:03:00+00:00"
+    },
+    {
       "id": "18f4d51fa49376c03b60",
       "source": "BBC News",
       "title": "Emotional reunions with loved ones for Oleshky evacuees",
       "url": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-31T16:55:47+00:00"
+    },
+    {
+      "id": "21608ea2b09e820318d7",
+      "source": "TGcom24",
+      "title": "Cortei a Parigi, sale la tensione: lacrimogeni e idranti contro i casseurs",
+      "url": "https://www.tgcom24.mediaset.it/mondo/francia-terzo-atto-delle-proteste_118374375-202602k.shtml",
+      "published": "2026-10-31T16:37:00+00:00"
+    },
+    {
+      "id": "ab54a6c0dd0df432878b",
+      "source": "TGcom24",
+      "title": "Ambasciata Usa a Mosca: \"Allerta per possibile attacco con molte vittime\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-russia-guerra-ultime-notizie-31-ottobre_118369921-202602k.shtml",
+      "published": "2026-10-31T15:42:00+00:00"
+    },
+    {
+      "id": "4f3d90d8e04850f926c2",
+      "source": "TGcom24",
+      "title": "Violente proteste in Albania, sassi e molotov contro la polizia a Tirana",
+      "url": "https://www.tgcom24.mediaset.it/mondo/violente-proteste-in-albania-sassi-e-molotov-contro-la-polizia-a-tirana_118388318-202602k.shtml",
+      "published": "2026-10-31T15:22:00+00:00"
     },
     {
       "id": "4689f7389ba9cb5886dd",
@@ -54,11 +124,32 @@
       "published": "2026-10-31T15:16:20+00:00"
     },
     {
+      "id": "fbdda0b14fb38ee2d063",
+      "source": "TGcom24",
+      "title": "Manovra, tagli alle risorse dei ministeri per 4,7 miliardi in tre anni",
+      "url": "https://www.tgcom24.mediaset.it/politica/manovra-tagli-alle-risorse-dei-ministeri-per-4-7-miliardi-in-tre-anni_118387168-202602k.shtml",
+      "published": "2026-10-31T15:03:00+00:00"
+    },
+    {
       "id": "30a1a9a81257e88f2457",
       "source": "BBC News",
       "title": "Ethiopian PM puts ministers through military training",
       "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-31T14:28:15+00:00"
+    },
+    {
+      "id": "b5fb1b4ebee77fb79509",
+      "source": "TGcom24",
+      "title": "Reggio Emilia, perseguita la ex con mille telefonate: \"Ti sfregio con l'acido\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/reggio-emilia-minaccia-ex-compagna_118384175-202602k.shtml",
+      "published": "2026-10-31T14:07:00+00:00"
+    },
+    {
+      "id": "2a693af995b6e889c302",
+      "source": "TGcom24",
+      "title": "Zelensky: \"Rientrati in Ucraina i residenti evacuati da Oleshky\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-russia-guerra-ultime-notizie-31-ottobre_118369921-202602k.shtml",
+      "published": "2026-10-31T13:16:00+00:00"
     },
     {
       "id": "cc09c857e3a4742b97b0",
@@ -68,11 +159,67 @@
       "published": "2026-10-31T12:50:45+00:00"
     },
     {
+      "id": "7f66c670626653e0305b",
+      "source": "TGcom24",
+      "title": "Danneggiò l'Elefantino del Bernini per un selfie: 25enne condannato a 10 mesi",
+      "url": "https://www.tgcom24.mediaset.it/2026/video/danneggio-l-elefantino-del-bernini-25enne-condannato-a-10-mesi_118380185-02k.shtml",
+      "published": "2026-10-31T12:30:00+00:00"
+    },
+    {
+      "id": "5313e6bb537a674d0b8b",
+      "source": "TGcom24",
+      "title": "Sicurezza sul lavoro, al Colosseo stop a sub appalti ed edilizia acrobatica",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/colosseo-roma-cantieri-operaio-morto-intesa-sicurezza_118379463-202602k.shtml",
+      "published": "2026-10-31T11:56:00+00:00"
+    },
+    {
+      "id": "375a731f215a724d8f70",
+      "source": "TGcom24",
+      "title": "Khamenei a Trump sui nuovi attacchi: \"Risponderemo senza restrizioni geografiche\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-31-ottobre_118369181-202602k.shtml",
+      "published": "2026-10-31T11:16:00+00:00"
+    },
+    {
+      "id": "2ae152f79e9ac9748556",
+      "source": "TGcom24",
+      "title": "Natale, è già caro-voli: 430 euro per un Milano-Reggio Calabria",
+      "url": "https://www.tgcom24.mediaset.it/economia/caro-voli-festivita-natale-prezzi-risparmio-scalo_118375149-202602k.shtml",
+      "published": "2026-10-31T10:50:00+00:00"
+    },
+    {
+      "id": "24771dadaf768b4b8814",
+      "source": "TGcom24",
+      "title": "Cgia Mestre: \"Gli scioperi di venerdì sono costati circa un miliardo di euro\"",
+      "url": "https://www.tgcom24.mediaset.it/economia/cgia-scioperi-proteste-italia-costi-produttivita-perdite-lavoro_118374372-202602k.shtml",
+      "published": "2026-10-31T10:10:00+00:00"
+    },
+    {
+      "id": "5f5cded2046951c41192",
+      "source": "TGcom24",
+      "title": "Cortei 30 ottobre, Digos e Postale effettuano 60 perquisizioni in 23 città",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/cortei-30-ottobre-60-perquisizioni-in-23-citta_118374949-202602k.shtml",
+      "published": "2026-10-31T09:30:00+00:00"
+    },
+    {
       "id": "329472e7f6c9639b6925",
       "source": "BBC News",
       "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
       "url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-31T09:16:14+00:00"
+    },
+    {
+      "id": "2425e6233d2bdc8a1533",
+      "source": "TGcom24",
+      "title": "Imperia, auto precipita in un burrone: morto ragazzo di 16 anni, ferito il padre",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/imperia-auto-burrone-morto-ragazzo-16-anni_118373094-202602k.shtml",
+      "published": "2026-10-31T09:05:00+00:00"
+    },
+    {
+      "id": "899c9b7f82846172b0dc",
+      "source": "TGcom24",
+      "title": "Lucca, famiglia con due bambini di uno e tre anni intossicata dal monossido",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/lucca-famiglia-con-due-bambini-di-uno-e-tre-anni-intossicata-dal-monossido_118373087-202602k.shtml",
+      "published": "2026-10-31T08:06:00+00:00"
     },
     {
       "id": "b8751963a5742c1b7571",
@@ -145,32 +292,11 @@
       "published": "2026-10-30T23:26:16+00:00"
     },
     {
-      "id": "a9681f0a72ca70ff988b",
-      "source": "TGcom24",
-      "title": "Frosinone, lite in stazione finisce a coltellate: morto un 48enne",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/frosinone-lite-stazione-accoltellamento_118413017-202602k.shtml",
-      "published": "2026-10-30T23:00:00+00:00"
-    },
-    {
-      "id": "7271ff9887ecb4a12ef0",
-      "source": "TGcom24",
-      "title": "Polonia, scontro tra premier e presidente sulla nomina dei giudici",
-      "url": "https://www.tgcom24.mediaset.it/mondo/polonia-scontro-premier-presidente_118410483-202602k.shtml",
-      "published": "2026-10-30T22:30:00+00:00"
-    },
-    {
       "id": "b0053581dcb7ff7d9eef",
       "source": "BBC News",
       "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
       "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T22:11:52+00:00"
-    },
-    {
-      "id": "821ff8d9ab71711c68c0",
-      "source": "TGcom24",
-      "title": "Roma, bimbo di un anno e mezzo muore soffocato da un pezzo di mela",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/roma-bimbo-muore-soffocato-mela_118407275-202602k.shtml",
-      "published": "2026-10-30T21:15:00+00:00"
     },
     {
       "id": "3cc277ca907a724b4388",
@@ -187,39 +313,11 @@
       "published": "2026-10-30T20:41:51+00:00"
     },
     {
-      "id": "40792a757d29ee152d50",
-      "source": "TGcom24",
-      "title": "Usa, archiviata causa di Trump contro Wall Street Journal sulla lettera a Epstein",
-      "url": "https://www.tgcom24.mediaset.it/mondo/usa-archiviata-causa-trump-epstein_118406051-202602k.shtml",
-      "published": "2026-10-30T20:38:00+00:00"
-    },
-    {
       "id": "9d9cc9e7d1a58325b396",
       "source": "BBC News",
       "title": "US tech stocks see sharp falls as AI spending nears $1tn",
       "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T20:34:46+00:00"
-    },
-    {
-      "id": "dcd52d6c5a209045ffff",
-      "source": "TGcom24",
-      "title": "Oleshky, il racconto degli evacuati: \"Costretti a mangiare cani dalla fame\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/evacuati-oleshky-cani-fame_118389268-202602k.shtml",
-      "published": "2026-10-30T19:45:00+00:00"
-    },
-    {
-      "id": "1cf697c75d7248e461fd",
-      "source": "TGcom24",
-      "title": "Mosca, allarme attentato al museo Tsaritsyno: edificio evacuato",
-      "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-russia-guerra-ultime-notizie-31-ottobre_118369921-202602k.shtml",
-      "published": "2026-10-30T18:25:00+00:00"
-    },
-    {
-      "id": "d186739900e4f2730443",
-      "source": "TGcom24",
-      "title": "Guerra Iran, Rubio: \"Stati Uniti aperti a una soluzione diplomatica\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-31-ottobre_118369181-202602k.shtml",
-      "published": "2026-10-30T17:41:00+00:00"
     },
     {
       "id": "6889ebf9b1fbfac4505f",
@@ -229,88 +327,11 @@
       "published": "2026-10-30T17:07:19+00:00"
     },
     {
-      "id": "5cf206043cc2537a2a73",
-      "source": "TGcom24",
-      "title": "Elicottero caduto in Bosnia, aperta una doppia inchiesta sull'incidente",
-      "url": "https://www.tgcom24.mediaset.it/mondo/elicottero-caduto-bosnia-doppia-inchiesta_118391809-202602k.shtml",
-      "published": "2026-10-30T17:03:00+00:00"
-    },
-    {
-      "id": "0f010e0fdd5de5e779ff",
-      "source": "TGcom24",
-      "title": "Cortei a Parigi, sale la tensione: lacrimogeni e idranti contro i casseurs",
-      "url": "https://www.tgcom24.mediaset.it/mondo/francia-terzo-atto-delle-proteste_118374375-202602k.shtml",
-      "published": "2026-10-30T16:37:00+00:00"
-    },
-    {
-      "id": "2ea398bebfc51a511fa0",
-      "source": "TGcom24",
-      "title": "Ambasciata Usa a Mosca: \"Allerta per possibile attacco con molte vittime\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-russia-guerra-ultime-notizie-31-ottobre_118369921-202602k.shtml",
-      "published": "2026-10-30T15:42:00+00:00"
-    },
-    {
-      "id": "4649d65d11a1ecf2ee38",
-      "source": "TGcom24",
-      "title": "Violente proteste in Albania, sassi e molotov contro la polizia a Tirana",
-      "url": "https://www.tgcom24.mediaset.it/mondo/violente-proteste-in-albania-sassi-e-molotov-contro-la-polizia-a-tirana_118388318-202602k.shtml",
-      "published": "2026-10-30T15:22:00+00:00"
-    },
-    {
-      "id": "005c8c912aac6ba3ede7",
-      "source": "TGcom24",
-      "title": "Manovra, tagli alle risorse dei ministeri per 4,7 miliardi in tre anni",
-      "url": "https://www.tgcom24.mediaset.it/politica/manovra-tagli-alle-risorse-dei-ministeri-per-4-7-miliardi-in-tre-anni_118387168-202602k.shtml",
-      "published": "2026-10-30T15:03:00+00:00"
-    },
-    {
       "id": "3638e9b01261dd7b97b6",
       "source": "BBC News",
       "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
       "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T14:48:22+00:00"
-    },
-    {
-      "id": "7b9089016c44dcfb77ff",
-      "source": "TGcom24",
-      "title": "Reggio Emilia, perseguita la ex con mille telefonate: \"Ti sfregio con l'acido\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/reggio-emilia-minaccia-ex-compagna_118384175-202602k.shtml",
-      "published": "2026-10-30T14:07:00+00:00"
-    },
-    {
-      "id": "4fdd6cef413904a8394f",
-      "source": "TGcom24",
-      "title": "Zelensky: \"Rientrati in Ucraina i residenti evacuati da Oleshky\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-russia-guerra-ultime-notizie-31-ottobre_118369921-202602k.shtml",
-      "published": "2026-10-30T13:16:00+00:00"
-    },
-    {
-      "id": "c5a8dd77b6ec5c89b618",
-      "source": "TGcom24",
-      "title": "Danneggiò l'Elefantino del Bernini per un selfie: 25enne condannato a 10 mesi",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/danneggio-l-elefantino-del-bernini-25enne-condannato-a-10-mesi_118380185-02k.shtml",
-      "published": "2026-10-30T12:30:00+00:00"
-    },
-    {
-      "id": "9e0c37e2a16b33e00408",
-      "source": "TGcom24",
-      "title": "Sicurezza sul lavoro, al Colosseo stop a sub appalti ed edilizia acrobatica",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/colosseo-roma-cantieri-operaio-morto-intesa-sicurezza_118379463-202602k.shtml",
-      "published": "2026-10-30T11:56:00+00:00"
-    },
-    {
-      "id": "91191fc2a09e2b772945",
-      "source": "TGcom24",
-      "title": "Khamenei a Trump sui nuovi attacchi: \"Risponderemo senza restrizioni geografiche\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-31-ottobre_118369181-202602k.shtml",
-      "published": "2026-10-30T11:16:00+00:00"
-    },
-    {
-      "id": "cb053687253daa70afa5",
-      "source": "TGcom24",
-      "title": "Natale, è già caro-voli: 430 euro per un Milano-Reggio Calabria",
-      "url": "https://www.tgcom24.mediaset.it/economia/caro-voli-festivita-natale-prezzi-risparmio-scalo_118375149-202602k.shtml",
-      "published": "2026-10-30T10:50:00+00:00"
     }
   ]
 }
