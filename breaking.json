@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-10-31T09:05:18.417276+00:00",
+  "updated_at": "2026-10-31T09:10:25.738731+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-10-31T09:05:18.417276+00:00"
+      "checked_at": "2026-10-31T09:10:25.738731+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-10-31T09:05:18.417276+00:00"
+      "checked_at": "2026-10-31T09:10:25.738731+00:00"
     }
   },
   "items": [
+    {
+      "id": "2425e6233d2bdc8a1533",
+      "source": "TGcom24",
+      "title": "Imperia, auto precipita in un burrone: morto ragazzo di 16 anni, ferito il padre",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/imperia-auto-burrone-morto-ragazzo-16-anni_118373094-202602k.shtml",
+      "published": "2026-10-31T09:05:00+00:00"
+    },
     {
       "id": "8913cc02b441175924fc",
       "source": "BBC News",
@@ -353,13 +360,6 @@
       "title": "What's at stake for Trump in the US midterms?",
       "url": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T10:19:48+00:00"
-    },
-    {
-      "id": "fed4ef07a5d68c63557d",
-      "source": "TGcom24",
-      "title": "Etiopia, attacchi con droni a un campo di sfollati: almeno 16 morti",
-      "url": "https://www.tgcom24.mediaset.it/mondo/etiopia-attacco-droni-campo-sfollati_118342773-202602k.shtml",
-      "published": "2026-10-30T10:10:00+00:00"
     },
     {
       "id": "0acca0bf72a5a186ad13",
