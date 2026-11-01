@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-01T08:40:23.184349+00:00",
+  "updated_at": "2026-11-01T08:45:27.669596+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-01T08:40:23.184349+00:00"
+      "checked_at": "2026-11-01T08:45:27.669596+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-01T08:40:23.184349+00:00"
+      "checked_at": "2026-11-01T08:45:27.669596+00:00"
     }
   },
   "items": [
+    {
+      "id": "f6a0eadcf04d0e01ee68",
+      "source": "BBC News",
+      "title": "Shops looted as German cost of living protests turn violent",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T08:43:00+00:00"
+    },
     {
       "id": "504d7cdc7948d477ddf8",
       "source": "TGcom24",
       "title": "Como, fu trovata morta nella piscina di casa: arrestato l'ex marito",
       "url": "https://www.tgcom24.mediaset.it/cronaca/como-morta-piscina-arrestato-ex-marito_118419786-202602k.shtml",
       "published": "2026-11-01T08:30:00+00:00"
-    },
-    {
-      "id": "f6a0eadcf04d0e01ee68",
-      "source": "BBC News",
-      "title": "Shops looted as German cost of living protests turn violent",
-      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T07:36:18+00:00"
     },
     {
       "id": "b9c495599ca4dce75317",
@@ -332,13 +332,6 @@
       "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
       "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T21:13:14+00:00"
-    },
-    {
-      "id": "2c5e90ffbd4f5070154e",
-      "source": "BBC News",
-      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T20:41:51+00:00"
     }
   ]
 }
