@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-01T07:05:18.554094+00:00",
+  "updated_at": "2026-11-01T07:10:24.540558+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-01T07:05:18.554094+00:00"
+      "checked_at": "2026-11-01T07:10:24.540558+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-01T07:05:18.554094+00:00"
+      "checked_at": "2026-11-01T07:10:24.540558+00:00"
     }
   },
   "items": [
+    {
+      "id": "f6a0eadcf04d0e01ee68",
+      "source": "BBC News",
+      "title": "Shops looted as German cost of living protests turn violent",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T07:05:50+00:00"
+    },
     {
       "id": "b9c495599ca4dce75317",
       "source": "TGcom24",
@@ -24,13 +31,6 @@
       "title": "India's opposition set to hold mega rally seeking election chief's resignation",
       "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-01T07:00:55+00:00"
-    },
-    {
-      "id": "f6a0eadcf04d0e01ee68",
-      "source": "BBC News",
-      "title": "Shops looted as German cost of living protests turn violent",
-      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T06:30:59+00:00"
     },
     {
       "id": "e122bd3b235da7228da2",
