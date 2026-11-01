@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-01T11:10:24.394944+00:00",
+  "updated_at": "2026-11-01T11:15:27.735143+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-01T11:10:24.394944+00:00"
+      "checked_at": "2026-11-01T11:15:27.735143+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-01T11:10:24.394944+00:00"
+      "checked_at": "2026-11-01T11:15:27.735143+00:00"
     }
   },
   "items": [
+    {
+      "id": "644382f85ce7a35e2c23",
+      "source": "TGcom24",
+      "title": "Cagliari, palpeggiano una donna al semaforo nella notte di Halloween: arrestati due giovani",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/cagliari-violenza-sessuale-arrestati_118425582-202602k.shtml",
+      "published": "2026-11-01T11:11:00+00:00"
+    },
     {
       "id": "f6a0eadcf04d0e01ee68",
       "source": "BBC News",
@@ -255,13 +262,6 @@
       "title": "Ambasciata Usa a Mosca: \"Allerta per possibile attacco con molte vittime\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-russia-guerra-ultime-notizie-31-ottobre_118369921-202602k.shtml",
       "published": "2026-10-31T15:42:00+00:00"
-    },
-    {
-      "id": "4f3d90d8e04850f926c2",
-      "source": "TGcom24",
-      "title": "Violente proteste in Albania, sassi e molotov contro la polizia a Tirana",
-      "url": "https://www.tgcom24.mediaset.it/mondo/violente-proteste-in-albania-sassi-e-molotov-contro-la-polizia-a-tirana_118388318-202602k.shtml",
-      "published": "2026-10-31T15:22:00+00:00"
     },
     {
       "id": "4689f7389ba9cb5886dd",
