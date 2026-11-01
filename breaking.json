@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-01T00:15:29.050889+00:00",
+  "updated_at": "2026-11-01T00:20:24.001607+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-01T00:15:29.050889+00:00"
+      "checked_at": "2026-11-01T00:20:24.001607+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-01T00:15:29.050889+00:00"
+      "checked_at": "2026-11-01T00:20:24.001607+00:00"
     }
   },
   "items": [
+    {
+      "id": "59dd94ad58c39f20f557",
+      "source": "BBC News",
+      "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T00:12:07+00:00"
+    },
     {
       "id": "67a1f2168bccc761a191",
       "source": "TGcom24",
@@ -325,27 +332,6 @@
       "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
       "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30T20:41:51+00:00"
-    },
-    {
-      "id": "9d9cc9e7d1a58325b396",
-      "source": "BBC News",
-      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T20:34:46+00:00"
-    },
-    {
-      "id": "6889ebf9b1fbfac4505f",
-      "source": "BBC News",
-      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-      "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T17:07:19+00:00"
-    },
-    {
-      "id": "3638e9b01261dd7b97b6",
-      "source": "BBC News",
-      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
-      "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30T14:48:22+00:00"
     }
   ]
 }
