@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-01T07:00:57.859655+00:00",
+  "updated_at": "2026-11-01T07:05:18.554094+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-01T07:00:57.859655+00:00"
+      "checked_at": "2026-11-01T07:05:18.554094+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-01T07:00:57.859655+00:00"
+      "checked_at": "2026-11-01T07:05:18.554094+00:00"
     }
   },
   "items": [
+    {
+      "id": "b9c495599ca4dce75317",
+      "source": "TGcom24",
+      "title": "Bulgaria, aperti i seggi per ballottaggio presidenziali",
+      "url": "https://www.tgcom24.mediaset.it/mondo/ballottaggio-presidenziali-bulgaria_118418997-202602k.shtml",
+      "published": "2026-11-01T07:01:00+00:00"
+    },
+    {
+      "id": "59dd94ad58c39f20f557",
+      "source": "BBC News",
+      "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T07:00:55+00:00"
+    },
     {
       "id": "f6a0eadcf04d0e01ee68",
       "source": "BBC News",
@@ -66,13 +80,6 @@
       "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
       "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-01T00:55:06+00:00"
-    },
-    {
-      "id": "59dd94ad58c39f20f557",
-      "source": "BBC News",
-      "title": "India's opposition set to hold mega rally seeking election chief's resignation",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T00:12:07+00:00"
     },
     {
       "id": "67a1f2168bccc761a191",
@@ -255,13 +262,6 @@
       "title": "Khamenei a Trump sui nuovi attacchi: \"Risponderemo senza restrizioni geografiche\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-31-ottobre_118369181-202602k.shtml",
       "published": "2026-10-31T11:16:00+00:00"
-    },
-    {
-      "id": "2ae152f79e9ac9748556",
-      "source": "TGcom24",
-      "title": "Natale, è già caro-voli: 430 euro per un Milano-Reggio Calabria",
-      "url": "https://www.tgcom24.mediaset.it/economia/caro-voli-festivita-natale-prezzi-risparmio-scalo_118375149-202602k.shtml",
-      "published": "2026-10-31T10:50:00+00:00"
     },
     {
       "id": "329472e7f6c9639b6925",
