@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-01T09:25:16.936978+00:00",
+  "updated_at": "2026-11-01T09:30:43.164466+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-01T09:25:16.936978+00:00"
+      "checked_at": "2026-11-01T09:30:43.164466+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-01T09:25:16.936978+00:00"
+      "checked_at": "2026-11-01T09:30:43.164466+00:00"
     }
   },
   "items": [
+    {
+      "id": "6fba5f5244e126b02361",
+      "source": "BBC News",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T09:28:06+00:00"
+    },
+    {
+      "id": "92ced4eadc132d4d3ba8",
+      "source": "TGcom24",
+      "title": "Brescia, devastante incendio divora albergo: 40 ospiti evacuati",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/ponte-di-legno-incendio-albergo-evacuati_118423146-202602k.shtml",
+      "published": "2026-11-01T09:27:00+00:00"
+    },
     {
       "id": "7e29d4c7c169e163a660",
       "source": "TGcom24",
@@ -122,13 +136,6 @@
       "title": "Polonia, scontro tra premier e presidente sulla nomina dei giudici",
       "url": "https://www.tgcom24.mediaset.it/mondo/polonia-scontro-premier-presidente_118410483-202602k.shtml",
       "published": "2026-10-31T22:30:00+00:00"
-    },
-    {
-      "id": "6fba5f5244e126b02361",
-      "source": "BBC News",
-      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31T22:11:45+00:00"
     },
     {
       "id": "40e022561b124adaae64",
@@ -248,13 +255,6 @@
       "title": "Reggio Emilia, perseguita la ex con mille telefonate: \"Ti sfregio con l'acido\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/reggio-emilia-minaccia-ex-compagna_118384175-202602k.shtml",
       "published": "2026-10-31T14:07:00+00:00"
-    },
-    {
-      "id": "2a693af995b6e889c302",
-      "source": "TGcom24",
-      "title": "Zelensky: \"Rientrati in Ucraina i residenti evacuati da Oleshky\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-russia-guerra-ultime-notizie-31-ottobre_118369921-202602k.shtml",
-      "published": "2026-10-31T13:16:00+00:00"
     },
     {
       "id": "329472e7f6c9639b6925",
