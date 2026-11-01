@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-01T13:10:25.969691+00:00",
+  "updated_at": "2026-11-01T13:15:28.577580+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-01T13:10:25.969691+00:00"
+      "checked_at": "2026-11-01T13:15:28.577580+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-01T13:10:25.969691+00:00"
+      "checked_at": "2026-11-01T13:15:28.577580+00:00"
     }
   },
   "items": [
+    {
+      "id": "6fba5f5244e126b02361",
+      "source": "BBC News",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T13:11:37+00:00"
+    },
     {
       "id": "e8185a884ff9971bcb92",
       "source": "TGcom24",
@@ -59,13 +66,6 @@
       "title": "Volo Palermo-Milano non parte, passeggeri evacuati per motivi di sicurezza",
       "url": "https://www.tgcom24.mediaset.it/cronaca/volo-palermo-milano-passeggeri-evacuati-sicurezza_118423485-202602k.shtml",
       "published": "2026-11-01T10:02:00+00:00"
-    },
-    {
-      "id": "6fba5f5244e126b02361",
-      "source": "BBC News",
-      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T09:28:06+00:00"
     },
     {
       "id": "92ced4eadc132d4d3ba8",
@@ -311,13 +311,6 @@
       "title": "Global nature talks reach deal but money remains an issue",
       "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-31T01:27:05+00:00"
-    },
-    {
-      "id": "5ef8ff9fa9d0b5486033",
-      "source": "BBC News",
-      "title": "Police deployed during stand-off over control of top Poland court",
-      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31T01:11:43+00:00"
     }
   ]
 }
