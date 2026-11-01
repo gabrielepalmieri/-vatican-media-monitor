@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-01T14:10:25.588042+00:00",
+  "updated_at": "2026-11-01T14:15:28.684629+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-01T14:10:25.588042+00:00"
+      "checked_at": "2026-11-01T14:15:28.684629+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-01T14:10:25.588042+00:00"
+      "checked_at": "2026-11-01T14:15:28.684629+00:00"
     }
   },
   "items": [
+    {
+      "id": "adccb01fc323d5f8b80c",
+      "source": "TGcom24",
+      "title": "Manovra, stretta sugli aumenti degli stipendi dei magistrati",
+      "url": "https://www.tgcom24.mediaset.it/politica/manovra-aumenti-stipendi-magistrati_118433621-202602k.shtml",
+      "published": "2026-11-01T14:09:00+00:00"
+    },
     {
       "id": "6fba5f5244e126b02361",
       "source": "BBC News",
@@ -248,13 +255,6 @@
       "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
       "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-31T17:53:35+00:00"
-    },
-    {
-      "id": "560477a5571de8d99c3b",
-      "source": "TGcom24",
-      "title": "Guerra Iran, Rubio: \"Stati Uniti aperti a una soluzione diplomatica\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-31-ottobre_118369181-202602k.shtml",
-      "published": "2026-10-31T17:41:00+00:00"
     },
     {
       "id": "18f4d51fa49376c03b60",
