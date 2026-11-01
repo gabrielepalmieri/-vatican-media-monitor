@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-01T19:00:58.687836+00:00",
+  "updated_at": "2026-11-01T19:05:20.134252+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-01T19:00:58.687836+00:00"
+      "checked_at": "2026-11-01T19:05:20.134252+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-01T19:00:58.687836+00:00"
+      "checked_at": "2026-11-01T19:05:20.134252+00:00"
     }
   },
   "items": [
+    {
+      "id": "55156cc888ed444aa0a5",
+      "source": "BBC News",
+      "title": "Peaceful protests in Germany spiral into violence and looting",
+      "url": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T18:51:56+00:00"
+    },
     {
       "id": "550f5f04714cbb2df873",
       "source": "BBC News",
@@ -269,13 +276,6 @@
       "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
       "url": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-31T23:06:13+00:00"
-    },
-    {
-      "id": "6603dd53fb38d7c38ac5",
-      "source": "TGcom24",
-      "title": "Frosinone, lite in stazione finisce a coltellate: morto un 48enne",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/frosinone-lite-stazione-accoltellamento_118413017-202602k.shtml",
-      "published": "2026-10-31T23:00:00+00:00"
     },
     {
       "id": "40e022561b124adaae64",
