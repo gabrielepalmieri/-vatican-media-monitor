@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-01T14:50:24.897146+00:00",
+  "updated_at": "2026-11-01T14:55:17.549776+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-01T14:50:24.897146+00:00"
+      "checked_at": "2026-11-01T14:55:17.549776+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-01T14:50:24.897146+00:00"
+      "checked_at": "2026-11-01T14:55:17.549776+00:00"
     }
   },
   "items": [
+    {
+      "id": "7436a2872e587c5ed225",
+      "source": "TGcom24",
+      "title": "Brescia, maestra d'asilo muore per sospetta meningite: attesa per l'autopsia",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/brescia-maestra-asilo-morta-meningite_118432376-202602k.shtml",
+      "published": "2026-11-01T14:48:00+00:00"
+    },
     {
       "id": "adccb01fc323d5f8b80c",
       "source": "TGcom24",
@@ -241,13 +248,6 @@
       "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
       "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-31T19:22:26+00:00"
-    },
-    {
-      "id": "ac18499e628de53615a1",
-      "source": "TGcom24",
-      "title": "Mosca, allarme attentato al museo Tsaritsyno: edificio evacuato",
-      "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-russia-guerra-ultime-notizie-31-ottobre_118369921-202602k.shtml",
-      "published": "2026-10-31T18:25:00+00:00"
     },
     {
       "id": "84d7ab542650f3cf0af1",
