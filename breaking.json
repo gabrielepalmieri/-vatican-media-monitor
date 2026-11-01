@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-01T10:00:55.391014+00:00",
+  "updated_at": "2026-11-01T10:05:22.821369+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-01T10:00:55.391014+00:00"
+      "checked_at": "2026-11-01T10:05:22.821369+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-01T10:00:55.391014+00:00"
+      "checked_at": "2026-11-01T10:05:22.821369+00:00"
     }
   },
   "items": [
+    {
+      "id": "ac59b9f2e857463356b1",
+      "source": "TGcom24",
+      "title": "Volo Palermo-Milano non parte, passeggeri evacuati per motivi di sicurezza",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/volo-palermo-milano-passeggeri-evacuati-sicurezza_118423485-202602k.shtml",
+      "published": "2026-11-01T10:02:00+00:00"
+    },
     {
       "id": "6fba5f5244e126b02361",
       "source": "BBC News",
@@ -269,13 +276,6 @@
       "title": "Ethiopian PM puts ministers through military training",
       "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-31T14:28:15+00:00"
-    },
-    {
-      "id": "b5fb1b4ebee77fb79509",
-      "source": "TGcom24",
-      "title": "Reggio Emilia, perseguita la ex con mille telefonate: \"Ti sfregio con l'acido\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/reggio-emilia-minaccia-ex-compagna_118384175-202602k.shtml",
-      "published": "2026-10-31T14:07:00+00:00"
     },
     {
       "id": "329472e7f6c9639b6925",
