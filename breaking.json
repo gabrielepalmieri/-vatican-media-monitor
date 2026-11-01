@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-01T23:45:28.493685+00:00",
+  "updated_at": "2026-11-01T23:50:24.101032+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-11-01T23:45:28.493685+00:00"
+      "checked_at": "2026-11-01T23:50:24.101032+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-01T23:45:28.493685+00:00"
+      "checked_at": "2026-11-01T23:50:24.101032+00:00"
     }
   },
   "items": [
+    {
+      "id": "7206f0b7a38203f42b88",
+      "source": "BBC News",
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T22:38:24+00:00"
+    },
     {
       "id": "942e15c351911999d3cf",
       "source": "TGcom24",
