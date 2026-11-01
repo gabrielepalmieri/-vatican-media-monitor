@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-01T21:15:28.141979+00:00",
+  "updated_at": "2026-11-01T21:20:25.149618+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-01T21:15:28.141979+00:00"
+      "checked_at": "2026-11-01T21:20:25.149618+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-01T21:15:28.141979+00:00"
+      "checked_at": "2026-11-01T21:20:25.149618+00:00"
     }
   },
   "items": [
+    {
+      "id": "550f5f04714cbb2df873",
+      "source": "BBC News",
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T21:16:45+00:00"
+    },
     {
       "id": "769b9c2c10b102a92533",
       "source": "BBC News",
@@ -31,13 +38,6 @@
       "title": "Maltempo: allerta arancione in Puglia e Basilicata, gialla in 5 regioni",
       "url": "https://www.tgcom24.mediaset.it/cronaca/maltempo-allerta-arancione-gialla-meridione-2-novembre_118452281-202602k.shtml",
       "published": "2026-11-01T20:12:00+00:00"
-    },
-    {
-      "id": "550f5f04714cbb2df873",
-      "source": "BBC News",
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
-      "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T20:11:26+00:00"
     },
     {
       "id": "6b023897203102fe3b2d",
@@ -325,13 +325,6 @@
       "title": "Ethiopian PM puts ministers through military training",
       "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-31T14:28:15+00:00"
-    },
-    {
-      "id": "329472e7f6c9639b6925",
-      "source": "BBC News",
-      "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
-      "url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31T09:16:14+00:00"
     }
   ]
 }
