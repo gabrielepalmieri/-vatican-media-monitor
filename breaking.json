@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-01T06:30:42.635000+00:00",
+  "updated_at": "2026-11-01T06:35:17.214526+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-01T06:30:42.635000+00:00"
+      "checked_at": "2026-11-01T06:35:17.214526+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-01T06:30:42.635000+00:00"
+      "checked_at": "2026-11-01T06:35:17.214526+00:00"
     }
   },
   "items": [
+    {
+      "id": "f6a0eadcf04d0e01ee68",
+      "source": "BBC News",
+      "title": "Shops looted as German cost of living protests turn violent",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T06:30:59+00:00"
+    },
     {
       "id": "e122bd3b235da7228da2",
       "source": "BBC News",
@@ -33,18 +40,18 @@
       "published": "2026-11-01T05:30:00+00:00"
     },
     {
+      "id": "813a7d4b1fd0e1276a93",
+      "source": "BBC News",
+      "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
+      "url": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T05:26:02+00:00"
+    },
+    {
       "id": "c1b413b281806edcf44a",
       "source": "TGcom24",
       "title": "Roma, segrega anziano in casa e gli prosciuga conto in banca: arrestata badante",
       "url": "https://www.tgcom24.mediaset.it/cronaca/roma-anziano-segretato-badante-arrestata_118412300-202602k.shtml",
       "published": "2026-11-01T05:00:00+00:00"
-    },
-    {
-      "id": "f6a0eadcf04d0e01ee68",
-      "source": "BBC News",
-      "title": "Shops looted as German cost of living protests turn violent",
-      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T01:59:57+00:00"
     },
     {
       "id": "4486a207e9137731bee1",
@@ -227,13 +234,6 @@
       "title": "Zelensky: \"Rientrati in Ucraina i residenti evacuati da Oleshky\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-russia-guerra-ultime-notizie-31-ottobre_118369921-202602k.shtml",
       "published": "2026-10-31T13:16:00+00:00"
-    },
-    {
-      "id": "cc09c857e3a4742b97b0",
-      "source": "BBC News",
-      "title": "Watch: Blood donors get a Halloween fright in Thailand",
-      "url": "https://www.bbc.co.uk/news/videos/cmze42el49d9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31T12:50:45+00:00"
     },
     {
       "id": "7f66c670626653e0305b",
