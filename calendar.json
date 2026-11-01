@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-31T10:53:29.585205+00:00",
+  "updated_at": "2026-11-01T01:05:42.041036+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-10-31T10:53:29.585205+00:00",
+  "un_verified_at": "2026-11-01T01:05:42.041036+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,17 +1918,6 @@
     }
   ],
   "days": {
-    "2026-10-30": {
-      "saints": [
-        {
-          "title": "San Germano, vescovo di Capua",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/30/san-germano--vescovo-di-capua.html"
-        }
-      ],
-      "un": [],
-      "un_available": true,
-      "holy_see": []
-    },
     "2026-10-31": {
       "saints": [
         {
@@ -2611,6 +2600,21 @@
           "url": "https://www.un.org/en/observances/world-soil-day"
         }
       ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-12-06": {
+      "saints": [
+        {
+          "title": "San Nicola di Bari, vescovo di Mira",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/06/san-nicola-di-bari--vescovo-di-mira.html"
+        },
+        {
+          "title": "Santa Asella, vergine romana",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/06.html"
+        }
+      ],
+      "un": [],
       "un_available": true,
       "holy_see": []
     }
