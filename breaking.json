@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-01T18:25:18.616765+00:00",
+  "updated_at": "2026-11-01T18:30:44.537062+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-01T18:25:18.616765+00:00"
+      "checked_at": "2026-11-01T18:30:44.537062+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-01T18:25:18.616765+00:00"
+      "checked_at": "2026-11-01T18:30:44.537062+00:00"
     }
   },
   "items": [
+    {
+      "id": "9653f12fcc4a13eb2d15",
+      "source": "TGcom24",
+      "title": "Halloween di sangue in Texas, 6 morti in tre sparatorie a Dallas",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-texas-dallas-sparatorie-morti-halloween_118446147-202602k.shtml",
+      "published": "2026-11-01T18:20:00+00:00"
+    },
     {
       "id": "21aa45f0739a19b16556",
       "source": "BBC News",
@@ -255,13 +262,6 @@
       "title": "Frosinone, lite in stazione finisce a coltellate: morto un 48enne",
       "url": "https://www.tgcom24.mediaset.it/cronaca/frosinone-lite-stazione-accoltellamento_118413017-202602k.shtml",
       "published": "2026-10-31T23:00:00+00:00"
-    },
-    {
-      "id": "490b3a3c818a327cb964",
-      "source": "TGcom24",
-      "title": "Polonia, scontro tra premier e presidente sulla nomina dei giudici",
-      "url": "https://www.tgcom24.mediaset.it/mondo/polonia-scontro-premier-presidente_118410483-202602k.shtml",
-      "published": "2026-10-31T22:30:00+00:00"
     },
     {
       "id": "40e022561b124adaae64",
