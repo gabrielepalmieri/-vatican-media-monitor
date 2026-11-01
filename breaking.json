@@ -1,29 +1,36 @@
 {
-  "updated_at": "2026-11-01T17:05:17.836542+00:00",
+  "updated_at": "2026-11-01T17:10:24.599969+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-01T17:05:17.836542+00:00"
+      "checked_at": "2026-11-01T17:10:24.599969+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-01T17:05:17.836542+00:00"
+      "checked_at": "2026-11-01T17:10:24.599969+00:00"
     }
   },
   "items": [
+    {
+      "id": "f7bd9af73b781fcc77e7",
+      "source": "BBC News",
+      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T17:06:32+00:00"
+    },
+    {
+      "id": "5281e1b4b679fd52b3ba",
+      "source": "TGcom24",
+      "title": "Maestra d'asilo morta per sospetta meningite nel Bresciano: 180 contatti sotto osservazione",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/brescia-maestra-asilo-morta-meningite_118432376-202602k.shtml",
+      "published": "2026-11-01T17:05:00+00:00"
+    },
     {
       "id": "a19183d0535dfe38db9f",
       "source": "TGcom24",
       "title": "Manovra, via la tassa italiana sui piccoli pacchi: rimarrà quella Ue",
       "url": "https://www.tgcom24.mediaset.it/economia/tassa-italia-piccoli-pacchi-manovra-taglio-ue-cina_118439268-202602k.shtml",
       "published": "2026-11-01T16:33:00+00:00"
-    },
-    {
-      "id": "f7bd9af73b781fcc77e7",
-      "source": "BBC News",
-      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T16:25:33+00:00"
     },
     {
       "id": "899cbbf59ce13b402555",
@@ -241,13 +248,6 @@
       "title": "Thousands demonstrate in Paris as protests spread across Europe",
       "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-31T21:29:01+00:00"
-    },
-    {
-      "id": "c633d3f710dec21d0d66",
-      "source": "TGcom24",
-      "title": "Roma, bimbo di un anno e mezzo muore soffocato da un pezzo di mela",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/roma-bimbo-muore-soffocato-mela_118407275-202602k.shtml",
-      "published": "2026-10-31T21:15:00+00:00"
     },
     {
       "id": "a26d25e40754bf5d57ae",
