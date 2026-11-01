@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-01T11:55:17.586607+00:00",
+  "updated_at": "2026-11-01T12:00:55.909051+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-01T11:55:17.586607+00:00"
+      "checked_at": "2026-11-01T12:00:55.909051+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-01T11:55:17.586607+00:00"
+      "checked_at": "2026-11-01T12:00:55.909051+00:00"
     }
   },
   "items": [
+    {
+      "id": "f6a0eadcf04d0e01ee68",
+      "source": "BBC News",
+      "title": "Shops looted as German cost of living protests turn violent",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T11:57:48+00:00"
+    },
     {
       "id": "4174a068deb3ea41f67f",
       "source": "TGcom24",
@@ -24,13 +31,6 @@
       "title": "Cagliari, palpeggiano una donna al semaforo: arrestati due giovani",
       "url": "https://www.tgcom24.mediaset.it/cronaca/cagliari-violenza-sessuale-arrestati_118425582-202602k.shtml",
       "published": "2026-11-01T11:11:00+00:00"
-    },
-    {
-      "id": "f6a0eadcf04d0e01ee68",
-      "source": "BBC News",
-      "title": "Shops looted as German cost of living protests turn violent",
-      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T11:03:36+00:00"
     },
     {
       "id": "c6dc4fe5a4189d1a4698",
