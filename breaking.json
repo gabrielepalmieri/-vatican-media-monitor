@@ -1,29 +1,36 @@
 {
-  "updated_at": "2026-11-01T19:55:17.240339+00:00",
+  "updated_at": "2026-11-01T20:00:54.128112+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-01T19:55:17.240339+00:00"
+      "checked_at": "2026-11-01T20:00:54.128112+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-01T19:55:17.240339+00:00"
+      "checked_at": "2026-11-01T20:00:54.128112+00:00"
     }
   },
   "items": [
+    {
+      "id": "550f5f04714cbb2df873",
+      "source": "BBC News",
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T19:58:26+00:00"
+    },
+    {
+      "id": "769b9c2c10b102a92533",
+      "source": "BBC News",
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end within hours",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01T19:48:17+00:00"
+    },
     {
       "id": "6b023897203102fe3b2d",
       "source": "TGcom24",
       "title": "Elezioni Israele, Commissione elettorale e Shin Bet: \"Voto regolare, false molte accuse\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/israele-elezioni-governo-eisenkot-netanyahu_118430206-202602k.shtml",
       "published": "2026-11-01T19:30:00+00:00"
-    },
-    {
-      "id": "550f5f04714cbb2df873",
-      "source": "BBC News",
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
-      "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T19:17:34+00:00"
     },
     {
       "id": "55156cc888ed444aa0a5",
