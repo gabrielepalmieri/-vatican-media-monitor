@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-02T08:05:18.957765+00:00",
+  "updated_at": "2026-11-02T08:10:31.237458+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-02T08:05:18.957765+00:00"
+      "checked_at": "2026-11-02T08:10:31.237458+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-02T08:05:18.957765+00:00"
+      "checked_at": "2026-11-02T08:10:31.237458+00:00"
     }
   },
   "items": [
+    {
+      "id": "7a1a8f0eab4f73548579",
+      "source": "BBC News",
+      "title": "Popular Australian children's author jailed over child exploitation offences",
+      "url": "https://www.bbc.co.uk/news/articles/cmjwe9nggp60o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T08:03:39+00:00"
+    },
     {
       "id": "1bcce87d6404b8999c6d",
       "source": "TGcom24",
@@ -112,7 +119,7 @@
     {
       "id": "e87f729052ad1359e2a1",
       "source": "BBC News",
-      "title": "'I've had people eating cat food': Rising cost of living top of mind for US voters",
+      "title": "North Carolina voters weigh up Trump's track record on cost of living",
       "url": "https://www.bbc.co.uk/news/videos/cwly0eev3m44o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-01T22:25:51+00:00"
     },
