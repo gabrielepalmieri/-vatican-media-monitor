@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-02T15:10:36.805021+00:00",
+  "updated_at": "2026-11-02T15:15:53.268660+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-02T15:10:36.805021+00:00"
+      "checked_at": "2026-11-02T15:15:53.268660+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-02T15:10:36.805021+00:00"
+      "checked_at": "2026-11-02T15:15:53.268660+00:00"
     }
   },
   "items": [
+    {
+      "id": "7f50d0b66f1b0b3beb06",
+      "source": "BBC News",
+      "title": "Shop freezers in seven European countries hit by cyber-attack",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T15:12:22+00:00"
+    },
     {
       "id": "cc112a1d8d69a4d7d3c1",
       "source": "TGcom24",
@@ -21,7 +28,7 @@
     {
       "id": "758ca07e2ff68035168b",
       "source": "BBC News",
-      "title": "Wizz Air flight from London in emergency landing after bomb threat",
+      "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
       "url": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-02T14:35:38+00:00"
     },
@@ -45,13 +52,6 @@
       "title": "Crans-Montana, Moretti accusa l'ex proprietario del Constellation: \"Sapeva tutto\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/crans-montana-sion-interrogatorio-jacques-moretti_118473263-202602k.shtml",
       "published": "2026-11-02T14:15:00+00:00"
-    },
-    {
-      "id": "7f50d0b66f1b0b3beb06",
-      "source": "BBC News",
-      "title": "Shop freezers in seven European countries hit by suspected cyber-attack",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T14:11:13+00:00"
     },
     {
       "id": "e02333d2b4b9b906a7ab",
