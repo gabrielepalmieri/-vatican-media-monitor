@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-02T14:10:27.605414+00:00",
+  "updated_at": "2026-11-02T14:16:04.681187+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-02T14:10:27.605414+00:00"
+      "checked_at": "2026-11-02T14:16:04.681187+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-02T14:10:27.605414+00:00"
+      "checked_at": "2026-11-02T14:16:04.681187+00:00"
     }
   },
   "items": [
+    {
+      "id": "7f50d0b66f1b0b3beb06",
+      "source": "BBC News",
+      "title": "Shop freezers in seven European countries hit by suspected cyber-attack",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T14:11:13+00:00"
+    },
     {
       "id": "d7d1f082cb9d30dee1b0",
       "source": "TGcom24",
       "title": "Germania, ago nel dolcetto di Halloween: ferita una bambina di 9 anni",
       "url": "https://www.tgcom24.mediaset.it/mondo/germania-ago-halloween-ferita-bambina_118487226-202602k.shtml",
       "published": "2026-11-02T13:44:00+00:00"
-    },
-    {
-      "id": "7f50d0b66f1b0b3beb06",
-      "source": "BBC News",
-      "title": "Shop freezers in six European countries hit by suspected cyber-attack",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T13:19:56+00:00"
     },
     {
       "id": "0979b6d3fa868c149d23",
