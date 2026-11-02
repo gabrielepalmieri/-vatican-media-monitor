@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-02T18:50:25.926018+00:00",
+  "updated_at": "2026-11-02T18:55:19.538858+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-02T18:50:25.926018+00:00"
+      "checked_at": "2026-11-02T18:55:19.538858+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-02T18:50:25.926018+00:00"
+      "checked_at": "2026-11-02T18:55:19.538858+00:00"
     }
   },
   "items": [
+    {
+      "id": "da1deb23d83bec5e720e",
+      "source": "TGcom24",
+      "title": "Attacchi hacker ai frigoriferi, colpiti alcuni supermercati in Sicilia",
+      "url": "https://www.tgcom24.mediaset.it/mondo/foto/svezia-supermercati-attacco-hacker-frigoriferi-freezer_118479731-202602k.shtml",
+      "published": "2026-11-02T18:49:00+00:00"
+    },
     {
       "id": "9a7884b8aa35d50402fb",
       "source": "BBC News",
@@ -311,13 +318,6 @@
       "title": "France launches attempted murder investigation after petrol bomb thrown at police",
       "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-02T00:15:30+00:00"
-    },
-    {
-      "id": "b3579a6b08905a2154d2",
-      "source": "TGcom24",
-      "title": "Ucraina: \"Sospetto hackeraggio app di allerta attacchi aerei dell'aeronautica militare\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-1novembre_118456547-202602k.shtml",
-      "published": "2026-11-01T22:58:00+00:00"
     },
     {
       "id": "92dc619e998de380ab4b",
