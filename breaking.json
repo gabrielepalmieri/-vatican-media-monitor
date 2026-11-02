@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-02T21:00:58.917703+00:00",
+  "updated_at": "2026-11-02T21:05:18.720768+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-02T21:00:58.917703+00:00"
+      "checked_at": "2026-11-02T21:05:18.720768+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-02T21:00:58.917703+00:00"
+      "checked_at": "2026-11-02T21:05:18.720768+00:00"
     }
   },
   "items": [
@@ -75,6 +75,13 @@
       "published": "2026-11-02T19:33:10+00:00"
     },
     {
+      "id": "9a61dbe62bcae2e4d659",
+      "source": "BBC News",
+      "title": "Legal challenge to Australia's social media ban to start in High Court",
+      "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T19:12:59+00:00"
+    },
+    {
       "id": "da1deb23d83bec5e720e",
       "source": "TGcom24",
       "title": "Attacchi hacker ai frigoriferi, colpiti alcuni supermercati in Sicilia",
@@ -105,7 +112,7 @@
     {
       "id": "78de05637ce4ec2b200f",
       "source": "TGcom24",
-      "title": "Ucraina, Zelensky: \"Raid su Komysuhvakha, almeno 18 morti\"",
+      "title": "Ucraina, Zelensky: \"Raid su Komysuhvakha, almeno 26 morti\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-1novembre_118456547-202602k.shtml",
       "published": "2026-11-02T17:48:00+00:00"
     },
