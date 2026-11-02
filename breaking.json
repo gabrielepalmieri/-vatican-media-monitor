@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-02T09:30:47.969843+00:00",
+  "updated_at": "2026-11-02T09:35:18.877290+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-02T09:30:47.969843+00:00"
+      "checked_at": "2026-11-02T09:35:18.877290+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-02T09:30:47.969843+00:00"
+      "checked_at": "2026-11-02T09:35:18.877290+00:00"
     }
   },
   "items": [
+    {
+      "id": "2a52bf254880aab22d21",
+      "source": "TGcom24",
+      "title": "Incidente ferroviario di Toledo, identificate le due vittime italiane",
+      "url": "https://www.tgcom24.mediaset.it/mondo/toledo-incidente-ferroviario-identificate-vittime-italiane_118475502-202602k.shtml",
+      "published": "2026-11-02T09:30:00+00:00"
+    },
     {
       "id": "12e6bb9b708f6f2d1364",
       "source": "BBC News",
@@ -105,7 +112,7 @@
     {
       "id": "8c4f95fa9dfeed0a5432",
       "source": "BBC News",
-      "title": "Trump makes fevered campaign push in final weekend before election",
+      "title": "Trump makes final campaign push in final weekend before election",
       "url": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-02T04:04:28+00:00"
     },
