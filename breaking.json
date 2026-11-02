@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-02T07:55:19.639315+00:00",
+  "updated_at": "2026-11-02T08:01:02.695451+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-02T07:55:19.639315+00:00"
+      "checked_at": "2026-11-02T08:01:02.695451+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-02T07:55:19.639315+00:00"
+      "checked_at": "2026-11-02T08:01:02.695451+00:00"
     }
   },
   "items": [
+    {
+      "id": "1bcce87d6404b8999c6d",
+      "source": "TGcom24",
+      "title": "Trieste, incendio nel Porto Vecchio: morti un uomo e una donna",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/trieste-incendio-porto-vecchio_118472833-202602k.shtml",
+      "published": "2026-11-02T07:55:00+00:00"
+    },
     {
       "id": "6e739015e9eb46846c67",
       "source": "BBC News",
@@ -255,13 +262,6 @@
       "title": "Shops looted as German cost-of-living protests turn violent",
       "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-01T11:57:48+00:00"
-    },
-    {
-      "id": "4174a068deb3ea41f67f",
-      "source": "TGcom24",
-      "title": "Arezzo, trovato un cadavere in un parcheggio: c'è un sospettato",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/arezzo-ritrovato-cadavere-parcheggio_118425581-202602k.shtml",
-      "published": "2026-11-01T11:52:00+00:00"
     },
     {
       "id": "59dd94ad58c39f20f557",
