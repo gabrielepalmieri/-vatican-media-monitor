@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-02T07:01:00.479226+00:00",
+  "updated_at": "2026-11-02T07:05:20.235227+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-02T07:01:00.479226+00:00"
+      "checked_at": "2026-11-02T07:05:20.235227+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-02T07:01:00.479226+00:00"
+      "checked_at": "2026-11-02T07:05:20.235227+00:00"
     }
   },
   "items": [
@@ -24,6 +24,20 @@
       "title": "Kiev e Mosca denunciano attacchi hacker alle rispettive app di allerta aerea",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-2-novembre_118469068-202602k.shtml",
       "published": "2026-11-02T06:00:00+00:00"
+    },
+    {
+      "id": "631c570ae6e155c3a7f5",
+      "source": "TGcom24",
+      "title": "Midterm, Trump in Kansas: \"Vinceremo con margine schiacciante\"",
+      "url": "https://www.tgcom24.mediaset.it/elezioni-estero/usa-midterm-2026/elezioni-midterm-comizio-trump-kansas-sondaggi_118469061-202602k.shtml",
+      "published": "2026-11-02T05:30:00+00:00"
+    },
+    {
+      "id": "160b0cf11760a420a23f",
+      "source": "TGcom24",
+      "title": "Jet privato con a bordo 9 persone si schianta in Florida: nessun superstite",
+      "url": "https://www.tgcom24.mediaset.it/2026/video/jet-privato-con-a-bordo-9-persone-si-schianta-in-florida_118459171-02k.shtml",
+      "published": "2026-11-02T05:04:00+00:00"
     },
     {
       "id": "62fdf7d5ef6774df8d93",
@@ -75,11 +89,46 @@
       "published": "2026-11-02T00:15:30+00:00"
     },
     {
+      "id": "b3579a6b08905a2154d2",
+      "source": "TGcom24",
+      "title": "Ucraina: \"Sospetto hackeraggio app di allerta attacchi aerei dell'aeronautica militare\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-1novembre_118456547-202602k.shtml",
+      "published": "2026-11-01T22:58:00+00:00"
+    },
+    {
       "id": "92dc619e998de380ab4b",
       "source": "BBC News",
       "title": "Antonelli - the boy 'born in a garage' who became world champion",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c0rdvxdwwwwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-01T22:25:01+00:00"
+    },
+    {
+      "id": "942e15c351911999d3cf",
+      "source": "TGcom24",
+      "title": "Rovigo, botte e insulti a un'anziana: badante arrestata per maltrattamenti",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/rovigo-botte-insulti-anziana-arrestata-maltrattamenti_118456215-202602k.shtml",
+      "published": "2026-11-01T22:00:00+00:00"
+    },
+    {
+      "id": "4665f78284206201431a",
+      "source": "TGcom24",
+      "title": "Elezioni in Bulgaria, al ballottaggio confermata la filorussa Ilijana Jotova",
+      "url": "https://www.tgcom24.mediaset.it/mondo/elezioni-bulgaria-risultati-vittoria-jotova_118454806-202602k.shtml",
+      "published": "2026-11-01T21:00:00+00:00"
+    },
+    {
+      "id": "a866e208edd2b31b6dd2",
+      "source": "TGcom24",
+      "title": "Maltempo: allerta arancione in Puglia e Basilicata, gialla in 5 regioni",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/maltempo-allerta-arancione-gialla-meridione-2-novembre_118452281-202602k.shtml",
+      "published": "2026-11-01T20:12:00+00:00"
+    },
+    {
+      "id": "6b023897203102fe3b2d",
+      "source": "TGcom24",
+      "title": "Elezioni Israele, Commissione elettorale e Shin Bet: \"Voto regolare, false molte accuse\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/israele-elezioni-governo-eisenkot-netanyahu_118430206-202602k.shtml",
+      "published": "2026-11-01T19:30:00+00:00"
     },
     {
       "id": "55156cc888ed444aa0a5",
@@ -89,11 +138,25 @@
       "published": "2026-11-01T18:51:56+00:00"
     },
     {
+      "id": "9653f12fcc4a13eb2d15",
+      "source": "TGcom24",
+      "title": "Halloween di sangue in Texas, 4 morti in tre sparatorie a Dallas",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-texas-dallas-sparatorie-morti-halloween_118446147-202602k.shtml",
+      "published": "2026-11-01T18:20:00+00:00"
+    },
+    {
       "id": "21aa45f0739a19b16556",
       "source": "BBC News",
       "title": "Armed police start patrols in Sydney after Bondi Beach attack",
       "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-01T17:56:47+00:00"
+    },
+    {
+      "id": "acdd11db0677201bf534",
+      "source": "TGcom24",
+      "title": "Elicottero caduto in Bosnia, militare Cri sopravvissuto: \"Impatto violentissimo, vivo per miracolo\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/elicottero-caduto-bosnia-testimonianza-sopravvissuto-cri-flavio-favari-miracolo_118443356-202602k.shtml",
+      "published": "2026-11-01T17:45:00+00:00"
     },
     {
       "id": "84e658c2f1b5348d05e8",
@@ -117,11 +180,60 @@
       "published": "2026-11-01T17:05:18+00:00"
     },
     {
+      "id": "5281e1b4b679fd52b3ba",
+      "source": "TGcom24",
+      "title": "Maestra d'asilo morta per sospetta meningite nel Bresciano: 180 contatti sotto osservazione",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/brescia-maestra-asilo-morta-meningite_118432376-202602k.shtml",
+      "published": "2026-11-01T17:05:00+00:00"
+    },
+    {
+      "id": "a19183d0535dfe38db9f",
+      "source": "TGcom24",
+      "title": "Manovra, via la tassa italiana sui piccoli pacchi: rimarrà quella Ue",
+      "url": "https://www.tgcom24.mediaset.it/economia/tassa-italia-piccoli-pacchi-manovra-taglio-ue-cina_118439268-202602k.shtml",
+      "published": "2026-11-01T16:33:00+00:00"
+    },
+    {
+      "id": "899cbbf59ce13b402555",
+      "source": "TGcom24",
+      "title": "Famiglia nel bosco, mamma Catherine trova lavoro come docente a 60 euro l'ora",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/famiglia-nel-bosco-catherine-birmingham-docente-pedagogia_118431312-202602k.shtml",
+      "published": "2026-11-01T15:22:00+00:00"
+    },
+    {
+      "id": "7436a2872e587c5ed225",
+      "source": "TGcom24",
+      "title": "Brescia, maestra d'asilo muore per sospetta meningite: attesa per l'autopsia",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/brescia-maestra-asilo-morta-meningite_118432376-202602k.shtml",
+      "published": "2026-11-01T14:48:00+00:00"
+    },
+    {
+      "id": "adccb01fc323d5f8b80c",
+      "source": "TGcom24",
+      "title": "Manovra, stretta sugli aumenti degli stipendi dei magistrati",
+      "url": "https://www.tgcom24.mediaset.it/politica/manovra-aumenti-stipendi-magistrati_118433621-202602k.shtml",
+      "published": "2026-11-01T14:09:00+00:00"
+    },
+    {
       "id": "6fba5f5244e126b02361",
       "source": "BBC News",
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
       "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-01T13:11:37+00:00"
+    },
+    {
+      "id": "e8185a884ff9971bcb92",
+      "source": "TGcom24",
+      "title": "Elezioni Israele, media: \"Intesa tra partiti arabi per sostenere Eisenkot\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/israele-elezioni-governo-eisenkot-netanyahu_118430206-202602k.shtml",
+      "published": "2026-11-01T13:04:00+00:00"
+    },
+    {
+      "id": "5b1f692c0c088432c939",
+      "source": "TGcom24",
+      "title": "Cesena, forte grandinata e maxi tamponamento sull'A14: coinvolte 12 auto",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/foto/cesena-forte-grandinata-e-maxi-tamponamento-con-dodici-auto-coinvolte-sulla-a14_118426773-202602k.shtml",
+      "published": "2026-11-01T12:21:00+00:00"
     },
     {
       "id": "f6a0eadcf04d0e01ee68",
@@ -131,6 +243,20 @@
       "published": "2026-11-01T11:57:48+00:00"
     },
     {
+      "id": "4174a068deb3ea41f67f",
+      "source": "TGcom24",
+      "title": "Arezzo, trovato un cadavere in un parcheggio: c'è un sospettato",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/arezzo-ritrovato-cadavere-parcheggio_118425581-202602k.shtml",
+      "published": "2026-11-01T11:52:00+00:00"
+    },
+    {
+      "id": "644382f85ce7a35e2c23",
+      "source": "TGcom24",
+      "title": "Cagliari, palpeggiano una donna al semaforo: arrestati due giovani",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/cagliari-violenza-sessuale-arrestati_118425582-202602k.shtml",
+      "published": "2026-11-01T11:11:00+00:00"
+    },
+    {
       "id": "59dd94ad58c39f20f557",
       "source": "BBC News",
       "title": "India's opposition holds mega rally seeking election chief's resignation",
@@ -138,25 +264,11 @@
       "published": "2026-11-01T07:00:55+00:00"
     },
     {
-      "id": "e7f7e095e0fcf8f1eb1c",
-      "source": "TGcom24",
-      "title": "Midterm, Trump in Kansas: \"Vinceremo con margine schiacciante\"",
-      "url": "https://www.tgcom24.mediaset.it/elezioni-estero/usa-midterm-2026/elezioni-midterm-comizio-trump-kansas-sondaggi_118469061-202602k.shtml",
-      "published": "2026-11-01T05:30:00+00:00"
-    },
-    {
       "id": "813a7d4b1fd0e1276a93",
       "source": "BBC News",
       "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
       "url": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-01T05:26:02+00:00"
-    },
-    {
-      "id": "c56f183a23da6a5f858a",
-      "source": "TGcom24",
-      "title": "Jet privato con a bordo 9 persone si schianta in Florida: nessun superstite",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/jet-privato-con-a-bordo-9-persone-si-schianta-in-florida_118459171-02k.shtml",
-      "published": "2026-11-01T05:04:00+00:00"
     },
     {
       "id": "96c914e06106415a07e7",
@@ -187,46 +299,11 @@
       "published": "2026-11-01T00:27:33+00:00"
     },
     {
-      "id": "2e5039144994c1699de4",
-      "source": "TGcom24",
-      "title": "Ucraina: \"Sospetto hackeraggio app di allerta attacchi aerei dell'aeronautica militare\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-1novembre_118456547-202602k.shtml",
-      "published": "2026-10-31T22:58:00+00:00"
-    },
-    {
-      "id": "8156be7f05cb6a708b9e",
-      "source": "TGcom24",
-      "title": "Rovigo, botte e insulti a un'anziana: badante arrestata per maltrattamenti",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/rovigo-botte-insulti-anziana-arrestata-maltrattamenti_118456215-202602k.shtml",
-      "published": "2026-10-31T22:00:00+00:00"
-    },
-    {
       "id": "40e022561b124adaae64",
       "source": "BBC News",
       "title": "Thousands demonstrate in Paris as protests spread across Europe",
       "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-31T21:29:01+00:00"
-    },
-    {
-      "id": "19bdac4df6eb34b74792",
-      "source": "TGcom24",
-      "title": "Elezioni in Bulgaria, al ballottaggio confermata la filorussa Ilijana Jotova",
-      "url": "https://www.tgcom24.mediaset.it/mondo/elezioni-bulgaria-risultati-vittoria-jotova_118454806-202602k.shtml",
-      "published": "2026-10-31T21:00:00+00:00"
-    },
-    {
-      "id": "f523e67b073d94a54633",
-      "source": "TGcom24",
-      "title": "Maltempo: allerta arancione in Puglia e Basilicata, gialla in 5 regioni",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/maltempo-allerta-arancione-gialla-meridione-2-novembre_118452281-202602k.shtml",
-      "published": "2026-10-31T20:12:00+00:00"
-    },
-    {
-      "id": "f5401c324b8051c1b73c",
-      "source": "TGcom24",
-      "title": "Elezioni Israele, Commissione elettorale e Shin Bet: \"Voto regolare, false molte accuse\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/israele-elezioni-governo-eisenkot-netanyahu_118430206-202602k.shtml",
-      "published": "2026-10-31T19:30:00+00:00"
     }
   ]
 }
