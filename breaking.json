@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-02T16:15:44.589787+00:00",
+  "updated_at": "2026-11-02T16:20:30.597534+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-02T16:15:44.589787+00:00"
+      "checked_at": "2026-11-02T16:20:30.597534+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-02T16:15:44.589787+00:00"
+      "checked_at": "2026-11-02T16:20:30.597534+00:00"
     }
   },
   "items": [
+    {
+      "id": "e295b52558fd7983cfcf",
+      "source": "TGcom24",
+      "title": "Da Udine a Roma ondata di mail anonime in arabo: \"C'è una bomba a scuola\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/bomba-scuola-allarme-italia_118488470-202602k.shtml",
+      "published": "2026-11-02T16:19:00+00:00"
+    },
     {
       "id": "033ca2fd0917cb2fa06a",
       "source": "TGcom24",
@@ -283,13 +290,6 @@
       "title": "Elezioni in Bulgaria, al ballottaggio confermata la filorussa Ilijana Jotova",
       "url": "https://www.tgcom24.mediaset.it/mondo/elezioni-bulgaria-risultati-vittoria-jotova_118454806-202602k.shtml",
       "published": "2026-11-01T21:00:00+00:00"
-    },
-    {
-      "id": "a866e208edd2b31b6dd2",
-      "source": "TGcom24",
-      "title": "Maltempo: allerta arancione in Puglia e Basilicata, gialla in 5 regioni",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/maltempo-allerta-arancione-gialla-meridione-2-novembre_118452281-202602k.shtml",
-      "published": "2026-11-01T20:12:00+00:00"
     },
     {
       "id": "21aa45f0739a19b16556",
