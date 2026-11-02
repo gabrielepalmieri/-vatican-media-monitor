@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-02T12:20:26.146237+00:00",
+  "updated_at": "2026-11-02T12:25:30.539512+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-02T12:20:26.146237+00:00"
+      "checked_at": "2026-11-02T12:25:30.539512+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-02T12:20:26.146237+00:00"
+      "checked_at": "2026-11-02T12:25:30.539512+00:00"
     }
   },
   "items": [
+    {
+      "id": "7fc9e83db255b828cc73",
+      "source": "BBC News",
+      "title": "Ryanair says it may freeze workers' pay and raise airfares",
+      "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T12:22:10+00:00"
+    },
     {
       "id": "65f0e8ea62f757fdd6b2",
       "source": "TGcom24",
@@ -31,13 +38,6 @@
       "title": "Supermarket freezers in Belgium, Sweden and Luxembourg hit by suspected cyber-attack",
       "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-02T11:56:32+00:00"
-    },
-    {
-      "id": "7fc9e83db255b828cc73",
-      "source": "BBC News",
-      "title": "Ryanair says it may freeze workers' pay and raise airfares",
-      "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T11:27:25+00:00"
     },
     {
       "id": "cdf7f09311d2b1d2eb8e",
