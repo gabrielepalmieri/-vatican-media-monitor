@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-02T21:05:18.720768+00:00",
+  "updated_at": "2026-11-02T21:10:26.199098+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-02T21:05:18.720768+00:00"
+      "checked_at": "2026-11-02T21:10:26.199098+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-02T21:05:18.720768+00:00"
+      "checked_at": "2026-11-02T21:10:26.199098+00:00"
     }
   },
   "items": [
+    {
+      "id": "9a7884b8aa35d50402fb",
+      "source": "BBC News",
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T21:10:04+00:00"
+    },
     {
       "id": "eb51e8f5decbf58550a0",
       "source": "BBC News",
@@ -31,13 +38,6 @@
       "title": "Trump: \"Nuovi attacchi contro l'Iran dopo le Midterm? No\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-2-novembre_118489521-202602k.shtml",
       "published": "2026-11-02T20:27:00+00:00"
-    },
-    {
-      "id": "9a7884b8aa35d50402fb",
-      "source": "BBC News",
-      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T20:23:12+00:00"
     },
     {
       "id": "cc6496a8b52f2791099f",
