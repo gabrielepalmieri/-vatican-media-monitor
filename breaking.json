@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-02T17:50:26.551202+00:00",
+  "updated_at": "2026-11-02T17:55:18.971259+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-02T17:50:26.551202+00:00"
+      "checked_at": "2026-11-02T17:55:18.971259+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-02T17:50:26.551202+00:00"
+      "checked_at": "2026-11-02T17:55:18.971259+00:00"
     }
   },
   "items": [
+    {
+      "id": "78de05637ce4ec2b200f",
+      "source": "TGcom24",
+      "title": "Ucraina, Zelensky: \"Raid su Komysuhvakha, almeno 18 morti\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-1novembre_118456547-202602k.shtml",
+      "published": "2026-11-02T17:48:00+00:00"
+    },
     {
       "id": "7f50d0b66f1b0b3beb06",
       "source": "BBC News",
@@ -297,13 +304,6 @@
       "title": "Antonelli - the boy 'born in a garage' who became world champion",
       "url": "https://www.bbc.co.uk/sport/formula1/articles/c0rdvxdwwwwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-01T22:25:01+00:00"
-    },
-    {
-      "id": "942e15c351911999d3cf",
-      "source": "TGcom24",
-      "title": "Rovigo, botte e insulti a un'anziana: badante arrestata per maltrattamenti",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/rovigo-botte-insulti-anziana-arrestata-maltrattamenti_118456215-202602k.shtml",
-      "published": "2026-11-01T22:00:00+00:00"
     },
     {
       "id": "21aa45f0739a19b16556",
