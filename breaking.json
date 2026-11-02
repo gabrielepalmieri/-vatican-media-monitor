@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-02T07:30:46.223427+00:00",
+  "updated_at": "2026-11-02T07:35:18.602414+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-02T07:30:46.223427+00:00"
+      "checked_at": "2026-11-02T07:35:18.602414+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-02T07:30:46.223427+00:00"
+      "checked_at": "2026-11-02T07:35:18.602414+00:00"
     }
   },
   "items": [
@@ -16,7 +16,14 @@
       "source": "BBC News",
       "title": "Nine killed as small jet crashes on Florida street",
       "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T07:12:55+00:00"
+      "published": "2026-11-02T07:33:17+00:00"
+    },
+    {
+      "id": "ddd2e7176e3fc3508573",
+      "source": "TGcom24",
+      "title": "Sicurezza, contrasto a criminalità giovanile: 644 arresti, 69 sono minori",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/sicurezza-giovani-644-arresti-69-minori_118471860-202602k.shtml",
+      "published": "2026-11-02T07:30:00+00:00"
     },
     {
       "id": "2ce209ee13608730b52c",
@@ -248,13 +255,6 @@
       "title": "Arezzo, trovato un cadavere in un parcheggio: c'è un sospettato",
       "url": "https://www.tgcom24.mediaset.it/cronaca/arezzo-ritrovato-cadavere-parcheggio_118425581-202602k.shtml",
       "published": "2026-11-01T11:52:00+00:00"
-    },
-    {
-      "id": "644382f85ce7a35e2c23",
-      "source": "TGcom24",
-      "title": "Cagliari, palpeggiano una donna al semaforo: arrestati due giovani",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/cagliari-violenza-sessuale-arrestati_118425582-202602k.shtml",
-      "published": "2026-11-01T11:11:00+00:00"
     },
     {
       "id": "59dd94ad58c39f20f557",
