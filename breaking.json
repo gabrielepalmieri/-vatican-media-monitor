@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-02T20:25:18.390927+00:00",
+  "updated_at": "2026-11-02T20:30:46.028944+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-02T20:25:18.390927+00:00"
+      "checked_at": "2026-11-02T20:30:46.028944+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-02T20:25:18.390927+00:00"
+      "checked_at": "2026-11-02T20:30:46.028944+00:00"
     }
   },
   "items": [
+    {
+      "id": "b58bb8c63c3fb24d75e0",
+      "source": "TGcom24",
+      "title": "Trump: \"Nuovi attacchi contro l'Iran dopo le Midterm? No\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-2-novembre_118489521-202602k.shtml",
+      "published": "2026-11-02T20:27:00+00:00"
+    },
     {
       "id": "9a7884b8aa35d50402fb",
       "source": "BBC News",
@@ -311,13 +318,6 @@
       "title": "Iran killed her teenage daughter - now she is facing up to the regime",
       "url": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-02T06:00:54+00:00"
-    },
-    {
-      "id": "524a9e9326a936f0b892",
-      "source": "TGcom24",
-      "title": "Kiev e Mosca denunciano attacchi hacker alle rispettive app di allerta aerea",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-2-novembre_118469068-202602k.shtml",
-      "published": "2026-11-02T06:00:00+00:00"
     },
     {
       "id": "f1f8dee6d807d9ea923c",
