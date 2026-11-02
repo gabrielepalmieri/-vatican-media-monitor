@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-02T12:15:29.968632+00:00",
+  "updated_at": "2026-11-02T12:20:26.146237+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-02T12:15:29.968632+00:00"
+      "checked_at": "2026-11-02T12:20:26.146237+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-02T12:15:29.968632+00:00"
+      "checked_at": "2026-11-02T12:20:26.146237+00:00"
     }
   },
   "items": [
+    {
+      "id": "65f0e8ea62f757fdd6b2",
+      "source": "TGcom24",
+      "title": "Uccise la moglie con l'insulina, la difesa chiede i domiciliari per Nadir Rossi",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/uccise-moglie-insulina-domiciliari_118481344-202602k.shtml",
+      "published": "2026-11-02T12:15:00+00:00"
+    },
     {
       "id": "fa732cc8c210504d0563",
       "source": "BBC News",
@@ -269,13 +276,6 @@
       "title": "Maestra morta per sospetta meningite nel Bresciano: 180 contatti sotto osservazione",
       "url": "https://www.tgcom24.mediaset.it/cronaca/brescia-maestra-asilo-morta-meningite_118432376-202602k.shtml",
       "published": "2026-11-01T17:05:00+00:00"
-    },
-    {
-      "id": "a19183d0535dfe38db9f",
-      "source": "TGcom24",
-      "title": "Manovra, via la tassa italiana sui piccoli pacchi: rimarrà quella Ue",
-      "url": "https://www.tgcom24.mediaset.it/economia/tassa-italia-piccoli-pacchi-manovra-taglio-ue-cina_118439268-202602k.shtml",
-      "published": "2026-11-01T16:33:00+00:00"
     },
     {
       "id": "6fba5f5244e126b02361",
