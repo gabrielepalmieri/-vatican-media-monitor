@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-02T14:55:19.466119+00:00",
+  "updated_at": "2026-11-02T15:01:19.799529+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-02T14:55:19.466119+00:00"
+      "checked_at": "2026-11-02T15:01:19.799529+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-02T14:55:19.466119+00:00"
+      "checked_at": "2026-11-02T15:01:19.799529+00:00"
     }
   },
   "items": [
@@ -19,11 +19,25 @@
       "published": "2026-11-02T14:47:00+00:00"
     },
     {
+      "id": "758ca07e2ff68035168b",
+      "source": "BBC News",
+      "title": "Wizz Air flight from London in emergency landing after bomb threat",
+      "url": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T14:35:38+00:00"
+    },
+    {
       "id": "7206f0b7a38203f42b88",
       "source": "BBC News",
       "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
       "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-02T14:35:01+00:00"
+    },
+    {
+      "id": "0d6d75aba80a1c5aa267",
+      "source": "BBC News",
+      "title": "What we know about the alert app hack in Ukraine and Russia",
+      "url": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T14:24:25+00:00"
     },
     {
       "id": "b6414d9ade426aee5135",
@@ -276,13 +290,6 @@
       "title": "Armed police start patrols in Sydney after Bondi Beach attack",
       "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-01T17:56:47+00:00"
-    },
-    {
-      "id": "84e658c2f1b5348d05e8",
-      "source": "BBC News",
-      "title": "Lindsay Clancy is back in court - where will her case go next?",
-      "url": "https://www.bbc.co.uk/news/articles/ck3r5z3pw928o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T17:29:08+00:00"
     },
     {
       "id": "f7bd9af73b781fcc77e7",
