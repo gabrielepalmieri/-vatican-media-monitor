@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-02T20:20:29.382236+00:00",
+  "updated_at": "2026-11-02T20:25:18.390927+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-02T20:20:29.382236+00:00"
+      "checked_at": "2026-11-02T20:25:18.390927+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-02T20:20:29.382236+00:00"
+      "checked_at": "2026-11-02T20:25:18.390927+00:00"
     }
   },
   "items": [
+    {
+      "id": "9a7884b8aa35d50402fb",
+      "source": "BBC News",
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T20:23:12+00:00"
+    },
     {
       "id": "cc6496a8b52f2791099f",
       "source": "BBC News",
@@ -38,13 +45,6 @@
       "title": "What Florida jet audio and flight data tells us about its final moments",
       "url": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-02T19:49:22+00:00"
-    },
-    {
-      "id": "9a7884b8aa35d50402fb",
-      "source": "BBC News",
-      "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
-      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T19:37:10+00:00"
     },
     {
       "id": "7c7c1317548183f73a2f",
