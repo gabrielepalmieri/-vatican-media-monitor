@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-02T15:25:28.998976+00:00",
+  "updated_at": "2026-11-02T15:30:58.961252+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-02T15:25:28.998976+00:00"
+      "checked_at": "2026-11-02T15:30:58.961252+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-02T15:25:28.998976+00:00"
+      "checked_at": "2026-11-02T15:30:58.961252+00:00"
     }
   },
   "items": [
+    {
+      "id": "033ca2fd0917cb2fa06a",
+      "source": "TGcom24",
+      "title": "Addio a Nadia Santini, la prima donna chef italiana con 3 Stelle Michelin",
+      "url": "https://www.tgcom24.mediaset.it/tgcom-mag/morta-chef-nadia-santini_118487872-202602k.shtml",
+      "published": "2026-11-02T15:25:00+00:00"
+    },
     {
       "id": "7f50d0b66f1b0b3beb06",
       "source": "BBC News",
@@ -283,13 +290,6 @@
       "title": "Maltempo: allerta arancione in Puglia e Basilicata, gialla in 5 regioni",
       "url": "https://www.tgcom24.mediaset.it/cronaca/maltempo-allerta-arancione-gialla-meridione-2-novembre_118452281-202602k.shtml",
       "published": "2026-11-01T20:12:00+00:00"
-    },
-    {
-      "id": "6b023897203102fe3b2d",
-      "source": "TGcom24",
-      "title": "Israele, Commissione elettorale e Shin Bet: voto regolare, false molte accuse",
-      "url": "https://www.tgcom24.mediaset.it/mondo/israele-elezioni-governo-eisenkot-netanyahu_118430206-202602k.shtml",
-      "published": "2026-11-01T19:30:00+00:00"
     },
     {
       "id": "21aa45f0739a19b16556",
