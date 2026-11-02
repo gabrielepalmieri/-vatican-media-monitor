@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-02T12:05:20.796210+00:00",
+  "updated_at": "2026-11-02T12:10:27.623931+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-02T12:05:20.796210+00:00"
+      "checked_at": "2026-11-02T12:10:27.623931+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-02T12:05:20.796210+00:00"
+      "checked_at": "2026-11-02T12:10:27.623931+00:00"
     }
   },
   "items": [
+    {
+      "id": "fa732cc8c210504d0563",
+      "source": "BBC News",
+      "title": "Uganda begins withdrawing troops from Somalia after 20 years",
+      "url": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T12:05:34+00:00"
+    },
     {
       "id": "7f50d0b66f1b0b3beb06",
       "source": "BBC News",
@@ -73,13 +80,6 @@
       "title": "Roma, fiamme in un appartamento: due morti",
       "url": "https://www.tgcom24.mediaset.it/cronaca/roma-incendio-appartamento-due-morti_118474310-202602k.shtml",
       "published": "2026-11-02T09:00:00+00:00"
-    },
-    {
-      "id": "fa732cc8c210504d0563",
-      "source": "BBC News",
-      "title": "Uganda begins withdrawing troops from Somalia after 20 years",
-      "url": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T08:55:27+00:00"
     },
     {
       "id": "44b580d0a8c3674389e2",
