@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-02T08:55:19.131399+00:00",
+  "updated_at": "2026-11-02T09:01:00.746719+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-02T08:55:19.131399+00:00"
+      "checked_at": "2026-11-02T09:01:00.746719+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-02T08:55:19.131399+00:00"
+      "checked_at": "2026-11-02T09:01:00.746719+00:00"
     }
   },
   "items": [
+    {
+      "id": "8476000881c4f541d2c1",
+      "source": "TGcom24",
+      "title": "Roma, fiamme in un appartamento: due morti",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/roma-incendio-appartamento-due-morti_118474310-202602k.shtml",
+      "published": "2026-11-02T09:00:00+00:00"
+    },
     {
       "id": "44b580d0a8c3674389e2",
       "source": "TGcom24",
@@ -262,13 +269,6 @@
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
       "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-01T13:11:37+00:00"
-    },
-    {
-      "id": "e8185a884ff9971bcb92",
-      "source": "TGcom24",
-      "title": "Elezioni Israele, media: \"Intesa tra partiti arabi per sostenere Eisenkot\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/israele-elezioni-governo-eisenkot-netanyahu_118430206-202602k.shtml",
-      "published": "2026-11-01T13:04:00+00:00"
     },
     {
       "id": "f6a0eadcf04d0e01ee68",
