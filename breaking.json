@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-02T22:30:48.293683+00:00",
+  "updated_at": "2026-11-02T22:35:18.242473+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-02T22:30:48.293683+00:00"
+      "checked_at": "2026-11-02T22:35:18.242473+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-02T22:30:48.293683+00:00"
+      "checked_at": "2026-11-02T22:35:18.242473+00:00"
     }
   },
   "items": [
+    {
+      "id": "096f69206d8a18657035",
+      "source": "TGcom24",
+      "title": "Scontri del 17 ottobre a Milano, lettera di minacce al dirigente di polizia che era rimasto ferito",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/scontri-milano-17-ottobre-poliziotto-ferito-simbolo-angelo-de-simone-minacce_118500023-202602k.shtml",
+      "published": "2026-11-02T22:30:00+00:00"
+    },
     {
       "id": "db6dd93d2135d612f936",
       "source": "TGcom24",
@@ -297,13 +304,6 @@
       "title": "What are Americans voting for in this election?",
       "url": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-02T09:22:55+00:00"
-    },
-    {
-      "id": "8476000881c4f541d2c1",
-      "source": "TGcom24",
-      "title": "Roma, fiamme in un appartamento: due morti",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/roma-incendio-appartamento-due-morti_118474310-202602k.shtml",
-      "published": "2026-11-02T09:00:00+00:00"
     },
     {
       "id": "7a1a8f0eab4f73548579",
