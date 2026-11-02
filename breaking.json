@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-02T19:55:24.620977+00:00",
+  "updated_at": "2026-11-02T20:00:58.291272+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-02T19:55:24.620977+00:00"
+      "checked_at": "2026-11-02T20:00:58.291272+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-02T19:55:24.620977+00:00"
+      "checked_at": "2026-11-02T20:00:58.291272+00:00"
     }
   },
   "items": [
+    {
+      "id": "232ea1ea7a61a2e46d7f",
+      "source": "TGcom24",
+      "title": "Cybersicurezza, tra poche ore a Palazzo Chigi riunione sugli attacchi hacker",
+      "url": "https://www.tgcom24.mediaset.it/mondo/foto/svezia-supermercati-attacco-hacker-frigoriferi-freezer_118479731-202602k.shtml",
+      "published": "2026-11-02T19:54:00+00:00"
+    },
     {
       "id": "9a7884b8aa35d50402fb",
       "source": "BBC News",
@@ -283,13 +290,6 @@
       "title": "Kiev e Mosca denunciano attacchi hacker alle rispettive app di allerta aerea",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-2-novembre_118469068-202602k.shtml",
       "published": "2026-11-02T06:00:00+00:00"
-    },
-    {
-      "id": "631c570ae6e155c3a7f5",
-      "source": "TGcom24",
-      "title": "Midterm, Trump in Kansas: \"Vinceremo con margine schiacciante\"",
-      "url": "https://www.tgcom24.mediaset.it/elezioni-estero/usa-midterm-2026/elezioni-midterm-comizio-trump-kansas-sondaggi_118469061-202602k.shtml",
-      "published": "2026-11-02T05:30:00+00:00"
     },
     {
       "id": "f1f8dee6d807d9ea923c",
