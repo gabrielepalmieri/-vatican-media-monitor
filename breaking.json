@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-02T17:35:19.867407+00:00",
+  "updated_at": "2026-11-02T17:40:28.378782+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-02T17:35:19.867407+00:00"
+      "checked_at": "2026-11-02T17:40:28.378782+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-02T17:35:19.867407+00:00"
+      "checked_at": "2026-11-02T17:40:28.378782+00:00"
     }
   },
   "items": [
+    {
+      "id": "7f50d0b66f1b0b3beb06",
+      "source": "BBC News",
+      "title": "Shop freezers in seven European countries hit by cyber-attack",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T17:38:11+00:00"
+    },
+    {
+      "id": "374239fee365addd8f38",
+      "source": "BBC News",
+      "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+      "url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T17:34:58+00:00"
+    },
     {
       "id": "e81a3fc200c4b9d04658",
       "source": "TGcom24",
@@ -38,13 +52,6 @@
       "title": "Addio a Nadia Santini, la prima donna chef italiana con 3 Stelle Michelin",
       "url": "https://www.tgcom24.mediaset.it/tgcom-mag/morta-chef-nadia-santini_118487872-202602k.shtml",
       "published": "2026-11-02T15:25:00+00:00"
-    },
-    {
-      "id": "7f50d0b66f1b0b3beb06",
-      "source": "BBC News",
-      "title": "Shop freezers in seven European countries hit by cyber-attack",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T15:12:22+00:00"
     },
     {
       "id": "cc112a1d8d69a4d7d3c1",
@@ -213,13 +220,6 @@
       "title": "Sicurezza, contrasto a criminalità giovanile: 644 arresti, 69 sono minori",
       "url": "https://www.tgcom24.mediaset.it/cronaca/sicurezza-giovani-644-arresti-69-minori_118471860-202602k.shtml",
       "published": "2026-11-02T07:30:00+00:00"
-    },
-    {
-      "id": "7f616d62ddc7e2bb0685",
-      "source": "BBC News",
-      "title": "Americast",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pkt7t5?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T06:58:00+00:00"
     },
     {
       "id": "a3e21f9c7d66c888f68a",
