@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-02T05:05:18.056702+00:00",
+  "updated_at": "2026-11-02T05:10:24.515488+00:00",
   "sources": {
     "TGcom24": {
-      "ok": false,
-      "checked_at": "2026-11-02T05:05:18.056702+00:00"
+      "ok": true,
+      "checked_at": "2026-11-02T05:10:24.515488+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-02T05:05:18.056702+00:00"
+      "checked_at": "2026-11-02T05:10:24.515488+00:00"
     }
   },
   "items": [
+    {
+      "id": "160b0cf11760a420a23f",
+      "source": "TGcom24",
+      "title": "Jet privato con a bordo 9 persone si schianta in Florida: nessun superstite",
+      "url": "https://www.tgcom24.mediaset.it/2026/video/jet-privato-con-a-bordo-9-persone-si-schianta-in-florida_118459171-02k.shtml",
+      "published": "2026-11-02T05:04:00+00:00"
+    },
     {
       "id": "550f5f04714cbb2df873",
       "source": "BBC News",
@@ -38,6 +45,13 @@
       "title": "France launches attempted murder investigation after petrol bomb thrown at police",
       "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-02T00:15:30+00:00"
+    },
+    {
+      "id": "b3579a6b08905a2154d2",
+      "source": "TGcom24",
+      "title": "Ucraina: \"Sospetto hackeraggio app di allerta attacchi aerei dell'aeronautica militare\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-1novembre_118456547-202602k.shtml",
+      "published": "2026-11-01T22:58:00+00:00"
     },
     {
       "id": "942e15c351911999d3cf",
@@ -220,20 +234,6 @@
       "title": "Brescia, devastante incendio divora albergo: 40 ospiti evacuati",
       "url": "https://www.tgcom24.mediaset.it/cronaca/ponte-di-legno-incendio-albergo-evacuati_118423146-202602k.shtml",
       "published": "2026-11-01T09:27:00+00:00"
-    },
-    {
-      "id": "7e29d4c7c169e163a660",
-      "source": "TGcom24",
-      "title": "Meloni: \"Io al Quirinale? Sono concentrata a governare per altri cinque anni\"",
-      "url": "https://www.tgcom24.mediaset.it/politica/meloni-quirinale-governo_118422486-202602k.shtml",
-      "published": "2026-11-01T08:51:00+00:00"
-    },
-    {
-      "id": "504d7cdc7948d477ddf8",
-      "source": "TGcom24",
-      "title": "Como, fu trovata morta nella piscina di casa: arrestato l'ex marito",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/como-morta-piscina-arrestato-ex-marito_118419786-202602k.shtml",
-      "published": "2026-11-01T08:30:00+00:00"
     },
     {
       "id": "59dd94ad58c39f20f557",
