@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-02T10:10:37.962290+00:00",
+  "updated_at": "2026-11-02T10:15:36.824679+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-02T10:10:37.962290+00:00"
+      "checked_at": "2026-11-02T10:15:36.824679+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-02T10:10:37.962290+00:00"
+      "checked_at": "2026-11-02T10:15:36.824679+00:00"
     }
   },
   "items": [
+    {
+      "id": "12281df92e27982bedec",
+      "source": "TGcom24",
+      "title": "Omicidio Pier Paolo Pasolini, la procura di Roma apre una nuova indagine",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/omicidio-pier-paolo-pasolini-procura-roma-riapre-indagini_118477515-202602k.shtml",
+      "published": "2026-11-02T10:09:00+00:00"
+    },
     {
       "id": "7fc9e83db255b828cc73",
       "source": "BBC News",
@@ -262,13 +269,6 @@
       "title": "Brescia, maestra d'asilo muore per sospetta meningite: attesa per l'autopsia",
       "url": "https://www.tgcom24.mediaset.it/cronaca/brescia-maestra-asilo-morta-meningite_118432376-202602k.shtml",
       "published": "2026-11-01T14:48:00+00:00"
-    },
-    {
-      "id": "adccb01fc323d5f8b80c",
-      "source": "TGcom24",
-      "title": "Manovra, stretta sugli aumenti degli stipendi dei magistrati",
-      "url": "https://www.tgcom24.mediaset.it/politica/manovra-aumenti-stipendi-magistrati_118433621-202602k.shtml",
-      "published": "2026-11-01T14:09:00+00:00"
     },
     {
       "id": "6fba5f5244e126b02361",
