@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-01T11:47:51.549372+00:00",
+  "updated_at": "2026-11-02T01:29:07.307779+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-11-01T11:47:51.549372+00:00",
+  "un_verified_at": "2026-11-02T01:29:07.307779+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,22 +1918,6 @@
     }
   ],
   "days": {
-    "2026-10-31": {
-      "saints": [
-        {
-          "title": "Sant'Alfonso Rodriguez, religioso gesuita",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/10/31/sant-alfonso-rodriguez--religioso-gesuita.html"
-        }
-      ],
-      "un": [
-        {
-          "title": "Giornata mondiale delle città",
-          "url": "https://www.un.org/en/observances/cities-day"
-        }
-      ],
-      "un_available": true,
-      "holy_see": []
-    },
     "2026-11-01": {
       "saints": [
         {
@@ -2615,6 +2599,22 @@
         }
       ],
       "un": [],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-12-07": {
+      "saints": [
+        {
+          "title": "Sant'Ambrogio, vescovo di Milano e dottore della Chiesa",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/07/sant-ambrogio--vescovo-di-milano-e-dottore-della-chiesa.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata internazionale dell’aviazione civile",
+          "url": "https://www.un.org/en/observances/civil-aviation-day"
+        }
+      ],
       "un_available": true,
       "holy_see": []
     }
