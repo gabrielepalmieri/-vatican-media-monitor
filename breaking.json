@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-02T10:01:01.495954+00:00",
+  "updated_at": "2026-11-02T10:05:21.242009+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-02T10:01:01.495954+00:00"
+      "checked_at": "2026-11-02T10:05:21.242009+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-02T10:01:01.495954+00:00"
+      "checked_at": "2026-11-02T10:05:21.242009+00:00"
     }
   },
   "items": [
+    {
+      "id": "7fc9e83db255b828cc73",
+      "source": "BBC News",
+      "title": "Ryanair says it may freeze workers' pay and raise airfares",
+      "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T10:04:39+00:00"
+    },
     {
       "id": "2a52bf254880aab22d21",
       "source": "TGcom24",
@@ -38,13 +45,6 @@
       "title": "Crans-Montana, la madre di una vittima: \"È stato un omicidio, non una tragedia\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/crans-montana-sion-interrogatorio-jacques-moretti_118473263-202602k.shtml",
       "published": "2026-11-02T08:35:00+00:00"
-    },
-    {
-      "id": "7fc9e83db255b828cc73",
-      "source": "BBC News",
-      "title": "Ryanair may freeze workers' pay and raise airfares",
-      "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T08:33:57+00:00"
     },
     {
       "id": "7a1a8f0eab4f73548579",
