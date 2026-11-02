@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-02T12:50:27.267821+00:00",
+  "updated_at": "2026-11-02T12:55:19.654229+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-02T12:50:27.267821+00:00"
+      "checked_at": "2026-11-02T12:55:19.654229+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-02T12:50:27.267821+00:00"
+      "checked_at": "2026-11-02T12:55:19.654229+00:00"
     }
   },
   "items": [
+    {
+      "id": "7f50d0b66f1b0b3beb06",
+      "source": "BBC News",
+      "title": "Shop freezers in six European countries hit by suspected cyber-attack",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T12:54:33+00:00"
+    },
+    {
+      "id": "0979b6d3fa868c149d23",
+      "source": "TGcom24",
+      "title": "Supermercati europei sotto attacco hacker: frigoriferi e freezer a 70 gradi",
+      "url": "https://www.tgcom24.mediaset.it/mondo/foto/svezia-supermercati-sotto-attacco-hacker-frigoriferi-e-freezer-a-70-gradi-foto_118479731-202602k.shtml",
+      "published": "2026-11-02T12:50:00+00:00"
+    },
     {
       "id": "7fc9e83db255b828cc73",
       "source": "BBC News",
@@ -31,13 +45,6 @@
       "title": "Uganda begins withdrawing troops from Somalia after 20 years",
       "url": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-02T12:05:34+00:00"
-    },
-    {
-      "id": "7f50d0b66f1b0b3beb06",
-      "source": "BBC News",
-      "title": "Supermarket freezers in Belgium, Sweden and Luxembourg hit by suspected cyber-attack",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T11:56:32+00:00"
     },
     {
       "id": "cdf7f09311d2b1d2eb8e",
@@ -271,13 +278,6 @@
       "published": "2026-11-01T17:05:18+00:00"
     },
     {
-      "id": "5281e1b4b679fd52b3ba",
-      "source": "TGcom24",
-      "title": "Maestra morta per sospetta meningite nel Bresciano: 180 contatti sotto osservazione",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/brescia-maestra-asilo-morta-meningite_118432376-202602k.shtml",
-      "published": "2026-11-01T17:05:00+00:00"
-    },
-    {
       "id": "6fba5f5244e126b02361",
       "source": "BBC News",
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
@@ -304,13 +304,6 @@
       "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
       "url": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-01T05:26:02+00:00"
-    },
-    {
-      "id": "96c914e06106415a07e7",
-      "source": "BBC News",
-      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
-      "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T00:55:06+00:00"
     }
   ]
 }
