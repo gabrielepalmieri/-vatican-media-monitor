@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-02T14:30:59.694093+00:00",
+  "updated_at": "2026-11-02T14:35:31.486329+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-02T14:30:59.694093+00:00"
+      "checked_at": "2026-11-02T14:35:31.486329+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-02T14:30:59.694093+00:00"
+      "checked_at": "2026-11-02T14:35:31.486329+00:00"
     }
   },
   "items": [
+    {
+      "id": "7206f0b7a38203f42b88",
+      "source": "BBC News",
+      "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
+      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T14:35:01+00:00"
+    },
     {
       "id": "b6414d9ade426aee5135",
       "source": "TGcom24",
@@ -38,13 +45,6 @@
       "title": "Supermercati europei sotto attacco hacker: frigoriferi e freezer a 70 gradi",
       "url": "https://www.tgcom24.mediaset.it/mondo/foto/svezia-supermercati-sotto-attacco-hacker-frigoriferi-e-freezer-a-70-gradi-foto_118479731-202602k.shtml",
       "published": "2026-11-02T12:50:00+00:00"
-    },
-    {
-      "id": "7206f0b7a38203f42b88",
-      "source": "BBC News",
-      "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
-      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T12:44:48+00:00"
     },
     {
       "id": "7fc9e83db255b828cc73",
