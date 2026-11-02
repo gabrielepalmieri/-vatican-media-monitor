@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-02T18:05:20.935422+00:00",
+  "updated_at": "2026-11-02T18:10:25.935221+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-02T18:05:20.935422+00:00"
+      "checked_at": "2026-11-02T18:10:25.935221+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-02T18:05:20.935422+00:00"
+      "checked_at": "2026-11-02T18:10:25.935221+00:00"
     }
   },
   "items": [
+    {
+      "id": "9a7884b8aa35d50402fb",
+      "source": "BBC News",
+      "title": "Russian bombing kills 18 people at Ukraine aid centre, Kyiv says",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T18:01:13+00:00"
+    },
     {
       "id": "78de05637ce4ec2b200f",
       "source": "TGcom24",
