@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-02T20:15:31.119080+00:00",
+  "updated_at": "2026-11-02T20:20:29.382236+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-02T20:15:31.119080+00:00"
+      "checked_at": "2026-11-02T20:20:29.382236+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-02T20:15:31.119080+00:00"
+      "checked_at": "2026-11-02T20:20:29.382236+00:00"
     }
   },
   "items": [
+    {
+      "id": "cc6496a8b52f2791099f",
+      "source": "BBC News",
+      "title": "Man guilty of stealing cash from farm owned by South African president",
+      "url": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T20:08:51+00:00"
+    },
+    {
+      "id": "12e6bb9b708f6f2d1364",
+      "source": "BBC News",
+      "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
+      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T19:58:34+00:00"
+    },
     {
       "id": "232ea1ea7a61a2e46d7f",
       "source": "TGcom24",
@@ -19,11 +33,25 @@
       "published": "2026-11-02T19:54:00+00:00"
     },
     {
+      "id": "47b5a53b59212842bb9f",
+      "source": "BBC News",
+      "title": "What Florida jet audio and flight data tells us about its final moments",
+      "url": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T19:49:22+00:00"
+    },
+    {
       "id": "9a7884b8aa35d50402fb",
       "source": "BBC News",
       "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
       "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-02T19:37:10+00:00"
+    },
+    {
+      "id": "7c7c1317548183f73a2f",
+      "source": "BBC News",
+      "title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T19:33:10+00:00"
     },
     {
       "id": "da1deb23d83bec5e720e",
