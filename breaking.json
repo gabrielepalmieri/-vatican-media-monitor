@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-02T15:20:29.438776+00:00",
+  "updated_at": "2026-11-02T15:25:28.998976+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-02T15:20:29.438776+00:00"
+      "checked_at": "2026-11-02T15:25:28.998976+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-02T15:20:29.438776+00:00"
+      "checked_at": "2026-11-02T15:25:28.998976+00:00"
     }
   },
   "items": [
@@ -194,6 +194,13 @@
       "published": "2026-11-02T06:58:00+00:00"
     },
     {
+      "id": "a3e21f9c7d66c888f68a",
+      "source": "BBC News",
+      "title": "'I couldn't be silent': Iranian teen's mother seeking justice after daughter shot dead",
+      "url": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T06:05:34+00:00"
+    },
+    {
       "id": "2ce209ee13608730b52c",
       "source": "BBC News",
       "title": "Iran killed her teenage daughter - now she is facing up to the regime",
@@ -248,13 +255,6 @@
       "title": "Ucraina: \"Sospetto hackeraggio app di allerta attacchi aerei dell'aeronautica militare\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-1novembre_118456547-202602k.shtml",
       "published": "2026-11-01T22:58:00+00:00"
-    },
-    {
-      "id": "e87f729052ad1359e2a1",
-      "source": "BBC News",
-      "title": "North Carolina voters weigh up Trump's track record on cost of living",
-      "url": "https://www.bbc.co.uk/news/videos/cwly0eev3m44o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T22:25:51+00:00"
     },
     {
       "id": "92dc619e998de380ab4b",
