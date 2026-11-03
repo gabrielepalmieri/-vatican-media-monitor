@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-03T21:10:41.027797+00:00",
+  "updated_at": "2026-11-03T21:11:45.222531+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-03T21:10:41.027797+00:00"
+      "checked_at": "2026-11-03T21:11:45.222531+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-03T21:10:41.027797+00:00"
+      "checked_at": "2026-11-03T21:11:45.222531+00:00"
     }
   },
   "items": [
+    {
+      "id": "5e12b153c99de1371555",
+      "source": "TGcom24",
+      "title": "Disastro ferroviario di Toledo, si dimette il ministro dei Trasporti spagnolo",
+      "url": "https://www.tgcom24.mediaset.it/mondo/disastro-toledo-dimissioni-ministro-trasporti_118551385-202602k.shtml",
+      "published": "2026-11-03T21:07:00+00:00"
+    },
     {
       "id": "efa7d6aa241b0bef69d3",
       "source": "BBC News",
@@ -311,13 +318,6 @@
       "title": "Asian Cup postponed in wake of attacks on Saudi Arabia",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-03T07:15:17+00:00"
-    },
-    {
-      "id": "8ea36a2b864715dae060",
-      "source": "TGcom24",
-      "title": "Witkoff: \"Usa medieranno colloqui Abu Dhabi a livello tecnico tra Russia e Ucraina\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-3-novembre_118517162-202602k.shtml",
-      "published": "2026-11-03T06:53:00+00:00"
     },
     {
       "id": "ff1a9b2a0529725e236f",
