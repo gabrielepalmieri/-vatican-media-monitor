@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-03T13:35:19.713805+00:00",
+  "updated_at": "2026-11-03T13:40:25.882344+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-03T13:35:19.713805+00:00"
+      "checked_at": "2026-11-03T13:40:25.882344+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-03T13:35:19.713805+00:00"
+      "checked_at": "2026-11-03T13:40:25.882344+00:00"
     }
   },
   "items": [
+    {
+      "id": "578109a7672482a35170",
+      "source": "TGcom24",
+      "title": "Melania Trump riunirà alla Casa Bianca funzionari russi e ucraini il 5/11",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-3-novembre_118517162-202602k.shtml",
+      "published": "2026-11-03T13:35:00+00:00"
+    },
     {
       "id": "7c7c1317548183f73a2f",
       "source": "BBC News",
@@ -304,13 +311,6 @@
       "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
       "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-02T18:25:01+00:00"
-    },
-    {
-      "id": "5e18a0d41ae5eb35f70f",
-      "source": "TGcom24",
-      "title": "Violati i sigilli della casa di Pamela Genini, la mamma: \"Chi è entrato aveva le chiavi\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/pamela-genini-sigilli-violati-appartamento_118499601-202602k.shtml",
-      "published": "2026-11-02T18:15:00+00:00"
     },
     {
       "id": "374239fee365addd8f38",
