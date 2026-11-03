@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-03T10:45:32.375276+00:00",
+  "updated_at": "2026-11-03T10:50:25.306650+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-03T10:45:32.375276+00:00"
+      "checked_at": "2026-11-03T10:50:25.306650+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-03T10:45:32.375276+00:00"
+      "checked_at": "2026-11-03T10:50:25.306650+00:00"
     }
   },
   "items": [
+    {
+      "id": "fde0066b7a774ad6c26d",
+      "source": "TGcom24",
+      "title": "Guerra Iran, Von Der Leyen: \"La chiusura di Hormuz è costata all'Ue 127 miliardi in più\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-3-novembre_118524635-202602k.shtml",
+      "published": "2026-11-03T10:43:00+00:00"
+    },
     {
       "id": "31badb54e6330ec0281a",
       "source": "BBC News",
@@ -304,13 +311,6 @@
       "title": "Da Udine a Roma ondata di mail anonime in arabo: \"C'è una bomba a scuola\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/bomba-scuola-allarme-italia_118488470-202602k.shtml",
       "published": "2026-11-02T16:00:00+00:00"
-    },
-    {
-      "id": "cc112a1d8d69a4d7d3c1",
-      "source": "TGcom24",
-      "title": "Guerra Iran, ok di Khamenei a trattare con gli Usa: prezzo del petrolio a picco",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-2-novembre_118489521-202602k.shtml",
-      "published": "2026-11-02T14:47:00+00:00"
     },
     {
       "id": "0d6d75aba80a1c5aa267",
