@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-03T02:00:59.328773+00:00",
+  "updated_at": "2026-11-03T02:05:18.601372+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-03T02:00:59.328773+00:00"
+      "checked_at": "2026-11-03T02:05:18.601372+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-03T02:00:59.328773+00:00"
+      "checked_at": "2026-11-03T02:05:18.601372+00:00"
     }
   },
   "items": [
+    {
+      "id": "218f262f8a5de2ef1684",
+      "source": "BBC News",
+      "title": "Man and boy arrested after allegedly attacking One Nation volunteer with baseball bat in Australia",
+      "url": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T01:57:46+00:00"
+    },
     {
       "id": "9a7884b8aa35d50402fb",
       "source": "BBC News",
@@ -325,13 +332,6 @@
       "title": "Popular Australian children's author jailed over child exploitation offences",
       "url": "https://www.bbc.co.uk/news/articles/cmjwe9nggp60o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-02T08:03:39+00:00"
-    },
-    {
-      "id": "6e739015e9eb46846c67",
-      "source": "BBC News",
-      "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
-      "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T07:42:33+00:00"
     },
     {
       "id": "a3e21f9c7d66c888f68a",
