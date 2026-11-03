@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-03T17:55:26.480131+00:00",
+  "updated_at": "2026-11-03T18:01:12.209312+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-03T17:55:26.480131+00:00"
+      "checked_at": "2026-11-03T18:01:12.209312+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-03T17:55:26.480131+00:00"
+      "checked_at": "2026-11-03T18:01:12.209312+00:00"
     }
   },
   "items": [
+    {
+      "id": "e2bcaf422052ba63e158",
+      "source": "BBC News",
+      "title": "Seven flights across Europe targeted by suspected bomb threats",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T17:56:03+00:00"
+    },
     {
       "id": "45ec370d469f42446139",
       "source": "TGcom24",
       "title": "Lufthansa, firmato accordo con Lisbona: un miliardo per il 44,9% di Tap",
       "url": "https://www.tgcom24.mediaset.it/economia/lufthansa-accordo-lisbona-un-miliardo-per-il-44-9-di-tap_118542720-202602k.shtml",
       "published": "2026-11-03T17:40:00+00:00"
-    },
-    {
-      "id": "e2bcaf422052ba63e158",
-      "source": "BBC News",
-      "title": "Bomb threats target seven flights across Europe",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T17:21:26+00:00"
     },
     {
       "id": "f96bdeb018c3873aa0a3",
