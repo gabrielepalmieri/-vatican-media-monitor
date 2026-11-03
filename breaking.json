@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-03T21:55:20.145293+00:00",
+  "updated_at": "2026-11-03T22:00:58.979199+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-03T21:55:20.145293+00:00"
+      "checked_at": "2026-11-03T22:00:58.979199+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-03T21:55:20.145293+00:00"
+      "checked_at": "2026-11-03T22:00:58.979199+00:00"
     }
   },
   "items": [
+    {
+      "id": "cdda45a3602cb125897c",
+      "source": "BBC News",
+      "title": "NTSB says crucial plane parts found three miles from Florida crash site",
+      "url": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T21:53:38+00:00"
+    },
     {
       "id": "ddf5076cc7bb7d2f7042",
       "source": "TGcom24",
@@ -292,13 +299,6 @@
       "published": "2026-11-03T08:30:00+00:00"
     },
     {
-      "id": "92b09dba875d8d503566",
-      "source": "TGcom24",
-      "title": "Bimbo muore di morbillo: primo caso in 30 anni nello Stato di New York",
-      "url": "https://www.tgcom24.mediaset.it/mondo/usa-bambino-morto-morbillo-polemica-vaccino_118519364-202602k.shtml",
-      "published": "2026-11-03T08:00:00+00:00"
-    },
-    {
       "id": "9a61dbe62bcae2e4d659",
       "source": "BBC News",
       "title": "Major test for Australia's social media ban begins in High Court",
@@ -353,13 +353,6 @@
       "title": "Musk pumps $446m into US midterms, as campaign spending set to 'shatter' records",
       "url": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-02T20:54:44+00:00"
-    },
-    {
-      "id": "cc6496a8b52f2791099f",
-      "source": "BBC News",
-      "title": "Man guilty of stealing cash from farm owned by South African president",
-      "url": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T20:08:51+00:00"
     },
     {
       "id": "47b5a53b59212842bb9f",
