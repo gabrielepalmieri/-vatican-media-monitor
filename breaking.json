@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-03T23:10:27.100161+00:00",
+  "updated_at": "2026-11-03T23:20:25.058623+00:00",
   "sources": {
     "TGcom24": {
-      "ok": false,
-      "checked_at": "2026-11-03T23:10:27.100161+00:00"
+      "ok": true,
+      "checked_at": "2026-11-03T23:20:25.058623+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-03T23:10:27.100161+00:00"
+      "checked_at": "2026-11-03T23:20:25.058623+00:00"
     }
   },
   "items": [
+    {
+      "id": "e937b9612479a9ee8da0",
+      "source": "TGcom24",
+      "title": "Midterm, chiudono le prime urne: via allo spoglio in Kentucky e Indiana",
+      "url": "https://www.tgcom24.mediaset.it/elezioni-estero/usa-midterm-2026/elezioni-midterm-usa-2026-risultati-live_118551779-202602k.shtml",
+      "published": "2026-11-03T23:00:00+00:00"
+    },
     {
       "id": "efa7d6aa241b0bef69d3",
       "source": "BBC News",
@@ -269,13 +276,6 @@
       "title": "Parma, famiglia intossicata dal monossido: morta anche la neonata",
       "url": "https://www.tgcom24.mediaset.it/cronaca/neonata-parma-morta-intossicata-monossido_118523206-202602k.shtml",
       "published": "2026-11-03T09:55:00+00:00"
-    },
-    {
-      "id": "6fe95e24eec65086dba2",
-      "source": "TGcom24",
-      "title": "Ucraina, in settimana riunione Nato-Usa-E3 a Bruxelles",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-3-novembre_118517162-202602k.shtml",
-      "published": "2026-11-03T09:12:00+00:00"
     },
     {
       "id": "9c44fa20141a7d05727c",
