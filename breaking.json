@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-03T06:55:19.444733+00:00",
+  "updated_at": "2026-11-03T07:01:00.325578+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-03T06:55:19.444733+00:00"
+      "checked_at": "2026-11-03T07:01:00.325578+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-03T06:55:19.444733+00:00"
+      "checked_at": "2026-11-03T07:01:00.325578+00:00"
     }
   },
   "items": [
+    {
+      "id": "8ea36a2b864715dae060",
+      "source": "TGcom24",
+      "title": "Witkoff: \"Usa medieranno colloqui Abu Dhabi a livello tecnico tra Russia e Ucraina\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-3-novembre_118517162-202602k.shtml",
+      "published": "2026-11-03T06:53:00+00:00"
+    },
     {
       "id": "74e57778158483aaebc1",
       "source": "TGcom24",
@@ -325,13 +332,6 @@
       "title": "Uganda begins withdrawing troops from Somalia after 20 years",
       "url": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-02T12:05:34+00:00"
-    },
-    {
-      "id": "cdf7f09311d2b1d2eb8e",
-      "source": "TGcom24",
-      "title": "Atterrato a Ciampino l'aereo con le salme dei militari morti in Bosnia",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/schianto-elicottero-bosnia-arrivo-aeroporto-ciampino-salme_118481596-202602k.shtml",
-      "published": "2026-11-02T11:23:00+00:00"
     },
     {
       "id": "451414ebf259428c2259",
