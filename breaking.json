@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-03T06:25:18.415657+00:00",
+  "updated_at": "2026-11-03T06:30:49.319320+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-03T06:25:18.415657+00:00"
+      "checked_at": "2026-11-03T06:30:49.319320+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-03T06:25:18.415657+00:00"
+      "checked_at": "2026-11-03T06:30:49.319320+00:00"
     }
   },
   "items": [
+    {
+      "id": "74e57778158483aaebc1",
+      "source": "TGcom24",
+      "title": "Ucraina, droni colpiscono la raffineria di petrolio russa di Yaroslavl",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-3-novembre_118517162-202602k.shtml",
+      "published": "2026-11-03T06:26:00+00:00"
+    },
     {
       "id": "53a2c95cb3ad6b3788d3",
       "source": "BBC News",
@@ -325,13 +332,6 @@
       "title": "Atterrato a Ciampino l'aereo con le salme dei militari morti in Bosnia",
       "url": "https://www.tgcom24.mediaset.it/cronaca/schianto-elicottero-bosnia-arrivo-aeroporto-ciampino-salme_118481596-202602k.shtml",
       "published": "2026-11-02T11:23:00+00:00"
-    },
-    {
-      "id": "a95ecd429bd50909592c",
-      "source": "TGcom24",
-      "title": "Meloni: \"La lotta alla criminalità giovanile continua, lo Stato c'è\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/sicurezza-giovani-644-arresti-69-minori_118471860-202602k.shtml",
-      "published": "2026-11-02T10:49:00+00:00"
     },
     {
       "id": "451414ebf259428c2259",
