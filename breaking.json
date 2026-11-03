@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-03T07:50:25.859224+00:00",
+  "updated_at": "2026-11-03T07:55:27.933069+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-03T07:50:25.859224+00:00"
+      "checked_at": "2026-11-03T07:55:27.933069+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-03T07:50:25.859224+00:00"
+      "checked_at": "2026-11-03T07:55:27.933069+00:00"
     }
   },
   "items": [
+    {
+      "id": "9a61dbe62bcae2e4d659",
+      "source": "BBC News",
+      "title": "Australia's social media ban 'ill thought out', High Court told in legal challenge",
+      "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T07:53:38+00:00"
+    },
+    {
+      "id": "0560016032ea2c06ece7",
+      "source": "BBC News",
+      "title": "Why a US-Russia showdown left Morocco celebrating",
+      "url": "https://www.bbc.co.uk/news/articles/cqp8genleg2ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T07:29:46+00:00"
+    },
     {
       "id": "a935483747a6b4a5651a",
       "source": "TGcom24",
@@ -24,6 +38,13 @@
       "title": "Russian bombing kills 29 people at Ukraine aid centre, Kyiv says",
       "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-03T07:24:12+00:00"
+    },
+    {
+      "id": "fe43649513ff0b6e0dd6",
+      "source": "BBC News",
+      "title": "Asian Cup postponed in wake of attacks on Saudi Arabia",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T07:15:17+00:00"
     },
     {
       "id": "8ea36a2b864715dae060",
@@ -54,6 +75,13 @@
       "published": "2026-11-03T05:35:00+00:00"
     },
     {
+      "id": "2eb20862523f2667ab44",
+      "source": "BBC News",
+      "title": "Americans head to the polls for elections that could define Trump's closing chapter",
+      "url": "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T05:00:43+00:00"
+    },
+    {
       "id": "ce00161b42de1a5e58ec",
       "source": "TGcom24",
       "title": "Belize, stato di emergenza per escalation di violenza delle gang",
@@ -75,20 +103,6 @@
       "published": "2026-11-03T03:32:36+00:00"
     },
     {
-      "id": "218f262f8a5de2ef1684",
-      "source": "BBC News",
-      "title": "Man and boy arrested after allegedly attacking One Nation volunteer with bat",
-      "url": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T03:30:16+00:00"
-    },
-    {
-      "id": "7c7c1317548183f73a2f",
-      "source": "BBC News",
-      "title": "Trump to remove Rwanda and South Africa from US trade deal",
-      "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T03:00:36+00:00"
-    },
-    {
       "id": "ce6e372b0c72116663eb",
       "source": "BBC News",
       "title": "Bollywood film star Ranbir Kapoor on AI, movies and fatherhood",
@@ -108,13 +122,6 @@
       "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
       "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-03T00:07:05+00:00"
-    },
-    {
-      "id": "9a61dbe62bcae2e4d659",
-      "source": "BBC News",
-      "title": "Legal challenge to Australia's social media ban to start in High Court",
-      "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T23:37:31+00:00"
     },
     {
       "id": "c0d9167c659f6beb6c7a",
@@ -194,13 +201,6 @@
       "published": "2026-11-02T18:49:00+00:00"
     },
     {
-      "id": "9d08218d0576969dbb8e",
-      "source": "BBC News",
-      "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T18:34:24+00:00"
-    },
-    {
       "id": "a34ce86fc2849e276d24",
       "source": "BBC News",
       "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
@@ -243,13 +243,6 @@
       "published": "2026-11-02T17:33:19+00:00"
     },
     {
-      "id": "0287c0bb0d7b947080a4",
-      "source": "BBC News",
-      "title": "Dutch police offer record €2m reward in hunt for drug lord",
-      "url": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T17:29:49+00:00"
-    },
-    {
       "id": "e81a3fc200c4b9d04658",
       "source": "TGcom24",
       "title": "Midterm, Trump chiede l'intervento della Corte Suprema sul blocco dei voti in California",
@@ -276,13 +269,6 @@
       "title": "Guerra Iran, ok di Khamenei a trattare con gli Usa: prezzo del petrolio a picco",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-2-novembre_118489521-202602k.shtml",
       "published": "2026-11-02T14:47:00+00:00"
-    },
-    {
-      "id": "758ca07e2ff68035168b",
-      "source": "BBC News",
-      "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
-      "url": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T14:35:38+00:00"
     },
     {
       "id": "0d6d75aba80a1c5aa267",
@@ -320,39 +306,11 @@
       "published": "2026-11-02T12:50:00+00:00"
     },
     {
-      "id": "7fc9e83db255b828cc73",
-      "source": "BBC News",
-      "title": "Ryanair says it may freeze workers' pay and raise airfares",
-      "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T12:22:10+00:00"
-    },
-    {
       "id": "65f0e8ea62f757fdd6b2",
       "source": "TGcom24",
       "title": "Uccise la moglie con l'insulina, niente domiciliari per Nadir Rossi",
       "url": "https://www.tgcom24.mediaset.it/cronaca/uccise-moglie-insulina-domiciliari_118481344-202602k.shtml",
       "published": "2026-11-02T12:15:00+00:00"
-    },
-    {
-      "id": "fa732cc8c210504d0563",
-      "source": "BBC News",
-      "title": "Uganda begins withdrawing troops from Somalia after 20 years",
-      "url": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T12:05:34+00:00"
-    },
-    {
-      "id": "451414ebf259428c2259",
-      "source": "BBC News",
-      "title": "Five arrested after South African farmer shot and tortured",
-      "url": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T10:48:47+00:00"
-    },
-    {
-      "id": "7a1a8f0eab4f73548579",
-      "source": "BBC News",
-      "title": "Popular Australian children's author jailed over child exploitation offences",
-      "url": "https://www.bbc.co.uk/news/articles/cmjwe9nggp60o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T08:03:39+00:00"
     },
     {
       "id": "a3e21f9c7d66c888f68a",
@@ -362,32 +320,11 @@
       "published": "2026-11-02T06:05:34+00:00"
     },
     {
-      "id": "2ce209ee13608730b52c",
-      "source": "BBC News",
-      "title": "Iran killed her teenage daughter - now she is facing up to the regime",
-      "url": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T06:00:54+00:00"
-    },
-    {
-      "id": "f1f8dee6d807d9ea923c",
-      "source": "BBC News",
-      "title": "China state broadcaster pulls La Liga matches following Mbappé joke",
-      "url": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T03:58:38+00:00"
-    },
-    {
       "id": "87ced7691da0cbd47a4e",
       "source": "BBC News",
       "title": "Democrats have high hopes for midterms - but are the polls right?",
       "url": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-02T00:25:12+00:00"
-    },
-    {
-      "id": "5a6d44a10cd2f9d75409",
-      "source": "BBC News",
-      "title": "France launches attempted murder investigation after petrol bomb thrown at police",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T00:15:30+00:00"
     }
   ]
 }
