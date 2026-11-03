@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-02T13:26:21.422101+00:00",
+  "updated_at": "2026-11-03T03:26:53.844948+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-11-02T13:26:21.422101+00:00",
+  "un_verified_at": "2026-11-03T03:26:53.844948+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,17 +1918,6 @@
     }
   ],
   "days": {
-    "2026-11-01": {
-      "saints": [
-        {
-          "title": "Ognissanti",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/01/ognissanti.html"
-        }
-      ],
-      "un": [],
-      "un_available": true,
-      "holy_see": []
-    },
     "2026-11-02": {
       "saints": [
         {
@@ -2615,6 +2604,17 @@
           "url": "https://www.un.org/en/observances/civil-aviation-day"
         }
       ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-12-08": {
+      "saints": [
+        {
+          "title": "Sant'Eutichiano, papa, nel cimitero di Calisto",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/08.html"
+        }
+      ],
+      "un": [],
       "un_available": true,
       "holy_see": []
     }
