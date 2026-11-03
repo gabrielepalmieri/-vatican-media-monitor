@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-03T16:20:28.679437+00:00",
+  "updated_at": "2026-11-03T16:25:20.640558+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-03T16:20:28.679437+00:00"
+      "checked_at": "2026-11-03T16:25:20.640558+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-03T16:20:28.679437+00:00"
+      "checked_at": "2026-11-03T16:25:20.640558+00:00"
     }
   },
   "items": [
+    {
+      "id": "eecc546654101c5218bf",
+      "source": "TGcom24",
+      "title": "Hackeraggio supermercati, Piantedosi: \"Iniziativa coordinata a livello europeo\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/attacco-hacker-supermercati-frigoriferi_118519023-202602k.shtml",
+      "published": "2026-11-03T16:19:00+00:00"
+    },
     {
       "id": "91cdf0423152f88b3538",
       "source": "TGcom24",
@@ -297,13 +304,6 @@
       "title": "Musk pumps $446m into US midterms, as campaign spending set to 'shatter' records",
       "url": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-02T20:54:44+00:00"
-    },
-    {
-      "id": "3c41e205bbd5449bd887",
-      "source": "TGcom24",
-      "title": "Israele, Netanyahu: \"Aperto al dialogo per un ampio governo nazionale\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/benjamin-netanyahu-israele-aperto-dialogo-governo-nazionale_118505950-202602k.shtml",
-      "published": "2026-11-02T20:54:00+00:00"
     },
     {
       "id": "cc6496a8b52f2791099f",
