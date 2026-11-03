@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-03T07:20:27.612928+00:00",
+  "updated_at": "2026-11-03T07:25:18.903037+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-03T07:20:27.612928+00:00"
+      "checked_at": "2026-11-03T07:25:18.903037+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-03T07:20:27.612928+00:00"
+      "checked_at": "2026-11-03T07:25:18.903037+00:00"
     }
   },
   "items": [
+    {
+      "id": "9a7884b8aa35d50402fb",
+      "source": "BBC News",
+      "title": "Russian bombing kills 29 people at Ukraine aid centre, Kyiv says",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T07:24:12+00:00"
+    },
     {
       "id": "8ea36a2b864715dae060",
       "source": "TGcom24",
@@ -73,13 +80,6 @@
       "title": "Trump to remove Rwanda and South Africa from US trade deal",
       "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-03T03:00:36+00:00"
-    },
-    {
-      "id": "9a7884b8aa35d50402fb",
-      "source": "BBC News",
-      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T01:56:27+00:00"
     },
     {
       "id": "ce6e372b0c72116663eb",
