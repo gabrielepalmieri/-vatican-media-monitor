@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-03T06:20:26.324005+00:00",
+  "updated_at": "2026-11-03T06:25:18.415657+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-03T06:20:26.324005+00:00"
+      "checked_at": "2026-11-03T06:25:18.415657+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-03T06:20:26.324005+00:00"
+      "checked_at": "2026-11-03T06:25:18.415657+00:00"
     }
   },
   "items": [
+    {
+      "id": "53a2c95cb3ad6b3788d3",
+      "source": "BBC News",
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T06:22:29+00:00"
+    },
     {
       "id": "1e9b9ec11b96a61ab691",
       "source": "TGcom24",
@@ -59,13 +66,6 @@
       "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
       "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-03T01:56:27+00:00"
-    },
-    {
-      "id": "53a2c95cb3ad6b3788d3",
-      "source": "BBC News",
-      "title": "North Korea denies being behind record $6.3bn Binance hack",
-      "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T01:23:03+00:00"
     },
     {
       "id": "ce6e372b0c72116663eb",
