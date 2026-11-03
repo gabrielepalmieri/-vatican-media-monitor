@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T02:51:09.371818+00:00",
+  "updated_at": "2026-11-03T03:07:51.488190+00:00",
   "items": [
     {
       "id": "d906824d2169b794",
@@ -224,16 +224,16 @@
       "article_url": "https://www.ncronline.org/vatican/vatican-museum-exhibit-celebrates-almost-century-popemobiles",
       "author_verified": true,
       "byline_checked_at": "2026-11-01T09:20:48.226016+00:00",
+      "author_url": "",
+      "cluster_id": "6a9d2ac5bb64f6a4",
+      "cluster_sources": [
+        "National Catholic Reporter"
+      ],
       "vaticanist_ids": [
         "17"
       ],
       "vaticanist_names": [
         "Claire Giangravè"
-      ],
-      "author_url": "",
-      "cluster_id": "6a9d2ac5bb64f6a4",
-      "cluster_sources": [
-        "National Catholic Reporter"
       ]
     },
     {
@@ -2988,7 +2988,7 @@
     {
       "id": "ad3c9dddc3290159",
       "title": "Casarini: “Noi di sinistra su Dio sbagliavamo tutto, io l’ho incontrato in mare”",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM2JDWE5oWkZneTNINFF4WTJOM1QwT29xYm5DMUtxRnFPSkEwYXhMc0NtZEtBamk0UEpuaGlrWVVkSjEzQ1I0WndZRzlYWXNzN2JEby1FdTNZU0NqRXAwV0xXZDZxa2N2a0paOFpUUkdmT0ZDaEY3M1JfTjlpdHFTM0hhRWExdkttY1M0Zkh5WVpza1RIZk55aUlLOXZCeW5uYjBja3BMV2hxdkxqZ3l5ZXJuMmxpeEnSAbwBQVVfeXFMUE1GUEYzbVIwTTBabW1DZWxWTndmQTBYQ0RkSUdSV0xKdFNYVklRMl9XTHM5UGp3Q3plekpBNnJFeHc2T0lXVldhRFBnUU9oTUtfdGlKLWdXWGhlTTdueUlRS0lfOFc3T0pBcVFtdkgtemt3SkhzWERmWE5iRGRTNVlsRktmYjRURFBhWEI1cmt0VWotdC1GMXFnZk9fMDB4dTFrSGVQVVkzQURxUHh2bmV4SkV5VmR5SHRKZ3M?oc=5",
+      "url": "https://www.repubblica.it/cronaca/2026/11/03/news/luca_casarini_conversione_religione_libro_cosa_ti_muove-425695020/",
       "source": "la Repubblica",
       "country": "Italia",
       "language": "Italiano",
@@ -2996,7 +2996,7 @@
       "topic": "Attualità",
       "kind": "news",
       "cluster_size": 1,
-      "origin": "search",
+      "origin": "direct",
       "author": "Francesco Bei",
       "article_url": "https://www.repubblica.it/cronaca/2026/11/03/news/luca_casarini_conversione_religione_libro_cosa_ti_muove-425695020/",
       "author_verified": true,
@@ -4249,16 +4249,16 @@
       "article_url": "https://www.ilmessaggero.it/mondo/midterm_usa_sinistra_religiosa_destra_cristiana_voto_dio-9864818.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-02T23:50:57.431984+00:00",
+      "author_url": "",
+      "cluster_id": "dac8f1cd82074845",
+      "cluster_sources": [
+        "Il Messaggero"
+      ],
       "vaticanist_ids": [
         "20"
       ],
       "vaticanist_names": [
         "Franca Giansoldati"
-      ],
-      "author_url": "",
-      "cluster_id": "dac8f1cd82074845",
-      "cluster_sources": [
-        "Il Messaggero"
       ]
     },
     {
@@ -12357,7 +12357,7 @@
       "kind": "news",
       "cluster_size": 1,
       "origin": "search",
-      "byline_checked_at": "2026-11-03T01:40:47.451061+00:00",
+      "byline_checked_at": "2026-11-03T02:10:51.946120+00:00",
       "cluster_id": "37815f3a9a226bc0",
       "cluster_sources": [
         "Renascença"
@@ -18855,18 +18855,18 @@
       "article_url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-faith-assures-us-that-our-bond-with-the-faithful-departed-has-not-been-broken",
       "author_verified": true,
       "byline_checked_at": "2026-11-02T19:01:22.841119+00:00",
-      "vaticanist_ids": [
-        "150"
-      ],
-      "vaticanist_names": [
-        "Victoria Cardiel"
-      ],
       "author_url": "",
       "author_search": true,
       "cluster_id": "45cc45028105065a",
       "cluster_sources": [
         "EWTN News",
         "National Catholic Register"
+      ],
+      "vaticanist_ids": [
+        "150"
+      ],
+      "vaticanist_names": [
+        "Victoria Cardiel"
       ]
     },
     {
@@ -21312,17 +21312,17 @@
       "article_url": "https://www.avvenire.it/chiesa/papa/il-papa-al-verano-le-lacrime-di-madri-e-bambini-in-guerra-tocchino-il-cuore-dei-potenti_115177",
       "author_verified": true,
       "byline_checked_at": "2026-11-02T18:31:10.241221+00:00",
-      "vaticanist_ids": [
-        "113"
-      ],
-      "vaticanist_names": [
-        "Giacomo Gambassi"
-      ],
       "author_url": "",
       "cluster_id": "420ccc44c9e84406",
       "cluster_sources": [
         "Avvenire",
         "FarodiRoma"
+      ],
+      "vaticanist_ids": [
+        "113"
+      ],
+      "vaticanist_names": [
+        "Giacomo Gambassi"
       ]
     },
     {
@@ -22398,7 +22398,8 @@
         "Facebook",
         "Instagram",
         "X"
-      ]
+      ],
+      "account_checked_at": "2026-11-03T03:06:23.095119+00:00"
     },
     {
       "id": "ab302d51c373c762",
@@ -24484,7 +24485,8 @@
       "cluster_id": "bb3391a6e7db6bc0",
       "cluster_sources": [
         "TikTok"
-      ]
+      ],
+      "account_checked_at": "2026-11-03T03:06:23.095119+00:00"
     },
     {
       "id": "59b64fef4a856051",
@@ -26961,7 +26963,8 @@
       "cluster_id": "8606d957bafa5795",
       "cluster_sources": [
         "TikTok"
-      ]
+      ],
+      "account_checked_at": "2026-11-03T03:06:23.095119+00:00"
     },
     {
       "id": "339627321bc9fb4f",
@@ -29309,17 +29312,17 @@
       "article_url": "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-misa-fieles-difuntos?redirectedfrom=aci-prensa",
       "author_verified": true,
       "byline_checked_at": "2026-11-02T16:31:08.110730+00:00",
-      "vaticanist_ids": [
-        "150"
-      ],
-      "vaticanist_names": [
-        "Victoria Cardiel"
-      ],
       "author_url": "",
       "cluster_id": "1de4bd9d46442801",
       "cluster_sources": [
         "EWTN News",
         "Facebook"
+      ],
+      "vaticanist_ids": [
+        "150"
+      ],
+      "vaticanist_names": [
+        "Victoria Cardiel"
       ]
     },
     {
@@ -30349,18 +30352,18 @@
       "article_url": "https://www.osvnews.com/for-pope-leo-peru-trip-is-more-homecoming-than-state-visit/",
       "author_verified": true,
       "byline_checked_at": "2026-11-02T16:31:08.110730+00:00",
-      "vaticanist_ids": [
-        "188"
-      ],
-      "vaticanist_names": [
-        "Junno Arocho Esteves"
-      ],
       "author_url": "",
       "cluster_id": "07807c0a16be6f76",
       "cluster_sources": [
         "OSV News",
         "The Tablet Catholic Newspaper",
         "thetablet.org"
+      ],
+      "vaticanist_ids": [
+        "188"
+      ],
+      "vaticanist_names": [
+        "Junno Arocho Esteves"
       ]
     },
     {
@@ -30980,7 +30983,8 @@
       "cluster_id": "52074414f35b2d8a",
       "cluster_sources": [
         "TikTok"
-      ]
+      ],
+      "account_checked_at": "2026-11-03T03:06:23.095119+00:00"
     },
     {
       "id": "2ea9b143cf0b23c7",
@@ -31341,7 +31345,8 @@
       "cluster_id": "9ef59baec0475775",
       "cluster_sources": [
         "X"
-      ]
+      ],
+      "account_checked_at": "2026-11-03T03:06:23.095119+00:00"
     },
     {
       "id": "9ef59baec0475775",
@@ -31379,17 +31384,17 @@
       "article_url": "https://www.eldebate.com/religion/vaticano/20261102/leon-xiv-cementerio-verano-vinculo-nuestros-difuntos-no-rompe-transforma_476398.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-02T16:20:52.272121+00:00",
-      "vaticanist_ids": [
-        "171"
-      ],
-      "vaticanist_names": [
-        "María Rabell García"
-      ],
       "author_url": "",
       "cluster_id": "18c5f51ee95dbe96",
       "cluster_sources": [
         "COPE",
         "El Debate"
+      ],
+      "vaticanist_ids": [
+        "171"
+      ],
+      "vaticanist_names": [
+        "María Rabell García"
       ]
     },
     {
@@ -31577,7 +31582,8 @@
       "cluster_sources": [
         "Instagram",
         "TikTok"
-      ]
+      ],
+      "account_checked_at": "2026-11-03T03:06:23.095119+00:00"
     },
     {
       "id": "e6869235bf0f08e7",
@@ -32540,17 +32546,17 @@
       "article_url": "https://www.repubblica.it/cronaca/2026/11/02/news/papa_giorno_morti_2_novembre_verano_preghiera_vittime_guerra-425694133/",
       "author_verified": true,
       "byline_checked_at": "2026-11-02T15:50:47.566367+00:00",
-      "vaticanist_ids": [
-        "43"
-      ],
-      "vaticanist_names": [
-        "Iacopo Scaramuzzi"
-      ],
       "author_url": "",
       "cluster_id": "13bd9eefe790da91",
       "cluster_sources": [
         "Famiglia Cristiana",
         "la Repubblica"
+      ],
+      "vaticanist_ids": [
+        "43"
+      ],
+      "vaticanist_names": [
+        "Iacopo Scaramuzzi"
       ]
     },
     {
@@ -33449,7 +33455,8 @@
       "cluster_id": "0e44acaf49fc4e00",
       "cluster_sources": [
         "X"
-      ]
+      ],
+      "account_checked_at": "2026-11-03T03:06:23.095119+00:00"
     },
     {
       "id": "0e44acaf49fc4e00",
@@ -33882,12 +33889,6 @@
       "article_url": "https://www.acistampa.com/amp/story/37491/papa-leone-xiv-tacciano-le-armi-le-lacrime-di-madri-bambini-e-anziani-tocchino-le-coscienze-dei-potenti",
       "author_verified": true,
       "byline_checked_at": "2026-11-02T18:10:50.121411+00:00",
-      "vaticanist_ids": [
-        "13"
-      ],
-      "vaticanist_names": [
-        "Marco Mancini"
-      ],
       "author_url": "",
       "author_search": true,
       "cluster_id": "21f99587df9fb998",
@@ -33897,6 +33898,12 @@
         "Quotidiano Nazionale",
         "SIR - Servizio Informazione Religiosa",
         "Vatican News"
+      ],
+      "vaticanist_ids": [
+        "13"
+      ],
+      "vaticanist_names": [
+        "Marco Mancini"
       ]
     },
     {
@@ -34163,7 +34170,8 @@
       "cluster_id": "7ae32e7278e0bfad",
       "cluster_sources": [
         "Instagram"
-      ]
+      ],
+      "account_checked_at": "2026-11-03T03:06:23.095119+00:00"
     },
     {
       "id": "43bdf9a3be512211",
@@ -34466,7 +34474,7 @@
       "kind": "news",
       "cluster_size": 5,
       "origin": "search",
-      "byline_checked_at": "2026-11-03T00:40:46.505009+00:00",
+      "byline_checked_at": "2026-11-03T02:50:50.256999+00:00",
       "cluster_id": "21f99587df9fb998",
       "cluster_sources": [
         "ACI Stampa",
@@ -35332,7 +35340,8 @@
       "cluster_id": "fbefae0ef8c1b9f1",
       "cluster_sources": [
         "YouTube"
-      ]
+      ],
+      "account_checked_at": "2026-11-03T03:06:23.095119+00:00"
     },
     {
       "id": "44dc7288bc2685c5",
@@ -35686,7 +35695,8 @@
       "cluster_id": "a41f8d439493199d",
       "cluster_sources": [
         "YouTube"
-      ]
+      ],
+      "account_checked_at": "2026-11-03T03:06:23.095119+00:00"
     },
     {
       "id": "8717869383044029",
@@ -35726,7 +35736,8 @@
       "cluster_id": "daaab3512739c620",
       "cluster_sources": [
         "X"
-      ]
+      ],
+      "account_checked_at": "2026-11-03T03:06:23.095119+00:00"
     },
     {
       "id": "8cea9688cba54b9f",
@@ -36371,7 +36382,8 @@
         "ANSA",
         "Famiglia Cristiana",
         "YouTube"
-      ]
+      ],
+      "account_checked_at": "2026-11-03T03:06:23.095119+00:00"
     },
     {
       "id": "7f245a6c2c2ddd3b",
@@ -36517,7 +36529,8 @@
       "cluster_id": "5b12482f19996efb",
       "cluster_sources": [
         "YouTube"
-      ]
+      ],
+      "account_checked_at": "2026-11-03T03:06:23.095119+00:00"
     },
     {
       "id": "89edc1f4d736113f",
@@ -37273,17 +37286,17 @@
       "article_url": "https://thecatholicherald.com/article/french-traditional-order-sees-ordinations-after-years-long-wait-for-vatican-approval",
       "author_verified": true,
       "byline_checked_at": "2026-11-02T15:01:41.671898+00:00",
-      "vaticanist_ids": [
-        "143"
-      ],
-      "vaticanist_names": [
-        "Michael Haynes"
-      ],
       "author_url": "",
       "author_search": true,
       "cluster_id": "61a0c63202053cc2",
       "cluster_sources": [
         "The Catholic Herald"
+      ],
+      "vaticanist_ids": [
+        "143"
+      ],
+      "vaticanist_names": [
+        "Michael Haynes"
       ]
     },
     {
@@ -37584,7 +37597,8 @@
       "cluster_id": "9b08668a33836dbc",
       "cluster_sources": [
         "Instagram"
-      ]
+      ],
+      "account_checked_at": "2026-11-03T03:06:23.095119+00:00"
     },
     {
       "id": "25f50ee0c2352bec",
@@ -37623,7 +37637,8 @@
       "cluster_id": "76956d5c3e06b7a5",
       "cluster_sources": [
         "TikTok"
-      ]
+      ],
+      "account_checked_at": "2026-11-03T03:06:23.095119+00:00"
     },
     {
       "id": "f388c42280912d6d",
@@ -38098,7 +38113,8 @@
       "cluster_id": "6f3225368ce1f449",
       "cluster_sources": [
         "X"
-      ]
+      ],
+      "account_checked_at": "2026-11-03T03:06:23.095119+00:00"
     },
     {
       "id": "f3aa238da1881064",
@@ -38949,7 +38965,8 @@
       "cluster_id": "2b49a795807b33ce",
       "cluster_sources": [
         "Instagram"
-      ]
+      ],
+      "account_checked_at": "2026-11-03T03:06:23.095119+00:00"
     },
     {
       "id": "a981981602722e4a",
@@ -39461,7 +39478,8 @@
       "cluster_id": "4029b2a34226b81e",
       "cluster_sources": [
         "X"
-      ]
+      ],
+      "account_checked_at": "2026-11-03T03:06:23.095119+00:00"
     },
     {
       "id": "3508a77370ae431c",
@@ -39672,18 +39690,18 @@
       "article_url": "https://www.corrierecesenate.it/diario-vaticano-quinta-puntata-con-la-decana-dei-vaticanisti-valentina-alazraki-il-link/",
       "author_verified": true,
       "byline_checked_at": "2026-11-02T16:40:47.267738+00:00",
-      "vaticanist_ids": [
-        "130"
-      ],
-      "vaticanist_names": [
-        "Francesco Zanotti"
-      ],
       "author_url": "",
       "author_search": true,
       "cluster_id": "3a6cbc3286269ff6",
       "cluster_sources": [
         "- Corriere Cesenate",
         "Risveglio Duemila"
+      ],
+      "vaticanist_ids": [
+        "130"
+      ],
+      "vaticanist_names": [
+        "Francesco Zanotti"
       ]
     },
     {
@@ -39952,7 +39970,8 @@
       "cluster_id": "8b239e4f4937d795",
       "cluster_sources": [
         "YouTube"
-      ]
+      ],
+      "account_checked_at": "2026-11-03T03:06:23.095119+00:00"
     },
     {
       "id": "9d65ad384c05e945",
@@ -40009,7 +40028,8 @@
       "cluster_id": "66a23635850506ee",
       "cluster_sources": [
         "X"
-      ]
+      ],
+      "account_checked_at": "2026-11-03T03:06:23.095119+00:00"
     },
     {
       "id": "c8499e9ed1ef0329",
@@ -40152,16 +40172,16 @@
       "article_url": "https://www.ewtnnews.com/es/vaticano/abren-causa-beatificacion-joven-scout-roma",
       "author_verified": true,
       "byline_checked_at": "2026-11-02T14:10:49.231072+00:00",
+      "author_url": "",
+      "cluster_id": "033626fa8684898e",
+      "cluster_sources": [
+        "EWTN News"
+      ],
       "vaticanist_ids": [
         "150"
       ],
       "vaticanist_names": [
         "Victoria Cardiel"
-      ],
-      "author_url": "",
-      "cluster_id": "033626fa8684898e",
-      "cluster_sources": [
-        "EWTN News"
       ]
     },
     {
@@ -41966,17 +41986,17 @@
       "article_url": "https://ewtnvatican.com/articles/romes-catacombs-reveal-the-early-christians-hope-in-life-after-death",
       "author_verified": true,
       "byline_checked_at": "2026-11-02T13:20:59.325376+00:00",
-      "vaticanist_ids": [
-        "280"
-      ],
-      "vaticanist_names": [
-        "Magdalena Wolińska-Riedi"
-      ],
       "author_url": "",
       "cluster_id": "21c9fe1544ef1062",
       "cluster_sources": [
         "EWTN News",
         "EWTN Vatican"
+      ],
+      "vaticanist_ids": [
+        "280"
+      ],
+      "vaticanist_names": [
+        "Magdalena Wolińska-Riedi"
       ]
     },
     {
@@ -48055,16 +48075,16 @@
       "article_url": "https://dioceseofraleigh.org/news/election-cycle-will-influence-when-pope-heads-us-top-vatican-diplomat-says",
       "author_verified": true,
       "byline_checked_at": "2026-11-02T21:10:47.359758+00:00",
+      "author_url": "",
+      "cluster_id": "590fd630c52c5037",
+      "cluster_sources": [
+        "Diocese of Raleigh"
+      ],
       "vaticanist_ids": [
         "138"
       ],
       "vaticanist_names": [
         "Carol Glatz"
-      ],
-      "author_url": "",
-      "cluster_id": "590fd630c52c5037",
-      "cluster_sources": [
-        "Diocese of Raleigh"
       ]
     },
     {
@@ -48408,16 +48428,16 @@
       "article_url": "https://www.lavanguardia.com/internacional/20261102/11673842/primer-ministro-belga-presenta-dimision-fracasar-negociacion-presupuestaria.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-02T10:40:48.822688+00:00",
+      "author_url": "",
+      "cluster_id": "b8b0cbe1c3c17b05",
+      "cluster_sources": [
+        "La Vanguardia"
+      ],
       "vaticanist_ids": [
         "22"
       ],
       "vaticanist_names": [
         "Anna Buj"
-      ],
-      "author_url": "",
-      "cluster_id": "b8b0cbe1c3c17b05",
-      "cluster_sources": [
-        "La Vanguardia"
       ]
     },
     {
@@ -48794,16 +48814,16 @@
       "article_url": "https://www.ncronline.org/vatican/vatican-news/pope-leos-latin-america-trip-high-stakes-homecoming",
       "author_verified": true,
       "byline_checked_at": "2026-11-02T09:10:45.940102+00:00",
+      "author_url": "",
+      "cluster_id": "bf4358041a70322d",
+      "cluster_sources": [
+        "National Catholic Reporter"
+      ],
       "vaticanist_ids": [
         "40"
       ],
       "vaticanist_names": [
         "Justin Mc Lellan"
-      ],
-      "author_url": "",
-      "cluster_id": "bf4358041a70322d",
-      "cluster_sources": [
-        "National Catholic Reporter"
       ]
     },
     {
@@ -48840,17 +48860,17 @@
       "article_url": "https://ewtn.it/2026/11/02/accordo-vaticano-cina-gallagher-riconosce-i-limiti-e-un-secolo-di-papamobili/",
       "author_verified": true,
       "byline_checked_at": "2026-11-02T08:50:51.616177+00:00",
-      "vaticanist_ids": [
-        "114"
-      ],
-      "vaticanist_names": [
-        "Veronica Giacometti"
-      ],
       "author_url": "",
       "author_search": true,
       "cluster_id": "7666b7e2e1f6ea13",
       "cluster_sources": [
         "EWTN Italia"
+      ],
+      "vaticanist_ids": [
+        "114"
+      ],
+      "vaticanist_names": [
+        "Veronica Giacometti"
       ]
     },
     {
@@ -48887,16 +48907,16 @@
       "article_url": "https://www.latimes.com/espanol/california/articulo/2026-11-02/no-existe-tal-cosa-como-una-guerra-santa-dice-el-papa",
       "author_verified": true,
       "byline_checked_at": "2026-11-02T09:01:26.690982+00:00",
+      "author_url": "",
+      "cluster_id": "9a6db443b186750e",
+      "cluster_sources": [
+        "Los Angeles Times"
+      ],
       "vaticanist_ids": [
         "132"
       ],
       "vaticanist_names": [
         "Nicole Winfield"
-      ],
-      "author_url": "",
-      "cluster_id": "9a6db443b186750e",
-      "cluster_sources": [
-        "Los Angeles Times"
       ]
     },
     {
@@ -49066,17 +49086,17 @@
       "article_url": "https://www.famigliacristiana.it/papa/al-verano-il-papa-ricorda-tutti-i-defunti-ma-in-particolare-i-morti-per-lassurda-violenza-della-guerra-wwdqj652",
       "author_verified": true,
       "byline_checked_at": "2026-11-02T16:01:25.045261+00:00",
-      "vaticanist_ids": [
-        "19"
-      ],
-      "vaticanist_names": [
-        "Annachiara Valle"
-      ],
       "author_url": "",
       "cluster_id": "13bd9eefe790da91",
       "cluster_sources": [
         "Famiglia Cristiana",
         "la Repubblica"
+      ],
+      "vaticanist_ids": [
+        "19"
+      ],
+      "vaticanist_names": [
+        "Annachiara Valle"
       ]
     },
     {
@@ -49295,16 +49315,16 @@
       "article_url": "https://www.famigliacristiana.it/societa-valori/costume/fast-fashion-costo-ambientale-sociale-skml3sbl",
       "author_verified": true,
       "byline_checked_at": "2026-11-02T10:40:48.822688+00:00",
+      "author_url": "",
+      "cluster_id": "7db05adf5ed9f3a8",
+      "cluster_sources": [
+        "Famiglia Cristiana"
+      ],
       "vaticanist_ids": [
         "203"
       ],
       "vaticanist_names": [
         "Laura Bellomi"
-      ],
-      "author_url": "",
-      "cluster_id": "7db05adf5ed9f3a8",
-      "cluster_sources": [
-        "Famiglia Cristiana"
       ]
     },
     {
@@ -49706,7 +49726,8 @@
       "cluster_id": "4c701ef907596c0a",
       "cluster_sources": [
         "EL PAÍS"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "9286b735f3e4dc2f",
@@ -49893,7 +49914,8 @@
       "cluster_id": "fd0b724abd67e7db",
       "cluster_sources": [
         "Linternaute.com"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "e9c248153eab3c4e",
@@ -49910,7 +49932,8 @@
       "cluster_id": "e9c248153eab3c4e",
       "cluster_sources": [
         "EL PAÍS"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "ff3842d0aefe4981",
@@ -50151,7 +50174,8 @@
       "cluster_id": "4299e7d6aaef335d",
       "cluster_sources": [
         "TN"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "944a5402acaa3fb4",
@@ -50230,7 +50254,8 @@
       "cluster_id": "2f3a036d50ed1b0a",
       "cluster_sources": [
         "The New York Times"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "58a86876ed6957d8",
@@ -50402,7 +50427,8 @@
       "cluster_id": "937a71946c863fea",
       "cluster_sources": [
         "Corriere della Sera"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "7352e2be7d233e97",
@@ -50610,7 +50636,8 @@
       "cluster_id": "0b47ae7f1ab3589b",
       "cluster_sources": [
         "AP News"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "0af2a65be6d65eb8",
@@ -50851,7 +50878,8 @@
       "cluster_id": "04ca48d115edea23",
       "cluster_sources": [
         "AP News"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "a9c5f1566a3758f7",
@@ -51012,7 +51040,8 @@
       "cluster_id": "38b60fae8fb5d65c",
       "cluster_sources": [
         "TN"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "422e0c28b177c5fe",
@@ -51029,7 +51058,8 @@
       "cluster_id": "422e0c28b177c5fe",
       "cluster_sources": [
         "Clarin.com"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "76937e1fe6722ffc",
@@ -51130,7 +51160,8 @@
       "cluster_id": "c9ee097b57a2a9b5",
       "cluster_sources": [
         "la Repubblica"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "c8a8d55cb2350971",
@@ -51213,7 +51244,8 @@
       "cluster_id": "95e1736e47043cb4",
       "cluster_sources": [
         "la Repubblica"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "d11bc4a9857ddfa9",
@@ -51368,7 +51400,8 @@
       "cluster_id": "1b50aaffbae79664",
       "cluster_sources": [
         "rcf.fr"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "77a90b1aa26212d5",
@@ -51508,7 +51541,8 @@
       "cluster_id": "86ba4accc0f9eb30",
       "cluster_sources": [
         "EL PAÍS"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "8b20f3395f381ce9",
@@ -51629,7 +51663,8 @@
       "cluster_id": "4a34a0cc981b8329",
       "cluster_sources": [
         "AP News"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "dbe0b20b25b16e4f",
@@ -52206,7 +52241,8 @@
       "cluster_id": "0ff73d51b9de683f",
       "cluster_sources": [
         "The New York Times"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "f16043658abe07a6",
@@ -52259,7 +52295,8 @@
       "cluster_id": "198c79bc8aab668a",
       "cluster_sources": [
         "Infobae"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "d93c03dd7887b5f1",
@@ -52315,7 +52352,8 @@
       "cluster_id": "e520f9ba33c711d7",
       "cluster_sources": [
         "ANSA"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "2b818bb7b1a03710",
@@ -52594,7 +52632,8 @@
       "cluster_id": "fa09c131a7e7c0d7",
       "cluster_sources": [
         "TN"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "8014c9ed1cd4def9",
@@ -52962,7 +53001,8 @@
       "cluster_id": "c0f6566e12e067d3",
       "cluster_sources": [
         "Vatican News"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "f0a5026ecca8cc15",
@@ -53087,7 +53127,8 @@
       "cluster_id": "b675d1779c9ff366",
       "cluster_sources": [
         "TASS"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "ce555bf98f0ecc53",
@@ -53427,7 +53468,8 @@
       "cluster_id": "7245cf70604b4d4f",
       "cluster_sources": [
         "La Stampa"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "a5db7483fb6a2b8f",
@@ -53721,7 +53763,8 @@
       "cluster_id": "f44324acc2d9f8c2",
       "cluster_sources": [
         "la Repubblica"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "189afe832c158a83",
@@ -53843,7 +53886,8 @@
       "cluster_id": "0be6877b757ccfcd",
       "cluster_sources": [
         "Corriere della Sera"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "ce6c0e70cfe8ecee",
@@ -54447,7 +54491,8 @@
       "cluster_id": "7a129313aec17874",
       "cluster_sources": [
         "Avvenire"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "5ccc578d9bf93090",
@@ -54556,7 +54601,8 @@
       "cluster_id": "2aea7d2cb78c6437",
       "cluster_sources": [
         "EL PAÍS"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "e301a76008b71984",
@@ -54653,7 +54699,8 @@
       "cluster_sources": [
         "ANSA",
         "la Repubblica"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "78f31a2c3e8cb893",
@@ -54734,7 +54781,8 @@
         "La 100",
         "Perfil",
         "Plaza Web"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "e004ec1fe2bd24fc",
@@ -55061,7 +55109,8 @@
       "cluster_id": "fbe6757543c75a5e",
       "cluster_sources": [
         "Il Messaggero"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "39c5ac8e481008b9",
@@ -55141,7 +55190,8 @@
       "cluster_id": "62c64832a23a026f",
       "cluster_sources": [
         "la Repubblica"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "1e03b963d4c7f2ee",
@@ -55266,7 +55316,8 @@
       "cluster_id": "d75516abeb6428a7",
       "cluster_sources": [
         "ANSA"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "4d16d615a91c77ac",
@@ -55518,7 +55569,8 @@
       "cluster_id": "64442918cc29402d",
       "cluster_sources": [
         "Infobae"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "89f4331f7bb3cc4a",
@@ -56481,7 +56533,8 @@
       "cluster_id": "0ff73d51b9de683f",
       "cluster_sources": [
         "The New York Times"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "c4b94b876b6955ca",
@@ -56648,7 +56701,8 @@
       "cluster_id": "9681b7e7255b4c62",
       "cluster_sources": [
         "Renascença"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "2906cae976deeaf6",
@@ -56789,7 +56843,8 @@
       "cluster_sources": [
         "AP News",
         "The Independent"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "dc04e6acdee246c3",
@@ -56870,7 +56925,8 @@
       "cluster_id": "5792489813b01d0e",
       "cluster_sources": [
         "Vatican News"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "a5aaefdf0785ec56",
@@ -56887,7 +56943,8 @@
       "cluster_id": "a5aaefdf0785ec56",
       "cluster_sources": [
         "ANSA"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "752a86f5e56506f2",
@@ -57020,7 +57077,8 @@
       "cluster_id": "0774fc8acb4fa883",
       "cluster_sources": [
         "Infobae"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "738b361854598f2d",
@@ -57400,7 +57458,8 @@
       "cluster_id": "311a06c69a316933",
       "cluster_sources": [
         "Corriere della Sera"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "cecfa5f5f92bc43e",
@@ -57503,7 +57562,8 @@
       "cluster_id": "a7a4e9be17112052",
       "cluster_sources": [
         "la Repubblica"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "928f070f3ecef0ba",
@@ -57542,7 +57602,8 @@
       "cluster_id": "dc6056ed6fb1b902",
       "cluster_sources": [
         "ANSA"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "b5b2d293bf9876d3",
@@ -57664,7 +57725,8 @@
       "cluster_id": "fa1bb13fd698fefe",
       "cluster_sources": [
         "El Confidencial"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "271ed9a0469d234d",
@@ -57810,7 +57872,8 @@
       "cluster_id": "943d40c4b97cf28d",
       "cluster_sources": [
         "ANSA"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "add933b0dd68f28d",
@@ -58248,7 +58311,8 @@
       "cluster_id": "36a16f59a5f9172f",
       "cluster_sources": [
         "Le Monde.fr"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "69af059966eebdc3",
@@ -58392,7 +58456,8 @@
       "cluster_id": "f959875594f80c23",
       "cluster_sources": [
         "TN"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "ea1e567ec16eb583",
@@ -58617,7 +58682,8 @@
       "cluster_id": "744d6c40762a6032",
       "cluster_sources": [
         "EL PAÍS"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "6d2a546624d517cd",
@@ -58779,7 +58845,8 @@
         "WXXV News 25",
         "Washington Times Herald",
         "niagara-gazette.com"
-      ]
+      ],
+      "byline_checked_at": "2026-11-03T03:05:34.550068+00:00"
     },
     {
       "id": "9785ab926079f5ea",
@@ -64536,16 +64603,16 @@
       "article_url": "https://neofeed.com.br/finde/o-negocio-que-une-mercedes-e-vaticano-ha-quase-um-seculo/",
       "author_verified": true,
       "byline_checked_at": "2026-11-01T15:31:03.311528+00:00",
+      "author_url": "",
+      "cluster_id": "4f5e96b907f3c640",
+      "cluster_sources": [
+        "NeoFeed"
+      ],
       "vaticanist_ids": [
         "168"
       ],
       "vaticanist_names": [
         "Cinthia Rodrigues"
-      ],
-      "author_url": "",
-      "cluster_id": "4f5e96b907f3c640",
-      "cluster_sources": [
-        "NeoFeed"
       ]
     },
     {
@@ -67891,16 +67958,16 @@
       "article_url": "https://www.ewtnnews.com/es/vaticano/humildad-merry-val-colchon-paja?redirectedfrom=aci-prensa",
       "author_verified": true,
       "byline_checked_at": "2026-11-01T14:10:43.213844+00:00",
+      "author_url": "",
+      "cluster_id": "1df6e6b541916ba1",
+      "cluster_sources": [
+        "EWTN News"
+      ],
       "vaticanist_ids": [
         "150"
       ],
       "vaticanist_names": [
         "Victoria Cardiel"
-      ],
-      "author_url": "",
-      "cluster_id": "1df6e6b541916ba1",
-      "cluster_sources": [
-        "EWTN News"
       ]
     },
     {
@@ -71094,12 +71161,6 @@
       "article_url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-holiness-is-not-a-privilege-reserved-for-a-few",
       "author_verified": true,
       "byline_checked_at": "2026-11-01T12:50:41.797885+00:00",
-      "vaticanist_ids": [
-        "13"
-      ],
-      "vaticanist_names": [
-        "Marco Mancini"
-      ],
       "author_url": "",
       "author_search": true,
       "cluster_id": "254cc0071edb3aba",
@@ -71108,6 +71169,12 @@
         "EWTN News",
         "National Catholic Register",
         "infovaticana"
+      ],
+      "vaticanist_ids": [
+        "13"
+      ],
+      "vaticanist_names": [
+        "Marco Mancini"
       ]
     },
     {
@@ -72151,8 +72218,8 @@
       ]
     },
     {
-      "id": "0bf72dda84d407a0",
-      "title": "​Ucraina, la diplomazia silenziosa di Leone XIV: dopo le telefonate a Putin e Zelensky, il Papa saluta la tregua umanitaria a Oleshky",
+      "id": "13a507fa25035730",
+      "title": "?Ucraina, la diplomazia silenziosa di Leone XIV: dopo le telefonate a Putin e Zelensky, il Papa saluta la tregua umanitaria a Oleshky",
       "url": "https://www.ilmessaggero.it/vaticano/papa_leone_ucraina_tregua_oleshky_incoraggia_passi_diplomatici_per_la_pace-9862408.html",
       "source": "Il Messaggero",
       "country": "Italia",
@@ -72174,7 +72241,7 @@
       ],
       "author_url": "",
       "author_search": true,
-      "cluster_id": "0bf72dda84d407a0",
+      "cluster_id": "13a507fa25035730",
       "cluster_sources": [
         "Il Messaggero"
       ]
@@ -73030,16 +73097,16 @@
       "article_url": "https://www.ewtnnews.com/es/vaticano/papa-evacuacion-humanitaria-civiles-oleskhy?redirectedfrom=aci-prensa",
       "author_verified": true,
       "byline_checked_at": "2026-11-01T12:01:17.338926+00:00",
+      "author_url": "",
+      "cluster_id": "4c1f5a67b05fc4f9",
+      "cluster_sources": [
+        "EWTN News"
+      ],
       "vaticanist_ids": [
         "150"
       ],
       "vaticanist_names": [
         "Victoria Cardiel"
-      ],
-      "author_url": "",
-      "cluster_id": "4c1f5a67b05fc4f9",
-      "cluster_sources": [
-        "EWTN News"
       ]
     },
     {
@@ -73913,17 +73980,17 @@
       "article_url": "https://www.lastampa.it/cronaca/2026/11/01/news/leone_xiv_la_doverosa_azione_umanitaria_a_oleshky_porti_alla_pace_in_ucraina-15784641/",
       "author_verified": true,
       "byline_checked_at": "2026-11-01T11:50:43.652692+00:00",
-      "vaticanist_ids": [
-        "38"
-      ],
-      "vaticanist_names": [
-        "Giacomo Galeazzi"
-      ],
       "author_url": "",
       "author_search": true,
       "cluster_id": "cefecfc6de0da8f5",
       "cluster_sources": [
         "La Stampa"
+      ],
+      "vaticanist_ids": [
+        "38"
+      ],
+      "vaticanist_names": [
+        "Giacomo Galeazzi"
       ]
     },
     {
@@ -75577,12 +75644,6 @@
       "article_url": "https://www.acistampa.com/amp/story/37479/papa-leone-xiv-la-santita-non-e-un-privilegio-per-pochi",
       "author_verified": true,
       "byline_checked_at": "2026-11-01T13:20:47.904236+00:00",
-      "vaticanist_ids": [
-        "13"
-      ],
-      "vaticanist_names": [
-        "Marco Mancini"
-      ],
       "author_url": "",
       "author_search": true,
       "cluster_id": "d18626160c38be7f",
@@ -75590,6 +75651,12 @@
         "ACI Stampa",
         "Famiglia Cristiana",
         "SIR - Servizio Informazione Religiosa"
+      ],
+      "vaticanist_ids": [
+        "13"
+      ],
+      "vaticanist_names": [
+        "Marco Mancini"
       ]
     },
     {
@@ -75834,16 +75901,16 @@
       "article_url": "https://cruxnow.com/vatican/2026/10/pope-leo-tells-villanova-and-notre-dame-basketball-teams-he-is-neutral-prevost-has-other-ideas/",
       "author_verified": true,
       "byline_checked_at": "2026-10-31T14:20:41.392856+00:00",
+      "author_url": "",
+      "cluster_id": "35aee7d3d79e8636",
+      "cluster_sources": [
+        "Crux: Covering all things Catholic"
+      ],
       "vaticanist_ids": [
         "132"
       ],
       "vaticanist_names": [
         "Nicole Winfield"
-      ],
-      "author_url": "",
-      "cluster_id": "35aee7d3d79e8636",
-      "cluster_sources": [
-        "Crux: Covering all things Catholic"
       ]
     },
     {
@@ -78268,17 +78335,17 @@
       "article_url": "https://www.avvenire.it/chiesa/chiesa-italiana/la-fake-news-dellislam-a-scuola-cardini-cristiani-e-musulmani-in-aula-si-combatte-lignoranza_115090",
       "author_verified": true,
       "byline_checked_at": "2026-11-01T10:10:44.421783+00:00",
-      "vaticanist_ids": [
-        "95"
-      ],
-      "vaticanist_names": [
-        "Agnese Palmucci"
-      ],
       "author_url": "",
       "author_search": true,
       "cluster_id": "4eb6c71b83529eb5",
       "cluster_sources": [
         "Avvenire"
+      ],
+      "vaticanist_ids": [
+        "95"
+      ],
+      "vaticanist_names": [
+        "Agnese Palmucci"
       ]
     },
     {
@@ -85961,12 +86028,6 @@
       "article_url": "https://www.washingtonpost.com/sports/2026/10/31/vatican-pope-leo-villanova-notre-dame-college-basketball/f085ac12-d4fd-11f1-9931-2a41b76fc976_story.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-02T11:01:23.800313+00:00",
-      "vaticanist_ids": [
-        "132"
-      ],
-      "vaticanist_names": [
-        "Nicole Winfield"
-      ],
       "author_url": "",
       "cluster_id": "1ac6f26c8fd58918",
       "cluster_sources": [
@@ -85982,6 +86043,12 @@
         "The Washington Post",
         "Yahoo",
         "cruxnow.com"
+      ],
+      "vaticanist_ids": [
+        "132"
+      ],
+      "vaticanist_names": [
+        "Nicole Winfield"
       ]
     },
     {
@@ -88078,16 +88145,16 @@
       "article_url": "https://www.abc.es/cultura/pudor-monjas-salvo-renacimiento-roma-20261101013543-nt.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-01T00:40:46.896373+00:00",
+      "author_url": "",
+      "cluster_id": "035ae535fe78d5b3",
+      "cluster_sources": [
+        "ABC"
+      ],
       "vaticanist_ids": [
         "60"
       ],
       "vaticanist_names": [
         "Javier Martínez-Brocal"
-      ],
-      "author_url": "",
-      "cluster_id": "035ae535fe78d5b3",
-      "cluster_sources": [
-        "ABC"
       ]
     },
     {
@@ -95832,16 +95899,16 @@
       "article_url": "https://www.rainews.it/tgr/abruzzo/video/2026/10/terremoto-centro-italia-sisma-2016-anniversario-sisma-2016-incontro-in-vaticano-sindaci-ricevuti-dal-papa-ec5f97bf-d6bb-4524-a6b1-833074e06dee.html",
       "author_verified": true,
       "byline_checked_at": "2026-10-31T21:01:16.960640+00:00",
+      "author_url": "",
+      "cluster_id": "713789d41afe6b1f",
+      "cluster_sources": [
+        "RaiNews"
+      ],
       "vaticanist_ids": [
         "206"
       ],
       "vaticanist_names": [
         "Isabella Di Chio"
-      ],
-      "author_url": "",
-      "cluster_id": "713789d41afe6b1f",
-      "cluster_sources": [
-        "RaiNews"
       ]
     },
     {
@@ -101791,16 +101858,16 @@
       "article_url": "https://www.lefigaro.fr/actualite-france/toussaint-l-appel-inattendu-de-la-saintete-aupres-des-jeunes-catholiques-20261031",
       "author_verified": true,
       "byline_checked_at": "2026-10-31T08:50:46.162288+00:00",
+      "author_url": "",
+      "cluster_id": "361f0b8272beef90",
+      "cluster_sources": [
+        "Le Figaro"
+      ],
       "vaticanist_ids": [
         "65"
       ],
       "vaticanist_names": [
         "Jean-Marie Guénois"
-      ],
-      "author_url": "",
-      "cluster_id": "361f0b8272beef90",
-      "cluster_sources": [
-        "Le Figaro"
       ]
     },
     {
@@ -101837,16 +101904,16 @@
       "article_url": "https://www.la-croix.com/religion/voile-communion-a-genoux-ou-dans-la-main-rome-met-en-garde-contre-les-extremismes-liturgiques-20261030",
       "author_verified": true,
       "byline_checked_at": "2026-10-31T07:01:13.521076+00:00",
+      "author_url": "",
+      "cluster_id": "aca8e1fa8dae375e",
+      "cluster_sources": [
+        "La Croix"
+      ],
       "vaticanist_ids": [
         "4"
       ],
       "vaticanist_names": [
         "Mikaël Corre"
-      ],
-      "author_url": "",
-      "cluster_id": "aca8e1fa8dae375e",
-      "cluster_sources": [
-        "La Croix"
       ]
     },
     {
@@ -101927,17 +101994,17 @@
       "article_url": "https://www.ilfoglio.it/chiesa/2026/10/31/news/meglio-un-accordo-imperfetto-che-niente-il-vaticano-e-la-complicata-relazione-con-la-cina--412247",
       "author_verified": true,
       "byline_checked_at": "2026-10-31T05:40:42.339779+00:00",
-      "vaticanist_ids": [
-        "18"
-      ],
-      "vaticanist_names": [
-        "Matteo Matzuzzi"
-      ],
       "author_url": "",
       "author_search": true,
       "cluster_id": "a070316369ac36d0",
       "cluster_sources": [
         "Il Foglio"
+      ],
+      "vaticanist_ids": [
+        "18"
+      ],
+      "vaticanist_names": [
+        "Matteo Matzuzzi"
       ]
     },
     {
@@ -102069,12 +102136,6 @@
       "article_url": "https://www.washingtonpost.com/world/2026/10/30/pope-leo-becomes-first-pontiff-vote-us-election/",
       "author_verified": true,
       "byline_checked_at": "2026-10-30T14:20:48.413188+00:00",
-      "vaticanist_ids": [
-        "165"
-      ],
-      "vaticanist_names": [
-        "Anthony Faiola"
-      ],
       "author_url": "",
       "author_search": true,
       "cluster_id": "1b3458cd0fbf2eff",
@@ -102082,6 +102143,12 @@
         "Axios",
         "Graphic Online",
         "The Washington Post"
+      ],
+      "vaticanist_ids": [
+        "165"
+      ],
+      "vaticanist_names": [
+        "Anthony Faiola"
       ]
     },
     {
@@ -102271,7 +102338,6 @@
       "cluster_size": 1,
       "origin": "direct",
       "author": "Franca Giansoldati",
-      "author_url": "",
       "article_url": "https://www.ilmessaggero.it/vaticano/papa_leone_elezioni_midterm_cosa_ha_votato_trump_tensioni-9858992.html",
       "author_verified": true,
       "byline_checked_at": "2026-10-30T17:40:53.033222+00:00",
@@ -102281,6 +102347,7 @@
       "vaticanist_names": [
         "Franca Giansoldati"
       ],
+      "author_url": "",
       "cluster_id": "2202dd80566bf732",
       "cluster_sources": [
         "Il Messaggero"
@@ -102448,18 +102515,18 @@
       "article_url": "https://roma.corriere.it/notizie/cronaca/26_ottobre_30/papa-leone-ai-0dffef2c-ea54-44eb-ad16-6117c2e4exlk.shtml",
       "author_verified": true,
       "byline_checked_at": "2026-10-30T15:40:44.103824+00:00",
-      "vaticanist_ids": [
-        "11"
-      ],
-      "vaticanist_names": [
-        "Gian Guido Vecchi"
-      ],
       "author_url": "",
       "author_search": true,
       "cluster_id": "0f2e7413db74ea13",
       "cluster_sources": [
         "Corriere Roma",
         "Punto Informatico"
+      ],
+      "vaticanist_ids": [
+        "11"
+      ],
+      "vaticanist_names": [
+        "Gian Guido Vecchi"
       ]
     },
     {
@@ -102497,10 +102564,10 @@
       "cluster_size": 1,
       "origin": "direct",
       "author": "Vatican News",
-      "author_url": "",
       "article_url": "https://www.vaticannews.va/en/vatican-city/news/2026-10/vatican-artificial-intelligence-conference-interdicasterial-comm.html",
       "author_verified": true,
       "byline_checked_at": "2026-10-30T15:10:47.677277+00:00",
+      "author_url": "",
       "cluster_id": "1c6ce9149eea6886",
       "cluster_sources": [
         "Vatican News"
@@ -102522,17 +102589,17 @@
       "article_url": "https://www.americamagazine.org/vatican-dispatch/2026/10/30/montse-alvarado-vatican-communications-history/",
       "author_verified": true,
       "byline_checked_at": "2026-10-30T15:01:23.062792+00:00",
-      "vaticanist_ids": [
-        "134"
-      ],
-      "vaticanist_names": [
-        "Colleen Dulle"
-      ],
       "author_url": "",
       "author_search": true,
       "cluster_id": "f5a35767587fcb51",
       "cluster_sources": [
         "America Magazine"
+      ],
+      "vaticanist_ids": [
+        "134"
+      ],
+      "vaticanist_names": [
+        "Colleen Dulle"
       ]
     },
     {
@@ -102646,18 +102713,18 @@
       "article_url": "https://www.americamagazine.org/vatican-dispatch/2026/10/30/pope-leo-vote-mail-in-ballot-us-midterms/",
       "author_verified": true,
       "byline_checked_at": "2026-10-30T14:50:47.562291+00:00",
-      "vaticanist_ids": [
-        "9"
-      ],
-      "vaticanist_names": [
-        "Gerard O'Connell"
-      ],
       "author_url": "",
       "author_search": true,
       "cluster_id": "1de40202f0c79f4e",
       "cluster_sources": [
         "America Magazine",
         "The Catholic Weekly"
+      ],
+      "vaticanist_ids": [
+        "9"
+      ],
+      "vaticanist_names": [
+        "Gerard O'Connell"
       ]
     },
     {
@@ -103007,16 +103074,16 @@
       "article_url": "https://www.lavanguardia.com/internacional/20261030/11671942/leon-xiv-pide-votar-correo-elecciones-estados-unidos.html",
       "author_verified": true,
       "byline_checked_at": "2026-10-30T10:20:44.839600+00:00",
+      "author_url": "",
+      "cluster_id": "ffd8211ec8f397df",
+      "cluster_sources": [
+        "La Vanguardia"
+      ],
       "vaticanist_ids": [
         "176"
       ],
       "vaticanist_names": [
         "Francesco Olivo"
-      ],
-      "author_url": "",
-      "cluster_id": "ffd8211ec8f397df",
-      "cluster_sources": [
-        "La Vanguardia"
       ]
     },
     {
@@ -103058,17 +103125,17 @@
       "article_url": "https://www.repubblica.it/esteri/2026/10/30/news/papa_leone_xiv_ha_chiesto_di_votare_per_corrispondenza_elezioni_di_meta_mandato_usa-425686389/?rss",
       "author_verified": true,
       "byline_checked_at": "2026-10-30T09:23:33.603704+00:00",
-      "vaticanist_ids": [
-        "43"
-      ],
-      "vaticanist_names": [
-        "Iacopo Scaramuzzi"
-      ],
       "cluster_id": "28c923a8edc63e5e",
       "cluster_sources": [
         "La Voce e il Tempo",
         "Vatican News",
         "la Repubblica"
+      ],
+      "vaticanist_ids": [
+        "43"
+      ],
+      "vaticanist_names": [
+        "Iacopo Scaramuzzi"
       ]
     },
     {
@@ -103211,17 +103278,17 @@
       "article_url": "https://www.pillarcatholic.com/p/vatican-spokesman-not-aware-of-tlm",
       "author_verified": true,
       "byline_checked_at": "2026-10-30T09:22:46.723114+00:00",
-      "vaticanist_ids": [
-        "34"
-      ],
-      "vaticanist_names": [
-        "Edgar Beltrán"
-      ],
       "author_url": "",
       "author_search": true,
       "cluster_id": "31644accf964ba8f",
       "cluster_sources": [
         "The Pillar"
+      ],
+      "vaticanist_ids": [
+        "34"
+      ],
+      "vaticanist_names": [
+        "Edgar Beltrán"
       ]
     },
     {
@@ -103628,17 +103695,17 @@
       "article_url": "https://ewtn.it/2026/10/28/foto-e-video-papa-leone-xiv-ai-dirigenti-mercedes-benz-papamobile-strumento-di-incontro/",
       "author_verified": true,
       "byline_checked_at": "2026-10-31T11:50:42.956864+00:00",
-      "vaticanist_ids": [
-        "202"
-      ],
-      "vaticanist_names": [
-        "Antonio Tarallo"
-      ],
       "author_url": "",
       "cluster_id": "c583892e077e5465",
       "cluster_sources": [
         "EWTN Italia",
         "Vatican News"
+      ],
+      "vaticanist_ids": [
+        "202"
+      ],
+      "vaticanist_names": [
+        "Antonio Tarallo"
       ]
     },
     {
@@ -104324,15 +104391,15 @@
       "article_url": "https://www.repubblica.it/cronaca/2026/10/27/news/papa_assisi_messaggio_pace_guerra-425679077/",
       "author_verified": true,
       "byline_checked_at": "2026-10-30T09:31:04.789602+00:00",
+      "cluster_id": "7e2140515346c011",
+      "cluster_sources": [
+        "la Repubblica"
+      ],
       "vaticanist_ids": [
         "43"
       ],
       "vaticanist_names": [
         "Iacopo Scaramuzzi"
-      ],
-      "cluster_id": "7e2140515346c011",
-      "cluster_sources": [
-        "la Repubblica"
       ]
     },
     {
@@ -104695,7 +104762,6 @@
       "cluster_size": 1,
       "origin": "direct",
       "author": "Franca Giansoldati",
-      "author_url": "",
       "article_url": "https://www.ilmessaggero.it/vaticano/leone_xiv_sudamerica_viaggio_ok_medici-9850317.html",
       "author_verified": true,
       "byline_checked_at": "2026-10-30T09:40:46.264226+00:00",
@@ -104705,6 +104771,7 @@
       "vaticanist_names": [
         "Franca Giansoldati"
       ],
+      "author_url": "",
       "author_search": true,
       "cluster_id": "609f490b4542b9dc",
       "cluster_sources": [
@@ -105713,7 +105780,7 @@
         "8252ea8eeb80c082",
         "1d5109b61878c1bf",
         "a532c120aba08956",
-        "0bf72dda84d407a0",
+        "13a507fa25035730",
         "e7a43eaa212c7bdb",
         "00da583b083baf39",
         "6546516e5293da3a",
