@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-03T13:55:18.910084+00:00",
+  "updated_at": "2026-11-03T14:01:00.120261+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-03T13:55:18.910084+00:00"
+      "checked_at": "2026-11-03T14:01:00.120261+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-03T13:55:18.910084+00:00"
+      "checked_at": "2026-11-03T14:01:00.120261+00:00"
     }
   },
   "items": [
+    {
+      "id": "e9796fa5bd951628e819",
+      "source": "BBC News",
+      "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T13:55:47+00:00"
+    },
     {
       "id": "97166cfa888172df9680",
       "source": "BBC News",
@@ -38,13 +45,6 @@
       "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
       "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-03T13:26:19+00:00"
-    },
-    {
-      "id": "e9796fa5bd951628e819",
-      "source": "BBC News",
-      "title": "Europe on alert after supermarket freezers hit by cyber-attacks in nine countries",
-      "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T13:12:04+00:00"
     },
     {
       "id": "a4799e8004378db8054d",
