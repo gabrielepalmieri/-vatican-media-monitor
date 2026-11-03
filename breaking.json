@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-03T13:05:19.626221+00:00",
+  "updated_at": "2026-11-03T13:10:28.935874+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-03T13:05:19.626221+00:00"
+      "checked_at": "2026-11-03T13:10:28.935874+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-03T13:05:19.626221+00:00"
+      "checked_at": "2026-11-03T13:10:28.935874+00:00"
     }
   },
   "items": [
+    {
+      "id": "a4799e8004378db8054d",
+      "source": "TGcom24",
+      "title": "Attacchi hacker ai frigoriferi, Palazzo Chigi: \"Nessun rischio per la salute\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/attacco-hacker-supermercati-frigoriferi_118519023-202602k.shtml",
+      "published": "2026-11-03T13:01:00+00:00"
+    },
     {
       "id": "8cec393e71818e3cfb71",
       "source": "BBC News",
@@ -297,13 +304,6 @@
       "title": "Violati i sigilli della casa di Pamela Genini, la mamma: \"Chi è entrato aveva le chiavi\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/pamela-genini-sigilli-violati-appartamento_118499601-202602k.shtml",
       "published": "2026-11-02T18:15:00+00:00"
-    },
-    {
-      "id": "78de05637ce4ec2b200f",
-      "source": "TGcom24",
-      "title": "Ucraina, Zelensky: \"Raid su Komysuhvakha, almeno 26 morti\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-1novembre_118456547-202602k.shtml",
-      "published": "2026-11-02T17:48:00+00:00"
     },
     {
       "id": "7f50d0b66f1b0b3beb06",
