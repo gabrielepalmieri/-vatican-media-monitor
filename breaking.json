@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-03T13:15:32.493630+00:00",
+  "updated_at": "2026-11-03T13:20:28.265634+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-03T13:15:32.493630+00:00"
+      "checked_at": "2026-11-03T13:20:28.265634+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-03T13:15:32.493630+00:00"
+      "checked_at": "2026-11-03T13:20:28.265634+00:00"
     }
   },
   "items": [
+    {
+      "id": "e9796fa5bd951628e819",
+      "source": "BBC News",
+      "title": "Europe on alert after supermarket freezers hit by cyber-attacks in nine countries",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T13:12:04+00:00"
+    },
     {
       "id": "a4799e8004378db8054d",
       "source": "TGcom24",
@@ -304,13 +311,6 @@
       "title": "Violati i sigilli della casa di Pamela Genini, la mamma: \"Chi è entrato aveva le chiavi\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/pamela-genini-sigilli-violati-appartamento_118499601-202602k.shtml",
       "published": "2026-11-02T18:15:00+00:00"
-    },
-    {
-      "id": "7f50d0b66f1b0b3beb06",
-      "source": "BBC News",
-      "title": "Shop freezers in seven European countries hit by cyber-attack",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T17:38:11+00:00"
     },
     {
       "id": "374239fee365addd8f38",
