@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-03T00:50:25.694745+00:00",
+  "updated_at": "2026-11-03T00:55:17.163670+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-03T00:50:25.694745+00:00"
+      "checked_at": "2026-11-03T00:55:17.163670+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-03T00:50:25.694745+00:00"
+      "checked_at": "2026-11-03T00:55:17.163670+00:00"
     }
   },
   "items": [
+    {
+      "id": "ce6e372b0c72116663eb",
+      "source": "BBC News",
+      "title": "Indian film star Ranbir Kapoor on AI, movies and fatherhood",
+      "url": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T00:09:13+00:00"
+    },
     {
       "id": "12e6bb9b708f6f2d1364",
       "source": "BBC News",
@@ -304,13 +311,6 @@
       "title": "Incidente ferroviario di Toledo, identificate le due vittime italiane",
       "url": "https://www.tgcom24.mediaset.it/mondo/toledo-incidente-ferroviario-identificate-vittime-italiane_118475502-202602k.shtml",
       "published": "2026-11-02T09:30:00+00:00"
-    },
-    {
-      "id": "a06f2d94820aebc7b52c",
-      "source": "BBC News",
-      "title": "What are Americans voting for in this election?",
-      "url": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T09:22:55+00:00"
     },
     {
       "id": "7a1a8f0eab4f73548579",
