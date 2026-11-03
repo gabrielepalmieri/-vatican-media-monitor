@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-03T00:05:20.196569+00:00",
+  "updated_at": "2026-11-03T00:10:25.582814+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-03T00:05:20.196569+00:00"
+      "checked_at": "2026-11-03T00:10:25.582814+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-03T00:05:20.196569+00:00"
+      "checked_at": "2026-11-03T00:10:25.582814+00:00"
     }
   },
   "items": [
+    {
+      "id": "12e6bb9b708f6f2d1364",
+      "source": "BBC News",
+      "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T00:08:14+00:00"
+    },
     {
       "id": "9a61dbe62bcae2e4d659",
       "source": "BBC News",
@@ -80,13 +87,6 @@
       "title": "Man guilty of stealing cash from farm owned by South African president",
       "url": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-02T20:08:51+00:00"
-    },
-    {
-      "id": "12e6bb9b708f6f2d1364",
-      "source": "BBC News",
-      "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
-      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T19:58:34+00:00"
     },
     {
       "id": "232ea1ea7a61a2e46d7f",
