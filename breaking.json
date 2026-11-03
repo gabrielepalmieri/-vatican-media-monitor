@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-03T21:15:31.298386+00:00",
+  "updated_at": "2026-11-03T21:20:52.787981+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-03T21:15:31.298386+00:00"
+      "checked_at": "2026-11-03T21:20:52.787981+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-03T21:15:31.298386+00:00"
+      "checked_at": "2026-11-03T21:20:52.787981+00:00"
     }
   },
   "items": [
+    {
+      "id": "efa7d6aa241b0bef69d3",
+      "source": "BBC News",
+      "title": "Spanish transport minister resigns days after deadly train crash",
+      "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T21:19:57+00:00"
+    },
     {
       "id": "5e12b153c99de1371555",
       "source": "TGcom24",
       "title": "Disastro ferroviario di Toledo, si dimette il ministro dei Trasporti spagnolo",
       "url": "https://www.tgcom24.mediaset.it/mondo/disastro-toledo-dimissioni-ministro-trasporti_118551385-202602k.shtml",
       "published": "2026-11-03T21:07:00+00:00"
-    },
-    {
-      "id": "efa7d6aa241b0bef69d3",
-      "source": "BBC News",
-      "title": "Spanish transport minister resigns days after deadly train crash",
-      "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T20:56:32+00:00"
     },
     {
       "id": "e2bcaf422052ba63e158",
