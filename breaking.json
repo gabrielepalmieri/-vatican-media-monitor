@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-03T08:30:47.939499+00:00",
+  "updated_at": "2026-11-03T08:35:19.824252+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-03T08:30:47.939499+00:00"
+      "checked_at": "2026-11-03T08:35:19.824252+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-03T08:30:47.939499+00:00"
+      "checked_at": "2026-11-03T08:35:19.824252+00:00"
     }
   },
   "items": [
+    {
+      "id": "53a2c95cb3ad6b3788d3",
+      "source": "BBC News",
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T08:33:20+00:00"
+    },
     {
       "id": "024652ffd4c12ff2d4f5",
       "source": "TGcom24",
@@ -73,13 +80,6 @@
       "title": "Ucraina, droni colpiscono la raffineria di petrolio russa di Yaroslavl",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-3-novembre_118517162-202602k.shtml",
       "published": "2026-11-03T06:26:00+00:00"
-    },
-    {
-      "id": "53a2c95cb3ad6b3788d3",
-      "source": "BBC News",
-      "title": "North Korea denies being behind record $6.3bn Binance hack",
-      "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T06:22:29+00:00"
     },
     {
       "id": "1e9b9ec11b96a61ab691",
