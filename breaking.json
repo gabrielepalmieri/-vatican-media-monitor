@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-03T17:40:37.992723+00:00",
+  "updated_at": "2026-11-03T17:45:39.525382+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-03T17:40:37.992723+00:00"
+      "checked_at": "2026-11-03T17:45:39.525382+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-03T17:40:37.992723+00:00"
+      "checked_at": "2026-11-03T17:45:39.525382+00:00"
     }
   },
   "items": [
+    {
+      "id": "45ec370d469f42446139",
+      "source": "TGcom24",
+      "title": "Lufthansa, firmato accordo con Lisbona: un miliardo per il 44,9% di Tap",
+      "url": "https://www.tgcom24.mediaset.it/economia/lufthansa-accordo-lisbona-un-miliardo-per-il-44-9-di-tap_118542720-202602k.shtml",
+      "published": "2026-11-03T17:40:00+00:00"
+    },
     {
       "id": "e2bcaf422052ba63e158",
       "source": "BBC News",
@@ -332,13 +339,6 @@
       "title": "Iran, media: udite cinque esplosioni sull'isola di Qeshm",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-2-novembre_118489521-202602k.shtml",
       "published": "2026-11-02T23:01:00+00:00"
-    },
-    {
-      "id": "096f69206d8a18657035",
-      "source": "TGcom24",
-      "title": "17 Ottobre a Milano, lettera di minacce al dirigente di polizia  ferito",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/scontri-milano-17-ottobre-poliziotto-ferito-simbolo-angelo-de-simone-minacce_118500023-202602k.shtml",
-      "published": "2026-11-02T22:30:00+00:00"
     },
     {
       "id": "eb51e8f5decbf58550a0",
