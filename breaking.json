@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-03T09:55:19.702382+00:00",
+  "updated_at": "2026-11-03T10:00:58.334745+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-03T09:55:19.702382+00:00"
+      "checked_at": "2026-11-03T10:00:58.334745+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-03T09:55:19.702382+00:00"
+      "checked_at": "2026-11-03T10:00:58.334745+00:00"
     }
   },
   "items": [
+    {
+      "id": "49f6dcd8526184ca5790",
+      "source": "TGcom24",
+      "title": "Parma, famiglia intossicata dal monossido: morta anche la neonata",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/neonata-parma-morta-intossicata-monossido_118523206-202602k.shtml",
+      "published": "2026-11-03T09:55:00+00:00"
+    },
     {
       "id": "2eb20862523f2667ab44",
       "source": "BBC News",
@@ -318,13 +325,6 @@
       "title": "Crans-Montana, Moretti accusa l'ex proprietario del Constellation: \"Sapeva tutto\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/crans-montana-sion-interrogatorio-jacques-moretti_118473263-202602k.shtml",
       "published": "2026-11-02T14:15:00+00:00"
-    },
-    {
-      "id": "adb8bda65800760a8cb3",
-      "source": "TGcom24",
-      "title": "Addio a Nadia Santini, la prima donna chef italiana con 3 Stelle Michelin",
-      "url": "https://www.tgcom24.mediaset.it/tgcom-mag/morta-chef-nadia-santini_118487872-202602k.shtml",
-      "published": "2026-11-02T14:00:00+00:00"
     },
     {
       "id": "a3e21f9c7d66c888f68a",
