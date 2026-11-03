@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-03T11:30:46.315405+00:00",
+  "updated_at": "2026-11-03T11:35:18.378937+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-03T11:30:46.315405+00:00"
+      "checked_at": "2026-11-03T11:35:18.378937+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-03T11:30:46.315405+00:00"
+      "checked_at": "2026-11-03T11:35:18.378937+00:00"
     }
   },
   "items": [
+    {
+      "id": "31badb54e6330ec0281a",
+      "source": "BBC News",
+      "title": "US strikes Iranian island ahead of midterm elections",
+      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T11:33:33+00:00"
+    },
     {
       "id": "bf5ab41f09888129d29b",
       "source": "TGcom24",
@@ -24,13 +31,6 @@
       "title": "Guerra Iran, von der Leyen: \"La chiusura di Hormuz è costata all'Ue 127 miliardi in più\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-3-novembre_118524635-202602k.shtml",
       "published": "2026-11-03T10:43:00+00:00"
-    },
-    {
-      "id": "31badb54e6330ec0281a",
-      "source": "BBC News",
-      "title": "US strikes Iranian island ahead of midterm elections",
-      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T10:37:13+00:00"
     },
     {
       "id": "7c7c1317548183f73a2f",
