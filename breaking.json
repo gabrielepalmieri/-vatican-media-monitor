@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-03T22:00:58.979199+00:00",
+  "updated_at": "2026-11-03T22:05:19.730001+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-03T22:00:58.979199+00:00"
+      "checked_at": "2026-11-03T22:05:19.730001+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-03T22:00:58.979199+00:00"
+      "checked_at": "2026-11-03T22:05:19.730001+00:00"
     }
   },
   "items": [
+    {
+      "id": "efa7d6aa241b0bef69d3",
+      "source": "BBC News",
+      "title": "Spanish transport minister resigns days after deadly train crash",
+      "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T22:04:09+00:00"
+    },
     {
       "id": "cdda45a3602cb125897c",
       "source": "BBC News",
@@ -24,13 +31,6 @@
       "title": "A Guam vincono i repubblicani, Trump: \"Speriamo sia un segnale\"",
       "url": "https://www.tgcom24.mediaset.it/elezioni-estero/usa-midterm-2026/midterm-usa-2026-elezioni-americane_118516257-202602k.shtml",
       "published": "2026-11-03T21:45:00+00:00"
-    },
-    {
-      "id": "efa7d6aa241b0bef69d3",
-      "source": "BBC News",
-      "title": "Spanish transport minister resigns days after deadly train crash",
-      "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T21:40:42+00:00"
     },
     {
       "id": "5e12b153c99de1371555",
@@ -290,13 +290,6 @@
       "title": "North Korea denies being behind record $6.3bn Binance hack",
       "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-03T08:33:20+00:00"
-    },
-    {
-      "id": "024652ffd4c12ff2d4f5",
-      "source": "TGcom24",
-      "title": "Chiari, ventunenne uccide la madre a coltellate e si consegna ai carabinieri",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/chiari-21enne-uccide-madre-accoltellamento_118519372-202602k.shtml",
-      "published": "2026-11-03T08:30:00+00:00"
     },
     {
       "id": "9a61dbe62bcae2e4d659",
