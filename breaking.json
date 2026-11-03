@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-03T10:35:19.363595+00:00",
+  "updated_at": "2026-11-03T10:40:25.324982+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-03T10:35:19.363595+00:00"
+      "checked_at": "2026-11-03T10:40:25.324982+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-03T10:35:19.363595+00:00"
+      "checked_at": "2026-11-03T10:40:25.324982+00:00"
     }
   },
   "items": [
+    {
+      "id": "31badb54e6330ec0281a",
+      "source": "BBC News",
+      "title": "US strikes Iranian island ahead of midterm elections",
+      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T10:37:13+00:00"
+    },
     {
       "id": "7c7c1317548183f73a2f",
       "source": "BBC News",
@@ -136,13 +143,6 @@
       "title": "Belize, stato di emergenza per escalation di violenza delle gang",
       "url": "https://www.tgcom24.mediaset.it/mondo/belize-stato-emergenza-criminalita-gang_118513418-202602k.shtml",
       "published": "2026-11-03T05:00:00+00:00"
-    },
-    {
-      "id": "31badb54e6330ec0281a",
-      "source": "BBC News",
-      "title": "US strikes Iranian island ahead of midterm elections",
-      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T03:39:08+00:00"
     },
     {
       "id": "ff1a9b2a0529725e236f",
