@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-03T17:35:28.433257+00:00",
+  "updated_at": "2026-11-03T17:40:37.992723+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-03T17:35:28.433257+00:00"
+      "checked_at": "2026-11-03T17:40:37.992723+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-03T17:35:28.433257+00:00"
+      "checked_at": "2026-11-03T17:40:37.992723+00:00"
     }
   },
   "items": [
@@ -82,6 +82,13 @@
       "published": "2026-11-03T15:09:00+00:00"
     },
     {
+      "id": "18ca895c9d90908f9d5d",
+      "source": "BBC News",
+      "title": "Mining giant joins fight to stop killer toad march across Australia",
+      "url": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T15:05:01+00:00"
+    },
+    {
       "id": "f32cf6367f68d61ecaee",
       "source": "BBC News",
       "title": "Libya's top religious authority rules against wearing Nike clothes",
@@ -150,6 +157,13 @@
       "title": "Attacchi hacker ai frigoriferi, la polizia postale avvia un'indagine sui casi italiani",
       "url": "https://www.tgcom24.mediaset.it/cronaca/attacco-hacker-supermercati-frigoriferi_118519023-202602k.shtml",
       "published": "2026-11-03T12:05:00+00:00"
+    },
+    {
+      "id": "cae8badb786a4babc917",
+      "source": "BBC News",
+      "title": "Indian tourist killed after two helicopters collide near Everest base camp",
+      "url": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T11:51:08+00:00"
     },
     {
       "id": "88a2321c1c10021ed9c3",
