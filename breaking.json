@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-03T12:15:33.402721+00:00",
+  "updated_at": "2026-11-03T12:20:27.808040+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-03T12:15:33.402721+00:00"
+      "checked_at": "2026-11-03T12:20:27.808040+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-03T12:15:33.402721+00:00"
+      "checked_at": "2026-11-03T12:20:27.808040+00:00"
     }
   },
   "items": [
+    {
+      "id": "8cec393e71818e3cfb71",
+      "source": "BBC News",
+      "title": "US urges Venezuela to release remaining political prisoners",
+      "url": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T12:09:20+00:00"
+    },
     {
       "id": "29fd8a50b5730028835b",
       "source": "TGcom24",
