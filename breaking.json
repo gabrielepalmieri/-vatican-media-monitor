@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-03T12:05:19.553018+00:00",
+  "updated_at": "2026-11-03T12:10:37.060797+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-03T12:05:19.553018+00:00"
+      "checked_at": "2026-11-03T12:10:37.060797+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-03T12:05:19.553018+00:00"
+      "checked_at": "2026-11-03T12:10:37.060797+00:00"
     }
   },
   "items": [
+    {
+      "id": "29fd8a50b5730028835b",
+      "source": "TGcom24",
+      "title": "Attacchi hacker ai frigoriferi, la polizia postale avvia un'indagine sui casi italiani",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/attacco-hacker-supermercati-frigoriferi_118519023-202602k.shtml",
+      "published": "2026-11-03T12:05:00+00:00"
+    },
+    {
+      "id": "cae8badb786a4babc917",
+      "source": "BBC News",
+      "title": "Indian tourist killed after two helicopters collide near Everest base camp",
+      "url": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T11:51:08+00:00"
+    },
     {
       "id": "88a2321c1c10021ed9c3",
       "source": "TGcom24",
@@ -304,13 +318,6 @@
       "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
       "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-02T17:33:19+00:00"
-    },
-    {
-      "id": "e81a3fc200c4b9d04658",
-      "source": "TGcom24",
-      "title": "Midterm, Trump chiede l'intervento della Corte Suprema sul blocco dei voti in California",
-      "url": "https://www.tgcom24.mediaset.it/elezioni-estero/usa-midterm-2026/elezioni-midterm-comizio-trump-kansas-sondaggi_118469061-202602k.shtml",
-      "published": "2026-11-02T17:02:00+00:00"
     },
     {
       "id": "0d6d75aba80a1c5aa267",
