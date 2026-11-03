@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-03T05:40:26.831569+00:00",
+  "updated_at": "2026-11-03T05:45:28.097696+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-03T05:40:26.831569+00:00"
+      "checked_at": "2026-11-03T05:45:28.097696+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-03T05:40:26.831569+00:00"
+      "checked_at": "2026-11-03T05:45:28.097696+00:00"
     }
   },
   "items": [
+    {
+      "id": "4d3177cefe584fc5e0b9",
+      "source": "TGcom24",
+      "title": "Midterm Usa, Trump: \"Se la nostra gente va a votare, vinciamo a valanga\"",
+      "url": "https://www.tgcom24.mediaset.it/elezioni-estero/usa-midterm-2026/midterm-usa-2026-elezioni-americane_118516257-202602k.shtml",
+      "published": "2026-11-03T05:40:00+00:00"
+    },
     {
       "id": "ce00161b42de1a5e58ec",
       "source": "TGcom24",
@@ -332,13 +339,6 @@
       "title": "Five arrested after South African farmer shot and tortured",
       "url": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-02T10:48:47+00:00"
-    },
-    {
-      "id": "12281df92e27982bedec",
-      "source": "TGcom24",
-      "title": "Omicidio Pier Paolo Pasolini, la procura di Roma apre una nuova indagine",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/omicidio-pier-paolo-pasolini-procura-roma-riapre-indagini_118477515-202602k.shtml",
-      "published": "2026-11-02T10:09:00+00:00"
     },
     {
       "id": "7a1a8f0eab4f73548579",
