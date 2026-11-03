@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-03T09:15:35.181993+00:00",
+  "updated_at": "2026-11-03T09:20:26.689090+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-03T09:15:35.181993+00:00"
+      "checked_at": "2026-11-03T09:20:26.689090+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-03T09:15:35.181993+00:00"
+      "checked_at": "2026-11-03T09:20:26.689090+00:00"
     }
   },
   "items": [
+    {
+      "id": "6fe95e24eec65086dba2",
+      "source": "TGcom24",
+      "title": "Ucraina, in settimana riunione Nato-Usa-E3 a Bruxelles",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-3-novembre_118517162-202602k.shtml",
+      "published": "2026-11-03T09:12:00+00:00"
+    },
     {
       "id": "53a2c95cb3ad6b3788d3",
       "source": "BBC News",
@@ -105,7 +112,7 @@
     {
       "id": "31badb54e6330ec0281a",
       "source": "BBC News",
-      "title": "US strikes Iran ahead of midterm elections",
+      "title": "US strikes Iranian island ahead of midterm elections",
       "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-03T03:39:08+00:00"
     },
@@ -311,13 +318,6 @@
       "title": "Addio a Nadia Santini, la prima donna chef italiana con 3 Stelle Michelin",
       "url": "https://www.tgcom24.mediaset.it/tgcom-mag/morta-chef-nadia-santini_118487872-202602k.shtml",
       "published": "2026-11-02T14:00:00+00:00"
-    },
-    {
-      "id": "d7d1f082cb9d30dee1b0",
-      "source": "TGcom24",
-      "title": "Germania, ago nel dolcetto di Halloween: ferita una bambina di 9 anni",
-      "url": "https://www.tgcom24.mediaset.it/mondo/germania-ago-halloween-ferita-bambina_118487226-202602k.shtml",
-      "published": "2026-11-02T13:44:00+00:00"
     },
     {
       "id": "a3e21f9c7d66c888f68a",
