@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-03T05:01:00.941592+00:00",
+  "updated_at": "2026-11-03T05:05:18.389535+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-03T05:01:00.941592+00:00"
+      "checked_at": "2026-11-03T05:05:18.389535+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-03T05:01:00.941592+00:00"
+      "checked_at": "2026-11-03T05:05:18.389535+00:00"
     }
   },
   "items": [
+    {
+      "id": "ce00161b42de1a5e58ec",
+      "source": "TGcom24",
+      "title": "Belize, stato di emergenza per escalation di violenza delle gang",
+      "url": "https://www.tgcom24.mediaset.it/mondo/belize-stato-emergenza-criminalita-gang_118513418-202602k.shtml",
+      "published": "2026-11-03T05:00:00+00:00"
+    },
     {
       "id": "31badb54e6330ec0281a",
       "source": "BBC News",
@@ -334,13 +341,6 @@
       "published": "2026-11-02T10:09:00+00:00"
     },
     {
-      "id": "2a52bf254880aab22d21",
-      "source": "TGcom24",
-      "title": "Incidente ferroviario di Toledo, identificate le due vittime italiane",
-      "url": "https://www.tgcom24.mediaset.it/mondo/toledo-incidente-ferroviario-identificate-vittime-italiane_118475502-202602k.shtml",
-      "published": "2026-11-02T09:30:00+00:00"
-    },
-    {
       "id": "7a1a8f0eab4f73548579",
       "source": "BBC News",
       "title": "Popular Australian children's author jailed over child exploitation offences",
@@ -395,13 +395,6 @@
       "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
       "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-01T17:06:32+00:00"
-    },
-    {
-      "id": "3bf71421294506af008b",
-      "source": "BBC News",
-      "title": "University of Cambridge scientist among those who died in Spanish train crash",
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01T17:05:18+00:00"
     }
   ]
 }
