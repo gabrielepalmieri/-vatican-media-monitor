@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-03T17:05:20.456295+00:00",
+  "updated_at": "2026-11-03T17:10:27.672250+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-03T17:05:20.456295+00:00"
+      "checked_at": "2026-11-03T17:10:27.672250+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-03T17:05:20.456295+00:00"
+      "checked_at": "2026-11-03T17:10:27.672250+00:00"
     }
   },
   "items": [
+    {
+      "id": "f96bdeb018c3873aa0a3",
+      "source": "BBC News",
+      "title": "Irish Olympian Ciara Mageean was a 'talented and inspirational human being'",
+      "url": "https://www.bbc.co.uk/news/articles/cw62ye1030njo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T17:07:28+00:00"
+    },
     {
       "id": "15dadda0621268e15086",
       "source": "TGcom24",
@@ -19,17 +26,10 @@
       "published": "2026-11-03T16:37:00+00:00"
     },
     {
-      "id": "f96bdeb018c3873aa0a3",
-      "source": "BBC News",
-      "title": "Irish Olympian Ciara Mageean was a 'talented and inspirational human being'",
-      "url": "https://www.bbc.co.uk/news/articles/cw62ye1030njo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T16:20:59+00:00"
-    },
-    {
-      "id": "eecc546654101c5218bf",
+      "id": "4d2a908c13c2d5071cde",
       "source": "TGcom24",
       "title": "Hackeraggio supermercati, Piantedosi: \"Iniziativa coordinata a livello europeo\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/attacco-hacker-supermercati-frigoriferi_118519023-202602k.shtml",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/hackeraggio-supermercati-piantedosi_118540907-202602k.shtml",
       "published": "2026-11-03T16:19:00+00:00"
     },
     {
