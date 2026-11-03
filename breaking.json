@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-03T17:30:54.933502+00:00",
+  "updated_at": "2026-11-03T17:35:28.433257+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-03T17:30:54.933502+00:00"
+      "checked_at": "2026-11-03T17:35:28.433257+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-03T17:30:54.933502+00:00"
+      "checked_at": "2026-11-03T17:35:28.433257+00:00"
     }
   },
   "items": [
+    {
+      "id": "e2bcaf422052ba63e158",
+      "source": "BBC News",
+      "title": "Bomb threats target seven flights across Europe",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T17:21:26+00:00"
+    },
     {
       "id": "f96bdeb018c3873aa0a3",
       "source": "BBC News",
@@ -26,11 +33,25 @@
       "published": "2026-11-03T17:05:00+00:00"
     },
     {
+      "id": "e4d6e7102562cd65573b",
+      "source": "BBC News",
+      "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+      "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T16:57:41+00:00"
+    },
+    {
       "id": "15dadda0621268e15086",
       "source": "TGcom24",
       "title": "Delitto di Garlasco, la Procura chiede il processo per Andrea Sempio",
       "url": "https://www.tgcom24.mediaset.it/cronaca/garlasco-procura-sempio-processo-omicidio_118539555-202602k.shtml",
       "published": "2026-11-03T16:37:00+00:00"
+    },
+    {
+      "id": "279d681068c5afa5c5c5",
+      "source": "BBC News",
+      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T16:19:29+00:00"
     },
     {
       "id": "4d2a908c13c2d5071cde",
@@ -129,13 +150,6 @@
       "title": "Attacchi hacker ai frigoriferi, la polizia postale avvia un'indagine sui casi italiani",
       "url": "https://www.tgcom24.mediaset.it/cronaca/attacco-hacker-supermercati-frigoriferi_118519023-202602k.shtml",
       "published": "2026-11-03T12:05:00+00:00"
-    },
-    {
-      "id": "cae8badb786a4babc917",
-      "source": "BBC News",
-      "title": "Indian tourist killed after two helicopters collide near Everest base camp",
-      "url": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T11:51:08+00:00"
     },
     {
       "id": "88a2321c1c10021ed9c3",
