@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-04T11:20:28.439191+00:00",
+  "updated_at": "2026-11-04T11:25:18.562464+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-04T11:20:28.439191+00:00"
+      "checked_at": "2026-11-04T11:25:18.562464+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-04T11:20:28.439191+00:00"
+      "checked_at": "2026-11-04T11:25:18.562464+00:00"
     }
   },
   "items": [
+    {
+      "id": "8c4fb13906a101926322",
+      "source": "TGcom24",
+      "title": "La Svizzera rinuncia al rimborso delle spese mediche dei feriti di Crans-Montana",
+      "url": "https://www.tgcom24.mediaset.it/mondo/crans-montana-svizzera-rimborso-spese-mediche-feriti_118577614-202602k.shtml",
+      "published": "2026-11-04T11:21:00+00:00"
+    },
     {
       "id": "25bea6592a151320096e",
       "source": "BBC News",
@@ -290,13 +297,6 @@
       "title": "Napoli, rintracciata la famiglia dello svedese che viveva in aeroporto",
       "url": "https://www.tgcom24.mediaset.it/cronaca/napoli-svedese-aeroporto-famiglia-rintracciata_118535938-202602k.shtml",
       "published": "2026-11-03T17:05:00+00:00"
-    },
-    {
-      "id": "15dadda0621268e15086",
-      "source": "TGcom24",
-      "title": "Delitto di Garlasco, la Procura chiede il processo per Andrea Sempio",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/garlasco-procura-sempio-processo-omicidio_118539555-202602k.shtml",
-      "published": "2026-11-03T16:37:00+00:00"
     },
     {
       "id": "279d681068c5afa5c5c5",
