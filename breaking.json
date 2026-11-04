@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-04T12:05:20.047929+00:00",
+  "updated_at": "2026-11-04T12:10:27.291229+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-04T12:05:20.047929+00:00"
+      "checked_at": "2026-11-04T12:10:27.291229+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-04T12:05:20.047929+00:00"
+      "checked_at": "2026-11-04T12:10:27.291229+00:00"
     }
   },
   "items": [
+    {
+      "id": "b5e302a7ef6f7ac84b9e",
+      "source": "TGcom24",
+      "title": "Crans-Montana, Meloni: \"Nessun onere sulle famiglie italiane, sono felice\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/crans-montana-svizzera-rimborso-spese-mediche-feriti_118577614-202602k.shtml",
+      "published": "2026-11-04T12:02:00+00:00"
+    },
     {
       "id": "c36920a799011336054e",
       "source": "BBC News",
@@ -292,13 +299,6 @@
       "published": "2026-11-03T17:40:00+00:00"
     },
     {
-      "id": "089a483df8fec8dc2bca",
-      "source": "TGcom24",
-      "title": "Napoli, rintracciata la famiglia dello svedese che viveva in aeroporto",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/napoli-svedese-aeroporto-famiglia-rintracciata_118535938-202602k.shtml",
-      "published": "2026-11-03T17:05:00+00:00"
-    },
-    {
       "id": "279d681068c5afa5c5c5",
       "source": "BBC News",
       "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
@@ -318,13 +318,6 @@
       "title": "Why a US-Russia showdown left Morocco celebrating",
       "url": "https://www.bbc.co.uk/news/articles/cqp8genleg2ro?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-03T07:29:46+00:00"
-    },
-    {
-      "id": "ce6e372b0c72116663eb",
-      "source": "BBC News",
-      "title": "Film star Ranbir Kapoor on AI, movies and fatherhood",
-      "url": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T00:09:13+00:00"
     }
   ]
 }
