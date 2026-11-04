@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-04T10:35:21.231174+00:00",
+  "updated_at": "2026-11-04T10:40:26.416205+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-04T10:35:21.231174+00:00"
+      "checked_at": "2026-11-04T10:40:26.416205+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-04T10:35:21.231174+00:00"
+      "checked_at": "2026-11-04T10:40:26.416205+00:00"
     }
   },
   "items": [
+    {
+      "id": "58ae94cee9842f1f747a",
+      "source": "BBC News",
+      "title": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
+      "url": "https://www.bbc.co.uk/news/articles/c6y8lz73vmv7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T10:35:03+00:00"
+    },
+    {
+      "id": "df2d063324841fbf7e19",
+      "source": "TGcom24",
+      "title": "Lecce, titolare di una ditta muore schiacciato da un cancello",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/lecce-rushani-bashkim-morto-incidente-lavoro_118576478-202602k.shtml",
+      "published": "2026-11-04T10:35:00+00:00"
+    },
     {
       "id": "11c81a4ee1b490e17a7c",
       "source": "BBC News",
@@ -115,13 +129,6 @@
       "title": "Midterm, Obama: \"Il popolo americano ha lanciato un messaggio chiaro\"",
       "url": "https://www.tgcom24.mediaset.it/elezioni-estero/usa-midterm-2026/midterm-obama-il-popolo-americano-ha-lanciato-un-messaggio-chiaro-_118566574-202602k.shtml",
       "published": "2026-11-04T06:24:00+00:00"
-    },
-    {
-      "id": "58ae94cee9842f1f747a",
-      "source": "BBC News",
-      "title": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
-      "url": "https://www.bbc.co.uk/news/articles/c6y8lz73vmv7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T06:07:24+00:00"
     },
     {
       "id": "9c39c8882e43b21977f3",
@@ -297,13 +304,6 @@
       "title": "Hackeraggio supermercati, Piantedosi: \"Iniziativa coordinata a livello europeo\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/hackeraggio-supermercati-piantedosi_118540907-202602k.shtml",
       "published": "2026-11-03T16:19:00+00:00"
-    },
-    {
-      "id": "91cdf0423152f88b3538",
-      "source": "TGcom24",
-      "title": "Re Carlo al Commonwealth: \"Orrore e vergogna per lo schiavismo\"",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/re-carlo-al-commonwealth-orrore-e-vergogna-per-lo-schiavismo-_118538102-02k.shtml",
-      "published": "2026-11-03T16:02:00+00:00"
     },
     {
       "id": "a8b3a1aabee56f0ec601",
