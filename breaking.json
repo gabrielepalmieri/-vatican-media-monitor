@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-04T17:15:33.307849+00:00",
+  "updated_at": "2026-11-04T17:20:33.220533+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-04T17:15:33.307849+00:00"
+      "checked_at": "2026-11-04T17:20:33.220533+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-04T17:15:33.307849+00:00"
+      "checked_at": "2026-11-04T17:20:33.220533+00:00"
     }
   },
   "items": [
+    {
+      "id": "08bba494340a1b4ab414",
+      "source": "TGcom24",
+      "title": "Dl carburanti, via libera della Camera con 137 sì: prorogata la riduzione delle accise",
+      "url": "https://www.tgcom24.mediaset.it/economia/dl-carburanti-via-libera-definitivo-della-camera_118591349-202602k.shtml",
+      "published": "2026-11-04T17:15:00+00:00"
+    },
     {
       "id": "11c81a4ee1b490e17a7c",
       "source": "BBC News",
@@ -297,13 +304,6 @@
       "title": "Midterm, la contea di Will ha ricevuto la scheda elettorale di Papa Leone",
       "url": "https://www.tgcom24.mediaset.it/elezioni-estero/usa-midterm-2026/elezioni-midterm-usa-2026-risultati-live_118551779-202602k.shtml",
       "published": "2026-11-03T23:34:00+00:00"
-    },
-    {
-      "id": "ddf5076cc7bb7d2f7042",
-      "source": "TGcom24",
-      "title": "A Guam vincono i repubblicani, Trump: \"Speriamo sia un segnale\"",
-      "url": "https://www.tgcom24.mediaset.it/elezioni-estero/usa-midterm-2026/midterm-usa-2026-elezioni-americane_118516257-202602k.shtml",
-      "published": "2026-11-03T21:45:00+00:00"
     }
   ]
 }
