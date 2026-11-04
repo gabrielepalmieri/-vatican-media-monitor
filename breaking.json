@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-11-04T15:01:04.141708+00:00",
+  "updated_at": "2026-11-04T15:11:14.679933+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-04T15:01:04.141708+00:00"
+      "checked_at": "2026-11-04T15:11:14.679933+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-04T15:01:04.141708+00:00"
+      "checked_at": "2026-11-04T15:11:14.679933+00:00"
     }
   },
   "items": [
+    {
+      "id": "045c52f0f7910ed81407",
+      "source": "BBC News",
+      "title": "Zelensky awards Melania Trump Ukraine's highest award after Oleshky ceasefire",
+      "url": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T15:01:10+00:00"
+    },
     {
       "id": "3fb3a5f132a34b9a0da6",
       "source": "BBC News",
       "title": "Mother of Ghanaian boy killed in US 'wants justice' as she flies for funeral",
       "url": "https://www.bbc.co.uk/news/articles/cq62yjnmg4ego?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T14:35:27+00:00"
+    },
+    {
+      "id": "89895be4a6e90b27c887",
+      "source": "TGcom24",
+      "title": "Midterm, la Casa Bianca provoca: \"Trump è ancora il vostro presidente\"",
+      "url": "https://www.tgcom24.mediaset.it/elezioni-estero/usa-midterm-2026/elezioni-midterm-usa-2026-risultati-live_118551779-202602k.shtml",
+      "published": "2026-11-04T14:30:00+00:00"
     },
     {
       "id": "35bfa9b120dd988d388b",
@@ -236,13 +250,6 @@
       "published": "2026-11-04T04:16:00+00:00"
     },
     {
-      "id": "cd45072d69d582d3e8b9",
-      "source": "BBC News",
-      "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
-      "url": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T03:46:10+00:00"
-    },
-    {
       "id": "ebad8a4e95ffa7ff0f09",
       "source": "BBC News",
       "title": "Killer who escaped Tennessee prison captured after week-long manhunt",
@@ -297,27 +304,6 @@
       "title": "Garlasco, Difesa Stasi: \"Legali Sempio difendano lui e non attacchino Alberto\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/difesa-stasi-legali-sempio-difendano-lui-e-non-attacchino-alberto-_118546817-202602k.shtml",
       "published": "2026-11-03T19:50:00+00:00"
-    },
-    {
-      "id": "d1ee4f15a1e06280f7f5",
-      "source": "TGcom24",
-      "title": "Midterm, italiano arrestato dall'Ice per frode elettorale: rilasciato su cauzione",
-      "url": "https://www.tgcom24.mediaset.it/elezioni-estero/usa-midterm-2026/midterm-italiano-arrestato-frode-elettorale_118545860-202602k.shtml",
-      "published": "2026-11-03T19:16:00+00:00"
-    },
-    {
-      "id": "a8b3a1aabee56f0ec601",
-      "source": "BBC News",
-      "title": "How sporting events are being affected by Middle East conflict",
-      "url": "https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T16:01:24+00:00"
-    },
-    {
-      "id": "0560016032ea2c06ece7",
-      "source": "BBC News",
-      "title": "Why a US-Russia showdown left Morocco celebrating",
-      "url": "https://www.bbc.co.uk/news/articles/cqp8genleg2ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T07:29:46+00:00"
     }
   ]
 }
