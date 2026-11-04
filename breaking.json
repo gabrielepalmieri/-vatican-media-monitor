@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-04T09:01:01.475929+00:00",
+  "updated_at": "2026-11-04T09:05:20.162066+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-04T09:01:01.475929+00:00"
+      "checked_at": "2026-11-04T09:05:20.162066+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-04T09:01:01.475929+00:00"
+      "checked_at": "2026-11-04T09:05:20.162066+00:00"
     }
   },
   "items": [
+    {
+      "id": "c36920a799011336054e",
+      "source": "BBC News",
+      "title": "Key moments from a night of midterm election firsts",
+      "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T09:01:40+00:00"
+    },
     {
       "id": "e92da97f57cfe5dae62f",
       "source": "TGcom24",
@@ -31,13 +38,6 @@
       "title": "Midterm, Elon Musk su X: \"I miei laser spaziali non hanno funzionato\"",
       "url": "https://www.tgcom24.mediaset.it/elezioni-estero/usa-midterm-2026/elezioni-midterm-usa-2026-risultati-live_118551779-202602k.shtml",
       "published": "2026-11-04T07:46:00+00:00"
-    },
-    {
-      "id": "c36920a799011336054e",
-      "source": "BBC News",
-      "title": "Key moments from a night of midterm election firsts",
-      "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T07:40:12+00:00"
     },
     {
       "id": "74afdfb2a1053db8ff04",
