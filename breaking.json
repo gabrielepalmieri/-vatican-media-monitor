@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-04T17:50:30.682866+00:00",
+  "updated_at": "2026-11-04T17:55:20.186010+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-04T17:50:30.682866+00:00"
+      "checked_at": "2026-11-04T17:55:20.186010+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-04T17:50:30.682866+00:00"
+      "checked_at": "2026-11-04T17:55:20.186010+00:00"
     }
   },
   "items": [
+    {
+      "id": "f39612f1274712b35553",
+      "source": "BBC News",
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T17:45:58+00:00"
+    },
     {
       "id": "08bba494340a1b4ab414",
       "source": "TGcom24",
@@ -87,13 +94,6 @@
       "title": "Manovra, Valditara: \"Lavoriamo per eliminare tagli a personale scuola\"",
       "url": "https://www.tgcom24.mediaset.it/politica/manovra-valditara-scuola-sanita_118587873-202602k.shtml",
       "published": "2026-11-04T15:25:00+00:00"
-    },
-    {
-      "id": "045c52f0f7910ed81407",
-      "source": "BBC News",
-      "title": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
-      "url": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T15:01:10+00:00"
     },
     {
       "id": "89895be4a6e90b27c887",
