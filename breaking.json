@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-04T06:30:50.855433+00:00",
+  "updated_at": "2026-11-04T06:35:18.310948+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-04T06:30:50.855433+00:00"
+      "checked_at": "2026-11-04T06:35:18.310948+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-04T06:30:50.855433+00:00"
+      "checked_at": "2026-11-04T06:35:18.310948+00:00"
     }
   },
   "items": [
@@ -19,11 +19,25 @@
       "published": "2026-11-04T06:14:20+00:00"
     },
     {
+      "id": "c36920a799011336054e",
+      "source": "BBC News",
+      "title": "Ecstatic scenes and historic moments: What's happened so far in the midterms",
+      "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T06:13:09+00:00"
+    },
+    {
       "id": "9c39c8882e43b21977f3",
       "source": "TGcom24",
       "title": "Midterm, Trump: \"I Dem hanno fatto un buon lavoro, spero di lavorare con loro\"",
       "url": "https://www.tgcom24.mediaset.it/elezioni-estero/usa-midterm-2026/elezioni-midterm-usa-2026-risultati-live_118551779-202602k.shtml",
       "published": "2026-11-04T05:49:00+00:00"
+    },
+    {
+      "id": "6878d8e8ec0e099ef6ca",
+      "source": "BBC News",
+      "title": "How America voted in maps and charts",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T04:47:08+00:00"
     },
     {
       "id": "27d7108544d4202cd650",
@@ -159,13 +173,6 @@
       "published": "2026-11-03T17:40:00+00:00"
     },
     {
-      "id": "f96bdeb018c3873aa0a3",
-      "source": "BBC News",
-      "title": "Irish Olympian Ciara Mageean was a 'talented and inspirational human being'",
-      "url": "https://www.bbc.co.uk/news/articles/cw62ye1030njo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T17:07:28+00:00"
-    },
-    {
       "id": "089a483df8fec8dc2bca",
       "source": "TGcom24",
       "title": "Napoli, rintracciata la famiglia dello svedese che viveva in aeroporto",
@@ -222,13 +229,6 @@
       "published": "2026-11-03T15:09:00+00:00"
     },
     {
-      "id": "18ca895c9d90908f9d5d",
-      "source": "BBC News",
-      "title": "Mining giant joins fight to stop killer toad march across Australia",
-      "url": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T15:05:01+00:00"
-    },
-    {
       "id": "f32cf6367f68d61ecaee",
       "source": "BBC News",
       "title": "Libya's top religious authority rules against wearing Nike clothes",
@@ -250,32 +250,11 @@
       "published": "2026-11-03T13:55:47+00:00"
     },
     {
-      "id": "97166cfa888172df9680",
-      "source": "BBC News",
-      "title": "Jet may have broken apart before Florida crash, officials say, as family named among victims",
-      "url": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T13:44:44+00:00"
-    },
-    {
       "id": "578109a7672482a35170",
       "source": "TGcom24",
       "title": "Melania Trump riunirà alla Casa Bianca funzionari russi e ucraini il 5/11",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-3-novembre_118517162-202602k.shtml",
       "published": "2026-11-03T13:35:00+00:00"
-    },
-    {
-      "id": "7c7c1317548183f73a2f",
-      "source": "BBC News",
-      "title": "Trump to remove Rwanda and South Africa from US trade deal",
-      "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T13:28:30+00:00"
-    },
-    {
-      "id": "9a7884b8aa35d50402fb",
-      "source": "BBC News",
-      "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
-      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T13:26:19+00:00"
     },
     {
       "id": "a4799e8004378db8054d",
@@ -285,25 +264,11 @@
       "published": "2026-11-03T13:01:00+00:00"
     },
     {
-      "id": "8cec393e71818e3cfb71",
-      "source": "BBC News",
-      "title": "US urges Venezuela to release remaining political prisoners",
-      "url": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T12:09:20+00:00"
-    },
-    {
       "id": "29fd8a50b5730028835b",
       "source": "TGcom24",
       "title": "Attacchi hacker ai frigoriferi, la polizia postale avvia un'indagine sui casi italiani",
       "url": "https://www.tgcom24.mediaset.it/cronaca/attacco-hacker-supermercati-frigoriferi_118519023-202602k.shtml",
       "published": "2026-11-03T12:05:00+00:00"
-    },
-    {
-      "id": "cae8badb786a4babc917",
-      "source": "BBC News",
-      "title": "Indian tourist killed after two helicopters collide near Everest base camp",
-      "url": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T11:51:08+00:00"
     },
     {
       "id": "88a2321c1c10021ed9c3",
@@ -320,13 +285,6 @@
       "published": "2026-11-03T11:33:33+00:00"
     },
     {
-      "id": "9c44fa20141a7d05727c",
-      "source": "BBC News",
-      "title": "Tenerife striker De Miguel dies after on-field collision",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T09:09:18+00:00"
-    },
-    {
       "id": "0560016032ea2c06ece7",
       "source": "BBC News",
       "title": "Why a US-Russia showdown left Morocco celebrating",
@@ -334,32 +292,11 @@
       "published": "2026-11-03T07:29:46+00:00"
     },
     {
-      "id": "fe43649513ff0b6e0dd6",
-      "source": "BBC News",
-      "title": "Asian Cup postponed in wake of attacks on Saudi Arabia",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T07:15:17+00:00"
-    },
-    {
-      "id": "ff1a9b2a0529725e236f",
-      "source": "BBC News",
-      "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T03:32:36+00:00"
-    },
-    {
       "id": "ce6e372b0c72116663eb",
       "source": "BBC News",
       "title": "Film star Ranbir Kapoor on AI, movies and fatherhood",
       "url": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-03T00:09:13+00:00"
-    },
-    {
-      "id": "74ef94bef0989637fb7e",
-      "source": "BBC News",
-      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
-      "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T00:07:05+00:00"
     },
     {
       "id": "c0d9167c659f6beb6c7a",
