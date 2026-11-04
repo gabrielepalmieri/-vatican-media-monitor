@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-04T15:35:20.364385+00:00",
+  "updated_at": "2026-11-04T15:40:30.214192+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-04T15:35:20.364385+00:00"
+      "checked_at": "2026-11-04T15:40:30.214192+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-04T15:35:20.364385+00:00"
+      "checked_at": "2026-11-04T15:40:30.214192+00:00"
     }
   },
   "items": [
+    {
+      "id": "c9476d83430fa4de4753",
+      "source": "BBC News",
+      "title": "Secret police files released in Hungary, 47 years after fall of communism",
+      "url": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T15:28:18+00:00"
+    },
     {
       "id": "079f3d93f710da64b196",
       "source": "TGcom24",
@@ -255,13 +262,6 @@
       "title": "Midterm, i democratici strappano ai repubblicani i 5 Stati chiave al Senato",
       "url": "https://www.tgcom24.mediaset.it/elezioni-estero/usa-midterm-2026/elezioni-midterm-usa-2026-risultati-live_118551779-202602k.shtml",
       "published": "2026-11-04T04:16:00+00:00"
-    },
-    {
-      "id": "ebad8a4e95ffa7ff0f09",
-      "source": "BBC News",
-      "title": "Killer who escaped Tennessee prison captured after week-long manhunt",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8nj23v8qqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T02:11:40+00:00"
     },
     {
       "id": "e5965ce85428673a98fd",
