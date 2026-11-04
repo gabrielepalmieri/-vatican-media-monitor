@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-04T15:25:21.645863+00:00",
+  "updated_at": "2026-11-04T15:30:49.773791+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-04T15:25:21.645863+00:00"
+      "checked_at": "2026-11-04T15:30:49.773791+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-04T15:25:21.645863+00:00"
+      "checked_at": "2026-11-04T15:30:49.773791+00:00"
     }
   },
   "items": [
+    {
+      "id": "079f3d93f710da64b196",
+      "source": "TGcom24",
+      "title": "Manovra, Valditara: \"Lavoriamo per eliminare tagli a personale scuola\"",
+      "url": "https://www.tgcom24.mediaset.it/politica/manovra-valditara-scuola-sanita_118587873-202602k.shtml",
+      "published": "2026-11-04T15:25:00+00:00"
+    },
     {
       "id": "3fb3a5f132a34b9a0da6",
       "source": "BBC News",
@@ -297,13 +304,6 @@
       "title": "Midterm, media: \"Uomo ha inviato 700 buste con polvere bianca a politici e stampa\"",
       "url": "https://www.tgcom24.mediaset.it/elezioni-estero/usa-midterm-2026/midterm-usa-2026-elezioni-americane_118516257-202602k.shtml",
       "published": "2026-11-03T20:32:00+00:00"
-    },
-    {
-      "id": "5c88f5be319c450a43a3",
-      "source": "TGcom24",
-      "title": "Garlasco, Difesa Stasi: \"Legali Sempio difendano lui e non attacchino Alberto\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/difesa-stasi-legali-sempio-difendano-lui-e-non-attacchino-alberto-_118546817-202602k.shtml",
-      "published": "2026-11-03T19:50:00+00:00"
     }
   ]
 }
