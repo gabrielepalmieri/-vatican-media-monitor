@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-04T10:10:27.915283+00:00",
+  "updated_at": "2026-11-04T10:15:37.718346+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-04T10:10:27.915283+00:00"
+      "checked_at": "2026-11-04T10:15:37.718346+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-04T10:10:27.915283+00:00"
+      "checked_at": "2026-11-04T10:15:37.718346+00:00"
     }
   },
   "items": [
+    {
+      "id": "11c81a4ee1b490e17a7c",
+      "source": "BBC News",
+      "title": "Iran's chief negotiator says Americans voted 'no to war'",
+      "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T10:11:39+00:00"
+    },
     {
       "id": "6fa8d11381f912b5cbc8",
       "source": "TGcom24",
@@ -24,13 +31,6 @@
       "title": "How America voted in maps and charts",
       "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T09:53:18+00:00"
-    },
-    {
-      "id": "11c81a4ee1b490e17a7c",
-      "source": "BBC News",
-      "title": "Iran's chief negotiator says Americans voted 'no to war'",
-      "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T09:40:35+00:00"
     },
     {
       "id": "ebc5d81422481858809c",
@@ -126,7 +126,7 @@
     {
       "id": "9c39c8882e43b21977f3",
       "source": "TGcom24",
-      "title": "Midterm, Trump: \"I Dem hanno fatto un buon lavoro, spero di lavorare con loro\"",
+      "title": "Trump: \"I Dem hanno fatto un buon lavoro, spero di lavorare con loro\"",
       "url": "https://www.tgcom24.mediaset.it/elezioni-estero/usa-midterm-2026/elezioni-midterm-usa-2026-risultati-live_118551779-202602k.shtml",
       "published": "2026-11-04T05:49:00+00:00"
     },
