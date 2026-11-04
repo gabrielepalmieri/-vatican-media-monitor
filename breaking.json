@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-04T20:20:27.463953+00:00",
+  "updated_at": "2026-11-04T20:25:20.224016+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-04T20:20:27.463953+00:00"
+      "checked_at": "2026-11-04T20:25:20.224016+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-04T20:20:27.463953+00:00"
+      "checked_at": "2026-11-04T20:25:20.224016+00:00"
     }
   },
   "items": [
+    {
+      "id": "f39612f1274712b35553",
+      "source": "BBC News",
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T20:22:40+00:00"
+    },
     {
       "id": "257a5dd5f80b4529ff1b",
       "source": "TGcom24",
@@ -45,13 +52,6 @@
       "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
       "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T18:01:31+00:00"
-    },
-    {
-      "id": "f39612f1274712b35553",
-      "source": "BBC News",
-      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T17:45:58+00:00"
     },
     {
       "id": "08bba494340a1b4ab414",
