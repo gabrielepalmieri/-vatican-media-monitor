@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-04T10:55:19.456658+00:00",
+  "updated_at": "2026-11-04T11:01:07.291208+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-04T10:55:19.456658+00:00"
+      "checked_at": "2026-11-04T11:01:07.291208+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-04T10:55:19.456658+00:00"
+      "checked_at": "2026-11-04T11:01:07.291208+00:00"
     }
   },
   "items": [
+    {
+      "id": "9e6cc0c2164a47fc425d",
+      "source": "TGcom24",
+      "title": "Salvini: \"Oltre 72mila le patenti ritirate per uso smartphone alla guida\"",
+      "url": "https://www.tgcom24.mediaset.it/motori/matteo-salvini-patenti-ritirate_118577466-202602k.shtml",
+      "published": "2026-11-04T10:57:00+00:00"
+    },
     {
       "id": "58ae94cee9842f1f747a",
       "source": "BBC News",
@@ -297,13 +304,6 @@
       "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
       "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-03T16:19:29+00:00"
-    },
-    {
-      "id": "4d2a908c13c2d5071cde",
-      "source": "TGcom24",
-      "title": "Hackeraggio supermercati, Piantedosi: \"Iniziativa coordinata a livello europeo\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/hackeraggio-supermercati-piantedosi_118540907-202602k.shtml",
-      "published": "2026-11-03T16:19:00+00:00"
     },
     {
       "id": "a8b3a1aabee56f0ec601",
