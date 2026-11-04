@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-04T18:01:03.735868+00:00",
+  "updated_at": "2026-11-04T18:05:22.064202+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-04T18:01:03.735868+00:00"
+      "checked_at": "2026-11-04T18:05:22.064202+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-04T18:01:03.735868+00:00"
+      "checked_at": "2026-11-04T18:05:22.064202+00:00"
     }
   },
   "items": [
+    {
+      "id": "5b61611f3640f68f6fed",
+      "source": "BBC News",
+      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+      "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T18:01:31+00:00"
+    },
     {
       "id": "f39612f1274712b35553",
       "source": "BBC News",
@@ -24,13 +31,6 @@
       "title": "Dl carburanti, via libera della Camera con 137 sì: prorogata la riduzione delle accise",
       "url": "https://www.tgcom24.mediaset.it/economia/dl-carburanti-via-libera-definitivo-della-camera_118591349-202602k.shtml",
       "published": "2026-11-04T17:15:00+00:00"
-    },
-    {
-      "id": "5b61611f3640f68f6fed",
-      "source": "BBC News",
-      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-      "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T17:02:44+00:00"
     },
     {
       "id": "11c81a4ee1b490e17a7c",
