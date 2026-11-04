@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-04T09:35:26.149610+00:00",
+  "updated_at": "2026-11-04T09:45:36.953089+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-04T09:35:26.149610+00:00"
+      "checked_at": "2026-11-04T09:45:36.953089+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-04T09:35:26.149610+00:00"
+      "checked_at": "2026-11-04T09:45:36.953089+00:00"
     }
   },
   "items": [
+    {
+      "id": "11c81a4ee1b490e17a7c",
+      "source": "BBC News",
+      "title": "Iran's chief negotiator says Americans voted 'no to war'",
+      "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T09:40:35+00:00"
+    },
+    {
+      "id": "ebc5d81422481858809c",
+      "source": "TGcom24",
+      "title": "Adescavano minori con giochi erotici online: sette arresti in tutta Italia",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/pedopornografia-giochi-erotici-online-arresti_118571585-202602k.shtml",
+      "published": "2026-11-04T09:39:00+00:00"
+    },
     {
       "id": "b094dbc264cff3f5b108",
       "source": "TGcom24",
@@ -66,13 +80,6 @@
       "title": "How America voted in maps and charts",
       "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T07:24:59+00:00"
-    },
-    {
-      "id": "11c81a4ee1b490e17a7c",
-      "source": "BBC News",
-      "title": "Four tankers destroyed by naval mines in Strait of Hormuz, Iran's IRGC says",
-      "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T07:17:08+00:00"
     },
     {
       "id": "22efe1e10cbf8095f0b1",
@@ -304,13 +311,6 @@
       "title": "Verona, zattera con una gru si ribalta e uccide un operaio",
       "url": "https://www.tgcom24.mediaset.it/cronaca/verona-zattera-gru-uccide-operaio_118535377-202602k.shtml",
       "published": "2026-11-03T15:09:00+00:00"
-    },
-    {
-      "id": "578109a7672482a35170",
-      "source": "TGcom24",
-      "title": "Melania Trump riunirà alla Casa Bianca funzionari russi e ucraini il 5/11",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-3-novembre_118517162-202602k.shtml",
-      "published": "2026-11-03T13:35:00+00:00"
     },
     {
       "id": "0560016032ea2c06ece7",
