@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-04T14:05:21.979617+00:00",
+  "updated_at": "2026-11-04T14:10:27.089950+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-04T14:05:21.979617+00:00"
+      "checked_at": "2026-11-04T14:10:27.089950+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-04T14:05:21.979617+00:00"
+      "checked_at": "2026-11-04T14:10:27.089950+00:00"
     }
   },
   "items": [
+    {
+      "id": "c36920a799011336054e",
+      "source": "BBC News",
+      "title": "Everything you need to know from the US midterm elections",
+      "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T14:05:42+00:00"
+    },
+    {
+      "id": "959f12e791b00462793f",
+      "source": "BBC News",
+      "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+      "url": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T13:33:30+00:00"
+    },
     {
       "id": "fd5304a9b1e1c216e913",
       "source": "TGcom24",
@@ -54,13 +68,6 @@
       "published": "2026-11-04T12:02:00+00:00"
     },
     {
-      "id": "c36920a799011336054e",
-      "source": "BBC News",
-      "title": "Everything you need to know from the US midterm elections",
-      "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T12:01:07+00:00"
-    },
-    {
       "id": "b98911760684d34b6f86",
       "source": "BBC News",
       "title": "ANC under pressure to reverse South Africa decline",
@@ -94,13 +101,6 @@
       "title": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
       "url": "https://www.bbc.co.uk/news/articles/c6y8lz73vmv7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T10:35:03+00:00"
-    },
-    {
-      "id": "2eaea9c9500d3e02351e",
-      "source": "BBC News",
-      "title": "Trump takes aim at Republicans but says Democrats did a 'good job'",
-      "url": "https://www.bbc.co.uk/news/articles/c6073l9y15xxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T10:15:42+00:00"
     },
     {
       "id": "6fa8d11381f912b5cbc8",
