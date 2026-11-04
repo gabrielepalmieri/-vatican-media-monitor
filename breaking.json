@@ -1,22 +1,29 @@
 {
-  "updated_at": "2026-11-04T16:15:33.745110+00:00",
+  "updated_at": "2026-11-04T16:20:30.256947+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-04T16:15:33.745110+00:00"
+      "checked_at": "2026-11-04T16:20:30.256947+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-04T16:15:33.745110+00:00"
+      "checked_at": "2026-11-04T16:20:30.256947+00:00"
     }
   },
   "items": [
     {
       "id": "0ce7f6cc6bb4a0d18938",
       "source": "BBC News",
-      "title": "Israel's president to begin consultations with parties after election deadlock",
+      "title": "Israel's president begins consultations with parties after election deadlock",
       "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T15:45:45+00:00"
+      "published": "2026-11-04T16:18:21+00:00"
+    },
+    {
+      "id": "4003e85f08300cd332d1",
+      "source": "TGcom24",
+      "title": "Midterm, Vance: \"Abbiamo perso per la guerra in Iran e il carovita\"",
+      "url": "https://www.tgcom24.mediaset.it/elezioni-estero/usa-midterm-2026/elezioni-midterm-usa-2026-risultati-live_118551779-202602k.shtml",
+      "published": "2026-11-04T16:14:00+00:00"
     },
     {
       "id": "c9476d83430fa4de4753",
@@ -297,13 +304,6 @@
       "title": "Disastro ferroviario di Toledo, si dimette il ministro dei Trasporti spagnolo",
       "url": "https://www.tgcom24.mediaset.it/mondo/disastro-toledo-dimissioni-ministro-trasporti_118551385-202602k.shtml",
       "published": "2026-11-03T21:07:00+00:00"
-    },
-    {
-      "id": "42767d907eeb96c7e04b",
-      "source": "TGcom24",
-      "title": "Midterm, media: \"Uomo ha inviato 700 buste con polvere bianca a politici e stampa\"",
-      "url": "https://www.tgcom24.mediaset.it/elezioni-estero/usa-midterm-2026/midterm-usa-2026-elezioni-americane_118516257-202602k.shtml",
-      "published": "2026-11-03T20:32:00+00:00"
     }
   ]
 }
