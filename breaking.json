@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-04T16:55:20.710631+00:00",
+  "updated_at": "2026-11-04T17:01:04.705640+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-04T16:55:20.710631+00:00"
+      "checked_at": "2026-11-04T17:01:04.705640+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-04T16:55:20.710631+00:00"
+      "checked_at": "2026-11-04T17:01:04.705640+00:00"
     }
   },
   "items": [
+    {
+      "id": "11c81a4ee1b490e17a7c",
+      "source": "BBC News",
+      "title": "Iran's chief negotiator says Americans voted 'no to war'",
+      "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T16:59:15+00:00"
+    },
     {
       "id": "57f5256893ac48195942",
       "source": "TGcom24",
@@ -115,13 +122,6 @@
       "title": "Sharp objects found in Halloween sweets in three European nations",
       "url": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T12:34:33+00:00"
-    },
-    {
-      "id": "11c81a4ee1b490e17a7c",
-      "source": "BBC News",
-      "title": "Iran's chief negotiator says Americans voted 'no to war'",
-      "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T12:21:21+00:00"
     },
     {
       "id": "76b29045ab4ed7ea6e0a",
