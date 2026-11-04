@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-03T12:44:31.018796+00:00",
+  "updated_at": "2026-11-04T02:16:25.511499+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-11-03T12:44:31.018796+00:00",
+  "un_verified_at": "2026-11-04T02:16:25.511499+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,22 +1918,6 @@
     }
   ],
   "days": {
-    "2026-11-02": {
-      "saints": [
-        {
-          "title": "Commemorazione di tutti i fedeli defunti",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/02/commemorazione-di-tutti-i-fedeli-defunti.html"
-        }
-      ],
-      "un": [
-        {
-          "title": "Giornata internazionale per porre fine all’impunità per i crimini contro i giornalisti",
-          "url": "https://www.un.org/en/observances/end-impunity-crimes-against-journalists"
-        }
-      ],
-      "un_available": true,
-      "holy_see": []
-    },
     "2026-11-03": {
       "saints": [
         {
@@ -2615,6 +2599,38 @@
         }
       ],
       "un": [],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-12-09": {
+      "saints": [
+        {
+          "title": "San Juan Diego Cuauhtlatoatzin",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/09/san-juan-diego-cuauhtlatoatzin.html"
+        },
+        {
+          "title": "Santa Leocadia, vergine e martire",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/09.html"
+        },
+        {
+          "title": "San Pietro Fourier, canonico regolare",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/09.html"
+        },
+        {
+          "title": "San Siro, vescovo di Pavia",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/09.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata internazionale di commemorazione e dignità delle vittime del genocidio e di prevenzione di questo crimine",
+          "url": "https://www.un.org/en/observances/genocide-prevention-day"
+        },
+        {
+          "title": "Giornata internazionale contro la corruzione",
+          "url": "https://www.un.org/en/observances/anti-corruption-day"
+        }
+      ],
       "un_available": true,
       "holy_see": []
     }
