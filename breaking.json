@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-04T07:10:24.770214+00:00",
+  "updated_at": "2026-11-04T07:15:33.438218+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-04T07:10:24.770214+00:00"
+      "checked_at": "2026-11-04T07:15:33.438218+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-04T07:10:24.770214+00:00"
+      "checked_at": "2026-11-04T07:15:33.438218+00:00"
     }
   },
   "items": [
+    {
+      "id": "22efe1e10cbf8095f0b1",
+      "source": "BBC News",
+      "title": "Florida Republicans fend off Democrats as state elects first black governor",
+      "url": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T07:12:21+00:00"
+    },
+    {
+      "id": "8a367b7f1e30d2ed82e6",
+      "source": "BBC News",
+      "title": "Ex-UK political aide Steve Hilton loses bid for California governor to Democrat",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg7y9eyn07o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T07:03:45+00:00"
+    },
     {
       "id": "de1bdeed1419ef8066ed",
       "source": "TGcom24",
@@ -24,6 +38,13 @@
       "title": "Anthony Zurcher: Democrats tear up Trump's political map on historic night",
       "url": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T06:53:56+00:00"
+    },
+    {
+      "id": "74afdfb2a1053db8ff04",
+      "source": "BBC News",
+      "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+      "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T06:50:29+00:00"
     },
     {
       "id": "ea6f6f8091536c8d5603",
@@ -61,13 +82,6 @@
       "published": "2026-11-04T05:39:36+00:00"
     },
     {
-      "id": "22efe1e10cbf8095f0b1",
-      "source": "BBC News",
-      "title": "Florida Republicans fend off Democrats as state elects first black governor",
-      "url": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T05:04:46+00:00"
-    },
-    {
       "id": "6878d8e8ec0e099ef6ca",
       "source": "BBC News",
       "title": "How America voted in maps and charts",
@@ -101,13 +115,6 @@
       "title": "South Carolina elects Democratic senator for first time in almost three decades",
       "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T03:24:34+00:00"
-    },
-    {
-      "id": "b4759ebe04b57b6053df",
-      "source": "BBC News",
-      "title": "Democratic rising star Ossoff projected to hold Georgia seat",
-      "url": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T02:38:07+00:00"
     },
     {
       "id": "ebad8a4e95ffa7ff0f09",
@@ -145,13 +152,6 @@
       "published": "2026-11-03T23:34:00+00:00"
     },
     {
-      "id": "e937b9612479a9ee8da0",
-      "source": "TGcom24",
-      "title": "Midterm, chiudono le prime urne: via allo spoglio in Kentucky e Indiana",
-      "url": "https://www.tgcom24.mediaset.it/elezioni-estero/usa-midterm-2026/elezioni-midterm-usa-2026-risultati-live_118551779-202602k.shtml",
-      "published": "2026-11-03T23:00:00+00:00"
-    },
-    {
       "id": "efa7d6aa241b0bef69d3",
       "source": "BBC News",
       "title": "Spanish transport minister resigns days after deadly train crash",
@@ -185,13 +185,6 @@
       "title": "Seven flights across Europe targeted by suspected bomb threats",
       "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-03T20:42:47+00:00"
-    },
-    {
-      "id": "00011cff20ae232e3bdb",
-      "source": "BBC News",
-      "title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
-      "url": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T20:38:38+00:00"
     },
     {
       "id": "42767d907eeb96c7e04b",
@@ -278,25 +271,11 @@
       "published": "2026-11-03T16:01:24+00:00"
     },
     {
-      "id": "5d3d2bbaf48200b6cfd7",
-      "source": "TGcom24",
-      "title": "Midterm, per le piattaforme di scommesse i Dem riprenderanno Camera e Senato",
-      "url": "https://www.tgcom24.mediaset.it/elezioni-estero/usa-midterm-2026/midterm-usa-2026-elezioni-americane_118516257-202602k.shtml",
-      "published": "2026-11-03T15:33:00+00:00"
-    },
-    {
       "id": "c11c3146830948d3be6d",
       "source": "TGcom24",
       "title": "Verona, zattera con una gru si ribalta e uccide un operaio",
       "url": "https://www.tgcom24.mediaset.it/cronaca/verona-zattera-gru-uccide-operaio_118535377-202602k.shtml",
       "published": "2026-11-03T15:09:00+00:00"
-    },
-    {
-      "id": "9761611224e04d95ed45",
-      "source": "TGcom24",
-      "title": "Midterm, Obama invita gli elettori a mobilitarsi: \"Aiutate i Dem\"",
-      "url": "https://www.tgcom24.mediaset.it/elezioni-estero/usa-midterm-2026/midterm-usa-2026-elezioni-americane_118516257-202602k.shtml",
-      "published": "2026-11-03T14:33:00+00:00"
     },
     {
       "id": "578109a7672482a35170",
@@ -311,6 +290,27 @@
       "title": "Attacchi hacker ai frigoriferi, Palazzo Chigi: \"Nessun rischio per la salute\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/attacco-hacker-supermercati-frigoriferi_118519023-202602k.shtml",
       "published": "2026-11-03T13:01:00+00:00"
+    },
+    {
+      "id": "29fd8a50b5730028835b",
+      "source": "TGcom24",
+      "title": "Attacchi hacker ai frigoriferi, la polizia postale avvia un'indagine sui casi italiani",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/attacco-hacker-supermercati-frigoriferi_118519023-202602k.shtml",
+      "published": "2026-11-03T12:05:00+00:00"
+    },
+    {
+      "id": "88a2321c1c10021ed9c3",
+      "source": "TGcom24",
+      "title": "\"Uccideremo Trump\": cartellone gigante esposto a Teheran alla vigilia del voto Usa",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-3-novembre_118524635-202602k.shtml",
+      "published": "2026-11-03T11:40:00+00:00"
+    },
+    {
+      "id": "bf5ab41f09888129d29b",
+      "source": "TGcom24",
+      "title": "Milano, recuperato nel Lambro il cadavere di un 46enne",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-canale-lambro-cadavere-uomo_118525588-202602k.shtml",
+      "published": "2026-11-03T11:19:00+00:00"
     },
     {
       "id": "0560016032ea2c06ece7",
