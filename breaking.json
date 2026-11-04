@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-04T22:45:31.236711+00:00",
+  "updated_at": "2026-11-04T22:50:25.033286+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-04T22:45:31.236711+00:00"
+      "checked_at": "2026-11-04T22:50:25.033286+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-04T22:45:31.236711+00:00"
+      "checked_at": "2026-11-04T22:50:25.033286+00:00"
     }
   },
   "items": [
+    {
+      "id": "f39612f1274712b35553",
+      "source": "BBC News",
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T22:48:43+00:00"
+    },
     {
       "id": "ad90eb404d17a74236cc",
       "source": "TGcom24",
@@ -24,13 +31,6 @@
       "title": "Brescia, trovato un cadavere nei campi: indagano i carabinieri",
       "url": "https://www.tgcom24.mediaset.it/cronaca/brescia-trovato-un-cadavere-nei-campi-indagano-i-carabinieri_118599175-202602k.shtml",
       "published": "2026-11-04T21:00:00+00:00"
-    },
-    {
-      "id": "f39612f1274712b35553",
-      "source": "BBC News",
-      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T20:22:40+00:00"
     },
     {
       "id": "257a5dd5f80b4529ff1b",
@@ -161,7 +161,7 @@
     {
       "id": "fd5304a9b1e1c216e913",
       "source": "TGcom24",
-      "title": "Morti sul lavoro, ennesima giornata di dolore: quattro vittime in poche ore",
+      "title": "Morti sul lavoro, ennesima giornata di dolore: cinque vittime in poche ore",
       "url": "https://www.tgcom24.mediaset.it/cronaca/morti-lavoro-giornata-nera-vittime_118576478-202602k.shtml",
       "published": "2026-11-04T13:32:00+00:00"
     },
