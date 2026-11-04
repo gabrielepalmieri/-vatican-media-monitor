@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-04T10:05:29.944275+00:00",
+  "updated_at": "2026-11-04T10:10:27.915283+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-04T10:05:29.944275+00:00"
+      "checked_at": "2026-11-04T10:10:27.915283+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-04T10:05:29.944275+00:00"
+      "checked_at": "2026-11-04T10:10:27.915283+00:00"
     }
   },
   "items": [
+    {
+      "id": "6fa8d11381f912b5cbc8",
+      "source": "TGcom24",
+      "title": "Electrolux, raggiunta intesa: 100 milioni di investimenti e salvaguardia degli stabilimenti",
+      "url": "https://www.tgcom24.mediaset.it/economia/electrolux-raggiunta-intesa-mimit_118574136-202602k.shtml",
+      "published": "2026-11-04T10:05:00+00:00"
+    },
     {
       "id": "6878d8e8ec0e099ef6ca",
       "source": "BBC News",
@@ -304,13 +311,6 @@
       "title": "How sporting events are being impacted by Middle East conflict",
       "url": "https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-03T16:01:24+00:00"
-    },
-    {
-      "id": "c11c3146830948d3be6d",
-      "source": "TGcom24",
-      "title": "Verona, zattera con una gru si ribalta e uccide un operaio",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/verona-zattera-gru-uccide-operaio_118535377-202602k.shtml",
-      "published": "2026-11-03T15:09:00+00:00"
     },
     {
       "id": "0560016032ea2c06ece7",
