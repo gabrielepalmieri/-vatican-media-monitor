@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-04T08:45:28.204493+00:00",
+  "updated_at": "2026-11-04T08:50:26.945395+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-04T08:45:28.204493+00:00"
+      "checked_at": "2026-11-04T08:50:26.945395+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-04T08:45:28.204493+00:00"
+      "checked_at": "2026-11-04T08:50:26.945395+00:00"
     }
   },
   "items": [
+    {
+      "id": "e92da97f57cfe5dae62f",
+      "source": "TGcom24",
+      "title": "4 novembre, Mattarella depone una corona d'alloro al Milite Ignoto",
+      "url": "https://www.tgcom24.mediaset.it/2026/video/4-novembre-mattarella-depone-una-corona-d-alloro-al-milite-ignoto_118572371-02k.shtml",
+      "published": "2026-11-04T08:47:00+00:00"
+    },
     {
       "id": "683d144e819e3338d1ff",
       "source": "TGcom24",
@@ -304,13 +311,6 @@
       "title": "Attacchi hacker ai frigoriferi, Palazzo Chigi: \"Nessun rischio per la salute\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/attacco-hacker-supermercati-frigoriferi_118519023-202602k.shtml",
       "published": "2026-11-03T13:01:00+00:00"
-    },
-    {
-      "id": "29fd8a50b5730028835b",
-      "source": "TGcom24",
-      "title": "Attacchi hacker ai frigoriferi, la polizia postale avvia un'indagine sui casi italiani",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/attacco-hacker-supermercati-frigoriferi_118519023-202602k.shtml",
-      "published": "2026-11-03T12:05:00+00:00"
     },
     {
       "id": "0560016032ea2c06ece7",
