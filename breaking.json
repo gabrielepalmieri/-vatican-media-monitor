@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-04T16:40:30.485937+00:00",
+  "updated_at": "2026-11-04T16:45:35.379783+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-04T16:40:30.485937+00:00"
+      "checked_at": "2026-11-04T16:45:35.379783+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-04T16:40:30.485937+00:00"
+      "checked_at": "2026-11-04T16:45:35.379783+00:00"
     }
   },
   "items": [
+    {
+      "id": "57f5256893ac48195942",
+      "source": "TGcom24",
+      "title": "Varese, faceva propaganda jihadista sui social: arrestato 27enne",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/varese-propaganda-jihadista-arrestato_118589245-202602k.shtml",
+      "published": "2026-11-04T16:45:00+00:00"
+    },
     {
       "id": "0ce7f6cc6bb4a0d18938",
       "source": "BBC News",
@@ -297,13 +304,6 @@
       "title": "A Guam vincono i repubblicani, Trump: \"Speriamo sia un segnale\"",
       "url": "https://www.tgcom24.mediaset.it/elezioni-estero/usa-midterm-2026/midterm-usa-2026-elezioni-americane_118516257-202602k.shtml",
       "published": "2026-11-03T21:45:00+00:00"
-    },
-    {
-      "id": "5e12b153c99de1371555",
-      "source": "TGcom24",
-      "title": "Disastro ferroviario di Toledo, si dimette il ministro dei Trasporti spagnolo",
-      "url": "https://www.tgcom24.mediaset.it/mondo/disastro-toledo-dimissioni-ministro-trasporti_118551385-202602k.shtml",
-      "published": "2026-11-03T21:07:00+00:00"
     }
   ]
 }
