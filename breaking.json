@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-04T23:01:00.954772+00:00",
+  "updated_at": "2026-11-04T23:05:19.795793+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-04T23:01:00.954772+00:00"
+      "checked_at": "2026-11-04T23:05:19.795793+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-04T23:01:00.954772+00:00"
+      "checked_at": "2026-11-04T23:05:19.795793+00:00"
     }
   },
   "items": [
+    {
+      "id": "57fa88ad0040c20ec87a",
+      "source": "TGcom24",
+      "title": "Berlino, media: \"Trovato morto in hotel il ministro dell'Economia bavarese\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/morto-ministro-economia-baviera-hubert-aiwanger_118607119-202602k.shtml",
+      "published": "2026-11-04T23:03:00+00:00"
+    },
     {
       "id": "f39612f1274712b35553",
       "source": "BBC News",
@@ -276,13 +283,6 @@
       "title": "Tears, celebrations and selfies: US midterms in pictures",
       "url": "https://www.bbc.co.uk/news/articles/cq74pexm44elo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T08:05:53+00:00"
-    },
-    {
-      "id": "4ebe7cbe9d733638e16b",
-      "source": "TGcom24",
-      "title": "Midterm, Elon Musk su X: \"I miei laser spaziali non hanno funzionato\"",
-      "url": "https://www.tgcom24.mediaset.it/elezioni-estero/usa-midterm-2026/elezioni-midterm-usa-2026-risultati-live_118551779-202602k.shtml",
-      "published": "2026-11-04T07:46:00+00:00"
     },
     {
       "id": "74afdfb2a1053db8ff04",
