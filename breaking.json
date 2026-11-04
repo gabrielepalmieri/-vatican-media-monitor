@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-04T13:30:48.165626+00:00",
+  "updated_at": "2026-11-04T13:35:21.006543+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-04T13:30:48.165626+00:00"
+      "checked_at": "2026-11-04T13:35:21.006543+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-04T13:30:48.165626+00:00"
+      "checked_at": "2026-11-04T13:35:21.006543+00:00"
     }
   },
   "items": [
+    {
+      "id": "fd5304a9b1e1c216e913",
+      "source": "TGcom24",
+      "title": "Morti sul lavoro, ennesima giornata di dolore: quattro vittime in poche ore",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/morti-lavoro-giornata-nera-vittime_118576478-202602k.shtml",
+      "published": "2026-11-04T13:32:00+00:00"
+    },
     {
       "id": "f31604e4593ce0b002fc",
       "source": "TGcom24",
@@ -87,13 +94,6 @@
       "title": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
       "url": "https://www.bbc.co.uk/news/articles/c6y8lz73vmv7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T10:35:03+00:00"
-    },
-    {
-      "id": "df2d063324841fbf7e19",
-      "source": "TGcom24",
-      "title": "Lecce, titolare di una ditta muore schiacciato da un cancello",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/lecce-rushani-bashkim-morto-incidente-lavoro_118576478-202602k.shtml",
-      "published": "2026-11-04T10:35:00+00:00"
     },
     {
       "id": "2eaea9c9500d3e02351e",
