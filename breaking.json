@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-04T15:55:21.263097+00:00",
+  "updated_at": "2026-11-04T16:01:00.009044+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-04T15:55:21.263097+00:00"
+      "checked_at": "2026-11-04T16:01:00.009044+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-04T15:55:21.263097+00:00"
+      "checked_at": "2026-11-04T16:01:00.009044+00:00"
     }
   },
   "items": [
+    {
+      "id": "0ce7f6cc6bb4a0d18938",
+      "source": "BBC News",
+      "title": "Israel's president to begin consultations with parties after election deadlock",
+      "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T15:45:45+00:00"
+    },
     {
       "id": "c9476d83430fa4de4753",
       "source": "BBC News",
@@ -213,13 +220,6 @@
       "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
       "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T07:39:38+00:00"
-    },
-    {
-      "id": "22efe1e10cbf8095f0b1",
-      "source": "BBC News",
-      "title": "Florida Republicans fend off Democrats as state elects first black governor",
-      "url": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T07:12:21+00:00"
     },
     {
       "id": "de1bdeed1419ef8066ed",
