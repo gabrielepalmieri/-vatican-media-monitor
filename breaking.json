@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-04T12:01:04.575458+00:00",
+  "updated_at": "2026-11-04T12:05:20.047929+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-04T12:01:04.575458+00:00"
+      "checked_at": "2026-11-04T12:05:20.047929+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-04T12:01:04.575458+00:00"
+      "checked_at": "2026-11-04T12:05:20.047929+00:00"
     }
   },
   "items": [
+    {
+      "id": "c36920a799011336054e",
+      "source": "BBC News",
+      "title": "Everything you need to know from the US midterm elections",
+      "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T12:01:07+00:00"
+    },
     {
       "id": "b98911760684d34b6f86",
       "source": "BBC News",
@@ -31,13 +38,6 @@
       "title": "Crans-Montana, la Svizzera pagherà le spese mediche ai feriti italiani",
       "url": "https://www.tgcom24.mediaset.it/mondo/crans-montana-svizzera-rimborso-spese-mediche-feriti_118577614-202602k.shtml",
       "published": "2026-11-04T11:21:00+00:00"
-    },
-    {
-      "id": "c36920a799011336054e",
-      "source": "BBC News",
-      "title": "Key moments from a night of midterm election firsts",
-      "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T11:04:56+00:00"
     },
     {
       "id": "9e6cc0c2164a47fc425d",
