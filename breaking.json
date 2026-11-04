@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-04T06:35:18.310948+00:00",
+  "updated_at": "2026-11-04T06:40:25.463169+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-04T06:35:18.310948+00:00"
+      "checked_at": "2026-11-04T06:40:25.463169+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-04T06:35:18.310948+00:00"
+      "checked_at": "2026-11-04T06:40:25.463169+00:00"
     }
   },
   "items": [
@@ -31,6 +31,20 @@
       "title": "Midterm, Trump: \"I Dem hanno fatto un buon lavoro, spero di lavorare con loro\"",
       "url": "https://www.tgcom24.mediaset.it/elezioni-estero/usa-midterm-2026/elezioni-midterm-usa-2026-risultati-live_118551779-202602k.shtml",
       "published": "2026-11-04T05:49:00+00:00"
+    },
+    {
+      "id": "35bfa9b120dd988d388b",
+      "source": "BBC News",
+      "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T05:39:36+00:00"
+    },
+    {
+      "id": "22efe1e10cbf8095f0b1",
+      "source": "BBC News",
+      "title": "Florida Republicans fend off Democrats as state elects first black governor",
+      "url": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T05:04:46+00:00"
     },
     {
       "id": "6878d8e8ec0e099ef6ca",
@@ -73,6 +87,13 @@
       "title": "Democratic rising star Ossoff projected to hold Georgia seat",
       "url": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T02:38:07+00:00"
+    },
+    {
+      "id": "ebad8a4e95ffa7ff0f09",
+      "source": "BBC News",
+      "title": "Killer who escaped Tennessee prison captured after week-long manhunt",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8nj23v8qqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T02:11:40+00:00"
     },
     {
       "id": "b98911760684d34b6f86",
@@ -138,6 +159,13 @@
       "published": "2026-11-03T20:42:47+00:00"
     },
     {
+      "id": "00011cff20ae232e3bdb",
+      "source": "BBC News",
+      "title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
+      "url": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T20:38:38+00:00"
+    },
+    {
       "id": "42767d907eeb96c7e04b",
       "source": "TGcom24",
       "title": "Midterm, media: \"Uomo ha inviato 700 buste con polvere bianca a politici e stampa\"",
@@ -178,13 +206,6 @@
       "title": "Napoli, rintracciata la famiglia dello svedese che viveva in aeroporto",
       "url": "https://www.tgcom24.mediaset.it/cronaca/napoli-svedese-aeroporto-famiglia-rintracciata_118535938-202602k.shtml",
       "published": "2026-11-03T17:05:00+00:00"
-    },
-    {
-      "id": "e4d6e7102562cd65573b",
-      "source": "BBC News",
-      "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-      "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T16:57:41+00:00"
     },
     {
       "id": "15dadda0621268e15086",
@@ -229,13 +250,6 @@
       "published": "2026-11-03T15:09:00+00:00"
     },
     {
-      "id": "f32cf6367f68d61ecaee",
-      "source": "BBC News",
-      "title": "Libya's top religious authority rules against wearing Nike clothes",
-      "url": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T14:56:46+00:00"
-    },
-    {
       "id": "9761611224e04d95ed45",
       "source": "TGcom24",
       "title": "Midterm, Obama invita gli elettori a mobilitarsi: \"Aiutate i Dem\"",
@@ -278,13 +292,6 @@
       "published": "2026-11-03T11:40:00+00:00"
     },
     {
-      "id": "31badb54e6330ec0281a",
-      "source": "BBC News",
-      "title": "US strikes Iranian island ahead of midterm elections",
-      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T11:33:33+00:00"
-    },
-    {
       "id": "0560016032ea2c06ece7",
       "source": "BBC News",
       "title": "Why a US-Russia showdown left Morocco celebrating",
@@ -297,13 +304,6 @@
       "title": "Film star Ranbir Kapoor on AI, movies and fatherhood",
       "url": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-03T00:09:13+00:00"
-    },
-    {
-      "id": "c0d9167c659f6beb6c7a",
-      "source": "BBC News",
-      "title": "Indonesia's toxic haze is giving its neighbours a political headache",
-      "url": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T23:02:01+00:00"
     },
     {
       "id": "47b5a53b59212842bb9f",
