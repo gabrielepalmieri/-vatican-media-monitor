@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-04T07:45:30.855031+00:00",
+  "updated_at": "2026-11-04T07:50:24.790573+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-04T07:45:30.855031+00:00"
+      "checked_at": "2026-11-04T07:50:24.790573+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-04T07:45:30.855031+00:00"
+      "checked_at": "2026-11-04T07:50:24.790573+00:00"
     }
   },
   "items": [
+    {
+      "id": "4ebe7cbe9d733638e16b",
+      "source": "TGcom24",
+      "title": "Midterm, Elon Musk su X: \"I miei laser spaziali non hanno funzionato\"",
+      "url": "https://www.tgcom24.mediaset.it/elezioni-estero/usa-midterm-2026/elezioni-midterm-usa-2026-risultati-live_118551779-202602k.shtml",
+      "published": "2026-11-04T07:46:00+00:00"
+    },
     {
       "id": "c36920a799011336054e",
       "source": "BBC News",
@@ -306,13 +313,6 @@
       "published": "2026-11-03T11:40:00+00:00"
     },
     {
-      "id": "bf5ab41f09888129d29b",
-      "source": "TGcom24",
-      "title": "Milano, recuperato nel Lambro il cadavere di un 46enne",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-canale-lambro-cadavere-uomo_118525588-202602k.shtml",
-      "published": "2026-11-03T11:19:00+00:00"
-    },
-    {
       "id": "0560016032ea2c06ece7",
       "source": "BBC News",
       "title": "Why a US-Russia showdown left Morocco celebrating",
@@ -325,13 +325,6 @@
       "title": "Film star Ranbir Kapoor on AI, movies and fatherhood",
       "url": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-03T00:09:13+00:00"
-    },
-    {
-      "id": "47b5a53b59212842bb9f",
-      "source": "BBC News",
-      "title": "What Florida jet audio and flight data tells us about its final moments",
-      "url": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T19:49:22+00:00"
     }
   ]
 }
