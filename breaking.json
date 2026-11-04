@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-04T12:50:26.857750+00:00",
+  "updated_at": "2026-11-04T12:55:20.492261+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-04T12:50:26.857750+00:00"
+      "checked_at": "2026-11-04T12:55:20.492261+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-04T12:50:26.857750+00:00"
+      "checked_at": "2026-11-04T12:55:20.492261+00:00"
     }
   },
   "items": [
+    {
+      "id": "3e2bf824112586d325ad",
+      "source": "BBC News",
+      "title": "Sharp objects found in Halloween sweets in three European nations",
+      "url": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T12:34:33+00:00"
+    },
     {
       "id": "11c81a4ee1b490e17a7c",
       "source": "BBC News",
@@ -82,11 +89,25 @@
       "published": "2026-11-04T10:35:00+00:00"
     },
     {
+      "id": "2eaea9c9500d3e02351e",
+      "source": "BBC News",
+      "title": "Trump takes aim at Republicans but says Democrats did a 'good job'",
+      "url": "https://www.bbc.co.uk/news/articles/c6073l9y15xxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T10:15:42+00:00"
+    },
+    {
       "id": "6fa8d11381f912b5cbc8",
       "source": "TGcom24",
       "title": "Electrolux, raggiunta intesa: 100 milioni di investimenti e salvaguardia degli stabilimenti",
       "url": "https://www.tgcom24.mediaset.it/economia/electrolux-raggiunta-intesa-mimit_118574136-202602k.shtml",
       "published": "2026-11-04T10:05:00+00:00"
+    },
+    {
+      "id": "e5a6003a119e8e0ca105",
+      "source": "BBC News",
+      "title": "Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator",
+      "url": "https://www.bbc.co.uk/news/articles/c893z55pxrewo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T10:03:19+00:00"
     },
     {
       "id": "6878d8e8ec0e099ef6ca",
@@ -124,6 +145,13 @@
       "published": "2026-11-04T08:15:00+00:00"
     },
     {
+      "id": "c537c7586f09a31a2b0b",
+      "source": "BBC News",
+      "title": "Tears, celebrations and selfies: US midterms in pictures",
+      "url": "https://www.bbc.co.uk/news/articles/cq74pexm44elo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T08:05:53+00:00"
+    },
+    {
       "id": "4ebe7cbe9d733638e16b",
       "source": "TGcom24",
       "title": "Midterm, Elon Musk su X: \"I miei laser spaziali non hanno funzionato\"",
@@ -136,13 +164,6 @@
       "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
       "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T07:39:38+00:00"
-    },
-    {
-      "id": "d87b0b96f2d16e2500e5",
-      "source": "BBC News",
-      "title": "South Carolina elects Democratic senator for first time in almost three decades",
-      "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T07:32:02+00:00"
     },
     {
       "id": "22efe1e10cbf8095f0b1",
@@ -257,13 +278,6 @@
       "published": "2026-11-03T21:07:00+00:00"
     },
     {
-      "id": "e2bcaf422052ba63e158",
-      "source": "BBC News",
-      "title": "Seven flights across Europe targeted by suspected bomb threats",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T20:42:47+00:00"
-    },
-    {
       "id": "42767d907eeb96c7e04b",
       "source": "TGcom24",
       "title": "Midterm, media: \"Uomo ha inviato 700 buste con polvere bianca a politici e stampa\"",
@@ -290,20 +304,6 @@
       "title": "Valditara: \"Le devastazioni durante le occupazioni scolastiche? Chi rompe paga\"",
       "url": "https://www.tgcom24.mediaset.it/2026/video/valditara-al-tg4-le-devastazioni-durante-le-occupazioni-chi-rompe-paga-_118545859-02k.shtml",
       "published": "2026-11-03T18:46:00+00:00"
-    },
-    {
-      "id": "570b3e5985a108a225e6",
-      "source": "BBC News",
-      "title": "The transplanted Scot doing famous father proud in New Zealand",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6ewerp0w5lvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T17:50:16+00:00"
-    },
-    {
-      "id": "279d681068c5afa5c5c5",
-      "source": "BBC News",
-      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T16:19:29+00:00"
     },
     {
       "id": "a8b3a1aabee56f0ec601",
