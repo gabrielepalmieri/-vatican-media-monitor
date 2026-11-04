@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-04T19:30:50.295646+00:00",
+  "updated_at": "2026-11-04T19:35:21.755349+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-04T19:30:50.295646+00:00"
+      "checked_at": "2026-11-04T19:35:21.755349+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-04T19:30:50.295646+00:00"
+      "checked_at": "2026-11-04T19:35:21.755349+00:00"
     }
   },
   "items": [
+    {
+      "id": "111ae322393bd27bb9ca",
+      "source": "TGcom24",
+      "title": "L'Agenzia per la cybersicurezza: \"Urgente proteggere la catena del freddo\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/agenzia-cyber-urgente-proteggere-catena-freddo_118595105-202602k.shtml",
+      "published": "2026-11-04T19:30:00+00:00"
+    },
     {
       "id": "995a041272dcdc9c1f02",
       "source": "TGcom24",
@@ -311,13 +318,6 @@
       "title": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
       "url": "https://www.bbc.co.uk/news/videos/cmy4x59kdknwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-03T23:58:36+00:00"
-    },
-    {
-      "id": "9cca8c5ddc812e01aa86",
-      "source": "TGcom24",
-      "title": "Midterm, la contea di Will ha ricevuto la scheda elettorale di Papa Leone",
-      "url": "https://www.tgcom24.mediaset.it/elezioni-estero/usa-midterm-2026/elezioni-midterm-usa-2026-risultati-live_118551779-202602k.shtml",
-      "published": "2026-11-03T23:34:00+00:00"
     }
   ]
 }
