@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-04T04:40:24.621275+00:00",
+  "updated_at": "2026-11-04T04:45:27.968846+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-04T04:40:24.621275+00:00"
+      "checked_at": "2026-11-04T04:45:27.968846+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-04T04:40:24.621275+00:00"
+      "checked_at": "2026-11-04T04:45:27.968846+00:00"
     }
   },
   "items": [
+    {
+      "id": "27d7108544d4202cd650",
+      "source": "TGcom24",
+      "title": "Elezioni Midterm, i democratici vincono sia al Senato che alla Camera",
+      "url": "https://www.tgcom24.mediaset.it/elezioni-estero/usa-midterm-2026/elezioni-midterm-usa-2026-risultati-live_118551779-202602k.shtml",
+      "published": "2026-11-04T04:40:00+00:00"
+    },
     {
       "id": "2e4628c3dd7ce8282369",
       "source": "TGcom24",
@@ -19,11 +26,25 @@
       "published": "2026-11-04T04:16:00+00:00"
     },
     {
+      "id": "cd45072d69d582d3e8b9",
+      "source": "BBC News",
+      "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+      "url": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T03:46:10+00:00"
+    },
+    {
       "id": "0bbd297a9bd266e9a7e4",
       "source": "BBC News",
       "title": "Anthony Zurcher: Democrats push deep into Republican territory with historic wins",
       "url": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T03:34:58+00:00"
+    },
+    {
+      "id": "d87b0b96f2d16e2500e5",
+      "source": "BBC News",
+      "title": "South Carolina elects Democratic senator for first time in almost three decades",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T03:24:34+00:00"
     },
     {
       "id": "b4759ebe04b57b6053df",
@@ -299,25 +320,11 @@
       "published": "2026-11-03T11:19:00+00:00"
     },
     {
-      "id": "fde0066b7a774ad6c26d",
-      "source": "TGcom24",
-      "title": "Von der Leyen: \"La chiusura di Hormuz è costata all'Ue 127 miliardi\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-3-novembre_118524635-202602k.shtml",
-      "published": "2026-11-03T10:43:00+00:00"
-    },
-    {
       "id": "9c44fa20141a7d05727c",
       "source": "BBC News",
       "title": "Tenerife striker De Miguel dies after on-field collision",
       "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-03T09:09:18+00:00"
-    },
-    {
-      "id": "9a61dbe62bcae2e4d659",
-      "source": "BBC News",
-      "title": "Major test for Australia's social media ban begins in High Court",
-      "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T07:53:38+00:00"
     },
     {
       "id": "0560016032ea2c06ece7",
@@ -381,13 +388,6 @@
       "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
       "url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-02T17:34:58+00:00"
-    },
-    {
-      "id": "d0ddf87bf7cc1a48e161",
-      "source": "BBC News",
-      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-      "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T17:33:19+00:00"
     }
   ]
 }
