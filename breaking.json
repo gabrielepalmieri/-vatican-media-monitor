@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-05T19:20:28.988089+00:00",
+  "updated_at": "2026-11-05T19:25:20.563755+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-05T19:20:28.988089+00:00"
+      "checked_at": "2026-11-05T19:25:20.563755+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-05T19:20:28.988089+00:00"
+      "checked_at": "2026-11-05T19:25:20.563755+00:00"
     }
   },
   "items": [
+    {
+      "id": "6ea1a2e1239d6e638630",
+      "source": "BBC News",
+      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T19:08:08+00:00"
+    },
     {
       "id": "8de7f6b9cf23cfb82a08",
       "source": "TGcom24",
@@ -126,7 +133,7 @@
     {
       "id": "35a8f4b250d1a30e9114",
       "source": "TGcom24",
-      "title": "Caos voli, salgono a 18 gli allarmi bomba in Europa: 7 coinvolgono l'Italia",
+      "title": "Caos voli, salgono a oltre 20 gli allarmi bomba in Europa: 7 coinvolgono l'Italia",
       "url": "https://www.tgcom24.mediaset.it/mondo/allarme-bomba-aerei-voli-dirottati_118611937-202602k.shtml",
       "published": "2026-11-05T13:35:00+00:00"
     },
@@ -283,13 +290,6 @@
       "title": "Berlino, media: \"Trovato morto in hotel il ministro dell'Economia bavarese\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/morto-ministro-economia-baviera-hubert-aiwanger_118607119-202602k.shtml",
       "published": "2026-11-04T23:03:00+00:00"
-    },
-    {
-      "id": "04a57ba63d9da9ee51be",
-      "source": "BBC News",
-      "title": "What Democrats can and can't do with their new power after taking Congress",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T18:01:27+00:00"
     },
     {
       "id": "b98911760684d34b6f86",
