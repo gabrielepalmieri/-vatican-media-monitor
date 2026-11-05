@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-05T19:30:46.570596+00:00",
+  "updated_at": "2026-11-05T19:35:20.426058+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-05T19:30:46.570596+00:00"
+      "checked_at": "2026-11-05T19:35:20.426058+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-05T19:30:46.570596+00:00"
+      "checked_at": "2026-11-05T19:35:20.426058+00:00"
     }
   },
   "items": [
+    {
+      "id": "bcc5623a6cf851dcc55e",
+      "source": "BBC News",
+      "title": "Eight killed in series of shootings in western Turkey",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T19:32:54+00:00"
+    },
     {
       "id": "6ea1a2e1239d6e638630",
       "source": "BBC News",
@@ -24,13 +31,6 @@
       "title": "Anac, il leghista Altieri nuovo presidente",
       "url": "https://www.tgcom24.mediaset.it/politica/anac-altieri-nuovo-presidente_118639884-202602k.shtml",
       "published": "2026-11-05T19:04:00+00:00"
-    },
-    {
-      "id": "bcc5623a6cf851dcc55e",
-      "source": "BBC News",
-      "title": "Manhunt in western Turkey after eight killed in series of shootings",
-      "url": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T18:48:53+00:00"
     },
     {
       "id": "70d2830c6dd2af8313e2",
