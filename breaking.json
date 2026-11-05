@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-05T11:55:18.127687+00:00",
+  "updated_at": "2026-11-05T12:01:00.848546+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-05T11:55:18.127687+00:00"
+      "checked_at": "2026-11-05T12:01:00.848546+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-05T11:55:18.127687+00:00"
+      "checked_at": "2026-11-05T12:01:00.848546+00:00"
     }
   },
   "items": [
+    {
+      "id": "39966c815e27d6c240c1",
+      "source": "BBC News",
+      "title": "Ronaldo retires from Portugal duty",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T11:56:02+00:00"
+    },
     {
       "id": "8c8896ce6fbac5666baf",
       "source": "TGcom24",
       "title": "Israele, partito arabo Ra'am propone Eisenkot come premier",
       "url": "https://www.tgcom24.mediaset.it/mondo/israele-governo-consultazioni-netanyahu-eisenkot_118610982-202602k.shtml",
       "published": "2026-11-05T11:34:00+00:00"
-    },
-    {
-      "id": "39966c815e27d6c240c1",
-      "source": "BBC News",
-      "title": "Ronaldo retires from Portugal duty",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T11:17:03+00:00"
     },
     {
       "id": "c83ca78b9e737971df55",
@@ -283,13 +283,6 @@
       "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
       "url": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T06:53:56+00:00"
-    },
-    {
-      "id": "9691f213c9ee7b55c1ff",
-      "source": "BBC News",
-      "title": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
-      "url": "https://www.bbc.co.uk/news/videos/cmy4x59kdknwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T23:58:36+00:00"
     }
   ]
 }
