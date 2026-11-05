@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-05T14:40:27.528547+00:00",
+  "updated_at": "2026-11-05T14:45:33.306466+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-05T14:40:27.528547+00:00"
+      "checked_at": "2026-11-05T14:45:33.306466+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-05T14:40:27.528547+00:00"
+      "checked_at": "2026-11-05T14:45:33.306466+00:00"
     }
   },
   "items": [
+    {
+      "id": "70d2830c6dd2af8313e2",
+      "source": "BBC News",
+      "title": "France holds new strikes and protests as unions demand immediate answers",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T14:42:29+00:00"
+    },
+    {
+      "id": "3187772c6984ae0b379a",
+      "source": "TGcom24",
+      "title": "Usa, Rubio valuta le dimissioni per prendere le distanze da Trump",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-vance-nuova-destra-hegseth-impeachment_118614446-202602k.shtml",
+      "published": "2026-11-05T14:34:00+00:00"
+    },
     {
       "id": "780f73f15b6b57bea30a",
       "source": "BBC News",
@@ -38,13 +52,6 @@
       "title": "Caos voli, salgono a 18 gli allarmi bomba in Europa: 6 coinvolgono l'Italia",
       "url": "https://www.tgcom24.mediaset.it/mondo/allarme-bomba-aerei-voli-dirottati_118611937-202602k.shtml",
       "published": "2026-11-05T13:35:00+00:00"
-    },
-    {
-      "id": "70d2830c6dd2af8313e2",
-      "source": "BBC News",
-      "title": "France holds new strikes and protests as unions demand immediate answers",
-      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T13:04:04+00:00"
     },
     {
       "id": "c21b6ca3d80d7e769cbb",
@@ -262,13 +269,6 @@
       "title": "What Democrats can and can't do with their new power after taking Congress",
       "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T18:01:27+00:00"
-    },
-    {
-      "id": "08bba494340a1b4ab414",
-      "source": "TGcom24",
-      "title": "Dl carburanti, via libera della Camera con 137 sì: prorogata la riduzione delle accise",
-      "url": "https://www.tgcom24.mediaset.it/economia/dl-carburanti-via-libera-definitivo-della-camera_118591349-202602k.shtml",
-      "published": "2026-11-04T17:15:00+00:00"
     },
     {
       "id": "c36920a799011336054e",
