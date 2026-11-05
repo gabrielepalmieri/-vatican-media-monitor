@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-05T08:05:19.196626+00:00",
+  "updated_at": "2026-11-05T08:10:31.038564+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-05T08:05:19.196626+00:00"
+      "checked_at": "2026-11-05T08:10:31.038564+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-05T08:05:19.196626+00:00"
+      "checked_at": "2026-11-05T08:10:31.038564+00:00"
     }
   },
   "items": [
+    {
+      "id": "3b8742fbc2673852f05a",
+      "source": "BBC News",
+      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T08:07:22+00:00"
+    },
     {
       "id": "814425aa59fab5ef4875",
       "source": "BBC News",
@@ -31,13 +38,6 @@
       "title": "Ucraina, droni russi su Kiev e Dnipro: almeno 4 feriti",
       "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-russia-guerra-ultime-notizie-5-novembre_118608325-202602k.shtml",
       "published": "2026-11-05T06:41:00+00:00"
-    },
-    {
-      "id": "3b8742fbc2673852f05a",
-      "source": "BBC News",
-      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T06:35:25+00:00"
     },
     {
       "id": "fc6d30771f6eebc40910",
