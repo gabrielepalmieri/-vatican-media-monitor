@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-05T14:01:03.480125+00:00",
+  "updated_at": "2026-11-05T14:05:21.279681+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-05T14:01:03.480125+00:00"
+      "checked_at": "2026-11-05T14:05:21.279681+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-05T14:01:03.480125+00:00"
+      "checked_at": "2026-11-05T14:05:21.279681+00:00"
     }
   },
   "items": [
+    {
+      "id": "fa192a308ff05819b619",
+      "source": "TGcom24",
+      "title": "Incidenti sul lavoro, due vittime a Pavia e in provincia di Isernia",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/incidenti-lavoro-due-morti-pavia-isernia_118627772-202602k.shtml",
+      "published": "2026-11-05T14:02:00+00:00"
+    },
     {
       "id": "3b8742fbc2673852f05a",
       "source": "BBC News",
@@ -84,7 +91,7 @@
     {
       "id": "df2d3e48db8cb6385c12",
       "source": "TGcom24",
-      "title": "Allarmi bomba, due allerte scattate da mail in italiano",
+      "title": "Allarmi bomba, allerte scattate da mail in italiano",
       "url": "https://www.tgcom24.mediaset.it/mondo/allarme-bomba-volo-dublino-roma_118611937-202602k.shtml",
       "published": "2026-11-05T10:23:00+00:00"
     },
@@ -206,13 +213,6 @@
       "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
       "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T22:48:43+00:00"
-    },
-    {
-      "id": "ad90eb404d17a74236cc",
-      "source": "TGcom24",
-      "title": "Midterm, Wall Street brinda alla vittoria dem: il Dow Jones vola a +3%",
-      "url": "https://www.tgcom24.mediaset.it/elezioni-estero/usa-midterm-2026/elezioni-midterm-usa-2026-risultati-live_118551779-202602k.shtml",
-      "published": "2026-11-04T21:43:00+00:00"
     },
     {
       "id": "54e20752c93125b9e4cf",
