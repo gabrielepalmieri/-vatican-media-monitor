@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-05T22:30:45.909461+00:00",
+  "updated_at": "2026-11-05T22:35:20.142743+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-05T22:30:45.909461+00:00"
+      "checked_at": "2026-11-05T22:35:20.142743+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-05T22:30:45.909461+00:00"
+      "checked_at": "2026-11-05T22:35:20.142743+00:00"
     }
   },
   "items": [
+    {
+      "id": "2643ed317ab203586ff8",
+      "source": "BBC News",
+      "title": "California governor commutes sentences for state's 548 death row inmates",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T22:31:40+00:00"
+    },
     {
       "id": "7f6f9961d001e130eab0",
       "source": "BBC News",
@@ -24,13 +31,6 @@
       "title": "Giovedì nero per Wall Street: affonda e brucia 3.200 miliardi per i timori IA",
       "url": "https://www.tgcom24.mediaset.it/economia/elezioni-midterm-2026-wall-street-borsa-new-york-tonfo-titoli-tech-ia_118648667-202602k.shtml",
       "published": "2026-11-05T21:41:00+00:00"
-    },
-    {
-      "id": "2643ed317ab203586ff8",
-      "source": "BBC News",
-      "title": "California governor commutes sentences for state's 548 death row inmates",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T21:25:48+00:00"
     },
     {
       "id": "bf3a73a70d39821d82b5",
