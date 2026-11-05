@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-05T10:20:26.885765+00:00",
+  "updated_at": "2026-11-05T10:25:18.277384+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-05T10:20:26.885765+00:00"
+      "checked_at": "2026-11-05T10:25:18.277384+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-05T10:20:26.885765+00:00"
+      "checked_at": "2026-11-05T10:25:18.277384+00:00"
     }
   },
   "items": [
+    {
+      "id": "957b6c3b36b844000dee",
+      "source": "TGcom24",
+      "title": "Allarmi bomba, due allerte scattate da una mail in italiano",
+      "url": "https://www.tgcom24.mediaset.it/mondo/allarme-bomba-volo-dublino-roma_118611937-202602k.shtml",
+      "published": "2026-11-05T10:20:00+00:00"
+    },
     {
       "id": "b0ce5ade35a71e1f2edc",
       "source": "TGcom24",
@@ -262,13 +269,6 @@
       "title": "Morti sul lavoro, ennesima giornata di dolore: cinque vittime in poche ore",
       "url": "https://www.tgcom24.mediaset.it/cronaca/morti-lavoro-giornata-nera-vittime_118576478-202602k.shtml",
       "published": "2026-11-04T13:32:00+00:00"
-    },
-    {
-      "id": "f31604e4593ce0b002fc",
-      "source": "TGcom24",
-      "title": "Midterm, Ue: \"Rispettiamo il voto Usa, restiamo stretti alleati\"",
-      "url": "https://www.tgcom24.mediaset.it/elezioni-estero/usa-midterm-2026/elezioni-midterm-usa-2026-risultati-live_118551779-202602k.shtml",
-      "published": "2026-11-04T12:55:00+00:00"
     },
     {
       "id": "6878d8e8ec0e099ef6ca",
