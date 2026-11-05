@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-05T11:01:01.957556+00:00",
+  "updated_at": "2026-11-05T11:05:20.405577+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-05T11:01:01.957556+00:00"
+      "checked_at": "2026-11-05T11:05:20.405577+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-05T11:01:01.957556+00:00"
+      "checked_at": "2026-11-05T11:05:20.405577+00:00"
     }
   },
   "items": [
+    {
+      "id": "39966c815e27d6c240c1",
+      "source": "BBC News",
+      "title": "Ronaldo retires from Portugal duty",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T10:55:11+00:00"
+    },
     {
       "id": "c83ca78b9e737971df55",
       "source": "TGcom24",
@@ -73,13 +80,6 @@
       "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
       "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-05T08:07:22+00:00"
-    },
-    {
-      "id": "814425aa59fab5ef4875",
-      "source": "BBC News",
-      "title": "Italian chef fired after refusing to put pineapple on pizza",
-      "url": "https://www.bbc.co.uk/news/articles/cx4g1qy6gq9mo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T07:56:53+00:00"
     },
     {
       "id": "3d2fe7b1c197f30d58f5",
