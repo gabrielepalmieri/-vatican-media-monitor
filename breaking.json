@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-05T10:35:18.268416+00:00",
+  "updated_at": "2026-11-05T10:40:25.184090+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-05T10:35:18.268416+00:00"
+      "checked_at": "2026-11-05T10:40:25.184090+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-05T10:35:18.268416+00:00"
+      "checked_at": "2026-11-05T10:40:25.184090+00:00"
     }
   },
   "items": [
+    {
+      "id": "70d2830c6dd2af8313e2",
+      "source": "BBC News",
+      "title": "France gears up for strikes and protests as unions promise national mobilisation",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T10:26:03+00:00"
+    },
     {
       "id": "df2d3e48db8cb6385c12",
       "source": "TGcom24",
@@ -117,13 +124,6 @@
       "published": "2026-11-04T23:50:40+00:00"
     },
     {
-      "id": "1120f19bdebebf0db286",
-      "source": "BBC News",
-      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
-      "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T23:12:47+00:00"
-    },
-    {
       "id": "57fa88ad0040c20ec87a",
       "source": "TGcom24",
       "title": "Berlino, media: \"Trovato morto in hotel il ministro dell'Economia bavarese\"",
@@ -220,13 +220,6 @@
       "title": "The young politicians with African roots making history in the US midterms",
       "url": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T16:34:32+00:00"
-    },
-    {
-      "id": "9e3e9d386dc3736b3916",
-      "source": "BBC News",
-      "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T16:26:15+00:00"
     },
     {
       "id": "0ce7f6cc6bb4a0d18938",
