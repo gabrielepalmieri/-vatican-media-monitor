@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-05T06:35:19.272497+00:00",
+  "updated_at": "2026-11-05T06:40:26.425017+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-05T06:35:19.272497+00:00"
+      "checked_at": "2026-11-05T06:40:26.425017+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-05T06:35:19.272497+00:00"
+      "checked_at": "2026-11-05T06:40:26.425017+00:00"
     }
   },
   "items": [
+    {
+      "id": "3b8742fbc2673852f05a",
+      "source": "BBC News",
+      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T06:35:25+00:00"
+    },
     {
       "id": "fc6d30771f6eebc40910",
       "source": "TGcom24",
@@ -31,13 +38,6 @@
       "title": "Miami, elicottero precipita in una baia: un morto e due feriti | Sul posto arrivati i soccorritori via mare",
       "url": "https://www.tgcom24.mediaset.it/2026/video/miami-elicottero-precipita-in-una-baia-un-morto-e-due-feriti-sul-posto-arrivati-i-soccorritori-via-mare_118605960-02k.shtml",
       "published": "2026-11-05T04:59:00+00:00"
-    },
-    {
-      "id": "3b8742fbc2673852f05a",
-      "source": "BBC News",
-      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T03:56:16+00:00"
     },
     {
       "id": "fec2c1170fae56c6cef5",
