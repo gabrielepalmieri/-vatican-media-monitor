@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-05T17:40:26.900664+00:00",
+  "updated_at": "2026-11-05T17:45:31.494493+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-05T17:40:26.900664+00:00"
+      "checked_at": "2026-11-05T17:45:31.494493+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-05T17:40:26.900664+00:00"
+      "checked_at": "2026-11-05T17:45:31.494493+00:00"
     }
   },
   "items": [
+    {
+      "id": "1f050f6e83b71b8eb3a8",
+      "source": "BBC News",
+      "title": "Paraguay President Santiago Peña resigns after bank collapse",
+      "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T17:40:40+00:00"
+    },
     {
       "id": "bf0502e1cc8fa391c621",
       "source": "TGcom24",
       "title": "Ucraina, Melania Trump consegna lettere per Putin e Zelensky",
       "url": "https://www.tgcom24.mediaset.it/2026/video/ucraina-melania-trump-consegna-lettere-per-putin-e-zelensky-dopo-evento-su-tregua-a-oleshky_118635530-02k.shtml",
       "published": "2026-11-05T17:37:00+00:00"
-    },
-    {
-      "id": "1f050f6e83b71b8eb3a8",
-      "source": "BBC News",
-      "title": "Paraguay President Santiago Peña resigns after bank collapse",
-      "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T17:14:41+00:00"
     },
     {
       "id": "6b9a965c752d424b7ab6",
