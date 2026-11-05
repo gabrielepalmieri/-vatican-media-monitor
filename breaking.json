@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-05T20:05:20.618403+00:00",
+  "updated_at": "2026-11-05T20:10:25.923998+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-05T20:05:20.618403+00:00"
+      "checked_at": "2026-11-05T20:10:25.923998+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-05T20:05:20.618403+00:00"
+      "checked_at": "2026-11-05T20:10:25.923998+00:00"
     }
   },
   "items": [
+    {
+      "id": "2643ed317ab203586ff8",
+      "source": "BBC News",
+      "title": "California governor commutes death sentences for all 548 people on death row",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T20:09:38+00:00"
+    },
     {
       "id": "5fcd2df05e356519c060",
       "source": "BBC News",
@@ -276,13 +283,6 @@
       "title": "Why a US-funded vaccine trial on babies was cancelled in Guinea-Bissau",
       "url": "https://www.bbc.co.uk/news/articles/cm0rlxq08ejko?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-05T00:30:37+00:00"
-    },
-    {
-      "id": "1120f19bdebebf0db286",
-      "source": "BBC News",
-      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
-      "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T23:12:47+00:00"
     },
     {
       "id": "b98911760684d34b6f86",
