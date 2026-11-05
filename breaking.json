@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-05T20:00:56.004315+00:00",
+  "updated_at": "2026-11-05T20:05:20.618403+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-05T20:00:56.004315+00:00"
+      "checked_at": "2026-11-05T20:05:20.618403+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-05T20:00:56.004315+00:00"
+      "checked_at": "2026-11-05T20:05:20.618403+00:00"
     }
   },
   "items": [
+    {
+      "id": "5fcd2df05e356519c060",
+      "source": "BBC News",
+      "title": "Who could be behind hoax bomb threats to European air travel?",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T19:58:40+00:00"
+    },
     {
       "id": "bcc5623a6cf851dcc55e",
       "source": "BBC News",
@@ -192,13 +199,6 @@
       "title": "Istat, in calo a settembre i consumi alimentari: -0,3% su agosto",
       "url": "https://www.tgcom24.mediaset.it/economia/istat-consumi-alimentari_118613798-202602k.shtml",
       "published": "2026-11-05T09:32:00+00:00"
-    },
-    {
-      "id": "5e8c7dfaae102042bb7f",
-      "source": "BBC News",
-      "title": "India's costliest film retells a beloved Hindu epic - but divides critics",
-      "url": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T09:04:42+00:00"
     },
     {
       "id": "9154ca5e0ab9aa1e9496",
