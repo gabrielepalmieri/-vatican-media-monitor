@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-05T15:55:20.800947+00:00",
+  "updated_at": "2026-11-05T16:01:06.275663+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-05T15:55:20.800947+00:00"
+      "checked_at": "2026-11-05T16:01:06.275663+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-05T15:55:20.800947+00:00"
+      "checked_at": "2026-11-05T16:01:06.275663+00:00"
     }
   },
   "items": [
+    {
+      "id": "4c94ab5c9d121a1669ab",
+      "source": "TGcom24",
+      "title": "Mattarella: \"Chi nasce al Sud sia libero di restarci o tornarci\"",
+      "url": "https://www.tgcom24.mediaset.it/politica/mattarella-chi-nasce-sud-libero-di-restare_118631365-202602k.shtml",
+      "published": "2026-11-05T15:56:00+00:00"
+    },
     {
       "id": "6878d8e8ec0e099ef6ca",
       "source": "BBC News",
@@ -248,13 +255,6 @@
       "title": "L'Agenzia per la cybersicurezza: \"Urgente proteggere la catena del freddo\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/agenzia-cyber-urgente-proteggere-catena-freddo_118595105-202602k.shtml",
       "published": "2026-11-04T19:30:00+00:00"
-    },
-    {
-      "id": "995a041272dcdc9c1f02",
-      "source": "TGcom24",
-      "title": "Nessy Guerra: \"Il mio ex è stato arrestato, è una notizia fantastica\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/egitto-nessy-guerra-ex-arrestato_118593787-202602k.shtml",
-      "published": "2026-11-04T18:50:00+00:00"
     },
     {
       "id": "04a57ba63d9da9ee51be",
