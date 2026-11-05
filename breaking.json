@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-05T15:50:27.183671+00:00",
+  "updated_at": "2026-11-05T15:55:20.800947+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-05T15:50:27.183671+00:00"
+      "checked_at": "2026-11-05T15:55:20.800947+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-05T15:50:27.183671+00:00"
+      "checked_at": "2026-11-05T15:55:20.800947+00:00"
     }
   },
   "items": [
+    {
+      "id": "6878d8e8ec0e099ef6ca",
+      "source": "BBC News",
+      "title": "How America voted in maps and charts",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T15:52:04+00:00"
+    },
     {
       "id": "70d2830c6dd2af8313e2",
       "source": "BBC News",
@@ -80,13 +87,6 @@
       "title": "Allarmi bomba sugli aerei, si ipotizza un coordinamento europeo",
       "url": "https://www.tgcom24.mediaset.it/mondo/allarme-bomba-aerei-voli-dirottati_118611937-202602k.shtml",
       "published": "2026-11-05T12:56:00+00:00"
-    },
-    {
-      "id": "6878d8e8ec0e099ef6ca",
-      "source": "BBC News",
-      "title": "How America voted in maps and charts",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T12:32:52+00:00"
     },
     {
       "id": "7b789b9c53cbb10411ed",
