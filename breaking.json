@@ -1,22 +1,29 @@
 {
-  "updated_at": "2026-11-05T21:40:26.538276+00:00",
+  "updated_at": "2026-11-05T21:45:29.459815+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-05T21:40:26.538276+00:00"
+      "checked_at": "2026-11-05T21:45:29.459815+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-05T21:40:26.538276+00:00"
+      "checked_at": "2026-11-05T21:45:29.459815+00:00"
     }
   },
   "items": [
     {
       "id": "7f6f9961d001e130eab0",
       "source": "BBC News",
-      "title": "Nvidia and SpaceX lose billions in market value as tech and AI stocks plummet",
+      "title": "Major tech and AI stocks plummet as Nasdaq loses $2.5tn in value",
       "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T21:25:57+00:00"
+      "published": "2026-11-05T21:43:39+00:00"
+    },
+    {
+      "id": "e43150fcb80cff0a8b4b",
+      "source": "TGcom24",
+      "title": "Giovedì nero per Wall Street: affonda e brucia 3.200 miliardi per i timori IA",
+      "url": "https://www.tgcom24.mediaset.it/economia/elezioni-midterm-2026-wall-street-borsa-new-york-tonfo-titoli-tech-ia_118648667-202602k.shtml",
+      "published": "2026-11-05T21:41:00+00:00"
     },
     {
       "id": "2643ed317ab203586ff8",
@@ -248,13 +255,6 @@
       "title": "Ucraina, droni russi su Kiev e Dnipro: almeno 4 feriti",
       "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-russia-guerra-ultime-notizie-5-novembre_118608325-202602k.shtml",
       "published": "2026-11-05T06:41:00+00:00"
-    },
-    {
-      "id": "fc6d30771f6eebc40910",
-      "source": "TGcom24",
-      "title": "Usa, lettere dei Dem a Trump e Musk: \"Conservate i documenti, indagheremo\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/usa-elezioni-midterm-indagini-trump-musk-russia_118607724-202602k.shtml",
-      "published": "2026-11-05T06:10:00+00:00"
     },
     {
       "id": "fec2c1170fae56c6cef5",
