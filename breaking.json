@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-05T22:35:20.142743+00:00",
+  "updated_at": "2026-11-05T22:40:27.318473+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-05T22:35:20.142743+00:00"
+      "checked_at": "2026-11-05T22:40:27.318473+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-05T22:35:20.142743+00:00"
+      "checked_at": "2026-11-05T22:40:27.318473+00:00"
     }
   },
   "items": [
+    {
+      "id": "7ed2fe5637d954664741",
+      "source": "TGcom24",
+      "title": "Elezioni in Israele, Herzog: \"Domenica comunicherò a chi conferirò il mandato\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/israele-governo-consultazioni-netanyahu-eisenkot_118610982-202602k.shtml",
+      "published": "2026-11-05T22:37:00+00:00"
+    },
     {
       "id": "2643ed317ab203586ff8",
       "source": "BBC News",
@@ -241,13 +248,6 @@
       "title": "Garlasco, i legali di Sempio chiedono il congelamento del processo",
       "url": "https://www.tgcom24.mediaset.it/cronaca/garlasco-udienza-preliminare-sempio-ferma_118608716-202602k.shtml",
       "published": "2026-11-05T08:25:00+00:00"
-    },
-    {
-      "id": "3d2fe7b1c197f30d58f5",
-      "source": "TGcom24",
-      "title": "Iran, a Teheran incendiato un cartellone con Trump, Netanyahu e JD Vance",
-      "url": "https://www.tgcom24.mediaset.it/mondo/foto/iran-teheran-trump-netanyahu-incendio-foto_118608328-202602k.shtml",
-      "published": "2026-11-05T07:49:00+00:00"
     },
     {
       "id": "fec2c1170fae56c6cef5",
