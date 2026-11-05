@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-05T16:55:19.705447+00:00",
+  "updated_at": "2026-11-05T17:01:05.160580+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-05T16:55:19.705447+00:00"
+      "checked_at": "2026-11-05T17:01:05.160580+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-05T16:55:19.705447+00:00"
+      "checked_at": "2026-11-05T17:01:05.160580+00:00"
     }
   },
   "items": [
+    {
+      "id": "1f050f6e83b71b8eb3a8",
+      "source": "BBC News",
+      "title": "Paraguay President Santiago Peña resigns",
+      "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T16:58:16+00:00"
+    },
     {
       "id": "4c94ab5c9d121a1669ab",
       "source": "TGcom24",
@@ -38,13 +45,6 @@
       "title": "Femminicidi di Villa Pamphili, Kaufmann condannato all'ergastolo in primo grado",
       "url": "https://www.tgcom24.mediaset.it/cronaca/femminicidi-villa-pamphili-kaufmann-ergastolo_118631418-202602k.shtml",
       "published": "2026-11-05T15:26:00+00:00"
-    },
-    {
-      "id": "bc77c054a23293713c00",
-      "source": "BBC News",
-      "title": "Six dead and others injured in fire at New York City building",
-      "url": "https://www.bbc.co.uk/news/articles/c39wz44411w0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T15:00:12+00:00"
     },
     {
       "id": "3187772c6984ae0b379a",
