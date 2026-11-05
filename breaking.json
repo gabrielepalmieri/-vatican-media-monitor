@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-05T10:55:18.460089+00:00",
+  "updated_at": "2026-11-05T11:01:01.957556+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-05T10:55:18.460089+00:00"
+      "checked_at": "2026-11-05T11:01:01.957556+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-05T10:55:18.460089+00:00"
+      "checked_at": "2026-11-05T11:01:01.957556+00:00"
     }
   },
   "items": [
+    {
+      "id": "c83ca78b9e737971df55",
+      "source": "TGcom24",
+      "title": "Attacchi hacker supermercati, Russia: \"Non coinvolti, accuse infondate\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/attacco-hacker-supermercati-cremlino-coinvolgimento_118618919-202602k.shtml",
+      "published": "2026-11-05T10:50:00+00:00"
+    },
     {
       "id": "6f3121219a5846fc1a6e",
       "source": "BBC News",
@@ -255,13 +262,6 @@
       "title": "Everything you need to know from the US midterm elections",
       "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T14:05:42+00:00"
-    },
-    {
-      "id": "fd5304a9b1e1c216e913",
-      "source": "TGcom24",
-      "title": "Morti sul lavoro, ennesima giornata di dolore: cinque vittime in poche ore",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/morti-lavoro-giornata-nera-vittime_118576478-202602k.shtml",
-      "published": "2026-11-04T13:32:00+00:00"
     },
     {
       "id": "6878d8e8ec0e099ef6ca",
