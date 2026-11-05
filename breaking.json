@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-05T15:40:27.190109+00:00",
+  "updated_at": "2026-11-05T15:45:31.984209+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-05T15:40:27.190109+00:00"
+      "checked_at": "2026-11-05T15:45:31.984209+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-05T15:40:27.190109+00:00"
+      "checked_at": "2026-11-05T15:45:31.984209+00:00"
     }
   },
   "items": [
+    {
+      "id": "70d2830c6dd2af8313e2",
+      "source": "BBC News",
+      "title": "France holds new strikes and protests as unions demand immediate answers",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T15:43:15+00:00"
+    },
     {
       "id": "f3f8aae3890a28738b42",
       "source": "TGcom24",
@@ -24,13 +31,6 @@
       "title": "Six dead and others injured in fire at New York City building",
       "url": "https://www.bbc.co.uk/news/articles/c39wz44411w0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-05T15:00:12+00:00"
-    },
-    {
-      "id": "70d2830c6dd2af8313e2",
-      "source": "BBC News",
-      "title": "France holds new strikes and protests as unions demand immediate answers",
-      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T14:42:29+00:00"
     },
     {
       "id": "3187772c6984ae0b379a",
