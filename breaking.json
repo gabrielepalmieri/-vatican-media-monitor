@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-05T15:25:20.064620+00:00",
+  "updated_at": "2026-11-05T15:30:49.266341+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-05T15:25:20.064620+00:00"
+      "checked_at": "2026-11-05T15:30:49.266341+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-05T15:25:20.064620+00:00"
+      "checked_at": "2026-11-05T15:30:49.266341+00:00"
     }
   },
   "items": [
+    {
+      "id": "f3f8aae3890a28738b42",
+      "source": "TGcom24",
+      "title": "Femminicidi di Villa Pamphili, Kaufmann condannato all'ergastolo in primo grado",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/femminicidi-villa-pamphili-kaufmann-ergastolo_118631418-202602k.shtml",
+      "published": "2026-11-05T15:26:00+00:00"
+    },
     {
       "id": "70d2830c6dd2af8313e2",
       "source": "BBC News",
@@ -201,13 +208,6 @@
       "published": "2026-11-05T00:30:37+00:00"
     },
     {
-      "id": "5d9744db5c0ededf571e",
-      "source": "BBC News",
-      "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T23:50:40+00:00"
-    },
-    {
       "id": "1120f19bdebebf0db286",
       "source": "BBC News",
       "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
@@ -255,13 +255,6 @@
       "title": "Nessy Guerra: \"Il mio ex è stato arrestato, è una notizia fantastica\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/egitto-nessy-guerra-ex-arrestato_118593787-202602k.shtml",
       "published": "2026-11-04T18:50:00+00:00"
-    },
-    {
-      "id": "6d185b3333ad4706fb9f",
-      "source": "TGcom24",
-      "title": "Colpì rapinatore con un casco mandandolo in coma: condannato a 4 anni",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/colpi-rapinatore-casco-coma-condannato_118593601-202602k.shtml",
-      "published": "2026-11-04T18:19:00+00:00"
     },
     {
       "id": "04a57ba63d9da9ee51be",
