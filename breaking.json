@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-05T08:25:19.633546+00:00",
+  "updated_at": "2026-11-05T08:28:21.855669+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-05T08:25:19.633546+00:00"
+      "checked_at": "2026-11-05T08:28:21.855669+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-05T08:25:19.633546+00:00"
+      "checked_at": "2026-11-05T08:28:21.855669+00:00"
     }
   },
   "items": [
+    {
+      "id": "ad39e23e9f881ef934ac",
+      "source": "TGcom24",
+      "title": "Garlasco, i legali di Sempio chiedono il congelamento del processo",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/garlasco-udienza-preliminare-sempio-ferma_118608716-202602k.shtml",
+      "published": "2026-11-05T08:25:00+00:00"
+    },
     {
       "id": "3b8742fbc2673852f05a",
       "source": "BBC News",
@@ -262,13 +269,6 @@
       "title": "Crans-Montana, la Svizzera pagherà le spese mediche ai feriti italiani",
       "url": "https://www.tgcom24.mediaset.it/mondo/crans-montana-svizzera-rimborso-spese-mediche-feriti_118577614-202602k.shtml",
       "published": "2026-11-04T11:21:00+00:00"
-    },
-    {
-      "id": "9e6cc0c2164a47fc425d",
-      "source": "TGcom24",
-      "title": "Salvini: \"Oltre 72mila le patenti ritirate per uso smartphone alla guida\"",
-      "url": "https://www.tgcom24.mediaset.it/motori/matteo-salvini-patenti-ritirate_118577466-202602k.shtml",
-      "published": "2026-11-04T10:57:00+00:00"
     },
     {
       "id": "6878d8e8ec0e099ef6ca",
