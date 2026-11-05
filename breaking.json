@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-05T12:15:40.790396+00:00",
+  "updated_at": "2026-11-05T12:20:26.801833+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-05T12:15:40.790396+00:00"
+      "checked_at": "2026-11-05T12:20:26.801833+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-05T12:15:40.790396+00:00"
+      "checked_at": "2026-11-05T12:20:26.801833+00:00"
     }
   },
   "items": [
+    {
+      "id": "7b789b9c53cbb10411ed",
+      "source": "TGcom24",
+      "title": "Manifestazioni in Francia, incendiato un liceo vicino a Tolosa",
+      "url": "https://www.tgcom24.mediaset.it/mondo/manifestazioni-francia-incendiato-liceo-tolosa_118624126-202602k.shtml",
+      "published": "2026-11-05T12:18:00+00:00"
+    },
     {
       "id": "39966c815e27d6c240c1",
       "source": "BBC News",
@@ -248,13 +255,6 @@
       "title": "Midterm, Vance: \"Abbiamo perso per la guerra in Iran e il carovita\"",
       "url": "https://www.tgcom24.mediaset.it/elezioni-estero/usa-midterm-2026/elezioni-midterm-usa-2026-risultati-live_118551779-202602k.shtml",
       "published": "2026-11-04T16:14:00+00:00"
-    },
-    {
-      "id": "079f3d93f710da64b196",
-      "source": "TGcom24",
-      "title": "Manovra, Valditara: \"Lavoriamo per eliminare tagli a personale scuola\"",
-      "url": "https://www.tgcom24.mediaset.it/politica/manovra-valditara-scuola-sanita_118587873-202602k.shtml",
-      "published": "2026-11-04T15:25:00+00:00"
     },
     {
       "id": "c36920a799011336054e",
