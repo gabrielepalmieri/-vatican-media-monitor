@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-05T08:00:59.703768+00:00",
+  "updated_at": "2026-11-05T08:05:19.196626+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-05T08:00:59.703768+00:00"
+      "checked_at": "2026-11-05T08:05:19.196626+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-05T08:00:59.703768+00:00"
+      "checked_at": "2026-11-05T08:05:19.196626+00:00"
     }
   },
   "items": [
+    {
+      "id": "814425aa59fab5ef4875",
+      "source": "BBC News",
+      "title": "Italian chef fired after refusing to put pineapple on pizza",
+      "url": "https://www.bbc.co.uk/news/articles/cx4g1qy6gq9mo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T07:56:53+00:00"
+    },
     {
       "id": "3d2fe7b1c197f30d58f5",
       "source": "TGcom24",
@@ -159,13 +166,6 @@
       "published": "2026-11-04T17:15:00+00:00"
     },
     {
-      "id": "11c81a4ee1b490e17a7c",
-      "source": "BBC News",
-      "title": "Iran's chief negotiator says Americans voted 'no to war'",
-      "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T16:59:15+00:00"
-    },
-    {
       "id": "57f5256893ac48195942",
       "source": "TGcom24",
       "title": "Varese, faceva propaganda jihadista sui social: arrestato 27enne",
@@ -208,13 +208,6 @@
       "published": "2026-11-04T16:14:00+00:00"
     },
     {
-      "id": "c9476d83430fa4de4753",
-      "source": "BBC News",
-      "title": "Secret police files released in Hungary, 37 years after fall of communism",
-      "url": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T15:28:18+00:00"
-    },
-    {
       "id": "079f3d93f710da64b196",
       "source": "TGcom24",
       "title": "Manovra, Valditara: \"Lavoriamo per eliminare tagli a personale scuola\"",
@@ -241,13 +234,6 @@
       "title": "Morti sul lavoro, ennesima giornata di dolore: cinque vittime in poche ore",
       "url": "https://www.tgcom24.mediaset.it/cronaca/morti-lavoro-giornata-nera-vittime_118576478-202602k.shtml",
       "published": "2026-11-04T13:32:00+00:00"
-    },
-    {
-      "id": "9f723cb045d19d3c5010",
-      "source": "BBC News",
-      "title": "Nadal set to join Real Madrid board of directors",
-      "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T13:21:01+00:00"
     },
     {
       "id": "f31604e4593ce0b002fc",
