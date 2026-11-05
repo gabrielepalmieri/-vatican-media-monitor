@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-05T13:01:01.999602+00:00",
+  "updated_at": "2026-11-05T13:05:21.238476+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-05T13:01:01.999602+00:00"
+      "checked_at": "2026-11-05T13:05:21.238476+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-05T13:01:01.999602+00:00"
+      "checked_at": "2026-11-05T13:05:21.238476+00:00"
     }
   },
   "items": [
+    {
+      "id": "70d2830c6dd2af8313e2",
+      "source": "BBC News",
+      "title": "France holds new strikes and protests as unions demand immediate answers",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T13:04:04+00:00"
+    },
     {
       "id": "c21b6ca3d80d7e769cbb",
       "source": "TGcom24",
@@ -59,13 +66,6 @@
       "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
       "url": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-05T10:33:21+00:00"
-    },
-    {
-      "id": "70d2830c6dd2af8313e2",
-      "source": "BBC News",
-      "title": "France gears up for strikes and protests as unions promise national mobilisation",
-      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T10:26:03+00:00"
     },
     {
       "id": "df2d3e48db8cb6385c12",
