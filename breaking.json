@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-05T13:50:27.687605+00:00",
+  "updated_at": "2026-11-05T13:55:18.116122+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-05T13:50:27.687605+00:00"
+      "checked_at": "2026-11-05T13:55:18.116122+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-05T13:50:27.687605+00:00"
+      "checked_at": "2026-11-05T13:55:18.116122+00:00"
     }
   },
   "items": [
+    {
+      "id": "3b8742fbc2673852f05a",
+      "source": "BBC News",
+      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T13:51:03+00:00"
+    },
     {
       "id": "35a8f4b250d1a30e9114",
       "source": "TGcom24",
@@ -115,13 +122,6 @@
       "title": "Garlasco, i legali di Sempio chiedono il congelamento del processo",
       "url": "https://www.tgcom24.mediaset.it/cronaca/garlasco-udienza-preliminare-sempio-ferma_118608716-202602k.shtml",
       "published": "2026-11-05T08:25:00+00:00"
-    },
-    {
-      "id": "3b8742fbc2673852f05a",
-      "source": "BBC News",
-      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T08:07:22+00:00"
     },
     {
       "id": "3d2fe7b1c197f30d58f5",
