@@ -1,29 +1,36 @@
 {
-  "updated_at": "2026-11-05T23:05:20.001604+00:00",
+  "updated_at": "2026-11-05T23:10:24.877292+00:00",
   "sources": {
     "TGcom24": {
-      "ok": false,
-      "checked_at": "2026-11-05T23:05:20.001604+00:00"
+      "ok": true,
+      "checked_at": "2026-11-05T23:10:24.877292+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-05T23:05:20.001604+00:00"
+      "checked_at": "2026-11-05T23:10:24.877292+00:00"
     }
   },
   "items": [
+    {
+      "id": "2643ed317ab203586ff8",
+      "source": "BBC News",
+      "title": "California governor commutes sentences for state's 548 death row inmates",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T23:09:33+00:00"
+    },
+    {
+      "id": "bdaf0c49b712de06a32c",
+      "source": "TGcom24",
+      "title": "Caos in Paraguay: il presidente Peña si dimette dopo crack bancario",
+      "url": "https://www.tgcom24.mediaset.it/mondo/paraguay-caos-crack-banca-dimissioni-presidente-proteste_118642226-202602k.shtml",
+      "published": "2026-11-05T23:04:00+00:00"
+    },
     {
       "id": "7ed2fe5637d954664741",
       "source": "TGcom24",
       "title": "Elezioni in Israele, Herzog: \"Domenica comunicherò a chi conferirò il mandato\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/israele-governo-consultazioni-netanyahu-eisenkot_118610982-202602k.shtml",
       "published": "2026-11-05T22:37:00+00:00"
-    },
-    {
-      "id": "2643ed317ab203586ff8",
-      "source": "BBC News",
-      "title": "California governor commutes sentences for state's 548 death row inmates",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T22:31:40+00:00"
     },
     {
       "id": "7f6f9961d001e130eab0",
@@ -241,13 +248,6 @@
       "title": "Israele, ultraortodossi non indicano Netanyahu come premier: è rottura",
       "url": "https://www.tgcom24.mediaset.it/mondo/israele-governo-consultazioni-netanyahu-eisenkot_118610982-202602k.shtml",
       "published": "2026-11-05T09:01:00+00:00"
-    },
-    {
-      "id": "ad39e23e9f881ef934ac",
-      "source": "TGcom24",
-      "title": "Garlasco, i legali di Sempio chiedono il congelamento del processo",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/garlasco-udienza-preliminare-sempio-ferma_118608716-202602k.shtml",
-      "published": "2026-11-05T08:25:00+00:00"
     },
     {
       "id": "fec2c1170fae56c6cef5",
