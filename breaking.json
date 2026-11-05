@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-05T11:15:30.602009+00:00",
+  "updated_at": "2026-11-05T11:20:28.271781+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-05T11:15:30.602009+00:00"
+      "checked_at": "2026-11-05T11:20:28.271781+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-05T11:15:30.602009+00:00"
+      "checked_at": "2026-11-05T11:20:28.271781+00:00"
     }
   },
   "items": [
@@ -16,7 +16,7 @@
       "source": "BBC News",
       "title": "Ronaldo retires from Portugal duty",
       "url": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T10:55:11+00:00"
+      "published": "2026-11-05T11:17:03+00:00"
     },
     {
       "id": "c83ca78b9e737971df55",
@@ -236,13 +236,6 @@
       "published": "2026-11-04T16:45:00+00:00"
     },
     {
-      "id": "9e3e9d386dc3736b3916",
-      "source": "BBC News",
-      "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T16:26:15+00:00"
-    },
-    {
       "id": "4003e85f08300cd332d1",
       "source": "TGcom24",
       "title": "Midterm, Vance: \"Abbiamo perso per la guerra in Iran e il carovita\"",
@@ -269,6 +262,13 @@
       "title": "Everything you need to know from the US midterm elections",
       "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T14:05:42+00:00"
+    },
+    {
+      "id": "b98911760684d34b6f86",
+      "source": "BBC News",
+      "title": "ANC under pressure to reverse South Africa decline",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T11:47:44+00:00"
     },
     {
       "id": "6878d8e8ec0e099ef6ca",
