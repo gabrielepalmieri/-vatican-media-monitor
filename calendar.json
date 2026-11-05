@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-04T12:56:52.430590+00:00",
+  "updated_at": "2026-11-05T02:21:22.919402+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-11-04T12:56:52.430590+00:00",
+  "un_verified_at": "2026-11-05T02:21:22.919402+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,21 +1918,6 @@
     }
   ],
   "days": {
-    "2026-11-03": {
-      "saints": [
-        {
-          "title": "San Martino di Porres, religioso domenicano",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/03/san-martino-di-porres--religioso-domenicano.html"
-        },
-        {
-          "title": "Santa Silvia, madre di San Gregorio Magno",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/03.html"
-        }
-      ],
-      "un": [],
-      "un_available": true,
-      "holy_see": []
-    },
     "2026-11-04": {
       "saints": [
         {
@@ -2629,6 +2614,30 @@
         {
           "title": "Giornata internazionale contro la corruzione",
           "url": "https://www.un.org/en/observances/anti-corruption-day"
+        }
+      ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-12-10": {
+      "saints": [
+        {
+          "title": "Beata Maria Vergine di Loreto",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/10/beata-maria-vergine-di-loreto.html"
+        },
+        {
+          "title": "San Mauro, martire sulla via Salaria",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/10.html"
+        },
+        {
+          "title": "San Gregorio III, papa",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/10.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata dei diritti umani",
+          "url": "https://www.un.org/en/observances/human-rights-day"
         }
       ],
       "un_available": true,
