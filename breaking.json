@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-05T16:01:06.275663+00:00",
+  "updated_at": "2026-11-05T16:15:41.836207+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-05T16:01:06.275663+00:00"
+      "checked_at": "2026-11-05T16:15:41.836207+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-05T16:01:06.275663+00:00"
+      "checked_at": "2026-11-05T16:15:41.836207+00:00"
     }
   },
   "items": [
@@ -19,11 +19,11 @@
       "published": "2026-11-05T15:56:00+00:00"
     },
     {
-      "id": "6878d8e8ec0e099ef6ca",
+      "id": "da141e773e8994aa7afe",
       "source": "BBC News",
-      "title": "How America voted in maps and charts",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T15:52:04+00:00"
+      "title": "Russell Brand is being investigated over two new rape complaints, police say",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T15:44:49+00:00"
     },
     {
       "id": "70d2830c6dd2af8313e2",
@@ -108,6 +108,13 @@
       "title": "Israele, partito arabo Ra'am propone Eisenkot come premier",
       "url": "https://www.tgcom24.mediaset.it/mondo/israele-governo-consultazioni-netanyahu-eisenkot_118610982-202602k.shtml",
       "published": "2026-11-05T11:34:00+00:00"
+    },
+    {
+      "id": "ff65eafabcc9fd4952d9",
+      "source": "BBC News",
+      "title": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1r42jx00o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T11:21:35+00:00"
     },
     {
       "id": "c83ca78b9e737971df55",
@@ -215,6 +222,13 @@
       "published": "2026-11-05T02:09:23+00:00"
     },
     {
+      "id": "f22677b94759c947ae3b",
+      "source": "BBC News",
+      "title": "Would you take a test to see if your life will be cut short? I did - and it changed me",
+      "url": "https://www.bbc.co.uk/news/articles/cw62yq9vp7yyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T00:32:09+00:00"
+    },
+    {
       "id": "2c29442448b3b653b1d0",
       "source": "BBC News",
       "title": "Why a US-funded vaccine trial on babies was cancelled in Guinea-Bissau",
@@ -264,25 +278,11 @@
       "published": "2026-11-04T18:01:27+00:00"
     },
     {
-      "id": "c36920a799011336054e",
-      "source": "BBC News",
-      "title": "Everything you need to know from the US midterm elections",
-      "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T14:05:42+00:00"
-    },
-    {
       "id": "b98911760684d34b6f86",
       "source": "BBC News",
       "title": "ANC under pressure to reverse South Africa decline",
       "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04T11:47:44+00:00"
-    },
-    {
-      "id": "0bbd297a9bd266e9a7e4",
-      "source": "BBC News",
-      "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T06:53:56+00:00"
     }
   ]
 }
