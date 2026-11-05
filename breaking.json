@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-05T17:10:27.618409+00:00",
+  "updated_at": "2026-11-05T17:15:33.432480+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-05T17:10:27.618409+00:00"
+      "checked_at": "2026-11-05T17:15:33.432480+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-05T17:10:27.618409+00:00"
+      "checked_at": "2026-11-05T17:15:33.432480+00:00"
     }
   },
   "items": [
+    {
+      "id": "1f050f6e83b71b8eb3a8",
+      "source": "BBC News",
+      "title": "Paraguay President Santiago Peña resigns after bank collapse",
+      "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-05T17:14:41+00:00"
+    },
     {
       "id": "6b9a965c752d424b7ab6",
       "source": "TGcom24",
       "title": "Insulti social a Liliana Segre: un hater patteggia 4 mesi, un altro mille euro",
       "url": "https://www.tgcom24.mediaset.it/cronaca/liliana-segre-odio-social-hater-patteggiamento_118633711-202602k.shtml",
       "published": "2026-11-05T17:02:00+00:00"
-    },
-    {
-      "id": "1f050f6e83b71b8eb3a8",
-      "source": "BBC News",
-      "title": "Paraguay President Santiago Peña resigns",
-      "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T16:58:16+00:00"
     },
     {
       "id": "4c94ab5c9d121a1669ab",
