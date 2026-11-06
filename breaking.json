@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-06T16:20:27.473457+00:00",
+  "updated_at": "2026-11-06T16:25:18.780121+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-06T16:20:27.473457+00:00"
+      "checked_at": "2026-11-06T16:25:18.780121+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-06T16:20:27.473457+00:00"
+      "checked_at": "2026-11-06T16:25:18.780121+00:00"
     }
   },
   "items": [
+    {
+      "id": "49e9458bbd172a936cba",
+      "source": "BBC News",
+      "title": "AI stocks climb after trillions wiped from market values",
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T16:23:16+00:00"
+    },
     {
       "id": "6a1df3bd4ad38f4f6a5f",
       "source": "TGcom24",
@@ -45,13 +52,6 @@
       "title": "Attacchi hacker, Meloni: \"Preoccupati, prese di mira infrastrutture civili\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/allarme-bomba-aereo-media-irlanda_118662251-202602k.shtml",
       "published": "2026-11-06T15:20:00+00:00"
-    },
-    {
-      "id": "49e9458bbd172a936cba",
-      "source": "BBC News",
-      "title": "AI stocks climb after trillions wiped from market values",
-      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T15:04:46+00:00"
     },
     {
       "id": "3a11b65f36f19cc073d7",
@@ -101,6 +101,13 @@
       "title": "Usa, Trump: \"Al 100% favorevole alla superintelligenza, miope chi dice no\"",
       "url": "https://www.tgcom24.mediaset.it/economia/elezioni-midterm-2026-wall-street-borsa-new-york-tonfo-titoli-tech-ia_118648667-202602k.shtml",
       "published": "2026-11-06T13:19:00+00:00"
+    },
+    {
+      "id": "5df3d86a715a91151767",
+      "source": "BBC News",
+      "title": "Russian extremist group denies sending hoax bomb threats",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T12:51:38+00:00"
     },
     {
       "id": "be524ba8f933fbf1b08e",
