@@ -1,22 +1,29 @@
 {
-  "updated_at": "2026-11-06T06:00:59.138786+00:00",
+  "updated_at": "2026-11-06T06:05:20.467676+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-06T06:00:59.138786+00:00"
+      "checked_at": "2026-11-06T06:05:20.467676+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-06T06:00:59.138786+00:00"
+      "checked_at": "2026-11-06T06:05:20.467676+00:00"
     }
   },
   "items": [
+    {
+      "id": "92a08515a8d1f911ec6b",
+      "source": "TGcom24",
+      "title": "Usa, Rubio: \"Il mio piano è restare con Trump fino alla fine\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-donald-trump-pete-hegseth-impeachment_118652628-202602k.shtml",
+      "published": "2026-11-06T06:01:00+00:00"
+    },
     {
       "id": "7f6f9961d001e130eab0",
       "source": "BBC News",
       "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
       "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T05:51:16+00:00"
+      "published": "2026-11-06T06:00:59+00:00"
     },
     {
       "id": "af4535ca4a49e64b650e",
@@ -269,13 +276,6 @@
       "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
       "url": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-05T10:33:21+00:00"
-    },
-    {
-      "id": "df2d3e48db8cb6385c12",
-      "source": "TGcom24",
-      "title": "Allarmi bomba sugli aerei, allerte scattate da una mail in italiano",
-      "url": "https://www.tgcom24.mediaset.it/mondo/allarme-bomba-volo-dublino-roma_118611937-202602k.shtml",
-      "published": "2026-11-05T10:23:00+00:00"
     },
     {
       "id": "fec2c1170fae56c6cef5",
