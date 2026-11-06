@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-06T19:35:19.573368+00:00",
+  "updated_at": "2026-11-06T19:40:26.914794+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-06T19:35:19.573368+00:00"
+      "checked_at": "2026-11-06T19:40:26.914794+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-06T19:35:19.573368+00:00"
+      "checked_at": "2026-11-06T19:40:26.914794+00:00"
     }
   },
   "items": [
+    {
+      "id": "49e9458bbd172a936cba",
+      "source": "BBC News",
+      "title": "AI stocks climb after trillions wiped from market values",
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T19:37:10+00:00"
+    },
     {
       "id": "bf49057d73bb2f3732e4",
       "source": "TGcom24",
@@ -45,13 +52,6 @@
       "title": "Yemen, Houthi: \"Almeno 30 morti e 8 feriti nell'attacco al mercato a Taiz\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/yemen-attacco-mercato-saiz-houthi_118676105-202602k.shtml",
       "published": "2026-11-06T17:25:00+00:00"
-    },
-    {
-      "id": "49e9458bbd172a936cba",
-      "source": "BBC News",
-      "title": "AI stocks climb after trillions wiped from market values",
-      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T17:03:02+00:00"
     },
     {
       "id": "243cd267d7def84672dc",
