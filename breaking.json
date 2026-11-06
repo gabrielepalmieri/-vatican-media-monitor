@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-06T10:05:20.247204+00:00",
+  "updated_at": "2026-11-06T10:10:28.674450+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-06T10:05:20.247204+00:00"
+      "checked_at": "2026-11-06T10:10:28.674450+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-06T10:05:20.247204+00:00"
+      "checked_at": "2026-11-06T10:10:28.674450+00:00"
     }
   },
   "items": [
+    {
+      "id": "8d93192a223296433931",
+      "source": "BBC News",
+      "title": "Tanzanian opposition leader found guilty of incitement",
+      "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T10:05:32+00:00"
+    },
     {
       "id": "c72ef3d44dddd1a94c3f",
       "source": "BBC News",
@@ -28,16 +35,9 @@
     {
       "id": "ed1e3129003bdeb39102",
       "source": "TGcom24",
-      "title": "Francia, scuolabus esce di strada e finisce in un fosso: \"diverse vittime\"",
+      "title": "Francia, scuolabus esce di strada e finisce in un fosso: morti due bimbi, diversi i feriti",
       "url": "https://www.tgcom24.mediaset.it/mondo/francia-ain-lent-incidente-scuolabus-vittime_118661682-202602k.shtml",
       "published": "2026-11-06T09:54:00+00:00"
-    },
-    {
-      "id": "8d93192a223296433931",
-      "source": "BBC News",
-      "title": "Tanzanian opposition leader found guilty of incitement",
-      "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T09:33:31+00:00"
     },
     {
       "id": "df4da1983a97dac0b76f",
