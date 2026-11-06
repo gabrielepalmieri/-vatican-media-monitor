@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-06T17:01:02.874015+00:00",
+  "updated_at": "2026-11-06T17:05:20.192619+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-06T17:01:02.874015+00:00"
+      "checked_at": "2026-11-06T17:05:20.192619+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-06T17:01:02.874015+00:00"
+      "checked_at": "2026-11-06T17:05:20.192619+00:00"
     }
   },
   "items": [
+    {
+      "id": "49e9458bbd172a936cba",
+      "source": "BBC News",
+      "title": "AI stocks climb after trillions wiped from market values",
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T17:03:02+00:00"
+    },
     {
       "id": "bc62766e5a6ac21b5ce4",
       "source": "TGcom24",
       "title": "Allarmi bomba, indaga anche la procura nazionale antimafia e antiterrorismo",
       "url": "https://www.tgcom24.mediaset.it/cronaca/allarme-bomba-aereo-media-irlanda_118662251-202602k.shtml",
       "published": "2026-11-06T16:40:00+00:00"
-    },
-    {
-      "id": "49e9458bbd172a936cba",
-      "source": "BBC News",
-      "title": "AI stocks climb after trillions wiped from market values",
-      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T16:23:16+00:00"
     },
     {
       "id": "6a1df3bd4ad38f4f6a5f",
@@ -339,13 +339,6 @@
       "title": "Eight killed in series of shootings in western Turkey",
       "url": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-05T19:32:54+00:00"
-    },
-    {
-      "id": "5e8447ea2c8a3e0535a0",
-      "source": "BBC News",
-      "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
-      "url": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T19:08:48+00:00"
     },
     {
       "id": "309fc7471cbb903b45bf",
