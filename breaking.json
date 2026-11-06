@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-06T22:30:43.831816+00:00",
+  "updated_at": "2026-11-06T22:35:18.826398+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-06T22:30:43.831816+00:00"
+      "checked_at": "2026-11-06T22:35:18.826398+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-06T22:30:43.831816+00:00"
+      "checked_at": "2026-11-06T22:35:18.826398+00:00"
     }
   },
   "items": [
+    {
+      "id": "fb45545a64be8760f66c",
+      "source": "TGcom24",
+      "title": "Paraguay, il Senato approva l'impeachment per il presidente Santiago Peña",
+      "url": "https://www.tgcom24.mediaset.it/mondo/paraguay-restituzione-fondi_118683129-202602k.shtml",
+      "published": "2026-11-06T22:30:00+00:00"
+    },
     {
       "id": "7872b5c78ad401c9c978",
       "source": "BBC News",
@@ -299,13 +306,6 @@
       "published": "2026-11-06T06:46:21+00:00"
     },
     {
-      "id": "1295dcc6501e4ebd2308",
-      "source": "TGcom24",
-      "title": "Trump: \"A Wall Street una delle giornate peggiori della storia per via delle elezioni\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/usa-donald-trump-pete-hegseth-impeachment_118652628-202602k.shtml",
-      "published": "2026-11-06T06:40:00+00:00"
-    },
-    {
       "id": "ba9a2a0ef67fcd98893e",
       "source": "BBC News",
       "title": "Did a data centre revolt affect the US midterm election results?",
@@ -346,13 +346,6 @@
       "title": "Paraguay President Santiago Peña resigns after bank collapse",
       "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-05T17:40:40+00:00"
-    },
-    {
-      "id": "6f3121219a5846fc1a6e",
-      "source": "BBC News",
-      "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
-      "url": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T10:33:21+00:00"
     }
   ]
 }
