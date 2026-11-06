@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-06T15:15:31.624422+00:00",
+  "updated_at": "2026-11-06T15:20:28.969954+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-06T15:15:31.624422+00:00"
+      "checked_at": "2026-11-06T15:20:28.969954+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-06T15:15:31.624422+00:00"
+      "checked_at": "2026-11-06T15:20:28.969954+00:00"
     }
   },
   "items": [
+    {
+      "id": "25095e037a7c7168f2b1",
+      "source": "TGcom24",
+      "title": "Attacchi hacker, Meloni: \"Preoccupati, prese di mira infrastrutture civili\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/allarme-bomba-aereo-media-irlanda_118662251-202602k.shtml",
+      "published": "2026-11-06T15:20:00+00:00"
+    },
     {
       "id": "c72ef3d44dddd1a94c3f",
       "source": "BBC News",
@@ -304,13 +311,6 @@
       "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
       "url": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-05T19:08:48+00:00"
-    },
-    {
-      "id": "8de7f6b9cf23cfb82a08",
-      "source": "TGcom24",
-      "title": "Anac, il leghista Altieri nuovo presidente",
-      "url": "https://www.tgcom24.mediaset.it/politica/anac-altieri-nuovo-presidente_118639884-202602k.shtml",
-      "published": "2026-11-05T19:04:00+00:00"
     },
     {
       "id": "309fc7471cbb903b45bf",
