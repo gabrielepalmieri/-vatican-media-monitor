@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-06T18:01:00.023180+00:00",
+  "updated_at": "2026-11-06T18:05:19.547383+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-06T18:01:00.023180+00:00"
+      "checked_at": "2026-11-06T18:05:19.547383+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-06T18:01:00.023180+00:00"
+      "checked_at": "2026-11-06T18:05:19.547383+00:00"
     }
   },
   "items": [
+    {
+      "id": "dd85b5407f1ddaf62201",
+      "source": "TGcom24",
+      "title": "Allarmi bomba, Ue: \"Prossima settimana riunione esperti sulla sicurezza aerea\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/allarme-bomba-aereo-media-irlanda_118662251-202602k.shtml",
+      "published": "2026-11-06T17:55:00+00:00"
+    },
     {
       "id": "f47c3cd61df209b1d58b",
       "source": "BBC News",
@@ -318,13 +325,6 @@
       "title": "Elezioni in Israele, Herzog: \"Domenica comunicherò a chi conferirò il mandato\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/israele-governo-consultazioni-netanyahu-eisenkot_118610982-202602k.shtml",
       "published": "2026-11-05T22:37:00+00:00"
-    },
-    {
-      "id": "e43150fcb80cff0a8b4b",
-      "source": "TGcom24",
-      "title": "Giovedì nero per Wall Street: affonda e brucia 3.200 miliardi per i timori IA",
-      "url": "https://www.tgcom24.mediaset.it/economia/elezioni-midterm-2026-wall-street-borsa-new-york-tonfo-titoli-tech-ia_118648667-202602k.shtml",
-      "published": "2026-11-05T21:41:00+00:00"
     },
     {
       "id": "309fc7471cbb903b45bf",
