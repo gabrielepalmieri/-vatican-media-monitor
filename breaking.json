@@ -1,22 +1,29 @@
 {
-  "updated_at": "2026-11-06T10:35:18.577176+00:00",
+  "updated_at": "2026-11-06T10:40:25.472699+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-06T10:35:18.577176+00:00"
+      "checked_at": "2026-11-06T10:40:25.472699+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-06T10:35:18.577176+00:00"
+      "checked_at": "2026-11-06T10:40:25.472699+00:00"
     }
   },
   "items": [
+    {
+      "id": "8d93192a223296433931",
+      "source": "BBC News",
+      "title": "Tanzanian opposition leader found guilty of incitement",
+      "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T10:37:12+00:00"
+    },
     {
       "id": "c72ef3d44dddd1a94c3f",
       "source": "BBC News",
       "title": "Two dead after bus crashes in France, officials say",
       "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T10:20:46+00:00"
+      "published": "2026-11-06T10:36:31+00:00"
     },
     {
       "id": "1cfad698cde5650fb58b",
@@ -24,13 +31,6 @@
       "title": "Nuovo allarme bomba su aereo partito da Roma e atterrato a Lisbona",
       "url": "https://www.tgcom24.mediaset.it/cronaca/allarme-bomba-aereo-roma-lisbona_118662251-202602k.shtml",
       "published": "2026-11-06T10:14:00+00:00"
-    },
-    {
-      "id": "8d93192a223296433931",
-      "source": "BBC News",
-      "title": "Tanzanian opposition leader found guilty of incitement",
-      "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T10:05:32+00:00"
     },
     {
       "id": "7872b5c78ad401c9c978",
