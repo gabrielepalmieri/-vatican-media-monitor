@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-06T09:55:19.646909+00:00",
+  "updated_at": "2026-11-06T10:00:59.687680+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-06T09:55:19.646909+00:00"
+      "checked_at": "2026-11-06T10:00:59.687680+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-06T09:55:19.646909+00:00"
+      "checked_at": "2026-11-06T10:00:59.687680+00:00"
     }
   },
   "items": [
@@ -16,7 +16,14 @@
       "source": "BBC News",
       "title": "'Several victims' after bus crashes in France, officials say",
       "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T09:46:49+00:00"
+      "published": "2026-11-06T09:57:11+00:00"
+    },
+    {
+      "id": "ed1e3129003bdeb39102",
+      "source": "TGcom24",
+      "title": "Francia, scuolabus esce di strada e finisce in un fosso: \"diverse vittime\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/francia-ain-lent-incidente-scuolabus-vittime_118661682-202602k.shtml",
+      "published": "2026-11-06T09:54:00+00:00"
     },
     {
       "id": "8d93192a223296433931",
@@ -297,13 +304,6 @@
       "title": "Incidenti sul lavoro, due vittime a Pavia e in provincia di Isernia",
       "url": "https://www.tgcom24.mediaset.it/cronaca/incidenti-lavoro-due-morti-pavia-isernia_118627772-202602k.shtml",
       "published": "2026-11-05T14:02:00+00:00"
-    },
-    {
-      "id": "35a8f4b250d1a30e9114",
-      "source": "TGcom24",
-      "title": "Caos voli, salgono a oltre 20 gli allarmi bomba in Europa: 7 coinvolgono l'Italia",
-      "url": "https://www.tgcom24.mediaset.it/mondo/allarme-bomba-aerei-voli-dirottati_118611937-202602k.shtml",
-      "published": "2026-11-05T13:35:00+00:00"
     },
     {
       "id": "6f3121219a5846fc1a6e",
