@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-06T17:25:19.036626+00:00",
+  "updated_at": "2026-11-06T17:30:48.316930+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-06T17:25:19.036626+00:00"
+      "checked_at": "2026-11-06T17:30:48.316930+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-06T17:25:19.036626+00:00"
+      "checked_at": "2026-11-06T17:30:48.316930+00:00"
     }
   },
   "items": [
+    {
+      "id": "0a71e4923a27c956d1fd",
+      "source": "TGcom24",
+      "title": "Yemen, Houthi: \"Almeno 30 morti e 8 feriti nell'attacco al mercato a Taiz\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/yemen-attacco-mercato-saiz-houthi_118676105-202602k.shtml",
+      "published": "2026-11-06T17:25:00+00:00"
+    },
     {
       "id": "49e9458bbd172a936cba",
       "source": "BBC News",
@@ -332,13 +339,6 @@
       "title": "Giovedì nero per Wall Street: affonda e brucia 3.200 miliardi per i timori IA",
       "url": "https://www.tgcom24.mediaset.it/economia/elezioni-midterm-2026-wall-street-borsa-new-york-tonfo-titoli-tech-ia_118648667-202602k.shtml",
       "published": "2026-11-05T21:41:00+00:00"
-    },
-    {
-      "id": "bf3a73a70d39821d82b5",
-      "source": "TGcom24",
-      "title": "California, il governatore Newsom commuta 548 condanne a morte in ergastoli",
-      "url": "https://www.tgcom24.mediaset.it/mondo/california-newsom-548-condanne-a-morte-in-ergastolo_118645754-202602k.shtml",
-      "published": "2026-11-05T20:58:00+00:00"
     },
     {
       "id": "bcc5623a6cf851dcc55e",
