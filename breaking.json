@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-06T21:05:19.153108+00:00",
+  "updated_at": "2026-11-06T21:10:25.088950+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-06T21:05:19.153108+00:00"
+      "checked_at": "2026-11-06T21:10:25.088950+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-06T21:05:19.153108+00:00"
+      "checked_at": "2026-11-06T21:10:25.088950+00:00"
     }
   },
   "items": [
+    {
+      "id": "49e9458bbd172a936cba",
+      "source": "BBC News",
+      "title": "AI stocks climb after trillions wiped from market values",
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T21:06:25+00:00"
+    },
     {
       "id": "315a4b82ab343815bda6",
       "source": "TGcom24",
@@ -24,13 +31,6 @@
       "title": "Papa Leone: \"Fiero di essere americano e di avere votato\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/papa-leone-montevideo-salute-midterm_118678128-202602k.shtml",
       "published": "2026-11-06T20:04:00+00:00"
-    },
-    {
-      "id": "49e9458bbd172a936cba",
-      "source": "BBC News",
-      "title": "AI stocks climb after trillions wiped from market values",
-      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T19:37:10+00:00"
     },
     {
       "id": "bf49057d73bb2f3732e4",
