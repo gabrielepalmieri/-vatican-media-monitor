@@ -1,29 +1,36 @@
 {
-  "updated_at": "2026-11-06T11:35:19.399732+00:00",
+  "updated_at": "2026-11-06T11:40:27.503620+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-06T11:35:19.399732+00:00"
+      "checked_at": "2026-11-06T11:40:27.503620+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-06T11:35:19.399732+00:00"
+      "checked_at": "2026-11-06T11:40:27.503620+00:00"
     }
   },
   "items": [
+    {
+      "id": "8d93192a223296433931",
+      "source": "BBC News",
+      "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
+      "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T11:36:14+00:00"
+    },
+    {
+      "id": "b6ef467d676596dea284",
+      "source": "TGcom24",
+      "title": "Reggio Emilia, picchia per anni la moglie provocandole tre aborti: arrestato",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/reggio-emilia-picchia-per-anni-la-moglie-provocandole-tre-aborti-arrestato_118664098-202602k.shtml",
+      "published": "2026-11-06T11:26:00+00:00"
+    },
     {
       "id": "c72ef3d44dddd1a94c3f",
       "source": "BBC News",
       "title": "Two dead after bus crashes in France, officials say",
       "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-06T11:21:20+00:00"
-    },
-    {
-      "id": "8d93192a223296433931",
-      "source": "BBC News",
-      "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-      "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T10:57:30+00:00"
     },
     {
       "id": "5d5646c2fa435ee670c3",
@@ -304,13 +311,6 @@
       "title": "Mattarella: \"Chi nasce al Sud sia libero di restarci o tornarci\"",
       "url": "https://www.tgcom24.mediaset.it/politica/mattarella-chi-nasce-sud-libero-di-restare_118631365-202602k.shtml",
       "published": "2026-11-05T15:56:00+00:00"
-    },
-    {
-      "id": "f3f8aae3890a28738b42",
-      "source": "TGcom24",
-      "title": "Femminicidi di Villa Pamphili, Kaufmann condannato all'ergastolo in primo grado",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/femminicidi-villa-pamphili-kaufmann-ergastolo_118631418-202602k.shtml",
-      "published": "2026-11-05T15:26:00+00:00"
     },
     {
       "id": "6f3121219a5846fc1a6e",
