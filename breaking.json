@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-06T09:15:31.004499+00:00",
+  "updated_at": "2026-11-06T09:20:25.883789+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-06T09:15:31.004499+00:00"
+      "checked_at": "2026-11-06T09:20:25.883789+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-06T09:15:31.004499+00:00"
+      "checked_at": "2026-11-06T09:20:25.883789+00:00"
     }
   },
   "items": [
+    {
+      "id": "df4da1983a97dac0b76f",
+      "source": "BBC News",
+      "title": "Trump signs order to preserve Oval Office as national monument",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T09:19:57+00:00"
+    },
     {
       "id": "a175d5969081e65aa29d",
       "source": "TGcom24",
@@ -94,13 +101,6 @@
       "title": "Iran, 40enne condannato a morte per i suoi post sui social con account anonimo",
       "url": "https://www.tgcom24.mediaset.it/mondo/iran-condanna-a-morte-post-social-40enne-mousavi-dissenso_118650679-202602k.shtml",
       "published": "2026-11-06T05:00:00+00:00"
-    },
-    {
-      "id": "df4da1983a97dac0b76f",
-      "source": "BBC News",
-      "title": "Trump signs order to preserve Oval Office as national monument",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T04:29:25+00:00"
     },
     {
       "id": "54d16304c638bc8cc732",
