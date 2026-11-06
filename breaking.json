@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-06T17:35:19.938073+00:00",
+  "updated_at": "2026-11-06T17:40:27.406257+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-06T17:35:19.938073+00:00"
+      "checked_at": "2026-11-06T17:40:27.406257+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-06T17:35:19.938073+00:00"
+      "checked_at": "2026-11-06T17:40:27.406257+00:00"
     }
   },
   "items": [
+    {
+      "id": "f47c3cd61df209b1d58b",
+      "source": "BBC News",
+      "title": "Nigerian court rules opposition candidate cannot stand in elections",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T17:35:55+00:00"
+    },
     {
       "id": "0a71e4923a27c956d1fd",
       "source": "TGcom24",
@@ -325,13 +332,6 @@
       "title": "Elezioni in Israele, Herzog: \"Domenica comunicherò a chi conferirò il mandato\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/israele-governo-consultazioni-netanyahu-eisenkot_118610982-202602k.shtml",
       "published": "2026-11-05T22:37:00+00:00"
-    },
-    {
-      "id": "f47c3cd61df209b1d58b",
-      "source": "BBC News",
-      "title": "Nigerian court rules opposition candidate cannot stand in elections",
-      "url": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T22:00:33+00:00"
     },
     {
       "id": "e43150fcb80cff0a8b4b",
