@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-06T16:45:33.976391+00:00",
+  "updated_at": "2026-11-06T16:50:26.675077+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-06T16:45:33.976391+00:00"
+      "checked_at": "2026-11-06T16:50:26.675077+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-06T16:45:33.976391+00:00"
+      "checked_at": "2026-11-06T16:50:26.675077+00:00"
     }
   },
   "items": [
+    {
+      "id": "bc62766e5a6ac21b5ce4",
+      "source": "TGcom24",
+      "title": "Allarmi bomba, indaga anche la procura nazionale antimafia e antiterrorismo",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/allarme-bomba-aereo-media-irlanda_118662251-202602k.shtml",
+      "published": "2026-11-06T16:40:00+00:00"
+    },
     {
       "id": "49e9458bbd172a936cba",
       "source": "BBC News",
@@ -325,13 +332,6 @@
       "title": "California, il governatore Newsom commuta 548 condanne a morte in ergastoli",
       "url": "https://www.tgcom24.mediaset.it/mondo/california-newsom-548-condanne-a-morte-in-ergastolo_118645754-202602k.shtml",
       "published": "2026-11-05T20:58:00+00:00"
-    },
-    {
-      "id": "5aafe70edc59405647c3",
-      "source": "TGcom24",
-      "title": "Uccise il padre a Suzzara (Mantova), colpo di scena in aula: confessa e viene condannata",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/mantova-suzzara-omicidio-francesco-capuano-condanna-figlia-rosa_118643838-202602k.shtml",
-      "published": "2026-11-05T20:26:00+00:00"
     },
     {
       "id": "bcc5623a6cf851dcc55e",
