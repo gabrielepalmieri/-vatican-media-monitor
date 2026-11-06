@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-06T20:05:18.607651+00:00",
+  "updated_at": "2026-11-06T20:10:25.830646+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-06T20:05:18.607651+00:00"
+      "checked_at": "2026-11-06T20:10:25.830646+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-06T20:05:18.607651+00:00"
+      "checked_at": "2026-11-06T20:10:25.830646+00:00"
     }
   },
   "items": [
+    {
+      "id": "ac29ebada16875fee4ed",
+      "source": "TGcom24",
+      "title": "Papa Leone: \"Fiero di essere americano e di avere votato\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/papa-leone-montevideo-salute-midterm_118678128-202602k.shtml",
+      "published": "2026-11-06T20:04:00+00:00"
+    },
     {
       "id": "49e9458bbd172a936cba",
       "source": "BBC News",
@@ -325,13 +332,6 @@
       "title": "California governor commutes sentences for state's 548 death row inmates",
       "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-05T23:09:33+00:00"
-    },
-    {
-      "id": "bdaf0c49b712de06a32c",
-      "source": "TGcom24",
-      "title": "Caos in Paraguay: il presidente Peña si dimette dopo crack bancario",
-      "url": "https://www.tgcom24.mediaset.it/mondo/paraguay-caos-crack-banca-dimissioni-presidente-proteste_118642226-202602k.shtml",
-      "published": "2026-11-05T23:04:00+00:00"
     },
     {
       "id": "309fc7471cbb903b45bf",
