@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-05T13:08:01.365587+00:00",
+  "updated_at": "2026-11-06T02:22:34.750767+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-11-05T13:08:01.365587+00:00",
+  "un_verified_at": "2026-11-06T02:22:34.750767+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,21 +1918,6 @@
     }
   ],
   "days": {
-    "2026-11-04": {
-      "saints": [
-        {
-          "title": "San Carlo Borromeo, arcivescovo di Milano e cardinale",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/04/san-carlo-borromeo--arcivescovo-di-milano-e-cardinale.html"
-        },
-        {
-          "title": "Santi Vitale e Agricola, martiri bolognesi",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/04.html"
-        }
-      ],
-      "un": [],
-      "un_available": true,
-      "holy_see": []
-    },
     "2026-11-05": {
       "saints": [
         {
@@ -2638,6 +2623,22 @@
         {
           "title": "Giornata dei diritti umani",
           "url": "https://www.un.org/en/observances/human-rights-day"
+        }
+      ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-12-11": {
+      "saints": [
+        {
+          "title": "San Damaso I, papa",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/11/san-damaso-i--papa.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata internazionale della montagna",
+          "url": "https://www.un.org/en/observances/mountain-day"
         }
       ],
       "un_available": true,
