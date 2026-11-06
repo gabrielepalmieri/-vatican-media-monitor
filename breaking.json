@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-06T12:40:28.642517+00:00",
+  "updated_at": "2026-11-06T12:45:31.334602+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-06T12:40:28.642517+00:00"
+      "checked_at": "2026-11-06T12:45:31.334602+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-06T12:40:28.642517+00:00"
+      "checked_at": "2026-11-06T12:45:31.334602+00:00"
     }
   },
   "items": [
+    {
+      "id": "8d93192a223296433931",
+      "source": "BBC News",
+      "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
+      "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T12:41:44+00:00"
+    },
     {
       "id": "c72ef3d44dddd1a94c3f",
       "source": "BBC News",
@@ -31,13 +38,6 @@
       "title": "Proteste in piazza, la Procura non ricorre contro la scarcerazione di Youssef Siher",
       "url": "https://www.tgcom24.mediaset.it/cronaca/procura-no-ricorso-scarcerazione-siher_118664664-202602k.shtml",
       "published": "2026-11-06T11:53:00+00:00"
-    },
-    {
-      "id": "8d93192a223296433931",
-      "source": "BBC News",
-      "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-      "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T11:36:14+00:00"
     },
     {
       "id": "b6ef467d676596dea284",
