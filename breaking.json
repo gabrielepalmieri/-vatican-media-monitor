@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-06T17:40:27.406257+00:00",
+  "updated_at": "2026-11-06T17:45:30.297758+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-06T17:40:27.406257+00:00"
+      "checked_at": "2026-11-06T17:45:30.297758+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-06T17:40:27.406257+00:00"
+      "checked_at": "2026-11-06T17:45:30.297758+00:00"
     }
   },
   "items": [
@@ -47,6 +47,13 @@
       "published": "2026-11-06T16:40:00+00:00"
     },
     {
+      "id": "790613c96596df99c7dd",
+      "source": "BBC News",
+      "title": "Four midterms takeaways for 2028 White House race",
+      "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T16:12:22+00:00"
+    },
+    {
       "id": "6a1df3bd4ad38f4f6a5f",
       "source": "TGcom24",
       "title": "Regione Sicilia, ai domiciliari per corruzione l'ex vicepresidente Armao",
@@ -66,6 +73,13 @@
       "title": "Two dead after bus crashes in France, officials say",
       "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-06T15:33:52+00:00"
+    },
+    {
+      "id": "54577efa798e94cf1c02",
+      "source": "BBC News",
+      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
+      "url": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T15:30:42+00:00"
     },
     {
       "id": "7dbb8a4d7ff42e8e70f4",
@@ -122,6 +136,13 @@
       "title": "Legge di bilancio, Tajani: \"Inserire fondo per le vittime di errori giudiziari\"",
       "url": "https://www.tgcom24.mediaset.it/politica/antonio-tajani-bilancio-fondo-risarcimento-errori-giudiziari_118668529-202602k.shtml",
       "published": "2026-11-06T13:45:00+00:00"
+    },
+    {
+      "id": "826c8a73595b4ba63280",
+      "source": "BBC News",
+      "title": "US midterm results spark fears in Israel over future of two countries' ties",
+      "url": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T13:23:44+00:00"
     },
     {
       "id": "6c743b88feb1c1a67544",
@@ -201,25 +222,11 @@
       "published": "2026-11-06T09:54:00+00:00"
     },
     {
-      "id": "df4da1983a97dac0b76f",
-      "source": "BBC News",
-      "title": "Trump signs order to preserve Oval Office as national monument",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T09:19:57+00:00"
-    },
-    {
       "id": "8206b727422613016c02",
       "source": "BBC News",
       "title": "Somalia's top court rejects president's term extension amid political crisis",
       "url": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-06T08:18:10+00:00"
-    },
-    {
-      "id": "6ea1a2e1239d6e638630",
-      "source": "BBC News",
-      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T07:56:19+00:00"
     },
     {
       "id": "7e7ca2cbec30583353a2",
@@ -285,32 +292,11 @@
       "published": "2026-11-06T05:00:00+00:00"
     },
     {
-      "id": "54d16304c638bc8cc732",
-      "source": "BBC News",
-      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T02:08:57+00:00"
-    },
-    {
-      "id": "5e6b6b21c431323dd62a",
-      "source": "BBC News",
-      "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
-      "url": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T01:28:03+00:00"
-    },
-    {
       "id": "12e5d9b2c30f91988b81",
       "source": "BBC News",
       "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
       "url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-06T00:02:57+00:00"
-    },
-    {
-      "id": "3eb325c059abf6c86b6d",
-      "source": "BBC News",
-      "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
-      "url": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T23:16:53+00:00"
     },
     {
       "id": "2643ed317ab203586ff8",
@@ -341,25 +327,11 @@
       "published": "2026-11-05T21:41:00+00:00"
     },
     {
-      "id": "bcc5623a6cf851dcc55e",
-      "source": "BBC News",
-      "title": "Eight killed in series of shootings in western Turkey",
-      "url": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T19:32:54+00:00"
-    },
-    {
       "id": "309fc7471cbb903b45bf",
       "source": "BBC News",
       "title": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
       "url": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-05T18:22:46+00:00"
-    },
-    {
-      "id": "70d2830c6dd2af8313e2",
-      "source": "BBC News",
-      "title": "French protests see numbers surge as unions join strikes over high cost of living",
-      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T17:59:53+00:00"
     },
     {
       "id": "1f050f6e83b71b8eb3a8",
