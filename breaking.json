@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-06T03:15:30.852269+00:00",
+  "updated_at": "2026-11-06T03:20:25.713415+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-06T03:15:30.852269+00:00"
+      "checked_at": "2026-11-06T03:20:25.713415+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-06T03:15:30.852269+00:00"
+      "checked_at": "2026-11-06T03:20:25.713415+00:00"
     }
   },
   "items": [
+    {
+      "id": "df4da1983a97dac0b76f",
+      "source": "BBC News",
+      "title": "Trump signs order preventing future presidents from changing Oval Office",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T03:17:39+00:00"
+    },
     {
       "id": "7f6f9961d001e130eab0",
       "source": "BBC News",
@@ -31,13 +38,6 @@
       "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
       "url": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-06T01:28:03+00:00"
-    },
-    {
-      "id": "df4da1983a97dac0b76f",
-      "source": "BBC News",
-      "title": "Trump signs order preventing future presidents from changing Oval Office",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T01:20:01+00:00"
     },
     {
       "id": "12e5d9b2c30f91988b81",
