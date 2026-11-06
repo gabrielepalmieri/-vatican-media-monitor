@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-06T21:45:29.377005+00:00",
+  "updated_at": "2026-11-06T21:50:25.331593+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-06T21:45:29.377005+00:00"
+      "checked_at": "2026-11-06T21:50:25.331593+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-06T21:45:29.377005+00:00"
+      "checked_at": "2026-11-06T21:50:25.331593+00:00"
     }
   },
   "items": [
+    {
+      "id": "7872b5c78ad401c9c978",
+      "source": "BBC News",
+      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T21:49:50+00:00"
+    },
     {
       "id": "39a34e54e58acd7d5b19",
       "source": "TGcom24",
@@ -248,13 +255,6 @@
       "title": "What to know about the presidential wiretapping scandal rocking Indonesia",
       "url": "https://www.bbc.co.uk/news/articles/cwkg55155mrro?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-06T10:10:38+00:00"
-    },
-    {
-      "id": "7872b5c78ad401c9c978",
-      "source": "BBC News",
-      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T09:57:04+00:00"
     },
     {
       "id": "ed1e3129003bdeb39102",
