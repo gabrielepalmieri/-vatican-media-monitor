@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-06T06:20:25.497993+00:00",
+  "updated_at": "2026-11-06T06:25:17.378733+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-06T06:20:25.497993+00:00"
+      "checked_at": "2026-11-06T06:25:17.378733+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-06T06:20:25.497993+00:00"
+      "checked_at": "2026-11-06T06:25:17.378733+00:00"
     }
   },
   "items": [
+    {
+      "id": "ba9a2a0ef67fcd98893e",
+      "source": "BBC News",
+      "title": "Did a data centre revolt affect the US mid-term election results?",
+      "url": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T06:01:13+00:00"
+    },
     {
       "id": "92a08515a8d1f911ec6b",
       "source": "TGcom24",
@@ -26,11 +33,25 @@
       "published": "2026-11-06T06:00:59+00:00"
     },
     {
+      "id": "3ebfb008e6f835e5f2e4",
+      "source": "BBC News",
+      "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T06:00:46+00:00"
+    },
+    {
       "id": "af4535ca4a49e64b650e",
       "source": "TGcom24",
       "title": "Usa, Hegseth: \"L'impeachment non è servito con Trump e non servirà con me\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-donald-trump-pete-hegseth-impeachment_118652628-202602k.shtml",
       "published": "2026-11-06T05:32:00+00:00"
+    },
+    {
+      "id": "54577efa798e94cf1c02",
+      "source": "BBC News",
+      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
+      "url": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T05:31:59+00:00"
     },
     {
       "id": "a41acf4e295cb0e405e9",
@@ -222,13 +243,6 @@
       "published": "2026-11-05T14:34:00+00:00"
     },
     {
-      "id": "b0fb9c66e8932d622fe1",
-      "source": "BBC News",
-      "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T14:29:40+00:00"
-    },
-    {
       "id": "fa192a308ff05819b619",
       "source": "TGcom24",
       "title": "Incidenti sul lavoro, due vittime a Pavia e in provincia di Isernia",
@@ -283,20 +297,6 @@
       "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
       "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-05T03:47:56+00:00"
-    },
-    {
-      "id": "f22677b94759c947ae3b",
-      "source": "BBC News",
-      "title": "Would you take a test to see if your life will be cut short? I did - and it changed me",
-      "url": "https://www.bbc.co.uk/news/articles/cw62yq9vp7yyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T00:32:09+00:00"
-    },
-    {
-      "id": "2c29442448b3b653b1d0",
-      "source": "BBC News",
-      "title": "Why a US-funded vaccine trial on babies was cancelled in Guinea-Bissau",
-      "url": "https://www.bbc.co.uk/news/articles/cm0rlxq08ejko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T00:30:37+00:00"
     }
   ]
 }
