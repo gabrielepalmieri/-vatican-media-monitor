@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-06T14:55:19.321271+00:00",
+  "updated_at": "2026-11-06T15:01:02.692470+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-06T14:55:19.321271+00:00"
+      "checked_at": "2026-11-06T15:01:02.692470+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-06T14:55:19.321271+00:00"
+      "checked_at": "2026-11-06T15:01:02.692470+00:00"
     }
   },
   "items": [
+    {
+      "id": "8d93192a223296433931",
+      "source": "BBC News",
+      "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
+      "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T14:57:08+00:00"
+    },
     {
       "id": "2432b713659cd47d671f",
       "source": "TGcom24",
@@ -66,13 +73,6 @@
       "title": "Morte avvelenate da ricina, terminata la perquisizione nella casa dei Di Vita",
       "url": "https://www.tgcom24.mediaset.it/cronaca/morte-ricina-perquisizione-casa-di-vita_118657300-202602k.shtml",
       "published": "2026-11-06T12:49:00+00:00"
-    },
-    {
-      "id": "8d93192a223296433931",
-      "source": "BBC News",
-      "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-      "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T12:41:44+00:00"
     },
     {
       "id": "53a467d80d05187938dc",
