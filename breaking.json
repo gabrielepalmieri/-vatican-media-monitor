@@ -1,29 +1,36 @@
 {
-  "updated_at": "2026-11-06T10:15:29.221769+00:00",
+  "updated_at": "2026-11-06T10:20:28.181477+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-06T10:15:29.221769+00:00"
+      "checked_at": "2026-11-06T10:20:28.181477+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-06T10:15:29.221769+00:00"
+      "checked_at": "2026-11-06T10:20:28.181477+00:00"
     }
   },
   "items": [
+    {
+      "id": "c72ef3d44dddd1a94c3f",
+      "source": "BBC News",
+      "title": "Two dead after bus crashes in France, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T10:17:45+00:00"
+    },
+    {
+      "id": "1cfad698cde5650fb58b",
+      "source": "TGcom24",
+      "title": "Nuovo allarme bomba su aereo partito da Roma e atterrato a Lisbona",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/allarme-bomba-aereo-roma-lisbona_118662251-202602k.shtml",
+      "published": "2026-11-06T10:14:00+00:00"
+    },
     {
       "id": "8d93192a223296433931",
       "source": "BBC News",
       "title": "Tanzanian opposition leader found guilty of incitement",
       "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-06T10:05:32+00:00"
-    },
-    {
-      "id": "c72ef3d44dddd1a94c3f",
-      "source": "BBC News",
-      "title": "'Several victims' after bus crashes in France, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T09:57:11+00:00"
     },
     {
       "id": "7872b5c78ad401c9c978",
@@ -304,13 +311,6 @@
       "title": "Usa, Rubio valuta le dimissioni per prendere le distanze da Trump",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-vance-nuova-destra-hegseth-impeachment_118614446-202602k.shtml",
       "published": "2026-11-05T14:34:00+00:00"
-    },
-    {
-      "id": "fa192a308ff05819b619",
-      "source": "TGcom24",
-      "title": "Incidenti sul lavoro, due vittime a Pavia e in provincia di Isernia",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/incidenti-lavoro-due-morti-pavia-isernia_118627772-202602k.shtml",
-      "published": "2026-11-05T14:02:00+00:00"
     },
     {
       "id": "6f3121219a5846fc1a6e",
