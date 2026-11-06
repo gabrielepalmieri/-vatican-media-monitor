@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-06T15:45:31.560784+00:00",
+  "updated_at": "2026-11-06T15:50:27.943644+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-06T15:45:31.560784+00:00"
+      "checked_at": "2026-11-06T15:50:27.943644+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-06T15:45:31.560784+00:00"
+      "checked_at": "2026-11-06T15:50:27.943644+00:00"
     }
   },
   "items": [
@@ -19,11 +19,32 @@
       "published": "2026-11-06T15:33:52+00:00"
     },
     {
+      "id": "7dbb8a4d7ff42e8e70f4",
+      "source": "BBC News",
+      "title": "New wave of bomb threats hit European airlines",
+      "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T15:25:35+00:00"
+    },
+    {
       "id": "25095e037a7c7168f2b1",
       "source": "TGcom24",
       "title": "Attacchi hacker, Meloni: \"Preoccupati, prese di mira infrastrutture civili\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/allarme-bomba-aereo-media-irlanda_118662251-202602k.shtml",
       "published": "2026-11-06T15:20:00+00:00"
+    },
+    {
+      "id": "49e9458bbd172a936cba",
+      "source": "BBC News",
+      "title": "AI stocks climb after trillions wiped from market values",
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T15:04:46+00:00"
+    },
+    {
+      "id": "3a11b65f36f19cc073d7",
+      "source": "BBC News",
+      "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
+      "url": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T15:02:03+00:00"
     },
     {
       "id": "8d93192a223296433931",
@@ -325,13 +346,6 @@
       "title": "Paraguay President Santiago Peña resigns after bank collapse",
       "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-05T17:40:40+00:00"
-    },
-    {
-      "id": "2799074b8655f0fc5aaa",
-      "source": "BBC News",
-      "title": "Hoax bomb threats target European airlines and airports for second time in a week",
-      "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T17:39:48+00:00"
     },
     {
       "id": "6f3121219a5846fc1a6e",
