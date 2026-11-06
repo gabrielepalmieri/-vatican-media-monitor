@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-06T13:05:20.969142+00:00",
+  "updated_at": "2026-11-06T13:10:26.732325+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-06T13:05:20.969142+00:00"
+      "checked_at": "2026-11-06T13:10:26.732325+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-06T13:05:20.969142+00:00"
+      "checked_at": "2026-11-06T13:10:26.732325+00:00"
     }
   },
   "items": [
@@ -68,11 +68,25 @@
       "published": "2026-11-06T10:46:00+00:00"
     },
     {
+      "id": "275bd5faeddfc69ca36e",
+      "source": "BBC News",
+      "title": "Homes and temples glow across India as Diwali celebrations begin",
+      "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T10:21:30+00:00"
+    },
+    {
       "id": "1cfad698cde5650fb58b",
       "source": "TGcom24",
       "title": "Nuovo allarme bomba su aereo partito da Roma e atterrato a Lisbona",
       "url": "https://www.tgcom24.mediaset.it/cronaca/allarme-bomba-aereo-roma-lisbona_118662251-202602k.shtml",
       "published": "2026-11-06T10:14:00+00:00"
+    },
+    {
+      "id": "0ef1c938c4dfbb4616f2",
+      "source": "BBC News",
+      "title": "What to know about the presidential wiretapping scandal rocking Indonesia",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg55155mrro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T10:10:38+00:00"
     },
     {
       "id": "7872b5c78ad401c9c978",
@@ -250,13 +264,6 @@
       "published": "2026-11-05T20:26:00+00:00"
     },
     {
-      "id": "5fcd2df05e356519c060",
-      "source": "BBC News",
-      "title": "Who could be behind hoax bomb threats to European air travel?",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T19:58:40+00:00"
-    },
-    {
       "id": "bcc5623a6cf851dcc55e",
       "source": "BBC News",
       "title": "Eight killed in series of shootings in western Turkey",
@@ -332,13 +339,6 @@
       "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
       "url": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-05T10:33:21+00:00"
-    },
-    {
-      "id": "fec2c1170fae56c6cef5",
-      "source": "BBC News",
-      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-      "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T03:47:56+00:00"
     }
   ]
 }
