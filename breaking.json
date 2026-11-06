@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-06T12:25:19.449232+00:00",
+  "updated_at": "2026-11-06T12:30:49.161209+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-06T12:25:19.449232+00:00"
+      "checked_at": "2026-11-06T12:30:49.161209+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-06T12:25:19.449232+00:00"
+      "checked_at": "2026-11-06T12:30:49.161209+00:00"
     }
   },
   "items": [
+    {
+      "id": "c72ef3d44dddd1a94c3f",
+      "source": "BBC News",
+      "title": "Two dead after bus crashes in France, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T12:27:33+00:00"
+    },
     {
       "id": "f72e1af69c8031e92ded",
       "source": "BBC News",
@@ -38,13 +45,6 @@
       "title": "Reggio Emilia, picchia per anni la moglie provocandole tre aborti: arrestato",
       "url": "https://www.tgcom24.mediaset.it/cronaca/reggio-emilia-picchia-per-anni-la-moglie-provocandole-tre-aborti-arrestato_118664098-202602k.shtml",
       "published": "2026-11-06T11:26:00+00:00"
-    },
-    {
-      "id": "c72ef3d44dddd1a94c3f",
-      "source": "BBC News",
-      "title": "Two dead after bus crashes in France, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T11:21:20+00:00"
     },
     {
       "id": "5d5646c2fa435ee670c3",
