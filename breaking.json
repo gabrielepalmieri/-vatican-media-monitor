@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-06T11:50:25.020264+00:00",
+  "updated_at": "2026-11-06T11:55:19.059212+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-06T11:50:25.020264+00:00"
+      "checked_at": "2026-11-06T11:55:19.059212+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-06T11:50:25.020264+00:00"
+      "checked_at": "2026-11-06T11:55:19.059212+00:00"
     }
   },
   "items": [
+    {
+      "id": "53a467d80d05187938dc",
+      "source": "TGcom24",
+      "title": "Proteste in piazza, la Procura non ricorre contro la scarcerazione di Youssef Siher",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/procura-no-ricorso-scarcerazione-siher_118664664-202602k.shtml",
+      "published": "2026-11-06T11:53:00+00:00"
+    },
     {
       "id": "8d93192a223296433931",
       "source": "BBC News",
@@ -304,13 +311,6 @@
       "title": "Insulti social a Liliana Segre: un hater patteggia 4 mesi, un altro mille euro",
       "url": "https://www.tgcom24.mediaset.it/cronaca/liliana-segre-odio-social-hater-patteggiamento_118633711-202602k.shtml",
       "published": "2026-11-05T17:02:00+00:00"
-    },
-    {
-      "id": "4c94ab5c9d121a1669ab",
-      "source": "TGcom24",
-      "title": "Mattarella: \"Chi nasce al Sud sia libero di restarci o tornarci\"",
-      "url": "https://www.tgcom24.mediaset.it/politica/mattarella-chi-nasce-sud-libero-di-restare_118631365-202602k.shtml",
-      "published": "2026-11-05T15:56:00+00:00"
     },
     {
       "id": "6f3121219a5846fc1a6e",
