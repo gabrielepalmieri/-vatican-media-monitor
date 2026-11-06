@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-06T02:15:30.158827+00:00",
+  "updated_at": "2026-11-06T02:20:25.488495+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-06T02:15:30.158827+00:00"
+      "checked_at": "2026-11-06T02:20:25.488495+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-06T02:15:30.158827+00:00"
+      "checked_at": "2026-11-06T02:20:25.488495+00:00"
     }
   },
   "items": [
+    {
+      "id": "54d16304c638bc8cc732",
+      "source": "BBC News",
+      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T02:08:57+00:00"
+    },
     {
       "id": "7f6f9961d001e130eab0",
       "source": "BBC News",
@@ -24,6 +31,13 @@
       "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
       "url": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-06T01:28:03+00:00"
+    },
+    {
+      "id": "df4da1983a97dac0b76f",
+      "source": "BBC News",
+      "title": "Trump signs order preventing future presidents from changing Oval Office",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T01:20:01+00:00"
     },
     {
       "id": "12e5d9b2c30f91988b81",
@@ -229,13 +243,6 @@
       "published": "2026-11-05T11:34:00+00:00"
     },
     {
-      "id": "ff65eafabcc9fd4952d9",
-      "source": "BBC News",
-      "title": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g1r42jx00o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T11:21:35+00:00"
-    },
-    {
       "id": "c83ca78b9e737971df55",
       "source": "TGcom24",
       "title": "Attacchi hacker supermercati, Russia: \"Non coinvolti, accuse infondate\"",
@@ -276,13 +283,6 @@
       "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
       "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-05T03:47:56+00:00"
-    },
-    {
-      "id": "131af2013a250708e54a",
-      "source": "BBC News",
-      "title": "Australia's oldest department store David Jones folds after 188 years",
-      "url": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T00:59:22+00:00"
     },
     {
       "id": "f22677b94759c947ae3b",
