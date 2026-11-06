@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-06T05:01:03.167575+00:00",
+  "updated_at": "2026-11-06T05:05:21.391124+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-06T05:01:03.167575+00:00"
+      "checked_at": "2026-11-06T05:05:21.391124+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-06T05:01:03.167575+00:00"
+      "checked_at": "2026-11-06T05:05:21.391124+00:00"
     }
   },
   "items": [
+    {
+      "id": "a41acf4e295cb0e405e9",
+      "source": "TGcom24",
+      "title": "Iran, 40enne condannato a morte per i suoi post sui social con account anonimo",
+      "url": "https://www.tgcom24.mediaset.it/mondo/iran-condanna-a-morte-post-social-40enne-mousavi-dissenso_118650679-202602k.shtml",
+      "published": "2026-11-06T05:00:00+00:00"
+    },
     {
       "id": "df4da1983a97dac0b76f",
       "source": "BBC News",
@@ -269,13 +276,6 @@
       "title": "Istat, in calo a settembre i consumi alimentari: -0,3% su agosto",
       "url": "https://www.tgcom24.mediaset.it/economia/istat-consumi-alimentari_118613798-202602k.shtml",
       "published": "2026-11-05T09:32:00+00:00"
-    },
-    {
-      "id": "9154ca5e0ab9aa1e9496",
-      "source": "TGcom24",
-      "title": "Israele, ultraortodossi non indicano Netanyahu come premier: è rottura",
-      "url": "https://www.tgcom24.mediaset.it/mondo/israele-governo-consultazioni-netanyahu-eisenkot_118610982-202602k.shtml",
-      "published": "2026-11-05T09:01:00+00:00"
     },
     {
       "id": "fec2c1170fae56c6cef5",
