@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-06T05:35:20.458224+00:00",
+  "updated_at": "2026-11-06T05:40:24.382949+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-06T05:35:20.458224+00:00"
+      "checked_at": "2026-11-06T05:40:24.382949+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-06T05:35:20.458224+00:00"
+      "checked_at": "2026-11-06T05:40:24.382949+00:00"
     }
   },
   "items": [
+    {
+      "id": "af4535ca4a49e64b650e",
+      "source": "TGcom24",
+      "title": "Usa, Hegseth: \"L'impeachment non è servito con Trump e non servirà con me\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-donald-trump-pete-hegseth-impeachment_118652628-202602k.shtml",
+      "published": "2026-11-06T05:32:00+00:00"
+    },
     {
       "id": "a41acf4e295cb0e405e9",
       "source": "TGcom24",
@@ -269,13 +276,6 @@
       "title": "Allarmi bomba sugli aerei, allerte scattate da una mail in italiano",
       "url": "https://www.tgcom24.mediaset.it/mondo/allarme-bomba-volo-dublino-roma_118611937-202602k.shtml",
       "published": "2026-11-05T10:23:00+00:00"
-    },
-    {
-      "id": "b0ce5ade35a71e1f2edc",
-      "source": "TGcom24",
-      "title": "Istat, in calo a settembre i consumi alimentari: -0,3% su agosto",
-      "url": "https://www.tgcom24.mediaset.it/economia/istat-consumi-alimentari_118613798-202602k.shtml",
-      "published": "2026-11-05T09:32:00+00:00"
     },
     {
       "id": "fec2c1170fae56c6cef5",
