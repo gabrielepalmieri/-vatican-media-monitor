@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-07T12:20:24.689938+00:00",
+  "updated_at": "2026-11-07T12:25:17.420886+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-07T12:20:24.689938+00:00"
+      "checked_at": "2026-11-07T12:25:17.420886+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-07T12:20:24.689938+00:00"
+      "checked_at": "2026-11-07T12:25:17.420886+00:00"
     }
   },
   "items": [
+    {
+      "id": "790613c96596df99c7dd",
+      "source": "BBC News",
+      "title": "Four things we learned this week about 2028 White House race",
+      "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T12:23:28+00:00"
+    },
     {
       "id": "b0665fa454acf2960097",
       "source": "TGcom24",
@@ -241,13 +248,6 @@
       "title": "Spate of bomb threats poses serious challenge to airline industry",
       "url": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-06T16:18:44+00:00"
-    },
-    {
-      "id": "790613c96596df99c7dd",
-      "source": "BBC News",
-      "title": "Four midterms takeaways for 2028 White House race",
-      "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T16:12:22+00:00"
     },
     {
       "id": "6a1df3bd4ad38f4f6a5f",
