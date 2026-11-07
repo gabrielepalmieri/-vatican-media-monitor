@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-07T07:15:28.394837+00:00",
+  "updated_at": "2026-11-07T07:20:24.022704+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-07T07:15:28.394837+00:00"
+      "checked_at": "2026-11-07T07:20:24.022704+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-07T07:15:28.394837+00:00"
+      "checked_at": "2026-11-07T07:20:24.022704+00:00"
     }
   },
   "items": [
+    {
+      "id": "fd2736992d1a3d5a4472",
+      "source": "BBC News",
+      "title": "Paraguay's President Santiago Peña impeached and arrested after bank collapse",
+      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T07:20:00+00:00"
+    },
     {
       "id": "e8c208b0fe2255559eb2",
       "source": "BBC News",
@@ -45,13 +52,6 @@
       "title": "Papa Leone a Montevideo: \"Chi governa ha responsabilità per generazioni future\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/papa-leone-montevideo-salute-midterm_118678128-202602k.shtml",
       "published": "2026-11-07T05:00:00+00:00"
-    },
-    {
-      "id": "fd2736992d1a3d5a4472",
-      "source": "BBC News",
-      "title": "Paraguay's President Santiago Peña impeached and arrested",
-      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-07T03:25:00+00:00"
     },
     {
       "id": "f122b12944700d0e5db2",
