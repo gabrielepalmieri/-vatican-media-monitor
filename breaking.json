@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-07T10:15:28.594071+00:00",
+  "updated_at": "2026-11-07T10:20:23.825937+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-07T10:15:28.594071+00:00"
+      "checked_at": "2026-11-07T10:20:23.825937+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-07T10:15:28.594071+00:00"
+      "checked_at": "2026-11-07T10:20:23.825937+00:00"
     }
   },
   "items": [
@@ -194,13 +194,6 @@
       "published": "2026-11-06T17:44:02+00:00"
     },
     {
-      "id": "f47c3cd61df209b1d58b",
-      "source": "BBC News",
-      "title": "Nigerian court rules opposition candidate cannot stand in elections",
-      "url": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T17:35:55+00:00"
-    },
-    {
       "id": "0a71e4923a27c956d1fd",
       "source": "TGcom24",
       "title": "Yemen, Houthi: \"Almeno 30 morti e 8 feriti nell'attacco al mercato a Taiz\"",
@@ -220,6 +213,13 @@
       "title": "Allarmi bomba, indaga anche la procura nazionale antimafia e antiterrorismo",
       "url": "https://www.tgcom24.mediaset.it/cronaca/allarme-bomba-aereo-media-irlanda_118662251-202602k.shtml",
       "published": "2026-11-06T16:40:00+00:00"
+    },
+    {
+      "id": "f4b728d8b9913157b4c6",
+      "source": "BBC News",
+      "title": "Spate of bomb threats poses serious challenge to airline industry",
+      "url": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T16:18:44+00:00"
     },
     {
       "id": "790613c96596df99c7dd",
@@ -318,41 +318,6 @@
       "title": "Russian extremist group denies sending hoax bomb threats",
       "url": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-06T12:51:38+00:00"
-    },
-    {
-      "id": "8206b727422613016c02",
-      "source": "BBC News",
-      "title": "Somalia's top court rejects president's term extension amid political crisis",
-      "url": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T08:18:10+00:00"
-    },
-    {
-      "id": "7e7ca2cbec30583353a2",
-      "source": "BBC News",
-      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
-      "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T07:33:41+00:00"
-    },
-    {
-      "id": "84a5bf2c1ea00873a681",
-      "source": "BBC News",
-      "title": "Macau jails pro-democracy campaigner in city's first national security case",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T06:46:21+00:00"
-    },
-    {
-      "id": "12e5d9b2c30f91988b81",
-      "source": "BBC News",
-      "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
-      "url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T00:02:57+00:00"
-    },
-    {
-      "id": "2643ed317ab203586ff8",
-      "source": "BBC News",
-      "title": "California governor commutes sentences for state's 548 death row inmates",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-05T23:09:33+00:00"
     }
   ]
 }
