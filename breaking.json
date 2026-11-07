@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-07T15:00:58.672869+00:00",
+  "updated_at": "2026-11-07T15:05:24.480545+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-07T15:00:58.672869+00:00"
+      "checked_at": "2026-11-07T15:05:24.480545+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-07T15:00:58.672869+00:00"
+      "checked_at": "2026-11-07T15:05:24.480545+00:00"
     }
   },
   "items": [
+    {
+      "id": "a34fdd651105444ecb84",
+      "source": "BBC News",
+      "title": "No clear winner after tight New Zealand general election",
+      "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T15:00:10+00:00"
+    },
+    {
+      "id": "8aa48e36c4622832afb2",
+      "source": "TGcom24",
+      "title": "Il ministro tedesco Pistorius: \"Non possiamo più dare Patriot all'Ucraina\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-ucraina-russia-ultime-notizie-7-novembre_118687282-202602k.shtml",
+      "published": "2026-11-07T14:57:00+00:00"
+    },
     {
       "id": "618689f7331946c9d312",
       "source": "TGcom24",
@@ -241,13 +255,6 @@
       "title": "Gas, Pichetto: \"Se altri paesi ce lo chiedono per solidarietà, dobbiamo darlo\"",
       "url": "https://www.tgcom24.mediaset.it/politica/gas-pichetto-solidarieta_118677732-202602k.shtml",
       "published": "2026-11-06T18:25:00+00:00"
-    },
-    {
-      "id": "dd85b5407f1ddaf62201",
-      "source": "TGcom24",
-      "title": "Allarmi bomba, Ue: \"Prossima settimana riunione esperti sulla sicurezza aerea\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/allarme-bomba-aereo-media-irlanda_118662251-202602k.shtml",
-      "published": "2026-11-06T17:55:00+00:00"
     },
     {
       "id": "dd1f68ef812a85b5a20f",
