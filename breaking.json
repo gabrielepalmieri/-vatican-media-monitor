@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-07T14:20:25.669952+00:00",
+  "updated_at": "2026-11-07T14:25:17.673503+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-07T14:20:25.669952+00:00"
+      "checked_at": "2026-11-07T14:25:17.673503+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-07T14:20:25.669952+00:00"
+      "checked_at": "2026-11-07T14:25:17.673503+00:00"
     }
   },
   "items": [
+    {
+      "id": "618689f7331946c9d312",
+      "source": "TGcom24",
+      "title": "Alluvione a Gaza, allagate 70mila tende dove vivono gli sfollati",
+      "url": "https://www.tgcom24.mediaset.it/2026/video/gaza-allagate-dalle-piogge-70mila-tende-dove-vivono-gli-sfollati_118703533-02k.shtml",
+      "published": "2026-11-07T14:20:00+00:00"
+    },
     {
       "id": "128db103cd57b1683d15",
       "source": "TGcom24",
@@ -248,13 +255,6 @@
       "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
       "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-06T17:44:02+00:00"
-    },
-    {
-      "id": "0a71e4923a27c956d1fd",
-      "source": "TGcom24",
-      "title": "Yemen, Houthi: \"Almeno 30 morti e 8 feriti nell'attacco al mercato a Taiz\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/yemen-attacco-mercato-saiz-houthi_118676105-202602k.shtml",
-      "published": "2026-11-06T17:25:00+00:00"
     },
     {
       "id": "243cd267d7def84672dc",
