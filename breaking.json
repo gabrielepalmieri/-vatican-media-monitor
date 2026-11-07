@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-07T12:50:24.623315+00:00",
+  "updated_at": "2026-11-07T12:55:19.137133+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-07T12:50:24.623315+00:00"
+      "checked_at": "2026-11-07T12:55:19.137133+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-07T12:50:24.623315+00:00"
+      "checked_at": "2026-11-07T12:55:19.137133+00:00"
     }
   },
   "items": [
+    {
+      "id": "d688cd3036af8c19d600",
+      "source": "BBC News",
+      "title": "Ukraine's power network suffers further damage after fresh Russian strikes",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T12:49:36+00:00"
+    },
     {
       "id": "69e209d24cea548eef07",
       "source": "TGcom24",
