@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-07T16:55:18.034387+00:00",
+  "updated_at": "2026-11-07T17:00:58.677013+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-07T16:55:18.034387+00:00"
+      "checked_at": "2026-11-07T17:00:58.677013+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-07T16:55:18.034387+00:00"
+      "checked_at": "2026-11-07T17:00:58.677013+00:00"
     }
   },
   "items": [
+    {
+      "id": "6a9cc9b2c9cd6a9f1556",
+      "source": "BBC News",
+      "title": "Italian foreign minister says hackers leaked his personal data",
+      "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T16:50:06+00:00"
+    },
     {
       "id": "a34fdd651105444ecb84",
       "source": "BBC News",
@@ -24,6 +31,13 @@
       "title": "Sparatoria nel centro di Cracovia: due morti e diversi feriti",
       "url": "https://www.tgcom24.mediaset.it/mondo/sparatoria-polonia-cracovia-morti-feriti_118706777-202602k.shtml",
       "published": "2026-11-07T15:30:00+00:00"
+    },
+    {
+      "id": "37e7fd8310bae7be0439",
+      "source": "BBC News",
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T15:19:35+00:00"
     },
     {
       "id": "8aa48e36c4622832afb2",
@@ -201,13 +215,6 @@
       "published": "2026-11-07T01:19:49+00:00"
     },
     {
-      "id": "878c8323e31f969915ea",
-      "source": "BBC News",
-      "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
-      "url": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T23:46:08+00:00"
-    },
-    {
       "id": "3f549aae98b404211279",
       "source": "BBC News",
       "title": "With Stephen Miller pick, Trump readies for a battle",
@@ -271,20 +278,6 @@
       "published": "2026-11-06T16:18:44+00:00"
     },
     {
-      "id": "c72ef3d44dddd1a94c3f",
-      "source": "BBC News",
-      "title": "Two dead after bus crashes in France, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T15:33:52+00:00"
-    },
-    {
-      "id": "54577efa798e94cf1c02",
-      "source": "BBC News",
-      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
-      "url": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T15:30:42+00:00"
-    },
-    {
       "id": "7dbb8a4d7ff42e8e70f4",
       "source": "BBC News",
       "title": "New wave of bomb threats hit European airlines",
@@ -311,13 +304,6 @@
       "title": "US midterm results spark fears in Israel over future of two countries' ties",
       "url": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-06T13:23:44+00:00"
-    },
-    {
-      "id": "5df3d86a715a91151767",
-      "source": "BBC News",
-      "title": "Russian extremist group denies sending hoax bomb threats",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T12:51:38+00:00"
     }
   ]
 }
