@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-07T21:10:24.608708+00:00",
+  "updated_at": "2026-11-07T21:15:30.054959+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-07T21:10:24.608708+00:00"
+      "checked_at": "2026-11-07T21:15:30.054959+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-07T21:10:24.608708+00:00"
+      "checked_at": "2026-11-07T21:15:30.054959+00:00"
     }
   },
   "items": [
+    {
+      "id": "992b1f34b0457d4bf0e9",
+      "source": "BBC News",
+      "title": "What we know so far after three bodies found at home of Krakow gunman",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T21:13:24+00:00"
+    },
     {
       "id": "19197ede475a33f7f666",
       "source": "TGcom24",
       "title": "Sparatoria a Cracovia, in piazza anche una scolaresca italiana: \"Stanno tutti bene\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/sparatoria-polonia-cracovia-morti-feriti_118706777-202602k.shtml",
       "published": "2026-11-07T20:28:00+00:00"
-    },
-    {
-      "id": "992b1f34b0457d4bf0e9",
-      "source": "BBC News",
-      "title": "What we know so far after Polish gunman opens fire in Krakow main square",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-07T20:23:17+00:00"
     },
     {
       "id": "ba4f7f628719b8047346",
