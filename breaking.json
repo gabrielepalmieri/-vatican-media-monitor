@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-07T08:30:44.416322+00:00",
+  "updated_at": "2026-11-07T08:35:18.680443+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-07T08:30:44.416322+00:00"
+      "checked_at": "2026-11-07T08:35:18.680443+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-07T08:30:44.416322+00:00"
+      "checked_at": "2026-11-07T08:35:18.680443+00:00"
     }
   },
   "items": [
+    {
+      "id": "14292f611e732f2ec1e0",
+      "source": "TGcom24",
+      "title": "Cyberattacchi, i servizi europei indagano sulla pista russa degli allarmi bomba",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/cyberattacchi-servizi-indagano-pista-russa_118692632-202602k.shtml",
+      "published": "2026-11-07T08:00:00+00:00"
+    },
     {
       "id": "fd2736992d1a3d5a4472",
       "source": "BBC News",
@@ -311,13 +318,6 @@
       "title": "Morte avvelenate da ricina, terminata la perquisizione nella casa dei Di Vita",
       "url": "https://www.tgcom24.mediaset.it/cronaca/morte-ricina-perquisizione-casa-di-vita_118657300-202602k.shtml",
       "published": "2026-11-06T12:49:00+00:00"
-    },
-    {
-      "id": "53a467d80d05187938dc",
-      "source": "TGcom24",
-      "title": "Proteste in piazza, la Procura non ricorre contro la scarcerazione di Youssef Siher",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/procura-no-ricorso-scarcerazione-siher_118664664-202602k.shtml",
-      "published": "2026-11-06T11:53:00+00:00"
     },
     {
       "id": "8206b727422613016c02",
