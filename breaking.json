@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-07T17:50:26.460509+00:00",
+  "updated_at": "2026-11-07T17:55:17.383726+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-07T17:50:26.460509+00:00"
+      "checked_at": "2026-11-07T17:55:17.383726+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-07T17:50:26.460509+00:00"
+      "checked_at": "2026-11-07T17:55:17.383726+00:00"
     }
   },
   "items": [
+    {
+      "id": "6b9c44bd93a0c50eba3a",
+      "source": "TGcom24",
+      "title": "Carburanti, proroga finita: scade il taglio delle accise sul gasolio",
+      "url": "https://www.tgcom24.mediaset.it/economia/carburanti-scade-taglio-accise-gasolio_118712240-202602k.shtml",
+      "published": "2026-11-07T17:50:00+00:00"
+    },
     {
       "id": "0cb32c218c564ba10b00",
       "source": "TGcom24",
@@ -255,13 +262,6 @@
       "title": "AI stocks climb after trillions wiped from market values",
       "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-06T21:06:25+00:00"
-    },
-    {
-      "id": "315a4b82ab343815bda6",
-      "source": "TGcom24",
-      "title": "Usa, Trump nomina Stephen Miller nuovo capo di gabinetto della Casa Bianca",
-      "url": "https://www.tgcom24.mediaset.it/mondo/usa-donald-trump-pete-hegseth-impeachment_118652628-202602k.shtml",
-      "published": "2026-11-06T20:40:00+00:00"
     },
     {
       "id": "dd1f68ef812a85b5a20f",
