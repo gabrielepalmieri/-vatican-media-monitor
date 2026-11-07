@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-07T17:05:19.191779+00:00",
+  "updated_at": "2026-11-07T17:10:25.709264+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-07T17:05:19.191779+00:00"
+      "checked_at": "2026-11-07T17:10:25.709264+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-07T17:05:19.191779+00:00"
+      "checked_at": "2026-11-07T17:10:25.709264+00:00"
     }
   },
   "items": [
+    {
+      "id": "0cb32c218c564ba10b00",
+      "source": "TGcom24",
+      "title": "Cresce l'allerta per i cyberattacchi, l'Europol convoca un vertice",
+      "url": "https://www.tgcom24.mediaset.it/mondo/cyberattacchi-europol-vertice_118709399-202602k.shtml",
+      "published": "2026-11-07T17:04:00+00:00"
+    },
     {
       "id": "6a9cc9b2c9cd6a9f1556",
       "source": "BBC News",
@@ -255,13 +262,6 @@
       "title": "Usa, Trump nomina Stephen Miller nuovo capo di gabinetto della Casa Bianca",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-donald-trump-pete-hegseth-impeachment_118652628-202602k.shtml",
       "published": "2026-11-06T20:40:00+00:00"
-    },
-    {
-      "id": "ac29ebada16875fee4ed",
-      "source": "TGcom24",
-      "title": "Papa Leone: \"Fiero di essere americano e di avere votato\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/papa-leone-montevideo-salute-midterm_118678128-202602k.shtml",
-      "published": "2026-11-06T20:04:00+00:00"
     },
     {
       "id": "dd1f68ef812a85b5a20f",
