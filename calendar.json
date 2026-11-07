@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-06T12:54:13.757121+00:00",
+  "updated_at": "2026-11-07T01:52:01.628685+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-11-06T12:54:13.757121+00:00",
+  "un_verified_at": "2026-11-07T01:52:01.628685+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,22 +1918,6 @@
     }
   ],
   "days": {
-    "2026-11-05": {
-      "saints": [
-        {
-          "title": "Ss. Donnino, Teotimo e Compagni, martiri",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/05/ss--donnino--teotimo-e-compagni--martiri.html"
-        }
-      ],
-      "un": [
-        {
-          "title": "Giornata mondiale della consapevolezza sugli tsunami",
-          "url": "https://www.un.org/en/observances/tsunami-awareness-day"
-        }
-      ],
-      "un_available": true,
-      "holy_see": []
-    },
     "2026-11-06": {
       "saints": [
         {
@@ -2639,6 +2623,42 @@
         {
           "title": "Giornata internazionale della montagna",
           "url": "https://www.un.org/en/observances/mountain-day"
+        }
+      ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-12-12": {
+      "saints": [
+        {
+          "title": "Beata Maria Vergine di Guadalupe",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/12/beata-maria-vergine-di-guadalupe.html"
+        },
+        {
+          "title": "San Vicelino, vescovo di Oldenburg",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/12.html"
+        },
+        {
+          "title": "Beato Bartolo Buonpedoni",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/12.html"
+        },
+        {
+          "title": "San Simone Phan Dàc Hòa, martire",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/12.html"
+        },
+        {
+          "title": "Beato Pio Bartosik, sacerdote dell’Ordine dei Frati Minori Conventuali e martire",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/12.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata internazionale della neutralità",
+          "url": "https://www.un.org/en/observances/neutrality-day"
+        },
+        {
+          "title": "Giornata internazionale della copertura sanitaria universale",
+          "url": "https://www.un.org/en/observances/universal-health-coverage-day"
         }
       ],
       "un_available": true,
