@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-07T06:05:18.341138+00:00",
+  "updated_at": "2026-11-07T06:10:25.301776+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-07T06:05:18.341138+00:00"
+      "checked_at": "2026-11-07T06:10:25.301776+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-07T06:05:18.341138+00:00"
+      "checked_at": "2026-11-07T06:10:25.301776+00:00"
     }
   },
   "items": [
+    {
+      "id": "106928829ecdb8b4e267",
+      "source": "TGcom24",
+      "title": "Iran, due missili colpiscono l'isola di Qeshm: Trump conferma l'attacco",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-ultime-notizie-7-novembre_118687285-202602k.shtml",
+      "published": "2026-11-07T06:00:00+00:00"
+    },
     {
       "id": "ed7eb43e1069740a1d3e",
       "source": "TGcom24",
@@ -304,13 +311,6 @@
       "title": "Ucraina, sale a 53 morti e 50 dispersi il bilancio del raid russo su Komyshuvakha",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-ucraina-russia-ultime-notizie-6-novembre_118662253-202602k.shtml",
       "published": "2026-11-06T10:46:00+00:00"
-    },
-    {
-      "id": "1cfad698cde5650fb58b",
-      "source": "TGcom24",
-      "title": "Nuovo allarme bomba su aereo partito da Roma e atterrato a Lisbona",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/allarme-bomba-aereo-roma-lisbona_118662251-202602k.shtml",
-      "published": "2026-11-06T10:14:00+00:00"
     },
     {
       "id": "8206b727422613016c02",
