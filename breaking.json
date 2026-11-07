@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-07T19:35:17.740886+00:00",
+  "updated_at": "2026-11-07T19:40:24.110548+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-07T19:35:17.740886+00:00"
+      "checked_at": "2026-11-07T19:40:24.110548+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-07T19:35:17.740886+00:00"
+      "checked_at": "2026-11-07T19:40:24.110548+00:00"
     }
   },
   "items": [
+    {
+      "id": "992b1f34b0457d4bf0e9",
+      "source": "BBC News",
+      "title": "What we know about Krakow mass shooting so far",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T19:37:20+00:00"
+    },
     {
       "id": "fd2736992d1a3d5a4472",
       "source": "BBC News",
@@ -24,13 +31,6 @@
       "title": "Cisgiordania, pronti a rientrare in Italia i sei attivisti arrestati",
       "url": "https://www.tgcom24.mediaset.it/mondo/cisgiordania-italia-attivisti-arrestati_118714193-202602k.shtml",
       "published": "2026-11-07T18:37:00+00:00"
-    },
-    {
-      "id": "992b1f34b0457d4bf0e9",
-      "source": "BBC News",
-      "title": "What we know about Krakow mass shooting so far",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-07T18:22:11+00:00"
     },
     {
       "id": "bbf360e56b00ae530825",
