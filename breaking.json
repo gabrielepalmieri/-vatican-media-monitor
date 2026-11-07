@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-07T18:35:19.503615+00:00",
+  "updated_at": "2026-11-07T18:40:29.000113+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-07T18:35:19.503615+00:00"
+      "checked_at": "2026-11-07T18:40:29.000113+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-07T18:35:19.503615+00:00"
+      "checked_at": "2026-11-07T18:40:29.000113+00:00"
     }
   },
   "items": [
+    {
+      "id": "2b6ada12547a1bb9304c",
+      "source": "TGcom24",
+      "title": "Cisgiordania, pronti a rientrare in Italia i sei attivisti arrestati",
+      "url": "https://www.tgcom24.mediaset.it/mondo/cisgiordania-italia-attivisti-arrestati_118714193-202602k.shtml",
+      "published": "2026-11-07T18:37:00+00:00"
+    },
     {
       "id": "992b1f34b0457d4bf0e9",
       "source": "BBC News",
@@ -276,13 +283,6 @@
       "title": "Paraguay, il Senato approva l'impeachment per il presidente Santiago Peña",
       "url": "https://www.tgcom24.mediaset.it/mondo/paraguay-restituzione-fondi_118683129-202602k.shtml",
       "published": "2026-11-06T22:30:00+00:00"
-    },
-    {
-      "id": "39a34e54e58acd7d5b19",
-      "source": "TGcom24",
-      "title": "Paraguay, crac Ueno Bank: iniziata restituzione dei fondi a risparmiatori",
-      "url": "https://www.tgcom24.mediaset.it/mondo/paraguay-restituzione-fondi_118683129-202602k.shtml",
-      "published": "2026-11-06T21:10:00+00:00"
     },
     {
       "id": "49e9458bbd172a936cba",
