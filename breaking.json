@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-07T18:20:24.675232+00:00",
+  "updated_at": "2026-11-07T18:25:18.862279+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-07T18:20:24.675232+00:00"
+      "checked_at": "2026-11-07T18:25:18.862279+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-07T18:20:24.675232+00:00"
+      "checked_at": "2026-11-07T18:25:18.862279+00:00"
     }
   },
   "items": [
+    {
+      "id": "992b1f34b0457d4bf0e9",
+      "source": "BBC News",
+      "title": "What we know about Krakow mass shooting so far",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T18:22:11+00:00"
+    },
     {
       "id": "bbf360e56b00ae530825",
       "source": "BBC News",
@@ -31,13 +38,6 @@
       "title": "Carburanti, proroga finita: scade il taglio delle accise sul gasolio",
       "url": "https://www.tgcom24.mediaset.it/economia/carburanti-scade-taglio-accise-gasolio_118712240-202602k.shtml",
       "published": "2026-11-07T17:50:00+00:00"
-    },
-    {
-      "id": "992b1f34b0457d4bf0e9",
-      "source": "BBC News",
-      "title": "What we know about Krakow mass shooting so far",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-07T17:48:29+00:00"
     },
     {
       "id": "6c90a191bb821993b9ab",
@@ -192,6 +192,13 @@
       "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
       "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-07T07:27:44+00:00"
+    },
+    {
+      "id": "fd2736992d1a3d5a4472",
+      "source": "BBC News",
+      "title": "Paraguay's president impeached and under house arrest after bank collapse",
+      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T07:20:00+00:00"
     },
     {
       "id": "d148fb035044e06dbcd1",
