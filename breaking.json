@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-07T19:50:25.592169+00:00",
+  "updated_at": "2026-11-07T19:55:17.545775+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-07T19:50:25.592169+00:00"
+      "checked_at": "2026-11-07T19:55:17.545775+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-07T19:50:25.592169+00:00"
+      "checked_at": "2026-11-07T19:55:17.545775+00:00"
     }
   },
   "items": [
+    {
+      "id": "992b1f34b0457d4bf0e9",
+      "source": "BBC News",
+      "title": "What we know so far after Polish gunman in military clothing opens fire in Krakow",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T19:51:44+00:00"
+    },
     {
       "id": "ba4f7f628719b8047346",
       "source": "TGcom24",
       "title": "Israele, Herzog affida il governo a Eisenkot, incarico domenica alle 17",
       "url": "https://www.tgcom24.mediaset.it/mondo/israele-herzog-affida-il-governo-a-eisenkot-incarico-domenica-alle-17_118718193-202602k.shtml",
       "published": "2026-11-07T19:41:00+00:00"
-    },
-    {
-      "id": "992b1f34b0457d4bf0e9",
-      "source": "BBC News",
-      "title": "What we know about Krakow mass shooting so far",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-07T19:40:10+00:00"
     },
     {
       "id": "fd2736992d1a3d5a4472",
