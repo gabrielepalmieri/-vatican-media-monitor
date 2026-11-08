@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-08T09:30:44.621030+00:00",
+  "updated_at": "2026-11-08T09:35:17.781145+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-08T09:30:44.621030+00:00"
+      "checked_at": "2026-11-08T09:35:17.781145+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-08T09:30:44.621030+00:00"
+      "checked_at": "2026-11-08T09:35:17.781145+00:00"
     }
   },
   "items": [
+    {
+      "id": "5189b018a1aca2385225",
+      "source": "BBC News",
+      "title": "How the deadly shooting in Krakow unfolded",
+      "url": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T09:29:24+00:00"
+    },
     {
       "id": "9ea051ab10cc31874a69",
       "source": "TGcom24",
