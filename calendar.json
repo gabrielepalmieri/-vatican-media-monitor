@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-07T11:41:22.998972+00:00",
+  "updated_at": "2026-11-08T01:23:14.669205+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-11-07T11:41:22.998972+00:00",
+  "un_verified_at": "2026-11-08T01:23:14.669205+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,22 +1918,6 @@
     }
   ],
   "days": {
-    "2026-11-06": {
-      "saints": [
-        {
-          "title": "San Leonardo, eremita",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/06/san-leonardo--eremita.html"
-        }
-      ],
-      "un": [
-        {
-          "title": "Giornata internazionale per la prevenzione dello sfruttamento dell’ambiente in guerra e nei conflitti armati",
-          "url": "https://www.un.org/en/observances/environment-in-war-protection-day"
-        }
-      ],
-      "un_available": true,
-      "holy_see": []
-    },
     "2026-11-07": {
       "saints": [
         {
@@ -2661,6 +2645,21 @@
           "url": "https://www.un.org/en/observances/universal-health-coverage-day"
         }
       ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-12-13": {
+      "saints": [
+        {
+          "title": "Santa Lucia, vergine e martire di Siracusa",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/13/santa-lucia--vergine-e-martire-di-siracusa.html"
+        },
+        {
+          "title": "Sant'Aristone, martire di Porto",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/13.html"
+        }
+      ],
+      "un": [],
       "un_available": true,
       "holy_see": []
     }
