@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-08T10:05:18.439897+00:00",
+  "updated_at": "2026-11-08T10:10:25.670843+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-08T10:05:18.439897+00:00"
+      "checked_at": "2026-11-08T10:10:25.670843+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-08T10:05:18.439897+00:00"
+      "checked_at": "2026-11-08T10:10:25.670843+00:00"
     }
   },
   "items": [
+    {
+      "id": "db26dcaf908b5dbfc25e",
+      "source": "TGcom24",
+      "title": "Cracovia, il poliziotto eroe lotta per la vita: appello per donare sangue",
+      "url": "https://www.tgcom24.mediaset.it/mondo/strage-cracovia-poliziotto-eroe-grave_118727324-202602k.shtml",
+      "published": "2026-11-08T10:05:00+00:00"
+    },
     {
       "id": "3251a1d41f9ecdf8b427",
       "source": "TGcom24",
@@ -248,13 +255,6 @@
       "title": "Vicenza, accoltella la compagna e le frattura il cranio: arrestato",
       "url": "https://www.tgcom24.mediaset.it/cronaca/vicenza-accoltella-la-compagna-e-le-frattura-il-cranio-arrestato_118700899-202602k.shtml",
       "published": "2026-11-07T12:35:00+00:00"
-    },
-    {
-      "id": "b0665fa454acf2960097",
-      "source": "TGcom24",
-      "title": "Stima Codacons: bolletta invernale media del gas sale a 860 euro a famiglia",
-      "url": "https://www.tgcom24.mediaset.it/economia/gas-bolletta-media-inverno-costo-famiglia_118698213-202602k.shtml",
-      "published": "2026-11-07T11:40:00+00:00"
     },
     {
       "id": "f43375c0c4d46feaad6a",
