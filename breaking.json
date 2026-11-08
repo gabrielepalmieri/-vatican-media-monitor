@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-08T06:15:28.741319+00:00",
+  "updated_at": "2026-11-08T06:20:24.168029+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-08T06:15:28.741319+00:00"
+      "checked_at": "2026-11-08T06:20:24.168029+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-08T06:15:28.741319+00:00"
+      "checked_at": "2026-11-08T06:20:24.168029+00:00"
     }
   },
   "items": [
+    {
+      "id": "045ad97c8b14ed06a914",
+      "source": "TGcom24",
+      "title": "Iran, giustiziati tre uomini accusati di legami con Usa e Israele",
+      "url": "https://www.tgcom24.mediaset.it/mondo/iran-giustiziati-tre-uomini-per-legami-usa_118726109-202602k.shtml",
+      "published": "2026-11-08T06:15:00+00:00"
+    },
     {
       "id": "197570f3b8b9d2d215b6",
       "source": "TGcom24",
@@ -234,13 +241,6 @@
       "title": "Scampia, maxi sequestro di cocaina: 84 chili nascosti in un'auto rubata",
       "url": "https://www.tgcom24.mediaset.it/cronaca/napoli-scampia-sequestrati-84-kg-cocaina_118693244-202602k.shtml",
       "published": "2026-11-07T09:07:00+00:00"
-    },
-    {
-      "id": "e21cb4448148831c9e07",
-      "source": "TGcom24",
-      "title": "Ucraina, Kiev: intercettati 149 droni e 4 missili russi su 172 lanciati",
-      "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-kiev-intercetta-droni-russi_118692637-202602k.shtml",
-      "published": "2026-11-07T08:39:00+00:00"
     },
     {
       "id": "f43375c0c4d46feaad6a",
