@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-08T10:30:44.167777+00:00",
+  "updated_at": "2026-11-08T10:35:18.860854+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-08T10:30:44.167777+00:00"
+      "checked_at": "2026-11-08T10:35:18.860854+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-08T10:30:44.167777+00:00"
+      "checked_at": "2026-11-08T10:35:18.860854+00:00"
     }
   },
   "items": [
+    {
+      "id": "1270346836b8e1bd3ee1",
+      "source": "TGcom24",
+      "title": "Ucraina, le autorità: \"600mila persone senza elettricità per gli attacchi della Russia\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-mosca-attacca-sottostazione-elettrica-kiev_118726307-202602k.shtml",
+      "published": "2026-11-08T10:30:00+00:00"
+    },
     {
       "id": "db26dcaf908b5dbfc25e",
       "source": "TGcom24",
@@ -248,13 +255,6 @@
       "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
       "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-07T12:49:36+00:00"
-    },
-    {
-      "id": "69e209d24cea548eef07",
-      "source": "TGcom24",
-      "title": "Vicenza, accoltella la compagna e le frattura il cranio: arrestato",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/vicenza-accoltella-la-compagna-e-le-frattura-il-cranio-arrestato_118700899-202602k.shtml",
-      "published": "2026-11-07T12:35:00+00:00"
     },
     {
       "id": "f43375c0c4d46feaad6a",
