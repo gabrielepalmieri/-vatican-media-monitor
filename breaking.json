@@ -1,20 +1,27 @@
 {
-  "updated_at": "2026-11-08T23:25:17.395562+00:00",
+  "updated_at": "2026-11-08T23:30:43.412223+00:00",
   "sources": {
     "TGcom24": {
-      "ok": false,
-      "checked_at": "2026-11-08T23:25:17.395562+00:00"
+      "ok": true,
+      "checked_at": "2026-11-08T23:30:43.412223+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-08T23:25:17.395562+00:00"
+      "checked_at": "2026-11-08T23:30:43.412223+00:00"
     }
   },
   "items": [
     {
+      "id": "14a47329e81adbae26fd",
+      "source": "TGcom24",
+      "title": "Gaza, cumulo di sabbia crolla sulle tende: muoiono tre bambini e due donne",
+      "url": "https://www.tgcom24.mediaset.it/2026/video/gaza-crollo-sabbia-tendopoli-morti_118779519-02k.shtml",
+      "published": "2026-11-08T23:28:00+00:00"
+    },
+    {
       "id": "9b174873764e49211582",
       "source": "TGcom24",
-      "title": "Vicenza, picchia e ferisce la moglie: la figlia di 9 anni chiama il 112 e lo fa arrestare",
+      "title": "Vicenza, picchia la moglie: la figlia di 9 anni chiama il 112 e lo fa arrestare",
       "url": "https://www.tgcom24.mediaset.it/cronaca/vicenza-picchia-moglie-figlia-chiama-polizia-arresto_118755214-202602k.shtml",
       "published": "2026-11-08T22:56:00+00:00"
     },
@@ -178,13 +185,6 @@
       "title": "Ucraina, le autorità: \"600mila persone senza elettricità per gli attacchi della Russia\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-mosca-attacca-sottostazione-elettrica-kiev_118726307-202602k.shtml",
       "published": "2026-11-08T10:30:00+00:00"
-    },
-    {
-      "id": "db26dcaf908b5dbfc25e",
-      "source": "TGcom24",
-      "title": "Cracovia, il poliziotto eroe lotta per la vita: appello per donare sangue",
-      "url": "https://www.tgcom24.mediaset.it/mondo/strage-cracovia-poliziotto-eroe-grave_118727324-202602k.shtml",
-      "published": "2026-11-08T10:05:00+00:00"
     },
     {
       "id": "5189b018a1aca2385225",
