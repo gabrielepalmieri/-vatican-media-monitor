@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-08T22:05:17.928963+00:00",
+  "updated_at": "2026-11-08T22:10:25.436604+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-08T22:05:17.928963+00:00"
+      "checked_at": "2026-11-08T22:10:25.436604+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-08T22:05:17.928963+00:00"
+      "checked_at": "2026-11-08T22:10:25.436604+00:00"
     }
   },
   "items": [
+    {
+      "id": "dcb45259d965bfb46e6c",
+      "source": "BBC News",
+      "title": "Doctor who treated victims of Krakow shooting speaks to the BBC",
+      "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T22:05:12+00:00"
+    },
     {
       "id": "313afeb4564e0f40d6bd",
       "source": "TGcom24",
