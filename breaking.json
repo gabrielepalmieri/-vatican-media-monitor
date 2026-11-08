@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-08T01:45:28.535723+00:00",
+  "updated_at": "2026-11-08T01:50:25.305945+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-08T01:45:28.535723+00:00"
+      "checked_at": "2026-11-08T01:50:25.305945+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-08T01:45:28.535723+00:00"
+      "checked_at": "2026-11-08T01:50:25.305945+00:00"
     }
   },
   "items": [
+    {
+      "id": "992b1f34b0457d4bf0e9",
+      "source": "BBC News",
+      "title": "What we know so far after Krakow gun attack",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T01:47:41+00:00"
+    },
     {
       "id": "c33c9fe2279a1665c162",
       "source": "TGcom24",
       "title": "Usa, Trump vuole il boss delle arti marziali alla Casa Bianca come portavoce",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-arti-marziali-portavoce_118725859-202602k.shtml",
       "published": "2026-11-07T23:09:00+00:00"
-    },
-    {
-      "id": "992b1f34b0457d4bf0e9",
-      "source": "BBC News",
-      "title": "What we know so far after Krakow gun attack",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-07T22:58:49+00:00"
     },
     {
       "id": "5ae71b060ff5f29ea353",
