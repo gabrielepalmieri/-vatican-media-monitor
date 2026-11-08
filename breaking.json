@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-08T14:32:58.283549+00:00",
+  "updated_at": "2026-11-08T14:35:17.438049+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-08T14:32:58.283549+00:00"
+      "checked_at": "2026-11-08T14:35:17.438049+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-08T14:32:58.283549+00:00"
+      "checked_at": "2026-11-08T14:35:17.438049+00:00"
     }
   },
   "items": [
+    {
+      "id": "992b1f34b0457d4bf0e9",
+      "source": "BBC News",
+      "title": "What we know so far after Krakow gun attack",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T14:32:52+00:00"
+    },
+    {
+      "id": "2b132aa19e996cd761b8",
+      "source": "TGcom24",
+      "title": "Donna uccisa in casa nella Bergamasca, sospetti su uno dei due figli",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/bergamo-palosco-omicidio_118745164-202602k.shtml",
+      "published": "2026-11-08T14:30:00+00:00"
+    },
     {
       "id": "9f31810881d233c3ad07",
       "source": "TGcom24",
@@ -38,13 +52,6 @@
       "title": "Incendio nell'ex centrale nucleare di Trino: nessun rischio radiologico",
       "url": "https://www.tgcom24.mediaset.it/cronaca/incendio-centrale-nucleare-trino_118737119-202602k.shtml",
       "published": "2026-11-08T11:50:00+00:00"
-    },
-    {
-      "id": "992b1f34b0457d4bf0e9",
-      "source": "BBC News",
-      "title": "What we know so far after Krakow gun attack",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-08T11:22:17+00:00"
     },
     {
       "id": "8510ea5d5f73e316a495",
@@ -227,13 +234,6 @@
       "title": "Carburanti, proroga finita: scade il taglio delle accise sul gasolio",
       "url": "https://www.tgcom24.mediaset.it/economia/carburanti-scade-taglio-accise-gasolio_118712240-202602k.shtml",
       "published": "2026-11-07T17:50:00+00:00"
-    },
-    {
-      "id": "0cb32c218c564ba10b00",
-      "source": "TGcom24",
-      "title": "Cresce l'allerta per i cyberattacchi, l'Europol convoca un vertice",
-      "url": "https://www.tgcom24.mediaset.it/mondo/cyberattacchi-europol-vertice_118709399-202602k.shtml",
-      "published": "2026-11-07T17:04:00+00:00"
     },
     {
       "id": "6a9cc9b2c9cd6a9f1556",
