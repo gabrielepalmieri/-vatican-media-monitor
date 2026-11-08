@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-08T07:30:43.903028+00:00",
+  "updated_at": "2026-11-08T07:35:18.768674+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-08T07:30:43.903028+00:00"
+      "checked_at": "2026-11-08T07:35:18.768674+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-08T07:30:43.903028+00:00"
+      "checked_at": "2026-11-08T07:35:18.768674+00:00"
     }
   },
   "items": [
+    {
+      "id": "992b1f34b0457d4bf0e9",
+      "source": "BBC News",
+      "title": "What we know so far after Krakow gun attack",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T07:30:43+00:00"
+    },
     {
       "id": "b56babefd62d4d76fffa",
       "source": "TGcom24",
@@ -45,13 +52,6 @@
       "title": "Houthis say at least 33 killed in Saudi air strike",
       "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-08T04:03:12+00:00"
-    },
-    {
-      "id": "992b1f34b0457d4bf0e9",
-      "source": "BBC News",
-      "title": "What we know so far after Krakow gun attack",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-08T01:47:41+00:00"
     },
     {
       "id": "c33c9fe2279a1665c162",
