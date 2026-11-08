@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-08T19:55:17.878425+00:00",
+  "updated_at": "2026-11-08T20:00:54.245584+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-08T19:55:17.878425+00:00"
+      "checked_at": "2026-11-08T20:00:54.245584+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-08T19:55:17.878425+00:00"
+      "checked_at": "2026-11-08T20:00:54.245584+00:00"
     }
   },
   "items": [
+    {
+      "id": "36535600aa83c1fea84c",
+      "source": "BBC News",
+      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T19:58:02+00:00"
+    },
+    {
+      "id": "e266af0736601fb2e067",
+      "source": "TGcom24",
+      "title": "Via libera della Consob all'offerta di Intesa per Mps",
+      "url": "https://www.tgcom24.mediaset.it/economia/intesa-offerta-mps-consob_118772092-202602k.shtml",
+      "published": "2026-11-08T19:55:00+00:00"
+    },
     {
       "id": "f43f48cf0833883e40de",
       "source": "TGcom24",
@@ -45,13 +59,6 @@
       "title": "Tajani: \"Guerra ibrida colpisce le democrazie, ora segnale forte dal G7\"",
       "url": "https://www.tgcom24.mediaset.it/2026/video/tajani-la-guerra-ibrida-colpisce-il-sistema-democratico-serve-un-segnale-forte-dal-g7-_118753180-02k.shtml",
       "published": "2026-11-08T17:40:00+00:00"
-    },
-    {
-      "id": "36535600aa83c1fea84c",
-      "source": "BBC News",
-      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-08T17:35:13+00:00"
     },
     {
       "id": "75849c8c05a604ad857e",
@@ -185,13 +192,6 @@
       "title": "Iran, giustiziati tre uomini accusati di legami con Usa e Israele",
       "url": "https://www.tgcom24.mediaset.it/mondo/iran-giustiziati-tre-uomini-per-legami-usa_118726109-202602k.shtml",
       "published": "2026-11-08T06:15:00+00:00"
-    },
-    {
-      "id": "197570f3b8b9d2d215b6",
-      "source": "TGcom24",
-      "title": "Giappone, terremoto di magnitudo 5.7 nel centro del Paese: oltre 20 feriti",
-      "url": "https://www.tgcom24.mediaset.it/mondo/giappone-terremoto-magnitudo-5-7_118725916-202602k.shtml",
-      "published": "2026-11-08T05:37:00+00:00"
     },
     {
       "id": "6c90a191bb821993b9ab",
