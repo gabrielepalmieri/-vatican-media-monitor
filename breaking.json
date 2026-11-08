@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-08T12:05:19.001119+00:00",
+  "updated_at": "2026-11-08T12:10:25.320711+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-08T12:05:19.001119+00:00"
+      "checked_at": "2026-11-08T12:10:25.320711+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-08T12:05:19.001119+00:00"
+      "checked_at": "2026-11-08T12:10:25.320711+00:00"
     }
   },
   "items": [
+    {
+      "id": "6d827f79aa33a732c1bf",
+      "source": "TGcom24",
+      "title": "Incendio nell'ex centrale nucleare di Trino: nessun rischio radiologico",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/incendio-centrale-nucleare-trino_118737119-202602k.shtml",
+      "published": "2026-11-08T12:05:00+00:00"
+    },
     {
       "id": "992b1f34b0457d4bf0e9",
       "source": "BBC News",
@@ -241,13 +248,6 @@
       "title": "Alluvione a Gaza, allagate 70mila tende dove vivono gli sfollati",
       "url": "https://www.tgcom24.mediaset.it/2026/video/gaza-allagate-dalle-piogge-70mila-tende-dove-vivono-gli-sfollati_118703533-02k.shtml",
       "published": "2026-11-07T14:20:00+00:00"
-    },
-    {
-      "id": "128db103cd57b1683d15",
-      "source": "TGcom24",
-      "title": "Tajani: \"Non mi farò intimidire dagli hacker russi, difenderò libertà dell'Ucraina\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/antonio-tajani-attacco-hacker-non-mi-faro-intimidire_118702430-202602k.shtml",
-      "published": "2026-11-07T13:55:00+00:00"
     },
     {
       "id": "d688cd3036af8c19d600",
