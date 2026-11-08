@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-08T08:35:18.402723+00:00",
+  "updated_at": "2026-11-08T08:40:24.482436+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-08T08:35:18.402723+00:00"
+      "checked_at": "2026-11-08T08:40:24.482436+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-08T08:35:18.402723+00:00"
+      "checked_at": "2026-11-08T08:40:24.482436+00:00"
     }
   },
   "items": [
+    {
+      "id": "9ea051ab10cc31874a69",
+      "source": "TGcom24",
+      "title": "Ucraina, colpita a Odessa una nave con armi per Kiev",
+      "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-mosca-attacca-sottostazione-elettrica-kiev_118726307-202602k.shtml",
+      "published": "2026-11-08T08:34:00+00:00"
+    },
     {
       "id": "992b1f34b0457d4bf0e9",
       "source": "BBC News",
@@ -241,13 +248,6 @@
       "title": "Cyberattacchi, presi di mira i sistemi della società della Galleria del Brennero",
       "url": "https://www.tgcom24.mediaset.it/cronaca/cyberattacchi-servizi-indagano-pista-russa_118692632-202602k.shtml",
       "published": "2026-11-07T11:07:00+00:00"
-    },
-    {
-      "id": "c5a5c2ae63391e8cf13b",
-      "source": "TGcom24",
-      "title": "Spaccio, detenzione abusiva di armi ed estorsioni: cinque arresti a Roma",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/roma-droga-estorsioni-e-detenzione-abusiva-di-armi-quattro-misure-cautelari-e-un-arresto-in-flagranza_118696711-02k.shtml",
-      "published": "2026-11-07T10:45:00+00:00"
     },
     {
       "id": "f43375c0c4d46feaad6a",
