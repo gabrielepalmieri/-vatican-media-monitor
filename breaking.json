@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-08T20:35:18.300161+00:00",
+  "updated_at": "2026-11-08T20:40:28.472387+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-08T20:35:18.300161+00:00"
+      "checked_at": "2026-11-08T20:40:28.472387+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-08T20:35:18.300161+00:00"
+      "checked_at": "2026-11-08T20:40:28.472387+00:00"
     }
   },
   "items": [
+    {
+      "id": "da277f8260b216dc7c49",
+      "source": "TGcom24",
+      "title": "Caso Nvidia, aperta indagine sul Ceo per la sua relazione con una spia cinese",
+      "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-indagine-ceo-spia-cinese_118774777-202602k.shtml",
+      "published": "2026-11-08T20:37:00+00:00"
+    },
     {
       "id": "36535600aa83c1fea84c",
       "source": "BBC News",
@@ -185,13 +192,6 @@
       "title": "Ucraina, Mosca rivendica un attacco a una sottostazione elettrica",
       "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-mosca-attacca-sottostazione-elettrica-kiev_118726307-202602k.shtml",
       "published": "2026-11-08T06:53:00+00:00"
-    },
-    {
-      "id": "045ad97c8b14ed06a914",
-      "source": "TGcom24",
-      "title": "Iran, giustiziati tre uomini accusati di legami con Usa e Israele",
-      "url": "https://www.tgcom24.mediaset.it/mondo/iran-giustiziati-tre-uomini-per-legami-usa_118726109-202602k.shtml",
-      "published": "2026-11-08T06:15:00+00:00"
     },
     {
       "id": "6c90a191bb821993b9ab",
