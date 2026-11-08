@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-08T23:50:24.900823+00:00",
+  "updated_at": "2026-11-08T23:55:18.287590+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-08T23:50:24.900823+00:00"
+      "checked_at": "2026-11-08T23:55:18.287590+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-08T23:50:24.900823+00:00"
+      "checked_at": "2026-11-08T23:55:18.287590+00:00"
     }
   },
   "items": [
@@ -45,6 +45,13 @@
       "title": "Doctor who treated victims of Krakow shooting speaks to the BBC",
       "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-08T22:05:12+00:00"
+    },
+    {
+      "id": "60e8e5f4c2dd3108b1a6",
+      "source": "BBC News",
+      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T21:37:36+00:00"
     },
     {
       "id": "313afeb4564e0f40d6bd",
@@ -192,13 +199,6 @@
       "title": "How the deadly shooting in Krakow unfolded",
       "url": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-08T09:29:24+00:00"
-    },
-    {
-      "id": "6c90a191bb821993b9ab",
-      "source": "BBC News",
-      "title": "Houthis say at least 33 killed in Saudi air strike",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-08T04:03:12+00:00"
     },
     {
       "id": "3d767f17bd79f7ec274f",
