@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-08T18:10:26.238862+00:00",
+  "updated_at": "2026-11-08T18:15:28.566359+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-08T18:10:26.238862+00:00"
+      "checked_at": "2026-11-08T18:15:28.566359+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-08T18:10:26.238862+00:00"
+      "checked_at": "2026-11-08T18:15:28.566359+00:00"
     }
   },
   "items": [
+    {
+      "id": "338e5fbb54d9d55ecc2b",
+      "source": "BBC News",
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T18:14:11+00:00"
+    },
     {
       "id": "4dabd3064d4ef4beff25",
       "source": "TGcom24",
       "title": "Scossa di terremoto di magnitudo 3.5 nel Catanzarese",
       "url": "https://www.tgcom24.mediaset.it/cronaca/terremoto-catanzaro-serrastretta_118758277-202602k.shtml",
       "published": "2026-11-08T18:08:00+00:00"
-    },
-    {
-      "id": "338e5fbb54d9d55ecc2b",
-      "source": "BBC News",
-      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-08T17:59:03+00:00"
     },
     {
       "id": "e9ef7cc025837359b5f6",
