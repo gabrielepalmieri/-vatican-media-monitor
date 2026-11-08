@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-08T06:50:23.967282+00:00",
+  "updated_at": "2026-11-08T06:55:17.195049+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-08T06:50:23.967282+00:00"
+      "checked_at": "2026-11-08T06:55:17.195049+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-08T06:50:23.967282+00:00"
+      "checked_at": "2026-11-08T06:55:17.195049+00:00"
     }
   },
   "items": [
+    {
+      "id": "b56babefd62d4d76fffa",
+      "source": "TGcom24",
+      "title": "Ucraina, Mosca rivendica un attacco a una sottostazione elettrica",
+      "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-mosca-attacca-sottostazione-elettrica-kiev_118726307-202602k.shtml",
+      "published": "2026-11-08T06:53:00+00:00"
+    },
     {
       "id": "045ad97c8b14ed06a914",
       "source": "TGcom24",
@@ -66,6 +73,13 @@
       "title": "Israel's president tasks opposition leader Eisenkot with forming government",
       "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-07T22:19:59+00:00"
+    },
+    {
+      "id": "f75188f2bb30b492cd75",
+      "source": "BBC News",
+      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T21:36:16+00:00"
     },
     {
       "id": "4ffc5c52cb2785ea2ec1",
@@ -136,13 +150,6 @@
       "title": "Italian foreign minister says hackers leaked his personal data",
       "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-07T16:50:06+00:00"
-    },
-    {
-      "id": "a34fdd651105444ecb84",
-      "source": "BBC News",
-      "title": "No clear winner after tight New Zealand general election",
-      "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-07T15:56:28+00:00"
     },
     {
       "id": "9c30697c30a6e84abdf7",
@@ -234,13 +241,6 @@
       "title": "Roma, Gualtieri si ricandida a sindaco: \"Continuiamo far crescere la città\"",
       "url": "https://www.tgcom24.mediaset.it/politica/roma-gualtieri-ricandida-sindaco_118696123-202602k.shtml",
       "published": "2026-11-07T10:10:00+00:00"
-    },
-    {
-      "id": "8f7ac030d1dc21848326",
-      "source": "TGcom24",
-      "title": "Scampia, maxi sequestro di cocaina: 84 chili nascosti in un'auto rubata",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/napoli-scampia-sequestrati-84-kg-cocaina_118693244-202602k.shtml",
-      "published": "2026-11-07T09:07:00+00:00"
     },
     {
       "id": "f43375c0c4d46feaad6a",
