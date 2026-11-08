@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-08T09:35:17.781145+00:00",
+  "updated_at": "2026-11-08T09:40:23.723162+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-08T09:35:17.781145+00:00"
+      "checked_at": "2026-11-08T09:40:23.723162+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-08T09:35:17.781145+00:00"
+      "checked_at": "2026-11-08T09:40:23.723162+00:00"
     }
   },
   "items": [
+    {
+      "id": "3251a1d41f9ecdf8b427",
+      "source": "TGcom24",
+      "title": "Israele, il partito arabo Ra'am pronto a sostenere il nuovo esecutivo",
+      "url": "https://www.tgcom24.mediaset.it/mondo/israele-herzog-nuovo-governo-incarico-eisenkot-netanyahu_118718193-202602k.shtml",
+      "published": "2026-11-08T09:38:00+00:00"
+    },
     {
       "id": "5189b018a1aca2385225",
       "source": "BBC News",
@@ -248,13 +255,6 @@
       "title": "Stima Codacons: bolletta invernale media del gas sale a 860 euro a famiglia",
       "url": "https://www.tgcom24.mediaset.it/economia/gas-bolletta-media-inverno-costo-famiglia_118698213-202602k.shtml",
       "published": "2026-11-07T11:40:00+00:00"
-    },
-    {
-      "id": "d1865607e3ee8e22f2ec",
-      "source": "TGcom24",
-      "title": "Cyberattacchi, presi di mira i sistemi della società della Galleria del Brennero",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/cyberattacchi-servizi-indagano-pista-russa_118692632-202602k.shtml",
-      "published": "2026-11-07T11:07:00+00:00"
     },
     {
       "id": "f43375c0c4d46feaad6a",
