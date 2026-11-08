@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-08T07:50:23.643263+00:00",
+  "updated_at": "2026-11-08T07:55:18.928173+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-08T07:50:23.643263+00:00"
+      "checked_at": "2026-11-08T07:55:18.928173+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-08T07:50:23.643263+00:00"
+      "checked_at": "2026-11-08T07:55:18.928173+00:00"
     }
   },
   "items": [
+    {
+      "id": "992b1f34b0457d4bf0e9",
+      "source": "BBC News",
+      "title": "What we know so far after Krakow gun attack",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-08T07:52:33+00:00"
+    },
     {
       "id": "8673797a15f0eeaf6038",
       "source": "TGcom24",
       "title": "Cracovia, trovati morti in casa i genitori e la sorella dell'assalitore",
       "url": "https://www.tgcom24.mediaset.it/mondo/cracovia-attentatore-grave-trovati-familiari-morti_118727510-202602k.shtml",
       "published": "2026-11-08T07:37:00+00:00"
-    },
-    {
-      "id": "992b1f34b0457d4bf0e9",
-      "source": "BBC News",
-      "title": "What we know so far after Krakow gun attack",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-08T07:30:43+00:00"
     },
     {
       "id": "b56babefd62d4d76fffa",
