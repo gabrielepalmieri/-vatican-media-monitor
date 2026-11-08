@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-08T05:40:24.697024+00:00",
+  "updated_at": "2026-11-08T05:45:27.312727+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-08T05:40:24.697024+00:00"
+      "checked_at": "2026-11-08T05:45:27.312727+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-08T05:40:24.697024+00:00"
+      "checked_at": "2026-11-08T05:45:27.312727+00:00"
     }
   },
   "items": [
+    {
+      "id": "197570f3b8b9d2d215b6",
+      "source": "TGcom24",
+      "title": "Giappone, terremoto di magnitudo 5,7 nel centro del Paese: oltre 20 feriti",
+      "url": "https://www.tgcom24.mediaset.it/mondo/giappone-terremoto-magnitudo-5-7_118725916-202602k.shtml",
+      "published": "2026-11-08T05:37:00+00:00"
+    },
     {
       "id": "d956ec9e395dbfd04395",
       "source": "TGcom24",
@@ -243,13 +250,6 @@
       "published": "2026-11-07T08:15:55+00:00"
     },
     {
-      "id": "14292f611e732f2ec1e0",
-      "source": "TGcom24",
-      "title": "Cyberattacchi, i servizi europei indagano sulla pista russa degli allarmi bomba",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/cyberattacchi-servizi-indagano-pista-russa_118692632-202602k.shtml",
-      "published": "2026-11-07T08:00:00+00:00"
-    },
-    {
       "id": "07066174db310a2c9a5c",
       "source": "BBC News",
       "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
@@ -290,13 +290,6 @@
       "title": "AI stocks climb after trillions wiped from market values",
       "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-06T21:06:25+00:00"
-    },
-    {
-      "id": "dd1f68ef812a85b5a20f",
-      "source": "BBC News",
-      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-06T17:44:02+00:00"
     }
   ]
 }
