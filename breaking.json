@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-09T09:35:23.225767+00:00",
+  "updated_at": "2026-11-09T09:40:27.139045+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-09T09:35:23.225767+00:00"
+      "checked_at": "2026-11-09T09:40:27.139045+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-09T09:35:23.225767+00:00"
+      "checked_at": "2026-11-09T09:40:27.139045+00:00"
     }
   },
   "items": [
+    {
+      "id": "9e73d4207edc4e4176eb",
+      "source": "TGcom24",
+      "title": "Sestri Levante, 86enne trovato morto in mare davanti alla spiaggia",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/sestri-levante-anziano-morto-mare_118792179-202602k.shtml",
+      "published": "2026-11-09T09:35:00+00:00"
+    },
     {
       "id": "42b68c50fd408423eb06",
       "source": "TGcom24",
@@ -243,13 +250,6 @@
       "published": "2026-11-08T16:05:57+00:00"
     },
     {
-      "id": "69124d236c78ff15ba9b",
-      "source": "TGcom24",
-      "title": "Egitto, scontro tra due treni a Giza: morti e feriti",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/egitto-scontro-tra-due-treni-a-giza-morti-e-feriti_118750007-02k.shtml",
-      "published": "2026-11-08T15:20:00+00:00"
-    },
-    {
       "id": "275bd5faeddfc69ca36e",
       "source": "BBC News",
       "title": "Homes and temples glow across India to mark Diwali",
@@ -283,13 +283,6 @@
       "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
       "url": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-08T00:48:59+00:00"
-    },
-    {
-      "id": "f75188f2bb30b492cd75",
-      "source": "BBC News",
-      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-07T21:36:16+00:00"
     }
   ]
 }
