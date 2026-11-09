@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-09T14:40:27.175968+00:00",
+  "updated_at": "2026-11-09T14:45:30.578428+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-09T14:40:27.175968+00:00"
+      "checked_at": "2026-11-09T14:45:30.578428+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-09T14:40:27.175968+00:00"
+      "checked_at": "2026-11-09T14:45:30.578428+00:00"
     }
   },
   "items": [
+    {
+      "id": "25bde0c94beefd5fdb9c",
+      "source": "BBC News",
+      "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
+      "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T14:44:47+00:00"
+    },
+    {
+      "id": "4fa961b60eb9c577e197",
+      "source": "TGcom24",
+      "title": "Roma, si è costituito il conducente del monopattino che ha ucciso il fisico Cervellati",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/roma-roberto-cervellati-costituito-pirata-strada-monopattino_118800791-202602k.shtml",
+      "published": "2026-11-09T14:43:00+00:00"
+    },
     {
       "id": "760c803a3910c5745dcd",
       "source": "TGcom24",
@@ -87,13 +101,6 @@
       "title": "Napoli, crolla il solaio di un balcone in via Imbriani: un morto",
       "url": "https://www.tgcom24.mediaset.it/cronaca/napoli-crolla-solaio-balcone-un-morto_118793757-202602k.shtml",
       "published": "2026-11-09T11:00:00+00:00"
-    },
-    {
-      "id": "25bde0c94beefd5fdb9c",
-      "source": "BBC News",
-      "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
-      "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T10:59:26+00:00"
     },
     {
       "id": "82eab046e611372df3f2",
@@ -276,13 +283,6 @@
       "title": "Seven dead and more than 100 injured after trains collide in Egypt",
       "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-08T19:58:02+00:00"
-    },
-    {
-      "id": "e266af0736601fb2e067",
-      "source": "TGcom24",
-      "title": "Via libera della Consob all'offerta di Intesa per Mps",
-      "url": "https://www.tgcom24.mediaset.it/economia/intesa-offerta-mps-consob_118772092-202602k.shtml",
-      "published": "2026-11-08T19:55:00+00:00"
     },
     {
       "id": "52e9e1dfd86ff56800b9",
