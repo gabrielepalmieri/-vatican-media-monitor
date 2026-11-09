@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-09T15:45:30.756981+00:00",
+  "updated_at": "2026-11-09T15:50:26.305568+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-09T15:45:30.756981+00:00"
+      "checked_at": "2026-11-09T15:50:26.305568+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-09T15:45:30.756981+00:00"
+      "checked_at": "2026-11-09T15:50:26.305568+00:00"
     }
   },
   "items": [
+    {
+      "id": "29a4a8f999d5980a267d",
+      "source": "BBC News",
+      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T15:46:20+00:00"
+    },
     {
       "id": "e5857dfe7a8aca7a791c",
       "source": "TGcom24",
@@ -66,13 +73,6 @@
       "title": "Allarmi bomba sui voli, il pm di Milano contesta il reato di pubblica intimidazione",
       "url": "https://www.tgcom24.mediaset.it/cronaca/allarmi-bomba-pm-milano-contesta-pubblica-intimidazione_118799480-202602k.shtml",
       "published": "2026-11-09T13:28:00+00:00"
-    },
-    {
-      "id": "29a4a8f999d5980a267d",
-      "source": "BBC News",
-      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T13:10:32+00:00"
     },
     {
       "id": "2ca500325760b9ef4d6b",
