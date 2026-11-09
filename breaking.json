@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-09T07:50:25.786821+00:00",
+  "updated_at": "2026-11-09T07:55:17.770538+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-09T07:50:25.786821+00:00"
+      "checked_at": "2026-11-09T07:55:17.770538+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-09T07:50:25.786821+00:00"
+      "checked_at": "2026-11-09T07:55:17.770538+00:00"
     }
   },
   "items": [
+    {
+      "id": "eaffef4ba2f54b40176c",
+      "source": "TGcom24",
+      "title": "Nvidia, Jensen Huang ai dipendenti: \"Mi assumo la piena responsabilità\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-jensen-huang-ai-dipendenti-mi-assumo-la-piena-responsabilita-delle-mie-azioni-_118788981-202602k.shtml",
+      "published": "2026-11-09T07:52:00+00:00"
+    },
     {
       "id": "918107d889b95b3a60ea",
       "source": "BBC News",
@@ -24,6 +31,13 @@
       "title": "Vertice in vista tra Usa, Cina e Russia: \"Si parlerà di Iran e denuclearizzazione\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-ultime-notizie-9-novembre_118785507-202602k.shtml",
       "published": "2026-11-09T07:18:00+00:00"
+    },
+    {
+      "id": "ec222c2606ee0cc17009",
+      "source": "BBC News",
+      "title": "Will Nvidia CEO’s rockstar reputation survive an affair with a suspected Chinese spy?",
+      "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T07:10:11+00:00"
     },
     {
       "id": "2a5b6f5fa653b883aa3b",
