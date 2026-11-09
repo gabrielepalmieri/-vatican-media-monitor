@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-09T12:45:29.674542+00:00",
+  "updated_at": "2026-11-09T12:50:26.421921+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-09T12:45:29.674542+00:00"
+      "checked_at": "2026-11-09T12:50:26.421921+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-09T12:45:29.674542+00:00"
+      "checked_at": "2026-11-09T12:50:26.421921+00:00"
     }
   },
   "items": [
+    {
+      "id": "26f13225b6435c71273c",
+      "source": "TGcom24",
+      "title": "La Dia smentisce di essere stata hackerata: \"Estratti solo dati pubblici dal sito Web\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/cyberattacco-direzione-antimafia-indagini_118794374-202602k.shtml",
+      "published": "2026-11-09T12:49:00+00:00"
+    },
     {
       "id": "ff9feb6cd668d98f0437",
       "source": "BBC News",
@@ -264,13 +271,6 @@
       "published": "2026-11-08T18:35:00+00:00"
     },
     {
-      "id": "4dabd3064d4ef4beff25",
-      "source": "TGcom24",
-      "title": "Scossa di terremoto di magnitudo 3.5 nel Catanzarese",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/terremoto-catanzaro-serrastretta_118758277-202602k.shtml",
-      "published": "2026-11-08T18:08:00+00:00"
-    },
-    {
       "id": "52e9e1dfd86ff56800b9",
       "source": "BBC News",
       "title": "'Devastating message' as ANC records worst-ever result in South Africa election",
@@ -311,13 +311,6 @@
       "title": "The Trump coalition is shattered - what will Republicans do now?",
       "url": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-08T00:52:39+00:00"
-    },
-    {
-      "id": "fb2a1087ad04c60abcc9",
-      "source": "BBC News",
-      "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
-      "url": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-08T00:48:59+00:00"
     }
   ]
 }
