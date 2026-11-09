@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-09T14:05:21.479789+00:00",
+  "updated_at": "2026-11-09T14:10:27.766922+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-09T14:05:21.479789+00:00"
+      "checked_at": "2026-11-09T14:10:27.766922+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-09T14:05:21.479789+00:00"
+      "checked_at": "2026-11-09T14:10:27.766922+00:00"
     }
   },
   "items": [
+    {
+      "id": "760c803a3910c5745dcd",
+      "source": "TGcom24",
+      "title": "Kushner: \"Per la pace in Ucraina serve un dialogo diretto tra Russia ed Europa\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-ucraina-russia-ultime-notizie-9-novembre_118785486-202602k.shtml",
+      "published": "2026-11-09T14:06:00+00:00"
+    },
     {
       "id": "b11af4d0fd310d388ac4",
       "source": "BBC News",
@@ -276,13 +283,6 @@
       "title": "Via libera della Consob all'offerta di Intesa per Mps",
       "url": "https://www.tgcom24.mediaset.it/economia/intesa-offerta-mps-consob_118772092-202602k.shtml",
       "published": "2026-11-08T19:55:00+00:00"
-    },
-    {
-      "id": "f43f48cf0833883e40de",
-      "source": "TGcom24",
-      "title": "Media Usa: \"Trump ha chiesto a Netanyahu di procedere sul piano per Gaza\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/israele-herzog-eisenkot-nuovo-governo_118749810-202602k.shtml",
-      "published": "2026-11-08T19:21:00+00:00"
     },
     {
       "id": "52e9e1dfd86ff56800b9",
