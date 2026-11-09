@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-09T05:01:00.157066+00:00",
+  "updated_at": "2026-11-09T05:05:18.187472+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-09T05:01:00.157066+00:00"
+      "checked_at": "2026-11-09T05:05:18.187472+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-09T05:01:00.157066+00:00"
+      "checked_at": "2026-11-09T05:05:18.187472+00:00"
     }
   },
   "items": [
+    {
+      "id": "1ab540e0f689fad8f02d",
+      "source": "TGcom24",
+      "title": "Berlino, si arrampica sull'asta del Reichstag e issa la bandiera palestinese: fermato",
+      "url": "https://www.tgcom24.mediaset.it/2026/video/si-arrampica-sull-asta-del-reichstag-e-issa-ila-bandiera-palestinese_118782433-02k.shtml",
+      "published": "2026-11-09T05:01:00+00:00"
+    },
     {
       "id": "cd570f64e419bf4e177b",
       "source": "BBC News",
@@ -192,13 +199,6 @@
       "title": "Attacchi hacker, Piantedosi convoca il Comitato per la sicurezza pubblica",
       "url": "https://www.tgcom24.mediaset.it/cronaca/attacchi-cyber-piantedosi-comitato-sicurezza-pubblica_118735555-202602k.shtml",
       "published": "2026-11-08T11:06:00+00:00"
-    },
-    {
-      "id": "1270346836b8e1bd3ee1",
-      "source": "TGcom24",
-      "title": "Ucraina, le autorità: \"600mila persone senza elettricità per gli attacchi della Russia\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-mosca-attacca-sottostazione-elettrica-kiev_118726307-202602k.shtml",
-      "published": "2026-11-08T10:30:00+00:00"
     },
     {
       "id": "5189b018a1aca2385225",
