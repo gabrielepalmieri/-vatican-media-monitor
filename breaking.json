@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-09T16:10:27.581086+00:00",
+  "updated_at": "2026-11-09T16:15:31.076661+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-09T16:10:27.581086+00:00"
+      "checked_at": "2026-11-09T16:15:31.076661+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-09T16:10:27.581086+00:00"
+      "checked_at": "2026-11-09T16:15:31.076661+00:00"
     }
   },
   "items": [
+    {
+      "id": "afe342c4c3b47cedd3ed",
+      "source": "TGcom24",
+      "title": "Papa Leone in Argentina: \"Lavoro precario e instabilità distruggono famiglie\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/papa-leone-argentina-messa-buenos-aires-omelia-famiglia-lavoro_118801630-202602k.shtml",
+      "published": "2026-11-09T16:10:00+00:00"
+    },
     {
       "id": "29a4a8f999d5980a267d",
       "source": "BBC News",
@@ -119,7 +126,7 @@
     {
       "id": "43ff87805551bef20525",
       "source": "TGcom24",
-      "title": "Napoli, crolla il solaio di un balcone in via Imbriani: un morto",
+      "title": "Napoli, crolla il solaio di un balcone: un morto",
       "url": "https://www.tgcom24.mediaset.it/cronaca/napoli-crolla-solaio-balcone-un-morto_118793757-202602k.shtml",
       "published": "2026-11-09T11:00:00+00:00"
     },
@@ -133,14 +140,14 @@
     {
       "id": "dc9095262644c363f2f4",
       "source": "TGcom24",
-      "title": "Mantova, auto prende fuoco dopo schianto contro palo: conducente muore carbonizzato",
+      "title": "Mantova, auto prende fuoco dopo schianto: conducente muore carbonizzato",
       "url": "https://www.tgcom24.mediaset.it/cronaca/mantova-auto-contro-palo-incendio-morto-conducente_118793547-202602k.shtml",
       "published": "2026-11-09T10:32:00+00:00"
     },
     {
       "id": "7a03a5f52261d5031d4b",
       "source": "TGcom24",
-      "title": "Pianista di nave da crociera salvato dopo nove ore nell'Oceano Pacifico",
+      "title": "Pianista di nave da crociera salvato dopo nove ore in mare nel Pacifico",
       "url": "https://www.tgcom24.mediaset.it/mondo/pianista-crociera-salvato-mare_118790719-202602k.shtml",
       "published": "2026-11-09T10:01:00+00:00"
     },
