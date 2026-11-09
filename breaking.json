@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-09T05:30:45.198582+00:00",
+  "updated_at": "2026-11-09T05:35:17.675004+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-09T05:30:45.198582+00:00"
+      "checked_at": "2026-11-09T05:35:17.675004+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-09T05:30:45.198582+00:00"
+      "checked_at": "2026-11-09T05:35:17.675004+00:00"
     }
   },
   "items": [
+    {
+      "id": "103a12fd5bbae335de01",
+      "source": "TGcom24",
+      "title": "Trump: \"La mia politica di deportazione di massa degli immigrati è stata troppo dura\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/trump-deportazioni-immigrati-irregolari_118779878-202602k.shtml",
+      "published": "2026-11-09T05:32:00+00:00"
+    },
     {
       "id": "1ab540e0f689fad8f02d",
       "source": "TGcom24",
@@ -192,13 +199,6 @@
       "title": "Incendio nell'ex centrale nucleare di Trino: nessun rischio radiologico",
       "url": "https://www.tgcom24.mediaset.it/cronaca/incendio-centrale-nucleare-trino_118737119-202602k.shtml",
       "published": "2026-11-08T11:50:00+00:00"
-    },
-    {
-      "id": "8510ea5d5f73e316a495",
-      "source": "TGcom24",
-      "title": "Attacchi hacker, Piantedosi convoca il Comitato per la sicurezza pubblica",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/attacchi-cyber-piantedosi-comitato-sicurezza-pubblica_118735555-202602k.shtml",
-      "published": "2026-11-08T11:06:00+00:00"
     },
     {
       "id": "5189b018a1aca2385225",
