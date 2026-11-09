@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-08T11:53:36.733594+00:00",
+  "updated_at": "2026-11-09T01:42:10.009838+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-11-08T11:53:36.733594+00:00",
+  "un_verified_at": "2026-11-09T01:42:10.009838+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,21 +1918,6 @@
     }
   ],
   "days": {
-    "2026-11-07": {
-      "saints": [
-        {
-          "title": "San Prosdocimo, primo vescovo di Padova",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/07/san-prosdocimo--premo-vescovo-di-padova.html"
-        },
-        {
-          "title": "San Villibrordo, vescovo nell'Europa del Nord",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/07.html"
-        }
-      ],
-      "un": [],
-      "un_available": true,
-      "holy_see": []
-    },
     "2026-11-08": {
       "saints": [
         {
@@ -2660,6 +2645,22 @@
         }
       ],
       "un": [],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-12-14": {
+      "saints": [
+        {
+          "title": "San Giovanni della Croce, sacerdote e dottore della Chiesa, carmelitano scalzo",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/14/san-giovanni-della-croce--sacerdote-e-dottore-della-chiesa--carm.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata internazionale contro il colonialismo in tutte le sue forme e manifestazioni",
+          "url": "https://www.un.org/en/observances/anti-colonialism-day"
+        }
+      ],
       "un_available": true,
       "holy_see": []
     }
