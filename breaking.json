@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-09T22:55:18.682578+00:00",
+  "updated_at": "2026-11-09T23:01:01.621574+00:00",
   "sources": {
     "TGcom24": {
-      "ok": true,
-      "checked_at": "2026-11-09T22:55:18.682578+00:00"
+      "ok": false,
+      "checked_at": "2026-11-09T23:01:01.621574+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-09T22:55:18.682578+00:00"
+      "checked_at": "2026-11-09T23:01:01.621574+00:00"
     }
   },
   "items": [
+    {
+      "id": "9b5f1b1ec64429c9067c",
+      "source": "BBC News",
+      "title": "Trump says Nvidia boss told him he had no idea woman he had affair with was Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T22:50:07+00:00"
+    },
+    {
+      "id": "cf8a33c44e5c0ee19955",
+      "source": "BBC News",
+      "title": "Dana White declines Trump’s offer to be White House press secretary",
+      "url": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T22:46:27+00:00"
+    },
     {
       "id": "b8fb8ec1b708802d1753",
       "source": "BBC News",
@@ -31,6 +45,13 @@
       "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
       "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-09T21:52:28+00:00"
+    },
+    {
+      "id": "648cd50122626002a580",
+      "source": "BBC News",
+      "title": "Trial date of alleged Charlie Kirk killer set for June 2028",
+      "url": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T21:48:38+00:00"
     },
     {
       "id": "0ffac160c65e099cefc7",
@@ -271,13 +292,6 @@
       "published": "2026-11-09T11:00:00+00:00"
     },
     {
-      "id": "82eab046e611372df3f2",
-      "source": "BBC News",
-      "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
-      "url": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T10:41:57+00:00"
-    },
-    {
       "id": "dc9095262644c363f2f4",
       "source": "TGcom24",
       "title": "Mantova, auto prende fuoco dopo schianto: conducente muore carbonizzato",
@@ -299,13 +313,6 @@
       "published": "2026-11-09T09:35:00+00:00"
     },
     {
-      "id": "eb8d391a79bd5901017f",
-      "source": "BBC News",
-      "title": "Trump says he was 'kidding' about Dana White press secretary offer",
-      "url": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T08:49:17+00:00"
-    },
-    {
       "id": "ec222c2606ee0cc17009",
       "source": "BBC News",
       "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
@@ -318,13 +325,6 @@
       "title": "Inside the French drug gangs recruiting children to kill",
       "url": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-09T06:00:26+00:00"
-    },
-    {
-      "id": "33ca11b83c5a386701f5",
-      "source": "BBC News",
-      "title": "Pope delivers veiled rebuke of Milei's austerity measures",
-      "url": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T05:30:37+00:00"
     },
     {
       "id": "cd570f64e419bf4e177b",
