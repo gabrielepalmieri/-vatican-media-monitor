@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-11-09T08:50:26.844226+00:00",
+  "updated_at": "2026-11-09T08:55:17.599026+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-09T08:50:26.844226+00:00"
+      "checked_at": "2026-11-09T08:55:17.599026+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-09T08:50:26.844226+00:00"
+      "checked_at": "2026-11-09T08:55:17.599026+00:00"
     }
   },
   "items": [
+    {
+      "id": "eb8d391a79bd5901017f",
+      "source": "BBC News",
+      "title": "Trump says he was 'kidding' about Dana White press secretary offer",
+      "url": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T08:49:17+00:00"
+    },
     {
       "id": "b2407a4571f4cecd0f3c",
       "source": "TGcom24",
       "title": "Ucraina, Mosca: \"Kiev e gli alleati europei si preparano a proseguire la guerra\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-ucraina-russia-ultime-notizie-9-novembre_118785486-202602k.shtml",
       "published": "2026-11-09T08:32:00+00:00"
+    },
+    {
+      "id": "25bde0c94beefd5fdb9c",
+      "source": "BBC News",
+      "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
+      "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T08:16:57+00:00"
     },
     {
       "id": "eaffef4ba2f54b40176c",
