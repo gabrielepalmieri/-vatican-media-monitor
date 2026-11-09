@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-09T19:01:01.927540+00:00",
+  "updated_at": "2026-11-09T19:05:20.880604+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-09T19:01:01.927540+00:00"
+      "checked_at": "2026-11-09T19:05:20.880604+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-09T19:01:01.927540+00:00"
+      "checked_at": "2026-11-09T19:05:20.880604+00:00"
     }
   },
   "items": [
+    {
+      "id": "3c40c442fb35beb1b982",
+      "source": "TGcom24",
+      "title": "El Niño, l'allarme del Cesvi: \"Rischio fame per 49 milioni di persone in più\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/cop31-cesvi-el-nino-rischio-fame_118804196-202602k.shtml",
+      "published": "2026-11-09T18:57:00+00:00"
+    },
     {
       "id": "56852d734528d5f236fe",
       "source": "TGcom24",
@@ -290,13 +297,6 @@
       "title": "Inside the French drug gangs recruiting children to kill",
       "url": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-09T06:00:26+00:00"
-    },
-    {
-      "id": "103a12fd5bbae335de01",
-      "source": "TGcom24",
-      "title": "Trump: \"La mia politica di deportazione di massa degli immigrati è stata troppo dura\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/trump-deportazioni-immigrati-irregolari_118779878-202602k.shtml",
-      "published": "2026-11-09T05:32:00+00:00"
     },
     {
       "id": "33ca11b83c5a386701f5",
