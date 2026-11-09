@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-09T16:40:26.437633+00:00",
+  "updated_at": "2026-11-09T16:45:32.116960+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-09T16:40:26.437633+00:00"
+      "checked_at": "2026-11-09T16:45:32.116960+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-09T16:40:26.437633+00:00"
+      "checked_at": "2026-11-09T16:45:32.116960+00:00"
     }
   },
   "items": [
+    {
+      "id": "7097c334600835548905",
+      "source": "BBC News",
+      "title": "France accuses Iran of supermarket fridge hacking",
+      "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T16:42:39+00:00"
+    },
     {
       "id": "25bde0c94beefd5fdb9c",
       "source": "BBC News",
@@ -276,13 +283,6 @@
       "title": "Vicenza, picchia la moglie: la figlia di 9 anni chiama il 112 e lo fa arrestare",
       "url": "https://www.tgcom24.mediaset.it/cronaca/vicenza-picchia-moglie-figlia-chiama-polizia-arresto_118755214-202602k.shtml",
       "published": "2026-11-08T22:56:00+00:00"
-    },
-    {
-      "id": "a56080fe3c58a99071d4",
-      "source": "TGcom24",
-      "title": "Papa Leone in Argentina: \"L'economia sia al servizio della persona\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/papa-leone-xiv-argentina_118772266-202602k.shtml",
-      "published": "2026-11-08T22:26:00+00:00"
     },
     {
       "id": "dcb45259d965bfb46e6c",
