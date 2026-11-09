@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-09T20:35:21.709460+00:00",
+  "updated_at": "2026-11-09T20:40:25.840207+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-09T20:35:21.709460+00:00"
+      "checked_at": "2026-11-09T20:40:25.840207+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-09T20:35:21.709460+00:00"
+      "checked_at": "2026-11-09T20:40:25.840207+00:00"
     }
   },
   "items": [
+    {
+      "id": "24dbeff0cb0aded84472",
+      "source": "TGcom24",
+      "title": "Hacker in azione a Mosca: \"Oltre 400mila i soldati russi morti al fronte\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-ucraina-russia-ultime-notizie-9-novembre_118785486-202602k.shtml",
+      "published": "2026-11-09T20:36:00+00:00"
+    },
     {
       "id": "25f10c01005e6f2ab206",
       "source": "BBC News",
@@ -276,13 +283,6 @@
       "title": "Nvidia, Jensen Huang ai dipendenti: \"Mi assumo la piena responsabilità\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-jensen-huang-ai-dipendenti-mi-assumo-la-piena-responsabilita-delle-mie-azioni-_118788981-202602k.shtml",
       "published": "2026-11-09T07:52:00+00:00"
-    },
-    {
-      "id": "825ecc623be04af00460",
-      "source": "TGcom24",
-      "title": "Vertice in vista tra Usa, Cina e Russia: \"Si parlerà di Iran e denuclearizzazione\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-ultime-notizie-9-novembre_118785507-202602k.shtml",
-      "published": "2026-11-09T07:18:00+00:00"
     },
     {
       "id": "ec222c2606ee0cc17009",
