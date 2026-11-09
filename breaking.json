@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-09T20:40:25.840207+00:00",
+  "updated_at": "2026-11-09T20:45:29.979498+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-09T20:40:25.840207+00:00"
+      "checked_at": "2026-11-09T20:45:29.979498+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-09T20:40:25.840207+00:00"
+      "checked_at": "2026-11-09T20:45:29.979498+00:00"
     }
   },
   "items": [
+    {
+      "id": "43bbf6a78963587fb48e",
+      "source": "BBC News",
+      "title": "Turkey steel factory blast kills at least 17 people",
+      "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T20:42:04+00:00"
+    },
     {
       "id": "24dbeff0cb0aded84472",
       "source": "TGcom24",
@@ -73,13 +80,6 @@
       "title": "Russia's leading independent newspaper closes after eviction",
       "url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-09T18:08:07+00:00"
-    },
-    {
-      "id": "43bbf6a78963587fb48e",
-      "source": "BBC News",
-      "title": "Turkey steel factory blast kills at least 16 people",
-      "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T18:04:01+00:00"
     },
     {
       "id": "4ee7f07e185ea649018b",
