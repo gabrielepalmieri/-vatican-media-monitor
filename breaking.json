@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-09T11:55:19.379382+00:00",
+  "updated_at": "2026-11-09T12:00:59.788685+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-09T11:55:19.379382+00:00"
+      "checked_at": "2026-11-09T12:00:59.788685+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-09T11:55:19.379382+00:00"
+      "checked_at": "2026-11-09T12:00:59.788685+00:00"
     }
   },
   "items": [
+    {
+      "id": "918107d889b95b3a60ea",
+      "source": "BBC News",
+      "title": "Krakow shooting suspect has died in hospital, police say",
+      "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T11:56:25+00:00"
+    },
+    {
+      "id": "74ef26145c9cde465fe5",
+      "source": "TGcom24",
+      "title": "Pezeshkian: \"Khamenei ha ordinato la fine dello stallo Usa-Iran\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-ultime-notizie-9-novembre_118785507-202602k.shtml",
+      "published": "2026-11-09T11:55:00+00:00"
+    },
     {
       "id": "dc2c2374d60fbc1f6324",
       "source": "TGcom24",
@@ -80,13 +94,6 @@
       "title": "Nvidia, Jensen Huang ai dipendenti: \"Mi assumo la piena responsabilità\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-jensen-huang-ai-dipendenti-mi-assumo-la-piena-responsabilita-delle-mie-azioni-_118788981-202602k.shtml",
       "published": "2026-11-09T07:52:00+00:00"
-    },
-    {
-      "id": "918107d889b95b3a60ea",
-      "source": "BBC News",
-      "title": "Krakow shooting suspect has died in hospital, police say",
-      "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T07:26:09+00:00"
     },
     {
       "id": "825ecc623be04af00460",
@@ -255,13 +262,6 @@
       "title": "'Devastating message' as ANC records worst-ever result in South Africa election",
       "url": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-08T17:51:03+00:00"
-    },
-    {
-      "id": "e9ef7cc025837359b5f6",
-      "source": "TGcom24",
-      "title": "Tajani: \"Guerra ibrida colpisce le democrazie, ora segnale forte dal G7\"",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/tajani-la-guerra-ibrida-colpisce-il-sistema-democratico-serve-un-segnale-forte-dal-g7-_118753180-02k.shtml",
-      "published": "2026-11-08T17:40:00+00:00"
     },
     {
       "id": "02c36c497c9805dd9fbf",
