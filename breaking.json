@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-09T07:25:17.682893+00:00",
+  "updated_at": "2026-11-09T07:30:46.310321+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-09T07:25:17.682893+00:00"
+      "checked_at": "2026-11-09T07:30:46.310321+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-09T07:25:17.682893+00:00"
+      "checked_at": "2026-11-09T07:30:46.310321+00:00"
     }
   },
   "items": [
+    {
+      "id": "918107d889b95b3a60ea",
+      "source": "BBC News",
+      "title": "Krakow shooting suspect has died in hospital, police say",
+      "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T07:26:09+00:00"
+    },
     {
       "id": "825ecc623be04af00460",
       "source": "TGcom24",
       "title": "Vertice in vista tra Usa, Cina e Russia: \"Si parlerà di Iran e denuclearizzazione\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-ultime-notizie-9-novembre_118785507-202602k.shtml",
       "published": "2026-11-09T07:18:00+00:00"
-    },
-    {
-      "id": "918107d889b95b3a60ea",
-      "source": "BBC News",
-      "title": "Krakow shooting suspect has died in hospital, police say",
-      "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T07:06:58+00:00"
     },
     {
       "id": "2a5b6f5fa653b883aa3b",
