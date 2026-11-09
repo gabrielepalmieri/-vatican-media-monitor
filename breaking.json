@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-09T21:01:00.777015+00:00",
+  "updated_at": "2026-11-09T21:05:21.525854+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-09T21:01:00.777015+00:00"
+      "checked_at": "2026-11-09T21:05:21.525854+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-09T21:01:00.777015+00:00"
+      "checked_at": "2026-11-09T21:05:21.525854+00:00"
     }
   },
   "items": [
+    {
+      "id": "25f10c01005e6f2ab206",
+      "source": "BBC News",
+      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T21:04:36+00:00"
+    },
     {
       "id": "43bbf6a78963587fb48e",
       "source": "BBC News",
@@ -24,13 +31,6 @@
       "title": "Hacker in azione a Mosca: \"Oltre 400mila i soldati russi morti al fronte\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-ucraina-russia-ultime-notizie-9-novembre_118785486-202602k.shtml",
       "published": "2026-11-09T20:36:00+00:00"
-    },
-    {
-      "id": "25f10c01005e6f2ab206",
-      "source": "BBC News",
-      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T20:23:14+00:00"
     },
     {
       "id": "7097c334600835548905",
@@ -59,6 +59,13 @@
       "title": "Attacchi hacker, Tajani: \"Iran? Dietro quelli all'Italia ci sono criminali filorussi\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/cyberattacchi-congelatori-francia-pasdaran-iran_118805906-202602k.shtml",
       "published": "2026-11-09T19:33:00+00:00"
+    },
+    {
+      "id": "e1037525ecbcabf9b840",
+      "source": "BBC News",
+      "title": "Millions fill Buenos Aires streets to welcome Pope Leo XIV",
+      "url": "https://www.bbc.co.uk/news/videos/cvp8g82pled5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T19:09:27+00:00"
     },
     {
       "id": "3c40c442fb35beb1b982",
