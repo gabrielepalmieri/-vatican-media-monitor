@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-09T11:10:26.961035+00:00",
+  "updated_at": "2026-11-09T11:15:29.661722+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-09T11:10:26.961035+00:00"
+      "checked_at": "2026-11-09T11:15:29.661722+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-09T11:10:26.961035+00:00"
+      "checked_at": "2026-11-09T11:15:29.661722+00:00"
     }
   },
   "items": [
+    {
+      "id": "43ff87805551bef20525",
+      "source": "TGcom24",
+      "title": "Napoli, crolla il solaio di un balcone in via Imbriani: un morto",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/napoli-crolla-solaio-balcone-un-morto_118793757-202602k.shtml",
+      "published": "2026-11-09T11:00:00+00:00"
+    },
     {
       "id": "25bde0c94beefd5fdb9c",
       "source": "BBC News",
@@ -248,13 +255,6 @@
       "title": "Tajani: \"Guerra ibrida colpisce le democrazie, ora segnale forte dal G7\"",
       "url": "https://www.tgcom24.mediaset.it/2026/video/tajani-la-guerra-ibrida-colpisce-il-sistema-democratico-serve-un-segnale-forte-dal-g7-_118753180-02k.shtml",
       "published": "2026-11-08T17:40:00+00:00"
-    },
-    {
-      "id": "75849c8c05a604ad857e",
-      "source": "TGcom24",
-      "title": "Bergamo, donna trovata morta in casa: fermato il figlio",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/bergamo-palosco-omicidio_118745164-202602k.shtml",
-      "published": "2026-11-08T16:40:00+00:00"
     },
     {
       "id": "02c36c497c9805dd9fbf",
