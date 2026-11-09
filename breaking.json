@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-09T06:10:26.231630+00:00",
+  "updated_at": "2026-11-09T06:15:29.395424+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-09T06:10:26.231630+00:00"
+      "checked_at": "2026-11-09T06:15:29.395424+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-09T06:10:26.231630+00:00"
+      "checked_at": "2026-11-09T06:15:29.395424+00:00"
     }
   },
   "items": [
@@ -38,6 +38,13 @@
       "title": "Trump: \"La mia politica di deportazione di massa degli immigrati è stata troppo dura\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/trump-deportazioni-immigrati-irregolari_118779878-202602k.shtml",
       "published": "2026-11-09T05:32:00+00:00"
+    },
+    {
+      "id": "33ca11b83c5a386701f5",
+      "source": "BBC News",
+      "title": "Pope delivers veiled rebuke of Milei's austerity measures",
+      "url": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T05:30:37+00:00"
     },
     {
       "id": "1ab540e0f689fad8f02d",
@@ -248,13 +255,6 @@
       "title": "Paraguay's former president charged after bank collapse",
       "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-07T19:17:22+00:00"
-    },
-    {
-      "id": "bbf360e56b00ae530825",
-      "source": "BBC News",
-      "title": "US offers $20m reward for information about Iran's nuclear programme",
-      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-07T18:14:38+00:00"
     }
   ]
 }
