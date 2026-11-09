@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-09T16:30:48.890931+00:00",
+  "updated_at": "2026-11-09T16:35:19.072182+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-09T16:30:48.890931+00:00"
+      "checked_at": "2026-11-09T16:35:19.072182+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-09T16:30:48.890931+00:00"
+      "checked_at": "2026-11-09T16:35:19.072182+00:00"
     }
   },
   "items": [
+    {
+      "id": "25bde0c94beefd5fdb9c",
+      "source": "BBC News",
+      "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
+      "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T16:33:55+00:00"
+    },
     {
       "id": "afe342c4c3b47cedd3ed",
       "source": "TGcom24",
@@ -45,13 +52,6 @@
       "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
       "url": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-09T14:50:35+00:00"
-    },
-    {
-      "id": "25bde0c94beefd5fdb9c",
-      "source": "BBC News",
-      "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
-      "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T14:44:47+00:00"
     },
     {
       "id": "4fa961b60eb9c577e197",
