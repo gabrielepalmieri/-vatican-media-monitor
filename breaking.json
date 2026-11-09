@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-09T12:50:26.421921+00:00",
+  "updated_at": "2026-11-09T12:55:20.074526+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-09T12:50:26.421921+00:00"
+      "checked_at": "2026-11-09T12:55:20.074526+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-09T12:50:26.421921+00:00"
+      "checked_at": "2026-11-09T12:55:20.074526+00:00"
     }
   },
   "items": [
-    {
-      "id": "26f13225b6435c71273c",
-      "source": "TGcom24",
-      "title": "La Dia smentisce di essere stata hackerata: \"Estratti solo dati pubblici dal sito Web\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/cyberattacco-direzione-antimafia-indagini_118794374-202602k.shtml",
-      "published": "2026-11-09T12:49:00+00:00"
-    },
     {
       "id": "ff9feb6cd668d98f0437",
       "source": "BBC News",
       "title": "Nine foreigners caught allegedly trying to leave South Africa to fight in Ukraine",
       "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-09T12:33:24+00:00"
+    },
+    {
+      "id": "e3df26b855d7b953915a",
+      "source": "TGcom24",
+      "title": "La Dia smentisce di essere stata hackerata: \"Estratti solo dati pubblici dal sito Web\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/cyberattacco-direzione-antimafia-indagini_118794374-202602k.shtml",
+      "published": "2026-11-09T12:28:00+00:00"
     },
     {
       "id": "918107d889b95b3a60ea",
@@ -304,13 +304,6 @@
       "title": "How the deadly shooting in Krakow unfolded",
       "url": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-08T09:29:24+00:00"
-    },
-    {
-      "id": "3d767f17bd79f7ec274f",
-      "source": "BBC News",
-      "title": "The Trump coalition is shattered - what will Republicans do now?",
-      "url": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-08T00:52:39+00:00"
     }
   ]
 }
