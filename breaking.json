@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-09T07:15:30.764790+00:00",
+  "updated_at": "2026-11-09T07:20:26.071979+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-09T07:15:30.764790+00:00"
+      "checked_at": "2026-11-09T07:20:26.071979+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-09T07:15:30.764790+00:00"
+      "checked_at": "2026-11-09T07:20:26.071979+00:00"
     }
   },
   "items": [
+    {
+      "id": "825ecc623be04af00460",
+      "source": "TGcom24",
+      "title": "Vertice in vista tra Usa, Cina e Russia: \"Si parlerà di Iran e denuclearizzazione\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-ultime-notizie-9-novembre_118785507-202602k.shtml",
+      "published": "2026-11-09T07:18:00+00:00"
+    },
     {
       "id": "918107d889b95b3a60ea",
       "source": "BBC News",
@@ -222,13 +229,6 @@
       "published": "2026-11-08T13:37:50+00:00"
     },
     {
-      "id": "7f7b859274aed8ec08e2",
-      "source": "TGcom24",
-      "title": "Ucraina, media: maxiretata a Mosca tra giovanissimi \"costretti a firmare per la leva\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/ucraina-mosca-attacca-sottostazione-elettrica-kiev_118726307-202602k.shtml",
-      "published": "2026-11-08T12:55:00+00:00"
-    },
-    {
       "id": "5189b018a1aca2385225",
       "source": "BBC News",
       "title": "How the deadly shooting in Krakow unfolded",
@@ -255,13 +255,6 @@
       "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
       "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-07T21:36:16+00:00"
-    },
-    {
-      "id": "fd2736992d1a3d5a4472",
-      "source": "BBC News",
-      "title": "Paraguay's former president charged after bank collapse",
-      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-07T19:17:22+00:00"
     }
   ]
 }
