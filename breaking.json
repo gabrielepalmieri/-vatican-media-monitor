@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-09T10:55:19.453908+00:00",
+  "updated_at": "2026-11-09T11:01:00.511892+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-09T10:55:19.453908+00:00"
+      "checked_at": "2026-11-09T11:01:00.511892+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-09T10:55:19.453908+00:00"
+      "checked_at": "2026-11-09T11:01:00.511892+00:00"
     }
   },
   "items": [
+    {
+      "id": "25bde0c94beefd5fdb9c",
+      "source": "BBC News",
+      "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
+      "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T10:59:26+00:00"
+    },
     {
       "id": "dc9095262644c363f2f4",
       "source": "TGcom24",
@@ -52,13 +59,6 @@
       "title": "Ucraina, Mosca: \"Kiev e gli alleati europei si preparano a proseguire la guerra\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-ucraina-russia-ultime-notizie-9-novembre_118785486-202602k.shtml",
       "published": "2026-11-09T08:32:00+00:00"
-    },
-    {
-      "id": "25bde0c94beefd5fdb9c",
-      "source": "BBC News",
-      "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
-      "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T08:16:57+00:00"
     },
     {
       "id": "eaffef4ba2f54b40176c",
