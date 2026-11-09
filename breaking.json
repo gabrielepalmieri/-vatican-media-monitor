@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-09T12:55:20.074526+00:00",
+  "updated_at": "2026-11-09T13:01:00.736596+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-09T12:55:20.074526+00:00"
+      "checked_at": "2026-11-09T13:01:00.736596+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-09T12:55:20.074526+00:00"
+      "checked_at": "2026-11-09T13:01:00.736596+00:00"
     }
   },
   "items": [
+    {
+      "id": "2ca500325760b9ef4d6b",
+      "source": "TGcom24",
+      "title": "Dati di Tajani e Lo Voi sul dark web, la procura di Roma apre un'indagine",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/cyberattacco-direzione-antimafia-indagini_118794374-202602k.shtml",
+      "published": "2026-11-09T12:58:00+00:00"
+    },
     {
       "id": "ff9feb6cd668d98f0437",
       "source": "BBC News",
@@ -262,13 +269,6 @@
       "title": "Media Usa: \"Trump ha chiesto a Netanyahu di procedere sul piano per Gaza\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/israele-herzog-eisenkot-nuovo-governo_118749810-202602k.shtml",
       "published": "2026-11-08T19:21:00+00:00"
-    },
-    {
-      "id": "891319c1449e093b2692",
-      "source": "TGcom24",
-      "title": "Israele, Eisenkot: \"Urge una nuova leadership di cui ci si possa fidare\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/israele-herzog-eisenkot-nuovo-governo_118749810-202602k.shtml",
-      "published": "2026-11-08T18:35:00+00:00"
     },
     {
       "id": "52e9e1dfd86ff56800b9",
