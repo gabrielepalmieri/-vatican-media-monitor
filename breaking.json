@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-09T20:05:19.226811+00:00",
+  "updated_at": "2026-11-09T20:10:25.436057+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-09T20:05:19.226811+00:00"
+      "checked_at": "2026-11-09T20:10:25.436057+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-09T20:05:19.226811+00:00"
+      "checked_at": "2026-11-09T20:10:25.436057+00:00"
     }
   },
   "items": [
+    {
+      "id": "20632aae63d0316c2357",
+      "source": "TGcom24",
+      "title": "Buenos Aires, Papa Leone incontra 5 vittime di abusi del clero",
+      "url": "https://www.tgcom24.mediaset.it/mondo/papa-leone-argentina-messa-buenos-aires-omelia-famiglia-lavoro_118801630-202602k.shtml",
+      "published": "2026-11-09T20:10:00+00:00"
+    },
     {
       "id": "affbcb0b2cf01867f485",
       "source": "BBC News",
@@ -283,13 +290,6 @@
       "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
       "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-09T07:10:11+00:00"
-    },
-    {
-      "id": "2a5b6f5fa653b883aa3b",
-      "source": "TGcom24",
-      "title": "Sparatoria a Cracovia, morto in ospedale l'attentatore",
-      "url": "https://www.tgcom24.mediaset.it/mondo/sparatoria-cracovia-morto-attentatore_118785521-202602k.shtml",
-      "published": "2026-11-09T06:31:00+00:00"
     },
     {
       "id": "3f49efc282d970988112",
