@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-09T09:05:19.690756+00:00",
+  "updated_at": "2026-11-09T09:10:29.497823+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-09T09:05:19.690756+00:00"
+      "checked_at": "2026-11-09T09:10:29.497823+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-09T09:05:19.690756+00:00"
+      "checked_at": "2026-11-09T09:10:29.497823+00:00"
     }
   },
   "items": [
+    {
+      "id": "42b68c50fd408423eb06",
+      "source": "TGcom24",
+      "title": "Ex Ilva, Jindal e l'italiana Arvedi in corsa per l'acquisizione degli impianti",
+      "url": "https://www.tgcom24.mediaset.it/economia/ex-ilva-jindal-arvedi-stabilimenti_118789833-202602k.shtml",
+      "published": "2026-11-09T09:06:00+00:00"
+    },
     {
       "id": "eb8d391a79bd5901017f",
       "source": "BBC News",
@@ -241,13 +248,6 @@
       "title": "Egitto, scontro tra due treni a Giza: morti e feriti",
       "url": "https://www.tgcom24.mediaset.it/2026/video/egitto-scontro-tra-due-treni-a-giza-morti-e-feriti_118750007-02k.shtml",
       "published": "2026-11-08T15:20:00+00:00"
-    },
-    {
-      "id": "9b5aff7b08bbba0160a1",
-      "source": "TGcom24",
-      "title": "Israele, Herzog affida l'incarico di governo a Eisenkot",
-      "url": "https://www.tgcom24.mediaset.it/mondo/israele-herzog-nuovo-governo-incarico-eisenkot-netanyahu_118718193-202602k.shtml",
-      "published": "2026-11-08T14:58:00+00:00"
     },
     {
       "id": "275bd5faeddfc69ca36e",
