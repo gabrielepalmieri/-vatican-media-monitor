@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-09T22:30:44.954581+00:00",
+  "updated_at": "2026-11-09T22:35:18.696259+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-09T22:30:44.954581+00:00"
+      "checked_at": "2026-11-09T22:35:18.696259+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-09T22:30:44.954581+00:00"
+      "checked_at": "2026-11-09T22:35:18.696259+00:00"
     }
   },
   "items": [
+    {
+      "id": "b8fb8ec1b708802d1753",
+      "source": "BBC News",
+      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T22:34:14+00:00"
+    },
     {
       "id": "e8234147d43d1867f338",
       "source": "TGcom24",
       "title": "Ucraina, Giorgetti non firma il nuovo pacchetto di aiuti a Kiev",
       "url": "https://www.tgcom24.mediaset.it/politica/ucraina-giorgetti-non-firma-il-nuovo-pacchetto-di-aiuti-a-kiev_118812183-202602k.shtml",
       "published": "2026-11-09T22:30:00+00:00"
-    },
-    {
-      "id": "b8fb8ec1b708802d1753",
-      "source": "BBC News",
-      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T22:17:23+00:00"
     },
     {
       "id": "000d95bb67e96ac83c38",
