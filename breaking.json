@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-09T17:01:04.388672+00:00",
+  "updated_at": "2026-11-09T17:05:22.150706+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-09T17:01:04.388672+00:00"
+      "checked_at": "2026-11-09T17:05:22.150706+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-09T17:01:04.388672+00:00"
+      "checked_at": "2026-11-09T17:05:22.150706+00:00"
     }
   },
   "items": [
@@ -16,7 +16,14 @@
       "source": "BBC News",
       "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
       "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T16:59:52+00:00"
+      "published": "2026-11-09T17:02:43+00:00"
+    },
+    {
+      "id": "145c044c9b3e50c2b369",
+      "source": "BBC News",
+      "title": "Men recruited to French gang as children to kill give rare insight into drug underworld",
+      "url": "https://www.bbc.co.uk/news/videos/cwe9l98l5n2po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T16:59:46+00:00"
     },
     {
       "id": "7097c334600835548905",
@@ -332,13 +339,6 @@
       "title": "Iran executes three men for 'armed unrest' after January protests",
       "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-08T13:37:50+00:00"
-    },
-    {
-      "id": "5189b018a1aca2385225",
-      "source": "BBC News",
-      "title": "How the deadly shooting in Krakow unfolded",
-      "url": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-08T09:29:24+00:00"
     }
   ]
 }
