@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-09T17:15:31.746793+00:00",
+  "updated_at": "2026-11-09T17:20:28.788682+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-09T17:15:31.746793+00:00"
+      "checked_at": "2026-11-09T17:20:28.788682+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-09T17:15:31.746793+00:00"
+      "checked_at": "2026-11-09T17:20:28.788682+00:00"
     }
   },
   "items": [
+    {
+      "id": "4ee7f07e185ea649018b",
+      "source": "BBC News",
+      "title": "Trump questions midterm elections integrity after previously accepting results",
+      "url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T17:16:42+00:00"
+    },
+    {
+      "id": "dd578fd627b66c5bef01",
+      "source": "TGcom24",
+      "title": "L'Ue ha attivato la clausola sulla flessibilità dell'Italia",
+      "url": "https://www.tgcom24.mediaset.it/economia/ue-flessibilita-italia-spese-difesa-sicurezza-energetica_118804535-202602k.shtml",
+      "published": "2026-11-09T17:13:00+00:00"
+    },
     {
       "id": "ff9feb6cd668d98f0437",
       "source": "BBC News",
@@ -31,13 +45,6 @@
       "title": "France accuses Iran of supermarket fridge hacking",
       "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-09T16:55:07+00:00"
-    },
-    {
-      "id": "4ee7f07e185ea649018b",
-      "source": "BBC News",
-      "title": "Trump questions midterm elections integrity after previously accepting results",
-      "url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T16:53:47+00:00"
     },
     {
       "id": "25bde0c94beefd5fdb9c",
@@ -283,13 +290,6 @@
       "title": "Gaza, cumulo di sabbia crolla sulle tende: muoiono tre bambini e due donne",
       "url": "https://www.tgcom24.mediaset.it/2026/video/gaza-crollo-sabbia-tendopoli-morti_118779519-02k.shtml",
       "published": "2026-11-08T23:28:00+00:00"
-    },
-    {
-      "id": "9b174873764e49211582",
-      "source": "TGcom24",
-      "title": "Vicenza, picchia la moglie: la figlia di 9 anni chiama il 112 e lo fa arrestare",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/vicenza-picchia-moglie-figlia-chiama-polizia-arresto_118755214-202602k.shtml",
-      "published": "2026-11-08T22:56:00+00:00"
     },
     {
       "id": "dcb45259d965bfb46e6c",
