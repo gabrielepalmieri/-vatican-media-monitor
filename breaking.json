@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-10T01:35:17.753441+00:00",
+  "updated_at": "2026-11-10T01:40:26.021327+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-11-10T01:35:17.753441+00:00"
+      "checked_at": "2026-11-10T01:40:26.021327+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T01:35:17.753441+00:00"
+      "checked_at": "2026-11-10T01:40:26.021327+00:00"
     }
   },
   "items": [
+    {
+      "id": "25f10c01005e6f2ab206",
+      "source": "BBC News",
+      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T01:38:49+00:00"
+    },
     {
       "id": "9b5f1b1ec64429c9067c",
       "source": "BBC News",
@@ -45,13 +52,6 @@
       "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
       "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-09T23:51:22+00:00"
-    },
-    {
-      "id": "25f10c01005e6f2ab206",
-      "source": "BBC News",
-      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T23:45:14+00:00"
     },
     {
       "id": "b8fb8ec1b708802d1753",
