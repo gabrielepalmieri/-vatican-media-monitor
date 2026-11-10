@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-10T13:15:30.298100+00:00",
+  "updated_at": "2026-11-10T13:20:26.264043+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-10T13:15:30.298100+00:00"
+      "checked_at": "2026-11-10T13:20:26.264043+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T13:15:30.298100+00:00"
+      "checked_at": "2026-11-10T13:20:26.264043+00:00"
     }
   },
   "items": [
@@ -16,7 +16,14 @@
       "source": "BBC News",
       "title": "Anthropic to raise $64bn in major stock market listing",
       "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T13:01:03+00:00"
+      "published": "2026-11-10T13:19:37+00:00"
+    },
+    {
+      "id": "a6cd370c7c07292f9e79",
+      "source": "TGcom24",
+      "title": "Tajani: \"Sostegno dell'Italia a Ucraina è garantito, invieremo aiuti\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-ucraina-russia-ultime-notizie-10-novembre_118815464-202602k.shtml",
+      "published": "2026-11-10T13:15:00+00:00"
     },
     {
       "id": "a36259936c3bbba0fdaa",
@@ -346,13 +353,6 @@
       "title": "Parigi accusa l'Iran: \"Pasdaran dietro i cyberattacchi ai frigoriferi\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/cyberattacchi-congelatori-francia-pasdaran-iran_118805906-202602k.shtml",
       "published": "2026-11-09T17:43:00+00:00"
-    },
-    {
-      "id": "dd578fd627b66c5bef01",
-      "source": "TGcom24",
-      "title": "L'Ue ha attivato la clausola sulla flessibilità dell'Italia",
-      "url": "https://www.tgcom24.mediaset.it/economia/ue-flessibilita-italia-spese-difesa-sicurezza-energetica_118804535-202602k.shtml",
-      "published": "2026-11-09T17:13:00+00:00"
     },
     {
       "id": "ff9feb6cd668d98f0437",
