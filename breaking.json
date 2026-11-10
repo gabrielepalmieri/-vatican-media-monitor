@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-10T21:25:17.750802+00:00",
+  "updated_at": "2026-11-10T21:30:42.711506+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-10T21:25:17.750802+00:00"
+      "checked_at": "2026-11-10T21:30:42.711506+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T21:25:17.750802+00:00"
+      "checked_at": "2026-11-10T21:30:42.711506+00:00"
     }
   },
   "items": [
+    {
+      "id": "eeb0c2fbe921f1dac92a",
+      "source": "TGcom24",
+      "title": "Sospetto spionaggio russo: in manette un militare americano nel Regno Unito",
+      "url": "https://www.tgcom24.mediaset.it/mondo/spionaggio-russo-militare-americano-regno-unito_118841210-202602k.shtml",
+      "published": "2026-11-10T21:24:00+00:00"
+    },
     {
       "id": "262893d99ea9150f68bb",
       "source": "BBC News",
@@ -42,7 +49,7 @@
     {
       "id": "415ee74e848a52c66347",
       "source": "TGcom24",
-      "title": "Argentina, fuggito dai domiciliari l'ex brigatista Bertulazzi: era in attesa dell'estradizione",
+      "title": "Argentina, fuggito dai domiciliari l'ex Br Bertulazzi: era in attesa dell'estradizione",
       "url": "https://www.tgcom24.mediaset.it/mondo/leonardo-bertulazzi-ex-brigatista-fuggito-domiciliari-argentina_118841600-202602k.shtml",
       "published": "2026-11-10T20:52:00+00:00"
     },
@@ -381,13 +388,6 @@
       "title": "Oxford museum returns ancestral Naga skulls to India",
       "url": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-10T06:23:42+00:00"
-    },
-    {
-      "id": "44fd96d5be6b5cdb6258",
-      "source": "TGcom24",
-      "title": "India, tre operai morti in una fabbrica componenti iPhone: Apple indagherà",
-      "url": "https://www.tgcom24.mediaset.it/mondo/india-operai-morti-fabbrica-iphone-apple_118813545-202602k.shtml",
-      "published": "2026-11-10T06:05:00+00:00"
     },
     {
       "id": "3c585d9dfb3c2acf3e21",
