@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-10T23:05:18.581785+00:00",
+  "updated_at": "2026-11-10T23:10:24.372861+00:00",
   "sources": {
     "TGcom24": {
-      "ok": false,
-      "checked_at": "2026-11-10T23:05:18.581785+00:00"
+      "ok": true,
+      "checked_at": "2026-11-10T23:10:24.372861+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T23:05:18.581785+00:00"
+      "checked_at": "2026-11-10T23:10:24.372861+00:00"
     }
   },
   "items": [
+    {
+      "id": "8556a36c44db772b079a",
+      "source": "TGcom24",
+      "title": "Libano, spari contro pattuglia Unifil nel Sud del Paese: \"Nessun soldato ferito\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/libano-spari-contro-una-pattuglia-unifil-nel-sud-del-paese-nessun-soldato-ferito-_118841591-202602k.shtml",
+      "published": "2026-11-10T23:05:00+00:00"
+    },
     {
       "id": "389ad5fd8e90a91f3dcc",
       "source": "BBC News",
@@ -367,13 +374,6 @@
       "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
       "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-10T08:23:21+00:00"
-    },
-    {
-      "id": "f8ff37dbd6c3abb3f8b9",
-      "source": "TGcom24",
-      "title": "Catania, finte carte Pokémon e iPhone contraffatti: oltre 7mila sequestri della Gdf",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/catania-guardia-di-finanza-sequestra-oltre-7mila-articoli-contraffatti-tra-questi-alcuni-finti-iphone-_118816373-02k.shtml",
-      "published": "2026-11-10T08:18:00+00:00"
     },
     {
       "id": "8d8ef956bdd26286dc8a",
