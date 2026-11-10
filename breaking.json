@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-10T09:05:21.440565+00:00",
+  "updated_at": "2026-11-10T09:10:25.652427+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-10T09:05:21.440565+00:00"
+      "checked_at": "2026-11-10T09:10:25.652427+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T09:05:21.440565+00:00"
+      "checked_at": "2026-11-10T09:10:25.652427+00:00"
     }
   },
   "items": [
+    {
+      "id": "acb6cfd91878b4dc4a89",
+      "source": "BBC News",
+      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T09:07:00+00:00"
+    },
     {
       "id": "d1af51820a0aa3db2971",
       "source": "TGcom24",
@@ -38,13 +45,6 @@
       "title": "Catania, finte carte Pokémon e iPhone contraffatti: oltre 7mila sequestri della Gdf",
       "url": "https://www.tgcom24.mediaset.it/2026/video/catania-guardia-di-finanza-sequestra-oltre-7mila-articoli-contraffatti-tra-questi-alcuni-finti-iphone-_118816373-02k.shtml",
       "published": "2026-11-10T08:18:00+00:00"
-    },
-    {
-      "id": "acb6cfd91878b4dc4a89",
-      "source": "BBC News",
-      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T07:58:07+00:00"
     },
     {
       "id": "5e71c2166c0e270efe7f",
