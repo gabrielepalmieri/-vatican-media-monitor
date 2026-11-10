@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-10T21:05:20.443835+00:00",
+  "updated_at": "2026-11-10T21:10:25.018689+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-10T21:05:20.443835+00:00"
+      "checked_at": "2026-11-10T21:10:25.018689+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T21:05:20.443835+00:00"
+      "checked_at": "2026-11-10T21:10:25.018689+00:00"
     }
   },
   "items": [
+    {
+      "id": "389ad5fd8e90a91f3dcc",
+      "source": "BBC News",
+      "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T21:06:04+00:00"
+    },
     {
       "id": "262893d99ea9150f68bb",
       "source": "BBC News",
@@ -26,11 +33,11 @@
       "published": "2026-11-10T20:52:00+00:00"
     },
     {
-      "id": "389ad5fd8e90a91f3dcc",
+      "id": "6c4195ae5cacb0b62979",
       "source": "BBC News",
-      "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T20:40:13+00:00"
+      "title": "Spain's king and queen attend memorial service for rail crash victims",
+      "url": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T20:46:40+00:00"
     },
     {
       "id": "979d94e8e7fcdc794dcc",
@@ -416,13 +423,6 @@
       "title": "The superpower battle over energy – and what it means for your bills",
       "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-10T00:08:28+00:00"
-    },
-    {
-      "id": "43bbf6a78963587fb48e",
-      "source": "BBC News",
-      "title": "Turkey steel factory blast kills at least 17 people",
-      "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T20:42:04+00:00"
     }
   ]
 }
