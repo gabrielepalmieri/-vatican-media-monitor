@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-10T12:50:25.355784+00:00",
+  "updated_at": "2026-11-10T12:55:19.021898+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-10T12:50:25.355784+00:00"
+      "checked_at": "2026-11-10T12:55:19.021898+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T12:50:25.355784+00:00"
+      "checked_at": "2026-11-10T12:55:19.021898+00:00"
     }
   },
   "items": [
+    {
+      "id": "77d5573647f9d317f27e",
+      "source": "BBC News",
+      "title": "Anthropic to raise $64bn in major stock market listing",
+      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T12:47:18+00:00"
+    },
     {
       "id": "978e0486d12908d2b041",
       "source": "BBC News",
@@ -80,6 +87,13 @@
       "title": "Watch: Man smashes Chinese government building with excavator",
       "url": "https://www.bbc.co.uk/news/videos/ckp8g8p4myv8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-10T09:37:15+00:00"
+    },
+    {
+      "id": "8cb61dbd6ef8048835d2",
+      "source": "BBC News",
+      "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T09:23:55+00:00"
     },
     {
       "id": "acb6cfd91878b4dc4a89",
@@ -201,13 +215,6 @@
       "published": "2026-11-10T00:08:28+00:00"
     },
     {
-      "id": "29a4a8f999d5980a267d",
-      "source": "BBC News",
-      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T23:51:22+00:00"
-    },
-    {
       "id": "b8fb8ec1b708802d1753",
       "source": "BBC News",
       "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
@@ -234,13 +241,6 @@
       "title": "Ucraina, Giorgetti non firma il nuovo pacchetto di aiuti a Kiev",
       "url": "https://www.tgcom24.mediaset.it/politica/ucraina-giorgetti-non-firma-il-nuovo-pacchetto-di-aiuti-a-kiev_118812183-202602k.shtml",
       "published": "2026-11-09T22:30:00+00:00"
-    },
-    {
-      "id": "000d95bb67e96ac83c38",
-      "source": "BBC News",
-      "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
-      "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T21:52:28+00:00"
     },
     {
       "id": "648cd50122626002a580",
