@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-10T20:50:24.645881+00:00",
+  "updated_at": "2026-11-10T20:55:18.593193+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-10T20:50:24.645881+00:00"
+      "checked_at": "2026-11-10T20:55:18.593193+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T20:50:24.645881+00:00"
+      "checked_at": "2026-11-10T20:55:18.593193+00:00"
     }
   },
   "items": [
+    {
+      "id": "262893d99ea9150f68bb",
+      "source": "BBC News",
+      "title": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T20:53:33+00:00"
+    },
+    {
+      "id": "415ee74e848a52c66347",
+      "source": "TGcom24",
+      "title": "Argentina, fuggito dai domiciliari l'ex brigatista Bertulazzi: era in attesa dell'estradizione",
+      "url": "https://www.tgcom24.mediaset.it/mondo/leonardo-bertulazzi-ex-brigatista-fuggito-domiciliari-argentina_118841600-202602k.shtml",
+      "published": "2026-11-10T20:52:00+00:00"
+    },
     {
       "id": "389ad5fd8e90a91f3dcc",
       "source": "BBC News",
@@ -369,13 +383,6 @@
       "published": "2026-11-10T05:38:53+00:00"
     },
     {
-      "id": "33c1bc8fd075edeb7285",
-      "source": "TGcom24",
-      "title": "Cina, surplus commerciale di oltre mille miliardi di dollari in dieci mesi",
-      "url": "https://www.tgcom24.mediaset.it/mondo/cina-surplus-commerciale-1000-miliardi_118813542-202602k.shtml",
-      "published": "2026-11-10T05:30:00+00:00"
-    },
-    {
       "id": "0ab2943a2d37912406bd",
       "source": "BBC News",
       "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
@@ -409,13 +416,6 @@
       "title": "The superpower battle over energy – and what it means for your bills",
       "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-10T00:08:28+00:00"
-    },
-    {
-      "id": "b8fb8ec1b708802d1753",
-      "source": "BBC News",
-      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T23:28:53+00:00"
     },
     {
       "id": "43bbf6a78963587fb48e",
