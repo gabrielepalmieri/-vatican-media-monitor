@@ -1,22 +1,43 @@
 {
-  "updated_at": "2026-11-10T20:15:29.555092+00:00",
+  "updated_at": "2026-11-10T20:20:26.746367+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-10T20:15:29.555092+00:00"
+      "checked_at": "2026-11-10T20:20:26.746367+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T20:15:29.555092+00:00"
+      "checked_at": "2026-11-10T20:20:26.746367+00:00"
     }
   },
   "items": [
+    {
+      "id": "389ad5fd8e90a91f3dcc",
+      "source": "BBC News",
+      "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T20:03:41+00:00"
+    },
     {
       "id": "db0355f45577e6c6681a",
       "source": "TGcom24",
       "title": "Iran, Pahlavi a Tgcom24: \"L'unica soluzione è il definitivo collasso del regime\"",
       "url": "https://www.tgcom24.mediaset.it/2026/video/guerra-iran-reza-pahlavi_118838479-02k.shtml",
       "published": "2026-11-10T19:56:00+00:00"
+    },
+    {
+      "id": "932e845b486075eab20e",
+      "source": "BBC News",
+      "title": "Senior US soldier arrested by UK counter-terror police",
+      "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T19:34:48+00:00"
+    },
+    {
+      "id": "c16858a5c4bcd0c8e398",
+      "source": "BBC News",
+      "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T19:26:42+00:00"
     },
     {
       "id": "818a8c085a82a4880286",
@@ -31,6 +52,13 @@
       "title": "Eternit bis, Cassazione: nuovo processo di appello per Schmidheiny",
       "url": "https://www.tgcom24.mediaset.it/mondo/eternit-bis-cassazione-nuovo-processo-di-appello-per-l-imprenditore-schmidheiny_118838847-202602k.shtml",
       "published": "2026-11-10T18:45:00+00:00"
+    },
+    {
+      "id": "01ca91d7ca4f27f3e1b4",
+      "source": "BBC News",
+      "title": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
+      "url": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T18:43:04+00:00"
     },
     {
       "id": "8c7f7e39dc6adcf06c21",
@@ -52,6 +80,13 @@
       "title": "Cop31, per la prima volta nella storia le rinnovabili superano il carbone",
       "url": "https://www.tgcom24.mediaset.it/mondo/cop31-turchia-rinnovabili-carbone-greta-thunberg_118838461-202602k.shtml",
       "published": "2026-11-10T18:22:00+00:00"
+    },
+    {
+      "id": "c32673197e45a577326e",
+      "source": "BBC News",
+      "title": "Arrests made after visit from former US President Biden",
+      "url": "https://www.bbc.co.uk/news/articles/ck78p827y642o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T18:07:56+00:00"
     },
     {
       "id": "5a657276631bed4a54e5",
@@ -381,20 +416,6 @@
       "title": "The superpower battle over energy – and what it means for your bills",
       "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-10T00:08:28+00:00"
-    },
-    {
-      "id": "b8fb8ec1b708802d1753",
-      "source": "BBC News",
-      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T23:28:53+00:00"
-    },
-    {
-      "id": "648cd50122626002a580",
-      "source": "BBC News",
-      "title": "Trial date of alleged Charlie Kirk killer set for June 2028",
-      "url": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T21:48:38+00:00"
     },
     {
       "id": "43bbf6a78963587fb48e",
