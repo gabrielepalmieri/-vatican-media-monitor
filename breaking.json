@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-10T08:55:17.887460+00:00",
+  "updated_at": "2026-11-10T09:01:00.393690+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-10T08:55:17.887460+00:00"
+      "checked_at": "2026-11-10T09:01:00.393690+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T08:55:17.887460+00:00"
+      "checked_at": "2026-11-10T09:01:00.393690+00:00"
     }
   },
   "items": [
+    {
+      "id": "d1af51820a0aa3db2971",
+      "source": "TGcom24",
+      "title": "Al via il trilaterale Russia-Ucraina-Stati Uniti ad Abu Dhabi",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-ucraina-russia-ultime-notizie-10-novembre_118815464-202602k.shtml",
+      "published": "2026-11-10T08:55:00+00:00"
+    },
     {
       "id": "9319753485b558b5c17a",
       "source": "BBC News",
@@ -52,6 +59,13 @@
       "title": "Filippine, precipita aereo privato con a bordo sei cittadini stranieri",
       "url": "https://www.tgcom24.mediaset.it/mondo/filippine-incidente-aereo-privato_118814097-202602k.shtml",
       "published": "2026-11-10T06:40:00+00:00"
+    },
+    {
+      "id": "8d8ef956bdd26286dc8a",
+      "source": "BBC News",
+      "title": "Oxford museum returns ancestral Naga skulls to India",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T06:23:42+00:00"
     },
     {
       "id": "44fd96d5be6b5cdb6258",
@@ -355,13 +369,6 @@
       "published": "2026-11-09T13:28:00+00:00"
     },
     {
-      "id": "2ca500325760b9ef4d6b",
-      "source": "TGcom24",
-      "title": "Dati di Tajani e Lo Voi sul dark web, la procura di Roma apre un'indagine",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/cyberattacco-direzione-antimafia-indagini_118794374-202602k.shtml",
-      "published": "2026-11-09T12:58:00+00:00"
-    },
-    {
       "id": "918107d889b95b3a60ea",
       "source": "BBC News",
       "title": "Krakow shooting suspect has died in hospital, police say",
@@ -381,13 +388,6 @@
       "title": "Inside the French drug gangs recruiting children to kill",
       "url": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-09T06:00:26+00:00"
-    },
-    {
-      "id": "cd570f64e419bf4e177b",
-      "source": "BBC News",
-      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T02:50:13+00:00"
     },
     {
       "id": "dcb45259d965bfb46e6c",
