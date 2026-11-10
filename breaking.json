@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-10T00:35:18.855372+00:00",
+  "updated_at": "2026-11-10T00:40:25.213993+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-11-10T00:35:18.855372+00:00"
+      "checked_at": "2026-11-10T00:40:25.213993+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T00:35:18.855372+00:00"
+      "checked_at": "2026-11-10T00:40:25.213993+00:00"
     }
   },
   "items": [
+    {
+      "id": "9b5f1b1ec64429c9067c",
+      "source": "BBC News",
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T00:34:53+00:00"
+    },
     {
       "id": "d5e1ac59b45bebbb2160",
       "source": "BBC News",
@@ -31,13 +38,6 @@
       "title": "The superpower battle over energy – and what it means for your bills",
       "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-10T00:08:28+00:00"
-    },
-    {
-      "id": "9b5f1b1ec64429c9067c",
-      "source": "BBC News",
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T23:59:50+00:00"
     },
     {
       "id": "29a4a8f999d5980a267d",
