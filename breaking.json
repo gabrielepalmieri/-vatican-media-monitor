@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-10T18:25:18.969861+00:00",
+  "updated_at": "2026-11-10T18:30:45.156005+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-10T18:25:18.969861+00:00"
+      "checked_at": "2026-11-10T18:30:45.156005+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T18:25:18.969861+00:00"
+      "checked_at": "2026-11-10T18:30:45.156005+00:00"
     }
   },
   "items": [
+    {
+      "id": "ae41c1a0b6681b9a25c8",
+      "source": "TGcom24",
+      "title": "Cop31, per la prima volta nella storia le rinnovabili superano il carbone",
+      "url": "https://www.tgcom24.mediaset.it/mondo/cop31-turchia-rinnovabili-carbone-greta-thunberg_118838461-202602k.shtml",
+      "published": "2026-11-10T18:22:00+00:00"
+    },
     {
       "id": "5a657276631bed4a54e5",
       "source": "BBC News",
@@ -374,13 +381,6 @@
       "title": "Trial date of alleged Charlie Kirk killer set for June 2028",
       "url": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-09T21:48:38+00:00"
-    },
-    {
-      "id": "0ffac160c65e099cefc7",
-      "source": "TGcom24",
-      "title": "Cyberattacchi, l'ambasciata russa ironizza con una vignetta su difese Italia",
-      "url": "https://www.tgcom24.mediaset.it/mondo/cyberattacchi-ambasciata-russa-ironizza-italia_118810836-202602k.shtml",
-      "published": "2026-11-09T21:45:00+00:00"
     },
     {
       "id": "43bbf6a78963587fb48e",
