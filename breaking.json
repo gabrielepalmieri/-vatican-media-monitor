@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-10T11:25:19.662578+00:00",
+  "updated_at": "2026-11-10T11:30:43.571123+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-10T11:25:19.662578+00:00"
+      "checked_at": "2026-11-10T11:30:43.571123+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T11:25:19.662578+00:00"
+      "checked_at": "2026-11-10T11:30:43.571123+00:00"
     }
   },
   "items": [
+    {
+      "id": "672214aec0fb2b57586d",
+      "source": "BBC News",
+      "title": "Police officer dies and another injured after backpack explosion in Oviedo",
+      "url": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T11:25:46+00:00"
+    },
     {
       "id": "999c020849bb28375a0a",
       "source": "TGcom24",
       "title": "Il ministro Valditara: \"Il manuale di Laterza indottrina gli studenti, va ritirato\"",
       "url": "https://www.tgcom24.mediaset.it/politica/giuseppe-valditara-manuale-laterza-va-ritirato_118823442-202602k.shtml",
       "published": "2026-11-10T11:17:00+00:00"
-    },
-    {
-      "id": "672214aec0fb2b57586d",
-      "source": "BBC News",
-      "title": "Police officer dies and another injured after backpack explosion in Oviedo",
-      "url": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T10:57:21+00:00"
     },
     {
       "id": "a345af7861c143aee79d",
