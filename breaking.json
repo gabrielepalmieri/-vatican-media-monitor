@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-10T15:50:26.027911+00:00",
+  "updated_at": "2026-11-10T15:55:20.331388+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-10T15:50:26.027911+00:00"
+      "checked_at": "2026-11-10T15:55:20.331388+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T15:50:26.027911+00:00"
+      "checked_at": "2026-11-10T15:55:20.331388+00:00"
     }
   },
   "items": [
+    {
+      "id": "978e0486d12908d2b041",
+      "source": "BBC News",
+      "title": "Israel's new parliament sworn in as leaders compete to form government",
+      "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T15:51:09+00:00"
+    },
     {
       "id": "bd90e9199f34956c44f1",
       "source": "TGcom24",
@@ -94,13 +101,6 @@
       "title": "Urbanistica Milano: procura chiede archiviazione per Sala, Boeri e Catella",
       "url": "https://www.tgcom24.mediaset.it/cronaca/milano-urbanistica-archiviazione-sala-boeri-catella_118828048-202602k.shtml",
       "published": "2026-11-10T12:35:00+00:00"
-    },
-    {
-      "id": "978e0486d12908d2b041",
-      "source": "BBC News",
-      "title": "Israel's new parliament to be sworn in as leaders compete to form government",
-      "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T12:25:48+00:00"
     },
     {
       "id": "848e2fa4e0a1e63a4fcd",
