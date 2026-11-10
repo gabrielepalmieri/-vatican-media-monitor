@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-10T14:45:30.033094+00:00",
+  "updated_at": "2026-11-10T14:50:27.306114+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-10T14:45:30.033094+00:00"
+      "checked_at": "2026-11-10T14:50:27.306114+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T14:45:30.033094+00:00"
+      "checked_at": "2026-11-10T14:50:27.306114+00:00"
     }
   },
   "items": [
+    {
+      "id": "77d5573647f9d317f27e",
+      "source": "BBC News",
+      "title": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T14:46:50+00:00"
+    },
     {
       "id": "3dfd0ead5452ef466fc4",
       "source": "TGcom24",
@@ -38,13 +45,6 @@
       "title": "Hegseth e l'impeachment: \"Falliranno di nuovo, come con Trump\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-hegseth-impeachment-fallira-come-con-trump_118831661-202602k.shtml",
       "published": "2026-11-10T14:26:00+00:00"
-    },
-    {
-      "id": "77d5573647f9d317f27e",
-      "source": "BBC News",
-      "title": "Anthropic heads for $1.3 trillion valuation in major stock market listing",
-      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T14:04:22+00:00"
     },
     {
       "id": "7097c334600835548905",
