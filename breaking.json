@@ -1,29 +1,43 @@
 {
-  "updated_at": "2026-11-10T21:20:24.510318+00:00",
+  "updated_at": "2026-11-10T21:25:17.750802+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-10T21:20:24.510318+00:00"
+      "checked_at": "2026-11-10T21:25:17.750802+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T21:20:24.510318+00:00"
+      "checked_at": "2026-11-10T21:25:17.750802+00:00"
     }
   },
   "items": [
+    {
+      "id": "262893d99ea9150f68bb",
+      "source": "BBC News",
+      "title": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T21:23:00+00:00"
+    },
+    {
+      "id": "acb6cfd91878b4dc4a89",
+      "source": "BBC News",
+      "title": "First day of Ukraine peace talks constructive, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T21:21:55+00:00"
+    },
+    {
+      "id": "80f53adaafe1d550d671",
+      "source": "BBC News",
+      "title": "Why does Australia want Brits to swap Sydney for the outback?",
+      "url": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T21:17:00+00:00"
+    },
     {
       "id": "389ad5fd8e90a91f3dcc",
       "source": "BBC News",
       "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
       "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-10T21:06:04+00:00"
-    },
-    {
-      "id": "262893d99ea9150f68bb",
-      "source": "BBC News",
-      "title": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T20:53:33+00:00"
     },
     {
       "id": "415ee74e848a52c66347",
@@ -136,13 +150,6 @@
       "title": "Israele: \"Leader Ra'am verso riconoscimento Hamas come gruppo terroristico\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/israele-leader-ra-am-verso-il-riconoscimento-di-hamas-come-gruppo-terroristico-_118837208-202602k.shtml",
       "published": "2026-11-10T17:41:00+00:00"
-    },
-    {
-      "id": "acb6cfd91878b4dc4a89",
-      "source": "BBC News",
-      "title": "First day of Ukraine peace talks constructive, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T17:29:36+00:00"
     },
     {
       "id": "978e0486d12908d2b041",
