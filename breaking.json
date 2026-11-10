@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-10T12:10:28.053786+00:00",
+  "updated_at": "2026-11-10T12:15:29.961532+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-10T12:10:28.053786+00:00"
+      "checked_at": "2026-11-10T12:15:29.961532+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T12:10:28.053786+00:00"
+      "checked_at": "2026-11-10T12:15:29.961532+00:00"
     }
   },
   "items": [
+    {
+      "id": "848e2fa4e0a1e63a4fcd",
+      "source": "TGcom24",
+      "title": "Omicidio di Milano Certosa, arrestati altri 5 giovani della gang Latin King",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-stazione-certosa-omicidio-latin-king-gianluca-ibarra_118825800-202602k.shtml",
+      "published": "2026-11-10T12:10:00+00:00"
+    },
     {
       "id": "672214aec0fb2b57586d",
       "source": "BBC News",
@@ -346,13 +353,6 @@
       "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
       "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-09T16:33:55+00:00"
-    },
-    {
-      "id": "afe342c4c3b47cedd3ed",
-      "source": "TGcom24",
-      "title": "Papa Leone in Argentina: \"Lavoro precario e instabilità distruggono famiglie\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/papa-leone-argentina-messa-buenos-aires-omelia-famiglia-lavoro_118801630-202602k.shtml",
-      "published": "2026-11-09T16:10:00+00:00"
     },
     {
       "id": "b11af4d0fd310d388ac4",
