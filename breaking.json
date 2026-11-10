@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-10T22:10:24.202472+00:00",
+  "updated_at": "2026-11-10T22:15:27.583441+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-10T22:10:24.202472+00:00"
+      "checked_at": "2026-11-10T22:15:27.583441+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T22:10:24.202472+00:00"
+      "checked_at": "2026-11-10T22:15:27.583441+00:00"
     }
   },
   "items": [
+    {
+      "id": "30dd9f6cf0ab5d7a0a7e",
+      "source": "TGcom24",
+      "title": "Usa incriminano tre agenti iraniani per attacco a base inglese di Fairford",
+      "url": "https://www.tgcom24.mediaset.it/mondo/stati-uniti-incriminano-agenti-iraniani-per-attacco-fallito-base-inglese_118842537-202602k.shtml",
+      "published": "2026-11-10T22:09:00+00:00"
+    },
     {
       "id": "389ad5fd8e90a91f3dcc",
       "source": "BBC News",
@@ -374,13 +381,6 @@
       "title": "Napoli, camorra e appalti: 13 arresti e un sequestro",
       "url": "https://www.tgcom24.mediaset.it/cronaca/napoli-camorra-appalti-arresti_118816377-202602k.shtml",
       "published": "2026-11-10T07:30:00+00:00"
-    },
-    {
-      "id": "fb84ed30393520490896",
-      "source": "TGcom24",
-      "title": "Filippine, precipita aereo privato con a bordo sei cittadini stranieri",
-      "url": "https://www.tgcom24.mediaset.it/mondo/filippine-incidente-aereo-privato_118814097-202602k.shtml",
-      "published": "2026-11-10T06:40:00+00:00"
     },
     {
       "id": "8d8ef956bdd26286dc8a",
