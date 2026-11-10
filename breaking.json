@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-10T14:40:27.612124+00:00",
+  "updated_at": "2026-11-10T14:45:30.033094+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-10T14:40:27.612124+00:00"
+      "checked_at": "2026-11-10T14:45:30.033094+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T14:40:27.612124+00:00"
+      "checked_at": "2026-11-10T14:45:30.033094+00:00"
     }
   },
   "items": [
+    {
+      "id": "3dfd0ead5452ef466fc4",
+      "source": "TGcom24",
+      "title": "Ucraina, Lavrov: \"Non accetteremo le richieste europee di tregua immediata\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-ucraina-russia-ultime-notizie-10-novembre_118815464-202602k.shtml",
+      "published": "2026-11-10T14:44:00+00:00"
+    },
     {
       "id": "acb6cfd91878b4dc4a89",
       "source": "BBC News",
@@ -353,13 +360,6 @@
       "title": "Millions fill Buenos Aires streets to welcome Pope Leo XIV",
       "url": "https://www.bbc.co.uk/news/videos/cvp8g82pled5o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-09T19:09:27+00:00"
-    },
-    {
-      "id": "3c40c442fb35beb1b982",
-      "source": "TGcom24",
-      "title": "El Niño, l'allarme del Cesvi: \"Rischio fame per 49 milioni di persone in più\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/cop31-cesvi-el-nino-rischio-fame_118804196-202602k.shtml",
-      "published": "2026-11-09T18:57:00+00:00"
     },
     {
       "id": "7e7e599e857f39491649",
