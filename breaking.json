@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-10T08:20:25.409144+00:00",
+  "updated_at": "2026-11-10T08:25:22.193565+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-10T08:20:25.409144+00:00"
+      "checked_at": "2026-11-10T08:25:22.193565+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T08:20:25.409144+00:00"
+      "checked_at": "2026-11-10T08:25:22.193565+00:00"
     }
   },
   "items": [
+    {
+      "id": "9b5f1b1ec64429c9067c",
+      "source": "BBC News",
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T08:23:21+00:00"
+    },
     {
       "id": "f8ff37dbd6c3abb3f8b9",
       "source": "TGcom24",
@@ -87,13 +94,6 @@
       "title": "Vaccini, cala la somministrazione antinfluenzale tra over 65: sotto il 50%",
       "url": "https://www.tgcom24.mediaset.it/salute/vaccini-cala-la-somministrazione-antinfluenzale-tra-over-65-sotto-il-50-_118811774-202602k.shtml",
       "published": "2026-11-10T05:00:00+00:00"
-    },
-    {
-      "id": "9b5f1b1ec64429c9067c",
-      "source": "BBC News",
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T03:58:13+00:00"
     },
     {
       "id": "95a39c789a41bfcb4ba6",
