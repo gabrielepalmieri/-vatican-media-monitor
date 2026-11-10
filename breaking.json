@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-10T16:01:00.797661+00:00",
+  "updated_at": "2026-11-10T16:05:19.703584+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-10T16:01:00.797661+00:00"
+      "checked_at": "2026-11-10T16:05:19.703584+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T16:01:00.797661+00:00"
+      "checked_at": "2026-11-10T16:05:19.703584+00:00"
     }
   },
   "items": [
+    {
+      "id": "d19fee9d53cb9d6fcb56",
+      "source": "TGcom24",
+      "title": "Zelensky: \"Colloqui ad Abu Dhabi costruttivi, parlato di garanzie di sicurezza\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-ucraina-russia-ultime-notizie-10-novembre_118815464-202602k.shtml",
+      "published": "2026-11-10T16:00:00+00:00"
+    },
     {
       "id": "978e0486d12908d2b041",
       "source": "BBC News",
@@ -346,13 +353,6 @@
       "title": "Hacker in azione a Mosca: \"Oltre 400mila i soldati russi morti al fronte\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-ucraina-russia-ultime-notizie-9-novembre_118785486-202602k.shtml",
       "published": "2026-11-09T20:36:00+00:00"
-    },
-    {
-      "id": "20632aae63d0316c2357",
-      "source": "TGcom24",
-      "title": "Buenos Aires, papa Leone incontra 5 vittime di abusi del clero",
-      "url": "https://www.tgcom24.mediaset.it/mondo/papa-leone-argentina-messa-buenos-aires-omelia-famiglia-lavoro_118801630-202602k.shtml",
-      "published": "2026-11-09T20:10:00+00:00"
     },
     {
       "id": "e1037525ecbcabf9b840",
