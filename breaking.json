@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-10T13:40:27.182429+00:00",
+  "updated_at": "2026-11-10T13:45:30.928835+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-10T13:40:27.182429+00:00"
+      "checked_at": "2026-11-10T13:45:30.928835+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T13:40:27.182429+00:00"
+      "checked_at": "2026-11-10T13:45:30.928835+00:00"
     }
   },
   "items": [
+    {
+      "id": "c4c43a9e2939abf2107e",
+      "source": "TGcom24",
+      "title": "Martina Carbonaro, i genitori a Tucci: \"L'hai uccisa, ti devi uccidere anche tu\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/martina-carbonaro-femminicidio-genitori_118829469-202602k.shtml",
+      "published": "2026-11-10T13:44:00+00:00"
+    },
     {
       "id": "7097c334600835548905",
       "source": "BBC News",
@@ -360,13 +367,6 @@
       "title": "Trump questions midterm elections integrity after previously accepting results",
       "url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-09T17:47:29+00:00"
-    },
-    {
-      "id": "a5ef8826a141c29a23c0",
-      "source": "TGcom24",
-      "title": "Parigi accusa l'Iran: \"Pasdaran dietro i cyberattacchi ai frigoriferi\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/cyberattacchi-congelatori-francia-pasdaran-iran_118805906-202602k.shtml",
-      "published": "2026-11-09T17:43:00+00:00"
     },
     {
       "id": "ff9feb6cd668d98f0437",
