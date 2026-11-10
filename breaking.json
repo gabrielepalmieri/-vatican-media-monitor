@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-10T06:30:46.438812+00:00",
+  "updated_at": "2026-11-10T06:35:18.290851+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-10T06:30:46.438812+00:00"
+      "checked_at": "2026-11-10T06:35:18.290851+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T06:30:46.438812+00:00"
+      "checked_at": "2026-11-10T06:35:18.290851+00:00"
     }
   },
   "items": [
+    {
+      "id": "baa1dfb2c78217911e3d",
+      "source": "TGcom24",
+      "title": "Filippine, precipita aereo privato con a bordo sei cittadini stranieri",
+      "url": "https://www.tgcom24.mediaset.it/mondo/filippine-incidente-aereo-privato_118814097-202602k.shtml",
+      "published": "2026-11-10T06:30:00+00:00"
+    },
     {
       "id": "44fd96d5be6b5cdb6258",
       "source": "TGcom24",
@@ -353,13 +360,6 @@
       "title": "Pezeshkian: \"Khamenei ha ordinato la fine dello stallo Usa-Iran\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-usa-ultime-notizie-9-novembre_118785507-202602k.shtml",
       "published": "2026-11-09T11:55:00+00:00"
-    },
-    {
-      "id": "dc2c2374d60fbc1f6324",
-      "source": "TGcom24",
-      "title": "Ungheria, fermato fratello dell'ex premier Orban: sospetta tratta di esseri umani",
-      "url": "https://www.tgcom24.mediaset.it/mondo/ungheria-aron-orban-migranti-tratta_118794664-202602k.shtml",
-      "published": "2026-11-09T11:23:00+00:00"
     },
     {
       "id": "ec222c2606ee0cc17009",
