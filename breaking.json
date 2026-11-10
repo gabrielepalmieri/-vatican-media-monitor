@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-10T10:55:19.154198+00:00",
+  "updated_at": "2026-11-10T11:01:02.285392+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-10T10:55:19.154198+00:00"
+      "checked_at": "2026-11-10T11:01:02.285392+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T10:55:19.154198+00:00"
+      "checked_at": "2026-11-10T11:01:02.285392+00:00"
     }
   },
   "items": [
+    {
+      "id": "672214aec0fb2b57586d",
+      "source": "BBC News",
+      "title": "Police officer dies and another injured after backpack explosion in Oviedo",
+      "url": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T10:57:21+00:00"
+    },
     {
       "id": "a345af7861c143aee79d",
       "source": "TGcom24",
       "title": "Trapani, si ferma per aiutare un giovane e viene rapinato da un branco: un arresto",
       "url": "https://www.tgcom24.mediaset.it/cronaca/trapani-aiuta-giovane-rapinato-branco_118822149-202602k.shtml",
       "published": "2026-11-10T10:45:00+00:00"
-    },
-    {
-      "id": "672214aec0fb2b57586d",
-      "source": "BBC News",
-      "title": "Police officer dies and another injured after backpack explosion in Oviedo",
-      "url": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T10:24:20+00:00"
     },
     {
       "id": "a8c652b61a3330552b4c",
