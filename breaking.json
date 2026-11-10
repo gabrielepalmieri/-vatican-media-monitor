@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-10T22:40:24.280368+00:00",
+  "updated_at": "2026-11-10T22:45:26.606525+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-10T22:40:24.280368+00:00"
+      "checked_at": "2026-11-10T22:45:26.606525+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T22:40:24.280368+00:00"
+      "checked_at": "2026-11-10T22:45:26.606525+00:00"
     }
   },
   "items": [
+    {
+      "id": "389ad5fd8e90a91f3dcc",
+      "source": "BBC News",
+      "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T22:44:57+00:00"
+    },
+    {
+      "id": "f3c29ca48c7d790b8942",
+      "source": "TGcom24",
+      "title": "Caso Nvidia, il Nyt: \"Trump fu informato della vicenda da Rubio su un volo per Pechino\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/caso-nvidia-alice-huang-ha-fatto-perdere-tracce_118834199-202602k.shtml",
+      "published": "2026-11-10T22:41:00+00:00"
+    },
     {
       "id": "262893d99ea9150f68bb",
       "source": "BBC News",
@@ -24,13 +38,6 @@
       "title": "Usa incriminano tre agenti iraniani per attacco a base inglese di Fairford",
       "url": "https://www.tgcom24.mediaset.it/mondo/stati-uniti-incriminano-agenti-iraniani-per-attacco-fallito-base-inglese_118842537-202602k.shtml",
       "published": "2026-11-10T22:09:00+00:00"
-    },
-    {
-      "id": "389ad5fd8e90a91f3dcc",
-      "source": "BBC News",
-      "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T21:59:54+00:00"
     },
     {
       "id": "eeb0c2fbe921f1dac92a",
@@ -367,13 +374,6 @@
       "title": "Catania, finte carte Pokémon e iPhone contraffatti: oltre 7mila sequestri della Gdf",
       "url": "https://www.tgcom24.mediaset.it/2026/video/catania-guardia-di-finanza-sequestra-oltre-7mila-articoli-contraffatti-tra-questi-alcuni-finti-iphone-_118816373-02k.shtml",
       "published": "2026-11-10T08:18:00+00:00"
-    },
-    {
-      "id": "5e71c2166c0e270efe7f",
-      "source": "TGcom24",
-      "title": "Napoli, camorra e appalti: 13 arresti e un sequestro",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/napoli-camorra-appalti-arresti_118816377-202602k.shtml",
-      "published": "2026-11-10T07:30:00+00:00"
     },
     {
       "id": "8d8ef956bdd26286dc8a",
