@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-10T13:30:47.707962+00:00",
+  "updated_at": "2026-11-10T13:35:18.974610+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-10T13:30:47.707962+00:00"
+      "checked_at": "2026-11-10T13:35:18.974610+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T13:30:47.707962+00:00"
+      "checked_at": "2026-11-10T13:35:18.974610+00:00"
     }
   },
   "items": [
+    {
+      "id": "7097c334600835548905",
+      "source": "BBC News",
+      "title": "Iran rejects French claims it was behind supermarket fridge hacking",
+      "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T13:31:14+00:00"
+    },
     {
       "id": "690c95eaced87a7e336d",
       "source": "BBC News",
@@ -304,13 +311,6 @@
       "title": "Hacker in azione a Mosca: \"Oltre 400mila i soldati russi morti al fronte\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-ucraina-russia-ultime-notizie-9-novembre_118785486-202602k.shtml",
       "published": "2026-11-09T20:36:00+00:00"
-    },
-    {
-      "id": "7097c334600835548905",
-      "source": "BBC News",
-      "title": "France accuses Iran of supermarket fridge hacking",
-      "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T20:20:08+00:00"
     },
     {
       "id": "20632aae63d0316c2357",
