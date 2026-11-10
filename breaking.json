@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-10T17:20:27.882815+00:00",
+  "updated_at": "2026-11-10T17:25:20.159639+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-10T17:20:27.882815+00:00"
+      "checked_at": "2026-11-10T17:25:20.159639+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T17:20:27.882815+00:00"
+      "checked_at": "2026-11-10T17:25:20.159639+00:00"
     }
   },
   "items": [
@@ -17,6 +17,13 @@
       "title": "Israel's new parliament sworn in as leaders compete to form government",
       "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-10T17:03:16+00:00"
+    },
+    {
+      "id": "491b9256a7de1fafa237",
+      "source": "BBC News",
+      "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
+      "url": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T17:00:11+00:00"
     },
     {
       "id": "b86af0a6b9aea980db15",
@@ -360,13 +367,6 @@
       "title": "Russia's leading independent newspaper closes after eviction",
       "url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-09T18:08:07+00:00"
-    },
-    {
-      "id": "3f49efc282d970988112",
-      "source": "BBC News",
-      "title": "Inside the French drug gangs recruiting children to kill",
-      "url": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T06:00:26+00:00"
     }
   ]
 }
