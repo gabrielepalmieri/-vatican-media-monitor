@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-10T10:10:28.126274+00:00",
+  "updated_at": "2026-11-10T10:15:30.265719+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-10T10:10:28.126274+00:00"
+      "checked_at": "2026-11-10T10:15:30.265719+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T10:10:28.126274+00:00"
+      "checked_at": "2026-11-10T10:15:30.265719+00:00"
     }
   },
   "items": [
+    {
+      "id": "672214aec0fb2b57586d",
+      "source": "BBC News",
+      "title": "Police officer dies and another injured after backpack explosion in Oviedo",
+      "url": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T10:13:51+00:00"
+    },
     {
       "id": "474686a18eab8b73d972",
       "source": "TGcom24",
@@ -31,13 +38,6 @@
       "title": "Watch: Man smashes Chinese government building with excavator",
       "url": "https://www.bbc.co.uk/news/videos/ckp8g8p4myv8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-10T09:37:15+00:00"
-    },
-    {
-      "id": "672214aec0fb2b57586d",
-      "source": "BBC News",
-      "title": "Police officer dies and another injured after backpack explosion in Oviedo",
-      "url": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T09:26:20+00:00"
     },
     {
       "id": "acb6cfd91878b4dc4a89",
