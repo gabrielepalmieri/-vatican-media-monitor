@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-10T05:01:02.185034+00:00",
+  "updated_at": "2026-11-10T05:05:18.339045+00:00",
   "sources": {
     "TGcom24": {
-      "ok": false,
-      "checked_at": "2026-11-10T05:01:02.185034+00:00"
+      "ok": true,
+      "checked_at": "2026-11-10T05:05:18.339045+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T05:01:02.185034+00:00"
+      "checked_at": "2026-11-10T05:05:18.339045+00:00"
     }
   },
   "items": [
+    {
+      "id": "e7f10ab93a31f2b4e847",
+      "source": "TGcom24",
+      "title": "Vaccini, cala la somministrazione antinfluenzale tra over 65: sotto il 50%",
+      "url": "https://www.tgcom24.mediaset.it/salute/vaccini-cala-la-somministrazione-antinfluenzale-tra-over-65-sotto-il-50-_118811774-202602k.shtml",
+      "published": "2026-11-10T05:00:00+00:00"
+    },
     {
       "id": "53c51c67caebb161522e",
       "source": "BBC News",
@@ -73,6 +80,13 @@
       "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
       "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-09T23:28:53+00:00"
+    },
+    {
+      "id": "637c623f80b043961a9e",
+      "source": "TGcom24",
+      "title": "Usa, Corte Suprema autorizza ripresa lavori per muro al confine con il Messico in Texas",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-corte-suprema-autorizza-la-ripresa-dei-lavori-per-il-muro-al-confine-con-il-messico-in-texas_118812188-202602k.shtml",
+      "published": "2026-11-09T22:59:00+00:00"
     },
     {
       "id": "cf8a33c44e5c0ee19955",
@@ -332,20 +346,6 @@
       "title": "Mantova, auto prende fuoco dopo schianto: conducente muore carbonizzato",
       "url": "https://www.tgcom24.mediaset.it/cronaca/mantova-auto-contro-palo-incendio-morto-conducente_118793547-202602k.shtml",
       "published": "2026-11-09T10:32:00+00:00"
-    },
-    {
-      "id": "7a03a5f52261d5031d4b",
-      "source": "TGcom24",
-      "title": "Pianista di nave da crociera salvato dopo nove ore in mare nel Pacifico",
-      "url": "https://www.tgcom24.mediaset.it/mondo/pianista-crociera-salvato-mare_118790719-202602k.shtml",
-      "published": "2026-11-09T10:01:00+00:00"
-    },
-    {
-      "id": "9e73d4207edc4e4176eb",
-      "source": "TGcom24",
-      "title": "Sestri Levante, 86enne trovato morto in mare davanti alla spiaggia",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/sestri-levante-anziano-morto-mare_118792179-202602k.shtml",
-      "published": "2026-11-09T09:35:00+00:00"
     },
     {
       "id": "ec222c2606ee0cc17009",
