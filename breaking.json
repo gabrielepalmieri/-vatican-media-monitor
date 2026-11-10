@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-10T06:05:18.535047+00:00",
+  "updated_at": "2026-11-10T06:10:24.890300+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-10T06:05:18.535047+00:00"
+      "checked_at": "2026-11-10T06:10:24.890300+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T06:05:18.535047+00:00"
+      "checked_at": "2026-11-10T06:10:24.890300+00:00"
     }
   },
   "items": [
+    {
+      "id": "44fd96d5be6b5cdb6258",
+      "source": "TGcom24",
+      "title": "India, tre operai morti in una fabbrica componenti iPhone: Apple indagherà",
+      "url": "https://www.tgcom24.mediaset.it/mondo/india-operai-morti-fabbrica-iphone-apple_118813545-202602k.shtml",
+      "published": "2026-11-10T06:05:00+00:00"
+    },
     {
       "id": "3c585d9dfb3c2acf3e21",
       "source": "BBC News",
@@ -353,13 +360,6 @@
       "title": "Ungheria, fermato fratello dell'ex premier Orban: sospetta tratta di esseri umani",
       "url": "https://www.tgcom24.mediaset.it/mondo/ungheria-aron-orban-migranti-tratta_118794664-202602k.shtml",
       "published": "2026-11-09T11:23:00+00:00"
-    },
-    {
-      "id": "43ff87805551bef20525",
-      "source": "TGcom24",
-      "title": "Napoli, crolla il solaio di un balcone: un morto",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/napoli-crolla-solaio-balcone-un-morto_118793757-202602k.shtml",
-      "published": "2026-11-09T11:00:00+00:00"
     },
     {
       "id": "ec222c2606ee0cc17009",
