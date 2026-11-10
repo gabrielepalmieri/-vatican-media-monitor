@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-10T21:55:18.013445+00:00",
+  "updated_at": "2026-11-10T22:00:52.447882+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-10T21:55:18.013445+00:00"
+      "checked_at": "2026-11-10T22:00:52.447882+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T21:55:18.013445+00:00"
+      "checked_at": "2026-11-10T22:00:52.447882+00:00"
     }
   },
   "items": [
+    {
+      "id": "389ad5fd8e90a91f3dcc",
+      "source": "BBC News",
+      "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T21:59:54+00:00"
+    },
     {
       "id": "eeb0c2fbe921f1dac92a",
       "source": "TGcom24",
@@ -38,13 +45,6 @@
       "title": "Why does Australia want Brits to swap Sydney for the outback?",
       "url": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-10T21:17:00+00:00"
-    },
-    {
-      "id": "389ad5fd8e90a91f3dcc",
-      "source": "BBC News",
-      "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T21:06:04+00:00"
     },
     {
       "id": "415ee74e848a52c66347",
