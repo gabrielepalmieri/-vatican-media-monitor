@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-10T05:25:18.213632+00:00",
+  "updated_at": "2026-11-10T05:30:43.984986+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-10T05:25:18.213632+00:00"
+      "checked_at": "2026-11-10T05:30:43.984986+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T05:25:18.213632+00:00"
+      "checked_at": "2026-11-10T05:30:43.984986+00:00"
     }
   },
   "items": [
+    {
+      "id": "0ab2943a2d37912406bd",
+      "source": "BBC News",
+      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T05:22:39+00:00"
+    },
     {
       "id": "e7f10ab93a31f2b4e847",
       "source": "TGcom24",
