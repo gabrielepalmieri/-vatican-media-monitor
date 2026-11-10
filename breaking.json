@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-10T10:20:27.297465+00:00",
+  "updated_at": "2026-11-10T10:25:18.633159+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-10T10:20:27.297465+00:00"
+      "checked_at": "2026-11-10T10:25:18.633159+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T10:20:27.297465+00:00"
+      "checked_at": "2026-11-10T10:25:18.633159+00:00"
     }
   },
   "items": [
+    {
+      "id": "672214aec0fb2b57586d",
+      "source": "BBC News",
+      "title": "Police officer dies and another injured after backpack explosion in Oviedo",
+      "url": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T10:24:20+00:00"
+    },
     {
       "id": "a8c652b61a3330552b4c",
       "source": "TGcom24",
       "title": "Assalto a un portavalori nel Foggiano: paura sulla Statale 16",
       "url": "https://www.tgcom24.mediaset.it/2026/video/foggia-assalto-portavalori-statale-16_118821210-02k.shtml",
       "published": "2026-11-10T10:17:00+00:00"
-    },
-    {
-      "id": "672214aec0fb2b57586d",
-      "source": "BBC News",
-      "title": "Police officer dies and another injured after backpack explosion in Oviedo",
-      "url": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T10:13:51+00:00"
     },
     {
       "id": "474686a18eab8b73d972",
