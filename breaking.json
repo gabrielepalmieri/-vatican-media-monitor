@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-10T18:45:29.985504+00:00",
+  "updated_at": "2026-11-10T18:50:25.741880+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-10T18:45:29.985504+00:00"
+      "checked_at": "2026-11-10T18:50:25.741880+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T18:45:29.985504+00:00"
+      "checked_at": "2026-11-10T18:50:25.741880+00:00"
     }
   },
   "items": [
@@ -17,6 +17,13 @@
       "title": "Eternit bis, Cassazione: nuovo processo di appello per Schmidheiny",
       "url": "https://www.tgcom24.mediaset.it/mondo/eternit-bis-cassazione-nuovo-processo-di-appello-per-l-imprenditore-schmidheiny_118838847-202602k.shtml",
       "published": "2026-11-10T18:45:00+00:00"
+    },
+    {
+      "id": "8c7f7e39dc6adcf06c21",
+      "source": "BBC News",
+      "title": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
+      "url": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T18:35:35+00:00"
     },
     {
       "id": "780349e7250fd67ac31b",
@@ -395,13 +402,6 @@
       "title": "Turkey steel factory blast kills at least 17 people",
       "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-09T20:42:04+00:00"
-    },
-    {
-      "id": "7e7e599e857f39491649",
-      "source": "BBC News",
-      "title": "Russia's leading independent newspaper closes after eviction",
-      "url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T18:08:07+00:00"
     }
   ]
 }
