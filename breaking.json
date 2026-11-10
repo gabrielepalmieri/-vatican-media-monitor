@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-09T23:55:18.487789+00:00",
+  "updated_at": "2026-11-10T00:00:57.852363+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-11-09T23:55:18.487789+00:00"
+      "checked_at": "2026-11-10T00:00:57.852363+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-09T23:55:18.487789+00:00"
+      "checked_at": "2026-11-10T00:00:57.852363+00:00"
     }
   },
   "items": [
+    {
+      "id": "9b5f1b1ec64429c9067c",
+      "source": "BBC News",
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-09T23:59:50+00:00"
+    },
     {
       "id": "29a4a8f999d5980a267d",
       "source": "BBC News",
@@ -31,13 +38,6 @@
       "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
       "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-09T23:28:53+00:00"
-    },
-    {
-      "id": "9b5f1b1ec64429c9067c",
-      "source": "BBC News",
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T23:20:29+00:00"
     },
     {
       "id": "cf8a33c44e5c0ee19955",
