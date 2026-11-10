@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-09T13:49:55.245911+00:00",
+  "updated_at": "2026-11-10T04:04:13.109047+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-11-09T13:49:55.245911+00:00",
+  "un_verified_at": "2026-11-10T04:04:13.109047+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,25 +1918,6 @@
     }
   ],
   "days": {
-    "2026-11-08": {
-      "saints": [
-        {
-          "title": "Santi Quattro Coronati, martiri",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/08.html"
-        },
-        {
-          "title": "Beato Duns Scoto",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/08/beato-duns-scoto.html"
-        },
-        {
-          "title": "Sant'Adeodato I, papa",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/08.html"
-        }
-      ],
-      "un": [],
-      "un_available": true,
-      "holy_see": []
-    },
     "2026-11-09": {
       "saints": [
         {
@@ -2659,6 +2640,22 @@
         {
           "title": "Giornata internazionale contro il colonialismo in tutte le sue forme e manifestazioni",
           "url": "https://www.un.org/en/observances/anti-colonialism-day"
+        }
+      ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-12-15": {
+      "saints": [
+        {
+          "title": "San Valeriano, vescovo in Africa e martire",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/15/san-valeriano--vescovo-in-africa-e-martire.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata mondiale della famiglia delle lingue turche [UNESCO]",
+          "url": "https://unesdoc.unesco.org/ark:/48223/pf0000396088"
         }
       ],
       "un_available": true,
