@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-10T17:01:01.380456+00:00",
+  "updated_at": "2026-11-10T17:05:22.878216+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-10T17:01:01.380456+00:00"
+      "checked_at": "2026-11-10T17:05:22.878216+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T17:01:01.380456+00:00"
+      "checked_at": "2026-11-10T17:05:22.878216+00:00"
     }
   },
   "items": [
+    {
+      "id": "978e0486d12908d2b041",
+      "source": "BBC News",
+      "title": "Israel's new parliament sworn in as leaders compete to form government",
+      "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T17:03:16+00:00"
+    },
     {
       "id": "b86af0a6b9aea980db15",
       "source": "TGcom24",
@@ -31,13 +38,6 @@
       "title": "Zelensky: \"Colloqui ad Abu Dhabi costruttivi, parlato di garanzie di sicurezza\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-ucraina-russia-ultime-notizie-10-novembre_118815464-202602k.shtml",
       "published": "2026-11-10T16:00:00+00:00"
-    },
-    {
-      "id": "978e0486d12908d2b041",
-      "source": "BBC News",
-      "title": "Israel's new parliament sworn in as leaders compete to form government",
-      "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T15:51:09+00:00"
     },
     {
       "id": "1710342eeba6bcc9a80d",
