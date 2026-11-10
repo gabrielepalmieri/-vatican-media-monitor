@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-10T04:05:18.094112+00:00",
+  "updated_at": "2026-11-10T04:10:25.718798+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-11-10T04:05:18.094112+00:00"
+      "checked_at": "2026-11-10T04:10:25.718798+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T04:05:18.094112+00:00"
+      "checked_at": "2026-11-10T04:10:25.718798+00:00"
     }
   },
   "items": [
+    {
+      "id": "53c51c67caebb161522e",
+      "source": "BBC News",
+      "title": "Trump says more US attacks on Iran 'highly unlikely'",
+      "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T04:09:16+00:00"
+    },
     {
       "id": "9b5f1b1ec64429c9067c",
       "source": "BBC News",
       "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
       "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-10T03:58:13+00:00"
-    },
-    {
-      "id": "53c51c67caebb161522e",
-      "source": "BBC News",
-      "title": "Trump says Iran war is 'effectively over' militarily with further strikes unlikely",
-      "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T02:38:00+00:00"
     },
     {
       "id": "95a39c789a41bfcb4ba6",
@@ -374,13 +374,6 @@
       "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
       "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-08T22:05:12+00:00"
-    },
-    {
-      "id": "02c36c497c9805dd9fbf",
-      "source": "BBC News",
-      "title": "Footage shows derailed carriages after fatal train crash in Egypt",
-      "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-08T16:05:57+00:00"
     }
   ]
 }
