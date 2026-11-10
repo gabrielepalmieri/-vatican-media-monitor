@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-10T16:20:25.672191+00:00",
+  "updated_at": "2026-11-10T16:25:24.736214+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-10T16:20:25.672191+00:00"
+      "checked_at": "2026-11-10T16:25:24.736214+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T16:20:25.672191+00:00"
+      "checked_at": "2026-11-10T16:25:24.736214+00:00"
     }
   },
   "items": [
+    {
+      "id": "b86af0a6b9aea980db15",
+      "source": "TGcom24",
+      "title": "Caso Nvidia, Alice Huang ha fatto perdere le sue tracce",
+      "url": "https://www.tgcom24.mediaset.it/mondo/caso-nvidia-alice-huang-ha-fatto-perdere-tracce_118834199-202602k.shtml",
+      "published": "2026-11-10T16:20:00+00:00"
+    },
     {
       "id": "fbd3f9db23e1fd17fab3",
       "source": "BBC News",
@@ -346,13 +353,6 @@
       "title": "Turkey steel factory blast kills at least 17 people",
       "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-09T20:42:04+00:00"
-    },
-    {
-      "id": "24dbeff0cb0aded84472",
-      "source": "TGcom24",
-      "title": "Hacker in azione a Mosca: \"Oltre 400mila i soldati russi morti al fronte\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-ucraina-russia-ultime-notizie-9-novembre_118785486-202602k.shtml",
-      "published": "2026-11-09T20:36:00+00:00"
     },
     {
       "id": "e1037525ecbcabf9b840",
