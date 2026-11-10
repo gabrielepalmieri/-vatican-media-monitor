@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-10T15:20:27.466017+00:00",
+  "updated_at": "2026-11-10T15:25:20.906948+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-10T15:20:27.466017+00:00"
+      "checked_at": "2026-11-10T15:25:20.906948+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T15:20:27.466017+00:00"
+      "checked_at": "2026-11-10T15:25:20.906948+00:00"
     }
   },
   "items": [
+    {
+      "id": "bd90e9199f34956c44f1",
+      "source": "TGcom24",
+      "title": "Ia, Claude pubblica sul web migliaia di password e file privati per errore",
+      "url": "https://www.tgcom24.mediaset.it/tgtech/claude-code-password-documenti-internet_118825798-202602k.shtml",
+      "published": "2026-11-10T15:24:00+00:00"
+    },
     {
       "id": "77d5573647f9d317f27e",
       "source": "BBC News",
@@ -346,13 +353,6 @@
       "title": "Buenos Aires, papa Leone incontra 5 vittime di abusi del clero",
       "url": "https://www.tgcom24.mediaset.it/mondo/papa-leone-argentina-messa-buenos-aires-omelia-famiglia-lavoro_118801630-202602k.shtml",
       "published": "2026-11-09T20:10:00+00:00"
-    },
-    {
-      "id": "706e370ab991f7157ac6",
-      "source": "TGcom24",
-      "title": "Attacchi hacker, Tajani: \"Iran? Dietro quelli all'Italia ci sono criminali filorussi\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/cyberattacchi-congelatori-francia-pasdaran-iran_118805906-202602k.shtml",
-      "published": "2026-11-09T19:33:00+00:00"
     },
     {
       "id": "e1037525ecbcabf9b840",
