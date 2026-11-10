@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-10T17:25:45.397427+00:00",
+  "updated_at": "2026-11-10T17:30:44.945760+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-10T17:25:45.397427+00:00"
+      "checked_at": "2026-11-10T17:30:44.945760+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-10T17:25:45.397427+00:00"
+      "checked_at": "2026-11-10T17:30:44.945760+00:00"
     }
   },
   "items": [
+    {
+      "id": "acb6cfd91878b4dc4a89",
+      "source": "BBC News",
+      "title": "First day of Ukraine peace talks constructive, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T17:29:36+00:00"
+    },
     {
       "id": "978e0486d12908d2b041",
       "source": "BBC News",
@@ -40,6 +47,13 @@
       "published": "2026-11-10T16:19:48+00:00"
     },
     {
+      "id": "67881629f35cea1e7fc8",
+      "source": "BBC News",
+      "title": "Twelve dead after motorway pile-ups in Bulgaria fog",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T16:07:51+00:00"
+    },
+    {
       "id": "d19fee9d53cb9d6fcb56",
       "source": "TGcom24",
       "title": "Zelensky: \"Colloqui ad Abu Dhabi costruttivi, parlato di garanzie di sicurezza\"",
@@ -61,11 +75,11 @@
       "published": "2026-11-10T15:24:00+00:00"
     },
     {
-      "id": "77d5573647f9d317f27e",
+      "id": "1b604ed56a1440e60363",
       "source": "BBC News",
-      "title": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
-      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T14:46:50+00:00"
+      "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+      "url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T15:21:18+00:00"
     },
     {
       "id": "3dfd0ead5452ef466fc4",
@@ -73,13 +87,6 @@
       "title": "Ucraina, Lavrov: \"Non accetteremo le richieste europee di tregua immediata\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-ucraina-russia-ultime-notizie-10-novembre_118815464-202602k.shtml",
       "published": "2026-11-10T14:44:00+00:00"
-    },
-    {
-      "id": "acb6cfd91878b4dc4a89",
-      "source": "BBC News",
-      "title": "First day of Ukraine peace talks 'very productive', US says",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T14:36:57+00:00"
     },
     {
       "id": "73bb9b4b1b814e9d6ba1",
