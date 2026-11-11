@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-11T11:45:28.972977+00:00",
+  "updated_at": "2026-11-11T11:50:24.260180+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-11T11:45:28.972977+00:00"
+      "checked_at": "2026-11-11T11:50:24.260180+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-11T11:45:28.972977+00:00"
+      "checked_at": "2026-11-11T11:50:24.260180+00:00"
     }
   },
   "items": [
+    {
+      "id": "3485ffcc4e1a15818574",
+      "source": "BBC News",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T11:47:22+00:00"
+    },
     {
       "id": "b160da3c3a9a54a6fc80",
       "source": "TGcom24",
@@ -38,13 +45,6 @@
       "title": "Strage Viareggio, Moretti esce dal carcere: sconterà la condanna ai domiciliari",
       "url": "https://www.tgcom24.mediaset.it/cronaca/strage-di-viareggio-mauro-moretti-domiciliari_118853078-202602k.shtml",
       "published": "2026-11-11T10:45:00+00:00"
-    },
-    {
-      "id": "3485ffcc4e1a15818574",
-      "source": "BBC News",
-      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11T10:15:12+00:00"
     },
     {
       "id": "c366a3738646e6e8b6dd",
