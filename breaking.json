@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-11T17:50:24.007978+00:00",
+  "updated_at": "2026-11-11T17:55:18.501852+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-11T17:50:24.007978+00:00"
+      "checked_at": "2026-11-11T17:55:18.501852+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-11T17:50:24.007978+00:00"
+      "checked_at": "2026-11-11T17:55:18.501852+00:00"
     }
   },
   "items": [
+    {
+      "id": "f71b581291ad6169a27b",
+      "source": "TGcom24",
+      "title": "Femminicidio di Ramona Rinaldi, il compagno Daniele Re confessa in aula: \"Sono colpevole\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/femminicidio-ramona-rinaldi-daniele-re-colpevole_118870357-202602k.shtml",
+      "published": "2026-11-11T17:50:00+00:00"
+    },
     {
       "id": "f0d3aa3607a8b6cc910c",
       "source": "BBC News",
@@ -297,13 +304,6 @@
       "title": "Libano, spari contro pattuglia Unifil nel Sud del Paese: \"Nessun soldato ferito\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/libano-spari-contro-una-pattuglia-unifil-nel-sud-del-paese-nessun-soldato-ferito-_118841591-202602k.shtml",
       "published": "2026-11-10T23:05:00+00:00"
-    },
-    {
-      "id": "f3c29ca48c7d790b8942",
-      "source": "TGcom24",
-      "title": "Nvidia, Nyt: \"Trump fu informato della vicenda da Rubio su un volo per Pechino\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/caso-nvidia-alice-huang-ha-fatto-perdere-tracce_118834199-202602k.shtml",
-      "published": "2026-11-10T22:41:00+00:00"
     },
     {
       "id": "80f53adaafe1d550d671",
