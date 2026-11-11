@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-11T12:10:25.700574+00:00",
+  "updated_at": "2026-11-11T12:15:29.385614+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-11T12:10:25.700574+00:00"
+      "checked_at": "2026-11-11T12:15:29.385614+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-11T12:10:25.700574+00:00"
+      "checked_at": "2026-11-11T12:15:29.385614+00:00"
     }
   },
   "items": [
+    {
+      "id": "8771673a8b1287145ab6",
+      "source": "BBC News",
+      "title": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T12:14:12+00:00"
+    },
     {
       "id": "3a9f1d71aa0d4b1c087d",
       "source": "TGcom24",
@@ -150,13 +157,6 @@
       "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
       "url": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-11T03:44:06+00:00"
-    },
-    {
-      "id": "8771673a8b1287145ab6",
-      "source": "BBC News",
-      "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11T02:47:59+00:00"
     },
     {
       "id": "262893d99ea9150f68bb",
