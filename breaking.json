@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-11T02:50:23.037409+00:00",
+  "updated_at": "2026-11-11T02:55:17.776268+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-11T02:50:23.037409+00:00"
+      "checked_at": "2026-11-11T02:55:17.776268+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-11T02:50:23.037409+00:00"
+      "checked_at": "2026-11-11T02:55:17.776268+00:00"
     }
   },
   "items": [
+    {
+      "id": "8771673a8b1287145ab6",
+      "source": "BBC News",
+      "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T02:47:59+00:00"
+    },
     {
       "id": "262893d99ea9150f68bb",
       "source": "BBC News",
@@ -381,13 +388,6 @@
       "title": "In Slovenia la benzina crolla a 1,50 euro al litro: via libera dell'Ue",
       "url": "https://www.tgcom24.mediaset.it/economia/slovenia-benzina-1-50-euro-al-litro_118817798-202602k.shtml",
       "published": "2026-11-10T09:41:00+00:00"
-    },
-    {
-      "id": "53c51c67caebb161522e",
-      "source": "BBC News",
-      "title": "Trump says more US attacks on Iran 'highly unlikely'",
-      "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T09:40:31+00:00"
     },
     {
       "id": "b61f844345f2fd39740f",
