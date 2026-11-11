@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-11T15:00:55.650830+00:00",
+  "updated_at": "2026-11-11T15:05:18.886438+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-11T15:00:55.650830+00:00"
+      "checked_at": "2026-11-11T15:05:18.886438+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-11T15:00:55.650830+00:00"
+      "checked_at": "2026-11-11T15:05:18.886438+00:00"
     }
   },
   "items": [
+    {
+      "id": "2a0b3537664c72542bc0",
+      "source": "BBC News",
+      "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
+      "url": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T14:56:11+00:00"
+    },
     {
       "id": "922368f6ba9279f9a546",
       "source": "BBC News",
@@ -119,7 +126,7 @@
     {
       "id": "c4834e3b31932a790fef",
       "source": "TGcom24",
-      "title": "Allarme bomba nelle scuole: \"Siamo venuti per annientarvi\"",
+      "title": "Allarmi bomba nelle scuole, la mail anonima: \"Siamo venuti per annientarvi\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/allarme-bomba-decine-scuole-italia_118853087-202602k.shtml",
       "published": "2026-11-11T11:08:00+00:00"
     },
@@ -133,7 +140,7 @@
     {
       "id": "c366a3738646e6e8b6dd",
       "source": "TGcom24",
-      "title": "Allarme bomba in decine di scuole in Italia",
+      "title": "Allarmi bomba in decine di scuole in Italia: Meloni convoca una riunione",
       "url": "https://www.tgcom24.mediaset.it/cronaca/allarme-bomba-decine-scuole-italia_118853087-202602k.shtml",
       "published": "2026-11-11T10:10:00+00:00"
     },
@@ -161,7 +168,7 @@
     {
       "id": "0386482009bef2a66942",
       "source": "TGcom24",
-      "title": "Attacchi hacker, Antonio Tajani: \"Puntano a creare problemi alle democrazie occidentali\"",
+      "title": "Attacchi hacker, Tajani: \"Puntano a creare problemi alle democrazie occidentali\"",
       "url": "https://www.tgcom24.mediaset.it/politica/attacchi-hacker-antonio-tajani-mattino-cinque_118849848-202602k.shtml",
       "published": "2026-11-11T09:02:00+00:00"
     },
@@ -196,14 +203,14 @@
     {
       "id": "05809e584820de9a9b4a",
       "source": "TGcom24",
-      "title": "Los Angeles, Suv travolge pedoni a North Hollywood: 3 morti",
+      "title": "Los Angeles, Suv travolge pedoni a North Hollywood: tre morti",
       "url": "https://www.tgcom24.mediaset.it/mondo/los-angeles-suv-travolge-pedoni-morti-video_118843839-202602k.shtml",
       "published": "2026-11-11T06:31:00+00:00"
     },
     {
       "id": "a380b4b8a513a5dfaf4b",
       "source": "TGcom24",
-      "title": "Usa, la Camera Usa boccia l'impeachment di Pete Hegseth",
+      "title": "Usa, la Camera boccia l'impeachment del segretario alla Difesa Hegseth",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-impeachment-pete-hegseth-bloccato-camera_118843840-202602k.shtml",
       "published": "2026-11-11T06:00:00+00:00"
     },
@@ -234,13 +241,6 @@
       "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
       "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-11T02:41:16+00:00"
-    },
-    {
-      "id": "41a56bb8c2d4899ec673",
-      "source": "BBC News",
-      "title": "Judge allows Trump's $10bn defamation case against BBC to proceed",
-      "url": "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11T01:18:09+00:00"
     },
     {
       "id": "32cda2b0dbd442870522",
