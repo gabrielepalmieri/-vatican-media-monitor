@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-11T18:20:24.132290+00:00",
+  "updated_at": "2026-11-11T18:25:18.493085+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-11T18:20:24.132290+00:00"
+      "checked_at": "2026-11-11T18:25:18.493085+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-11T18:20:24.132290+00:00"
+      "checked_at": "2026-11-11T18:25:18.493085+00:00"
     }
   },
   "items": [
+    {
+      "id": "accd0331913bd30fff17",
+      "source": "BBC News",
+      "title": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
+      "url": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T18:10:57+00:00"
+    },
     {
       "id": "7164ad00a2ac79f8aadb",
       "source": "BBC News",
@@ -21,7 +28,7 @@
     {
       "id": "f71b581291ad6169a27b",
       "source": "TGcom24",
-      "title": "Femminicidio di Ramona Rinaldi, il compagno Daniele Re confessa in aula: \"Sono colpevole\"",
+      "title": "Femminicidio di Ramona Rinaldi, il compagno Daniele Re confessa in aula",
       "url": "https://www.tgcom24.mediaset.it/cronaca/femminicidio-ramona-rinaldi-daniele-re-colpevole_118870357-202602k.shtml",
       "published": "2026-11-11T17:50:00+00:00"
     },
@@ -77,7 +84,7 @@
     {
       "id": "6582bf3714c7b9fbd8dd",
       "source": "TGcom24",
-      "title": "Femminicidio Scialdone, l'ex Costantino Bonaiuti condannato all'ergastolo in appello bis",
+      "title": "Femminicidio Scialdone, l'ex Costantino Bonaiuti condannato all'ergastolo in Appello bis",
       "url": "https://www.tgcom24.mediaset.it/cronaca/martina-scialdone-costantino-bonaiuti-condannato-ergastolo_118864820-202602k.shtml",
       "published": "2026-11-11T15:50:00+00:00"
     },
