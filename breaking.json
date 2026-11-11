@@ -1,22 +1,29 @@
 {
-  "updated_at": "2026-11-11T14:50:24.824298+00:00",
+  "updated_at": "2026-11-11T14:55:19.185718+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-11T14:50:24.824298+00:00"
+      "checked_at": "2026-11-11T14:55:19.185718+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-11T14:50:24.824298+00:00"
+      "checked_at": "2026-11-11T14:55:19.185718+00:00"
     }
   },
   "items": [
     {
-      "id": "bf9009a5b8f36f62bfb4",
+      "id": "922368f6ba9279f9a546",
+      "source": "BBC News",
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T14:51:26+00:00"
+    },
+    {
+      "id": "38c3ae0972c8b756aefa",
       "source": "TGcom24",
       "title": "Tajani: \"Ricevuti nuovi cyberattacchi, taglia anche sui minori della mia famiglia\"",
       "url": "https://www.tgcom24.mediaset.it/politica/cyberattacchi-tajani_118862278-202602k.shtml",
-      "published": "2026-11-11T14:49:00+00:00"
+      "published": "2026-11-11T14:46:00+00:00"
     },
     {
       "id": "f0d3aa3607a8b6cc910c",
@@ -234,13 +241,6 @@
       "title": "Judge allows Trump's $10bn defamation case against BBC to proceed",
       "url": "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-11T01:18:09+00:00"
-    },
-    {
-      "id": "922368f6ba9279f9a546",
-      "source": "BBC News",
-      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11T01:01:20+00:00"
     },
     {
       "id": "32cda2b0dbd442870522",
