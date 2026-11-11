@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-11T12:00:54.221259+00:00",
+  "updated_at": "2026-11-11T12:05:18.526004+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-11T12:00:54.221259+00:00"
+      "checked_at": "2026-11-11T12:05:18.526004+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-11T12:00:54.221259+00:00"
+      "checked_at": "2026-11-11T12:05:18.526004+00:00"
     }
   },
   "items": [
+    {
+      "id": "3a9f1d71aa0d4b1c087d",
+      "source": "TGcom24",
+      "title": "Dall'aula del Senato via libera definitivo al dl carburanti: è legge",
+      "url": "https://www.tgcom24.mediaset.it/politica/senato-approva-dl-carburanti-legge_118857605-202602k.shtml",
+      "published": "2026-11-11T11:59:00+00:00"
+    },
     {
       "id": "3485ffcc4e1a15818574",
       "source": "BBC News",
@@ -332,13 +339,6 @@
       "title": "Caso Nvidia, Alice Huang ha fatto perdere le sue tracce",
       "url": "https://www.tgcom24.mediaset.it/mondo/caso-nvidia-alice-huang-ha-fatto-perdere-tracce_118834199-202602k.shtml",
       "published": "2026-11-10T16:20:00+00:00"
-    },
-    {
-      "id": "d19fee9d53cb9d6fcb56",
-      "source": "TGcom24",
-      "title": "Zelensky: \"Colloqui ad Abu Dhabi costruttivi, parlato di garanzie di sicurezza\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-ucraina-russia-ultime-notizie-10-novembre_118815464-202602k.shtml",
-      "published": "2026-11-10T16:00:00+00:00"
     },
     {
       "id": "b61f844345f2fd39740f",
