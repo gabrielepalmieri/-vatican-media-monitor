@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-11T12:55:18.421245+00:00",
+  "updated_at": "2026-11-11T13:00:55.803008+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-11T12:55:18.421245+00:00"
+      "checked_at": "2026-11-11T13:00:55.803008+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-11T12:55:18.421245+00:00"
+      "checked_at": "2026-11-11T13:00:55.803008+00:00"
     }
   },
   "items": [
+    {
+      "id": "8ee2e86ae6043c8355c8",
+      "source": "BBC News",
+      "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
+      "url": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T12:32:06+00:00"
+    },
     {
       "id": "a465df9e5a98b70dfaf7",
       "source": "BBC News",
@@ -38,6 +45,13 @@
       "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
       "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-11T11:47:22+00:00"
+    },
+    {
+      "id": "6e869201a0f6bfc37465",
+      "source": "BBC News",
+      "title": "Transport workers in Chile block highways in protest over surging fuel prices",
+      "url": "https://www.bbc.co.uk/news/articles/c6e3d895zne7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T11:34:50+00:00"
     },
     {
       "id": "b160da3c3a9a54a6fc80",
@@ -208,13 +222,6 @@
       "published": "2026-11-11T00:18:07+00:00"
     },
     {
-      "id": "8325115466d4248de4c2",
-      "source": "BBC News",
-      "title": "Antidepressant escitalopram more effective at preventing relapse, analysis finds",
-      "url": "https://www.bbc.co.uk/news/articles/cv62yyng00jyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11T00:17:42+00:00"
-    },
-    {
       "id": "8556a36c44db772b079a",
       "source": "TGcom24",
       "title": "Libano, spari contro pattuglia Unifil nel Sud del Paese: \"Nessun soldato ferito\"",
@@ -257,13 +264,6 @@
       "published": "2026-11-10T20:52:00+00:00"
     },
     {
-      "id": "6c4195ae5cacb0b62979",
-      "source": "BBC News",
-      "title": "Spain's king and queen attend memorial service for rail crash victims",
-      "url": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T20:46:40+00:00"
-    },
-    {
       "id": "60c8aa7971439861ba86",
       "source": "BBC News",
       "title": "Watch: E-bike battery explodes into massive fireball inside Oregon home",
@@ -283,13 +283,6 @@
       "title": "Iran, Pahlavi a Tgcom24: \"L'unica soluzione è il definitivo collasso del regime\"",
       "url": "https://www.tgcom24.mediaset.it/2026/video/guerra-iran-reza-pahlavi_118838479-02k.shtml",
       "published": "2026-11-10T19:56:00+00:00"
-    },
-    {
-      "id": "c16858a5c4bcd0c8e398",
-      "source": "BBC News",
-      "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
-      "url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T19:26:42+00:00"
     },
     {
       "id": "818a8c085a82a4880286",
