@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-11T15:20:26.801852+00:00",
+  "updated_at": "2026-11-11T15:25:18.825947+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-11T15:20:26.801852+00:00"
+      "checked_at": "2026-11-11T15:25:18.825947+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-11T15:20:26.801852+00:00"
+      "checked_at": "2026-11-11T15:25:18.825947+00:00"
     }
   },
   "items": [
+    {
+      "id": "57c768b71dbf4f6cdb12",
+      "source": "TGcom24",
+      "title": "Allarmi bomba, Ciriani: \"Minaccia cyber fenomeno con matrice internazionale\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/allarme-bomba-decine-scuole-italia_118853087-202602k.shtml",
+      "published": "2026-11-11T15:20:00+00:00"
+    },
     {
       "id": "2a0b3537664c72542bc0",
       "source": "BBC News",
@@ -318,13 +325,6 @@
       "title": "Iran, Pahlavi a Tgcom24: \"L'unica soluzione è il definitivo collasso del regime\"",
       "url": "https://www.tgcom24.mediaset.it/2026/video/guerra-iran-reza-pahlavi_118838479-02k.shtml",
       "published": "2026-11-10T19:56:00+00:00"
-    },
-    {
-      "id": "818a8c085a82a4880286",
-      "source": "TGcom24",
-      "title": "Cop31, le rinnovabili superano il carbone per la prima volta nella storia",
-      "url": "https://www.tgcom24.mediaset.it/mondo/cop31-turchia-rinnovabili-carbone-greta-thunberg_118838461-202602k.shtml",
-      "published": "2026-11-10T19:13:00+00:00"
     },
     {
       "id": "8c7f7e39dc6adcf06c21",
