@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-11T18:25:18.493085+00:00",
+  "updated_at": "2026-11-11T18:30:41.052565+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-11T18:25:18.493085+00:00"
+      "checked_at": "2026-11-11T18:30:41.052565+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-11T18:25:18.493085+00:00"
+      "checked_at": "2026-11-11T18:30:41.052565+00:00"
     }
   },
   "items": [
+    {
+      "id": "e7330d1a7ab1d469aa92",
+      "source": "TGcom24",
+      "title": "Allarmi bomba nelle scuole, dal ministero: \"Domani istituti aperti\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/allarme-bomba-decine-scuole-italia_118853087-202602k.shtml",
+      "published": "2026-11-11T18:25:00+00:00"
+    },
     {
       "id": "accd0331913bd30fff17",
       "source": "BBC News",
@@ -304,13 +311,6 @@
       "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
       "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-11T00:18:07+00:00"
-    },
-    {
-      "id": "8556a36c44db772b079a",
-      "source": "TGcom24",
-      "title": "Libano, spari contro pattuglia Unifil nel Sud del Paese: \"Nessun soldato ferito\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/libano-spari-contro-una-pattuglia-unifil-nel-sud-del-paese-nessun-soldato-ferito-_118841591-202602k.shtml",
-      "published": "2026-11-10T23:05:00+00:00"
     },
     {
       "id": "80f53adaafe1d550d671",
