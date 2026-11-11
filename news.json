@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T23:39:38.272749+00:00",
+  "updated_at": "2026-11-11T23:40:59.891542+00:00",
   "items": [
     {
       "id": "193beabfe941824c",
@@ -17,10 +17,28 @@
       "article_url": "https://www.deutschlandfunk.de/nachrichten-index-40634.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-11T23:39:21.492792+00:00",
+      "author_url": "",
       "cluster_id": "193beabfe941824c",
       "cluster_sources": [
         "Deutschlandfunk",
         "Reuters"
+      ]
+    },
+    {
+      "id": "9c00a94872381ead",
+      "title": "El regreso a casa de un pastor: el papa León XIV pisa suelo peruano",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQazFnNkx4TTJmckQtQllqVG9yTV83M0JqY2k4bjJJa1V6NGFRczliSVpBVV83MlNEWU4xWlUyS3dkZU8tMlBlMkdRdG1lNW1YMDdaV0FQaFhHU3pTb0Q4TGJ5OEZQbkFWR01fOHQtaUpkeEJfZjd0cFpEMzJHTXRCTzBmZHJYb2tjbVNDaC1PZlhtVEU?oc=5",
+      "source": "exaudi.org",
+      "country": "Spagna",
+      "language": "Español",
+      "published": "2026-11-11T23:37:55+00:00",
+      "topic": "Papa Leone XIV",
+      "kind": "news",
+      "cluster_size": 1,
+      "origin": "search",
+      "cluster_id": "9c00a94872381ead",
+      "cluster_sources": [
+        "exaudi.org"
       ]
     },
     {
@@ -134,6 +152,7 @@
       "article_url": "https://www.meganoticias.mx/cdmx/noticia/papa-le%C3%B3n-xiv-llega-a-per%C3%BA-develan-estatua-gigante/787802",
       "author_verified": true,
       "byline_checked_at": "2026-11-11T23:39:21.492792+00:00",
+      "author_url": "",
       "cluster_id": "3b17c7b8828bfea5",
       "cluster_sources": [
         "Meganoticias.mx",
@@ -156,6 +175,7 @@
       "article_url": "https://www.ilmessaggero.it/roma/eur/microsoft_apre_nuova_sede_roma-9884186.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-11T23:39:21.492792+00:00",
+      "author_url": "",
       "cluster_id": "bd9f8c092fa6eaf2",
       "cluster_sources": [
         "Il Messaggero"
@@ -592,6 +612,7 @@
       "article_url": "https://www.independent.co.uk/news/peru-b3083513.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-11T23:39:21.492792+00:00",
+      "author_url": "",
       "cluster_id": "4f54ef15feab67d0",
       "cluster_sources": [
         "AP News",
@@ -669,7 +690,7 @@
       "published": "2026-11-11T23:24:05+00:00",
       "topic": "Papa Leone XIV",
       "kind": "social",
-      "cluster_size": 5,
+      "cluster_size": 6,
       "origin": "search",
       "account_checked_at": "2026-11-11T23:31:04.927171+00:00",
       "cluster_id": "6999425e2015028b",
@@ -678,7 +699,8 @@
         "El Universal",
         "Facebook",
         "López-Dóriga Digital",
-        "Milenio"
+        "Milenio",
+        "X"
       ]
     },
     {
@@ -709,11 +731,12 @@
       "published": "2026-11-11T23:22:52+00:00",
       "topic": "Papa Leone XIV",
       "kind": "social",
-      "cluster_size": 1,
+      "cluster_size": 2,
       "origin": "search",
       "account_checked_at": "2026-11-11T23:31:04.927171+00:00",
       "cluster_id": "819be2bf8e51406d",
       "cluster_sources": [
+        "Facebook",
         "Instagram"
       ]
     },
@@ -791,6 +814,25 @@
       "cluster_sources": [
         "Instagram",
         "TikTok"
+      ]
+    },
+    {
+      "id": "d48d6b47acc6edb3",
+      "title": "Pope Leo XIV has arrived in Peru, the final stop on his apostolic journey to South America. He was welcomed by Peruvian officials at the airport in Lima, marking the beginning of a visit that holds deep personal significance for the Pope. Robert Francis Prevost",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVk91cFhFS2NiZWhUdnhfQ2lWNkZUaC1BcjR3YUNPWDBBUGtQVWZLZFFaUjVfR0RXMEExSjV1Zl9jMnN3OXhnVWJvRGZ2YmRQNkNjNTF2VW54YlR4S3NJaFRTXzFQWjRvOXM4TWQ0V1ZLS2tnc093SnF6T0xtUXg3N0RaTlAyM0ZHbFhDTlItNTZvRHZoS1RFeEhNbmx0dzA1OGJzYkVic2hrNkYycldfVUNvTXl2cnhRb1FSSmRCcUxrd2kzNkgyZ2V6S3FKMjhTMFpuZ2tIZ1E5dDRlRjBR?oc=5",
+      "source": "Facebook",
+      "country": "Regno Unito",
+      "language": "English",
+      "published": "2026-11-11T23:21:44+00:00",
+      "topic": "Papa Leone XIV",
+      "kind": "social",
+      "cluster_size": 2,
+      "origin": "search",
+      "account_checked_at": "2026-11-11T23:40:51.192442+00:00",
+      "cluster_id": "819be2bf8e51406d",
+      "cluster_sources": [
+        "Facebook",
+        "Instagram"
       ]
     },
     {
@@ -928,7 +970,7 @@
       "published": "2026-11-11T23:19:45+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 5,
+      "cluster_size": 6,
       "origin": "search",
       "author": "Agencia EFE",
       "article_url": "https://www.abc.es/sociedad/papa-leon-xiv-llega-peru-pais-adoptivo-20261112001941-nt.html",
@@ -941,7 +983,8 @@
         "El Universal",
         "Facebook",
         "López-Dóriga Digital",
-        "Milenio"
+        "Milenio",
+        "X"
       ]
     },
     {
@@ -1188,6 +1231,27 @@
       ]
     },
     {
+      "id": "290cffed34e96b14",
+      "title": "Pope Leo XIV arrives in Peru after wrapping up Argentina visit https://t.co/iKYt2orbBC",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jSkNwVnJwZUd4bnM0UGpLRFozd2pmaXN3RWZfSnhPcHdLb1NjczJtWlZab2x2T0JoYnFtSHlROWlwQWZFdkdQYXNkZlJLTV9TQmJsVmM0LXNXVGs2U1ZjTjBn?oc=5",
+      "source": "X",
+      "country": "Regno Unito",
+      "language": "English",
+      "published": "2026-11-11T23:17:05+00:00",
+      "topic": "Papa Leone XIV",
+      "kind": "social",
+      "cluster_size": 2,
+      "origin": "search",
+      "author": "WPLG Local 10 News",
+      "author_url": "https://x.com/WPLGLocal10",
+      "account_checked_at": "2026-11-11T23:40:51.192442+00:00",
+      "cluster_id": "12ccf07f1b8b820d",
+      "cluster_sources": [
+        "WPLG Local 10",
+        "X"
+      ]
+    },
+    {
       "id": "acba0547ef7c96e9",
       "title": "¡EL PAPA LEÓN XIV YA ESTÁ EN CASA! 🇵🇪🤩 El santo padre volvió al país y se reencuentra con su gente que vive la emoción este histórico momento. ¡Vive la visita apostólica por #TVPerú! #PapaLeónEnPerú #AbramosElCorazón #ElPapaVuelveACasa",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uMU5jSzdQb2VURjdfd2FvSGUyM2FORmFMRjlZYjN0WGtMV2pqaHpGUV9GMjV0X1JUbWZRaXZJRzJVTlFlWTlOUE0teFFHM1pFZUFGZ0t3T3JGNTE4WGtkSXlDZmJPYmdTakNYQU9CWmY?oc=5",
@@ -1240,13 +1304,14 @@
       "kind": "social",
       "cluster_size": 1,
       "origin": "search",
+      "account_checked_at": "2026-11-11T23:40:51.192442+00:00",
       "cluster_id": "8eb5f1a9eebee4bc",
       "cluster_sources": [
         "Facebook"
       ]
     },
     {
-      "id": "018783f30386768b",
+      "id": "3e01e4ab8e18a128",
       "title": "Pope Leo XIV arrived in Peru, opening the third and final leg of his Apostolic Journey to South America after visits to Uruguay and Argentina. The papal plane landed at Callao Air Base, where President Keiko Fujimori and Foreign Minister Carlos Espá welcom",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBubUZXcHJwd3VBdmdGTHVyN0pmaFVlVEUyOG53MHgzVVlyczR0TDA0bjJvcVNqR0d3VjhaejgwR1d6NldDaWJwdDUtVGUzWlFuTTlwQWt5SHBvRW9ZeXdIaDNR?oc=5",
       "source": "X",
@@ -1257,7 +1322,10 @@
       "kind": "social",
       "cluster_size": 2,
       "origin": "search",
-      "cluster_id": "018783f30386768b",
+      "author": "Vatican News",
+      "author_url": "https://x.com/VaticanNews",
+      "account_checked_at": "2026-11-11T23:40:51.192442+00:00",
+      "cluster_id": "31214a933abcd015",
       "cluster_sources": [
         "Facebook",
         "X"
@@ -1282,7 +1350,7 @@
       ]
     },
     {
-      "id": "672eaa2e57c468fe",
+      "id": "0fc33076bcfc74de",
       "title": "Lima, Accoglienza Ufficiale, 11 Novembre, 2026 – Papa Leone XIV",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkWVdCNUswMlV1TS1mN1lDX3VQSW80a0s3dnNSVk5XWnp1Z19rN3dSMzJZRTNNLWVTZmdqWmdwTm1WRWZvN09EOVZNWnQtNkxWY2dBMjZR?oc=5",
       "source": "YouTube",
@@ -1293,7 +1361,10 @@
       "kind": "social",
       "cluster_size": 1,
       "origin": "search",
-      "cluster_id": "672eaa2e57c468fe",
+      "author": "Vatican News - Italiano",
+      "author_url": "https://www.youtube.com/@VaticanNewsIT",
+      "account_checked_at": "2026-11-11T23:40:51.192442+00:00",
+      "cluster_id": "0fc33076bcfc74de",
       "cluster_sources": [
         "YouTube"
       ]
@@ -1330,6 +1401,7 @@
       "kind": "social",
       "cluster_size": 1,
       "origin": "search",
+      "account_checked_at": "2026-11-11T23:40:51.192442+00:00",
       "cluster_id": "4f6cb7bea1b55979",
       "cluster_sources": [
         "Facebook"
@@ -1384,7 +1456,7 @@
       "cluster_size": 2,
       "origin": "search",
       "account_checked_at": "2026-11-11T23:20:52.480230+00:00",
-      "cluster_id": "018783f30386768b",
+      "cluster_id": "31214a933abcd015",
       "cluster_sources": [
         "Facebook",
         "X"
@@ -1440,15 +1512,16 @@
       "published": "2026-11-11T23:13:48+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 2,
+      "cluster_size": 3,
       "origin": "search",
       "author": "Ecos Diarios",
       "article_url": "https://elecos.com.ar/keiko-fujimori-rechaza-criticas-por-su-viaje-a-asia-durante-la-visita-del-papa-leon-xiv",
       "author_verified": true,
       "byline_checked_at": "2026-11-11T23:20:44.349394+00:00",
       "author_url": "",
-      "cluster_id": "74f0173188327c1c",
+      "cluster_id": "6634cbeaed2d08cd",
       "cluster_sources": [
+        "EL PAÍS Uruguay",
         "Ecos Diarios Necochea",
         "La Nación"
       ]
@@ -1465,6 +1538,7 @@
       "kind": "social",
       "cluster_size": 1,
       "origin": "search",
+      "account_checked_at": "2026-11-11T23:40:51.192442+00:00",
       "cluster_id": "5f3b61d09a6d4979",
       "cluster_sources": [
         "Facebook"
@@ -1560,6 +1634,7 @@
       "kind": "social",
       "cluster_size": 1,
       "origin": "search",
+      "account_checked_at": "2026-11-11T23:40:51.192442+00:00",
       "cluster_id": "566cf468d6e94182",
       "cluster_sources": [
         "Facebook"
@@ -1661,6 +1736,7 @@
       "kind": "social",
       "cluster_size": 3,
       "origin": "search",
+      "account_checked_at": "2026-11-11T23:40:51.192442+00:00",
       "cluster_id": "072829cdbcbc2af6",
       "cluster_sources": [
         "Facebook",
@@ -1737,6 +1813,7 @@
       "kind": "social",
       "cluster_size": 1,
       "origin": "search",
+      "account_checked_at": "2026-11-11T23:40:51.192442+00:00",
       "cluster_id": "3e2f9b06e4a8cd79",
       "cluster_sources": [
         "Facebook"
@@ -1898,6 +1975,24 @@
       ]
     },
     {
+      "id": "9c58c0ede008236e",
+      "title": "Scott Colom gana en Misisipi y será el primer senador demócrata de ese Estado en casi cuatro décadas",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSm5pcS1CT1BJVjgxMjhhMjlHeGhCd1BSdHpDemZoYy02RndEeUNGY3NaNHV4VzA0aWFaUTFzZS1OTk9JZWNSZUlpZ0VMUDhINzFtZjdRdE1RaVROeEN0cllWSEJMZHhDWWwyRG5pcnpzbTVUMDdzQi1GZHBNMHprTFY1STRSOVFKS1FyR01mWnFmbWZ6R3Zmeko1S2NDaE9CbE9xTk0tSkt5eVJuQjBCZjlka2dJb1dNVHAtSjhBWE9nSnlhbW9uQnQ3b0x3OUtjOGNTUXB30gHqAUFVX3lxTE5TUkg1eTdQUjNqZEw5blFzTGphYy1tRFZUOU9QS0phcWVkWmRjdGM5RnZXS0UtWWJoRU5wZkJ3ZmluT0o1QnN6RVJmbXpiWjJmZEdjU0ZDYlNlS1hJamFJQXBVaWxtRXBTWEd6STFrcEpYT29ucEY2WGRxX0FBN194b3JNOEZwM3ZNc1B1QzJ2TUFNUXY0WkdlV05zcUlKc3pvaDZKeFBoZDRnenpVZjEya1lvaWpYRVFkOVdnYTdGb28tdnZDVTF1T0J0RVZ0TTBpeUlIWjRNQlFpTTliclZ6MmlqWmhYRUxOUQ?oc=5",
+      "source": "EL PAÍS",
+      "country": "Spagna",
+      "language": "Español",
+      "published": "2026-11-11T23:08:25+00:00",
+      "topic": "Attualità",
+      "kind": "news",
+      "cluster_size": 1,
+      "origin": "search",
+      "byline_checked_at": "2026-11-11T23:30:59.844795+00:00",
+      "cluster_id": "81b690a81aa4557b",
+      "cluster_sources": [
+        "EL PAÍS"
+      ]
+    },
+    {
       "id": "81b690a81aa4557b",
       "title": "Scott Colom gana en Misisipi y será el primer demócrata que manda el Estado al Senado en casi cuatro décadas",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSm5pcS1CT1BJVjgxMjhhMjlHeGhCd1BSdHpDemZoYy02RndEeUNGY3NaNHV4VzA0aWFaUTFzZS1OTk9JZWNSZUlpZ0VMUDhINzFtZjdRdE1RaVROeEN0cllWSEJMZHhDWWwyRG5pcnpzbTVUMDdzQi1GZHBNMHprTFY1STRSOVFKS1FyR01mWnFmbWZ6R3Zmeko1S2NDaE9CbE9xTk0tSkt5eVJuQjBCZjlka2dJb1dNVHAtSjhBWE9nSnlhbW9uQnQ3b0x3OUtjOGNTUXB30gHqAUFVX3lxTE5TUkg1eTdQUjNqZEw5blFzTGphYy1tRFZUOU9QS0phcWVkWmRjdGM5RnZXS0UtWWJoRU5wZkJ3ZmluT0o1QnN6RVJmbXpiWjJmZEdjU0ZDYlNlS1hJamFJQXBVaWxtRXBTWEd6STFrcEpYT29ucEY2WGRxX0FBN194b3JNOEZwM3ZNc1B1QzJ2TUFNUXY0WkdlV05zcUlKc3pvaDZKeFBoZDRnenpVZjEya1lvaWpYRVFkOVdnYTdGb28tdnZDVTF1T0J0RVZ0TTBpeUlIWjRNQlFpTTliclZ6MmlqWmhYRUxOUQ?oc=5",
@@ -2041,6 +2136,7 @@
       "kind": "social",
       "cluster_size": 1,
       "origin": "search",
+      "account_checked_at": "2026-11-11T23:40:51.192442+00:00",
       "cluster_id": "7d45453c46e3a885",
       "cluster_sources": [
         "Instagram"
@@ -2212,6 +2308,7 @@
       "kind": "social",
       "cluster_size": 1,
       "origin": "search",
+      "account_checked_at": "2026-11-11T23:40:51.192442+00:00",
       "cluster_id": "1f7b836361125c80",
       "cluster_sources": [
         "Instagram"
@@ -2229,6 +2326,7 @@
       "kind": "social",
       "cluster_size": 1,
       "origin": "search",
+      "account_checked_at": "2026-11-11T23:40:51.192442+00:00",
       "cluster_id": "d206b1c2dad8555c",
       "cluster_sources": [
         "Facebook"
@@ -2288,6 +2386,7 @@
       "kind": "social",
       "cluster_size": 2,
       "origin": "search",
+      "account_checked_at": "2026-11-11T23:40:51.192442+00:00",
       "cluster_id": "4f13118f24a038be",
       "cluster_sources": [
         "Facebook",
@@ -2464,7 +2563,8 @@
       "cluster_id": "ee3a3785ca28e700",
       "cluster_sources": [
         "Instagram"
-      ]
+      ],
+      "account_checked_at": "2026-11-11T23:40:51.192442+00:00"
     },
     {
       "id": "a0738e2769cd408f",
@@ -2641,6 +2741,7 @@
       "kind": "social",
       "cluster_size": 1,
       "origin": "search",
+      "account_checked_at": "2026-11-11T23:40:51.192442+00:00",
       "cluster_id": "f732b7a0064371d3",
       "cluster_sources": [
         "Facebook"
@@ -2658,6 +2759,7 @@
       "kind": "social",
       "cluster_size": 2,
       "origin": "search",
+      "account_checked_at": "2026-11-11T23:40:51.192442+00:00",
       "cluster_id": "4f13118f24a038be",
       "cluster_sources": [
         "Facebook",
@@ -3082,7 +3184,7 @@
       ]
     },
     {
-      "id": "a6ee2774e70b3978",
+      "id": "ce168d1de7eea1f3",
       "title": "EWTN Vatican",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wTkl3Q1FKc1FRcTNHTm9DSWxoa3paVVBzdFdwQi0tUDFuOGZER1E3dHdEQ2ttOFhDZ2F4ZHpXNnJtY3hkS0hJVzF6S21yLTNYUmUzVzJRZ3J2TC1pV0R1YnNMTDJtZFktdzBFbg?oc=5",
       "source": "Facebook",
@@ -3093,7 +3195,10 @@
       "kind": "social",
       "cluster_size": 1,
       "origin": "search",
-      "cluster_id": "a6ee2774e70b3978",
+      "author": "@EWTNVatican",
+      "author_url": "https://www.facebook.com/EWTNVatican",
+      "account_checked_at": "2026-11-11T23:40:51.192442+00:00",
+      "cluster_id": "ce168d1de7eea1f3",
       "cluster_sources": [
         "Facebook"
       ]
@@ -3455,6 +3560,23 @@
         "El Litoral",
         "Instagram",
         "Mirador Provincial"
+      ]
+    },
+    {
+      "id": "27ffcd6cd4a228a7",
+      "title": "After midterm losses, the religious right blames Trump, voters and each other",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRk5vQkhkcFlOUjhvakM3RmticGFVQWpSSzV2dWxZTkQtWUpwQXplVDVBakxHMGNSdFdfM0tpcGN3eEVlYi1KZ1IwYi1GZWlNdlp1R0xhME5yYnhsQVdJenByeC1reERtNUZGYXJhRmFpZERwWXRqSXc2SElzQXNVM1VtQWxEY283ODVNNG9sLU1rMDI2eHRqVi01Y05Oc3BGZVlUR05PMjE2aGU0MHZuaTF3?oc=5",
+      "source": "Religion News Service",
+      "country": "Stati Uniti",
+      "language": "English",
+      "published": "2026-11-11T22:56:01+00:00",
+      "topic": "Attualità",
+      "kind": "news",
+      "cluster_size": 1,
+      "origin": "search",
+      "cluster_id": "27ffcd6cd4a228a7",
+      "cluster_sources": [
+        "Religion News Service"
       ]
     },
     {
@@ -4086,12 +4208,13 @@
       "published": "2026-11-11T22:50:01+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 1,
+      "cluster_size": 2,
       "origin": "search",
       "byline_checked_at": "2026-11-11T23:01:13.486328+00:00",
       "cluster_id": "12ccf07f1b8b820d",
       "cluster_sources": [
-        "WPLG Local 10"
+        "WPLG Local 10",
+        "X"
       ]
     },
     {
@@ -4258,7 +4381,7 @@
       "title": "🔴🔵 #PapaLeónXIVEnElPerú 🕊️🇵🇪 | El papa León XIV saluda a los niños en su llegada al Grupo Aéreo N° 8 en el Callao en su retorno histórico al Perú. Los abrazó y les dio la bendición. 📻 95.5 FM 📡 6.1 señal digital abierta 📺 Movistar: 34 SD - 734 HD 🌐 htt",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPV0NRUm1Qd2lOcUhOekpQc3ZsNkpYSnBlOFNqd0UtcWVpZ0lhRTdMYTdCUHBjREEtQWV0a0tWSFpqY1NNTndOdFI2b0FHVzRRNVB6ZTJpRk4wYk9jS2s5aTBkZDJya0tXT3pPSVZWMHJwRGMwSUN0OENMZjBVNmZGX2JzejhiQjBtV2U0U2NaR2NoLWZVQmtlMHlUeTJ2OE5LTGFPbURIcElfeGRYaE8yS2hBQXUtOXhpVFRTa0ZxM1BDVS1vVl9BaTdGUjFkX2c4M3VUWFFlVVN1aUNzbFdCaExqYW02QVl6LUdlOFZlTTZmVV9US3ZqUTUwTTJTN2dubHdv?oc=5",
       "source": "Facebook",
-      "country": "Spagna",
+      "country": "America Latina",
       "language": "Español",
       "published": "2026-11-11T22:48:51+00:00",
       "topic": "Papa Leone XIV",
@@ -5655,6 +5778,25 @@
       "cluster_id": "afb3b9b6854b3fc1",
       "cluster_sources": [
         "Instagram"
+      ]
+    },
+    {
+      "id": "6634cbeaed2d08cd",
+      "title": "Polémica en Perú: critican a Keiko Fujimori porque se irá del país durante la visita del papa León XIV",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcVF2SVlZNndGaTV0cmdaTTAxY0VaMS0yNEVVd1NVZGdabFEwSjdBMTRldFVRYk9mU1ZjeUR0eXlMdGY3YUJUSzJYMVIxT05qNDBOUF9BbnE2N0ZKVC0zQmI0cGhsT2lXbThMYnNwRzYwMzM2eUx1cnJhY3I5djlSektiZ3M3UXU4R0lrT29sekRIQy16MHpxR2dqXzZ4OWJtUkU3VDZkdnNjX2JualpvX1RBcldScmhCazgxTnd3Tjd1dzdmbHBrRnFLTGV2Zw?oc=5",
+      "source": "EL PAÍS Uruguay",
+      "country": "Stati Uniti",
+      "language": "English",
+      "published": "2026-11-11T22:37:40+00:00",
+      "topic": "Papa Leone XIV",
+      "kind": "news",
+      "cluster_size": 3,
+      "origin": "search",
+      "cluster_id": "6634cbeaed2d08cd",
+      "cluster_sources": [
+        "EL PAÍS Uruguay",
+        "Ecos Diarios Necochea",
+        "La Nación"
       ]
     },
     {
@@ -7276,7 +7418,7 @@
       "title": "Pope Leo XIV’s schedule for his time in Peru - the third and final stop on his sixth international Apostolic Journey",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6NXdDMEQ3ZW9qY25ZV3QyRXR0MXlBUWtIckxMaTRYem0zYndzbXVuWGNfUmJBTnh6SEp0dnNRS1BqZGZXbHdPZ0l2clJiWXFrMVE?oc=5",
       "source": "Instagram",
-      "country": "Stati Uniti",
+      "country": "Regno Unito",
       "language": "English",
       "published": "2026-11-11T22:22:40+00:00",
       "topic": "Papa Leone XIV",
@@ -7335,7 +7477,7 @@
       "published": "2026-11-11T22:22:00+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 5,
+      "cluster_size": 6,
       "origin": "search",
       "author": "Agencia EFE ",
       "article_url": "https://amp.milenio.com/internacional/papa-leon-xiv-regresa-peru-seguir-visita-latinoamerica",
@@ -7348,7 +7490,8 @@
         "El Universal",
         "Facebook",
         "López-Dóriga Digital",
-        "Milenio"
+        "Milenio",
+        "X"
       ]
     },
     {
@@ -7792,7 +7935,7 @@
       "published": "2026-11-11T22:17:32+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 5,
+      "cluster_size": 6,
       "origin": "search",
       "author": "Jaqueline",
       "article_url": "https://lopezdoriga.com/internacional/el-papa-leon-xiv-llega-a-peru-su-pais-adoptivo-para-reencontrarse-con-su-pueblo/",
@@ -7805,7 +7948,8 @@
         "El Universal",
         "Facebook",
         "López-Dóriga Digital",
-        "Milenio"
+        "Milenio",
+        "X"
       ]
     },
     {
@@ -8158,7 +8302,7 @@
       "published": "2026-11-11T22:14:39+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 5,
+      "cluster_size": 6,
       "origin": "search",
       "author": "​​​​​​​EFE",
       "article_url": "https://www.eluniversal.com.mx/mundo/leon-xiv-llega-a-peru-su-pais-adoptivo-gira-pastoral-recorre-ciudades-clave-de-su-trayectoria/",
@@ -8171,7 +8315,8 @@
         "El Universal",
         "Facebook",
         "López-Dóriga Digital",
-        "Milenio"
+        "Milenio",
+        "X"
       ]
     },
     {
@@ -8350,7 +8495,7 @@
       "published": "2026-11-11T22:12:12+00:00",
       "topic": "Papa Leone XIV",
       "kind": "social",
-      "cluster_size": 5,
+      "cluster_size": 6,
       "origin": "search",
       "account_checked_at": "2026-11-11T22:20:50.849759+00:00",
       "cluster_id": "6999425e2015028b",
@@ -8359,7 +8504,8 @@
         "El Universal",
         "Facebook",
         "López-Dóriga Digital",
-        "Milenio"
+        "Milenio",
+        "X"
       ]
     },
     {
@@ -8402,6 +8548,28 @@
       "cluster_sources": [
         "Avvenire",
         "Il Messaggero"
+      ]
+    },
+    {
+      "id": "7897e69e7cde5165",
+      "title": "El papa León XIV llega a Perú, su país adoptivo, para reencontrarse con su pueblo #NoticiasSIN Detalles en: https://t.co/3xsYYfM7FK",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XMlAwUkt6dkdfZ1VSd1NWak0wd3FZWWh1WWdJRXlIWG43WDR0MGFuRFdBSXNXcGtQSXZkQVJQRUo3dFBaMnV0UzJEUVNfOFNCcEFONjhiNV91X2dvLXE0cA?oc=5",
+      "source": "X",
+      "country": "America Latina",
+      "language": "Español",
+      "published": "2026-11-11T22:12:00+00:00",
+      "topic": "Papa Leone XIV",
+      "kind": "social",
+      "cluster_size": 6,
+      "origin": "search",
+      "cluster_id": "6999425e2015028b",
+      "cluster_sources": [
+        "ABC",
+        "El Universal",
+        "Facebook",
+        "López-Dóriga Digital",
+        "Milenio",
+        "X"
       ]
     },
     {
@@ -9739,7 +9907,7 @@
       "kind": "social",
       "cluster_size": 1,
       "origin": "search",
-      "cluster_id": "10e78230dd40db8d",
+      "cluster_id": "549300b5dc95bb1d",
       "cluster_sources": [
         "YouTube"
       ]
@@ -10099,7 +10267,7 @@
       "title": "Presidente del CELAM: León XIV en Perú, el regreso a casa del hijo amado",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMnVFRHRUQmljLUJMajRIS2lsc25DbDBZbVUzY3A2TFRMVndXcm9TamY0d1psTS1CT0VfN1EzQkkteURDRXg2bWRuLXJBWmxwNklyUm04WWRrR1N0VlVlZXUyWDJRckZtRFZ6UEVYVFotTTdUQldNTS1EeVE3cnVqbF92Y3hndmc1OEs0bmtpbDFlZkoxOHR4REQxWlNQSmI4QllRLUVPdFlGRE5ibjNfVl9aM0hPX2VV?oc=5",
       "source": "Vatican News",
-      "country": "America Latina",
+      "country": "Spagna",
       "language": "Español",
       "published": "2026-11-11T21:59:12+00:00",
       "topic": "Papa Leone XIV",
@@ -11288,6 +11456,25 @@
       ]
     },
     {
+      "id": "9f32562a84bae968",
+      "title": "InfoMoney. . O presidente argentino, Javier Milei, se emocionou e chorou ao se despedir do Papa Leão XIV nesta quarta (11), antes de o pontífice embarcar rumo ao Peru, última etapa de sua viagem pela América do Sul. As informações são da Reuters. Dura",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWHNVTFFCVzh0dWlqNjFRbFlTZWJxVHBIbk1HaVhiSVpOVHhwVXl4SVJrYTZJRmxsXzFHN0NkajBQc0lBSm1DWTd1VDliQ2ZGc0dybmJhQVNVRjR5ZklTODk2Y0dQQ3N1a2Y1RTV3R3JNRkwxSkpjZ0VudnZuU0JwWWVsd3hOWkx2QmgtYk5pLXl3S3h2b25FdWdpa3QzQXJITzJDQXZxMmxrT19hOGc?oc=5",
+      "source": "Facebook",
+      "country": "Brasile",
+      "language": "Português",
+      "published": "2026-11-11T21:40:41+00:00",
+      "topic": "Attualità",
+      "kind": "social",
+      "cluster_size": 2,
+      "origin": "search",
+      "account_checked_at": "2026-11-11T22:01:22.864920+00:00",
+      "cluster_id": "9de7a8d83295011f",
+      "cluster_sources": [
+        "Facebook",
+        "TikTok"
+      ]
+    },
+    {
       "id": "9de7a8d83295011f",
       "title": "O presidente argentino, Javier Milei, se emocionou e chorou ao se despedir do Papa Leão XIV nesta quarta (11), antes de o pontífice embarcar rumo ao Peru, última etapa de sua viagem pela América do Sul. As informações são da Reuters. Durante a visita à",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBid0EtMm1SVlJkNGNxSTUwcFk4Mld4TzEyN0dEYU5YZTdfTDl2MnZTck5wSGpiVkItb05UdURKeEFSNG0wNGFkbXV4TmpLSW5KdjVfVVZzemZFZDRiaFY0V1czSUpEa0JWaW5N?oc=5",
@@ -11302,25 +11489,6 @@
       "author": "@infomoney",
       "author_url": "https://www.tiktok.com/@infomoney",
       "account_checked_at": "2026-11-11T21:50:49.922127+00:00",
-      "cluster_id": "9de7a8d83295011f",
-      "cluster_sources": [
-        "Facebook",
-        "TikTok"
-      ]
-    },
-    {
-      "id": "9f32562a84bae968",
-      "title": "InfoMoney. . O presidente argentino, Javier Milei, se emocionou e chorou ao se despedir do Papa Leão XIV nesta quarta (11), antes de o pontífice embarcar rumo ao Peru, última etapa de sua viagem pela América do Sul. As informações são da Reuters. Dura",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWHNVTFFCVzh0dWlqNjFRbFlTZWJxVHBIbk1HaVhiSVpOVHhwVXl4SVJrYTZJRmxsXzFHN0NkajBQc0lBSm1DWTd1VDliQ2ZGc0dybmJhQVNVRjR5ZklTODk2Y0dQQ3N1a2Y1RTV3R3JNRkwxSkpjZ0VudnZuU0JwWWVsd3hOWkx2QmgtYk5pLXl3S3h2b25FdWdpa3QzQXJITzJDQXZxMmxrT19hOGc?oc=5",
-      "source": "Facebook",
-      "country": "Brasile",
-      "language": "Português",
-      "published": "2026-11-11T21:40:41+00:00",
-      "topic": "Attualità",
-      "kind": "social",
-      "cluster_size": 2,
-      "origin": "search",
-      "account_checked_at": "2026-11-11T22:01:22.864920+00:00",
       "cluster_id": "9de7a8d83295011f",
       "cluster_sources": [
         "Facebook",
@@ -12706,25 +12874,6 @@
       ]
     },
     {
-      "id": "8a96b0b99623c516",
-      "title": "🔴🔵 Así se vive la espera por la llegada del papa León XIV al Perú. Cientos de fieles se congregan a exteriores de la Basílica María Auxiliadora, en las primeras cuadras de la avenida Brasil, en Breña. 📻 95.5 FM 📡 6.1 señal digital abierta 📺 Movistar: 34 SD - 7",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcm04LW5uVWptSHFDajZSRUpsQ0ZnSXpPb25tNnhERjl3ZDV3dV8zV3NMcF9wYXhGV0x5eXZhdENmSnpUQ1BDM3BrbXVCdmFQVFlSbVZiV292RHQydmhfZ3dTOXk5a25vOGZXSVdhNUdMMkg0VGI1S29pWGI0M2t1UDBGeUxYdmVKNHVKSEZSZlBKeGRDa1hfWUFwemtFa0FaUFdVWVIxd2RjUUt0NllUSHZpbVFQRXhFT1dPaHlPVmZmeXBWall0cGFpS3AweUVCb1laUm00aG5xOTN5WGlKR0hGdTdZTWFLaks5ZHBra2diSjA?oc=5",
-      "source": "Facebook",
-      "country": "America Latina",
-      "language": "Español",
-      "published": "2026-11-11T21:24:03+00:00",
-      "topic": "Papa Leone XIV",
-      "kind": "social",
-      "cluster_size": 2,
-      "origin": "search",
-      "account_checked_at": "2026-11-11T21:40:53.314178+00:00",
-      "cluster_id": "8a96b0b99623c516",
-      "cluster_sources": [
-        "Facebook",
-        "TikTok"
-      ]
-    },
-    {
       "id": "d0dd24962afe6ccd",
       "title": "🔴🔵 Así se vive la espera por la llegada del papa León XIV al Perú. Cientos de fieles se congregan a exteriores de la Basílica María Auxiliadora, en las primeras cuadras de la avenida Brasil, en Breña. #exitosanoticias #papaleonxiv #papamovil #avbrasil",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KU1NvVTZicTBUcTcxUXBjMjdtUEVUNE5uNGR6ZFZSSG9hMWdqdmlYaFBYRmFOeHFoZUdfOG1SZ3JJRmZPaDJoNkM4SFpzTnpPa3AzWnRoaXl6NFJLWmFWb0d2cEplUmRYMkkwbm4yX2ZXQjg?oc=5",
@@ -12734,14 +12883,13 @@
       "published": "2026-11-11T21:23:56+00:00",
       "topic": "Papa Leone XIV",
       "kind": "social",
-      "cluster_size": 2,
+      "cluster_size": 1,
       "origin": "search",
       "author": "@exitosanoticias",
       "author_url": "https://www.tiktok.com/@exitosanoticias",
       "account_checked_at": "2026-11-11T21:31:15.886452+00:00",
-      "cluster_id": "8a96b0b99623c516",
+      "cluster_id": "d0dd24962afe6ccd",
       "cluster_sources": [
-        "Facebook",
         "TikTok"
       ]
     },
@@ -13200,15 +13348,16 @@
       "published": "2026-11-11T21:11:00+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 2,
+      "cluster_size": 3,
       "origin": "search",
       "author": "LA NACION",
       "article_url": "https://www.lanacion.com.ar/el-mundo/polemica-en-peru-cuestionan-a-keiko-fujimori-porque-se-ira-del-pais-durante-la-visita-del-papa-leon-nid11112026/",
       "author_verified": true,
       "byline_checked_at": "2026-11-11T21:40:42.682529+00:00",
       "author_url": "",
-      "cluster_id": "74f0173188327c1c",
+      "cluster_id": "6634cbeaed2d08cd",
       "cluster_sources": [
+        "EL PAÍS Uruguay",
         "Ecos Diarios Necochea",
         "La Nación"
       ]
@@ -13553,7 +13702,7 @@
       "published": "2026-11-11T21:02:28+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 5,
+      "cluster_size": 6,
       "origin": "search",
       "author": "Fabiana López",
       "article_url": "https://www.ciudad.com.ar/espectaculos/2026/11/11/yanina-latorre-se-defendio-de-las-criticas-por-el-escandalo-de-la-carpa-vip-en-la-misa-del-papa-leon-xiv-si-ofendi-a-alguien/",
@@ -13564,6 +13713,7 @@
       "cluster_sources": [
         "Ciudad Magazine",
         "Diario El Norte - San Nicolás",
+        "Exitoina",
         "Revista GENTE",
         "Somos Famosos",
         "Vía País"
@@ -14520,6 +14670,28 @@
       "cluster_id": "bc11de15c26cb93e",
       "cluster_sources": [
         "Clarin.com"
+      ]
+    },
+    {
+      "id": "857bd18ca485fa38",
+      "title": "Yanina Latorre, tajante tras el escándalo por la \"carpa VIP\" en la misa del Papa León XIV: \"Yo no tengo la cul...",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQ3RJWjRLaWlUOHp5UTFpdkxNQUluYkt5YjU2VE5XNDFNa1hadE5SR1lhTmJ3ai01Y1BLendoXzNoZFdlazNwUWgtZ0phbWZhTGRzeHl2OFlVbWd6bnVlTGZJX3ZvOWJ4eWo5QmNQVnR3bzVzd2Q4Q29kUmQwcUFmd3JjOC1hRjdhQU1IYmduUVhTN29PNjNLQ19IU2VXWUlwUUVpNGRKdHJPYXVrdi1QeWhNMzhEV2ZPMFZ0aElGWjR5X3ZRNUtsb2ZHMzFYSWxCTjdDWldUcHJWZ0RIaXhpRNIB5gFBVV95cUxPd2VIeklqbVlpWFRtaXU1bVFDY29scHZLUmR5M1dwWm1CcHc0MUNEZ3daT0xFLTdLTTVXM1dOSWFTVkpQY3dVUUpFUVRmNWlUMHMzNUZON2prS0hlMGhYampHZ0FtOTl2X2M1MFZtTmZibmVGdGVLNmUwaDdiSHNFLUhiMG9IbFp0amFVQUFqUXRSRTZSVmVqb1RJcTRWWURubzdWTm12YmFkMmR2bkh6QlJKVTM4LXRTcG9SbkhtRy1TQ1RIV2V1Qzh3STJqWnhHN0IybFItRzRxZ3NNbHFub3lZaTlfUQ?oc=5",
+      "source": "Exitoina",
+      "country": "Spagna",
+      "language": "Español",
+      "published": "2026-11-11T20:49:31+00:00",
+      "topic": "Papa Leone XIV",
+      "kind": "news",
+      "cluster_size": 6,
+      "origin": "search",
+      "cluster_id": "3d18281c1193eb03",
+      "cluster_sources": [
+        "Ciudad Magazine",
+        "Diario El Norte - San Nicolás",
+        "Exitoina",
+        "Revista GENTE",
+        "Somos Famosos",
+        "Vía País"
       ]
     },
     {
@@ -15556,7 +15728,7 @@
       "title": "Susana Baca se preparó hasta la madrugada para ofrecerle una presentación al papa León XIV",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVkswc250bjNXS3VqQ0N0eTJ6UFlnbDlIQkloR3J6NjA5LUhXYzZZbWhUUmZibUVzemZMcTc4RFV0anptd21xOE1IdWIzdkRDeDN0amlMSDBQOUZ3RXE4WWx3MjRFMFpmS3RiRzc4TnZHeG1YT0plS2dHbVBta3ZFX1dJX25wOFlNT1JTaFlKajJ1MDlzMkN0UTVwbHZoeUxWTjVNTk9kMjZOUjQ0RkpzX1VINHQ5dV9zSVhqdjlLaXVJSEJLUTRxaElveURBWWY0M3gwSHEwM0pqNE1vNmpQd05iSERfMlBRT0tSTXFuZnpwWVFMczRZ0gGLAkFVX3lxTE9DWU84VS1NSUZFWEdrQURCUnpZb1FPOVpfTWhXWG5ES0xRS3JDSWZKQ1VaZnhSSnJPX09SU0pNeVdkNExFcUF2S1ozUVM5QUZQTGVzR1NQWl8yeGdvaExlYWxEODh2QnhpcjVpdzN1bnJEZWtZcW1NaUxfWl9aVXY2amZ0NnhUWTdoV0tjSGVCeGFOalFyN1NjUWZWLWZZSHpERWxCSDFoTjRraGliUGQwaDdjUWVZeGEtNFdScUM0WFNZbkNFbGpEbkh2RGMyVHBDMUwySHU0QWpjcDE2R1Z4ZS1ySURleDlIN25lcHZCYmJHNmFRNDdMank5YjEyQTc2TG8yQUdQYTU4WQ?oc=5",
       "source": "El Comercio Perú",
-      "country": "America Latina",
+      "country": "Spagna",
       "language": "Español",
       "published": "2026-11-11T20:25:39+00:00",
       "topic": "Papa Leone XIV",
@@ -18109,7 +18281,7 @@
       "title": "Tras finalizar su visita al país, el papa León XIV compartió un mensaje de agradecimiento a los argentinos y recordó a Francisco. “Me he sentido como en casa”, expresó el pontífice, quien aseguró que la Argentina tiene dos papas: uno nacido en el país y otr",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1ZWZwNTFPcTFnbHNtalN5S1NvMXUwVDJoelhCYnc1Z29BRjYzZzlOenFWM3JPM2ZsWjVIYlBEMDFfZnJOeUlqdGhUdVFqVnJHcXc?oc=5",
       "source": "Instagram",
-      "country": "Spagna",
+      "country": "America Latina",
       "language": "Español",
       "published": "2026-11-11T19:37:17+00:00",
       "topic": "Papa Leone XIV",
@@ -26826,7 +26998,7 @@
       "kind": "social",
       "cluster_size": 1,
       "origin": "search",
-      "cluster_id": "10e78230dd40db8d",
+      "cluster_id": "549300b5dc95bb1d",
       "cluster_sources": [
         "YouTube"
       ]
@@ -27854,44 +28026,6 @@
       "cluster_id": "59964afc953584bb",
       "cluster_sources": [
         "BorderPeriodismo"
-      ]
-    },
-    {
-      "id": "7ea1426d98a5ec9f",
-      "title": "Curiosidade: na Argentina, o Papa Leão XIV recebeu uma capivara de pelúcia de presente de um menino de um grupo de escoteiros. Surpreso, o papa sorriu e abraçou o pequeno. As capivaras conquistaram grande popularidade entre os jovens argentinos",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxbTB4WGtwNWIwX0VIaThLZEZrRXpsYVIzNkhnNmJfNVZGSU9LR2ZqRW1FMWVOcXpsMm1Sb25QUEwtekQ1NmZ2SzRUSEpmdEhwRVBSVWN3TFNvMmtWM1oyMm5GZ0ZYQQ?oc=5",
-      "source": "X",
-      "country": "Brasile",
-      "language": "Português",
-      "published": "2026-11-11T17:21:47+00:00",
-      "topic": "Attualità",
-      "kind": "social",
-      "cluster_size": 1,
-      "origin": "search",
-      "account_checked_at": "2026-11-11T17:30:29.700983+00:00",
-      "cluster_id": "7ea1426d98a5ec9f",
-      "cluster_sources": [
-        "X"
-      ]
-    },
-    {
-      "id": "cc5af1dd1d96f089",
-      "title": "Curiosidade: na Argentina, o Papa Leão XIV recebeu uma capivara de pelúcia de presente de um menino de um grupo de escoteiros. Surpreso, o papa sorriu e abraçou o pequeno. As capivaras conquistaram grande popularidade entre os jovens argentinos",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KQ3VtOUhsaTRmLWJ6Z0lqWVFMSXM3LXlLZTY4MzFTN1c4R0hZeEYyVmlWalI1Z01ETGFjRUtYNmVUeVpuaE5uZnlDSGI2QU1GaGFud0dxeTNuTVE?oc=5",
-      "source": "X",
-      "country": "Brasile",
-      "language": "Português",
-      "published": "2026-11-11T17:21:47+00:00",
-      "topic": "Attualità",
-      "kind": "social",
-      "cluster_size": 1,
-      "origin": "search",
-      "author": "O TEMPO",
-      "author_url": "https://x.com/otempo",
-      "account_checked_at": "2026-11-11T17:30:29.700983+00:00",
-      "cluster_id": "7ea1426d98a5ec9f",
-      "cluster_sources": [
-        "X"
       ]
     },
     {
@@ -29167,7 +29301,7 @@
       "kind": "social",
       "cluster_size": 1,
       "origin": "search",
-      "cluster_id": "10e78230dd40db8d",
+      "cluster_id": "549300b5dc95bb1d",
       "cluster_sources": [
         "YouTube"
       ]
@@ -29252,6 +29386,7 @@
       "article_url": "https://elpais.com/us/2026-11-11/la-casa-blanca-amenaza-a-los-democratas-del-congreso-que-intenten-investigar-al-gobierno-de-trump.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-11T23:39:21.492792+00:00",
+      "author_url": "",
       "cluster_id": "e0d6baa4ac12be9e",
       "cluster_sources": [
         "EL PAÍS"
@@ -30595,6 +30730,23 @@
         "COPE",
         "EFE - Agencia de noticias",
         "La Vanguardia"
+      ]
+    },
+    {
+      "id": "0ff6db4ce108d0a4",
+      "title": "LIVE: Papst Leo XIV. verabschiedet sich aus Argentinien | Papstreise | K-TV – 11.11.2026",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qaVQ0Mm5OVVRRR1RLcW1BRmJhR2tfemphbjNzczdncVB3WkE0UXhuSTd1OF9Wd3JhM2tLTGNmSm1iVk1jUTA4TDUycDZxZXpjMVJVNl9R?oc=5",
+      "source": "YouTube",
+      "country": "Germania",
+      "language": "Deutsch",
+      "published": "2026-11-11T16:40:27+00:00",
+      "topic": "Papa Leone XIV",
+      "kind": "social",
+      "cluster_size": 1,
+      "origin": "search",
+      "cluster_id": "0ff6db4ce108d0a4",
+      "cluster_sources": [
+        "YouTube"
       ]
     },
     {
@@ -36853,6 +37005,7 @@
       "article_url": "https://efe.com/espana/2026-11-11/fiscalia-tiktok-abusos-sexuales-menores/",
       "author_verified": true,
       "byline_checked_at": "2026-11-11T23:39:21.492792+00:00",
+      "author_url": "",
       "cluster_id": "c043858949414f3d",
       "cluster_sources": [
         "EFE - Agencia de noticias"
@@ -39001,6 +39154,28 @@
       ]
     },
     {
+      "id": "254166e862850731",
+      "title": "Qué figuras del peronismo asistieron en Luján a la misa que ofició el papa León XIV",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYzBWQlI0SWE5QzU0WE1HVHpBQ296LUs1a0MzWG9ELU9PdllHTklicm90TG5veHdEZ0g1dVl1bkhDaFZtdEJtZkFvRDFEMnNtOW4zUmlIa2VvU1d1Z1ZnM21SV0RjeW9EdzhORHdRT1FXOTdwOWNaOEhhYlVDOFZkc0ZTRFpuSFQ4T3F6bjE2V19sNG93QnpsMUNVVFRUeEZtLXQ4cXR3azFnV29sNnNJUUJUZEkyamEtUXhpRlpZUDhLWVZ5WEI4Vk9lTGNSbW9KTDdGU9IB7wFBVV95cUxNdzdIWHI0d0hVeE5sa0k2Rkh1UzFOSjdWLXF3UWpHb1pReVItR1VYMHZHbmREX3NMYTBLRTA1SWZLR2lKZm5pUjdOS09BcjVGYmtVazNBd2FGZjdZNEw4UXBWSnFUTHh0aTdmVERsOENhU0cwTlVDc21iOWNZaGxBMV85SkNXUEVqY1M2REkyTU9DTTgxWUpCMXdSSFpQTjVYUnkyWGpvWjFiNFJOeXd1Sk1DOUR1QThBTURJMloyR3Q3VDJjamJDb2RkWm91ZTNaRVpCSk1DUDV0V3htVV9vdnR4ZnpPMXo1bm5mc185cw?oc=5",
+      "source": "Infobae",
+      "country": "America Latina",
+      "language": "Español",
+      "published": "2026-11-11T14:45:38+00:00",
+      "topic": "Papa Leone XIV",
+      "kind": "news",
+      "cluster_size": 1,
+      "origin": "search",
+      "author": "Julieta Roffo",
+      "article_url": "https://www.infobae.com/politica/2026/11/11/la-plana-mayor-del-peronismo-converge-hoy-en-lujan-para-la-misa-que-oficiara-el-papa-leon-xiv/",
+      "author_verified": true,
+      "byline_checked_at": "2026-11-11T14:40:45.440548+00:00",
+      "author_url": "",
+      "cluster_id": "254166e862850731",
+      "cluster_sources": [
+        "Infobae"
+      ]
+    },
+    {
       "id": "f8924ee9f6b54139",
       "title": "Tumore al seno, il valore nascosto del volontariato: 373mila ore donate per aiutare le donne",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQNkpRQWxnNUFRSTZMSWo5Z2ktZXVDTDFkUi0tTDNFbEh0TE9HZ3VoZkNoRlJDQkROYnVvNVd4aDBldFluaS1YTU1VOHIwUWJJMllpMVJmaDVjaUFtQkpicU9lYlViNXpiUlZ3eldyU1JkRk9qLWwzbWtmTkNQcEhPOGxCQ0p6OGZFQmh2TzZKY0UzMl9ibDNQVi02YXFTRDBSdjVOdmtnRFFvVjBUOGRFSUNqcjhWN1FFUDZRWGFfTzZTSVJoRXZONU92cmdaeUt4MDE1elRHaDBUM1pzWnpxMDNnU3h2UGpTeXBDTEFHVUxlNHlKY3pJVHBKZ9IBgAJBVV95cUxPSFV3OHZlcFdKNmQ1TnFuRlNUXzlQWm9PNHBhMjkxbFFrVEF1eFBISjU1U1dzYm9Bb0RZTzgzQXNaWFpHR0NtZGhkY0NsMnpQUGl6ZmZJblctVEZfZlpqLTZIMHpQSVp4dzlicGtERFI3OTZEeTNaMzQycUIxVDB0NEhxRVJqNWpGRkVZeFNmQkE1SXhpbUowamgtSFAwRTZkaUx4dzh5Mjg1M1lIS2ZaN1pRRUszUW5uUmk1QlVkbmUySlR1VDg5cWtvTDctQmt2NGZmRmI3dzlEWkNHMXN4WnlsOGgxUUpDaF9oQW03OHlIdE1xWmhVY2kwQmZQeXpR?oc=5",
@@ -39733,28 +39908,6 @@
         "Exitoina",
         "Lmneuquen.com",
         "eltrecetv"
-      ]
-    },
-    {
-      "id": "254166e862850731",
-      "title": "Qué figuras del peronismo asistieron en Luján a la misa que ofició el papa León XIV",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYzBWQlI0SWE5QzU0WE1HVHpBQ296LUs1a0MzWG9ELU9PdllHTklicm90TG5veHdEZ0g1dVl1bkhDaFZtdEJtZkFvRDFEMnNtOW4zUmlIa2VvU1d1Z1ZnM21SV0RjeW9EdzhORHdRT1FXOTdwOWNaOEhhYlVDOFZkc0ZTRFpuSFQ4T3F6bjE2V19sNG93QnpsMUNVVFRUeEZtLXQ4cXR3azFnV29sNnNJUUJUZEkyamEtUXhpRlpZUDhLWVZ5WEI4Vk9lTGNSbW9KTDdGU9IB7wFBVV95cUxNdzdIWHI0d0hVeE5sa0k2Rkh1UzFOSjdWLXF3UWpHb1pReVItR1VYMHZHbmREX3NMYTBLRTA1SWZLR2lKZm5pUjdOS09BcjVGYmtVazNBd2FGZjdZNEw4UXBWSnFUTHh0aTdmVERsOENhU0cwTlVDc21iOWNZaGxBMV85SkNXUEVqY1M2REkyTU9DTTgxWUpCMXdSSFpQTjVYUnkyWGpvWjFiNFJOeXd1Sk1DOUR1QThBTURJMloyR3Q3VDJjamJDb2RkWm91ZTNaRVpCSk1DUDV0V3htVV9vdnR4ZnpPMXo1bm5mc185cw?oc=5",
-      "source": "Infobae",
-      "country": "America Latina",
-      "language": "Español",
-      "published": "2026-11-11T14:35:39+00:00",
-      "topic": "Papa Leone XIV",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "search",
-      "author": "Julieta Roffo",
-      "article_url": "https://www.infobae.com/politica/2026/11/11/la-plana-mayor-del-peronismo-converge-hoy-en-lujan-para-la-misa-que-oficiara-el-papa-leon-xiv/",
-      "author_verified": true,
-      "byline_checked_at": "2026-11-11T14:40:45.440548+00:00",
-      "author_url": "",
-      "cluster_id": "254166e862850731",
-      "cluster_sources": [
-        "Infobae"
       ]
     },
     {
@@ -43022,13 +43175,12 @@
       "published": "2026-11-11T14:02:16+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 2,
+      "cluster_size": 1,
       "origin": "search",
       "byline_checked_at": "2026-11-11T12:50:46.022617+00:00",
-      "cluster_id": "2b2de7f486e404bf",
+      "cluster_id": "c74a2657f27036df",
       "cluster_sources": [
-        "The Seattle Times",
-        "The Washington Post"
+        "The Seattle Times"
       ]
     },
     {
@@ -43107,120 +43259,6 @@
       "cluster_id": "05f5adf69c0b56b7",
       "cluster_sources": [
         "Notícias - Canção Nova"
-      ]
-    },
-    {
-      "id": "188cab18c650b757",
-      "title": "León XIV en un penal argentino: Que la cárcel sea una oportunidad para empezar de nuevo",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTkZ1SG9pMDBjbHRmTktaaHI1LUxseTJwSnloS2h1ZFFlTl96UEVJYXpseGQyeXJJNHBHTlN6eFJTWjVqdzJtQThTMTFxV29ER0NCeGh1Tll2dDAweU44S2VpYm5BeFBEZUN0OUFWQkF4bXMyczlTa2NHd1N3am9Zc1Y0U1RodUZOUlRKQWsxVi1ZQThGVlJldmFDY2RHMDBVNXdjZdIBqgFBVV95cUxOSGEwUnk5NzV3TVJITTVMcmx4UVJkdXIzMjN4ajRMM0hXSENYVmZlTEdCY0o3ajZrdnZtdEVvekZRcHgxT0c1cUhWM1ZiM0FGMTBXYjZBLTdYY3dVV3NXcXZkNnJFZHZrMUFQcFhuSml2MURGUG5zSUlVclVSS2NpNnJTX3RfYUltZ1FaQnJKMlA3Nl9kNFZiVTM5U3pwN180dFpFUVlwMWFYZw?oc=5",
-      "source": "ABC",
-      "country": "Spagna",
-      "language": "Español",
-      "published": "2026-11-11T14:00:50+00:00",
-      "topic": "Papa Leone XIV",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "search",
-      "author": "Agencia EFE",
-      "article_url": "https://www.abc.es/sociedad/leon-xiv-penal-argentino-carcel-oportunidad-empezar-20261111150046-nt.html",
-      "author_verified": true,
-      "byline_checked_at": "2026-11-11T14:10:46.490437+00:00",
-      "author_url": "",
-      "cluster_id": "188cab18c650b757",
-      "cluster_sources": [
-        "ABC"
-      ]
-    },
-    {
-      "id": "bf82fdd55c303cc8",
-      "title": "🇦🇷🕊️ El papa León XIV, de celeste y blanco en la Basílica de Luján | Para presidir la gran misa de despedida en su último día en el país, el Santo Padre lució con los colores patrios y los bordados de la Virgen de Luján. #C5N #PapaLeónXIV #Basílica #Lujá",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5udVpfek1Fb25jYmtmR3BtVFRyNWNSN3BRX2gtYlFVTmJYRDJnOWQxYmNoamcydVBqLUdMNnhMWXdPbTFBOHVZUFlkdXJEWWMxVU1lTGhDaTZOTTR3Y0ZsdjhOdw?oc=5",
-      "source": "TikTok",
-      "country": "Spagna",
-      "language": "Español",
-      "published": "2026-11-11T14:00:34+00:00",
-      "topic": "Papa Leone XIV",
-      "kind": "social",
-      "cluster_size": 1,
-      "origin": "search",
-      "cluster_id": "bf82fdd55c303cc8",
-      "cluster_sources": [
-        "TikTok"
-      ]
-    },
-    {
-      "id": "3e57fe63c57e9535",
-      "title": "Video León XIV, sobre Argentina: “Siempre hay un lugar en la mesa para el que llega”",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYlR6S3JUekVQNm9HVkR3NnlidmZpbTl5djlKY1ZjeGw3QjRmSkxqdHFhTWdobGtfVllFS2RGaDdEcmFOQzV0MUxfM0VFMEgzV19xX3VvVXNkWXV3RHp5ZURpT01uV2FzN0dtQ3BtdHg0bUJQeDNzbzRfc2EzVXJZZklCWWpVaTlhUDJfVTIydHk?oc=5",
-      "source": "Clarin.com",
-      "country": "America Latina",
-      "language": "Español",
-      "published": "2026-11-11T14:00:34+00:00",
-      "topic": "Papa Leone XIV",
-      "kind": "news",
-      "cluster_size": 2,
-      "origin": "search",
-      "author": "Redacción Clarín",
-      "article_url": "https://www.clarin.com/videos/leon-argentina-siempre-lugar-mesa-llega_3_OhI8rr89ZP.html",
-      "author_verified": true,
-      "byline_checked_at": "2026-11-11T14:10:46.490437+00:00",
-      "author_url": "",
-      "cluster_id": "1ce72a098543ebff",
-      "cluster_sources": [
-        "Clarin.com",
-        "N+"
-      ]
-    },
-    {
-      "id": "a7081921c153109e",
-      "title": "Video León, sobre Argentina: “Siempre hay un lugar en la mesa para el que llega”",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYlR6S3JUekVQNm9HVkR3NnlidmZpbTl5djlKY1ZjeGw3QjRmSkxqdHFhTWdobGtfVllFS2RGaDdEcmFOQzV0MUxfM0VFMEgzV19xX3VvVXNkWXV3RHp5ZURpT01uV2FzN0dtQ3BtdHg0bUJQeDNzbzRfc2EzVXJZZklCWWpVaTlhUDJfVTIydHk?oc=5",
-      "source": "Clarin.com",
-      "country": "America Latina",
-      "language": "Español",
-      "published": "2026-11-11T14:00:34+00:00",
-      "topic": "Attualità",
-      "kind": "news",
-      "cluster_size": 2,
-      "origin": "search",
-      "author": "Redacción Clarín",
-      "article_url": "https://www.clarin.com/videos/leon-argentina-siempre-lugar-mesa-llega_3_OhI8rr89ZP.html",
-      "author_verified": true,
-      "byline_checked_at": "2026-11-11T14:10:46.490437+00:00",
-      "author_url": "",
-      "cluster_id": "1ce72a098543ebff",
-      "cluster_sources": [
-        "Clarin.com",
-        "N+"
-      ]
-    },
-    {
-      "id": "2b2de7f486e404bf",
-      "title": "Pope Leo XIV wrapping up Argentina visit before an emotional trip back to Peru, his adopted homeland",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLVVmQUZid3Ntc2hjQk9fWDlCNGhRUGdoMVJSMml5SDdpX1hmMEJRX2g0dnpGWmJhOFR4RTdjcGZNRGU3X2JBRlNVRzY3M1FmeEN0V3RMWjIyb21xTFotb1RGMk84MWlMMTRVckY2X0pxcURhNENfRG5FMmsyRHFZcVd2NW5RSzdSQ3lBcXpLdnVCbGRRdzFxOFFfNll4OUwxckU4UGxMRlRVNlg2Wm9tS3BFVURDOXBMUWkzVDVB?oc=5",
-      "source": "The Washington Post",
-      "country": "Stati Uniti",
-      "language": "English",
-      "published": "2026-11-11T14:00:21+00:00",
-      "topic": "Papa Leone XIV",
-      "kind": "news",
-      "cluster_size": 2,
-      "origin": "search",
-      "author": "Nicole Winfield and DÉbora Rey | AP",
-      "article_url": "https://www.washingtonpost.com/world/2026/11/11/argentina-pope-lujan-peru/f832aab2-ddb0-11f1-912c-4fbb80d73f7f_story.html",
-      "author_verified": true,
-      "byline_checked_at": "2026-11-11T09:40:41.394322+00:00",
-      "author_url": "",
-      "cluster_id": "2b2de7f486e404bf",
-      "cluster_sources": [
-        "The Seattle Times",
-        "The Washington Post"
-      ],
-      "vaticanist_ids": [
-        "132"
-      ],
-      "vaticanist_names": [
-        "Nicole Winfield"
       ]
     },
     {
@@ -43596,6 +43634,12 @@
       "article_url": "https://www.tgcom24.mediaset.it/2026/video/ultimo-giorno-per-papa-leone-in-argentina_118858338-02k.shtml",
       "author_verified": true,
       "byline_checked_at": "2026-11-11T14:31:02.613512+00:00",
+      "vaticanist_ids": [
+        "246"
+      ],
+      "vaticanist_names": [
+        "Fabio Marchese Ragona"
+      ],
       "author_url": "",
       "cluster_id": "03db8ab504be3969",
       "cluster_sources": [
@@ -43605,12 +43649,6 @@
         "LaPresse",
         "Tgcom24",
         "YouTube"
-      ],
-      "vaticanist_ids": [
-        "246"
-      ],
-      "vaticanist_names": [
-        "Fabio Marchese Ragona"
       ]
     },
     {
@@ -43802,18 +43840,18 @@
       ]
     },
     {
-      "id": "89d4114139dfdd99",
-      "title": "Le Pape Léon XIV retourne au Pérou, où il a passé des décennies de sa vie.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONEIzb2Z5MGlyN1hNdFBwTE5nYV9tN05HSzdzeWkxa1F3ZUhVVGR3ZW5hU1cxMXROYlNUV19zVU1XdjhPb1NJLXA3eEJtVFlHanN1eWRJVC1LS29Ca3ZWQ0ttdGxxSU02VzRtMHVZOUtwN2lHcmpjdkFxR1paX3drUFRJX2VBSkpxMGFJcTR5WkxvaTRiNENEYXM1LV9rbURYeEpjejJR?oc=5",
+      "id": "25acdf4aa23d48eb",
+      "title": "Papst Leo XIV kehrt nach Peru zurück, wo er Jahrzehnte seines Lebens verbracht hat",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPelJxWThiMWs4WWQ5T3VxSUwxV21WUG81emhaelhRVHFNVEtjNFRNSjVSeGFFMFZwNXFpbHJLOHo5LVhaTDFRbzN3VnJJaWZEZDg4WDBPRmJQYzhtMEE4OG1xSGdPZWFYazJwM1VLR0tWVmNudUUzLVVfN2Z2dzFKaEp5X3lOVFNSRG5oZkhjQm1TWldBRkFNRlJ6eDNqa0VLcXJlRDZ3?oc=5",
       "source": "Reddit",
-      "country": "Francia",
-      "language": "Français",
+      "country": "Germania",
+      "language": "Deutsch",
       "published": "2026-11-11T12:20:48+00:00",
       "topic": "Papa Leone XIV",
       "kind": "social",
       "cluster_size": 1,
       "origin": "search",
-      "cluster_id": "89d4114139dfdd99",
+      "cluster_id": "25acdf4aa23d48eb",
       "cluster_sources": [
         "Reddit"
       ]
@@ -44170,7 +44208,9 @@
       "id": "872902fd1bcb804b",
       "title": "Leone XIV in Argentina: tra gli orfani di Bergoglio",
       "url": "https://www.ilgiornale.it/news/vaticano/leone-xiv-in-argentina-tra-gli-orfani-di-bergoglio/",
-      "source": "il Giornale",
+      "source": "Il Giornale",
+      "author": "Nico Spuntoni",
+      "author_url": "https://www.ilgiornale.it/autore/nico-spuntoni/",
       "country": "Italia",
       "language": "Italiano",
       "published": "2026-11-11T11:00:00+00:00",
@@ -44178,7 +44218,6 @@
       "kind": "news",
       "cluster_size": 1,
       "origin": "direct",
-      "author": "Nico Spuntoni",
       "article_url": "https://www.ilgiornale.it/news/vaticano/leone-xiv-in-argentina-tra-gli-orfani-di-bergoglio/",
       "author_verified": true,
       "byline_checked_at": "2026-11-11T11:30:58.235551+00:00",
@@ -44188,11 +44227,10 @@
       "vaticanist_names": [
         "Nico Spuntoni"
       ],
-      "author_url": "https://www.ilgiornale.it/autore/nico-spuntoni/",
       "author_search": true,
       "cluster_id": "872902fd1bcb804b",
       "cluster_sources": [
-        "il Giornale"
+        "Il Giornale"
       ]
     },
     {
@@ -44712,24 +44750,6 @@
       "cluster_id": "7cd0b47fc3c90db1",
       "cluster_sources": [
         "Il Giornale d'Italia"
-      ]
-    },
-    {
-      "id": "02b55d40c079b3ba",
-      "title": "Tyler Perry on prayer, angels and his new ‘Gospel of Christmas’ movie",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbU9jUlNTVEI0Nkt1MjZOS1JWZkNQTGRRaXpwTTIyTl9IWVRXNWJ2X1ZjSHlkM3BxaUI5RjEwSzBZWUpWRmJNMkJzX09MMjBJaDJjQmUzcWlPWU1kZHcyUTdCQWpoUXFNanZlUV9uazBoblh1LTdtb1FCVmVBQmdsOUExaWhUWWp4a2ZCbk13U195XzZMZC00YkFhYTJ2ZkpfMXRJUkFyRmJqc0dMR3dWLUxNSWdZbzZzVTZOVQ?oc=5",
-      "source": "Religion News Service",
-      "country": "Stati Uniti",
-      "language": "English",
-      "published": "2026-11-11T08:05:41+00:00",
-      "topic": "Attualità",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "search",
-      "byline_checked_at": "2026-11-11T08:20:39.490207+00:00",
-      "cluster_id": "02b55d40c079b3ba",
-      "cluster_sources": [
-        "Religion News Service"
       ]
     },
     {
@@ -45966,12 +45986,13 @@
       "published": "2026-11-10T23:44:54+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 5,
+      "cluster_size": 6,
       "origin": "search",
       "cluster_id": "3d18281c1193eb03",
       "cluster_sources": [
         "Ciudad Magazine",
         "Diario El Norte - San Nicolás",
+        "Exitoina",
         "Revista GENTE",
         "Somos Famosos",
         "Vía País"
@@ -46005,12 +46026,16 @@
       "published": "2026-11-10T23:42:56+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 2,
+      "cluster_size": 6,
       "origin": "search",
       "byline_checked_at": "2026-11-10T23:50:42.622294+00:00",
-      "cluster_id": "1ce72a098543ebff",
+      "cluster_id": "018134929cc25f63",
       "cluster_sources": [
-        "Clarin.com",
+        "ABC",
+        "Aristegui Noticias",
+        "BI Noticias",
+        "Conferencia Episcopal Argentina",
+        "El Comercio Perú",
         "N+"
       ]
     },
@@ -46024,12 +46049,16 @@
       "published": "2026-11-10T23:42:56+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 2,
+      "cluster_size": 6,
       "origin": "search",
       "byline_checked_at": "2026-11-10T23:50:42.622294+00:00",
-      "cluster_id": "1ce72a098543ebff",
+      "cluster_id": "018134929cc25f63",
       "cluster_sources": [
-        "Clarin.com",
+        "ABC",
+        "Aristegui Noticias",
+        "BI Noticias",
+        "Conferencia Episcopal Argentina",
+        "El Comercio Perú",
         "N+"
       ]
     },
@@ -47700,7 +47729,7 @@
       "author": "EWTN News Español",
       "author_url": "https://www.youtube.com/@EWTNNewsES",
       "account_checked_at": "2026-11-10T23:20:56.066905+00:00",
-      "cluster_id": "10e78230dd40db8d",
+      "cluster_id": "549300b5dc95bb1d",
       "cluster_sources": [
         "YouTube"
       ]
@@ -48212,7 +48241,7 @@
     {
       "id": "5ef37becd6ce5279",
       "title": "León XIV espolea el fervor católico ante el empuje de otras religiones",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNFF5ZXZ4QnlFX1hfWl9Wc05pMmFsSkhLWGJXc3JwQjFBVm9LLTFJVmRhc003M2Y1NTVveFQzM1Qxa1NTVEFObGxLaTBlNTZUbHNJalJPX3FZenNQM0IxYWc4V3d0TjR2T2ROU3UxSEFhRENwWVVSd3hBb3IyOXJoSXdJY9IBgwFBVV95cUxNNFF5ZXZ4QnlFX1hfWl9Wc05pMmFsSkhLWGJXc3JwQjFBVm9LLTFJVmRhc003M2Y1NTVveFQzM1Qxa1NTVEFObGxLaTBlNTZUbHNJalJPX3FZenNQM0IxYWc4V3d0TjR2T2ROU3UxSEFhRENwWVVSd3hBb3IyOXJoSXdJYw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS0tXYTVORmozUDZpRUxVcVBoNlNhb3E5U3pzZUhmNjFuY0hCNFJ6dmJ0aTZONm5hdzVuLVR0akFpRTZGbzk2OF9lSlFNNXRCTGhCY1B0anNKWGJoU1U5dmEyMGdVQnZNcWlBRmpwbjlNeWVoNHZhVmZkTDVzS0xnalg4MNIBgwFBVV95cUxNNFF5ZXZ4QnlFX1hfWl9Wc05pMmFsSkhLWGJXc3JwQjFBVm9LLTFJVmRhc003M2Y1NTVveFQzM1Qxa1NTVEFObGxLaTBlNTZUbHNJalJPX3FZenNQM0IxYWc4V3d0TjR2T2ROU3UxSEFhRENwWVVSd3hBb3IyOXJoSXdJYw?oc=5",
       "source": "El Mundo",
       "country": "Spagna",
       "language": "Español",
@@ -48847,7 +48876,7 @@
       "kind": "social",
       "cluster_size": 1,
       "origin": "search",
-      "cluster_id": "10e78230dd40db8d",
+      "cluster_id": "549300b5dc95bb1d",
       "cluster_sources": [
         "YouTube"
       ]
@@ -49895,24 +49924,7 @@
       "kind": "social",
       "cluster_size": 1,
       "origin": "search",
-      "cluster_id": "10e78230dd40db8d",
-      "cluster_sources": [
-        "YouTube"
-      ]
-    },
-    {
-      "id": "10e78230dd40db8d",
-      "title": "🔴 EN DIRECTO | León XIV en Argentina: vigilia con los jóvenes en Buenos Aires",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CMjlGS1VFRVhmbk1VM3N0b1NZYW9DckgtVzE2ZGdHWjRzMnBaemo3bV9sMWNnU2R3aE1nUjZselh6eHZjd3ZDTFA1MVg3YWE3MFVuN2JR?oc=5",
-      "source": "YouTube",
-      "country": "Spagna",
-      "language": "Español",
-      "published": "2026-11-10T22:36:05+00:00",
-      "topic": "Papa Leone XIV",
-      "kind": "social",
-      "cluster_size": 1,
-      "origin": "search",
-      "cluster_id": "10e78230dd40db8d",
+      "cluster_id": "549300b5dc95bb1d",
       "cluster_sources": [
         "YouTube"
       ]
@@ -52599,6 +52611,25 @@
       ]
     },
     {
+      "id": "bb83b6654791f781",
+      "title": "Anthropic Seeks to Raise Record $90 Billion in Historic IPO",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYXNpcTdkTG03WFpRREdMMFVyYm9HMWxmVVZkMUU1MkNpb0laSWdwSHd6WjJpYzRqdndOeWVMcXRVbGczZDBFZy1hZG9OVHN0b3dncVhVeFBYdzFCY19kbkhTMF82TW1NLXlZZ1poa292V0hRWVBRb2RsR3pXcGRhdnBzbzZRLThrd0ZhbGtEaGl3emt6bTJWS3MySGY0U2YxWVRuaEpNUV9qXzRaSkVPa1RB?oc=5",
+      "source": "Bloomberg",
+      "country": "Stati Uniti",
+      "language": "English",
+      "published": "2026-11-10T21:35:27+00:00",
+      "topic": "Attualità",
+      "kind": "news",
+      "cluster_size": 2,
+      "origin": "search",
+      "byline_checked_at": "2026-11-10T21:40:41.592260+00:00",
+      "cluster_id": "3bc2cf068fdb94b7",
+      "cluster_sources": [
+        "Bloomberg",
+        "Bloomberg.com"
+      ]
+    },
+    {
       "id": "3bc2cf068fdb94b7",
       "title": "Anthropic Seeks to Raise Record $90 Billion in Historic IPO",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYXNpcTdkTG03WFpRREdMMFVyYm9HMWxmVVZkMUU1MkNpb0laSWdwSHd6WjJpYzRqdndOeWVMcXRVbGczZDBFZy1hZG9OVHN0b3dncVhVeFBYdzFCY19kbkhTMF82TW1NLXlZZ1poa292V0hRWVBRb2RsR3pXcGRhdnBzbzZRLThrd0ZhbGtEaGl3emt6bTJWS3MySGY0U2YxWVRuaEpNUV9qXzRaSkVPa1RB?oc=5",
@@ -52608,11 +52639,12 @@
       "published": "2026-11-10T21:35:27+00:00",
       "topic": "Attualità",
       "kind": "news",
-      "cluster_size": 1,
+      "cluster_size": 2,
       "origin": "search",
       "byline_checked_at": "2026-11-10T21:40:41.592260+00:00",
       "cluster_id": "3bc2cf068fdb94b7",
       "cluster_sources": [
+        "Bloomberg",
         "Bloomberg.com"
       ]
     },
@@ -53281,7 +53313,7 @@
       "title": "El secreto de la vitalidad de León XIV a los 71 años: qué hábitos adoptó en Perú y cuáles mantiene en el Vaticano",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxON05iLUpJWkd3YmFfOTFsM3B1NGRkOVlUTjVEZE1mSnNZME43TGRSSWZKbGVpZGFRVHV0akpCbGU1bTh2TDVMWTl4Zjdob19HRE1MY0NwWWVvX0tLNzVFR1B4OGtqcmp4RExvMmxZdTY4cm0wUzVFdjNCSnJHZ3daU3pWY3JSR01nZ244bk13VDdmanVVd2szejBvVmVFZ2tPVTFrdzk1TkgzaXN0R25UcVJCOU02dndOb0diTVo1V1BiajJhczFFZFZPSUVZWl9XeTVTaHdidnJMSC1MMjBTdG41OVhJVWRRdXfSAYQCQVVfeXFMTmFFTXNHVVRWRFBla3BzRUtvNk0yc01kcXF3VnFGMjgyd2F0aUJoY3JfMXpjb2QzUkJNQWRDYlpsSDNpVmVEVW1kWWRWOE9IdDJoUFp6MFRWVkFMTG5Dck9qRzNNUU8zWkJFakNsTFNUQU56akNGaUpOX2NSN2NodzN3cW9FbzJIRVhNdV9JMnE2SEFnZFY2MENZZXVucGsyUGdVbDZQWVkzMzYwM1Vic3JodXhLWnE3REJiVTZhYmIxSi0wSC1uTWpLWmhhTi1ZanFfT0ZSQ0c2dl95MjF2c3JGNTZXUUZnNkYwbXFERjNKMU93QzlSUEJyQU1zcjZIM2IyWGQ?oc=5",
       "source": "Infobae",
-      "country": "America Latina",
+      "country": "Spagna",
       "language": "Español",
       "published": "2026-11-10T21:20:41+00:00",
       "topic": "Papa Leone XIV",
@@ -55117,7 +55149,7 @@
       "title": "Polémica por la carpa VIP en la misa del papa León XIV: famosos y empresarios tuvieron catering exclusivo",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSkMwWC1NZkNnemlfY2R3U3d0cXVneUtiTTduWGpMVnZ6MkRFMkpJQ3JVLURXeXVMSE9wQ0h0WllFeVlYcy01N3B5MTh0b3pubzFpQmRWVHZscF83cS01aHRpYXRFdHRFZnE1TDZIeUhSSWQ4OXh5M19MVlVKb3VGYTBRMVJGNmNqUWxpUGVEUDJVNzd3NDQyN2tITmV6anE5WkxmNmdzSENyVklpelVQSjE4M3g3ZTR3LXZxb1Yxd0U1SU42Zm1NR05Lcw?oc=5",
       "source": "Catamarca es Noticia",
-      "country": "Spagna",
+      "country": "America Latina",
       "language": "Español",
       "published": "2026-11-10T20:47:10+00:00",
       "topic": "Papa Leone XIV",
@@ -55255,7 +55287,7 @@
       "published": "2026-11-10T20:43:55+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 7,
+      "cluster_size": 6,
       "origin": "search",
       "author": "Bojerland para la Conferencia Episcopal Argentina",
       "article_url": "https://episcopado.org/ver/5016",
@@ -55268,7 +55300,6 @@
         "Aristegui Noticias",
         "BI Noticias",
         "Conferencia Episcopal Argentina",
-        "EL PAÍS",
         "El Comercio Perú",
         "N+"
       ]
@@ -55283,7 +55314,7 @@
       "published": "2026-11-10T20:43:55+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 7,
+      "cluster_size": 6,
       "origin": "search",
       "author": "Bojerland para la Conferencia Episcopal Argentina",
       "article_url": "https://episcopado.org/ver/5016",
@@ -55296,7 +55327,6 @@
         "Aristegui Noticias",
         "BI Noticias",
         "Conferencia Episcopal Argentina",
-        "EL PAÍS",
         "El Comercio Perú",
         "N+"
       ]
@@ -57612,7 +57642,7 @@
       "published": "2026-11-10T20:02:59+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 5,
+      "cluster_size": 6,
       "origin": "search",
       "author": "Violeta Pomar",
       "article_url": "https://www.revistagente.com/entretenimiento/la-palabra-de-yanina-latorre-tras-las-criticas-por-su-presencia-en-la-carpa-vip-en-la-misa-del-papa-leon-xiv/",
@@ -57623,6 +57653,7 @@
       "cluster_sources": [
         "Ciudad Magazine",
         "Diario El Norte - San Nicolás",
+        "Exitoina",
         "Revista GENTE",
         "Somos Famosos",
         "Vía País"
@@ -58613,22 +58644,17 @@
       "published": "2026-11-10T19:48:13+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 7,
+      "cluster_size": 2,
       "origin": "search",
       "author": "Delfina Torres Cabreros, Delfina Torres Cabreros ",
       "article_url": "https://elpais.com/argentina/2026-11-10/leon-xiv-abraza-a-la-argentina-mas-humilde-en-cordoba.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-10T20:20:46.973260+00:00",
       "author_url": "",
-      "cluster_id": "018134929cc25f63",
+      "cluster_id": "4a5b7d32ec4ae2c7",
       "cluster_sources": [
-        "ABC",
-        "Aristegui Noticias",
-        "BI Noticias",
-        "Conferencia Episcopal Argentina",
         "EL PAÍS",
-        "El Comercio Perú",
-        "N+"
+        "teleSUR"
       ]
     },
     {
@@ -59133,16 +59159,16 @@
       "article_url": "https://roma.corriere.it/notizie/cronaca/26_novembre_10/leone-xiv-a-cordoba-citta-dell-esilio-di-bergoglio-i-poveri-hanno-bisogno-di-cristiani-coerenti-17544572-4a2e-4c6d-b70c-340a8c52cxlk.shtml",
       "author_verified": true,
       "byline_checked_at": "2026-11-10T15:10:49.315132+00:00",
+      "author_url": "",
+      "cluster_id": "49628ebd1d69d984",
+      "cluster_sources": [
+        "Corriere Roma"
+      ],
       "vaticanist_ids": [
         "11"
       ],
       "vaticanist_names": [
         "Gian Guido Vecchi"
-      ],
-      "author_url": "",
-      "cluster_id": "49628ebd1d69d984",
-      "cluster_sources": [
-        "Corriere Roma"
       ]
     },
     {
@@ -62526,13 +62552,14 @@
       "published": "2026-11-10T18:55:19+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 5,
+      "cluster_size": 6,
       "origin": "search",
       "byline_checked_at": "2026-11-10T19:01:14.646749+00:00",
       "cluster_id": "3d18281c1193eb03",
       "cluster_sources": [
         "Ciudad Magazine",
         "Diario El Norte - San Nicolás",
+        "Exitoina",
         "Revista GENTE",
         "Somos Famosos",
         "Vía País"
@@ -65594,16 +65621,16 @@
       "article_url": "https://www.tgcom24.mediaset.it/2026/video/leone-xiv-sulle-orme-di-francesco-il-papa-accolto-a-cordoba_118838443-02k.shtml",
       "author_verified": true,
       "byline_checked_at": "2026-11-10T18:50:43.537154+00:00",
-      "author_url": "",
-      "cluster_id": "369211eeb611e6d2",
-      "cluster_sources": [
-        "Tgcom24"
-      ],
       "vaticanist_ids": [
         "246"
       ],
       "vaticanist_names": [
         "Fabio Marchese Ragona"
+      ],
+      "author_url": "",
+      "cluster_id": "369211eeb611e6d2",
+      "cluster_sources": [
+        "Tgcom24"
       ]
     },
     {
@@ -65648,7 +65675,7 @@
       "title": "“Parecía un pueblo fantasma”: comerciantes de Paysandú no tuvieron las ventas que esperaban por la visita del papa León XIV",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQjJfdTNZOGV4TTN6OHhKZ0JRZDczN3lyWFZSNUtrYm14Z1FpTDZXcU5lSmIxNmxpUGRiaXQ4MWFqS01CZHBPT1ZIMjhvY01FTm81c2x2WFN6aHZHOWpicXl4Z2JBc2ZOTXo0Mmw5R1c0ZVZRVm9ybHlkV09uaW9tOVczbmRaMk9XZ21Mc2dKSFAzZnFJbGhSRmlDbjJJajFaaVBfQQ?oc=5",
       "source": "Reddit",
-      "country": "Spagna",
+      "country": "America Latina",
       "language": "Español",
       "published": "2026-11-10T18:07:59+00:00",
       "topic": "Papa Leone XIV",
@@ -66463,7 +66490,7 @@
       "published": "2026-11-10T17:56:57+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 5,
+      "cluster_size": 6,
       "origin": "search",
       "author": "Vía País, Lucas Torretta",
       "article_url": "https://viapais.com.ar/entretenimiento/papaleon-leonxiv-macri-yaninalatorre-buenosaires_0_OAtaYOLAzC.html",
@@ -66474,6 +66501,7 @@
       "cluster_sources": [
         "Ciudad Magazine",
         "Diario El Norte - San Nicolás",
+        "Exitoina",
         "Revista GENTE",
         "Somos Famosos",
         "Vía País"
@@ -69302,7 +69330,7 @@
       "published": "2026-11-10T17:15:00+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 7,
+      "cluster_size": 6,
       "origin": "search",
       "author": "Redacción AN / AGL",
       "article_url": "https://aristeguinoticias.com/1011/mundo/el-papa-leon-xiv-congrega-a-650-mil-fieles-en-la-misa-en-la-provincia-argentina-de-cordoba/",
@@ -69315,7 +69343,6 @@
         "Aristegui Noticias",
         "BI Noticias",
         "Conferencia Episcopal Argentina",
-        "EL PAÍS",
         "El Comercio Perú",
         "N+"
       ]
@@ -72553,7 +72580,7 @@
       "published": "2026-11-10T16:30:41+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 7,
+      "cluster_size": 6,
       "origin": "search",
       "byline_checked_at": "2026-11-10T16:40:52.310533+00:00",
       "cluster_id": "018134929cc25f63",
@@ -72562,7 +72589,6 @@
         "Aristegui Noticias",
         "BI Noticias",
         "Conferencia Episcopal Argentina",
-        "EL PAÍS",
         "El Comercio Perú",
         "N+"
       ]
@@ -74616,12 +74642,13 @@
       "published": "2026-11-10T16:02:45+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 1,
+      "cluster_size": 2,
       "origin": "search",
       "byline_checked_at": "2026-11-10T16:20:46.296720+00:00",
-      "cluster_id": "350fc2f329b3df4f",
+      "cluster_id": "2fba961b333c14f3",
       "cluster_sources": [
-        "N+"
+        "N+",
+        "Nuestras Noticias Chihuahua"
       ]
     },
     {
@@ -76276,6 +76303,23 @@
       ]
     },
     {
+      "id": "2771009114e83bb4",
+      "title": "ENCONTRO | O presidente Javier Milei recebeu o Papa Leão XIV em Buenos Aires para uma agenda oficial histórica na Argentina. O encontro no país marca o retorno de um líder da Igreja Católica em quase quatro décadas, além de ser a segunda etapa do",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3WjRoMU9zSlQwWHJ0M09vU2t5Tk5mM2hUVVk2S1JXbmF2Z0FYcjFlbmZUVEZZczBKYzZpenNab2kxWWpPMy1TY1Fma055dV9tNWJLRFJfYlhfQS0xaUVXNC1PT3hTMWptc0t4RlcwYzg?oc=5",
+      "source": "TikTok",
+      "country": "Brasile",
+      "language": "Português",
+      "published": "2026-11-10T15:41:14+00:00",
+      "topic": "Attualità",
+      "kind": "social",
+      "cluster_size": 1,
+      "origin": "search",
+      "cluster_id": "2771009114e83bb4",
+      "cluster_sources": [
+        "TikTok"
+      ]
+    },
+    {
       "id": "eccff0d0062c035c",
       "title": "Luis Galarreta niega desplante de Keiko Fujimori al papa León XIV: “Ella lamenta no estar hasta el final”",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZExNLTR2dGFlYk4xdlhoQ1drUU1ONm44Vk9rVUhVVXpQbk43T2FndnNMOVlOTVRfWkxrRGVqdFJIN0tBbFRDVWg5VnZ5S0FYdnA5N2pmRmZXcllhYWtzTWdLb3RUd2lKS3dvUmxFeDFSTXlxcElNQUMtUy1VdVdJclBPUWpYLWUyOTA2anpXOVUwRkRfbjVKcjR2eERGN3g2MnF1dEEzeTFIbWhBcmRfRXp3Zm5xVUU5T2hXZVUyR3d2YmhDQU1Dc3hvMTYxV254N0ZYbHlBZ0xmMTjSAfYBQVVfeXFMT3pMSjdLcEc4dy1ENEItRmRPOWtBVlQ0X2xodTg0ZkhkMnNUTUVFdFpuZGVMQTl1OHZXMmh5WDEyM1d2QXU1NGhyMlNSbFd5ZW94aXdRZWlvWmtWeE5QTWlFSVlScXJ2cngySVg4ejJKS2VNeGFKcDJrMmRpa1ZYdzJCeXlUWndfcjNuR0M2d2pIU2w0U0NWZW1jeDB2cV93QWpCbWhNM0NtVDhXd09NeTNMMWo2YmtLcklTX09QWGVYMEl5WWhQRUpUSXRjX19yX3dRVDFvRkN3VFVEUFJBbGl5eEl2S0hpZExsSHdNbDk3ajVPUkV3?oc=5",
@@ -77346,7 +77390,7 @@
       "published": "2026-11-10T15:22:57+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 7,
+      "cluster_size": 6,
       "origin": "search",
       "author": "Agencia EFE",
       "article_url": "https://www.abc.es/sociedad/leon-xiv-congrega-650000-fieles-misa-provincia-20261110162253-nt.html",
@@ -77359,7 +77403,6 @@
         "Aristegui Noticias",
         "BI Noticias",
         "Conferencia Episcopal Argentina",
-        "EL PAÍS",
         "El Comercio Perú",
         "N+"
       ]
@@ -79341,7 +79384,7 @@
       "published": "2026-11-10T14:57:54+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 7,
+      "cluster_size": 6,
       "origin": "search",
       "author": "Agencia EFE",
       "article_url": "https://www.abc.es/sociedad/papa-leon-xiv-congrega-650000-fieles-misa-20261110155750-nt.html",
@@ -79354,7 +79397,6 @@
         "Aristegui Noticias",
         "BI Noticias",
         "Conferencia Episcopal Argentina",
-        "EL PAÍS",
         "El Comercio Perú",
         "N+"
       ]
@@ -79524,9 +79566,9 @@
       "cluster_size": 2,
       "origin": "search",
       "byline_checked_at": "2026-11-10T15:01:28.465129+00:00",
-      "cluster_id": "2fba961b333c14f3",
+      "cluster_id": "4a5b7d32ec4ae2c7",
       "cluster_sources": [
-        "Nuestras Noticias Chihuahua",
+        "EL PAÍS",
         "teleSUR"
       ]
     },
@@ -80323,7 +80365,7 @@
       "published": "2026-11-10T14:41:00+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 7,
+      "cluster_size": 6,
       "origin": "search",
       "author": "Adrián Flores, Redaccion",
       "article_url": "https://www.binoticias.com/internacional/el-papa-leon-xiv-reune-650-mil-fieles-catolicos-en-una-misa-multitudinaria-en-cordoba",
@@ -80336,7 +80378,6 @@
         "Aristegui Noticias",
         "BI Noticias",
         "Conferencia Episcopal Argentina",
-        "EL PAÍS",
         "El Comercio Perú",
         "N+"
       ]
@@ -81256,8 +81297,8 @@
       "author_url": "",
       "cluster_id": "2fba961b333c14f3",
       "cluster_sources": [
-        "Nuestras Noticias Chihuahua",
-        "teleSUR"
+        "N+",
+        "Nuestras Noticias Chihuahua"
       ]
     },
     {
@@ -81373,7 +81414,7 @@
       "published": "2026-11-10T14:29:28+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 7,
+      "cluster_size": 6,
       "origin": "search",
       "author": "Redacción El Comercio Perú, Agencia EFE",
       "article_url": "https://elcomercio.pe/mundo/latinoamerica/el-papa-leon-xiv-congrega-a-650000-fieles-en-la-misa-en-la-provincia-argentina-de-cordoba-gira-sudamerica-2026-apuesplan-ultimas-noticia/",
@@ -81386,7 +81427,6 @@
         "Aristegui Noticias",
         "BI Noticias",
         "Conferencia Episcopal Argentina",
-        "EL PAÍS",
         "El Comercio Perú",
         "N+"
       ]
@@ -82341,28 +82381,6 @@
       ]
     },
     {
-      "id": "472b70222c9f652d",
-      "title": "The allegations against David Walliams | Investigation by the Guardian and ITV News",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaHJwZXJjUUpJZmdkOUVyVWNkeTN2MUdfY3RuRnpWVk12ckFQLVBVVnpHNmpwNVkyc0YtTWQwaDZxblBGWDJzU0ZOcUpFeFB0cWJlOVdlU3EtUWw1UFBhS0dpOGFNaEVndzQtYVFCV3N2VFkwZjd4WG00ZGpYczhJczJNeVRFMnA2QTVpa3ZXR19aQTI5SUVMR1U0RHVQTnhNYXkxNmNocmdhWElxb0NvbzE2ekVvak9QX0xxU0hpb0szYWxEcjJPNnVRa1g?oc=5",
-      "source": "The Guardian",
-      "country": "Regno Unito",
-      "language": "English",
-      "published": "2026-11-10T14:23:00+00:00",
-      "topic": "Attualità",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "search",
-      "author": "Maeve McClenaghan, Phil Maynard, James Tindale, Homa Khaleeli, Nosheen Iqbal, Rachel Oldroyd, Eli Block, Natalie Gegan, Eleanor Biggs, Elizabeth Cassin",
-      "article_url": "https://www.theguardian.com/news/video/2026/nov/10/the-allegations-against-david-walliams-investigation-by-the-guardian-and-itv-news",
-      "author_verified": true,
-      "byline_checked_at": "2026-11-10T15:50:45.560320+00:00",
-      "author_url": "",
-      "cluster_id": "472b70222c9f652d",
-      "cluster_sources": [
-        "The Guardian"
-      ]
-    },
-    {
       "id": "26376b53638a87a4",
       "title": "Pope urges Argentines to follow model of saints during Mass in the 'land of saints'",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOREk4YmtyUUNraXp4MERycUxhbWNtQkdkYTJsNzVoXzhBalp0M3RUdnQ5YW9wZ1Mtekd0UE1hb1lCYkZ2TkFpR0g3MGtaZVgyMzg1ZjhmOV9hcGFMTVBPSGRxVmFNTVBpWnJSeFVqNk5KUWViMllkd1p0QlV1ZFY5aW5JSTJocHRXd0hrZWdwbDRjZWJJUnFtc0tQZWhudw?oc=5",
@@ -82410,6 +82428,28 @@
         "WSLS",
         "Yahoo",
         "Yahoo News Canada"
+      ]
+    },
+    {
+      "id": "472b70222c9f652d",
+      "title": "The allegations against David Walliams | Investigation by the Guardian and ITV News",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaHJwZXJjUUpJZmdkOUVyVWNkeTN2MUdfY3RuRnpWVk12ckFQLVBVVnpHNmpwNVkyc0YtTWQwaDZxblBGWDJzU0ZOcUpFeFB0cWJlOVdlU3EtUWw1UFBhS0dpOGFNaEVndzQtYVFCV3N2VFkwZjd4WG00ZGpYczhJczJNeVRFMnA2QTVpa3ZXR19aQTI5SUVMR1U0RHVQTnhNYXkxNmNocmdhWElxb0NvbzE2ekVvak9QX0xxU0hpb0szYWxEcjJPNnVRa1g?oc=5",
+      "source": "The Guardian",
+      "country": "Regno Unito",
+      "language": "English",
+      "published": "2026-11-10T14:23:00+00:00",
+      "topic": "Attualità",
+      "kind": "news",
+      "cluster_size": 1,
+      "origin": "search",
+      "author": "Maeve McClenaghan, Phil Maynard, James Tindale, Homa Khaleeli, Nosheen Iqbal, Rachel Oldroyd, Eli Block, Natalie Gegan, Eleanor Biggs, Elizabeth Cassin",
+      "article_url": "https://www.theguardian.com/news/video/2026/nov/10/the-allegations-against-david-walliams-investigation-by-the-guardian-and-itv-news",
+      "author_verified": true,
+      "byline_checked_at": "2026-11-10T15:50:45.560320+00:00",
+      "author_url": "",
+      "cluster_id": "472b70222c9f652d",
+      "cluster_sources": [
+        "The Guardian"
       ]
     },
     {
@@ -84647,7 +84687,7 @@
     {
       "id": "73a8e77711b03264",
       "title": "ENAV riceve Il Ministro Locatelli alla Torre di controllo di Fiumicino con Lucia Sabrina Papa",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNV1VLbktlRnlya3ZTc0dWRS1lc0hjbTdWc1FocVFnNWRJR21jYzJJcHQxcnozQU0zNV9jZVRGNHJvQ3p0S0JjYU5WSjJ6anctTVdXZ1BSd1A5UlI0SVRPMGVHRXZYQ3QwbmpndmoxWFR1UGVUUUpUSzFqbHh4dnd1THVnTmw3RXNTMlJBSDRmWnc0SUJYSWFZT2FzYXdGZktnNFFJRnRRWGVxczBzbGxFc0dQOXBPTlJiMGswdTBNenpoclNjMjRFanl2SFktc3JQaXZfOGYwTkltWkJqclFKYTktNm0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNblVEd0NmU1ZWYXVDOWNsSkItRHBCVHpIN1NPVGtXSHRCOXdUcDJMZVg0cVpCOUZJNjlpb0F3S2xrbWpndnRzZ0dEMHdLQjgtaVU2MGU2Tlc3d0FTM2xsQmVUSTdhd29TRUItSTE3TGFIV1JxOVJGMmMwOURrSG94clcyZ0MwUDZaMHZucVRJWjZNVlZKamNUcXR4amIwQnRTWlUzQW9VTWYyWXBhVndNQkJqNUZIT2lod285Ykd5QTM3SWN4dzNlNFc3VnFva2JDeXBNdXZZbWV2bUtENHM1RTlublVQZw?oc=5",
       "source": "la Repubblica",
       "country": "Italia",
       "language": "Italiano",
@@ -85452,7 +85492,7 @@
       "cluster_id": "120d5c2300293515",
       "cluster_sources": [
         "AzerNews",
-        "il Giornale"
+        "Il Giornale"
       ]
     },
     {
@@ -89838,7 +89878,9 @@
       "id": "120d5c2300293515",
       "title": "Buenos Aires, in 2,5 milioni per Papa Leone",
       "url": "https://www.ilgiornale.it/news/vaticano/buenos-aires-in-25-milioni-per-papa-leone/",
-      "source": "il Giornale",
+      "source": "Il Giornale",
+      "author": "Nico Spuntoni",
+      "author_url": "",
       "country": "Italia",
       "language": "Italiano",
       "published": "2026-11-10T11:00:00+00:00",
@@ -89846,7 +89888,6 @@
       "kind": "news",
       "cluster_size": 2,
       "origin": "direct",
-      "author": "Nico Spuntoni",
       "article_url": "https://www.ilgiornale.it/news/vaticano/buenos-aires-in-25-milioni-per-papa-leone/",
       "author_verified": true,
       "byline_checked_at": "2026-11-10T11:10:46.879633+00:00",
@@ -89856,12 +89897,11 @@
       "vaticanist_names": [
         "Nico Spuntoni"
       ],
-      "author_url": "",
       "author_search": true,
       "cluster_id": "120d5c2300293515",
       "cluster_sources": [
         "AzerNews",
-        "il Giornale"
+        "Il Giornale"
       ]
     },
     {
@@ -91687,6 +91727,7 @@
       "article_url": "https://www.focolaritalia.it/events/i-sacerdoti-italiani-incontrano-papa-leone-xiv-roma-11-12-dicembre-2026/",
       "author_verified": true,
       "byline_checked_at": "2026-11-10T09:50:43.432212+00:00",
+      "author_url": "",
       "cluster_id": "bd98f6555c6a8325",
       "cluster_sources": [
         "FocolarItalia"
@@ -91761,6 +91802,7 @@
       "article_url": "https://video.corriere.it/bergamo-maxi-frode-e-autoriciclaggio-tra-bergamo-e-reggio-calabria-sequestro-preventivo-di-3-4-milioni-a-un-imprenditore/4de3b218-57c6-4bbf-b8ff-878fe7cfcxlk",
       "author_verified": true,
       "byline_checked_at": "2026-11-10T23:20:47.058329+00:00",
+      "author_url": "",
       "cluster_id": "de7a22356f5afdca",
       "cluster_sources": [
         "Corriere della Sera"
@@ -91782,27 +91824,6 @@
       "cluster_id": "ce3f89790c460dc2",
       "cluster_sources": [
         "Le Monde.fr"
-      ]
-    },
-    {
-      "id": "25ff4ac6cf1212af",
-      "title": "A Taranto riparte la laminazione con l'acciaio di Marcegaglia, incontro al ministero del Lavoro sulla cassa-intergazione",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaVlvWWlRc3ZFeVFETFpiLXZfSC1qX2xaS1R2RldqYXU1TW1kRFVJdjFXMXdQS3ZjSUczSXlIa3I5T1puRUYwSzJtRDZiT3YwZ2ozMmR3RElCZ3luaWdfV2tTdVA4ZDBnUXgxc3RLY2h6OU1iYWYyNmVLRmx3X3d0MHJzZWR2ZUNqeFlyRElpeWdNUzdlS25ldWVleUxIWHRiZUV2b0xDc3pLWWdod1M1MUV2Z2d2Z3hXcGlpN0ZqN1ZwckdGeGhjNUptNTdDXzJjaE81TzZVeUIxOGQ3d1NRQ0hyWQ?oc=5",
-      "source": "Avvenire",
-      "country": "Italia",
-      "language": "Italiano",
-      "published": "2026-11-10T09:30:00+00:00",
-      "topic": "Attualità",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "search",
-      "author": "Redazione",
-      "article_url": "https://www.avvenire.it/a-taranto-riparte-la-laminazione-con-lacciaio-di-marcegaglia-incontro-al-ministero-del-lavoro-sulla-cassa-intergazione_115545",
-      "author_verified": true,
-      "byline_checked_at": "2026-11-11T04:50:41.550202+00:00",
-      "cluster_id": "25ff4ac6cf1212af",
-      "cluster_sources": [
-        "Avvenire"
       ]
     },
     {
@@ -94872,28 +94893,6 @@
       ]
     },
     {
-      "id": "9f8927d76e793b7a",
-      "title": "Die Synodalkonferenz soll die Kirche in Deutschland zusammenführen",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWlqUW9RLWIwWTB6SkNVVi04T1J2YmxwQm90R1Vxa0p1VUN3YVdwS3ZGODVfbk15ZDZJaFBuX0pMRlJNcW1CZGFxOFJaY1hRVlVESlNKSW1LM09UR3A4R0lmRHNpR2R6eXRVU1VrTTBsT25xYUp2Rk93aG5ZT1lSX3VGYVJMa0phRURvQ3BqUWUyNDJBUkZ2M1RqTEtMRElCWHJZVFA3aGk5YWVKUXFNcU9JRUdhdw?oc=5",
-      "source": "Katholisch.de",
-      "country": "Germania",
-      "language": "Deutsch",
-      "published": "2026-11-09T23:01:00+00:00",
-      "topic": "Attualità",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "search",
-      "author": "Matthias Altmann",
-      "article_url": "https://www.katholisch.de/kirche-in-deutschland/die-synodalkonferenz-soll-die-kirche-in-deutschland-zusammenfuehren",
-      "author_verified": true,
-      "byline_checked_at": "2026-11-09T23:40:45.073098+00:00",
-      "author_url": "",
-      "cluster_id": "9f8927d76e793b7a",
-      "cluster_sources": [
-        "Katholisch.de"
-      ]
-    },
-    {
       "id": "7f4899866b0f0247",
       "title": "Wie viel Eigenständigkeit braucht die Kirche im Osten?",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQczdwODE3T2JOY0s3RUNaaE8zNlNHcG5CQzdwd0dyUGFLN1ltTVZWN0VIUWNhOVptdlowbXJJc1ZvUjVEaUlEbTA3SWxPYzhGOTNhVWRpRnhlZmtoRm9Pc3hXbDVhbmVBNFY0NVlQclphSGx2WlVDcFRleWRQSDAzS1hVbHBiMVRoNDVEZzJydW90NVAydVA4MnJGYXhJUUFFMUZLeQ?oc=5",
@@ -94911,6 +94910,28 @@
       "byline_checked_at": "2026-11-09T23:40:45.073098+00:00",
       "author_url": "",
       "cluster_id": "7f4899866b0f0247",
+      "cluster_sources": [
+        "Katholisch.de"
+      ]
+    },
+    {
+      "id": "9f8927d76e793b7a",
+      "title": "Die Synodalkonferenz soll die Kirche in Deutschland zusammenführen",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWlqUW9RLWIwWTB6SkNVVi04T1J2YmxwQm90R1Vxa0p1VUN3YVdwS3ZGODVfbk15ZDZJaFBuX0pMRlJNcW1CZGFxOFJaY1hRVlVESlNKSW1LM09UR3A4R0lmRHNpR2R6eXRVU1VrTTBsT25xYUp2Rk93aG5ZT1lSX3VGYVJMa0phRURvQ3BqUWUyNDJBUkZ2M1RqTEtMRElCWHJZVFA3aGk5YWVKUXFNcU9JRUdhdw?oc=5",
+      "source": "Katholisch.de",
+      "country": "Germania",
+      "language": "Deutsch",
+      "published": "2026-11-09T23:01:00+00:00",
+      "topic": "Attualità",
+      "kind": "news",
+      "cluster_size": 1,
+      "origin": "search",
+      "author": "Matthias Altmann",
+      "article_url": "https://www.katholisch.de/kirche-in-deutschland/die-synodalkonferenz-soll-die-kirche-in-deutschland-zusammenfuehren",
+      "author_verified": true,
+      "byline_checked_at": "2026-11-09T23:40:45.073098+00:00",
+      "author_url": "",
+      "cluster_id": "9f8927d76e793b7a",
       "cluster_sources": [
         "Katholisch.de"
       ]
@@ -101839,7 +101860,9 @@
       "id": "e1a98c188fcf92ed",
       "title": "Prevost da Milei con l’ombra di Bergoglio",
       "url": "https://www.ilgiornale.it/news/vaticano/prevost-da-milei-con-lombra-di-bergoglio/",
-      "source": "il Giornale",
+      "source": "Il Giornale",
+      "author": "Nico Spuntoni",
+      "author_url": "https://www.ilgiornale.it/autore/nico-spuntoni/",
       "country": "Italia",
       "language": "Italiano",
       "published": "2026-11-09T11:00:00+00:00",
@@ -101847,7 +101870,6 @@
       "kind": "news",
       "cluster_size": 1,
       "origin": "direct",
-      "author": "Nico Spuntoni",
       "article_url": "https://www.ilgiornale.it/news/vaticano/prevost-da-milei-con-lombra-di-bergoglio/",
       "author_verified": true,
       "byline_checked_at": "2026-11-09T11:31:00.226787+00:00",
@@ -101857,11 +101879,10 @@
       "vaticanist_names": [
         "Nico Spuntoni"
       ],
-      "author_url": "https://www.ilgiornale.it/autore/nico-spuntoni/",
       "author_search": true,
       "cluster_id": "e1a98c188fcf92ed",
       "cluster_sources": [
-        "il Giornale"
+        "Il Giornale"
       ]
     },
     {
@@ -102876,7 +102897,9 @@
       "id": "a883a5e10ec764ec",
       "title": "Papa Leone “espugna” anche il laico Uruguay",
       "url": "https://www.ilgiornale.it/news/vaticano/papa-leone-espugna-anche-il-laico-uruguay/",
-      "source": "il Giornale",
+      "source": "Il Giornale",
+      "author": "Nico Spuntoni",
+      "author_url": "https://www.ilgiornale.it/autore/nico-spuntoni/",
       "country": "Italia",
       "language": "Italiano",
       "published": "2026-11-08T11:00:00+00:00",
@@ -102884,7 +102907,6 @@
       "kind": "news",
       "cluster_size": 1,
       "origin": "direct",
-      "author": "Nico Spuntoni",
       "article_url": "https://www.ilgiornale.it/news/vaticano/papa-leone-espugna-anche-il-laico-uruguay/",
       "author_verified": true,
       "byline_checked_at": "2026-11-08T11:10:42.211544+00:00",
@@ -102894,11 +102916,10 @@
       "vaticanist_names": [
         "Nico Spuntoni"
       ],
-      "author_url": "https://www.ilgiornale.it/autore/nico-spuntoni/",
       "author_search": true,
       "cluster_id": "a883a5e10ec764ec",
       "cluster_sources": [
-        "il Giornale"
+        "Il Giornale"
       ]
     },
     {
@@ -103852,7 +103873,9 @@
       "id": "d81122882c42916c",
       "title": "Il Papa torna in Sudamerica: la sfida all’anticlericale Uruguay",
       "url": "https://www.ilgiornale.it/news/vaticano/il-papa-torna-in-sudamerica-la-sfida-allanticlericale-uruguay/",
-      "source": "il Giornale",
+      "source": "Il Giornale",
+      "author": "Nico Spuntoni",
+      "author_url": "https://www.ilgiornale.it/autore/nico-spuntoni/",
       "country": "Italia",
       "language": "Italiano",
       "published": "2026-11-07T11:00:00+00:00",
@@ -103860,8 +103883,6 @@
       "kind": "news",
       "cluster_size": 1,
       "origin": "direct",
-      "author": "Nico Spuntoni",
-      "author_url": "https://www.ilgiornale.it/autore/nico-spuntoni/",
       "article_url": "https://www.ilgiornale.it/news/vaticano/il-papa-torna-in-sudamerica-la-sfida-allanticlericale-uruguay/",
       "author_verified": true,
       "byline_checked_at": "2026-11-07T11:20:41.069866+00:00",
@@ -103874,7 +103895,7 @@
       "author_search": true,
       "cluster_id": "d81122882c42916c",
       "cluster_sources": [
-        "il Giornale"
+        "Il Giornale"
       ]
     },
     {
@@ -104514,28 +104535,6 @@
       ]
     },
     {
-      "id": "4ad4481f4af4b39e",
-      "title": "Pope Leo begins Apostolic Journey to Uruguay",
-      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-departs-for-apostolic-journey-to-latin-america.html",
-      "source": "Vatican News",
-      "country": "Stati Uniti",
-      "language": "English",
-      "published": "2026-11-06T19:25:00+00:00",
-      "topic": "Attualità",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "direct",
-      "author": "Vatican News",
-      "article_url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-departs-for-apostolic-journey-to-latin-america.html",
-      "author_verified": true,
-      "byline_checked_at": "2026-11-06T06:40:42.495878+00:00",
-      "author_url": "",
-      "cluster_id": "4ad4481f4af4b39e",
-      "cluster_sources": [
-        "Vatican News"
-      ]
-    },
-    {
       "id": "ce552e523ca860de",
       "title": "Pope sends prayers for peace to nations on flight to Uruguay",
       "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-telegrams-flight-rome-montevideo-uruguay.html",
@@ -104553,6 +104552,28 @@
       "byline_checked_at": "2026-11-06T19:31:08.385857+00:00",
       "author_url": "",
       "cluster_id": "ce552e523ca860de",
+      "cluster_sources": [
+        "Vatican News"
+      ]
+    },
+    {
+      "id": "4ad4481f4af4b39e",
+      "title": "Pope Leo begins Apostolic Journey to Uruguay",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-departs-for-apostolic-journey-to-latin-america.html",
+      "source": "Vatican News",
+      "country": "Stati Uniti",
+      "language": "English",
+      "published": "2026-11-06T19:25:00+00:00",
+      "topic": "Attualità",
+      "kind": "news",
+      "cluster_size": 1,
+      "origin": "direct",
+      "author": "Vatican News",
+      "article_url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-departs-for-apostolic-journey-to-latin-america.html",
+      "author_verified": true,
+      "byline_checked_at": "2026-11-06T06:40:42.495878+00:00",
+      "author_url": "",
+      "cluster_id": "4ad4481f4af4b39e",
       "cluster_sources": [
         "Vatican News"
       ]
@@ -105551,7 +105572,7 @@
       "country": "Italia",
       "source": "Avvenire",
       "group": "Testata",
-      "count": 43,
+      "count": 42,
       "last_seen": "2026-11-11T22:12:00+00:00",
       "item_ids": [
         "638a37cab01a3cb1",
@@ -105594,7 +105615,6 @@
         "a60517407206bb8f",
         "e1dca2f86cc4e3ba",
         "37b2e865d35d833f",
-        "25ff4ac6cf1212af",
         "13db0059024b59f0",
         "44efeb6e4f99f4a7"
       ]
@@ -105774,8 +105794,8 @@
         "d395d93299529de3",
         "63b5633ff1ed7b50",
         "f6401ef3a96d02b7",
-        "4ad4481f4af4b39e",
         "ce552e523ca860de",
+        "4ad4481f4af4b39e",
         "4ffa35d2fa1c3b3e",
         "5a332662f1c5ccab",
         "25c777a49d4a8ca6",
@@ -106079,8 +106099,8 @@
         "48cee568422290f5",
         "d2c0fd064e702bff",
         "4b28ea811e530e0f",
-        "9f8927d76e793b7a",
-        "7f4899866b0f0247"
+        "7f4899866b0f0247",
+        "9f8927d76e793b7a"
       ]
     },
     {
@@ -106326,7 +106346,7 @@
       "country": "America Latina",
       "source": "Clarín",
       "group": "Testata",
-      "count": 109,
+      "count": 107,
       "last_seen": "2026-11-11T23:11:27+00:00",
       "item_ids": [
         "4fce52f7bd04d5f5",
@@ -106361,8 +106381,6 @@
         "ef26d5027866dbf9",
         "327fbd5164677f87",
         "9ca36f855fecc85a",
-        "3e57fe63c57e9535",
-        "a7081921c153109e",
         "b3e351a4c0b82713",
         "bd7e8b40d09222b5",
         "ff0cf325b9edeb46",
@@ -106601,13 +106619,13 @@
       "source": "Religion News Service",
       "group": "Testata",
       "count": 17,
-      "last_seen": "2026-11-11T20:53:09+00:00",
+      "last_seen": "2026-11-11T22:56:01+00:00",
       "item_ids": [
+        "27ffcd6cd4a228a7",
         "a3028c9762bf1a4a",
         "fc2d0072b2a71354",
         "d9786ad18f215469",
         "bb7f2e4bf1326ac5",
-        "02b55d40c079b3ba",
         "70f9d767f41b7bd8",
         "1ef93f702c821c73",
         "b8fd5f51b4f0dfe5",
@@ -106663,7 +106681,7 @@
       "country": "Stati Uniti",
       "source": "The Washington Post",
       "group": "Testata",
-      "count": 30,
+      "count": 29,
       "last_seen": "2026-11-11T23:17:55+00:00",
       "item_ids": [
         "b4cb7469e5bbd9f1",
@@ -106677,7 +106695,6 @@
         "ce0cd7cff45e5814",
         "59e99163c51ba933",
         "f052e0e387be02c7",
-        "2b2de7f486e404bf",
         "750253554e2c3b05",
         "b17c6689689aae51",
         "e462a452fa55e6e2",
@@ -106995,14 +107012,16 @@
       "country": "Spagna",
       "source": "El País",
       "group": "Testata",
-      "count": 72,
+      "count": 74,
       "last_seen": "2026-11-11T23:08:25+00:00",
       "item_ids": [
+        "9c58c0ede008236e",
         "81b690a81aa4557b",
         "ccd09c4b69beb398",
         "e3ce7c3fe3e0af8a",
         "0f4863eb3f30a2ab",
         "738167170db8c2bb",
+        "6634cbeaed2d08cd",
         "d8b1eb7210afc401",
         "ab2192ed3a61c3eb",
         "8cc456002b0db4ca",
@@ -107119,7 +107138,7 @@
       "country": "Spagna",
       "source": "ABC",
       "group": "Testata",
-      "count": 47,
+      "count": 46,
       "last_seen": "2026-11-11T23:19:45+00:00",
       "item_ids": [
         "fce9bfe1d9a2741b",
@@ -107138,7 +107157,6 @@
         "0ead4aa6a70be041",
         "d5c7fcae5a29783e",
         "310f5490c3159dd4",
-        "188cab18c650b757",
         "086b1b1c5a49cf8b",
         "0c0a2ebd0009fe6f",
         "932b8ca9b6dd211e",
@@ -108696,7 +108714,7 @@
       "country": "Stati Uniti",
       "source": "Bloomberg",
       "group": "Agenzia",
-      "count": 19,
+      "count": 20,
       "last_seen": "2026-11-11T14:19:42+00:00",
       "item_ids": [
         "5ca48ad7f1135a36",
@@ -108705,6 +108723,7 @@
         "5ebe29924c7c0a1a",
         "22e6571a08a30852",
         "efed14d20daab02a",
+        "bb83b6654791f781",
         "3bc2cf068fdb94b7",
         "282667ee81725fb3",
         "47dd4de7cc5eed09",
