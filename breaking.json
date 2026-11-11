@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-11T13:00:55.803008+00:00",
+  "updated_at": "2026-11-11T13:05:17.609041+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-11T13:00:55.803008+00:00"
+      "checked_at": "2026-11-11T13:05:17.609041+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-11T13:00:55.803008+00:00"
+      "checked_at": "2026-11-11T13:05:17.609041+00:00"
     }
   },
   "items": [
+    {
+      "id": "7473ef1d575593e33980",
+      "source": "BBC News",
+      "title": "Kenya discharges last Ebola patient in key milestone to being declared free of the virus",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T12:53:11+00:00"
+    },
     {
       "id": "8ee2e86ae6043c8355c8",
       "source": "BBC News",
@@ -311,13 +318,6 @@
       "title": "Cop31, per la prima volta nella storia le rinnovabili superano il carbone",
       "url": "https://www.tgcom24.mediaset.it/mondo/cop31-turchia-rinnovabili-carbone-greta-thunberg_118838461-202602k.shtml",
       "published": "2026-11-10T18:22:00+00:00"
-    },
-    {
-      "id": "5a657276631bed4a54e5",
-      "source": "BBC News",
-      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
-      "url": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T18:04:18+00:00"
     },
     {
       "id": "8beb7506e4c4d0969dd0",
