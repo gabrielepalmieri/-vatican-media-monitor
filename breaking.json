@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-11T04:00:50.818982+00:00",
+  "updated_at": "2026-11-11T04:05:18.440691+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-11T04:00:50.818982+00:00"
+      "checked_at": "2026-11-11T04:05:18.440691+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-11T04:00:50.818982+00:00"
+      "checked_at": "2026-11-11T04:05:18.440691+00:00"
     }
   },
   "items": [
+    {
+      "id": "09fe3dbb3b7751466625",
+      "source": "BBC News",
+      "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T03:44:06+00:00"
+    },
     {
       "id": "3485ffcc4e1a15818574",
       "source": "BBC News",
@@ -353,13 +360,6 @@
       "title": "Police officer dies and another injured after backpack explosion in northern Spain",
       "url": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-10T11:25:46+00:00"
-    },
-    {
-      "id": "bafd5fe2f5165c46d5d6",
-      "source": "BBC News",
-      "title": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T11:23:18+00:00"
     },
     {
       "id": "999c020849bb28375a0a",
