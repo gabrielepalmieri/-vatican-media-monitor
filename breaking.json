@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-11T21:00:59.437868+00:00",
+  "updated_at": "2026-11-11T21:05:22.225277+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-11T21:00:59.437868+00:00"
+      "checked_at": "2026-11-11T21:05:22.225277+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-11T21:00:59.437868+00:00"
+      "checked_at": "2026-11-11T21:05:22.225277+00:00"
     }
   },
   "items": [
+    {
+      "id": "3bd1890eadd8ea732e4f",
+      "source": "TGcom24",
+      "title": "Israele, media: \"Gabinetto sicurezza ordina a Idf di prepararsi ad attaccare Iran\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-ultime-notizie-11-novembre_118879920-202602k.shtml",
+      "published": "2026-11-11T21:00:00+00:00"
+    },
     {
       "id": "f0d3aa3607a8b6cc910c",
       "source": "BBC News",
@@ -290,13 +297,6 @@
       "title": "Ebola, i casi in Repubblica Democratica del Congo superano gli 11mila",
       "url": "https://www.tgcom24.mediaset.it/mondo/ebola-congo-epidemia-decessi-virus_118845856-202602k.shtml",
       "published": "2026-11-11T07:01:00+00:00"
-    },
-    {
-      "id": "05809e584820de9a9b4a",
-      "source": "TGcom24",
-      "title": "Los Angeles, Suv travolge pedoni a North Hollywood: tre morti",
-      "url": "https://www.tgcom24.mediaset.it/mondo/los-angeles-suv-travolge-pedoni-morti-video_118843839-202602k.shtml",
-      "published": "2026-11-11T06:31:00+00:00"
     },
     {
       "id": "32cda2b0dbd442870522",
