@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-11T15:50:25.352058+00:00",
+  "updated_at": "2026-11-11T15:55:17.859253+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-11T15:50:25.352058+00:00"
+      "checked_at": "2026-11-11T15:55:17.859253+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-11T15:50:25.352058+00:00"
+      "checked_at": "2026-11-11T15:55:17.859253+00:00"
     }
   },
   "items": [
+    {
+      "id": "6582bf3714c7b9fbd8dd",
+      "source": "TGcom24",
+      "title": "Femminicidio Scialdone, l'ex Costantino Bonaiuti condannato all'ergastolo in appello bis",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/martina-scialdone-costantino-bonaiuti-condannato-ergastolo_118864820-202602k.shtml",
+      "published": "2026-11-11T15:50:00+00:00"
+    },
     {
       "id": "57c768b71dbf4f6cdb12",
       "source": "TGcom24",
@@ -98,7 +105,7 @@
     {
       "id": "a465df9e5a98b70dfaf7",
       "source": "BBC News",
-      "title": "Hundreds of Italian schools hit by threats in suspected bomb hoax",
+      "title": "Six thousand Italian schools hit by threats in suspected bomb hoax",
       "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-11T12:30:29+00:00"
     },
@@ -325,13 +332,6 @@
       "title": "Watch: E-bike battery explodes into massive fireball inside Oregon home",
       "url": "https://www.bbc.co.uk/news/videos/cr0qkqqkn3j7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-10T20:31:17+00:00"
-    },
-    {
-      "id": "db0355f45577e6c6681a",
-      "source": "TGcom24",
-      "title": "Iran, Pahlavi a Tgcom24: \"L'unica soluzione è il definitivo collasso del regime\"",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/guerra-iran-reza-pahlavi_118838479-02k.shtml",
-      "published": "2026-11-10T19:56:00+00:00"
     },
     {
       "id": "8c7f7e39dc6adcf06c21",
