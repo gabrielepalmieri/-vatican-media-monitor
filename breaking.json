@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-11T10:15:28.384968+00:00",
+  "updated_at": "2026-11-11T10:20:23.284915+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-11T10:15:28.384968+00:00"
+      "checked_at": "2026-11-11T10:20:23.284915+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-11T10:15:28.384968+00:00"
+      "checked_at": "2026-11-11T10:20:23.284915+00:00"
     }
   },
   "items": [
+    {
+      "id": "3485ffcc4e1a15818574",
+      "source": "BBC News",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T10:15:12+00:00"
+    },
     {
       "id": "c366a3738646e6e8b6dd",
       "source": "TGcom24",
@@ -101,13 +108,6 @@
       "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
       "url": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-11T03:44:06+00:00"
-    },
-    {
-      "id": "3485ffcc4e1a15818574",
-      "source": "BBC News",
-      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11T03:26:42+00:00"
     },
     {
       "id": "8771673a8b1287145ab6",
