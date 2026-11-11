@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-11T22:05:17.613189+00:00",
+  "updated_at": "2026-11-11T22:10:25.701893+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-11T22:05:17.613189+00:00"
+      "checked_at": "2026-11-11T22:10:25.701893+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-11T22:05:17.613189+00:00"
+      "checked_at": "2026-11-11T22:10:25.701893+00:00"
     }
   },
   "items": [
+    {
+      "id": "f0d3aa3607a8b6cc910c",
+      "source": "BBC News",
+      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T22:07:37+00:00"
+    },
+    {
+      "id": "e675b1a08abdc85b1b14",
+      "source": "TGcom24",
+      "title": "Usa, Media: \"Chiesto a Mosca di presentare un patto sicurezza con Europa\"",
+      "url": "https://www.tgcom24.mediaset.it/2026/video/kushner-giovedi-vedremo-putin-a-mosca-poi-zelensky-a-dublino-_118870356-02k.shtml",
+      "published": "2026-11-11T22:04:00+00:00"
+    },
     {
       "id": "2fe629929ce6f04479d2",
       "source": "TGcom24",
@@ -24,13 +38,6 @@
       "title": "Israele, media: \"Gabinetto sicurezza ordina a Idf di prepararsi ad attaccare Iran\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-ultime-notizie-11-novembre_118879920-202602k.shtml",
       "published": "2026-11-11T21:00:00+00:00"
-    },
-    {
-      "id": "f0d3aa3607a8b6cc910c",
-      "source": "BBC News",
-      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11T20:52:52+00:00"
     },
     {
       "id": "a457ea5d5d3c840348b4",
@@ -290,13 +297,6 @@
       "title": "Spinto da minicar a Roma, Davide Iacopini: \"Non ricordo nulla\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/minicar-roma-iacopini-lascia-ospedale_118847028-202602k.shtml",
       "published": "2026-11-11T08:28:00+00:00"
-    },
-    {
-      "id": "6c50c4b02939f7b418be",
-      "source": "TGcom24",
-      "title": "Milano, rapine sui mezzi pubblici: arrestati 14 giovani",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/milano-giovani-rapinano-e-aggrediscono-sui-mezzi-pubblici-arrestati_118847031-02k.shtml",
-      "published": "2026-11-11T07:44:00+00:00"
     },
     {
       "id": "32cda2b0dbd442870522",
