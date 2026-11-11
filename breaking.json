@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-11T17:15:29.999861+00:00",
+  "updated_at": "2026-11-11T17:20:23.812765+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-11T17:15:29.999861+00:00"
+      "checked_at": "2026-11-11T17:20:23.812765+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-11T17:15:29.999861+00:00"
+      "checked_at": "2026-11-11T17:20:23.812765+00:00"
     }
   },
   "items": [
+    {
+      "id": "6c5de6320f59858e803f",
+      "source": "TGcom24",
+      "title": "Crolla un palazzo in ristrutturazione nell'Aquilano, morti due operai",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/crollo-durante-dei-lavori-di-ristrutturazione-morti-due-operai-nell-aquilano_118867783-202602k.shtml",
+      "published": "2026-11-11T17:20:00+00:00"
+    },
     {
       "id": "922368f6ba9279f9a546",
       "source": "BBC News",
@@ -297,13 +304,6 @@
       "title": "Nvidia, Nyt: \"Trump fu informato della vicenda da Rubio su un volo per Pechino\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/caso-nvidia-alice-huang-ha-fatto-perdere-tracce_118834199-202602k.shtml",
       "published": "2026-11-10T22:41:00+00:00"
-    },
-    {
-      "id": "30dd9f6cf0ab5d7a0a7e",
-      "source": "TGcom24",
-      "title": "Usa incriminano tre agenti iraniani per attacco a base inglese di Fairford",
-      "url": "https://www.tgcom24.mediaset.it/mondo/stati-uniti-incriminano-agenti-iraniani-per-attacco-fallito-base-inglese_118842537-202602k.shtml",
-      "published": "2026-11-10T22:09:00+00:00"
     },
     {
       "id": "80f53adaafe1d550d671",
