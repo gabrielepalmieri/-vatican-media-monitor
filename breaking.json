@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-11T08:35:18.414606+00:00",
+  "updated_at": "2026-11-11T08:40:23.291598+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-11T08:35:18.414606+00:00"
+      "checked_at": "2026-11-11T08:40:23.291598+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-11T08:35:18.414606+00:00"
+      "checked_at": "2026-11-11T08:40:23.291598+00:00"
     }
   },
   "items": [
@@ -117,6 +117,13 @@
       "published": "2026-11-11T00:18:07+00:00"
     },
     {
+      "id": "8325115466d4248de4c2",
+      "source": "BBC News",
+      "title": "Antidepressant escitalopram more effective at preventing relapse, analysis finds",
+      "url": "https://www.bbc.co.uk/news/articles/cv62yyng00jyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T00:17:42+00:00"
+    },
+    {
       "id": "8556a36c44db772b079a",
       "source": "TGcom24",
       "title": "Libano, spari contro pattuglia Unifil nel Sud del Paese: \"Nessun soldato ferito\"",
@@ -143,13 +150,6 @@
       "title": "Sospetto spionaggio russo: in manette un militare americano nel Regno Unito",
       "url": "https://www.tgcom24.mediaset.it/mondo/spionaggio-russo-militare-americano-regno-unito_118841210-202602k.shtml",
       "published": "2026-11-10T21:24:00+00:00"
-    },
-    {
-      "id": "acb6cfd91878b4dc4a89",
-      "source": "BBC News",
-      "title": "First day of Ukraine peace talks constructive, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T21:21:55+00:00"
     },
     {
       "id": "80f53adaafe1d550d671",
