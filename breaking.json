@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-11T01:00:52.815904+00:00",
+  "updated_at": "2026-11-11T01:05:17.743848+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-11T01:00:52.815904+00:00"
+      "checked_at": "2026-11-11T01:05:17.743848+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-11T01:00:52.815904+00:00"
+      "checked_at": "2026-11-11T01:05:17.743848+00:00"
     }
   },
   "items": [
+    {
+      "id": "922368f6ba9279f9a546",
+      "source": "BBC News",
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T01:01:20+00:00"
+    },
     {
       "id": "3485ffcc4e1a15818574",
       "source": "BBC News",
@@ -122,6 +129,13 @@
       "title": "Watch: E-bike battery explodes into massive fireball inside Oregon home",
       "url": "https://www.bbc.co.uk/news/videos/cr0qkqqkn3j7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-10T20:31:17+00:00"
+    },
+    {
+      "id": "932e845b486075eab20e",
+      "source": "BBC News",
+      "title": "US Army soldier suspected of spying for Russia arrested in UK",
+      "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T20:20:04+00:00"
     },
     {
       "id": "db0355f45577e6c6681a",
@@ -404,25 +418,11 @@
       "published": "2026-11-10T08:23:21+00:00"
     },
     {
-      "id": "8d8ef956bdd26286dc8a",
-      "source": "BBC News",
-      "title": "Oxford museum returns ancestral Naga skulls to India",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T06:23:42+00:00"
-    },
-    {
       "id": "3c585d9dfb3c2acf3e21",
       "source": "BBC News",
       "title": "Polish unity on show as thousands join silent march for Krakow shooting victims",
       "url": "https://www.bbc.co.uk/news/articles/cqkg5gm4nr4no?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-10T05:38:53+00:00"
-    },
-    {
-      "id": "0ab2943a2d37912406bd",
-      "source": "BBC News",
-      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T05:22:39+00:00"
     },
     {
       "id": "cce615a4514644bf199e",
