@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-11T06:00:52.895662+00:00",
+  "updated_at": "2026-11-11T06:05:17.486062+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-11T06:00:52.895662+00:00"
+      "checked_at": "2026-11-11T06:05:17.486062+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-11T06:00:52.895662+00:00"
+      "checked_at": "2026-11-11T06:05:17.486062+00:00"
     }
   },
   "items": [
+    {
+      "id": "a380b4b8a513a5dfaf4b",
+      "source": "TGcom24",
+      "title": "Usa, la Camera Usa boccia l'impeachment di Pete Hegseth",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-impeachment-pete-hegseth-bloccato-camera_118843840-202602k.shtml",
+      "published": "2026-11-11T06:00:00+00:00"
+    },
     {
       "id": "8a6ed81a00c4a26f2ef5",
       "source": "TGcom24",
@@ -388,13 +395,6 @@
       "title": "Trapani, si ferma per aiutare un giovane e viene rapinato da un branco: un arresto",
       "url": "https://www.tgcom24.mediaset.it/cronaca/trapani-aiuta-giovane-rapinato-branco_118822149-202602k.shtml",
       "published": "2026-11-10T10:45:00+00:00"
-    },
-    {
-      "id": "a8c652b61a3330552b4c",
-      "source": "TGcom24",
-      "title": "Assalto a un portavalori nel Foggiano: paura sulla Statale 16",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/foggia-assalto-portavalori-statale-16_118821210-02k.shtml",
-      "published": "2026-11-10T10:17:00+00:00"
     },
     {
       "id": "b61f844345f2fd39740f",
