@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-11T07:00:53.479196+00:00",
+  "updated_at": "2026-11-11T07:05:17.472114+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-11T07:00:53.479196+00:00"
+      "checked_at": "2026-11-11T07:05:17.472114+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-11T07:00:53.479196+00:00"
+      "checked_at": "2026-11-11T07:05:17.472114+00:00"
     }
   },
   "items": [
+    {
+      "id": "93a090b09d0c7d073db8",
+      "source": "TGcom24",
+      "title": "Ebola, i casi in Repubblica Democratica del Congo superano gli 11mila",
+      "url": "https://www.tgcom24.mediaset.it/mondo/ebola-congo-epidemia-decessi-virus_118845856-202602k.shtml",
+      "published": "2026-11-11T07:01:00+00:00"
+    },
     {
       "id": "05809e584820de9a9b4a",
       "source": "TGcom24",
@@ -388,13 +395,6 @@
       "title": "Police officer dies and another injured after backpack explosion in northern Spain",
       "url": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-10T11:25:46+00:00"
-    },
-    {
-      "id": "999c020849bb28375a0a",
-      "source": "TGcom24",
-      "title": "Il ministro Valditara: \"Il manuale di Laterza indottrina gli studenti, va ritirato\"",
-      "url": "https://www.tgcom24.mediaset.it/politica/giuseppe-valditara-manuale-laterza-va-ritirato_118823442-202602k.shtml",
-      "published": "2026-11-10T11:17:00+00:00"
     },
     {
       "id": "b61f844345f2fd39740f",
