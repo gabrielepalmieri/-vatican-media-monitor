@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-11T13:50:23.012520+00:00",
+  "updated_at": "2026-11-11T13:55:17.962778+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-11T13:50:23.012520+00:00"
+      "checked_at": "2026-11-11T13:55:17.962778+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-11T13:50:23.012520+00:00"
+      "checked_at": "2026-11-11T13:55:17.962778+00:00"
     }
   },
   "items": [
+    {
+      "id": "edb39e5fa146e1e6a48d",
+      "source": "TGcom24",
+      "title": "Ministero: \"Mail con l'allarme bomba arrivata a circa seimila scuole\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/allarme-bomba-decine-scuole-italia_118853087-202602k.shtml",
+      "published": "2026-11-11T13:40:00+00:00"
+    },
     {
       "id": "8ee2e86ae6043c8355c8",
       "source": "BBC News",
@@ -325,13 +332,6 @@
       "title": "Why are these purple flowers shutting down streets in Sydney?",
       "url": "https://www.bbc.co.uk/news/videos/c862y2dxdq45o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-10T18:03:52+00:00"
-    },
-    {
-      "id": "44a37db116648ce0fbdd",
-      "source": "TGcom24",
-      "title": "Israele: \"Leader Ra'am verso riconoscimento Hamas come gruppo terroristico\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/israele-leader-ra-am-verso-il-riconoscimento-di-hamas-come-gruppo-terroristico-_118837208-202602k.shtml",
-      "published": "2026-11-10T17:41:00+00:00"
     },
     {
       "id": "491b9256a7de1fafa237",
