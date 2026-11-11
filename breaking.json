@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-11T17:40:25.197751+00:00",
+  "updated_at": "2026-11-11T17:45:28.682031+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-11T17:40:25.197751+00:00"
+      "checked_at": "2026-11-11T17:45:28.682031+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-11T17:40:25.197751+00:00"
+      "checked_at": "2026-11-11T17:45:28.682031+00:00"
     }
   },
   "items": [
+    {
+      "id": "f0d3aa3607a8b6cc910c",
+      "source": "BBC News",
+      "title": "Spain sees widespread disruption in first general strike for 14 years",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T17:44:32+00:00"
+    },
     {
       "id": "6c5de6320f59858e803f",
       "source": "TGcom24",
@@ -87,13 +94,6 @@
       "title": "Tajani: \"Ricevuti nuovi cyberattacchi, taglia anche sui minori della mia famiglia\"",
       "url": "https://www.tgcom24.mediaset.it/politica/cyberattacchi-tajani_118862278-202602k.shtml",
       "published": "2026-11-11T14:46:00+00:00"
-    },
-    {
-      "id": "f0d3aa3607a8b6cc910c",
-      "source": "BBC News",
-      "title": "Spain sees widespread disruption in first general strike for 14 years",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11T14:06:27+00:00"
     },
     {
       "id": "ad2707029a3b51ff7f4c",
