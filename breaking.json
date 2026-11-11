@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-11T10:45:26.878921+00:00",
+  "updated_at": "2026-11-11T10:50:23.420509+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-11T10:45:26.878921+00:00"
+      "checked_at": "2026-11-11T10:50:23.420509+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-11T10:45:26.878921+00:00"
+      "checked_at": "2026-11-11T10:50:23.420509+00:00"
     }
   },
   "items": [
+    {
+      "id": "41ad1a673c059890803f",
+      "source": "TGcom24",
+      "title": "Strage Viareggio, Moretti esce dal carcere: sconterà la condanna ai domiciliari",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/strage-di-viareggio-mauro-moretti-domiciliari_118853078-202602k.shtml",
+      "published": "2026-11-11T10:45:00+00:00"
+    },
     {
       "id": "3485ffcc4e1a15818574",
       "source": "BBC News",
@@ -325,13 +332,6 @@
       "title": "Ucraina, Lavrov: \"Non accetteremo le richieste europee di tregua immediata\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-ucraina-russia-ultime-notizie-10-novembre_118815464-202602k.shtml",
       "published": "2026-11-10T14:44:00+00:00"
-    },
-    {
-      "id": "73bb9b4b1b814e9d6ba1",
-      "source": "TGcom24",
-      "title": "Hegseth e l'impeachment: \"Falliranno di nuovo, come con Trump\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/usa-hegseth-impeachment-fallira-come-con-trump_118831661-202602k.shtml",
-      "published": "2026-11-10T14:26:00+00:00"
     },
     {
       "id": "b61f844345f2fd39740f",
