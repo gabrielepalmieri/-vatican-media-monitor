@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-11T00:20:25.615594+00:00",
+  "updated_at": "2026-11-11T00:25:17.613387+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-11T00:20:25.615594+00:00"
+      "checked_at": "2026-11-11T00:25:17.613387+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-11T00:20:25.615594+00:00"
+      "checked_at": "2026-11-11T00:25:17.613387+00:00"
     }
   },
   "items": [
+    {
+      "id": "63988ebfa76951ade112",
+      "source": "BBC News",
+      "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
+      "url": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T00:19:42+00:00"
+    },
+    {
+      "id": "5cbde657d40fb3fa2010",
+      "source": "BBC News",
+      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T00:18:07+00:00"
+    },
     {
       "id": "8556a36c44db772b079a",
       "source": "TGcom24",
@@ -395,13 +409,6 @@
       "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
       "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-10T05:22:39+00:00"
-    },
-    {
-      "id": "95a39c789a41bfcb4ba6",
-      "source": "BBC News",
-      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
-      "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T01:55:22+00:00"
     },
     {
       "id": "cce615a4514644bf199e",
