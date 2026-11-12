@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T11:55:17.319334+00:00",
+  "updated_at": "2026-11-12T12:00:54.544751+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T11:55:17.319334+00:00"
+      "checked_at": "2026-11-12T12:00:54.544751+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T11:55:17.319334+00:00"
+      "checked_at": "2026-11-12T12:00:54.544751+00:00"
     }
   },
   "items": [
+    {
+      "id": "47d3978ce0ef7e29020f",
+      "source": "TGcom24",
+      "title": "Davide Rebellin, in Appello deciso il non doversi procedere per il camionista",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/davide-rebellin-camionista-sentenza-appello_118896959-202602k.shtml",
+      "published": "2026-11-12T11:56:00+00:00"
+    },
     {
       "id": "c66457b6ca0d146ea970",
       "source": "BBC News",
@@ -283,13 +290,6 @@
       "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
       "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-11T18:38:45+00:00"
-    },
-    {
-      "id": "e7330d1a7ab1d469aa92",
-      "source": "TGcom24",
-      "title": "Allarmi bomba nelle scuole, dal ministero: \"Istituti aperti\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/allarme-bomba-decine-scuole-italia_118853087-202602k.shtml",
-      "published": "2026-11-11T18:25:00+00:00"
     },
     {
       "id": "accd0331913bd30fff17",
