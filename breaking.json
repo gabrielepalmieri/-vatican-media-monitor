@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T09:15:27.219770+00:00",
+  "updated_at": "2026-11-12T09:20:23.803487+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T09:15:27.219770+00:00"
+      "checked_at": "2026-11-12T09:20:23.803487+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T09:15:27.219770+00:00"
+      "checked_at": "2026-11-12T09:20:23.803487+00:00"
     }
   },
   "items": [
+    {
+      "id": "91a0e5dba84c6e539e0b",
+      "source": "TGcom24",
+      "title": "Francia, allarme bomba alla stazione ferroviaria di Calais: traffico bloccato",
+      "url": "https://www.tgcom24.mediaset.it/mondo/francia-allarme-bomba-stazione-calais_118889011-202602k.shtml",
+      "published": "2026-11-12T09:19:00+00:00"
+    },
     {
       "id": "5313c0d8f930be95a307",
       "source": "BBC News",
@@ -292,13 +299,6 @@
       "published": "2026-11-11T15:50:00+00:00"
     },
     {
-      "id": "57c768b71dbf4f6cdb12",
-      "source": "TGcom24",
-      "title": "Allarmi bomba, Ciriani: \"Minaccia cyber fenomeno con matrice internazionale\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/allarme-bomba-decine-scuole-italia_118853087-202602k.shtml",
-      "published": "2026-11-11T15:20:00+00:00"
-    },
-    {
       "id": "2a0b3537664c72542bc0",
       "source": "BBC News",
       "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
@@ -381,13 +381,6 @@
       "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
       "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-11T00:18:07+00:00"
-    },
-    {
-      "id": "80f53adaafe1d550d671",
-      "source": "BBC News",
-      "title": "Why does Australia want Brits to swap Sydney for the outback?",
-      "url": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T21:17:00+00:00"
     }
   ]
 }
