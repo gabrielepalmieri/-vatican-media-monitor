@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T21:25:17.009536+00:00",
+  "updated_at": "2026-11-12T21:30:46.838930+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T21:25:17.009536+00:00"
+      "checked_at": "2026-11-12T21:30:46.838930+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T21:25:17.009536+00:00"
+      "checked_at": "2026-11-12T21:30:46.838930+00:00"
     }
   },
   "items": [
+    {
+      "id": "9859e53e3a2c99a59af2",
+      "source": "BBC News",
+      "title": "Search for British woman missing from Tui cruise in Atlantic called off",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T21:27:21+00:00"
+    },
     {
       "id": "b455a3b35ac3aa6e3db9",
       "source": "TGcom24",
@@ -222,13 +229,6 @@
       "published": "2026-11-12T10:29:00+00:00"
     },
     {
-      "id": "9859e53e3a2c99a59af2",
-      "source": "BBC News",
-      "title": "British woman missing from cruise ship in Atlantic",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T10:13:35+00:00"
-    },
-    {
       "id": "37a191333623f93260cf",
       "source": "TGcom24",
       "title": "Allarmi bomba nelle scuole, Conte: \"Servono protocolli, noi disponibili\"",
@@ -374,13 +374,6 @@
       "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
       "url": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-11T12:53:11+00:00"
-    },
-    {
-      "id": "c255059b0f570e6b494f",
-      "source": "BBC News",
-      "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
-      "url": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11T09:28:36+00:00"
     }
   ]
 }
