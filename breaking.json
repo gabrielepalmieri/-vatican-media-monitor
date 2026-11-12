@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T08:10:23.354059+00:00",
+  "updated_at": "2026-11-12T08:15:26.280273+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T08:10:23.354059+00:00"
+      "checked_at": "2026-11-12T08:15:26.280273+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T08:10:23.354059+00:00"
+      "checked_at": "2026-11-12T08:15:26.280273+00:00"
     }
   },
   "items": [
+    {
+      "id": "9dff4fbc0539efcaa10e",
+      "source": "TGcom24",
+      "title": "Strage di Nassiriya, Meloni: \"Una ferita viva nella memoria di tutti\"",
+      "url": "https://www.tgcom24.mediaset.it/politica/strage-di-nassirya-anniversario-giorgia-meloni_118886736-202602k.shtml",
+      "published": "2026-11-12T08:12:00+00:00"
+    },
     {
       "id": "17fc0579426676ceeaec",
       "source": "BBC News",
@@ -297,13 +304,6 @@
       "title": "Tajani: \"Ricevuti nuovi cyberattacchi, taglia anche sui minori della mia famiglia\"",
       "url": "https://www.tgcom24.mediaset.it/politica/cyberattacchi-tajani_118862278-202602k.shtml",
       "published": "2026-11-11T14:46:00+00:00"
-    },
-    {
-      "id": "ad2707029a3b51ff7f4c",
-      "source": "TGcom24",
-      "title": "Istat: a 3,5 milioni di pensionati nel 2027 in media 510 euro lordi in meno",
-      "url": "https://www.tgcom24.mediaset.it/economia/istat-a-3-5-milioni-di-pensionati-nel-2027-in-media-510-euro-lordi-in-meno-_118861489-202602k.shtml",
-      "published": "2026-11-11T14:01:00+00:00"
     },
     {
       "id": "8ee2e86ae6043c8355c8",
