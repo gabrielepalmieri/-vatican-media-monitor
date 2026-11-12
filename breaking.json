@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T20:20:26.263169+00:00",
+  "updated_at": "2026-11-12T20:25:20.102280+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T20:20:26.263169+00:00"
+      "checked_at": "2026-11-12T20:25:20.102280+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T20:20:26.263169+00:00"
+      "checked_at": "2026-11-12T20:25:20.102280+00:00"
     }
   },
   "items": [
+    {
+      "id": "c7d7403e6ea504c68289",
+      "source": "BBC News",
+      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T20:09:16+00:00"
+    },
     {
       "id": "50c9e24e9107776451d1",
       "source": "TGcom24",
@@ -327,13 +334,6 @@
       "published": "2026-11-11T21:43:35+00:00"
     },
     {
-      "id": "bddbd91e9bb8ff553b6c",
-      "source": "BBC News",
-      "title": "African writing award probe finds 'no evidence' winning story was AI generated",
-      "url": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11T20:00:54+00:00"
-    },
-    {
       "id": "a465df9e5a98b70dfaf7",
       "source": "BBC News",
       "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
@@ -360,13 +360,6 @@
       "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
       "url": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-11T14:56:11+00:00"
-    },
-    {
-      "id": "8ee2e86ae6043c8355c8",
-      "source": "BBC News",
-      "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
-      "url": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11T13:25:47+00:00"
     },
     {
       "id": "b8f62802f9f0336d0405",
