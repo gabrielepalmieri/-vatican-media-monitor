@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-12T12:55:17.478843+00:00",
+  "updated_at": "2026-11-12T13:00:55.279073+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T12:55:17.478843+00:00"
+      "checked_at": "2026-11-12T13:00:55.279073+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T12:55:17.478843+00:00"
+      "checked_at": "2026-11-12T13:00:55.279073+00:00"
     }
   },
   "items": [
+    {
+      "id": "bee9026aa5f578dbcf29",
+      "source": "BBC News",
+      "title": "Millions of Ebola dollars going missing as virus spreads, medical charity warns",
+      "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T12:58:24+00:00"
+    },
+    {
+      "id": "e6b3a5a204c5342059f0",
+      "source": "BBC News",
+      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T12:56:55+00:00"
+    },
     {
       "id": "eed9be346aea5b05a9df",
       "source": "TGcom24",
@@ -24,13 +38,6 @@
       "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
       "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-12T12:26:01+00:00"
-    },
-    {
-      "id": "c66457b6ca0d146ea970",
-      "source": "BBC News",
-      "title": "New York City building collapse kills several people",
-      "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T12:17:47+00:00"
     },
     {
       "id": "0a53e0631818db7ac549",
@@ -87,13 +94,6 @@
       "title": "Allarmi bomba nelle scuole, Conte: \"Servono protocolli, noi disponibili\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/scuola-allarme-bomba-ultime-notizie-12-novembre_118883696-202602k.shtml",
       "published": "2026-11-12T10:03:00+00:00"
-    },
-    {
-      "id": "e6b3a5a204c5342059f0",
-      "source": "BBC News",
-      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T10:02:32+00:00"
     },
     {
       "id": "3c63ced118a1e9da73bc",
@@ -224,7 +224,7 @@
     {
       "id": "002e7334ecf9a993ab66",
       "source": "TGcom24",
-      "title": "New York, crolla un palazzo a Brooklyn: almeno due morti e diversi feriti",
+      "title": "New York, crolla un palazzo a Brooklyn: otto morti e diversi feriti",
       "url": "https://www.tgcom24.mediaset.it/2026/video/new-york-crollo-edificio-brooklyn-morto-feriti_118883045-02k.shtml",
       "published": "2026-11-11T23:01:00+00:00"
     },
