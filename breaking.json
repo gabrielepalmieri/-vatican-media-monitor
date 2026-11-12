@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T10:30:45.313946+00:00",
+  "updated_at": "2026-11-12T10:35:18.036479+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T10:30:45.313946+00:00"
+      "checked_at": "2026-11-12T10:35:18.036479+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T10:30:45.313946+00:00"
+      "checked_at": "2026-11-12T10:35:18.036479+00:00"
     }
   },
   "items": [
+    {
+      "id": "6674cb26e7698fa9d870",
+      "source": "TGcom24",
+      "title": "Allarmi bomba, protocollo da Palazzo Chigi: evacuare solo con elementi concreti",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/scuola-allarme-bomba-ultime-notizie-12-novembre_118883696-202602k.shtml",
+      "published": "2026-11-12T10:29:00+00:00"
+    },
     {
       "id": "9859e53e3a2c99a59af2",
       "source": "BBC News",
@@ -290,13 +297,6 @@
       "title": "Crolla un palazzo in ristrutturazione nell'Aquilano, morti due operai",
       "url": "https://www.tgcom24.mediaset.it/cronaca/crollo-durante-dei-lavori-di-ristrutturazione-morti-due-operai-nell-aquilano_118867783-202602k.shtml",
       "published": "2026-11-11T17:20:00+00:00"
-    },
-    {
-      "id": "8e4bae44ed951bd4741a",
-      "source": "TGcom24",
-      "title": "Spagna, 42 arresti in tutto il Paese durante lo sciopero generale",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/sciopero-generale-in-spagna-cariche-e-arresti-nel-centro-di-madrid_118866449-02k.shtml",
-      "published": "2026-11-11T16:52:00+00:00"
     },
     {
       "id": "084e56c94ad624f489ef",
