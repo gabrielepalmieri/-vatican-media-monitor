@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T20:05:20.593298+00:00",
+  "updated_at": "2026-11-12T20:10:26.158282+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T20:05:20.593298+00:00"
+      "checked_at": "2026-11-12T20:10:26.158282+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T20:05:20.593298+00:00"
+      "checked_at": "2026-11-12T20:10:26.158282+00:00"
     }
   },
   "items": [
+    {
+      "id": "50c9e24e9107776451d1",
+      "source": "TGcom24",
+      "title": "Ucraina, Cremlino: \"Concordata una nuova operazione umanitaria a Kostyantynivka\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-12novembre_118883625-202602k.shtml",
+      "published": "2026-11-12T20:09:00+00:00"
+    },
     {
       "id": "85e57b48337fc25a4ba7",
       "source": "BBC News",
@@ -290,13 +297,6 @@
       "title": "Bufera su Rubio: \"Jet a spese dei contribuenti per seguire le partite del figlio\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-marco-rubio-jet-pagati-contribuenti-partite-figlio_118881932-202602k.shtml",
       "published": "2026-11-12T05:30:00+00:00"
-    },
-    {
-      "id": "440a436620388e053740",
-      "source": "TGcom24",
-      "title": "La Germania vieta l'uso di droni cinesi nelle basi militari",
-      "url": "https://www.tgcom24.mediaset.it/mondo/germania-divieto-droni-cinesi-basi-militari_118881568-202602k.shtml",
-      "published": "2026-11-12T05:02:00+00:00"
     },
     {
       "id": "d0eeea137a6c15805f33",
