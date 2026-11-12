@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T16:50:35.137196+00:00",
+  "updated_at": "2026-11-12T16:55:18.930514+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T16:50:35.137196+00:00"
+      "checked_at": "2026-11-12T16:55:18.930514+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T16:50:35.137196+00:00"
+      "checked_at": "2026-11-12T16:55:18.930514+00:00"
     }
   },
   "items": [
+    {
+      "id": "5313c0d8f930be95a307",
+      "source": "BBC News",
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T16:54:12+00:00"
+    },
     {
       "id": "c13a6835a2a6ee5dc88d",
       "source": "TGcom24",
@@ -59,13 +66,6 @@
       "title": "Caso Nvidia, il Ceo Jensen Huang si è dimesso, al suo posto una donna",
       "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-jensen-huang-dimesso_118903531-202602k.shtml",
       "published": "2026-11-12T14:29:00+00:00"
-    },
-    {
-      "id": "5313c0d8f930be95a307",
-      "source": "BBC News",
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T14:27:30+00:00"
     },
     {
       "id": "1759f2f8d69e61945630",
