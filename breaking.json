@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T07:55:18.749528+00:00",
+  "updated_at": "2026-11-12T08:01:02.740449+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T07:55:18.749528+00:00"
+      "checked_at": "2026-11-12T08:01:02.740449+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T07:55:18.749528+00:00"
+      "checked_at": "2026-11-12T08:01:02.740449+00:00"
     }
   },
   "items": [
+    {
+      "id": "17fc0579426676ceeaec",
+      "source": "BBC News",
+      "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
+      "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T07:59:33+00:00"
+    },
     {
       "id": "e72a8cce2043ecb2251d",
       "source": "BBC News",
@@ -66,13 +73,6 @@
       "title": "Papa Leone in Perù: \"Profonda gioia tornare nella mia patria\"",
       "url": "https://www.tgcom24.mediaset.it/2026/video/papa-leone-peru-lima-patria_118883521-02k.shtml",
       "published": "2026-11-12T06:00:00+00:00"
-    },
-    {
-      "id": "17fc0579426676ceeaec",
-      "source": "BBC News",
-      "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
-      "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T05:59:18+00:00"
     },
     {
       "id": "fa15c08b972b5e340757",
