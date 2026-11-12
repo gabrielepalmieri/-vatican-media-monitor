@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T07:20:23.688172+00:00",
+  "updated_at": "2026-11-12T07:25:19.791971+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T07:20:23.688172+00:00"
+      "checked_at": "2026-11-12T07:25:19.791971+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T07:20:23.688172+00:00"
+      "checked_at": "2026-11-12T07:25:19.791971+00:00"
     }
   },
   "items": [
+    {
+      "id": "871fd925b294f5f403e4",
+      "source": "TGcom24",
+      "title": "Violenta ondata di maltempo al Centro-Nord: fiumi in piena, frane e sfollati a Massa e Carrara",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/maltempo-centro-nord-toscana-liguria-carrara-allerta_118883695-202602k.shtml",
+      "published": "2026-11-12T07:20:00+00:00"
+    },
     {
       "id": "92a099ddfa35f9679a6a",
       "source": "TGcom24",
@@ -311,13 +318,6 @@
       "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
       "url": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-11T12:53:11+00:00"
-    },
-    {
-      "id": "e09f60fbe02a96057234",
-      "source": "TGcom24",
-      "title": "Valditara: \"Le guerre ibride saranno sempre più frequenti, dobbiamo attrezzarci\"",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/allarmi-bomba-nelle-scuole-valditara-guerre-ibride-saranno-sempre-piu-frequenti-dobbiamo-attrezzarci-_118858158-02k.shtml",
-      "published": "2026-11-11T12:40:00+00:00"
     },
     {
       "id": "8771673a8b1287145ab6",
