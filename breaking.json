@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T12:25:17.620270+00:00",
+  "updated_at": "2026-11-12T12:30:42.653052+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T12:25:17.620270+00:00"
+      "checked_at": "2026-11-12T12:30:42.653052+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T12:25:17.620270+00:00"
+      "checked_at": "2026-11-12T12:30:42.653052+00:00"
     }
   },
   "items": [
+    {
+      "id": "5313c0d8f930be95a307",
+      "source": "BBC News",
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T12:26:01+00:00"
+    },
     {
       "id": "c66457b6ca0d146ea970",
       "source": "BBC News",
@@ -24,13 +31,6 @@
       "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
       "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-12T12:14:51+00:00"
-    },
-    {
-      "id": "5313c0d8f930be95a307",
-      "source": "BBC News",
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T12:03:47+00:00"
     },
     {
       "id": "47d3978ce0ef7e29020f",
