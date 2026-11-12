@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T12:10:23.197645+00:00",
+  "updated_at": "2026-11-12T12:15:27.841805+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T12:10:23.197645+00:00"
+      "checked_at": "2026-11-12T12:15:27.841805+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T12:10:23.197645+00:00"
+      "checked_at": "2026-11-12T12:15:27.841805+00:00"
     }
   },
   "items": [
+    {
+      "id": "0a53e0631818db7ac549",
+      "source": "BBC News",
+      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T12:14:51+00:00"
+    },
     {
       "id": "5313c0d8f930be95a307",
       "source": "BBC News",
@@ -59,13 +66,6 @@
       "title": "British woman missing from cruise ship in Atlantic",
       "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-12T10:13:35+00:00"
-    },
-    {
-      "id": "0a53e0631818db7ac549",
-      "source": "BBC News",
-      "title": "US envoys arrive in Moscow for Ukraine talks with Vladimir Putin",
-      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T10:08:38+00:00"
     },
     {
       "id": "37a191333623f93260cf",
