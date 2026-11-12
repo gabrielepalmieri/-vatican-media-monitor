@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T12:00:54.544751+00:00",
+  "updated_at": "2026-11-12T12:05:19.696703+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T12:00:54.544751+00:00"
+      "checked_at": "2026-11-12T12:05:19.696703+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T12:00:54.544751+00:00"
+      "checked_at": "2026-11-12T12:05:19.696703+00:00"
     }
   },
   "items": [
+    {
+      "id": "5313c0d8f930be95a307",
+      "source": "BBC News",
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T12:03:47+00:00"
+    },
     {
       "id": "47d3978ce0ef7e29020f",
       "source": "TGcom24",
@@ -73,13 +80,6 @@
       "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
       "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-12T10:02:32+00:00"
-    },
-    {
-      "id": "5313c0d8f930be95a307",
-      "source": "BBC News",
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T09:43:11+00:00"
     },
     {
       "id": "3c63ced118a1e9da73bc",
