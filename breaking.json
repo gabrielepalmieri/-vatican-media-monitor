@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T05:30:39.664617+00:00",
+  "updated_at": "2026-11-12T05:35:16.836816+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T05:30:39.664617+00:00"
+      "checked_at": "2026-11-12T05:35:16.836816+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T05:30:39.664617+00:00"
+      "checked_at": "2026-11-12T05:35:16.836816+00:00"
     }
   },
   "items": [
+    {
+      "id": "fa15c08b972b5e340757",
+      "source": "TGcom24",
+      "title": "Usa, media: \"Sui jet a spese dei contribuenti per partite figlio, bufera su Rubio\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-marco-rubio-jet-pagati-contribuenti-partite-figlio_118881932-202602k.shtml",
+      "published": "2026-11-12T05:30:00+00:00"
+    },
     {
       "id": "c66457b6ca0d146ea970",
       "source": "BBC News",
@@ -332,13 +339,6 @@
       "title": "Allarmi bomba nelle scuole, la mail anonima: \"Siamo venuti per annientarvi\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/allarme-bomba-decine-scuole-italia_118853087-202602k.shtml",
       "published": "2026-11-11T11:08:00+00:00"
-    },
-    {
-      "id": "41ad1a673c059890803f",
-      "source": "TGcom24",
-      "title": "Strage Viareggio, Moretti esce dal carcere: sconterà la condanna ai domiciliari",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/strage-di-viareggio-mauro-moretti-domiciliari_118853078-202602k.shtml",
-      "published": "2026-11-11T10:45:00+00:00"
     },
     {
       "id": "8de5253b286c265156a3",
