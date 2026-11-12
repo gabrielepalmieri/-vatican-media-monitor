@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T21:05:20.342825+00:00",
+  "updated_at": "2026-11-12T21:10:25.946546+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T21:05:20.342825+00:00"
+      "checked_at": "2026-11-12T21:10:25.946546+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T21:05:20.342825+00:00"
+      "checked_at": "2026-11-12T21:10:25.946546+00:00"
     }
   },
   "items": [
+    {
+      "id": "b455a3b35ac3aa6e3db9",
+      "source": "TGcom24",
+      "title": "Caso Nvidia, media: \"Huang ha avuto una relazione con una seconda dipendente\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-jensen-huang-dimesso_118903531-202602k.shtml",
+      "published": "2026-11-12T21:08:00+00:00"
+    },
     {
       "id": "0a53e0631818db7ac549",
       "source": "BBC News",
@@ -297,13 +304,6 @@
       "title": "Papa Leone in Perù: \"Profonda gioia tornare nella mia patria\"",
       "url": "https://www.tgcom24.mediaset.it/2026/video/papa-leone-peru-lima-patria_118883521-02k.shtml",
       "published": "2026-11-12T06:00:00+00:00"
-    },
-    {
-      "id": "fa15c08b972b5e340757",
-      "source": "TGcom24",
-      "title": "Bufera su Rubio: \"Jet a spese dei contribuenti per seguire le partite del figlio\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/usa-marco-rubio-jet-pagati-contribuenti-partite-figlio_118881932-202602k.shtml",
-      "published": "2026-11-12T05:30:00+00:00"
     },
     {
       "id": "d0eeea137a6c15805f33",
