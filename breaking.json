@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T13:25:17.781466+00:00",
+  "updated_at": "2026-11-12T13:30:43.264015+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T13:25:17.781466+00:00"
+      "checked_at": "2026-11-12T13:30:43.264015+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T13:25:17.781466+00:00"
+      "checked_at": "2026-11-12T13:30:43.264015+00:00"
     }
   },
   "items": [
+    {
+      "id": "534758f199b250b38f04",
+      "source": "TGcom24",
+      "title": "Ucraina, Putin agli inviati Usa: truppe occidentali sono obiettivi legittimi",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-12novembre_118883625-202602k.shtml",
+      "published": "2026-11-12T13:07:00+00:00"
+    },
     {
       "id": "8ff6629bf7c13803da96",
       "source": "BBC News",
@@ -290,13 +297,6 @@
       "title": "African writing award probe finds 'no evidence' winning story was AI generated",
       "url": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-11T20:00:54+00:00"
-    },
-    {
-      "id": "7ebcb40d193bbd3ed97d",
-      "source": "TGcom24",
-      "title": "Iran, Wsj: \"Vance valuta colloqui faccia a faccia con il falco Rezaei\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/vance-rezaei-usa-iran_118878091-202602k.shtml",
-      "published": "2026-11-11T19:47:00+00:00"
     },
     {
       "id": "a465df9e5a98b70dfaf7",
