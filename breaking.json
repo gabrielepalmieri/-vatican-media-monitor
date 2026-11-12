@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T12:30:42.653052+00:00",
+  "updated_at": "2026-11-12T12:35:18.503569+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T12:30:42.653052+00:00"
+      "checked_at": "2026-11-12T12:35:18.503569+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T12:30:42.653052+00:00"
+      "checked_at": "2026-11-12T12:35:18.503569+00:00"
     }
   },
   "items": [
+    {
+      "id": "eed9be346aea5b05a9df",
+      "source": "TGcom24",
+      "title": "Delitto di Garlasco, udienza preliminare per Sempio fissata al 25 febbraio",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/delitto-garlasco-andrea-sempio-udienza-preliminare_118899326-202602k.shtml",
+      "published": "2026-11-12T12:34:00+00:00"
+    },
     {
       "id": "5313c0d8f930be95a307",
       "source": "BBC News",
@@ -283,13 +290,6 @@
       "title": "Iran, Wsj: \"Vance valuta colloqui faccia a faccia con il falco Rezaei\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/vance-rezaei-usa-iran_118878091-202602k.shtml",
       "published": "2026-11-11T19:47:00+00:00"
-    },
-    {
-      "id": "d2973b13be3038247a6f",
-      "source": "TGcom24",
-      "title": "Meloni: \"Non permetteremo a una mail anonima di decidere il calendario scolastico\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/allarme-bomba-decine-scuole-italia_118853087-202602k.shtml",
-      "published": "2026-11-11T18:57:00+00:00"
     },
     {
       "id": "a465df9e5a98b70dfaf7",
