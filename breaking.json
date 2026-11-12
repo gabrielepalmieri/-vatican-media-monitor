@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T12:15:27.841805+00:00",
+  "updated_at": "2026-11-12T12:20:24.234399+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T12:15:27.841805+00:00"
+      "checked_at": "2026-11-12T12:20:24.234399+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T12:15:27.841805+00:00"
+      "checked_at": "2026-11-12T12:20:24.234399+00:00"
     }
   },
   "items": [
+    {
+      "id": "c66457b6ca0d146ea970",
+      "source": "BBC News",
+      "title": "New York building collapse kills several people",
+      "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T12:17:47+00:00"
+    },
     {
       "id": "0a53e0631818db7ac549",
       "source": "BBC News",
@@ -33,18 +40,18 @@
       "published": "2026-11-12T11:56:00+00:00"
     },
     {
-      "id": "c66457b6ca0d146ea970",
-      "source": "BBC News",
-      "title": "New York building collapse kills at least four people",
-      "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T11:48:14+00:00"
-    },
-    {
       "id": "10ef67cb0efbc253e1b8",
       "source": "TGcom24",
       "title": "Scuole, il ministero: \"No evacuazioni automatiche, decide il Prefetto\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/scuola-allarme-bomba-ultime-notizie-12-novembre_118883696-202602k.shtml",
       "published": "2026-11-12T11:31:00+00:00"
+    },
+    {
+      "id": "e7d6a0554f6c20f05e50",
+      "source": "BBC News",
+      "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T11:21:25+00:00"
     },
     {
       "id": "d18a046299fdc9fdf24d",
@@ -353,13 +360,6 @@
       "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
       "url": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-11T09:28:36+00:00"
-    },
-    {
-      "id": "5cbde657d40fb3fa2010",
-      "source": "BBC News",
-      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11T00:18:07+00:00"
     }
   ]
 }
