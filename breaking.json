@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T08:50:22.883671+00:00",
+  "updated_at": "2026-11-12T08:55:18.356153+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T08:50:22.883671+00:00"
+      "checked_at": "2026-11-12T08:55:18.356153+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T08:50:22.883671+00:00"
+      "checked_at": "2026-11-12T08:55:18.356153+00:00"
     }
   },
   "items": [
+    {
+      "id": "f18c493e65e0dd7135f9",
+      "source": "TGcom24",
+      "title": "Presidenza Ue: \"Escalation di Mosca non interrompa sostegno all'Ucraina\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-12novembre_118883625-202602k.shtml",
+      "published": "2026-11-12T08:49:00+00:00"
+    },
     {
       "id": "7215252efeaeca134eb6",
       "source": "BBC News",
@@ -297,13 +304,6 @@
       "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
       "url": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-11T14:56:11+00:00"
-    },
-    {
-      "id": "38c3ae0972c8b756aefa",
-      "source": "TGcom24",
-      "title": "Tajani: \"Ricevuti nuovi cyberattacchi, taglia anche sui minori della mia famiglia\"",
-      "url": "https://www.tgcom24.mediaset.it/politica/cyberattacchi-tajani_118862278-202602k.shtml",
-      "published": "2026-11-11T14:46:00+00:00"
     },
     {
       "id": "8ee2e86ae6043c8355c8",
