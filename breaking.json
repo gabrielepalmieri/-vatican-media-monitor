@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-12T14:25:19.358588+00:00",
+  "updated_at": "2026-11-12T14:30:47.841156+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T14:25:19.358588+00:00"
+      "checked_at": "2026-11-12T14:30:47.841156+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T14:25:19.358588+00:00"
+      "checked_at": "2026-11-12T14:30:47.841156+00:00"
     }
   },
   "items": [
+    {
+      "id": "3f07a2caa7248a0f951a",
+      "source": "TGcom24",
+      "title": "Caso Nvidia, il Ceo Jensen Huang si è dimesso",
+      "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-jensen-huang-dimesso_118903531-202602k.shtml",
+      "published": "2026-11-12T14:29:00+00:00"
+    },
+    {
+      "id": "5313c0d8f930be95a307",
+      "source": "BBC News",
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T14:27:30+00:00"
+    },
     {
       "id": "bee9026aa5f578dbcf29",
       "source": "BBC News",
@@ -66,13 +80,6 @@
       "title": "Delitto di Garlasco, udienza preliminare per Sempio fissata al 25 febbraio",
       "url": "https://www.tgcom24.mediaset.it/cronaca/delitto-garlasco-andrea-sempio-udienza-preliminare_118899326-202602k.shtml",
       "published": "2026-11-12T12:34:00+00:00"
-    },
-    {
-      "id": "5313c0d8f930be95a307",
-      "source": "BBC News",
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T12:26:01+00:00"
     },
     {
       "id": "0a53e0631818db7ac549",
@@ -290,13 +297,6 @@
       "title": "Marocco, l'uragano Charles lascia al buio Casablanca: traffico in tilt",
       "url": "https://www.tgcom24.mediaset.it/2026/video/l-uragano-charles-lascia-al-buio-casablanca-traffico-in-tilt_118879382-02k.shtml",
       "published": "2026-11-11T21:35:00+00:00"
-    },
-    {
-      "id": "3bd1890eadd8ea732e4f",
-      "source": "TGcom24",
-      "title": "Israele, media: \"Gabinetto sicurezza ordina a Idf di prepararsi ad attaccare Iran\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-ultime-notizie-11-novembre_118879920-202602k.shtml",
-      "published": "2026-11-11T21:00:00+00:00"
     },
     {
       "id": "bddbd91e9bb8ff553b6c",
