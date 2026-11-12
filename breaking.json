@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T18:25:19.411487+00:00",
+  "updated_at": "2026-11-12T18:30:47.357926+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T18:25:19.411487+00:00"
+      "checked_at": "2026-11-12T18:30:47.357926+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T18:25:19.411487+00:00"
+      "checked_at": "2026-11-12T18:30:47.357926+00:00"
     }
   },
   "items": [
+    {
+      "id": "0a53e0631818db7ac549",
+      "source": "BBC News",
+      "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T18:28:59+00:00"
+    },
     {
       "id": "60abae8493acc856b62e",
       "source": "TGcom24",
@@ -52,13 +59,6 @@
       "title": "Allarmi bomba nelle scuole, Meloni: \"Con opposizioni colloquio costruttivo\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/scuola-allarme-bomba-ultime-notizie-12-novembre_118883696-202602k.shtml",
       "published": "2026-11-12T16:40:00+00:00"
-    },
-    {
-      "id": "0a53e0631818db7ac549",
-      "source": "BBC News",
-      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T16:31:12+00:00"
     },
     {
       "id": "4a2dadc147b462bbc983",
