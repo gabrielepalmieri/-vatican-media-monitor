@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T16:30:48.082681+00:00",
+  "updated_at": "2026-11-12T16:35:20.097478+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T16:30:48.082681+00:00"
+      "checked_at": "2026-11-12T16:35:20.097478+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T16:30:48.082681+00:00"
+      "checked_at": "2026-11-12T16:35:20.097478+00:00"
     }
   },
   "items": [
+    {
+      "id": "0a53e0631818db7ac549",
+      "source": "BBC News",
+      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T16:31:12+00:00"
+    },
     {
       "id": "4a2dadc147b462bbc983",
       "source": "TGcom24",
@@ -31,13 +38,6 @@
       "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
       "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-12T15:18:20+00:00"
-    },
-    {
-      "id": "0a53e0631818db7ac549",
-      "source": "BBC News",
-      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T15:16:39+00:00"
     },
     {
       "id": "e7d6a0554f6c20f05e50",
