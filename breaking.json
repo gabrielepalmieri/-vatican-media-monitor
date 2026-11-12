@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T10:50:24.648291+00:00",
+  "updated_at": "2026-11-12T10:55:17.349839+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T10:50:24.648291+00:00"
+      "checked_at": "2026-11-12T10:55:17.349839+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T10:50:24.648291+00:00"
+      "checked_at": "2026-11-12T10:55:17.349839+00:00"
     }
   },
   "items": [
+    {
+      "id": "d18a046299fdc9fdf24d",
+      "source": "TGcom24",
+      "title": "Nuovi allarmi bomba nelle scuole, controlli ed evacuazioni in tutta Italia",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/scuola-allarme-bomba-ultime-notizie-12-novembre_118883696-202602k.shtml",
+      "published": "2026-11-12T10:54:00+00:00"
+    },
     {
       "id": "c66457b6ca0d146ea970",
       "source": "BBC News",
@@ -290,13 +297,6 @@
       "title": "Femminicidio di Ramona Rinaldi, il compagno Daniele Re confessa in aula",
       "url": "https://www.tgcom24.mediaset.it/cronaca/femminicidio-ramona-rinaldi-daniele-re-colpevole_118870357-202602k.shtml",
       "published": "2026-11-11T17:50:00+00:00"
-    },
-    {
-      "id": "6c5de6320f59858e803f",
-      "source": "TGcom24",
-      "title": "Crolla un palazzo in ristrutturazione nell'Aquilano, morti due operai",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/crollo-durante-dei-lavori-di-ristrutturazione-morti-due-operai-nell-aquilano_118867783-202602k.shtml",
-      "published": "2026-11-11T17:20:00+00:00"
     },
     {
       "id": "084e56c94ad624f489ef",
