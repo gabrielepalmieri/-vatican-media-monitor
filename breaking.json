@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T10:40:22.897262+00:00",
+  "updated_at": "2026-11-12T10:45:27.678103+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T10:40:22.897262+00:00"
+      "checked_at": "2026-11-12T10:45:27.678103+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T10:40:22.897262+00:00"
+      "checked_at": "2026-11-12T10:45:27.678103+00:00"
     }
   },
   "items": [
+    {
+      "id": "c66457b6ca0d146ea970",
+      "source": "BBC News",
+      "title": "New York building collapse kills at least two, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T10:40:49+00:00"
+    },
     {
       "id": "6674cb26e7698fa9d870",
       "source": "TGcom24",
@@ -150,13 +157,6 @@
       "title": "Usa, media: \"Bufera su Rubio: jet a spese dei contribuenti per seguire le partite del figlio\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-marco-rubio-jet-pagati-contribuenti-partite-figlio_118881932-202602k.shtml",
       "published": "2026-11-12T05:30:00+00:00"
-    },
-    {
-      "id": "c66457b6ca0d146ea970",
-      "source": "BBC News",
-      "title": "New York building collapse kills at least two, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T05:12:56+00:00"
     },
     {
       "id": "440a436620388e053740",
