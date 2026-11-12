@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T01:30:39.206617+00:00",
+  "updated_at": "2026-11-12T01:35:17.570713+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T01:30:39.206617+00:00"
+      "checked_at": "2026-11-12T01:35:17.570713+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T01:30:39.206617+00:00"
+      "checked_at": "2026-11-12T01:35:17.570713+00:00"
     }
   },
   "items": [
+    {
+      "id": "4529da20a4cfbea422de",
+      "source": "BBC News",
+      "title": "New York building collapse kills one person and injures 12",
+      "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T01:34:12+00:00"
+    },
     {
       "id": "e6b3a5a204c5342059f0",
       "source": "BBC News",
@@ -38,13 +45,6 @@
       "title": "New York, crolla un palazzo a Brooklyn: almeno un morto e diversi feriti",
       "url": "https://www.tgcom24.mediaset.it/2026/video/new-york-crollo-edificio-brooklyn-morto-feriti_118883045-02k.shtml",
       "published": "2026-11-11T23:01:00+00:00"
-    },
-    {
-      "id": "4529da20a4cfbea422de",
-      "source": "BBC News",
-      "title": "New York building collapse kills one person and injures 12",
-      "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11T22:55:26+00:00"
     },
     {
       "id": "749be860f0aeadfa2ab2",
