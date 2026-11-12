@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T05:00:53.134265+00:00",
+  "updated_at": "2026-11-12T05:05:18.796005+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T05:00:53.134265+00:00"
+      "checked_at": "2026-11-12T05:05:18.796005+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T05:00:53.134265+00:00"
+      "checked_at": "2026-11-12T05:05:18.796005+00:00"
     }
   },
   "items": [
+    {
+      "id": "440a436620388e053740",
+      "source": "TGcom24",
+      "title": "La Germania vieta l'uso di droni cinesi nelle proprie basi militari",
+      "url": "https://www.tgcom24.mediaset.it/mondo/germania-divieto-droni-cinesi-basi-militari_118881568-202602k.shtml",
+      "published": "2026-11-12T05:02:00+00:00"
+    },
     {
       "id": "d0eeea137a6c15805f33",
       "source": "BBC News",
@@ -325,13 +332,6 @@
       "title": "Strage Viareggio, Moretti esce dal carcere: sconterà la condanna ai domiciliari",
       "url": "https://www.tgcom24.mediaset.it/cronaca/strage-di-viareggio-mauro-moretti-domiciliari_118853078-202602k.shtml",
       "published": "2026-11-11T10:45:00+00:00"
-    },
-    {
-      "id": "c366a3738646e6e8b6dd",
-      "source": "TGcom24",
-      "title": "Allarmi bomba in migliaia di scuole in Italia: Meloni convoca una riunione",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/allarme-bomba-decine-scuole-italia_118853087-202602k.shtml",
-      "published": "2026-11-11T10:10:00+00:00"
     },
     {
       "id": "c255059b0f570e6b494f",
