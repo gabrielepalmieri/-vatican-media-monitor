@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T06:00:52.760646+00:00",
+  "updated_at": "2026-11-12T06:05:16.706793+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T06:00:52.760646+00:00"
+      "checked_at": "2026-11-12T06:05:16.706793+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T06:00:52.760646+00:00"
+      "checked_at": "2026-11-12T06:05:16.706793+00:00"
     }
   },
   "items": [
+    {
+      "id": "42b537fd383a4e7abb4e",
+      "source": "TGcom24",
+      "title": "Papa Leone in Perù: \"Profonda gioia tornare nella mia patria\"",
+      "url": "https://www.tgcom24.mediaset.it/2026/video/papa-leone-peru-lima-patria_118883521-02k.shtml",
+      "published": "2026-11-12T06:00:00+00:00"
+    },
     {
       "id": "17fc0579426676ceeaec",
       "source": "BBC News",
@@ -341,13 +348,6 @@
       "published": "2026-11-11T11:15:00+00:00"
     },
     {
-      "id": "c4834e3b31932a790fef",
-      "source": "TGcom24",
-      "title": "Allarmi bomba nelle scuole, la mail anonima: \"Siamo venuti per annientarvi\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/allarme-bomba-decine-scuole-italia_118853087-202602k.shtml",
-      "published": "2026-11-11T11:08:00+00:00"
-    },
-    {
       "id": "8de5253b286c265156a3",
       "source": "BBC News",
       "title": "'My darling girl, you are everything to me' - auctioned letters reveal WWI love story",
@@ -395,13 +395,6 @@
       "title": "'If I tell you to run, run': BBC joins a Ukrainian drone unit as it protects a front-line city",
       "url": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-10T18:35:35+00:00"
-    },
-    {
-      "id": "8beb7506e4c4d0969dd0",
-      "source": "BBC News",
-      "title": "Why are these purple flowers shutting down streets in Sydney?",
-      "url": "https://www.bbc.co.uk/news/videos/c862y2dxdq45o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T18:03:52+00:00"
     }
   ]
 }
