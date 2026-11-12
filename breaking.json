@@ -1,22 +1,29 @@
 {
-  "updated_at": "2026-11-12T09:30:41.026987+00:00",
+  "updated_at": "2026-11-12T09:35:19.080050+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T09:30:41.026987+00:00"
+      "checked_at": "2026-11-12T09:35:19.080050+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T09:30:41.026987+00:00"
+      "checked_at": "2026-11-12T09:35:19.080050+00:00"
     }
   },
   "items": [
     {
-      "id": "91a0e5dba84c6e539e0b",
+      "id": "3c63ced118a1e9da73bc",
+      "source": "TGcom24",
+      "title": "Nuovo allarme bomba, liceo classico evacuato a Palermo",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/scuola-allarme-bomba-ultime-notizie-12-novembre_118883696-202602k.shtml",
+      "published": "2026-11-12T09:32:00+00:00"
+    },
+    {
+      "id": "eb0b9cbf2bc5e24c49a4",
       "source": "TGcom24",
       "title": "Francia, allarme bomba alla stazione ferroviaria di Calais: traffico bloccato",
       "url": "https://www.tgcom24.mediaset.it/mondo/francia-allarme-bomba-stazione-calais_118889011-202602k.shtml",
-      "published": "2026-11-12T09:19:00+00:00"
+      "published": "2026-11-12T09:12:00+00:00"
     },
     {
       "id": "5313c0d8f930be95a307",
@@ -290,13 +297,6 @@
       "title": "Usa, bimbo di 11 mesi sparisce con il padre e viene trovato sepolto vivo: salvato",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-neonato-sepolto-vivo-salvo_118864274-202602k.shtml",
       "published": "2026-11-11T16:25:00+00:00"
-    },
-    {
-      "id": "6582bf3714c7b9fbd8dd",
-      "source": "TGcom24",
-      "title": "Femminicidio Scialdone, l'ex Costantino Bonaiuti condannato all'ergastolo in Appello bis",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/martina-scialdone-costantino-bonaiuti-condannato-ergastolo_118864820-202602k.shtml",
-      "published": "2026-11-11T15:50:00+00:00"
     },
     {
       "id": "2a0b3537664c72542bc0",
