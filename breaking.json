@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T06:10:23.516549+00:00",
+  "updated_at": "2026-11-12T06:15:28.041671+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T06:10:23.516549+00:00"
+      "checked_at": "2026-11-12T06:15:28.041671+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T06:10:23.516549+00:00"
+      "checked_at": "2026-11-12T06:15:28.041671+00:00"
     }
   },
   "items": [
+    {
+      "id": "5313c0d8f930be95a307",
+      "source": "BBC News",
+      "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T06:12:05+00:00"
+    },
     {
       "id": "42b537fd383a4e7abb4e",
       "source": "TGcom24",
@@ -38,13 +45,6 @@
       "title": "New York building collapse kills at least two, officials say",
       "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-12T05:12:56+00:00"
-    },
-    {
-      "id": "5313c0d8f930be95a307",
-      "source": "BBC News",
-      "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T05:06:27+00:00"
     },
     {
       "id": "440a436620388e053740",
