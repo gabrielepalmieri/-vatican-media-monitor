@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T07:45:26.527881+00:00",
+  "updated_at": "2026-11-12T07:50:22.173350+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T07:45:26.527881+00:00"
+      "checked_at": "2026-11-12T07:50:22.173350+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T07:45:26.527881+00:00"
+      "checked_at": "2026-11-12T07:50:22.173350+00:00"
     }
   },
   "items": [
+    {
+      "id": "a20d947b94faeffce1ff",
+      "source": "TGcom24",
+      "title": "Sei morti in raid di Israele su ospedale di Gaza, Idf: obiettivo alto comandante di Hamas",
+      "url": "https://www.tgcom24.mediaset.it/mondo/israele-gaza-raid-ospedale-nasser-hamas_118884634-202602k.shtml",
+      "published": "2026-11-12T07:45:00+00:00"
+    },
     {
       "id": "6a2f72fdfc9f4e372a9a",
       "source": "BBC News",
@@ -290,13 +297,6 @@
       "title": "Istat: a 3,5 milioni di pensionati nel 2027 in media 510 euro lordi in meno",
       "url": "https://www.tgcom24.mediaset.it/economia/istat-a-3-5-milioni-di-pensionati-nel-2027-in-media-510-euro-lordi-in-meno-_118861489-202602k.shtml",
       "published": "2026-11-11T14:01:00+00:00"
-    },
-    {
-      "id": "edb39e5fa146e1e6a48d",
-      "source": "TGcom24",
-      "title": "Ministero dell'Istruzione: \"Mail con l'allarme bomba arrivata a circa seimila scuole\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/allarme-bomba-decine-scuole-italia_118853087-202602k.shtml",
-      "published": "2026-11-11T13:40:00+00:00"
     },
     {
       "id": "8ee2e86ae6043c8355c8",
