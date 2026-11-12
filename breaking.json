@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T07:30:40.783656+00:00",
+  "updated_at": "2026-11-12T07:35:17.690491+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T07:30:40.783656+00:00"
+      "checked_at": "2026-11-12T07:35:17.690491+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T07:30:40.783656+00:00"
+      "checked_at": "2026-11-12T07:35:17.690491+00:00"
     }
   },
   "items": [
+    {
+      "id": "6a2f72fdfc9f4e372a9a",
+      "source": "BBC News",
+      "title": "Can Nigeria's president regain voters' trust after painful first term?",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T07:30:44+00:00"
+    },
     {
       "id": "871fd925b294f5f403e4",
       "source": "TGcom24",
@@ -94,13 +101,6 @@
       "title": "Australian teen missing in bush for six days rescued alive",
       "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-12T02:40:18+00:00"
-    },
-    {
-      "id": "6a2f72fdfc9f4e372a9a",
-      "source": "BBC News",
-      "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T00:36:11+00:00"
     },
     {
       "id": "b58f3b3bb5d7ac3f33d3",
