@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T05:15:25.889413+00:00",
+  "updated_at": "2026-11-12T05:20:22.098439+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T05:15:25.889413+00:00"
+      "checked_at": "2026-11-12T05:20:22.098439+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T05:15:25.889413+00:00"
+      "checked_at": "2026-11-12T05:20:22.098439+00:00"
     }
   },
   "items": [
+    {
+      "id": "c66457b6ca0d146ea970",
+      "source": "BBC News",
+      "title": "New York building collapse kills at least two, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T05:12:56+00:00"
+    },
     {
       "id": "5313c0d8f930be95a307",
       "source": "BBC News",
@@ -45,13 +52,6 @@
       "title": "Australian teen missing in bush for six days rescued alive",
       "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-12T02:40:18+00:00"
-    },
-    {
-      "id": "4529da20a4cfbea422de",
-      "source": "BBC News",
-      "title": "Survivor pulled from rubble of deadly building collapse in New York",
-      "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T02:33:12+00:00"
     },
     {
       "id": "6a2f72fdfc9f4e372a9a",
