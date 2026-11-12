@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T14:50:28.540796+00:00",
+  "updated_at": "2026-11-12T14:55:20.268950+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T14:50:28.540796+00:00"
+      "checked_at": "2026-11-12T14:55:20.268950+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T14:50:28.540796+00:00"
+      "checked_at": "2026-11-12T14:55:20.268950+00:00"
     }
   },
   "items": [
+    {
+      "id": "0a53e0631818db7ac549",
+      "source": "BBC News",
+      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T14:54:47+00:00"
+    },
     {
       "id": "e7d6a0554f6c20f05e50",
       "source": "BBC News",
@@ -80,13 +87,6 @@
       "title": "Delitto di Garlasco, udienza preliminare per Sempio fissata al 25 febbraio",
       "url": "https://www.tgcom24.mediaset.it/cronaca/delitto-garlasco-andrea-sempio-udienza-preliminare_118899326-202602k.shtml",
       "published": "2026-11-12T12:34:00+00:00"
-    },
-    {
-      "id": "0a53e0631818db7ac549",
-      "source": "BBC News",
-      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T12:14:51+00:00"
     },
     {
       "id": "47d3978ce0ef7e29020f",
