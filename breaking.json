@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-12T19:20:26.335072+00:00",
+  "updated_at": "2026-11-12T19:25:21.134805+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T19:20:26.335072+00:00"
+      "checked_at": "2026-11-12T19:25:21.134805+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T19:20:26.335072+00:00"
+      "checked_at": "2026-11-12T19:25:21.134805+00:00"
     }
   },
   "items": [
+    {
+      "id": "7ce223be79af976e10e6",
+      "source": "BBC News",
+      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T19:23:02+00:00"
+    },
+    {
+      "id": "4273deedbce97044a081",
+      "source": "TGcom24",
+      "title": "Problemi con i servizi Microsoft nel mondo, compreso Outlook",
+      "url": "https://www.tgcom24.mediaset.it/mondo/microsoft-down-12-novembre-2026_118910611-202602k.shtml",
+      "published": "2026-11-12T19:20:00+00:00"
+    },
     {
       "id": "b20a47de7088ed41dd8a",
       "source": "BBC News",
@@ -33,11 +47,11 @@
       "published": "2026-11-12T18:26:00+00:00"
     },
     {
-      "id": "60abae8493acc856b62e",
+      "id": "9370f09a94d632c8f735",
       "source": "TGcom24",
       "title": "Ucraina, Witkoff: \"Gli europei parteciperanno al prossimo round di colloqui\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-12novembre_118883625-202602k.shtml",
-      "published": "2026-11-12T17:53:00+00:00"
+      "published": "2026-11-12T17:55:00+00:00"
     },
     {
       "id": "05c2097bdce5d836de42",
@@ -136,13 +150,6 @@
       "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
       "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-12T12:56:55+00:00"
-    },
-    {
-      "id": "7ce223be79af976e10e6",
-      "source": "BBC News",
-      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-      "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T12:39:39+00:00"
     },
     {
       "id": "eed9be346aea5b05a9df",
@@ -297,13 +304,6 @@
       "title": "Australian teen missing in bush for six days rescued alive",
       "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-12T02:40:18+00:00"
-    },
-    {
-      "id": "b58f3b3bb5d7ac3f33d3",
-      "source": "TGcom24",
-      "title": "Ucraina, Giorgetti firma il decreto sul 13esimo pacchetto di aiuti a Kiev",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/kushner-giovedi-vedremo-putin-a-mosca-poi-zelensky-a-dublino-_118870356-02k.shtml",
-      "published": "2026-11-11T23:40:00+00:00"
     },
     {
       "id": "f0d3aa3607a8b6cc910c",
