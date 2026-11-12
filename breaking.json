@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-12T11:20:23.832286+00:00",
+  "updated_at": "2026-11-12T11:25:17.408055+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T11:20:23.832286+00:00"
+      "checked_at": "2026-11-12T11:25:17.408055+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T11:20:23.832286+00:00"
+      "checked_at": "2026-11-12T11:25:17.408055+00:00"
     }
   },
   "items": [
+    {
+      "id": "c66457b6ca0d146ea970",
+      "source": "BBC News",
+      "title": "New York building collapse kills at least two, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T11:23:41+00:00"
+    },
     {
       "id": "d18a046299fdc9fdf24d",
       "source": "TGcom24",
       "title": "Nuovi allarmi bomba nelle scuole, controlli ed evacuazioni in tutta Italia",
       "url": "https://www.tgcom24.mediaset.it/cronaca/scuola-allarme-bomba-ultime-notizie-12-novembre_118883696-202602k.shtml",
       "published": "2026-11-12T10:54:00+00:00"
-    },
-    {
-      "id": "c66457b6ca0d146ea970",
-      "source": "BBC News",
-      "title": "New York building collapse kills at least two, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T10:40:49+00:00"
     },
     {
       "id": "6674cb26e7698fa9d870",
