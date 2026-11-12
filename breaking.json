@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-12T16:55:18.930514+00:00",
+  "updated_at": "2026-11-12T17:01:00.907993+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T16:55:18.930514+00:00"
+      "checked_at": "2026-11-12T17:01:00.907993+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T16:55:18.930514+00:00"
+      "checked_at": "2026-11-12T17:01:00.907993+00:00"
     }
   },
   "items": [
@@ -17,6 +17,13 @@
       "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
       "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-12T16:54:12+00:00"
+    },
+    {
+      "id": "b20a47de7088ed41dd8a",
+      "source": "BBC News",
+      "title": "Pentagon backs war memorial guard who reprimanded Hegseth's group",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T16:52:53+00:00"
     },
     {
       "id": "c13a6835a2a6ee5dc88d",
@@ -40,6 +47,13 @@
       "published": "2026-11-12T16:05:00+00:00"
     },
     {
+      "id": "4b2a5b8368c04dda6658",
+      "source": "BBC News",
+      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T16:02:10+00:00"
+    },
+    {
       "id": "147686313c28ef31100b",
       "source": "TGcom24",
       "title": "Addio a Toni Capuozzo: il giornalista e volto di Mediaset si è spento a 77 anni",
@@ -54,13 +68,6 @@
       "published": "2026-11-12T15:18:20+00:00"
     },
     {
-      "id": "e7d6a0554f6c20f05e50",
-      "source": "BBC News",
-      "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T15:10:32+00:00"
-    },
-    {
       "id": "3f07a2caa7248a0f951a",
       "source": "TGcom24",
       "title": "Caso Nvidia, il Ceo Jensen Huang si è dimesso, al suo posto una donna",
@@ -70,9 +77,16 @@
     {
       "id": "1759f2f8d69e61945630",
       "source": "BBC News",
-      "title": "Before Scott Colom, these two men were the last black US senators in Mississippi",
+      "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
       "url": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-12T14:12:55+00:00"
+    },
+    {
+      "id": "035dcd9c8dbb63c16ca6",
+      "source": "BBC News",
+      "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
+      "url": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T13:58:49+00:00"
     },
     {
       "id": "8f3afee8b5bf0349f45d",
@@ -129,6 +143,13 @@
       "title": "Scuole, il ministero: No evacuazioni automatiche, decide il Prefetto",
       "url": "https://www.tgcom24.mediaset.it/cronaca/scuola-allarme-bomba-ultime-notizie-12-novembre_118883696-202602k.shtml",
       "published": "2026-11-12T11:31:00+00:00"
+    },
+    {
+      "id": "d5f059e6e6c405edc14a",
+      "source": "BBC News",
+      "title": "Five new miniature frog species found in eastern Himalayas",
+      "url": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T11:07:19+00:00"
     },
     {
       "id": "d18a046299fdc9fdf24d",
