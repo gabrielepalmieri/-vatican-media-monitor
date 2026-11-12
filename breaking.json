@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T06:30:40.133095+00:00",
+  "updated_at": "2026-11-12T06:35:17.309781+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T06:30:40.133095+00:00"
+      "checked_at": "2026-11-12T06:35:17.309781+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T06:30:40.133095+00:00"
+      "checked_at": "2026-11-12T06:35:17.309781+00:00"
     }
   },
   "items": [
+    {
+      "id": "e90d51c89e79a4b36a1d",
+      "source": "TGcom24",
+      "title": "Esplode l'auto di un colonnello a San Pietroburgo: morto il militare, ferito un familiare",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-12novembre_118883625-202602k.shtml",
+      "published": "2026-11-12T06:30:00+00:00"
+    },
     {
       "id": "5313c0d8f930be95a307",
       "source": "BBC News",
@@ -339,13 +346,6 @@
       "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
       "url": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-11T11:33:24+00:00"
-    },
-    {
-      "id": "b160da3c3a9a54a6fc80",
-      "source": "TGcom24",
-      "title": "Napoli, narcotizzati con zuppa di fagioli e derubati: fermata la badante",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/napoli-coppia-narcotizzata-zuppa-fagioli-fermata-badante_118851169-202602k.shtml",
-      "published": "2026-11-11T11:15:00+00:00"
     },
     {
       "id": "8de5253b286c265156a3",
