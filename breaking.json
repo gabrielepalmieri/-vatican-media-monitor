@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T17:25:18.327991+00:00",
+  "updated_at": "2026-11-12T17:30:46.486898+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T17:25:18.327991+00:00"
+      "checked_at": "2026-11-12T17:30:46.486898+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T17:25:18.327991+00:00"
+      "checked_at": "2026-11-12T17:30:46.486898+00:00"
     }
   },
   "items": [
+    {
+      "id": "05c2097bdce5d836de42",
+      "source": "TGcom24",
+      "title": "Attacchi hacker, P. Chigi: \"Procedure per riconoscere minacce per ogni settore\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/scuola-allarme-bomba-ultime-notizie-12-novembre_118883696-202602k.shtml",
+      "published": "2026-11-12T17:25:00+00:00"
+    },
     {
       "id": "4b2a5b8368c04dda6658",
       "source": "BBC News",
@@ -304,13 +311,6 @@
       "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
       "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-11T22:07:37+00:00"
-    },
-    {
-      "id": "e675b1a08abdc85b1b14",
-      "source": "TGcom24",
-      "title": "Usa, Media: \"Chiesto a Mosca di presentare un patto sicurezza con Europa\"",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/kushner-giovedi-vedremo-putin-a-mosca-poi-zelensky-a-dublino-_118870356-02k.shtml",
-      "published": "2026-11-11T22:04:00+00:00"
     },
     {
       "id": "95a4a602c83125a0fee7",
