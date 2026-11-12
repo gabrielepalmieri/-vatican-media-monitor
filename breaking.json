@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T11:35:19.232289+00:00",
+  "updated_at": "2026-11-12T11:40:22.714617+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T11:35:19.232289+00:00"
+      "checked_at": "2026-11-12T11:40:22.714617+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T11:35:19.232289+00:00"
+      "checked_at": "2026-11-12T11:40:22.714617+00:00"
     }
   },
   "items": [
+    {
+      "id": "10ef67cb0efbc253e1b8",
+      "source": "TGcom24",
+      "title": "Scuole, il ministero: \"No evacuazioni automatiche, decide il Prefetto\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/scuola-allarme-bomba-ultime-notizie-12-novembre_118883696-202602k.shtml",
+      "published": "2026-11-12T11:31:00+00:00"
+    },
     {
       "id": "c66457b6ca0d146ea970",
       "source": "BBC News",
@@ -290,13 +297,6 @@
       "title": "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
       "url": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-11T18:10:57+00:00"
-    },
-    {
-      "id": "f71b581291ad6169a27b",
-      "source": "TGcom24",
-      "title": "Femminicidio di Ramona Rinaldi, il compagno Daniele Re confessa in aula",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/femminicidio-ramona-rinaldi-daniele-re-colpevole_118870357-202602k.shtml",
-      "published": "2026-11-11T17:50:00+00:00"
     },
     {
       "id": "084e56c94ad624f489ef",
