@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-12T19:40:26.333805+00:00",
+  "updated_at": "2026-11-12T19:45:29.921661+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-12T19:40:26.333805+00:00"
+      "checked_at": "2026-11-12T19:45:29.921661+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-12T19:40:26.333805+00:00"
+      "checked_at": "2026-11-12T19:45:29.921661+00:00"
     }
   },
   "items": [
+    {
+      "id": "85e57b48337fc25a4ba7",
+      "source": "BBC News",
+      "title": "Jensen Huang has resigned, what's next for Nvidia?",
+      "url": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T19:33:37+00:00"
+    },
     {
       "id": "7ce223be79af976e10e6",
       "source": "BBC News",
@@ -374,13 +381,6 @@
       "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
       "url": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-11T12:53:11+00:00"
-    },
-    {
-      "id": "4621abd79f9a683849c7",
-      "source": "BBC News",
-      "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
-      "url": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11T11:33:24+00:00"
     },
     {
       "id": "c255059b0f570e6b494f",
