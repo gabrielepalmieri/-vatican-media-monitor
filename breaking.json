@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-13T14:20:33.420754+00:00",
+  "updated_at": "2026-11-13T14:25:19.720217+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-13T14:20:33.420754+00:00"
+      "checked_at": "2026-11-13T14:25:19.720217+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-13T14:20:33.420754+00:00"
+      "checked_at": "2026-11-13T14:25:19.720217+00:00"
     }
   },
   "items": [
+    {
+      "id": "c056727b419a0184bde1",
+      "source": "BBC News",
+      "title": "What we know about the global Microsoft outage",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T14:21:26+00:00"
+    },
     {
       "id": "309c6212c951f14dccc0",
       "source": "TGcom24",
       "title": "Mestre, Monica Busetto torna libera dopo 14 anni in carcere: non fu la killer della vicina",
       "url": "https://www.tgcom24.mediaset.it/cronaca/mestre-omicidio-monica-busetto-libera-lazzarini_118934583-202602k.shtml",
       "published": "2026-11-13T13:58:00+00:00"
-    },
-    {
-      "id": "c056727b419a0184bde1",
-      "source": "BBC News",
-      "title": "What we know about the global Microsoft outage",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T13:34:53+00:00"
     },
     {
       "id": "4be70d6850da7ab5bccd",
