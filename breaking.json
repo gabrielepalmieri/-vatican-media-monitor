@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-13T21:35:19.339329+00:00",
+  "updated_at": "2026-11-13T21:40:24.275456+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-13T21:35:19.339329+00:00"
+      "checked_at": "2026-11-13T21:40:24.275456+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-13T21:35:19.339329+00:00"
+      "checked_at": "2026-11-13T21:40:24.275456+00:00"
     }
   },
   "items": [
+    {
+      "id": "a76e073b889928fd38ed",
+      "source": "TGcom24",
+      "title": "Usa, petroliera sperona una nave da crociera nel porto di New Orleans",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-new-orleans-petroliera-incidente-battello_118950176-202602k.shtml",
+      "published": "2026-11-13T21:35:00+00:00"
+    },
     {
       "id": "6cb4db382a5d1dbf3dea",
       "source": "BBC News",
@@ -297,13 +304,6 @@
       "title": "Nvidia, media: gli 007 non sono sicuri che Alice Huang fosse una spia della Cina",
       "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-cnn-007-non-sono-sicuri-che-alice-huang-fosse-una-spia-della-cina_118920317-202602k.shtml",
       "published": "2026-11-13T06:06:00+00:00"
-    },
-    {
-      "id": "ddd82d51611a6f749784",
-      "source": "TGcom24",
-      "title": "Microsoft, le misure per risolvere falle Outlook non funzionano \"come previsto\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/microsoft-le-misure-per-risolvere-falle-outlook-non-funzionano-come-previsto-_118919342-202602k.shtml",
-      "published": "2026-11-13T05:36:00+00:00"
     },
     {
       "id": "af1d90714223b7f7b99e",
