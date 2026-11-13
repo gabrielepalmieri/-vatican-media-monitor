@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-13T14:01:02.320420+00:00",
+  "updated_at": "2026-11-13T14:05:20.588650+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-13T14:01:02.320420+00:00"
+      "checked_at": "2026-11-13T14:05:20.588650+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-13T14:01:02.320420+00:00"
+      "checked_at": "2026-11-13T14:05:20.588650+00:00"
     }
   },
   "items": [
+    {
+      "id": "309c6212c951f14dccc0",
+      "source": "TGcom24",
+      "title": "Mestre, Monica Busetto torna libera dopo 14 anni in carcere: non fu la killer della vicina",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/mestre-omicidio-monica-busetto-libera-lazzarini_118934583-202602k.shtml",
+      "published": "2026-11-13T13:58:00+00:00"
+    },
     {
       "id": "c056727b419a0184bde1",
       "source": "BBC News",
@@ -297,13 +304,6 @@
       "title": "Ucraina, Witkoff: \"Gli europei parteciperanno al prossimo round di colloqui\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-12novembre_118883625-202602k.shtml",
       "published": "2026-11-12T17:55:00+00:00"
-    },
-    {
-      "id": "05c2097bdce5d836de42",
-      "source": "TGcom24",
-      "title": "Attacchi hacker, P. Chigi: \"Procedure per riconoscere minacce per ogni settore\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/scuola-allarme-bomba-ultime-notizie-12-novembre_118883696-202602k.shtml",
-      "published": "2026-11-12T17:25:00+00:00"
     },
     {
       "id": "1759f2f8d69e61945630",
