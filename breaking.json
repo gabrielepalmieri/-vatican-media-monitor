@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-13T09:30:45.037120+00:00",
+  "updated_at": "2026-11-13T09:35:18.206735+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-13T09:30:45.037120+00:00"
+      "checked_at": "2026-11-13T09:35:18.206735+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-13T09:30:45.037120+00:00"
+      "checked_at": "2026-11-13T09:35:18.206735+00:00"
     }
   },
   "items": [
+    {
+      "id": "1c7a87f0abb990371ec5",
+      "source": "TGcom24",
+      "title": "Roma, ex alunno lascia una finta bomba a scuola: denunciato",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/roma-ex-alunno-lascia-finta-bomba-scuola_118924799-202602k.shtml",
+      "published": "2026-11-13T09:27:00+00:00"
+    },
     {
       "id": "e452376d9f47e447bf50",
       "source": "TGcom24",
@@ -297,13 +304,6 @@
       "title": "Davide Rebellin, in Appello deciso il non doversi procedere per il camionista",
       "url": "https://www.tgcom24.mediaset.it/cronaca/davide-rebellin-camionista-sentenza-appello_118896959-202602k.shtml",
       "published": "2026-11-12T11:56:00+00:00"
-    },
-    {
-      "id": "10ef67cb0efbc253e1b8",
-      "source": "TGcom24",
-      "title": "Scuole, il ministero: No evacuazioni automatiche, decide il Prefetto",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/scuola-allarme-bomba-ultime-notizie-12-novembre_118883696-202602k.shtml",
-      "published": "2026-11-12T11:31:00+00:00"
     },
     {
       "id": "d5f059e6e6c405edc14a",
