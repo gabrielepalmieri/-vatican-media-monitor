@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-13T17:40:39.363876+00:00",
+  "updated_at": "2026-11-13T17:45:31.096509+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-13T17:40:39.363876+00:00"
+      "checked_at": "2026-11-13T17:45:31.096509+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-13T17:40:39.363876+00:00"
+      "checked_at": "2026-11-13T17:45:31.096509+00:00"
     }
   },
   "items": [
+    {
+      "id": "599f19580f8b75e5e627",
+      "source": "TGcom24",
+      "title": "Chiazze di petrolio a Hormuz: è l'impatto ambientale della guerra",
+      "url": "https://www.tgcom24.mediaset.it/mondo/chiazze-petrolio-stretto-hormuz-impatto-ambientale-guerra_118943381-202602k.shtml",
+      "published": "2026-11-13T17:39:00+00:00"
+    },
     {
       "id": "c056727b419a0184bde1",
       "source": "BBC News",
@@ -311,13 +318,6 @@
       "title": "Turchia, precipita elicottero militare: quattro morti",
       "url": "https://www.tgcom24.mediaset.it/2026/video/turchia-precipita-elicottero-militare-si-cercano-superstiti_118908068-02k.shtml",
       "published": "2026-11-12T22:30:00+00:00"
-    },
-    {
-      "id": "b455a3b35ac3aa6e3db9",
-      "source": "TGcom24",
-      "title": "Caso Nvidia, media: \"Huang ha avuto una relazione con una seconda dipendente\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-jensen-huang-dimesso_118903531-202602k.shtml",
-      "published": "2026-11-12T21:08:00+00:00"
     },
     {
       "id": "b20a47de7088ed41dd8a",
