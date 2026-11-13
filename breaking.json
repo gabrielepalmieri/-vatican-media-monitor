@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-13T18:35:20.863985+00:00",
+  "updated_at": "2026-11-13T18:40:27.916612+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-13T18:35:20.863985+00:00"
+      "checked_at": "2026-11-13T18:40:27.916612+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-13T18:35:20.863985+00:00"
+      "checked_at": "2026-11-13T18:40:27.916612+00:00"
     }
   },
   "items": [
+    {
+      "id": "c056727b419a0184bde1",
+      "source": "BBC News",
+      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T18:36:57+00:00"
+    },
     {
       "id": "4ace18bf2d6bf532b0d1",
       "source": "TGcom24",
@@ -24,13 +31,6 @@
       "title": "Chiazze di petrolio a Hormuz: è l'impatto ambientale della guerra",
       "url": "https://www.tgcom24.mediaset.it/mondo/chiazze-petrolio-stretto-hormuz-impatto-ambientale-guerra_118943381-202602k.shtml",
       "published": "2026-11-13T17:39:00+00:00"
-    },
-    {
-      "id": "c056727b419a0184bde1",
-      "source": "BBC News",
-      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T17:12:46+00:00"
     },
     {
       "id": "8d0bdffbeb0bfa498a15",
