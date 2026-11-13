@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-13T20:01:07.993100+00:00",
+  "updated_at": "2026-11-13T20:05:18.586531+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-13T20:01:07.993100+00:00"
+      "checked_at": "2026-11-13T20:05:18.586531+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-13T20:01:07.993100+00:00"
+      "checked_at": "2026-11-13T20:05:18.586531+00:00"
     }
   },
   "items": [
+    {
+      "id": "b4053329b3f5e834bcf9",
+      "source": "TGcom24",
+      "title": "Maltempo, frana in collina a Pistoia: isolate 50 persone",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/maltempo-frana-collina-pistoia-isolati_118948820-202602k.shtml",
+      "published": "2026-11-13T20:00:00+00:00"
+    },
     {
       "id": "b2f44bd2318e0aeaf6d3",
       "source": "BBC News",
@@ -325,13 +332,6 @@
       "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
       "url": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-12T23:42:52+00:00"
-    },
-    {
-      "id": "d5a94c201d87252fd3b7",
-      "source": "TGcom24",
-      "title": "Trump: \"Vance non si occuperà più dell'Iran, non abbiamo bisogno di un accordo\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/trump-vance-non-si-occupera-piu-di-iran_118917395-202602k.shtml",
-      "published": "2026-11-12T23:00:00+00:00"
     },
     {
       "id": "1759f2f8d69e61945630",
