@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-13T12:45:30.529666+00:00",
+  "updated_at": "2026-11-13T12:50:25.529192+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-13T12:45:30.529666+00:00"
+      "checked_at": "2026-11-13T12:50:25.529192+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-13T12:45:30.529666+00:00"
+      "checked_at": "2026-11-13T12:50:25.529192+00:00"
     }
   },
   "items": [
@@ -19,6 +19,13 @@
       "published": "2026-11-13T12:31:49+00:00"
     },
     {
+      "id": "3787c09ae5addda49ced",
+      "source": "BBC News",
+      "title": "UN watchdog 'increasingly concerned' over Iran nuclear site",
+      "url": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T12:28:28+00:00"
+    },
+    {
       "id": "01c41f26a419d991b624",
       "source": "TGcom24",
       "title": "Famiglia nel bosco, Pillon: \"Rigettato il ricorso, i bimbi non tornano a casa\"",
@@ -26,11 +33,32 @@
       "published": "2026-11-13T12:25:00+00:00"
     },
     {
+      "id": "71649a1973eea59b88c7",
+      "source": "BBC News",
+      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+      "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T12:22:30+00:00"
+    },
+    {
       "id": "daf32e965b9f460d6183",
       "source": "TGcom24",
       "title": "Femminicidio Manuela Petrangeli, confermato l'ergastolo in Appello a Gianluca Molinaro",
       "url": "https://www.tgcom24.mediaset.it/cronaca/roma-uccise-ex-fucilate-ergastolo_118930998-202602k.shtml",
       "published": "2026-11-13T11:54:00+00:00"
+    },
+    {
+      "id": "0db31c1e764f2c8e5692",
+      "source": "BBC News",
+      "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
+      "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T11:43:27+00:00"
+    },
+    {
+      "id": "b380c503063a52994b5f",
+      "source": "BBC News",
+      "title": "Nigerian university in mourning after four students die at post-exam party",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T11:37:08+00:00"
     },
     {
       "id": "b1f75ce044a0ea122730",
@@ -96,13 +124,6 @@
       "published": "2026-11-13T07:37:00+00:00"
     },
     {
-      "id": "3c26468bdfeb29d448e2",
-      "source": "BBC News",
-      "title": "Watch: How Microsoft services went down around the world",
-      "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T07:18:17+00:00"
-    },
-    {
       "id": "18b5e4842de056b28e48",
       "source": "BBC News",
       "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
@@ -115,6 +136,13 @@
       "title": "Roma, si toglie la vita a 15 anni: procura indaga per istigazione al suicidio",
       "url": "https://www.tgcom24.mediaset.it/cronaca/roma-15enne-morta-indagine-istigazione-suicidio_118920560-202602k.shtml",
       "published": "2026-11-13T06:41:00+00:00"
+    },
+    {
+      "id": "dbd30684fffe3e0e1ea3",
+      "source": "BBC News",
+      "title": "Whatever happened to the $300,000 diamond that went missing in F1 crash?",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T06:12:20+00:00"
     },
     {
       "id": "c1c3b610ad0d9f118a13",
@@ -173,6 +201,13 @@
       "published": "2026-11-13T02:01:35+00:00"
     },
     {
+      "id": "68e373e5ca2abaa24b45",
+      "source": "BBC News",
+      "title": "Why midterm vote-counting is taking so long in America's largest state",
+      "url": "https://www.bbc.co.uk/news/articles/cqly4ljvr4pjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T00:35:05+00:00"
+    },
+    {
       "id": "767516f5ee06222c93a8",
       "source": "BBC News",
       "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
@@ -222,20 +257,6 @@
       "published": "2026-11-12T20:09:00+00:00"
     },
     {
-      "id": "85e57b48337fc25a4ba7",
-      "source": "BBC News",
-      "title": "Jensen Huang has resigned, what's next for Nvidia?",
-      "url": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T19:33:37+00:00"
-    },
-    {
-      "id": "7ce223be79af976e10e6",
-      "source": "BBC News",
-      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-      "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T19:23:02+00:00"
-    },
-    {
       "id": "4273deedbce97044a081",
       "source": "TGcom24",
       "title": "Problemi con i servizi Microsoft nel mondo, compreso Outlook",
@@ -269,13 +290,6 @@
       "title": "Attacchi hacker, P. Chigi: \"Procedure per riconoscere minacce per ogni settore\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/scuola-allarme-bomba-ultime-notizie-12-novembre_118883696-202602k.shtml",
       "published": "2026-11-12T17:25:00+00:00"
-    },
-    {
-      "id": "4b2a5b8368c04dda6658",
-      "source": "BBC News",
-      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T17:11:48+00:00"
     },
     {
       "id": "c13a6835a2a6ee5dc88d",
