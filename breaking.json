@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-13T02:00:57.070365+00:00",
+  "updated_at": "2026-11-13T02:05:17.902449+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-13T02:00:57.070365+00:00"
+      "checked_at": "2026-11-13T02:05:17.902449+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-13T02:00:57.070365+00:00"
+      "checked_at": "2026-11-13T02:05:17.902449+00:00"
     }
   },
   "items": [
+    {
+      "id": "acbe11f422e7236b0e4e",
+      "source": "BBC News",
+      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T02:01:35+00:00"
+    },
     {
       "id": "b99d02cbf46db1bd16bd",
       "source": "BBC News",
@@ -66,13 +73,6 @@
       "title": "Caso Nvidia, media: \"Huang ha avuto una relazione con una seconda dipendente\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-jensen-huang-dimesso_118903531-202602k.shtml",
       "published": "2026-11-12T21:08:00+00:00"
-    },
-    {
-      "id": "0a53e0631818db7ac549",
-      "source": "BBC News",
-      "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T21:00:42+00:00"
     },
     {
       "id": "c7d7403e6ea504c68289",
