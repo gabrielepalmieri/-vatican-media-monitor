@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-13T09:55:19.057662+00:00",
+  "updated_at": "2026-11-13T10:00:58.647510+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-13T09:55:19.057662+00:00"
+      "checked_at": "2026-11-13T10:00:58.647510+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-13T09:55:19.057662+00:00"
+      "checked_at": "2026-11-13T10:00:58.647510+00:00"
     }
   },
   "items": [
+    {
+      "id": "c056727b419a0184bde1",
+      "source": "BBC News",
+      "title": "What we know about the global Microsoft outage",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T09:59:20+00:00"
+    },
     {
       "id": "1c7a87f0abb990371ec5",
       "source": "TGcom24",
@@ -26,6 +33,13 @@
       "published": "2026-11-13T08:46:00+00:00"
     },
     {
+      "id": "19097d3ec973b62d9db5",
+      "source": "BBC News",
+      "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
+      "url": "https://www.bbc.co.uk/news/articles/c6702z750zvyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T08:20:28+00:00"
+    },
+    {
       "id": "7dfddd58d17500ab80ba",
       "source": "TGcom24",
       "title": "Outlook down, Microsoft: \"Nessuna attività malevola alla base del disservizio\"",
@@ -38,6 +52,20 @@
       "title": "Russia, agenti di sicurezza sventano attentato in un centro commerciale: un arresto",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-13-novembre_118919337-202602k.shtml",
       "published": "2026-11-13T07:37:00+00:00"
+    },
+    {
+      "id": "3c26468bdfeb29d448e2",
+      "source": "BBC News",
+      "title": "Watch: How Microsoft services went down around the world",
+      "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T07:18:17+00:00"
+    },
+    {
+      "id": "18b5e4842de056b28e48",
+      "source": "BBC News",
+      "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+      "url": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T07:01:43+00:00"
     },
     {
       "id": "beb88e7379c47087eb13",
@@ -89,6 +117,13 @@
       "published": "2026-11-13T02:48:29+00:00"
     },
     {
+      "id": "c5e8b5b517a72aca73f6",
+      "source": "BBC News",
+      "title": "Will the Eurovision Song Contest succeed in Asia?",
+      "url": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T02:24:11+00:00"
+    },
+    {
       "id": "acbe11f422e7236b0e4e",
       "source": "BBC News",
       "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
@@ -122,13 +157,6 @@
       "title": "Turchia, precipita elicottero militare: quattro morti",
       "url": "https://www.tgcom24.mediaset.it/2026/video/turchia-precipita-elicottero-militare-si-cercano-superstiti_118908068-02k.shtml",
       "published": "2026-11-12T22:30:00+00:00"
-    },
-    {
-      "id": "9859e53e3a2c99a59af2",
-      "source": "BBC News",
-      "title": "Search for British woman missing from Tui cruise in Atlantic called off",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T21:27:21+00:00"
     },
     {
       "id": "b455a3b35ac3aa6e3db9",
@@ -208,13 +236,6 @@
       "published": "2026-11-12T17:11:48+00:00"
     },
     {
-      "id": "5313c0d8f930be95a307",
-      "source": "BBC News",
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T16:54:12+00:00"
-    },
-    {
       "id": "c13a6835a2a6ee5dc88d",
       "source": "TGcom24",
       "title": "Allarmi bomba nelle scuole, Meloni: \"Con opposizioni colloquio costruttivo\"",
@@ -236,13 +257,6 @@
       "published": "2026-11-12T15:22:00+00:00"
     },
     {
-      "id": "bee9026aa5f578dbcf29",
-      "source": "BBC News",
-      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
-      "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T15:18:20+00:00"
-    },
-    {
       "id": "3f07a2caa7248a0f951a",
       "source": "TGcom24",
       "title": "Caso Nvidia, il Ceo Jensen Huang si è dimesso, al suo posto una donna",
@@ -255,13 +269,6 @@
       "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
       "url": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-12T14:12:55+00:00"
-    },
-    {
-      "id": "035dcd9c8dbb63c16ca6",
-      "source": "BBC News",
-      "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
-      "url": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T13:58:49+00:00"
     },
     {
       "id": "8f3afee8b5bf0349f45d",
@@ -285,13 +292,6 @@
       "published": "2026-11-12T13:02:46+00:00"
     },
     {
-      "id": "e6b3a5a204c5342059f0",
-      "source": "BBC News",
-      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T12:56:55+00:00"
-    },
-    {
       "id": "eed9be346aea5b05a9df",
       "source": "TGcom24",
       "title": "Delitto di Garlasco, udienza preliminare per Sempio fissata al 25 febbraio",
@@ -304,48 +304,6 @@
       "title": "Davide Rebellin, in Appello deciso il non doversi procedere per il camionista",
       "url": "https://www.tgcom24.mediaset.it/cronaca/davide-rebellin-camionista-sentenza-appello_118896959-202602k.shtml",
       "published": "2026-11-12T11:56:00+00:00"
-    },
-    {
-      "id": "d5f059e6e6c405edc14a",
-      "source": "BBC News",
-      "title": "Five new miniature frog species found in eastern Himalayas",
-      "url": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T11:07:19+00:00"
-    },
-    {
-      "id": "7215252efeaeca134eb6",
-      "source": "BBC News",
-      "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T08:46:57+00:00"
-    },
-    {
-      "id": "e72a8cce2043ecb2251d",
-      "source": "BBC News",
-      "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
-      "url": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T07:45:52+00:00"
-    },
-    {
-      "id": "d0eeea137a6c15805f33",
-      "source": "BBC News",
-      "title": "Famed ship SS United States deliberately sunk off Florida coast to become a reef",
-      "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T04:03:13+00:00"
-    },
-    {
-      "id": "f4141912ba8a2518ba3a",
-      "source": "BBC News",
-      "title": "Australian teen missing in bush for six days rescued alive",
-      "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T02:40:18+00:00"
-    },
-    {
-      "id": "f0d3aa3607a8b6cc910c",
-      "source": "BBC News",
-      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11T22:07:37+00:00"
     }
   ]
 }
