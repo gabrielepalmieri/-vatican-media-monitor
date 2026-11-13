@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-13T10:30:44.857758+00:00",
+  "updated_at": "2026-11-13T10:35:19.284811+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-13T10:30:44.857758+00:00"
+      "checked_at": "2026-11-13T10:35:19.284811+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-13T10:30:44.857758+00:00"
+      "checked_at": "2026-11-13T10:35:19.284811+00:00"
     }
   },
   "items": [
+    {
+      "id": "5820a1e841812affa1d5",
+      "source": "TGcom24",
+      "title": "Down servizi Microsoft, colpiti governi e aziende in tutto il mondo",
+      "url": "https://www.tgcom24.mediaset.it/mondo/microsoft-le-misure-per-risolvere-falle-outlook-non-funzionano-come-previsto-_118919342-202602k.shtml",
+      "published": "2026-11-13T10:30:00+00:00"
+    },
     {
       "id": "49b4e340dda904d79726",
       "source": "TGcom24",
@@ -297,13 +304,6 @@
       "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
       "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-12T13:02:46+00:00"
-    },
-    {
-      "id": "eed9be346aea5b05a9df",
-      "source": "TGcom24",
-      "title": "Delitto di Garlasco, udienza preliminare per Sempio fissata al 25 febbraio",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/delitto-garlasco-andrea-sempio-udienza-preliminare_118899326-202602k.shtml",
-      "published": "2026-11-12T12:34:00+00:00"
     }
   ]
 }
