@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-13T08:45:28.354939+00:00",
+  "updated_at": "2026-11-13T08:50:28.337987+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-13T08:45:28.354939+00:00"
+      "checked_at": "2026-11-13T08:50:28.337987+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-13T08:45:28.354939+00:00"
+      "checked_at": "2026-11-13T08:50:28.337987+00:00"
     }
   },
   "items": [
+    {
+      "id": "e452376d9f47e447bf50",
+      "source": "TGcom24",
+      "title": "Argentina, arrestati due presunti complici nella fuga dell'ex Br Bertulazzi",
+      "url": "https://www.tgcom24.mediaset.it/mondo/argentina-arrestati-presunti-complici-bertulazzi_118923347-202602k.shtml",
+      "published": "2026-11-13T08:46:00+00:00"
+    },
     {
       "id": "7dfddd58d17500ab80ba",
       "source": "TGcom24",
@@ -304,13 +311,6 @@
       "title": "Five new miniature frog species found in eastern Himalayas",
       "url": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-12T11:07:19+00:00"
-    },
-    {
-      "id": "d18a046299fdc9fdf24d",
-      "source": "TGcom24",
-      "title": "Nuovi allarmi bomba nelle scuole, controlli ed evacuazioni in tutta Italia",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/scuola-allarme-bomba-ultime-notizie-12-novembre_118883696-202602k.shtml",
-      "published": "2026-11-12T10:54:00+00:00"
     },
     {
       "id": "7215252efeaeca134eb6",
