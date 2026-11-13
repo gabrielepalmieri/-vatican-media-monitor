@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-13T23:01:01.596292+00:00",
+  "updated_at": "2026-11-13T23:05:18.193360+00:00",
   "sources": {
     "TGcom24": {
-      "ok": false,
-      "checked_at": "2026-11-13T23:01:01.596292+00:00"
+      "ok": true,
+      "checked_at": "2026-11-13T23:05:18.193360+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-13T23:01:01.596292+00:00"
+      "checked_at": "2026-11-13T23:05:18.193360+00:00"
     }
   },
   "items": [
+    {
+      "id": "949a4fb8bba24a0b661d",
+      "source": "TGcom24",
+      "title": "S&P conferma i rating BBB+/A-2 sull'Italia",
+      "url": "https://www.tgcom24.mediaset.it/economia/s-p-conferma-rating-bbb-a-2-italia_118954527-202602k.shtml",
+      "published": "2026-11-13T23:02:00+00:00"
+    },
+    {
+      "id": "4b1bfe7090e57275a89e",
+      "source": "BBC News",
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T23:00:31+00:00"
+    },
     {
       "id": "13783c2f177336402a05",
       "source": "TGcom24",
@@ -292,13 +306,6 @@
       "published": "2026-11-13T07:01:43+00:00"
     },
     {
-      "id": "beb88e7379c47087eb13",
-      "source": "TGcom24",
-      "title": "Roma, si toglie la vita a 15 anni: procura indaga per istigazione al suicidio",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/roma-15enne-morta-indagine-istigazione-suicidio_118920560-202602k.shtml",
-      "published": "2026-11-13T06:41:00+00:00"
-    },
-    {
       "id": "dbd30684fffe3e0e1ea3",
       "source": "BBC News",
       "title": "Whatever happened to the $300,000 diamond that went missing in F1 crash?",
@@ -339,13 +346,6 @@
       "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
       "url": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-12T23:42:52+00:00"
-    },
-    {
-      "id": "1759f2f8d69e61945630",
-      "source": "BBC News",
-      "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T14:12:55+00:00"
     },
     {
       "id": "8ff6629bf7c13803da96",
