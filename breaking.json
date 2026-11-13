@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-13T12:30:44.880010+00:00",
+  "updated_at": "2026-11-13T12:35:20.106735+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-13T12:30:44.880010+00:00"
+      "checked_at": "2026-11-13T12:35:20.106735+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-13T12:30:44.880010+00:00"
+      "checked_at": "2026-11-13T12:35:20.106735+00:00"
     }
   },
   "items": [
+    {
+      "id": "c056727b419a0184bde1",
+      "source": "BBC News",
+      "title": "What we know about the global Microsoft outage",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T12:31:49+00:00"
+    },
     {
       "id": "01c41f26a419d991b624",
       "source": "TGcom24",
       "title": "Famiglia nel bosco, Pillon: \"Rigettato il ricorso, i bimbi non tornano a casa\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/famiglia-del-bosco-rigettato-ricorso_118931166-202602k.shtml",
       "published": "2026-11-13T12:25:00+00:00"
-    },
-    {
-      "id": "c056727b419a0184bde1",
-      "source": "BBC News",
-      "title": "What we know about the global Microsoft outage",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T12:09:57+00:00"
     },
     {
       "id": "daf32e965b9f460d6183",
