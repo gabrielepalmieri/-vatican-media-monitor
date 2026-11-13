@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-13T22:55:18.587180+00:00",
+  "updated_at": "2026-11-13T23:01:01.596292+00:00",
   "sources": {
     "TGcom24": {
-      "ok": true,
-      "checked_at": "2026-11-13T22:55:18.587180+00:00"
+      "ok": false,
+      "checked_at": "2026-11-13T23:01:01.596292+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-13T22:55:18.587180+00:00"
+      "checked_at": "2026-11-13T23:01:01.596292+00:00"
     }
   },
   "items": [
@@ -38,6 +38,13 @@
       "title": "Dublino, ordigno funzionante disinnescato durante vertice dei leader Ue",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-13-novembre_118919337-202602k.shtml",
       "published": "2026-11-13T20:50:00+00:00"
+    },
+    {
+      "id": "d02b348ec4ad16c76cc4",
+      "source": "BBC News",
+      "title": "SpaceX to attempt double catch of huge Starship rocket",
+      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T20:12:02+00:00"
     },
     {
       "id": "b4053329b3f5e834bcf9",
@@ -213,13 +220,6 @@
       "title": "Rosalía scoops historic third best album award at Latin Grammys",
       "url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-13T11:38:54+00:00"
-    },
-    {
-      "id": "b380c503063a52994b5f",
-      "source": "BBC News",
-      "title": "Nigerian university in mourning after four students die at post-exam party",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T11:37:08+00:00"
     },
     {
       "id": "b1f75ce044a0ea122730",
