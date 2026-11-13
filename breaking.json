@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-11-13T17:10:28.251048+00:00",
+  "updated_at": "2026-11-13T17:15:32.335704+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-13T17:10:28.251048+00:00"
+      "checked_at": "2026-11-13T17:15:32.335704+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-13T17:10:28.251048+00:00"
+      "checked_at": "2026-11-13T17:15:32.335704+00:00"
     }
   },
   "items": [
+    {
+      "id": "c056727b419a0184bde1",
+      "source": "BBC News",
+      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T17:12:46+00:00"
+    },
     {
       "id": "8d0bdffbeb0bfa498a15",
       "source": "TGcom24",
       "title": "Usa, media: \"Vance valuta di non candidarsi alla presidenza nel 2028\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-jd-vance-candidatura-presidenza-2028_118941987-202602k.shtml",
       "published": "2026-11-13T16:45:00+00:00"
+    },
+    {
+      "id": "7983d78e620ca6d97244",
+      "source": "BBC News",
+      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T16:40:31+00:00"
     },
     {
       "id": "7e4ac66ad2cc125cf0a8",
@@ -26,6 +40,20 @@
       "published": "2026-11-13T16:13:00+00:00"
     },
     {
+      "id": "852465f359ec602975b8",
+      "source": "BBC News",
+      "title": "Democratic Senate leader Schumer set to face leadership challenge",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T15:48:07+00:00"
+    },
+    {
+      "id": "b2f44bd2318e0aeaf6d3",
+      "source": "BBC News",
+      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T15:40:08+00:00"
+    },
+    {
       "id": "5b2ad2d6c643a4447f6f",
       "source": "TGcom24",
       "title": "Ucraina, Bild: \"Mosca chiede Finlandia fuori da Nato\", ma il Cremlino smentisce",
@@ -33,18 +61,25 @@
       "published": "2026-11-13T15:40:00+00:00"
     },
     {
+      "id": "e3829c28074e4a94804c",
+      "source": "BBC News",
+      "title": "At least 24 killed after bus collides with truck in north-east India",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T15:16:50+00:00"
+    },
+    {
+      "id": "eee1c8c2e3629902b249",
+      "source": "BBC News",
+      "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
+      "url": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T15:09:40+00:00"
+    },
+    {
       "id": "756b8235815612ad258c",
       "source": "TGcom24",
       "title": "Mantovano: \"La cyber sicurezza è un investimento, non possiamo perdere tempo\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/allarmi-bomba-direttiva-viminale_118935425-202602k.shtml",
       "published": "2026-11-13T14:50:00+00:00"
-    },
-    {
-      "id": "c056727b419a0184bde1",
-      "source": "BBC News",
-      "title": "Why is the Microsoft outage lasting so long?",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T14:21:26+00:00"
     },
     {
       "id": "309c6212c951f14dccc0",
@@ -101,6 +136,13 @@
       "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
       "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-13T11:43:27+00:00"
+    },
+    {
+      "id": "3c2039fbe4d800ce42ee",
+      "source": "BBC News",
+      "title": "Rosalía scoops historic third best album award at Latin Grammys",
+      "url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T11:38:54+00:00"
     },
     {
       "id": "b380c503063a52994b5f",
@@ -215,20 +257,6 @@
       "published": "2026-11-13T05:09:00+00:00"
     },
     {
-      "id": "2c63ddc5dfeaf6c9820b",
-      "source": "BBC News",
-      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T03:57:01+00:00"
-    },
-    {
-      "id": "b99d02cbf46db1bd16bd",
-      "source": "BBC News",
-      "title": "Australian footballers will not be charged after hotel incident, police say",
-      "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T03:02:54+00:00"
-    },
-    {
       "id": "af1d90714223b7f7b99e",
       "source": "BBC News",
       "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
@@ -241,13 +269,6 @@
       "title": "Will the Eurovision Song Contest succeed in Asia?",
       "url": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-13T02:24:11+00:00"
-    },
-    {
-      "id": "acbe11f422e7236b0e4e",
-      "source": "BBC News",
-      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-      "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T02:01:35+00:00"
     },
     {
       "id": "68e373e5ca2abaa24b45",
@@ -290,13 +311,6 @@
       "title": "Caso Nvidia, media: \"Huang ha avuto una relazione con una seconda dipendente\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-jensen-huang-dimesso_118903531-202602k.shtml",
       "published": "2026-11-12T21:08:00+00:00"
-    },
-    {
-      "id": "c7d7403e6ea504c68289",
-      "source": "BBC News",
-      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-      "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T20:09:16+00:00"
     },
     {
       "id": "b20a47de7088ed41dd8a",
