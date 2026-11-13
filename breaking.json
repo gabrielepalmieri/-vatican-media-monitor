@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-13T06:05:18.120770+00:00",
+  "updated_at": "2026-11-13T06:10:28.131420+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-13T06:05:18.120770+00:00"
+      "checked_at": "2026-11-13T06:10:28.131420+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-13T06:05:18.120770+00:00"
+      "checked_at": "2026-11-13T06:10:28.131420+00:00"
     }
   },
   "items": [
+    {
+      "id": "c1c3b610ad0d9f118a13",
+      "source": "TGcom24",
+      "title": "Nvidia, media: gli 007 non sono sicuri che Alice Huang fosse una spia della Cina",
+      "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-cnn-007-non-sono-sicuri-che-alice-huang-fosse-una-spia-della-cina_118920317-202602k.shtml",
+      "published": "2026-11-13T06:06:00+00:00"
+    },
     {
       "id": "ddd82d51611a6f749784",
       "source": "TGcom24",
@@ -304,13 +311,6 @@
       "title": "Francia, allarme bomba alla stazione ferroviaria di Calais: traffico bloccato",
       "url": "https://www.tgcom24.mediaset.it/mondo/francia-allarme-bomba-stazione-calais_118889011-202602k.shtml",
       "published": "2026-11-12T09:12:00+00:00"
-    },
-    {
-      "id": "f18c493e65e0dd7135f9",
-      "source": "TGcom24",
-      "title": "Presidenza Ue: \"Escalation di Mosca non interrompa sostegno all'Ucraina\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-12novembre_118883625-202602k.shtml",
-      "published": "2026-11-12T08:49:00+00:00"
     },
     {
       "id": "7215252efeaeca134eb6",
