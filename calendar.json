@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-12T13:43:37.620108+00:00",
+  "updated_at": "2026-11-13T02:36:07.254128+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-11-12T13:43:37.620108+00:00",
+  "un_verified_at": "2026-11-13T02:36:07.254128+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,21 +1918,6 @@
     }
   ],
   "days": {
-    "2026-11-11": {
-      "saints": [
-        {
-          "title": "San Martino, vescovo di Tours",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/11/san-martino--vescovo-di-tours.html"
-        },
-        {
-          "title": "San Bartolomeo, abate di Grottaferrata",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/11/san-bartolomeo--abate-di-grottaferrata.html"
-        }
-      ],
-      "un": [],
-      "un_available": true,
-      "holy_see": []
-    },
     "2026-11-12": {
       "saints": [
         {
@@ -2661,6 +2646,30 @@
         }
       ],
       "un": [],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-12-18": {
+      "saints": [
+        {
+          "title": "San Malachia, profeta",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/18.html"
+        },
+        {
+          "title": "San Gaziano, vescovo di Tours",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/18/san-gaziano--vescovo-di-tours.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata internazionale dei migranti",
+          "url": "https://www.un.org/en/observances/migrants-day"
+        },
+        {
+          "title": "Giornata della lingua araba",
+          "url": "https://www.unesco.org/en/days/world-arabic-language"
+        }
+      ],
       "un_available": true,
       "holy_see": []
     }
