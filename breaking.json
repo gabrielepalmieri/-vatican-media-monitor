@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-13T16:15:39.938643+00:00",
+  "updated_at": "2026-11-13T16:20:27.178480+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-13T16:15:39.938643+00:00"
+      "checked_at": "2026-11-13T16:20:27.178480+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-13T16:15:39.938643+00:00"
+      "checked_at": "2026-11-13T16:20:27.178480+00:00"
     }
   },
   "items": [
+    {
+      "id": "7e4ac66ad2cc125cf0a8",
+      "source": "TGcom24",
+      "title": "Francia, 70mila agenti pronti per le proteste di sabato 14 novembre",
+      "url": "https://www.tgcom24.mediaset.it/mondo/francia-nuovo-sabato-proteste-carovita-parigi-agenti_118941631-202602k.shtml",
+      "published": "2026-11-13T16:13:00+00:00"
+    },
     {
       "id": "5b2ad2d6c643a4447f6f",
       "source": "TGcom24",
@@ -290,13 +297,6 @@
       "title": "Ucraina, Cremlino: \"Concordata una nuova operazione umanitaria a Kostyantynivka\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-12novembre_118883625-202602k.shtml",
       "published": "2026-11-12T20:09:00+00:00"
-    },
-    {
-      "id": "4273deedbce97044a081",
-      "source": "TGcom24",
-      "title": "Problemi con i servizi Microsoft nel mondo, compreso Outlook",
-      "url": "https://www.tgcom24.mediaset.it/mondo/microsoft-down-12-novembre-2026_118910611-202602k.shtml",
-      "published": "2026-11-12T19:20:00+00:00"
     },
     {
       "id": "b20a47de7088ed41dd8a",
