@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-13T19:05:29.292042+00:00",
+  "updated_at": "2026-11-13T19:10:25.827863+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-13T19:05:29.292042+00:00"
+      "checked_at": "2026-11-13T19:10:25.827863+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-13T19:05:29.292042+00:00"
+      "checked_at": "2026-11-13T19:10:25.827863+00:00"
     }
   },
   "items": [
+    {
+      "id": "9cb9896249b336d35763",
+      "source": "TGcom24",
+      "title": "Meloni: \"Salta la misura sulla scuola in manovra, ma non erano tagli\"",
+      "url": "https://www.tgcom24.mediaset.it/politica/meloni-salta-misura-scuola-manovra-non-erano-tagli_118946082-202602k.shtml",
+      "published": "2026-11-13T19:05:00+00:00"
+    },
     {
       "id": "852465f359ec602975b8",
       "source": "BBC News",
@@ -325,13 +332,6 @@
       "title": "Trump: \"Vance non si occuperà più dell'Iran, non abbiamo bisogno di un accordo\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/trump-vance-non-si-occupera-piu-di-iran_118917395-202602k.shtml",
       "published": "2026-11-12T23:00:00+00:00"
-    },
-    {
-      "id": "c0cf0b082536a0872c3f",
-      "source": "TGcom24",
-      "title": "Turchia, precipita elicottero militare: quattro morti",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/turchia-precipita-elicottero-militare-si-cercano-superstiti_118908068-02k.shtml",
-      "published": "2026-11-12T22:30:00+00:00"
     },
     {
       "id": "1759f2f8d69e61945630",
