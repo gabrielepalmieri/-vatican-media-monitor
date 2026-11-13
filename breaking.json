@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-13T10:00:58.647510+00:00",
+  "updated_at": "2026-11-13T10:05:19.748806+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-13T10:00:58.647510+00:00"
+      "checked_at": "2026-11-13T10:05:19.748806+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-13T10:00:58.647510+00:00"
+      "checked_at": "2026-11-13T10:05:19.748806+00:00"
     }
   },
   "items": [
+    {
+      "id": "49b4e340dda904d79726",
+      "source": "TGcom24",
+      "title": "Ue: \"Decidere presto chi rappresenterà l'Europa ai negoziati sull'Ucraina\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-13-novembre_118919337-202602k.shtml",
+      "published": "2026-11-13T10:02:00+00:00"
+    },
     {
       "id": "c056727b419a0184bde1",
       "source": "BBC News",
@@ -297,13 +304,6 @@
       "title": "Delitto di Garlasco, udienza preliminare per Sempio fissata al 25 febbraio",
       "url": "https://www.tgcom24.mediaset.it/cronaca/delitto-garlasco-andrea-sempio-udienza-preliminare_118899326-202602k.shtml",
       "published": "2026-11-12T12:34:00+00:00"
-    },
-    {
-      "id": "47d3978ce0ef7e29020f",
-      "source": "TGcom24",
-      "title": "Davide Rebellin, in Appello deciso il non doversi procedere per il camionista",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/davide-rebellin-camionista-sentenza-appello_118896959-202602k.shtml",
-      "published": "2026-11-12T11:56:00+00:00"
     }
   ]
 }
