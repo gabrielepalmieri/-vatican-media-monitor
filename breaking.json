@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-13T06:40:24.665991+00:00",
+  "updated_at": "2026-11-13T06:45:28.645340+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-13T06:40:24.665991+00:00"
+      "checked_at": "2026-11-13T06:45:28.645340+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-13T06:40:24.665991+00:00"
+      "checked_at": "2026-11-13T06:45:28.645340+00:00"
     }
   },
   "items": [
+    {
+      "id": "beb88e7379c47087eb13",
+      "source": "TGcom24",
+      "title": "Roma, si toglie la vita a 15 anni: procura indaga per istigazione al suicidio",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/roma-15enne-morta-indagine-istigazione-suicidio_118920560-202602k.shtml",
+      "published": "2026-11-13T06:41:00+00:00"
+    },
     {
       "id": "c1c3b610ad0d9f118a13",
       "source": "TGcom24",
@@ -304,13 +311,6 @@
       "title": "Allarmi bomba nelle scuole, Conte: \"Servono protocolli, noi disponibili\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/scuola-allarme-bomba-ultime-notizie-12-novembre_118883696-202602k.shtml",
       "published": "2026-11-12T10:03:00+00:00"
-    },
-    {
-      "id": "eb0b9cbf2bc5e24c49a4",
-      "source": "TGcom24",
-      "title": "Francia, allarme bomba alla stazione ferroviaria di Calais: traffico bloccato",
-      "url": "https://www.tgcom24.mediaset.it/mondo/francia-allarme-bomba-stazione-calais_118889011-202602k.shtml",
-      "published": "2026-11-12T09:12:00+00:00"
     },
     {
       "id": "7215252efeaeca134eb6",
