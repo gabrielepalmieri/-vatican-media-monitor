@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-13T10:50:24.290204+00:00",
+  "updated_at": "2026-11-13T10:55:18.471749+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-13T10:50:24.290204+00:00"
+      "checked_at": "2026-11-13T10:55:18.471749+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-13T10:50:24.290204+00:00"
+      "checked_at": "2026-11-13T10:55:18.471749+00:00"
     }
   },
   "items": [
+    {
+      "id": "c056727b419a0184bde1",
+      "source": "BBC News",
+      "title": "What we know about the global Microsoft outage",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T10:53:40+00:00"
+    },
     {
       "id": "5820a1e841812affa1d5",
       "source": "TGcom24",
@@ -24,13 +31,6 @@
       "title": "Ue: \"Decidere presto chi rappresenterà l'Europa ai negoziati sull'Ucraina\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-13-novembre_118919337-202602k.shtml",
       "published": "2026-11-13T10:02:00+00:00"
-    },
-    {
-      "id": "c056727b419a0184bde1",
-      "source": "BBC News",
-      "title": "What we know about the global Microsoft outage",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T09:59:20+00:00"
     },
     {
       "id": "1c7a87f0abb990371ec5",
