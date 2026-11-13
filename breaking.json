@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-13T02:35:18.490127+00:00",
+  "updated_at": "2026-11-13T02:40:26.313963+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-13T02:35:18.490127+00:00"
+      "checked_at": "2026-11-13T02:40:26.313963+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-13T02:35:18.490127+00:00"
+      "checked_at": "2026-11-13T02:40:26.313963+00:00"
     }
   },
   "items": [
+    {
+      "id": "2c63ddc5dfeaf6c9820b",
+      "source": "BBC News",
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T02:39:00+00:00"
+    },
     {
       "id": "b99d02cbf46db1bd16bd",
       "source": "BBC News",
@@ -38,13 +45,6 @@
       "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
       "url": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-12T23:42:52+00:00"
-    },
-    {
-      "id": "2c63ddc5dfeaf6c9820b",
-      "source": "BBC News",
-      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T23:34:05+00:00"
     },
     {
       "id": "d5a94c201d87252fd3b7",
