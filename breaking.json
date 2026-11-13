@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-13T05:05:19.132092+00:00",
+  "updated_at": "2026-11-13T05:10:23.779557+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-13T05:05:19.132092+00:00"
+      "checked_at": "2026-11-13T05:10:23.779557+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-13T05:05:19.132092+00:00"
+      "checked_at": "2026-11-13T05:10:23.779557+00:00"
     }
   },
   "items": [
+    {
+      "id": "eeeeb3f5f3c3a1e61731",
+      "source": "TGcom24",
+      "title": "Guerra Ucraina, Kushner: \"Progressi significativi\" nei negoziati di pace",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-13-novembre_118919337-202602k.shtml",
+      "published": "2026-11-13T05:09:00+00:00"
+    },
     {
       "id": "2c63ddc5dfeaf6c9820b",
       "source": "BBC News",
@@ -318,13 +325,6 @@
       "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
       "url": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-12T07:45:52+00:00"
-    },
-    {
-      "id": "a20d947b94faeffce1ff",
-      "source": "TGcom24",
-      "title": "Sei morti in raid su ospedale di Gaza, Idf: obiettivo alto comandante di Hamas",
-      "url": "https://www.tgcom24.mediaset.it/mondo/israele-gaza-raid-ospedale-nasser-hamas_118884634-202602k.shtml",
-      "published": "2026-11-12T07:45:00+00:00"
     },
     {
       "id": "d0eeea137a6c15805f33",
