@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-13T19:50:27.084001+00:00",
+  "updated_at": "2026-11-13T19:55:19.766427+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-13T19:50:27.084001+00:00"
+      "checked_at": "2026-11-13T19:55:19.766427+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-13T19:50:27.084001+00:00"
+      "checked_at": "2026-11-13T19:55:19.766427+00:00"
     }
   },
   "items": [
+    {
+      "id": "b2f44bd2318e0aeaf6d3",
+      "source": "BBC News",
+      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T19:53:57+00:00"
+    },
     {
       "id": "9cb9896249b336d35763",
       "source": "TGcom24",
@@ -80,13 +87,6 @@
       "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
       "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-13T15:42:52+00:00"
-    },
-    {
-      "id": "b2f44bd2318e0aeaf6d3",
-      "source": "BBC News",
-      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T15:40:08+00:00"
     },
     {
       "id": "5b2ad2d6c643a4447f6f",
