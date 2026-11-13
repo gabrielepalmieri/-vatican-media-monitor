@@ -1,29 +1,36 @@
 {
-  "updated_at": "2026-11-13T13:30:47.603080+00:00",
+  "updated_at": "2026-11-13T13:35:19.952328+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-13T13:30:47.603080+00:00"
+      "checked_at": "2026-11-13T13:35:19.952328+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-13T13:30:47.603080+00:00"
+      "checked_at": "2026-11-13T13:35:19.952328+00:00"
     }
   },
   "items": [
+    {
+      "id": "c056727b419a0184bde1",
+      "source": "BBC News",
+      "title": "What we know about the global Microsoft outage",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T13:34:53+00:00"
+    },
+    {
+      "id": "4be70d6850da7ab5bccd",
+      "source": "TGcom24",
+      "title": "Allarmi bomba, circolare del Viminale: \"Minacce seriali sono inattendibili\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/allarmi-bomba-direttiva-viminale_118935425-202602k.shtml",
+      "published": "2026-11-13T13:33:00+00:00"
+    },
     {
       "id": "debbf2caa9fbc602630c",
       "source": "TGcom24",
       "title": "Eurostat, Pil Ue +0,5% nel terzo trimestre: per l'Italia crescita nulla",
       "url": "https://www.tgcom24.mediaset.it/economia/eurostat-pil-ue-italia_118933965-202602k.shtml",
       "published": "2026-11-13T13:00:00+00:00"
-    },
-    {
-      "id": "c056727b419a0184bde1",
-      "source": "BBC News",
-      "title": "What we know about the global Microsoft outage",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T12:31:49+00:00"
     },
     {
       "id": "3787c09ae5addda49ced",
@@ -297,13 +304,6 @@
       "title": "Attacchi hacker, P. Chigi: \"Procedure per riconoscere minacce per ogni settore\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/scuola-allarme-bomba-ultime-notizie-12-novembre_118883696-202602k.shtml",
       "published": "2026-11-12T17:25:00+00:00"
-    },
-    {
-      "id": "c13a6835a2a6ee5dc88d",
-      "source": "TGcom24",
-      "title": "Allarmi bomba nelle scuole, Meloni: \"Con opposizioni colloquio costruttivo\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/scuola-allarme-bomba-ultime-notizie-12-novembre_118883696-202602k.shtml",
-      "published": "2026-11-12T16:40:00+00:00"
     },
     {
       "id": "1759f2f8d69e61945630",
