@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-13T19:35:19.889064+00:00",
+  "updated_at": "2026-11-13T19:40:27.098737+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-13T19:35:19.889064+00:00"
+      "checked_at": "2026-11-13T19:40:27.098737+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-13T19:35:19.889064+00:00"
+      "checked_at": "2026-11-13T19:40:27.098737+00:00"
     }
   },
   "items": [
@@ -131,18 +131,18 @@
       "published": "2026-11-13T13:33:00+00:00"
     },
     {
+      "id": "2f8a639260d94ae5856a",
+      "source": "BBC News",
+      "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+      "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T13:11:23+00:00"
+    },
+    {
       "id": "debbf2caa9fbc602630c",
       "source": "TGcom24",
       "title": "Eurostat, Pil Ue +0,5% nel terzo trimestre: per l'Italia crescita nulla",
       "url": "https://www.tgcom24.mediaset.it/economia/eurostat-pil-ue-italia_118933965-202602k.shtml",
       "published": "2026-11-13T13:00:00+00:00"
-    },
-    {
-      "id": "3787c09ae5addda49ced",
-      "source": "BBC News",
-      "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
-      "url": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T12:28:28+00:00"
     },
     {
       "id": "01c41f26a419d991b624",
