@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-13T08:00:57.802898+00:00",
+  "updated_at": "2026-11-13T08:05:18.255161+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-13T08:00:57.802898+00:00"
+      "checked_at": "2026-11-13T08:05:18.255161+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-13T08:00:57.802898+00:00"
+      "checked_at": "2026-11-13T08:05:18.255161+00:00"
     }
   },
   "items": [
+    {
+      "id": "7dfddd58d17500ab80ba",
+      "source": "TGcom24",
+      "title": "Outlook down, Microsoft: \"Nessuna attività malevola alla base del disservizio\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/microsoft-le-misure-per-risolvere-falle-outlook-non-funzionano-come-previsto-_118919342-202602k.shtml",
+      "published": "2026-11-13T08:02:00+00:00"
+    },
     {
       "id": "7ac3eebd96fc5bf4a239",
       "source": "TGcom24",
@@ -304,13 +311,6 @@
       "title": "Nuovi allarmi bomba nelle scuole, controlli ed evacuazioni in tutta Italia",
       "url": "https://www.tgcom24.mediaset.it/cronaca/scuola-allarme-bomba-ultime-notizie-12-novembre_118883696-202602k.shtml",
       "published": "2026-11-12T10:54:00+00:00"
-    },
-    {
-      "id": "6674cb26e7698fa9d870",
-      "source": "TGcom24",
-      "title": "Allarmi bomba, protocollo da Palazzo Chigi: evacuare solo con elementi concreti",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/scuola-allarme-bomba-ultime-notizie-12-novembre_118883696-202602k.shtml",
-      "published": "2026-11-12T10:29:00+00:00"
     },
     {
       "id": "7215252efeaeca134eb6",
