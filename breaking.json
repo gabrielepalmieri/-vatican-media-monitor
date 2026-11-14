@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-14T07:40:24.261178+00:00",
+  "updated_at": "2026-11-14T07:45:28.444112+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-14T07:40:24.261178+00:00"
+      "checked_at": "2026-11-14T07:45:28.444112+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-14T07:40:24.261178+00:00"
+      "checked_at": "2026-11-14T07:45:28.444112+00:00"
     }
   },
   "items": [
+    {
+      "id": "e982de98774614c2c887",
+      "source": "BBC News",
+      "title": "What we know about the longest ground stop since 9/11",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T07:42:11+00:00"
+    },
     {
       "id": "873ddbb8c9e10b28aba2",
       "source": "TGcom24",
@@ -21,7 +28,7 @@
     {
       "id": "6cb4db382a5d1dbf3dea",
       "source": "BBC News",
-      "title": "Microsoft says services fully restored after for day-long global outage",
+      "title": "Microsoft says services fully restored after day-long global outage",
       "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-14T06:42:27+00:00"
     },
@@ -52,13 +59,6 @@
       "title": "Aerei a terra in Usa, Trump: \"Infrastrutture obsolete\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-bloccati-voli-a-livello-nazionale-causa-circostanze-straordinarie_118952126-202602k.shtml",
       "published": "2026-11-14T05:18:00+00:00"
-    },
-    {
-      "id": "e982de98774614c2c887",
-      "source": "BBC News",
-      "title": "What we know about the longest ground stop since 9/11",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T03:45:21+00:00"
     },
     {
       "id": "0a3f7967b6d487305efc",
