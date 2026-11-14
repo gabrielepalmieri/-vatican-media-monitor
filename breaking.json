@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-14T00:15:30.331751+00:00",
+  "updated_at": "2026-11-14T00:20:24.557101+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-14T00:15:30.331751+00:00"
+      "checked_at": "2026-11-14T00:20:24.557101+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-14T00:15:30.331751+00:00"
+      "checked_at": "2026-11-14T00:20:24.557101+00:00"
     }
   },
   "items": [
+    {
+      "id": "afeb7a0c1462fec920f9",
+      "source": "BBC News",
+      "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+      "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T00:03:56+00:00"
+    },
     {
       "id": "4f03b75fa8654ace0c11",
       "source": "BBC News",
@@ -332,13 +339,6 @@
       "title": "Will the Eurovision Song Contest succeed in Asia?",
       "url": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-13T02:24:11+00:00"
-    },
-    {
-      "id": "68e373e5ca2abaa24b45",
-      "source": "BBC News",
-      "title": "Why midterm vote-counting is taking so long in America's largest state",
-      "url": "https://www.bbc.co.uk/news/articles/cqly4ljvr4pjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T00:35:05+00:00"
     },
     {
       "id": "740ad142bfe23926c507",
