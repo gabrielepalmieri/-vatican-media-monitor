@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-14T14:20:25.821618+00:00",
+  "updated_at": "2026-11-14T14:25:17.994455+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-14T14:20:25.821618+00:00"
+      "checked_at": "2026-11-14T14:25:17.994455+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-14T14:20:25.821618+00:00"
+      "checked_at": "2026-11-14T14:25:17.994455+00:00"
     }
   },
   "items": [
+    {
+      "id": "2c4f9b74fcf9c547357e",
+      "source": "TGcom24",
+      "title": "Usa, prosegue il caos nei cieli: soppressi oltre 3.300 voli",
+      "url": "https://www.tgcom24.mediaset.it/mondo/caos-cieli-usa-soppressi-voli_118972332-202602k.shtml",
+      "published": "2026-11-14T14:21:00+00:00"
+    },
+    {
+      "id": "e982de98774614c2c887",
+      "source": "BBC News",
+      "title": "What we know about the ground stop and what to do if you're affected",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T14:20:57+00:00"
+    },
     {
       "id": "d02b348ec4ad16c76cc4",
       "source": "BBC News",
@@ -108,13 +122,6 @@
       "title": "Garlasco, Sempio intercettato: \"Magari hanno allungato qualche mille euro ai carabinieri\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/garlasco-sempio-intercettazione-mille-euro_118950924-202602k.shtml",
       "published": "2026-11-14T07:45:00+00:00"
-    },
-    {
-      "id": "e982de98774614c2c887",
-      "source": "BBC News",
-      "title": "What we know about the ground stop and what to do if you're affected",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T07:42:11+00:00"
     },
     {
       "id": "873ddbb8c9e10b28aba2",
@@ -327,13 +334,6 @@
       "published": "2026-11-13T14:50:00+00:00"
     },
     {
-      "id": "309c6212c951f14dccc0",
-      "source": "TGcom24",
-      "title": "Mestre, Monica Busetto torna libera dopo 14 anni in carcere: non fu la killer della vicina",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/mestre-omicidio-monica-busetto-libera-lazzarini_118934583-202602k.shtml",
-      "published": "2026-11-13T13:58:00+00:00"
-    },
-    {
       "id": "2f8a639260d94ae5856a",
       "source": "BBC News",
       "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
@@ -353,13 +353,6 @@
       "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
       "url": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-13T07:01:43+00:00"
-    },
-    {
-      "id": "c5e8b5b517a72aca73f6",
-      "source": "BBC News",
-      "title": "Will the Eurovision Song Contest succeed in Asia?",
-      "url": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T02:24:11+00:00"
     }
   ]
 }
