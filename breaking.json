@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-14T00:10:25.909653+00:00",
+  "updated_at": "2026-11-14T00:15:30.331751+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-14T00:10:25.909653+00:00"
+      "checked_at": "2026-11-14T00:15:30.331751+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-14T00:10:25.909653+00:00"
+      "checked_at": "2026-11-14T00:15:30.331751+00:00"
     }
   },
   "items": [
@@ -24,6 +24,13 @@
       "title": "Setback for SpaceX Starship rocket's double-catch test",
       "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-14T00:01:01+00:00"
+    },
+    {
+      "id": "144ce218667fd5c49a4d",
+      "source": "BBC News",
+      "title": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans",
+      "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T23:40:45+00:00"
     },
     {
       "id": "949a4fb8bba24a0b661d",
