@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-14T15:15:28.936626+00:00",
+  "updated_at": "2026-11-14T15:20:25.695671+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-14T15:15:28.936626+00:00"
+      "checked_at": "2026-11-14T15:20:25.695671+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-14T15:15:28.936626+00:00"
+      "checked_at": "2026-11-14T15:20:25.695671+00:00"
     }
   },
   "items": [
+    {
+      "id": "44f371e7523ab45e8db3",
+      "source": "BBC News",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T15:15:57+00:00"
+    },
     {
       "id": "2c4f9b74fcf9c547357e",
       "source": "TGcom24",
@@ -52,13 +59,6 @@
       "title": "Francia, nuova giornata di proteste: attesi oltre 100mila manifestanti",
       "url": "https://www.tgcom24.mediaset.it/mondo/francia-proteste-aggiornamenti-diretta-14-novembre_118964894-202602k.shtml",
       "published": "2026-11-14T12:14:00+00:00"
-    },
-    {
-      "id": "44f371e7523ab45e8db3",
-      "source": "BBC News",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T11:41:20+00:00"
     },
     {
       "id": "5d42f324e7784e0376da",
