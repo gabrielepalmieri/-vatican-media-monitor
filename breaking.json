@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-14T18:25:19.126624+00:00",
+  "updated_at": "2026-11-14T18:30:45.436065+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-14T18:25:19.126624+00:00"
+      "checked_at": "2026-11-14T18:30:45.436065+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-14T18:25:19.126624+00:00"
+      "checked_at": "2026-11-14T18:30:45.436065+00:00"
     }
   },
   "items": [
+    {
+      "id": "87539708c12af6b5af97",
+      "source": "BBC News",
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T18:28:06+00:00"
+    },
     {
       "id": "dd56aa5785ae310410fd",
       "source": "BBC News",
@@ -52,13 +59,6 @@
       "title": "Caos nei cieli Usa, il segretario ai Trasporti: \"Tornata la piena operatività\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/caos-cieli-usa-soppressi-voli_118972332-202602k.shtml",
       "published": "2026-11-14T16:51:00+00:00"
-    },
-    {
-      "id": "87539708c12af6b5af97",
-      "source": "BBC News",
-      "title": "Italy fines Meta €805m over accessing users' photos",
-      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T16:29:48+00:00"
     },
     {
       "id": "fbfafa1acf53c6f8e479",
