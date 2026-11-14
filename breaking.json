@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-14T07:15:27.271463+00:00",
+  "updated_at": "2026-11-14T07:20:32.343268+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-14T07:15:27.271463+00:00"
+      "checked_at": "2026-11-14T07:20:32.343268+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-14T07:15:27.271463+00:00"
+      "checked_at": "2026-11-14T07:20:32.343268+00:00"
     }
   },
   "items": [
+    {
+      "id": "873ddbb8c9e10b28aba2",
+      "source": "TGcom24",
+      "title": "Microsoft, ripristinati tutti i servizi dopo il blackout globale",
+      "url": "https://www.tgcom24.mediaset.it/mondo/microsoft-ripristinati-servizi_118958339-202602k.shtml",
+      "published": "2026-11-14T07:15:00+00:00"
+    },
     {
       "id": "6cb4db382a5d1dbf3dea",
       "source": "BBC News",
@@ -325,13 +332,6 @@
       "title": "Ue: \"Decidere presto chi rappresenterà l'Europa ai negoziati sull'Ucraina\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-13-novembre_118919337-202602k.shtml",
       "published": "2026-11-13T10:02:00+00:00"
-    },
-    {
-      "id": "1c7a87f0abb990371ec5",
-      "source": "TGcom24",
-      "title": "Roma, ex alunno lascia una finta bomba a scuola: denunciato",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/roma-ex-alunno-lascia-finta-bomba-scuola_118924799-202602k.shtml",
-      "published": "2026-11-13T09:27:00+00:00"
     },
     {
       "id": "18b5e4842de056b28e48",
