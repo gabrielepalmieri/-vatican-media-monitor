@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-14T21:40:24.634748+00:00",
+  "updated_at": "2026-11-14T21:45:26.400581+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-14T21:40:24.634748+00:00"
+      "checked_at": "2026-11-14T21:45:26.400581+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-14T21:40:24.634748+00:00"
+      "checked_at": "2026-11-14T21:45:26.400581+00:00"
     }
   },
   "items": [
+    {
+      "id": "05468d8dd46cfaee2057",
+      "source": "TGcom24",
+      "title": "Venezuela, scarcerato dopo due anni e mezzo l'italovenezuelano Echenagucía",
+      "url": "https://www.tgcom24.mediaset.it/mondo/venezuela-scarcerato-dopo-due-anni-e-mezzo-l-italovenezuelano-daniel-echenagucia_118984692-202602k.shtml",
+      "published": "2026-11-14T21:40:00+00:00"
+    },
     {
       "id": "d02b348ec4ad16c76cc4",
       "source": "BBC News",
@@ -297,13 +304,6 @@
       "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
       "url": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-13T23:11:51+00:00"
-    },
-    {
-      "id": "949a4fb8bba24a0b661d",
-      "source": "TGcom24",
-      "title": "S&P conferma i rating BBB+/A-2 sull'Italia",
-      "url": "https://www.tgcom24.mediaset.it/economia/s-p-conferma-rating-bbb-a-2-italia_118954527-202602k.shtml",
-      "published": "2026-11-13T23:02:00+00:00"
     },
     {
       "id": "4b1bfe7090e57275a89e",
