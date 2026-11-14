@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-14T22:55:17.959576+00:00",
+  "updated_at": "2026-11-14T23:00:58.332749+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-14T22:55:17.959576+00:00"
+      "checked_at": "2026-11-14T23:00:58.332749+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-14T22:55:17.959576+00:00"
+      "checked_at": "2026-11-14T23:00:58.332749+00:00"
     }
   },
   "items": [
+    {
+      "id": "7d858f3d8ff870958493",
+      "source": "TGcom24",
+      "title": "Proteste in Francia: oltre 200 fermi e dieci agenti di polizia rimasti feriti",
+      "url": "https://www.tgcom24.mediaset.it/mondo/francia-proteste-aggiornamenti-diretta-14-novembre_118964894-202602k.shtml",
+      "published": "2026-11-14T22:56:00+00:00"
+    },
     {
       "id": "44f371e7523ab45e8db3",
       "source": "BBC News",
@@ -269,13 +276,6 @@
       "title": "Milano, scontro tra due auto nella notte: morto un 46enne",
       "url": "https://www.tgcom24.mediaset.it/cronaca/milano-incidente-due-auto-un-morto_118957548-202602k.shtml",
       "published": "2026-11-14T06:37:00+00:00"
-    },
-    {
-      "id": "5dfe054b03fdcf6d4a6d",
-      "source": "TGcom24",
-      "title": "Nvidia, media: \"Trump non parlerà con Xi della presunta spia cinese\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-trump-non-parlera-xi-spia-cinese_118956369-202602k.shtml",
-      "published": "2026-11-14T05:47:00+00:00"
     },
     {
       "id": "0a3f7967b6d487305efc",
