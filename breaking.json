@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-14T15:20:25.695671+00:00",
+  "updated_at": "2026-11-14T15:25:17.670407+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-14T15:20:25.695671+00:00"
+      "checked_at": "2026-11-14T15:25:17.670407+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-14T15:20:25.695671+00:00"
+      "checked_at": "2026-11-14T15:25:17.670407+00:00"
     }
   },
   "items": [
+    {
+      "id": "2b107105e6350334d3ce",
+      "source": "TGcom24",
+      "title": "Milano, nuovo corteo di \"Italia in piazza\": poche centinaia i presenti",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-corteo-italia-piazza_118975423-202602k.shtml",
+      "published": "2026-11-14T15:16:00+00:00"
+    },
     {
       "id": "44f371e7523ab45e8db3",
       "source": "BBC News",
@@ -325,13 +332,6 @@
       "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
       "url": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-13T15:09:40+00:00"
-    },
-    {
-      "id": "756b8235815612ad258c",
-      "source": "TGcom24",
-      "title": "Mantovano: \"La cybersicurezza è un investimento, non possiamo perdere tempo\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/allarmi-bomba-direttiva-viminale_118935425-202602k.shtml",
-      "published": "2026-11-13T14:50:00+00:00"
     },
     {
       "id": "2f8a639260d94ae5856a",
