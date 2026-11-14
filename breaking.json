@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-14T06:00:55.302498+00:00",
+  "updated_at": "2026-11-14T06:05:24.037183+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-14T06:00:55.302498+00:00"
+      "checked_at": "2026-11-14T06:05:24.037183+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-14T06:00:55.302498+00:00"
+      "checked_at": "2026-11-14T06:05:24.037183+00:00"
     }
   },
   "items": [
+    {
+      "id": "8137613ea0d170d85e71",
+      "source": "BBC News",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T05:52:31+00:00"
+    },
     {
       "id": "5dfe054b03fdcf6d4a6d",
       "source": "TGcom24",
@@ -24,6 +31,13 @@
       "title": "Aerei a terra in Usa, Trump: \"Infrastrutture obsolete\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-bloccati-voli-a-livello-nazionale-causa-circostanze-straordinarie_118952126-202602k.shtml",
       "published": "2026-11-14T05:18:00+00:00"
+    },
+    {
+      "id": "e982de98774614c2c887",
+      "source": "BBC News",
+      "title": "What we know about the longest ground stop since 9/11",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T03:45:21+00:00"
     },
     {
       "id": "0a3f7967b6d487305efc",
@@ -143,13 +157,6 @@
       "title": "Democratic Senate leader Schumer set to face leadership challenge",
       "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-13T19:03:10+00:00"
-    },
-    {
-      "id": "c056727b419a0184bde1",
-      "source": "BBC News",
-      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T18:36:57+00:00"
     },
     {
       "id": "c92e831523e5800322af",
@@ -276,13 +283,6 @@
       "title": "Femminicidio Manuela Petrangeli, confermato l'ergastolo in Appello a Gianluca Molinaro",
       "url": "https://www.tgcom24.mediaset.it/cronaca/roma-uccise-ex-fucilate-ergastolo_118930998-202602k.shtml",
       "published": "2026-11-13T11:54:00+00:00"
-    },
-    {
-      "id": "0db31c1e764f2c8e5692",
-      "source": "BBC News",
-      "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
-      "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T11:43:27+00:00"
     },
     {
       "id": "3c2039fbe4d800ce42ee",
