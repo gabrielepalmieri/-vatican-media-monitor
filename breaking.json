@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-14T06:35:18.637344+00:00",
+  "updated_at": "2026-11-14T06:40:24.944539+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-14T06:35:18.637344+00:00"
+      "checked_at": "2026-11-14T06:40:24.944539+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-14T06:35:18.637344+00:00"
+      "checked_at": "2026-11-14T06:40:24.944539+00:00"
     }
   },
   "items": [
+    {
+      "id": "f840163057312a1c98f1",
+      "source": "TGcom24",
+      "title": "Milano, scontro tra due auto nella notte: morto un 46enne",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-incidente-due-auto-un-morto_118957548-202602k.shtml",
+      "published": "2026-11-14T06:37:00+00:00"
+    },
     {
       "id": "8137613ea0d170d85e71",
       "source": "BBC News",
@@ -325,13 +332,6 @@
       "title": "Roma, ex alunno lascia una finta bomba a scuola: denunciato",
       "url": "https://www.tgcom24.mediaset.it/cronaca/roma-ex-alunno-lascia-finta-bomba-scuola_118924799-202602k.shtml",
       "published": "2026-11-13T09:27:00+00:00"
-    },
-    {
-      "id": "e452376d9f47e447bf50",
-      "source": "TGcom24",
-      "title": "Argentina, arrestati due presunti complici nella fuga dell'ex Br Bertulazzi",
-      "url": "https://www.tgcom24.mediaset.it/mondo/argentina-arrestati-presunti-complici-bertulazzi_118923347-202602k.shtml",
-      "published": "2026-11-13T08:46:00+00:00"
     },
     {
       "id": "18b5e4842de056b28e48",
