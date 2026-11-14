@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-14T15:50:25.362203+00:00",
+  "updated_at": "2026-11-14T15:55:18.638144+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-14T15:50:25.362203+00:00"
+      "checked_at": "2026-11-14T15:55:18.638144+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-14T15:50:25.362203+00:00"
+      "checked_at": "2026-11-14T15:55:18.638144+00:00"
     }
   },
   "items": [
+    {
+      "id": "8137613ea0d170d85e71",
+      "source": "BBC News",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T15:53:55+00:00"
+    },
     {
       "id": "2b107105e6350334d3ce",
       "source": "TGcom24",
@@ -28,7 +35,7 @@
     {
       "id": "2c4f9b74fcf9c547357e",
       "source": "TGcom24",
-      "title": "Usa, prosegue il caos nei cieli: soppressi oltre 3.300 voli",
+      "title": "Usa, prosegue il caos nei cieli: soppressi oltre 4mila voli",
       "url": "https://www.tgcom24.mediaset.it/mondo/caos-cieli-usa-soppressi-voli_118972332-202602k.shtml",
       "published": "2026-11-14T14:21:00+00:00"
     },
@@ -49,7 +56,7 @@
     {
       "id": "9249a606d7700c26ac36",
       "source": "TGcom24",
-      "title": "Cosenza, scontro tra due auto in galleria: quattro vittime e un ferito grave",
+      "title": "Cosenza, scontro tra due auto in galleria: cinque vittime",
       "url": "https://www.tgcom24.mediaset.it/cronaca/cosenza-scontro-auto-vittime_118970178-202602k.shtml",
       "published": "2026-11-14T13:31:00+00:00"
     },
@@ -150,13 +157,6 @@
       "title": "Milano, scontro tra due auto nella notte: morto un 46enne",
       "url": "https://www.tgcom24.mediaset.it/cronaca/milano-incidente-due-auto-un-morto_118957548-202602k.shtml",
       "published": "2026-11-14T06:37:00+00:00"
-    },
-    {
-      "id": "8137613ea0d170d85e71",
-      "source": "BBC News",
-      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T05:52:31+00:00"
     },
     {
       "id": "5dfe054b03fdcf6d4a6d",
