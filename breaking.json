@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-14T05:45:27.596590+00:00",
+  "updated_at": "2026-11-14T05:50:23.880202+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-14T05:45:27.596590+00:00"
+      "checked_at": "2026-11-14T05:50:23.880202+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-14T05:45:27.596590+00:00"
+      "checked_at": "2026-11-14T05:50:23.880202+00:00"
     }
   },
   "items": [
+    {
+      "id": "5dfe054b03fdcf6d4a6d",
+      "source": "TGcom24",
+      "title": "Nvidia, media: \"Trump non parlerà con Xi della presunta spia cinese\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-trump-non-parlera-xi-spia-cinese_118956369-202602k.shtml",
+      "published": "2026-11-14T05:47:00+00:00"
+    },
     {
       "id": "ecf56fb0e7c4266a55a5",
       "source": "TGcom24",
@@ -325,13 +332,6 @@
       "title": "Argentina, arrestati due presunti complici nella fuga dell'ex Br Bertulazzi",
       "url": "https://www.tgcom24.mediaset.it/mondo/argentina-arrestati-presunti-complici-bertulazzi_118923347-202602k.shtml",
       "published": "2026-11-13T08:46:00+00:00"
-    },
-    {
-      "id": "7dfddd58d17500ab80ba",
-      "source": "TGcom24",
-      "title": "Outlook down, Microsoft: \"Nessuna attività malevola alla base del disservizio\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/microsoft-le-misure-per-risolvere-falle-outlook-non-funzionano-come-previsto-_118919342-202602k.shtml",
-      "published": "2026-11-13T08:02:00+00:00"
     },
     {
       "id": "18b5e4842de056b28e48",
