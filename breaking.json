@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-14T11:35:18.143413+00:00",
+  "updated_at": "2026-11-14T11:40:27.942999+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-14T11:35:18.143413+00:00"
+      "checked_at": "2026-11-14T11:40:27.942999+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-14T11:35:18.143413+00:00"
+      "checked_at": "2026-11-14T11:40:27.942999+00:00"
     }
   },
   "items": [
+    {
+      "id": "5d42f324e7784e0376da",
+      "source": "TGcom24",
+      "title": "Roma, colpito al petto con un paio di forbici: 44enne morto sul colpo",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/roma-morto-forbici-petto-lite_118964567-202602k.shtml",
+      "published": "2026-11-14T11:38:00+00:00"
+    },
     {
       "id": "a89d76b5ce60a2d40c7b",
       "source": "BBC News",
@@ -332,13 +339,6 @@
       "title": "Eurostat, Pil Ue +0,5% nel terzo trimestre: per l'Italia crescita nulla",
       "url": "https://www.tgcom24.mediaset.it/economia/eurostat-pil-ue-italia_118933965-202602k.shtml",
       "published": "2026-11-13T13:00:00+00:00"
-    },
-    {
-      "id": "01c41f26a419d991b624",
-      "source": "TGcom24",
-      "title": "Famiglia nel bosco, Pillon: \"Rigettato il ricorso, i bimbi non tornano a casa\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/famiglia-del-bosco-rigettato-ricorso_118931166-202602k.shtml",
-      "published": "2026-11-13T12:25:00+00:00"
     },
     {
       "id": "3c2039fbe4d800ce42ee",
