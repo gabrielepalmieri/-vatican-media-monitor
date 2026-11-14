@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-14T22:15:28.084756+00:00",
+  "updated_at": "2026-11-14T22:20:24.057180+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-14T22:15:28.084756+00:00"
+      "checked_at": "2026-11-14T22:20:24.057180+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-14T22:15:28.084756+00:00"
+      "checked_at": "2026-11-14T22:20:24.057180+00:00"
     }
   },
   "items": [
+    {
+      "id": "c7e654eb3492b4f79a70",
+      "source": "TGcom24",
+      "title": "Missione compiuta per SpaceX: recuperato per la prima volta un veicolo spaziale",
+      "url": "https://www.tgcom24.mediaset.it/2026/video/spacex-recupera-per-la-prima-volta-nella-storia-un-veicolo-spaziale_118988407-02k.shtml",
+      "published": "2026-11-14T22:18:00+00:00"
+    },
     {
       "id": "b9c068822ec3dcc12c60",
       "source": "BBC News",
@@ -269,13 +276,6 @@
       "title": "Nvidia, media: \"Trump non parlerà con Xi della presunta spia cinese\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-trump-non-parlera-xi-spia-cinese_118956369-202602k.shtml",
       "published": "2026-11-14T05:47:00+00:00"
-    },
-    {
-      "id": "ecf56fb0e7c4266a55a5",
-      "source": "TGcom24",
-      "title": "Aerei a terra in Usa, Trump: \"Infrastrutture obsolete\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/usa-bloccati-voli-a-livello-nazionale-causa-circostanze-straordinarie_118952126-202602k.shtml",
-      "published": "2026-11-14T05:18:00+00:00"
     },
     {
       "id": "0a3f7967b6d487305efc",
