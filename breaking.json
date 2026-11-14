@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-14T03:45:28.153053+00:00",
+  "updated_at": "2026-11-14T03:50:26.633399+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-14T03:45:28.153053+00:00"
+      "checked_at": "2026-11-14T03:50:26.633399+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-14T03:45:28.153053+00:00"
+      "checked_at": "2026-11-14T03:50:26.633399+00:00"
     }
   },
   "items": [
+    {
+      "id": "0a3f7967b6d487305efc",
+      "source": "BBC News",
+      "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+      "url": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T01:47:36+00:00"
+    },
     {
       "id": "afeb7a0c1462fec920f9",
       "source": "BBC News",
@@ -311,13 +318,6 @@
       "title": "Argentina, arrestati due presunti complici nella fuga dell'ex Br Bertulazzi",
       "url": "https://www.tgcom24.mediaset.it/mondo/argentina-arrestati-presunti-complici-bertulazzi_118923347-202602k.shtml",
       "published": "2026-11-13T08:46:00+00:00"
-    },
-    {
-      "id": "19097d3ec973b62d9db5",
-      "source": "BBC News",
-      "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
-      "url": "https://www.bbc.co.uk/news/articles/c6702z750zvyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T08:20:28+00:00"
     },
     {
       "id": "7dfddd58d17500ab80ba",
