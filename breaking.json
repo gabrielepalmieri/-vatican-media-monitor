@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-14T00:00:56.363196+00:00",
+  "updated_at": "2026-11-14T00:05:19.068519+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-14T00:00:56.363196+00:00"
+      "checked_at": "2026-11-14T00:05:19.068519+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-14T00:00:56.363196+00:00"
+      "checked_at": "2026-11-14T00:05:19.068519+00:00"
     }
   },
   "items": [
+    {
+      "id": "4f03b75fa8654ace0c11",
+      "source": "BBC News",
+      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+      "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T00:03:52+00:00"
+    },
+    {
+      "id": "d02b348ec4ad16c76cc4",
+      "source": "BBC News",
+      "title": "Setback for SpaceX Starship rocket's double-catch test",
+      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T00:01:01+00:00"
+    },
     {
       "id": "949a4fb8bba24a0b661d",
       "source": "TGcom24",
@@ -59,13 +73,6 @@
       "title": "Dublino, ordigno funzionante disinnescato durante vertice dei leader Ue",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-13-novembre_118919337-202602k.shtml",
       "published": "2026-11-13T20:50:00+00:00"
-    },
-    {
-      "id": "d02b348ec4ad16c76cc4",
-      "source": "BBC News",
-      "title": "SpaceX to attempt double catch of huge Starship rocket",
-      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T20:12:02+00:00"
     },
     {
       "id": "b4053329b3f5e834bcf9",
@@ -325,13 +332,6 @@
       "title": "Why midterm vote-counting is taking so long in America's largest state",
       "url": "https://www.bbc.co.uk/news/articles/cqly4ljvr4pjo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-13T00:35:05+00:00"
-    },
-    {
-      "id": "767516f5ee06222c93a8",
-      "source": "BBC News",
-      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-      "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T00:20:24+00:00"
     },
     {
       "id": "740ad142bfe23926c507",
