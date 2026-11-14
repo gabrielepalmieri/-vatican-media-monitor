@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-14T16:35:18.325408+00:00",
+  "updated_at": "2026-11-14T16:40:24.208193+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-14T16:35:18.325408+00:00"
+      "checked_at": "2026-11-14T16:40:24.208193+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-14T16:35:18.325408+00:00"
+      "checked_at": "2026-11-14T16:40:24.208193+00:00"
     }
   },
   "items": [
+    {
+      "id": "87539708c12af6b5af97",
+      "source": "BBC News",
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T16:29:48+00:00"
+    },
     {
       "id": "fbfafa1acf53c6f8e479",
       "source": "TGcom24",
@@ -327,39 +334,11 @@
       "published": "2026-11-13T16:40:31+00:00"
     },
     {
-      "id": "6ebd2dcae38c1dd4160b",
-      "source": "BBC News",
-      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
-      "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T15:42:52+00:00"
-    },
-    {
       "id": "eee1c8c2e3629902b249",
       "source": "BBC News",
       "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
       "url": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-13T15:09:40+00:00"
-    },
-    {
-      "id": "2f8a639260d94ae5856a",
-      "source": "BBC News",
-      "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
-      "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T13:11:23+00:00"
-    },
-    {
-      "id": "3c2039fbe4d800ce42ee",
-      "source": "BBC News",
-      "title": "Rosalía scoops historic third best album award at Latin Grammys",
-      "url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T11:38:54+00:00"
-    },
-    {
-      "id": "18b5e4842de056b28e48",
-      "source": "BBC News",
-      "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
-      "url": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T07:01:43+00:00"
     }
   ]
 }
