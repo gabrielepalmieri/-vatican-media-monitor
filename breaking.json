@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-14T18:00:54.077236+00:00",
+  "updated_at": "2026-11-14T18:05:19.911469+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-14T18:00:54.077236+00:00"
+      "checked_at": "2026-11-14T18:05:19.911469+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-14T18:00:54.077236+00:00"
+      "checked_at": "2026-11-14T18:05:19.911469+00:00"
     }
   },
   "items": [
+    {
+      "id": "970028e067e849347fd3",
+      "source": "BBC News",
+      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T18:00:10+00:00"
+    },
+    {
+      "id": "dd56aa5785ae310410fd",
+      "source": "BBC News",
+      "title": "Philippines wins first Eurovision Song Contest Asia",
+      "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T17:56:59+00:00"
+    },
     {
       "id": "839d683cf4a912dc42c5",
       "source": "TGcom24",
@@ -285,25 +299,11 @@
       "published": "2026-11-13T20:00:00+00:00"
     },
     {
-      "id": "b2f44bd2318e0aeaf6d3",
-      "source": "BBC News",
-      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T19:53:57+00:00"
-    },
-    {
       "id": "9cb9896249b336d35763",
       "source": "TGcom24",
       "title": "Meloni: \"Salta la misura sulla scuola in Manovra, ma non erano tagli\"",
       "url": "https://www.tgcom24.mediaset.it/politica/meloni-salta-misura-scuola-manovra-non-erano-tagli_118946082-202602k.shtml",
       "published": "2026-11-13T19:05:00+00:00"
-    },
-    {
-      "id": "852465f359ec602975b8",
-      "source": "BBC News",
-      "title": "Democratic Senate leader Schumer set to face leadership challenge",
-      "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T19:03:10+00:00"
     },
     {
       "id": "3c541985400b7815e2c1",
@@ -313,32 +313,11 @@
       "published": "2026-11-13T19:01:36+00:00"
     },
     {
-      "id": "c92e831523e5800322af",
-      "source": "BBC News",
-      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
-      "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T18:34:45+00:00"
-    },
-    {
       "id": "4ace18bf2d6bf532b0d1",
       "source": "TGcom24",
       "title": "Ucraina, fonti: \"Team negoziale per Kiev con rappresentanti Ue ed E5\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-13-novembre_118919337-202602k.shtml",
       "published": "2026-11-13T18:20:00+00:00"
-    },
-    {
-      "id": "b210adf52526a24efedd",
-      "source": "BBC News",
-      "title": "Estonia bans Russian athletes as backlash intensifies",
-      "url": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T17:54:33+00:00"
-    },
-    {
-      "id": "7983d78e620ca6d97244",
-      "source": "BBC News",
-      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T16:40:31+00:00"
     },
     {
       "id": "eee1c8c2e3629902b249",
