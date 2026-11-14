@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-14T06:40:24.944539+00:00",
+  "updated_at": "2026-11-14T06:45:28.429487+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-14T06:40:24.944539+00:00"
+      "checked_at": "2026-11-14T06:45:28.429487+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-14T06:40:24.944539+00:00"
+      "checked_at": "2026-11-14T06:45:28.429487+00:00"
     }
   },
   "items": [
+    {
+      "id": "6cb4db382a5d1dbf3dea",
+      "source": "BBC News",
+      "title": "Microsoft says services fully restored after for day-long global outage",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T06:42:27+00:00"
+    },
     {
       "id": "f840163057312a1c98f1",
       "source": "TGcom24",
@@ -122,13 +129,6 @@
       "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
       "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-13T21:15:24+00:00"
-    },
-    {
-      "id": "6cb4db382a5d1dbf3dea",
-      "source": "BBC News",
-      "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
-      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T21:14:22+00:00"
     },
     {
       "id": "e07de6ca79582e99f538",
