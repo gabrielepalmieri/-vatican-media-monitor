@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-14T20:50:23.681212+00:00",
+  "updated_at": "2026-11-14T20:55:17.419313+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-14T20:50:23.681212+00:00"
+      "checked_at": "2026-11-14T20:55:17.419313+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-14T20:50:23.681212+00:00"
+      "checked_at": "2026-11-14T20:55:17.419313+00:00"
     }
   },
   "items": [
+    {
+      "id": "9fd06316753a85bf8bd9",
+      "source": "TGcom24",
+      "title": "Attacco hacker a La Poste in Francia: violati i dati di 22 milioni di persone",
+      "url": "https://www.tgcom24.mediaset.it/mondo/francia-la-poste-attacco-hacker-dati-violazione-indagini_118987286-202602k.shtml",
+      "published": "2026-11-14T20:50:00+00:00"
+    },
     {
       "id": "44f371e7523ab45e8db3",
       "source": "BBC News",
@@ -304,13 +311,6 @@
       "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
       "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-13T23:00:31+00:00"
-    },
-    {
-      "id": "a76e073b889928fd38ed",
-      "source": "TGcom24",
-      "title": "New Orleans, petroliera sperona una nave da crociera nel porto",
-      "url": "https://www.tgcom24.mediaset.it/mondo/usa-new-orleans-petroliera-incidente-battello_118950176-202602k.shtml",
-      "published": "2026-11-13T21:35:00+00:00"
     },
     {
       "id": "7983d78e620ca6d97244",
