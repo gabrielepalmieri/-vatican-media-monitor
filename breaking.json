@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-14T11:40:27.942999+00:00",
+  "updated_at": "2026-11-14T11:45:32.506181+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-14T11:40:27.942999+00:00"
+      "checked_at": "2026-11-14T11:45:32.506181+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-14T11:40:27.942999+00:00"
+      "checked_at": "2026-11-14T11:45:32.506181+00:00"
     }
   },
   "items": [
+    {
+      "id": "44f371e7523ab45e8db3",
+      "source": "BBC News",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T11:41:20+00:00"
+    },
     {
       "id": "5d42f324e7784e0376da",
       "source": "TGcom24",
@@ -45,13 +52,6 @@
       "title": "Cortei, oltre 50 perquisizioni in 13 città: coinvolti anche minorenni",
       "url": "https://www.tgcom24.mediaset.it/cronaca/cortei-50-perquisizioni-digos_118964027-202602k.shtml",
       "published": "2026-11-14T10:35:00+00:00"
-    },
-    {
-      "id": "44f371e7523ab45e8db3",
-      "source": "BBC News",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T10:30:38+00:00"
     },
     {
       "id": "da50f85dd7866019122e",
@@ -360,13 +360,6 @@
       "title": "Will the Eurovision Song Contest succeed in Asia?",
       "url": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-13T02:24:11+00:00"
-    },
-    {
-      "id": "740ad142bfe23926c507",
-      "source": "BBC News",
-      "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
-      "url": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T23:42:52+00:00"
     }
   ]
 }
