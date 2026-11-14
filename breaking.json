@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-14T11:10:24.099885+00:00",
+  "updated_at": "2026-11-14T11:15:27.475213+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-14T11:10:24.099885+00:00"
+      "checked_at": "2026-11-14T11:15:27.475213+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-14T11:10:24.099885+00:00"
+      "checked_at": "2026-11-14T11:15:27.475213+00:00"
     }
   },
   "items": [
+    {
+      "id": "38fa19159e6fff014d1d",
+      "source": "TGcom24",
+      "title": "Milano, 92enne ucciso durante il raggiro del falso carabiniere: due fermi",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-92enne-ucciso-durante-raggiro_118964407-202602k.shtml",
+      "published": "2026-11-14T11:07:00+00:00"
+    },
     {
       "id": "aef4020f77fa7154c4a8",
       "source": "BBC News",
@@ -332,13 +339,6 @@
       "title": "Famiglia nel bosco, Pillon: \"Rigettato il ricorso, i bimbi non tornano a casa\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/famiglia-del-bosco-rigettato-ricorso_118931166-202602k.shtml",
       "published": "2026-11-13T12:25:00+00:00"
-    },
-    {
-      "id": "daf32e965b9f460d6183",
-      "source": "TGcom24",
-      "title": "Femminicidio Manuela Petrangeli, confermato l'ergastolo in Appello a Gianluca Molinaro",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/roma-uccise-ex-fucilate-ergastolo_118930998-202602k.shtml",
-      "published": "2026-11-13T11:54:00+00:00"
     },
     {
       "id": "3c2039fbe4d800ce42ee",
