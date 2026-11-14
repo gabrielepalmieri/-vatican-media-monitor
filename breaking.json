@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-14T22:35:17.975257+00:00",
+  "updated_at": "2026-11-14T22:40:25.188527+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-14T22:35:17.975257+00:00"
+      "checked_at": "2026-11-14T22:40:25.188527+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-14T22:35:17.975257+00:00"
+      "checked_at": "2026-11-14T22:40:25.188527+00:00"
     }
   },
   "items": [
+    {
+      "id": "44f371e7523ab45e8db3",
+      "source": "BBC News",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T22:37:25+00:00"
+    },
     {
       "id": "c7e654eb3492b4f79a70",
       "source": "TGcom24",
@@ -38,13 +45,6 @@
       "title": "Attacco hacker a La Poste in Francia: violati i dati di 22 milioni di persone",
       "url": "https://www.tgcom24.mediaset.it/mondo/francia-la-poste-attacco-hacker-dati-violazione-indagini_118987286-202602k.shtml",
       "published": "2026-11-14T20:50:00+00:00"
-    },
-    {
-      "id": "44f371e7523ab45e8db3",
-      "source": "BBC News",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T20:41:45+00:00"
     },
     {
       "id": "144ce218667fd5c49a4d",
