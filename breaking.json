@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-14T19:20:25.659058+00:00",
+  "updated_at": "2026-11-14T19:25:18.272936+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-14T19:20:25.659058+00:00"
+      "checked_at": "2026-11-14T19:25:18.272936+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-14T19:20:25.659058+00:00"
+      "checked_at": "2026-11-14T19:25:18.272936+00:00"
     }
   },
   "items": [
+    {
+      "id": "44f371e7523ab45e8db3",
+      "source": "BBC News",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T19:21:10+00:00"
+    },
+    {
+      "id": "ade70d7c05fbe97b4cc8",
+      "source": "TGcom24",
+      "title": "Scuola, Valditara: \"Stanziati complessivamente 64,5 miliardi di euro\"",
+      "url": "https://www.tgcom24.mediaset.it/politica/scuola-ministro-valditara-stanziati-64-5-miliardi-euro-manovra_118984152-202602k.shtml",
+      "published": "2026-11-14T19:19:00+00:00"
+    },
     {
       "id": "a89d76b5ce60a2d40c7b",
       "source": "BBC News",
@@ -108,13 +122,6 @@
       "title": "Milano, nuovo corteo di \"Italia in piazza\": poche centinaia i presenti",
       "url": "https://www.tgcom24.mediaset.it/cronaca/milano-corteo-italia-piazza_118975423-202602k.shtml",
       "published": "2026-11-14T15:16:00+00:00"
-    },
-    {
-      "id": "44f371e7523ab45e8db3",
-      "source": "BBC News",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T15:15:57+00:00"
     },
     {
       "id": "2c4f9b74fcf9c547357e",
@@ -304,13 +311,6 @@
       "title": "Dublino, ordigno funzionante disinnescato durante vertice dei leader Ue",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-13-novembre_118919337-202602k.shtml",
       "published": "2026-11-13T20:50:00+00:00"
-    },
-    {
-      "id": "b4053329b3f5e834bcf9",
-      "source": "TGcom24",
-      "title": "Maltempo, frana in collina a Pistoia: isolate 50 persone",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/maltempo-frana-collina-pistoia-isolati_118948820-202602k.shtml",
-      "published": "2026-11-13T20:00:00+00:00"
     },
     {
       "id": "7983d78e620ca6d97244",
