@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-14T08:20:24.237614+00:00",
+  "updated_at": "2026-11-14T08:25:19.422721+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-14T08:20:24.237614+00:00"
+      "checked_at": "2026-11-14T08:25:19.422721+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-14T08:20:24.237614+00:00"
+      "checked_at": "2026-11-14T08:25:19.422721+00:00"
     }
   },
   "items": [
+    {
+      "id": "45f1113c2b2663653c84",
+      "source": "TGcom24",
+      "title": "Aerei a terra in Usa, per l'Fbi \"non è stato un cyberattacco\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-bloccati-voli-a-livello-nazionale-causa-circostanze-straordinarie_118952126-202602k.shtml",
+      "published": "2026-11-14T08:23:00+00:00"
+    },
     {
       "id": "e982de98774614c2c887",
       "source": "BBC News",
@@ -325,13 +332,6 @@
       "title": "Down servizi Microsoft, colpiti governi e aziende in tutto il mondo",
       "url": "https://www.tgcom24.mediaset.it/mondo/microsoft-le-misure-per-risolvere-falle-outlook-non-funzionano-come-previsto-_118919342-202602k.shtml",
       "published": "2026-11-13T10:30:00+00:00"
-    },
-    {
-      "id": "49b4e340dda904d79726",
-      "source": "TGcom24",
-      "title": "Ue: \"Decidere presto chi rappresenterà l'Europa ai negoziati sull'Ucraina\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-13-novembre_118919337-202602k.shtml",
-      "published": "2026-11-13T10:02:00+00:00"
     },
     {
       "id": "18b5e4842de056b28e48",
