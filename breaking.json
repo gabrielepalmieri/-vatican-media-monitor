@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-15T12:30:44.124213+00:00",
+  "updated_at": "2026-11-15T12:35:24.367743+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-15T12:30:44.124213+00:00"
+      "checked_at": "2026-11-15T12:35:24.367743+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-15T12:30:44.124213+00:00"
+      "checked_at": "2026-11-15T12:35:24.367743+00:00"
     }
   },
   "items": [
+    {
+      "id": "392d13ffb5ac707df4f5",
+      "source": "TGcom24",
+      "title": "Nvidia, 130mila firme per reintegrare Jensen Huang",
+      "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-dimissioni-huang-petizione-musk_119002434-202602k.shtml",
+      "published": "2026-11-15T12:32:00+00:00"
+    },
     {
       "id": "b3374153cda09cece64f",
       "source": "TGcom24",
@@ -304,13 +311,6 @@
       "title": "Milano, nuovo corteo di \"Italia in piazza\": poche centinaia i presenti",
       "url": "https://www.tgcom24.mediaset.it/cronaca/milano-corteo-italia-piazza_118975423-202602k.shtml",
       "published": "2026-11-14T15:16:00+00:00"
-    },
-    {
-      "id": "9249a606d7700c26ac36",
-      "source": "TGcom24",
-      "title": "Cosenza, scontro frontale tra due auto in galleria: cinque vittime",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/cosenza-scontro-auto-vittime_118970178-202602k.shtml",
-      "published": "2026-11-14T13:31:00+00:00"
     },
     {
       "id": "aef4020f77fa7154c4a8",
