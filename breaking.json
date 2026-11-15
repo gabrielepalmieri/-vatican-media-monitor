@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-15T03:20:24.586234+00:00",
+  "updated_at": "2026-11-15T03:25:23.038254+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-11-15T03:20:24.586234+00:00"
+      "checked_at": "2026-11-15T03:25:23.038254+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-15T03:20:24.586234+00:00"
+      "checked_at": "2026-11-15T03:25:23.038254+00:00"
     }
   },
   "items": [
+    {
+      "id": "25e592e222d7bf9f48c0",
+      "source": "BBC News",
+      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T03:21:04+00:00"
+    },
+    {
+      "id": "dfa1b610a7205ba0e5de",
+      "source": "BBC News",
+      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T02:49:45+00:00"
+    },
     {
       "id": "ee4f4f1509a0cbf6e7cc",
       "source": "BBC News",
@@ -73,13 +87,6 @@
       "title": "Attacco hacker a La Poste in Francia: violati i dati di 22 milioni di persone",
       "url": "https://www.tgcom24.mediaset.it/mondo/francia-la-poste-attacco-hacker-dati-violazione-indagini_118987286-202602k.shtml",
       "published": "2026-11-14T20:50:00+00:00"
-    },
-    {
-      "id": "144ce218667fd5c49a4d",
-      "source": "BBC News",
-      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-      "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T20:23:06+00:00"
     },
     {
       "id": "6e75b4004ec87b11f2e0",
@@ -276,13 +283,6 @@
       "title": "Microsoft, ripristinati tutti i servizi dopo il blackout globale",
       "url": "https://www.tgcom24.mediaset.it/mondo/microsoft-ripristinati-servizi_118958339-202602k.shtml",
       "published": "2026-11-14T07:15:00+00:00"
-    },
-    {
-      "id": "6cb4db382a5d1dbf3dea",
-      "source": "BBC News",
-      "title": "Microsoft says services fully restored after day-long global outage",
-      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T06:42:27+00:00"
     },
     {
       "id": "f840163057312a1c98f1",
