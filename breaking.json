@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-15T00:25:17.535184+00:00",
+  "updated_at": "2026-11-15T00:30:42.790822+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-11-15T00:25:17.535184+00:00"
+      "checked_at": "2026-11-15T00:30:42.790822+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-15T00:25:17.535184+00:00"
+      "checked_at": "2026-11-15T00:30:42.790822+00:00"
     }
   },
   "items": [
+    {
+      "id": "ee4f4f1509a0cbf6e7cc",
+      "source": "BBC News",
+      "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T00:06:55+00:00"
+    },
     {
       "id": "e982de98774614c2c887",
       "source": "BBC News",
@@ -311,13 +318,6 @@
       "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
       "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-13T23:00:31+00:00"
-    },
-    {
-      "id": "7983d78e620ca6d97244",
-      "source": "BBC News",
-      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T16:40:31+00:00"
     },
     {
       "id": "eee1c8c2e3629902b249",
