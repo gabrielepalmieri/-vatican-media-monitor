@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-14T12:07:24.269356+00:00",
+  "updated_at": "2026-11-15T01:50:58.386383+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-11-14T12:07:24.269356+00:00",
+  "un_verified_at": "2026-11-15T01:50:58.386383+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,25 +1918,6 @@
     }
   ],
   "days": {
-    "2026-11-13": {
-      "saints": [
-        {
-          "title": "Santa Agostina Pietrantoni, vergine",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/13.html"
-        },
-        {
-          "title": "San Nicola I, papa",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/13.html"
-        },
-        {
-          "title": "Sant'Omobono",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/13/sant-omobono-.html"
-        }
-      ],
-      "un": [],
-      "un_available": true,
-      "holy_see": []
-    },
     "2026-11-14": {
       "saints": [
         {
@@ -2670,6 +2651,22 @@
         }
       ],
       "un": [],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-12-20": {
+      "saints": [
+        {
+          "title": "San Filogonio, vescovo di Antiochia",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/20/san-filogonio--vescovo-di-antiochia.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata internazionale della solidarietà umana",
+          "url": "https://www.un.org/en/observances/human-solidarity-day"
+        }
+      ],
       "un_available": true,
       "holy_see": []
     }
