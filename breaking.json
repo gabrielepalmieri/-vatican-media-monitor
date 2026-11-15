@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-15T16:05:19.028545+00:00",
+  "updated_at": "2026-11-15T16:10:28.523225+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-15T16:05:19.028545+00:00"
+      "checked_at": "2026-11-15T16:10:28.523225+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-15T16:05:19.028545+00:00"
+      "checked_at": "2026-11-15T16:10:28.523225+00:00"
     }
   },
   "items": [
+    {
+      "id": "df3edb5731f11c6aec85",
+      "source": "TGcom24",
+      "title": "Perù, Papa Leone sbarca a Cusco: bagno di folla e giro in Papamobile",
+      "url": "https://www.tgcom24.mediaset.it/mondo/papa-leone-xiv-cusco-peru-folla_119013657-202602k.shtml",
+      "published": "2026-11-15T16:05:00+00:00"
+    },
     {
       "id": "25e592e222d7bf9f48c0",
       "source": "BBC News",
@@ -283,13 +290,6 @@
       "title": "Israele, Eisenkot: \"La proposta di Netanyahu? E' l'ennesimo trucco\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/netanyahu-governo-unita-nazionale-iran-eisenkot_118982288-202602k.shtml",
       "published": "2026-11-14T19:55:00+00:00"
-    },
-    {
-      "id": "ade70d7c05fbe97b4cc8",
-      "source": "TGcom24",
-      "title": "Scuola, Valditara: \"Stanziati complessivamente 64,5 miliardi di euro\"",
-      "url": "https://www.tgcom24.mediaset.it/politica/scuola-ministro-valditara-stanziati-64-5-miliardi-euro-manovra_118984152-202602k.shtml",
-      "published": "2026-11-14T19:19:00+00:00"
     },
     {
       "id": "a89d76b5ce60a2d40c7b",
