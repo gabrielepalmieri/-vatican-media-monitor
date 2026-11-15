@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-15T09:40:23.796303+00:00",
+  "updated_at": "2026-11-15T09:45:27.685407+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-15T09:40:23.796303+00:00"
+      "checked_at": "2026-11-15T09:45:27.685407+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-15T09:40:23.796303+00:00"
+      "checked_at": "2026-11-15T09:45:27.685407+00:00"
     }
   },
   "items": [
+    {
+      "id": "fa314e5567293757bb6f",
+      "source": "TGcom24",
+      "title": "Cadde dal tettuccio di un'auto in corsa, morto 23enne a Treviso",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/treviso-cade-tettuccio-auto-morto_118994368-202602k.shtml",
+      "published": "2026-11-15T09:40:00+00:00"
+    },
     {
       "id": "389bd7ac15265cbe1341",
       "source": "BBC News",
@@ -297,13 +304,6 @@
       "title": "Roma, colpito al petto con un paio di forbici: 44enne morto sul colpo",
       "url": "https://www.tgcom24.mediaset.it/cronaca/roma-morto-forbici-petto-lite_118964567-202602k.shtml",
       "published": "2026-11-14T11:38:00+00:00"
-    },
-    {
-      "id": "38fa19159e6fff014d1d",
-      "source": "TGcom24",
-      "title": "Milano, 92enne ucciso durante il raggiro del falso carabiniere: due fermi",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-92enne-ucciso-durante-raggiro_118964407-202602k.shtml",
-      "published": "2026-11-14T11:07:00+00:00"
     },
     {
       "id": "aef4020f77fa7154c4a8",
