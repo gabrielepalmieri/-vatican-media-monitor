@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-15T08:45:27.940225+00:00",
+  "updated_at": "2026-11-15T08:50:24.539844+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-15T08:45:27.940225+00:00"
+      "checked_at": "2026-11-15T08:50:24.539844+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-15T08:45:27.940225+00:00"
+      "checked_at": "2026-11-15T08:50:24.539844+00:00"
     }
   },
   "items": [
+    {
+      "id": "4a837811e6df20efdd63",
+      "source": "TGcom24",
+      "title": "Miami, collisione fra due aerei sulla pista dell'aeroporto: due feriti",
+      "url": "https://www.tgcom24.mediaset.it/mondo/miami-aeroporto-scontro-aerei-feriti_118993116-202602k.shtml",
+      "published": "2026-11-15T08:41:00+00:00"
+    },
     {
       "id": "c073bc42db100182d9ed",
       "source": "BBC News",
@@ -297,13 +304,6 @@
       "title": "Cortei, oltre 50 perquisizioni in 13 città: coinvolti anche minorenni",
       "url": "https://www.tgcom24.mediaset.it/cronaca/cortei-50-perquisizioni-digos_118964027-202602k.shtml",
       "published": "2026-11-14T10:35:00+00:00"
-    },
-    {
-      "id": "da50f85dd7866019122e",
-      "source": "TGcom24",
-      "title": "Zelensky: \"Usa propongono adesione Nato in cambio della cessione del Donbass\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-14-novembre_118963620-202602k.shtml",
-      "published": "2026-11-14T09:55:00+00:00"
     },
     {
       "id": "afeb7a0c1462fec920f9",
