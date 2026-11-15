@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T19:11:01.126223+00:00",
+  "updated_at": "2026-11-15T19:27:16.310319+00:00",
   "items": [
     {
       "id": "d4eca266a4359d84",
@@ -2717,7 +2717,8 @@
       "cluster_id": "2ec4efb831cf55b0",
       "cluster_sources": [
         "Instagram"
-      ]
+      ],
+      "account_checked_at": "2026-11-15T19:25:48.811566+00:00"
     },
     {
       "id": "7e323e9c2e0bf5d1",
@@ -2798,7 +2799,8 @@
       "cluster_sources": [
         "Facebook",
         "Rome Reports"
-      ]
+      ],
+      "account_checked_at": "2026-11-15T19:25:48.811566+00:00"
     },
     {
       "id": "bee6464f089b025f",
@@ -2837,7 +2839,8 @@
       "cluster_sources": [
         "Facebook",
         "X"
-      ]
+      ],
+      "account_checked_at": "2026-11-15T19:25:48.811566+00:00"
     },
     {
       "id": "a930d0c09de76899",
@@ -3226,7 +3229,8 @@
       "cluster_id": "1ec9bdda69274c74",
       "cluster_sources": [
         "Facebook"
-      ]
+      ],
+      "account_checked_at": "2026-11-15T19:25:48.811566+00:00"
     },
     {
       "id": "de6b0f6f09990d19",
@@ -3593,12 +3597,6 @@
       "article_url": "https://www.washingtonpost.com/world/2026/11/15/peru-pope-visit-indigenous-amazon/4b3b2c92-e0eb-11f1-a99e-b3e3805c6b8b_story.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-15T12:10:46.528461+00:00",
-      "vaticanist_ids": [
-        "132"
-      ],
-      "vaticanist_names": [
-        "Nicole Winfield"
-      ],
       "author_url": "",
       "cluster_id": "09c6c1d61538622f",
       "cluster_sources": [
@@ -3614,6 +3612,12 @@
         "WKMG",
         "WSB-TV",
         "cruxnow.com"
+      ],
+      "vaticanist_ids": [
+        "132"
+      ],
+      "vaticanist_names": [
+        "Nicole Winfield"
       ]
     },
     {
@@ -3631,7 +3635,8 @@
       "cluster_id": "5291292bd2103fad",
       "cluster_sources": [
         "Facebook"
-      ]
+      ],
+      "account_checked_at": "2026-11-15T19:25:48.811566+00:00"
     },
     {
       "id": "abb426a50df77ac2",
@@ -3724,7 +3729,8 @@
       "cluster_id": "00179a169e25bbcc",
       "cluster_sources": [
         "Instagram"
-      ]
+      ],
+      "account_checked_at": "2026-11-15T19:25:48.811566+00:00"
     },
     {
       "id": "1b16cbdd9a39493e",
@@ -4256,7 +4262,8 @@
       "cluster_id": "b8e141eb3189a953",
       "cluster_sources": [
         "Facebook"
-      ]
+      ],
+      "account_checked_at": "2026-11-15T19:25:48.811566+00:00"
     },
     {
       "id": "560e82ee57ea0c03",
@@ -4273,7 +4280,8 @@
       "cluster_id": "156c91390690eeff",
       "cluster_sources": [
         "Facebook"
-      ]
+      ],
+      "account_checked_at": "2026-11-15T19:25:48.811566+00:00"
     },
     {
       "id": "311aa56f99d67641",
@@ -4372,7 +4380,8 @@
       "cluster_id": "aa06e3fdb6fbb5e8",
       "cluster_sources": [
         "TikTok"
-      ]
+      ],
+      "account_checked_at": "2026-11-15T19:25:48.811566+00:00"
     },
     {
       "id": "c84d40f92fbe2761",
@@ -4391,7 +4400,8 @@
         "Facebook",
         "Instagram",
         "X"
-      ]
+      ],
+      "account_checked_at": "2026-11-15T19:25:48.811566+00:00"
     },
     {
       "id": "191529682179f0d6",
@@ -4487,7 +4497,8 @@
       "cluster_id": "156c91390690eeff",
       "cluster_sources": [
         "Facebook"
-      ]
+      ],
+      "account_checked_at": "2026-11-15T19:25:48.811566+00:00"
     },
     {
       "id": "43a18f767b68b781",
@@ -4724,7 +4735,8 @@
       "cluster_id": "4806b08d2f3ce2a2",
       "cluster_sources": [
         "X"
-      ]
+      ],
+      "account_checked_at": "2026-11-15T19:25:48.811566+00:00"
     },
     {
       "id": "ab7c9f32d7f703c5",
@@ -4759,7 +4771,8 @@
       "cluster_id": "b4bfc852803fef31",
       "cluster_sources": [
         "X"
-      ]
+      ],
+      "account_checked_at": "2026-11-15T19:25:48.811566+00:00"
     },
     {
       "id": "02272d2c59d17e5d",
@@ -4777,16 +4790,16 @@
       "article_url": "https://www.abc.es/internacional/leon-xiv-viaja-cuzco-3400-metros-altura-20261115185324-nt.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-15T18:20:44.677457+00:00",
+      "author_url": "",
+      "cluster_id": "02272d2c59d17e5d",
+      "cluster_sources": [
+        "ABC"
+      ],
       "vaticanist_ids": [
         "60"
       ],
       "vaticanist_names": [
         "Javier Martínez-Brocal"
-      ],
-      "author_url": "",
-      "cluster_id": "02272d2c59d17e5d",
-      "cluster_sources": [
-        "ABC"
       ]
     },
     {
@@ -4897,7 +4910,8 @@
       "cluster_id": "907572f8788f0b6c",
       "cluster_sources": [
         "X"
-      ]
+      ],
+      "account_checked_at": "2026-11-15T19:25:48.811566+00:00"
     },
     {
       "id": "b4100f2b5555f650",
@@ -4936,7 +4950,8 @@
       "cluster_id": "e180f8fc76d4da16",
       "cluster_sources": [
         "X"
-      ]
+      ],
+      "account_checked_at": "2026-11-15T19:25:48.811566+00:00"
     },
     {
       "id": "3e4bdcb61abece18",
@@ -5016,16 +5031,16 @@
       "article_url": "https://roma.corriere.it/notizie/vaticano-news/26_novembre_15/leone-xiv-tra-le-ande-e-l-amazzonia-la-fede-unisce-difendiamo-i-popoli-e-la-foresta-d24797cf-c98f-434c-827d-8a76eefffxlk.shtml",
       "author_verified": true,
       "byline_checked_at": "2026-11-15T18:01:14.675362+00:00",
+      "author_url": "",
+      "cluster_id": "1ca31ef6cbffaace",
+      "cluster_sources": [
+        "Corriere Roma"
+      ],
       "vaticanist_ids": [
         "11"
       ],
       "vaticanist_names": [
         "Gian Guido Vecchi"
-      ],
-      "author_url": "",
-      "cluster_id": "1ca31ef6cbffaace",
-      "cluster_sources": [
-        "Corriere Roma"
       ]
     },
     {
@@ -5099,7 +5114,8 @@
       "cluster_id": "998f397a25e8d3b1",
       "cluster_sources": [
         "Facebook"
-      ]
+      ],
+      "account_checked_at": "2026-11-15T19:25:48.811566+00:00"
     },
     {
       "id": "6eccb14a0ad8b947",
@@ -5175,17 +5191,17 @@
       "article_url": "https://www.lanacion.com.ar/el-mundo/el-papa-leon-xiv-ante-mas-de-medio-millon-de-fieles-en-cusco-en-la-etapa-mas-desafiante-de-su-gira-a-nid15112026/",
       "author_verified": true,
       "byline_checked_at": "2026-11-15T17:50:44.063922+00:00",
-      "vaticanist_ids": [
-        "46"
-      ],
-      "vaticanist_names": [
-        "Elisabetta Piqué"
-      ],
       "author_url": "",
       "cluster_id": "9da4d84fde65852a",
       "cluster_sources": [
         "El Debate",
         "La Nación"
+      ],
+      "vaticanist_ids": [
+        "46"
+      ],
+      "vaticanist_names": [
+        "Elisabetta Piqué"
       ]
     },
     {
@@ -5388,7 +5404,8 @@
       "cluster_sources": [
         "Facebook",
         "Instagram"
-      ]
+      ],
+      "account_checked_at": "2026-11-15T19:25:48.811566+00:00"
     },
     {
       "id": "311e4bb2390cafdf",
@@ -5522,7 +5539,8 @@
       "cluster_id": "2ec4efb831cf55b0",
       "cluster_sources": [
         "Instagram"
-      ]
+      ],
+      "account_checked_at": "2026-11-15T19:25:48.811566+00:00"
     },
     {
       "id": "d1867a6e4388989f",
@@ -5815,7 +5833,8 @@
       "cluster_id": "25fad4922ef2e18f",
       "cluster_sources": [
         "X"
-      ]
+      ],
+      "account_checked_at": "2026-11-15T19:25:48.811566+00:00"
     },
     {
       "id": "6bc5def5506374ac",
@@ -6383,7 +6402,8 @@
         "Facebook",
         "X",
         "teleSUR"
-      ]
+      ],
+      "account_checked_at": "2026-11-15T19:25:48.811566+00:00"
     },
     {
       "id": "cd0e8739408167da",
@@ -9820,16 +9840,16 @@
       "article_url": "https://www.lastampa.it/esteri/2026/11/15/news/papa_leone_sfida_3400_metri_dopo_operazione_chirurgica_malattia_non_sminuisce_la_persona-15799007/",
       "author_verified": true,
       "byline_checked_at": "2026-11-15T17:10:42.854606+00:00",
+      "author_url": "",
+      "cluster_id": "6745ad20f03d29ac",
+      "cluster_sources": [
+        "La Stampa"
+      ],
       "vaticanist_ids": [
         "38"
       ],
       "vaticanist_names": [
         "Giacomo Galeazzi"
-      ],
-      "author_url": "",
-      "cluster_id": "6745ad20f03d29ac",
-      "cluster_sources": [
-        "La Stampa"
       ]
     },
     {
@@ -11940,12 +11960,6 @@
       "article_url": "https://www.washingtonpost.com/world/2026/11/15/peru-pope-visit-indigenous-amazon/4b3b2c92-e0eb-11f1-a99e-b3e3805c6b8b_story.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-15T12:10:46.528461+00:00",
-      "vaticanist_ids": [
-        "132"
-      ],
-      "vaticanist_names": [
-        "Nicole Winfield"
-      ],
       "author_url": "",
       "cluster_id": "09c6c1d61538622f",
       "cluster_sources": [
@@ -11961,6 +11975,12 @@
         "WKMG",
         "WSB-TV",
         "cruxnow.com"
+      ],
+      "vaticanist_ids": [
+        "132"
+      ],
+      "vaticanist_names": [
+        "Nicole Winfield"
       ]
     },
     {
@@ -14652,16 +14672,16 @@
       "article_url": "https://www.lavanguardia.com/internacional/20261115/11684838/otan-descarta-cumbre-2027-evitar-nuevo-choque-trump.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-15T16:20:46.168808+00:00",
+      "author_url": "",
+      "cluster_id": "79fe79ad82988646",
+      "cluster_sources": [
+        "La Vanguardia"
+      ],
       "vaticanist_ids": [
         "22"
       ],
       "vaticanist_names": [
         "Anna Buj"
-      ],
-      "author_url": "",
-      "cluster_id": "79fe79ad82988646",
-      "cluster_sources": [
-        "La Vanguardia"
       ]
     },
     {
@@ -28764,12 +28784,6 @@
       "article_url": "https://www.independent.co.uk/news/pope-leo-xiv-peru-pope-francis-cusco-andes-b3085187.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-15T12:10:46.528461+00:00",
-      "vaticanist_ids": [
-        "132"
-      ],
-      "vaticanist_names": [
-        "Nicole Winfield"
-      ],
       "author_url": "",
       "cluster_id": "09c6c1d61538622f",
       "cluster_sources": [
@@ -28785,6 +28799,12 @@
         "WKMG",
         "WSB-TV",
         "cruxnow.com"
+      ],
+      "vaticanist_ids": [
+        "132"
+      ],
+      "vaticanist_names": [
+        "Nicole Winfield"
       ]
     },
     {
@@ -28917,16 +28937,16 @@
       "article_url": "https://www.die-tagespost.de/kirche/vatikan-und-papst/die-medizin-gegen-das-konsumdenken-art-280527",
       "author_verified": true,
       "byline_checked_at": "2026-11-15T12:01:12.739200+00:00",
+      "author_url": "",
+      "cluster_id": "533210671d3411f5",
+      "cluster_sources": [
+        "die-tagespost.de"
+      ],
       "vaticanist_ids": [
         "193"
       ],
       "vaticanist_names": [
         "Guido Horst"
-      ],
-      "author_url": "",
-      "cluster_id": "533210671d3411f5",
-      "cluster_sources": [
-        "die-tagespost.de"
       ]
     },
     {
@@ -32849,16 +32869,16 @@
       "article_url": "https://www.la-croix.com/religion/leon-xiv-au-perou-a-zana-l-au-revoir-du-pape-aux-descendants-desclaves-20261115",
       "author_verified": true,
       "byline_checked_at": "2026-11-15T09:50:46.835387+00:00",
+      "author_url": "",
+      "cluster_id": "21f045c7624f1cd3",
+      "cluster_sources": [
+        "La Croix"
+      ],
       "vaticanist_ids": [
         "4"
       ],
       "vaticanist_names": [
         "Mikaël Corre"
-      ],
-      "author_url": "",
-      "cluster_id": "21f045c7624f1cd3",
-      "cluster_sources": [
-        "La Croix"
       ]
     },
     {
@@ -38175,17 +38195,17 @@
       "article_url": "https://www.lastampa.it/esteri/2026/11/15/news/viaggio_papa_leone_peru_chiclayo-15798780/",
       "author_verified": true,
       "byline_checked_at": "2026-11-15T06:40:39.817304+00:00",
-      "vaticanist_ids": [
-        "38"
-      ],
-      "vaticanist_names": [
-        "Giacomo Galeazzi"
-      ],
       "author_url": "",
       "author_search": true,
       "cluster_id": "277402c1d54bc78e",
       "cluster_sources": [
         "La Stampa"
+      ],
+      "vaticanist_ids": [
+        "38"
+      ],
+      "vaticanist_names": [
+        "Giacomo Galeazzi"
       ]
     },
     {
@@ -38226,17 +38246,17 @@
       "article_url": "https://www.sueddeutsche.de/politik/papst-leo-xiv-peru-li.3577629?reduced=true",
       "author_verified": true,
       "byline_checked_at": "2026-11-14T11:01:11.178050+00:00",
-      "vaticanist_ids": [
-        "75"
-      ],
-      "vaticanist_names": [
-        "Elisa Britzelmeier"
-      ],
       "author_url": "",
       "cluster_id": "dfbd5fca7725db50",
       "cluster_sources": [
         "ORF",
         "SZ.de"
+      ],
+      "vaticanist_ids": [
+        "75"
+      ],
+      "vaticanist_names": [
+        "Elisa Britzelmeier"
       ]
     },
     {
@@ -40830,16 +40850,16 @@
       "article_url": "https://www.avvenire.it/politica/bibbia-e-costituzione-due-carte-preziose-per-ritrovare-lumanita-e-tutelare-la-democrazia_115811",
       "author_verified": true,
       "byline_checked_at": "2026-11-15T05:01:14.694400+00:00",
+      "author_url": "",
+      "cluster_id": "3541639de22052d9",
+      "cluster_sources": [
+        "Avvenire"
+      ],
       "vaticanist_ids": [
         "95"
       ],
       "vaticanist_names": [
         "Agnese Palmucci"
-      ],
-      "author_url": "",
-      "cluster_id": "3541639de22052d9",
-      "cluster_sources": [
-        "Avvenire"
       ]
     },
     {
@@ -40941,16 +40961,16 @@
       "article_url": "https://www.avvenire.it/chiesa/fame-di-pane-sete-di-dio-ecco-la-giornata-mondiale-che-da-voce-ai-poveri_115803",
       "author_verified": true,
       "byline_checked_at": "2026-11-15T05:01:14.694400+00:00",
+      "author_url": "",
+      "cluster_id": "778230be4827975e",
+      "cluster_sources": [
+        "Avvenire"
+      ],
       "vaticanist_ids": [
         "164"
       ],
       "vaticanist_names": [
         "Roberta Pumpo"
-      ],
-      "author_url": "",
-      "cluster_id": "778230be4827975e",
-      "cluster_sources": [
-        "Avvenire"
       ]
     },
     {
@@ -41930,8 +41950,8 @@
       ]
     },
     {
-      "id": "22002f009cfb421e",
-      "title": "Papa Leone torna “Padre Bob”: «No a chi sogna l’immortalità»",
+      "id": "1c643bcca6ec3714",
+      "title": "Papa Leone torna ?Padre Bob?: «No a chi sogna l?immortalità»",
       "url": "https://www.ilmessaggero.it/vaticano/papa_leone_chiclayo_padre_bob_immortalita-9890130.html",
       "source": "Il Messaggero",
       "country": "Italia",
@@ -41953,7 +41973,7 @@
       ],
       "author_url": "",
       "author_search": true,
-      "cluster_id": "22002f009cfb421e",
+      "cluster_id": "1c643bcca6ec3714",
       "cluster_sources": [
         "Il Messaggero"
       ]
@@ -42990,12 +43010,6 @@
       "article_url": "https://www.washingtonpost.com/world/2026/11/14/pope-peru-violence-crime/868039f0-e046-11f1-912c-4fbb80d73f7f_story.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-14T16:40:42.704321+00:00",
-      "vaticanist_ids": [
-        "132"
-      ],
-      "vaticanist_names": [
-        "Nicole Winfield"
-      ],
       "author_url": "",
       "cluster_id": "0625f3b12b411946",
       "cluster_sources": [
@@ -43020,6 +43034,12 @@
         "WSLS",
         "WSOC TV",
         "mypanhandle.com"
+      ],
+      "vaticanist_ids": [
+        "132"
+      ],
+      "vaticanist_names": [
+        "Nicole Winfield"
       ]
     },
     {
@@ -44997,12 +45017,6 @@
       "article_url": "https://abc7.com/post/pope-leo-xiv-laments-violence-enveloping-peru-he-ministers-former-diocese-chiclayos-cathedral/20041044/",
       "author_verified": true,
       "byline_checked_at": "2026-11-15T01:40:45.025054+00:00",
-      "vaticanist_ids": [
-        "132"
-      ],
-      "vaticanist_names": [
-        "Nicole Winfield"
-      ],
       "author_url": "",
       "cluster_id": "0625f3b12b411946",
       "cluster_sources": [
@@ -45027,6 +45041,12 @@
         "WSLS",
         "WSOC TV",
         "mypanhandle.com"
+      ],
+      "vaticanist_ids": [
+        "132"
+      ],
+      "vaticanist_names": [
+        "Nicole Winfield"
       ]
     },
     {
@@ -46824,7 +46844,8 @@
       "cluster_id": "c3d4f0f67c29d7c1",
       "cluster_sources": [
         "The Telegraph"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "66e3dd3bc7b99b16",
@@ -47340,7 +47361,8 @@
       "cluster_id": "c62e6775440ebd5e",
       "cluster_sources": [
         "la Repubblica"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "dfdda771e22b5104",
@@ -47867,7 +47889,8 @@
       "cluster_id": "4aefcfe84cd6f240",
       "cluster_sources": [
         "EL PAÍS"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "f0974a70987e2e97",
@@ -47938,7 +47961,8 @@
       "cluster_id": "3a3425a975aa6d18",
       "cluster_sources": [
         "The Telegraph"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "9b934aca7b1b51c3",
@@ -48308,7 +48332,8 @@
         "Corriere della Sera",
         "La Stampa",
         "la Repubblica"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "abfd028c021c321b",
@@ -48751,18 +48776,18 @@
       "article_url": "https://www.ncronline.org/vatican/chiclayo-pope-leo-calls-local-clergy-reject-clericalism-warns-students-against-soulless",
       "author_verified": true,
       "byline_checked_at": "2026-11-14T22:20:46.042121+00:00",
-      "vaticanist_ids": [
-        "188"
-      ],
-      "vaticanist_names": [
-        "Junno Arocho Esteves"
-      ],
       "author_url": "",
       "cluster_id": "0a2caacfc2582125",
       "cluster_sources": [
         "Catholic Standard",
         "National Catholic Reporter",
         "OSV News"
+      ],
+      "vaticanist_ids": [
+        "188"
+      ],
+      "vaticanist_names": [
+        "Junno Arocho Esteves"
       ]
     },
     {
@@ -49434,7 +49459,8 @@
       "cluster_id": "1fa0a9557145ce35",
       "cluster_sources": [
         "Infobae"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "7602b60965ca1298",
@@ -49517,16 +49543,16 @@
       "article_url": "https://www.ncronline.org/vatican/once-called-gringo-pope-leo-returns-chiclayo-holy-father",
       "author_verified": true,
       "byline_checked_at": "2026-11-14T21:50:44.383952+00:00",
+      "author_url": "",
+      "cluster_id": "72daf1f55225be24",
+      "cluster_sources": [
+        "National Catholic Reporter"
+      ],
       "vaticanist_ids": [
         "40"
       ],
       "vaticanist_names": [
         "Justin Mc Lellan"
-      ],
-      "author_url": "",
-      "cluster_id": "72daf1f55225be24",
-      "cluster_sources": [
-        "National Catholic Reporter"
       ]
     },
     {
@@ -49757,7 +49783,8 @@
       "cluster_id": "78a932da2e4f2d7e",
       "cluster_sources": [
         "Corriere della Sera"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "75c57035c64cd394",
@@ -50430,7 +50457,8 @@
       "cluster_id": "1c7a83f5c7975c7b",
       "cluster_sources": [
         "Corriere della Sera"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "533bbc3bde5c9bbd",
@@ -50529,7 +50557,8 @@
       "cluster_sources": [
         "EFE - Agencia de noticias",
         "Infobae"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "7c4f48e52091095e",
@@ -50585,7 +50614,8 @@
       "cluster_id": "d2515256dd2d6094",
       "cluster_sources": [
         "The Telegraph"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "ce85e6f9575d86c1",
@@ -50624,7 +50654,8 @@
       "cluster_id": "0c894096d651ebcd",
       "cluster_sources": [
         "The Telegraph"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "487cdc02a9fc3238",
@@ -50953,7 +50984,8 @@
       "cluster_id": "a5754b0b4ef2cc48",
       "cluster_sources": [
         "The Telegraph"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "2b696cede3a8f2bd",
@@ -51101,17 +51133,17 @@
       "article_url": "https://www.americamagazine.org/vatican-dispatch/2026/11/14/chiclayo-pope-leo-peru-virgin-mary/",
       "author_verified": true,
       "byline_checked_at": "2026-11-14T21:01:15.330221+00:00",
-      "vaticanist_ids": [
-        "9"
-      ],
-      "vaticanist_names": [
-        "Gerard O'Connell"
-      ],
       "author_url": "",
       "cluster_id": "51c3ad80c2c07266",
       "cluster_sources": [
         "America Magazine",
         "OSV News"
+      ],
+      "vaticanist_ids": [
+        "9"
+      ],
+      "vaticanist_names": [
+        "Gerard O'Connell"
       ]
     },
     {
@@ -51191,7 +51223,8 @@
       "cluster_id": "bf951b288e249c17",
       "cluster_sources": [
         "The Telegraph"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "6538859976650f58",
@@ -51254,7 +51287,8 @@
       "cluster_id": "9ee51df6234d294e",
       "cluster_sources": [
         "Corriere della Sera"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "7f79385411ffbcd7",
@@ -52298,17 +52332,17 @@
       "article_url": "https://www.pillarcatholic.com/p/in-chiclayo-the-church-that-leo-built",
       "author_verified": true,
       "byline_checked_at": "2026-11-14T20:10:39.957885+00:00",
-      "vaticanist_ids": [
-        "34"
-      ],
-      "vaticanist_names": [
-        "Edgar Beltrán"
-      ],
       "author_url": "",
       "author_search": true,
       "cluster_id": "1475cf3383c63983",
       "cluster_sources": [
         "The Pillar"
+      ],
+      "vaticanist_ids": [
+        "34"
+      ],
+      "vaticanist_names": [
+        "Edgar Beltrán"
       ]
     },
     {
@@ -52327,16 +52361,16 @@
       "article_url": "https://www.pillarcatholic.com/p/in-chiclayo-the-church-that-leo-built/comments",
       "author_verified": true,
       "byline_checked_at": "2026-11-15T02:10:43.359172+00:00",
+      "author_url": "",
+      "cluster_id": "1475cf3383c63983",
+      "cluster_sources": [
+        "The Pillar"
+      ],
       "vaticanist_ids": [
         "34"
       ],
       "vaticanist_names": [
         "Edgar Beltrán"
-      ],
-      "author_url": "",
-      "cluster_id": "1475cf3383c63983",
-      "cluster_sources": [
-        "The Pillar"
       ]
     },
     {
@@ -53031,7 +53065,8 @@
       "cluster_id": "cbf87ff256450030",
       "cluster_sources": [
         "The Telegraph"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "ee7de86c3375102a",
@@ -53296,7 +53331,8 @@
       "cluster_id": "c5e308166f929f3d",
       "cluster_sources": [
         "TN"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "b1d58f2ac411e908",
@@ -53332,12 +53368,6 @@
       "article_url": "https://www.washingtonpost.com/world/2026/11/14/pope-leo-peru-slavery-afro-peruvians/a11d7bfc-dffa-11f1-912c-4fbb80d73f7f_story.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-14T07:40:50.060038+00:00",
-      "vaticanist_ids": [
-        "132"
-      ],
-      "vaticanist_names": [
-        "Nicole Winfield"
-      ],
       "author_url": "",
       "cluster_id": "0646108a9266f695",
       "cluster_sources": [
@@ -53351,6 +53381,12 @@
         "The Washington Post",
         "WSLS",
         "cruxnow.com"
+      ],
+      "vaticanist_ids": [
+        "132"
+      ],
+      "vaticanist_names": [
+        "Nicole Winfield"
       ]
     },
     {
@@ -53446,7 +53482,8 @@
       "cluster_id": "0cd9e4e8acc1656f",
       "cluster_sources": [
         "Corriere della Sera"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "38d5eea7d0404db5",
@@ -53865,17 +53902,17 @@
       "article_url": "https://roma.corriere.it/notizie/vaticano-news/26_novembre_14/leone-xiv-sulla-cordigliera-delle-ande-un-mese-dopo-l-operazione-pensiamo-alla-sofferenza-di-chi-e-costretto-ad-abbandonare-la-810007a8-40c5-4208-98a9-aff211cdfxlk.shtml",
       "author_verified": true,
       "byline_checked_at": "2026-11-14T18:50:42.261359+00:00",
-      "vaticanist_ids": [
-        "11"
-      ],
-      "vaticanist_names": [
-        "Gian Guido Vecchi"
-      ],
       "author_url": "",
       "author_search": true,
       "cluster_id": "4a004b962548157d",
       "cluster_sources": [
         "Corriere Roma"
+      ],
+      "vaticanist_ids": [
+        "11"
+      ],
+      "vaticanist_names": [
+        "Gian Guido Vecchi"
       ]
     },
     {
@@ -54189,7 +54226,8 @@
       "cluster_id": "626471c5ad4f5ca7",
       "cluster_sources": [
         "The Telegraph"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "81cb569d80cd3589",
@@ -55109,7 +55147,8 @@
       "cluster_id": "073a3a6186292354",
       "cluster_sources": [
         "Le Monde.fr"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "4d74d7ddcfbbef3a",
@@ -55168,7 +55207,8 @@
       "cluster_id": "0056a066b41c19a4",
       "cluster_sources": [
         "EFE - Agencia de noticias"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "846b8131150e6c78",
@@ -57110,7 +57150,8 @@
       "cluster_id": "c52b6496162247c3",
       "cluster_sources": [
         "The Telegraph"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "1320092258d550df",
@@ -57613,7 +57654,8 @@
       "cluster_sources": [
         "AP News",
         "The Washington Post"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "e1d09a93f4e77351",
@@ -57801,7 +57843,8 @@
       "cluster_id": "b95cc4c6d00b11b5",
       "cluster_sources": [
         "The Telegraph"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "cd08bdaafc2a67a5",
@@ -58119,17 +58162,17 @@
       "article_url": "https://www.abc.es/internacional/leon-xiv-cumple-promesa-vuelve-pueblo-aislado-20261113184007-nt.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-14T17:50:42.348694+00:00",
-      "vaticanist_ids": [
-        "60"
-      ],
-      "vaticanist_names": [
-        "Javier Martínez-Brocal"
-      ],
       "author_url": "",
       "cluster_id": "1acba827d0868386",
       "cluster_sources": [
         "ABC",
         "Instagram"
+      ],
+      "vaticanist_ids": [
+        "60"
+      ],
+      "vaticanist_names": [
+        "Javier Martínez-Brocal"
       ]
     },
     {
@@ -58326,18 +58369,18 @@
       "article_url": "https://www.tgcom24.mediaset.it/2026/video/papa-leone-xiv-sulle-ande-per-una-messa-ad-alta-quota-100mila-persone-ad-accoglierlo_118982287-02k.shtml",
       "author_verified": true,
       "byline_checked_at": "2026-11-14T18:01:13.469729+00:00",
-      "vaticanist_ids": [
-        "246"
-      ],
-      "vaticanist_names": [
-        "Fabio Marchese Ragona"
-      ],
       "author_url": "",
       "author_search": true,
       "cluster_id": "2ff8dd1e5bc4ab48",
       "cluster_sources": [
         "Mediaset Infinity",
         "Tgcom24"
+      ],
+      "vaticanist_ids": [
+        "246"
+      ],
+      "vaticanist_names": [
+        "Fabio Marchese Ragona"
       ]
     },
     {
@@ -58629,7 +58672,8 @@
       "cluster_id": "ccfcaa93977ffee1",
       "cluster_sources": [
         "BBC"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "6ece47d7c8a162e6",
@@ -59343,7 +59387,8 @@
       "cluster_id": "056ff2dfb8a607ad",
       "cluster_sources": [
         "Corriere della Sera"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "fcf7b0ba20f0fa4f",
@@ -60024,7 +60069,8 @@
       "cluster_id": "2023fec2b7c95cf6",
       "cluster_sources": [
         "The Telegraph"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "0625f3b12b411946",
@@ -60257,7 +60303,8 @@
       "cluster_id": "07666ced3a37606a",
       "cluster_sources": [
         "The Telegraph"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "18658183b4422f03",
@@ -60439,7 +60486,6 @@
       "cluster_size": 1,
       "origin": "direct",
       "author": "Franca Giansoldati",
-      "author_url": "",
       "article_url": "https://www.ilmessaggero.it/vaticano/papa_leone_vittime_abusi_chiedono_giustizia_riparativa_sodalizio_vita_cristiana-9889878.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-14T17:01:18.555145+00:00",
@@ -60449,6 +60495,7 @@
       "vaticanist_names": [
         "Franca Giansoldati"
       ],
+      "author_url": "",
       "cluster_id": "a7368b8ebc8bd1d1",
       "cluster_sources": [
         "Il Messaggero"
@@ -60587,10 +60634,10 @@
       "cluster_size": 1,
       "origin": "direct",
       "author": "Vatican News",
-      "author_url": "",
       "article_url": "https://www.vaticannews.va/en/pope/news/2026-11/leo-xiv-peru-the-joy-of-being-a-disciple-and-missionary.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-14T17:01:18.555145+00:00",
+      "author_url": "",
       "cluster_id": "35d9ff24569aa068",
       "cluster_sources": [
         "Vatican News"
@@ -61116,7 +61163,8 @@
       "cluster_id": "6716976d26f9b053",
       "cluster_sources": [
         "The Telegraph"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "15e062268e1f420e",
@@ -61133,7 +61181,8 @@
       "cluster_id": "15e062268e1f420e",
       "cluster_sources": [
         "The Telegraph"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "9999ce83224c76c9",
@@ -61666,7 +61715,8 @@
       "cluster_id": "1ca625ef21166390",
       "cluster_sources": [
         "The Telegraph"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "4a36ca105a16d43c",
@@ -62163,7 +62213,8 @@
       "cluster_id": "2ac5200c8ba0935a",
       "cluster_sources": [
         "TN"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "b55230465401515f",
@@ -63223,12 +63274,6 @@
       "article_url": "https://www.independent.co.uk/news/peru-virgin-mary-lima-santa-cruz-nayib-bukele-b3085009.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-14T16:31:04.289919+00:00",
-      "vaticanist_ids": [
-        "132"
-      ],
-      "vaticanist_names": [
-        "Nicole Winfield"
-      ],
       "author_url": "",
       "cluster_id": "0625f3b12b411946",
       "cluster_sources": [
@@ -63253,6 +63298,12 @@
         "WSLS",
         "WSOC TV",
         "mypanhandle.com"
+      ],
+      "vaticanist_ids": [
+        "132"
+      ],
+      "vaticanist_names": [
+        "Nicole Winfield"
       ]
     },
     {
@@ -63449,7 +63500,8 @@
       "cluster_id": "2fd131088e66d29b",
       "cluster_sources": [
         "The Telegraph"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "4e087bbce371887d",
@@ -65200,7 +65252,8 @@
       "cluster_id": "a5e6781e6f47ef1a",
       "cluster_sources": [
         "The Telegraph"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "1171ae34c110f84f",
@@ -65903,7 +65956,8 @@
       "cluster_id": "d2bfab212a7f5fb2",
       "cluster_sources": [
         "Corriere della Sera"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "0065f6458b813968",
@@ -66301,7 +66355,8 @@
       "cluster_id": "16dad889a646f3e8",
       "cluster_sources": [
         "The Telegraph"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "754eca7e4d8ed5ee",
@@ -66343,17 +66398,17 @@
       "article_url": "https://www.osvnews.com/pope-leo-entrusts-chiclayo-and-his-papal-ministry-to-mary-at-coronation-ceremony/",
       "author_verified": true,
       "byline_checked_at": "2026-11-14T15:10:44.370215+00:00",
-      "vaticanist_ids": [
-        "188"
-      ],
-      "vaticanist_names": [
-        "Junno Arocho Esteves"
-      ],
       "author_url": "",
       "cluster_id": "51c3ad80c2c07266",
       "cluster_sources": [
         "America Magazine",
         "OSV News"
+      ],
+      "vaticanist_ids": [
+        "188"
+      ],
+      "vaticanist_names": [
+        "Junno Arocho Esteves"
       ]
     },
     {
@@ -68817,7 +68872,8 @@
       "cluster_id": "4978e69ae9f80b71",
       "cluster_sources": [
         "BBC"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "4f9d775af85905b3",
@@ -69964,17 +70020,17 @@
       "article_url": "https://www.postguam.com/news/world/before-he-was-pope-leo-he-was-their-bishop---now-he-s-back/article_cd5ad660-f470-43a9-93bf-beec04308a68.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-15T16:31:01.864345+00:00",
-      "vaticanist_ids": [
-        "165"
-      ],
-      "vaticanist_names": [
-        "Anthony Faiola"
-      ],
       "author_url": "",
       "cluster_id": "5dbd02df44b9cc85",
       "cluster_sources": [
         "The Guam Daily Post",
         "The Washington Post"
+      ],
+      "vaticanist_ids": [
+        "165"
+      ],
+      "vaticanist_names": [
+        "Anthony Faiola"
       ]
     },
     {
@@ -70625,10 +70681,10 @@
       "cluster_size": 1,
       "origin": "direct",
       "author": "Vatican News",
-      "author_url": "",
       "article_url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-santa-cruz-peru-incoronation-virgin-mary.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-14T14:01:14.232525+00:00",
+      "author_url": "",
       "cluster_id": "967588dcd0fa566b",
       "cluster_sources": [
         "Vatican News"
@@ -70968,7 +71024,8 @@
       "cluster_id": "b2ba11d19bc3b292",
       "cluster_sources": [
         "The Telegraph"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "d93b514150475524",
@@ -71256,17 +71313,17 @@
       "article_url": "https://www.acistampa.com/story/37663/papa-leone-xiv-alla-vergine-maria-immacolata-accanto-a-te-ho-imparato-a-essere-pastore-di-chiclayo",
       "author_verified": true,
       "byline_checked_at": "2026-11-14T16:31:04.289919+00:00",
-      "vaticanist_ids": [
-        "114"
-      ],
-      "vaticanist_names": [
-        "Veronica Giacometti"
-      ],
       "author_url": "",
       "cluster_id": "1f6c6a6ad539982e",
       "cluster_sources": [
         "ACI Stampa",
         "Vatican News"
+      ],
+      "vaticanist_ids": [
+        "114"
+      ],
+      "vaticanist_names": [
+        "Veronica Giacometti"
       ]
     },
     {
@@ -71703,7 +71760,8 @@
       "cluster_id": "5b438cf3b9a666bf",
       "cluster_sources": [
         "The Telegraph"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "466b226696ae8142",
@@ -72126,7 +72184,8 @@
       "cluster_id": "49f78dbae6a4249f",
       "cluster_sources": [
         "TN"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "d91433fdde8d851d",
@@ -72329,7 +72388,8 @@
       "cluster_id": "9d02fa3faa403caa",
       "cluster_sources": [
         "The Telegraph"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "88780e469c592ee5",
@@ -72435,7 +72495,8 @@
       "cluster_id": "54e72cb610dc0850",
       "cluster_sources": [
         "Infobae"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "86edc8a3f1e3dcb0",
@@ -74200,7 +74261,8 @@
       "cluster_id": "0aa39a63e892bd68",
       "cluster_sources": [
         "Infobae"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "6abea6b34a939d0c",
@@ -74823,7 +74885,8 @@
       "cluster_id": "770b7dd63049cf06",
       "cluster_sources": [
         "The Telegraph"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "abaa4b8f717fdb23",
@@ -74927,7 +74990,8 @@
       "cluster_id": "3cb67e54cdc1e35e",
       "cluster_sources": [
         "The Telegraph"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "7cca4d8d0726837f",
@@ -75774,7 +75838,8 @@
       "cluster_id": "66a968b02aa18869",
       "cluster_sources": [
         "Le Figaro TV"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "449787ced0c7d97d",
@@ -78196,7 +78261,8 @@
       "cluster_id": "44ed5837b61ac1f2",
       "cluster_sources": [
         "EFE - Agencia de noticias"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "497d05ad575df256",
@@ -79501,7 +79567,8 @@
       "cluster_id": "aaa2b03ab287964e",
       "cluster_sources": [
         "Corriere della Sera"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "5712005840848dbe",
@@ -79686,17 +79753,17 @@
       "article_url": "https://thecatholicherald.com/article/leo-in-argentina-a-new-meaning-to-francis-s-pontificate",
       "author_verified": true,
       "byline_checked_at": "2026-11-14T10:10:45.701884+00:00",
-      "vaticanist_ids": [
-        "143"
-      ],
-      "vaticanist_names": [
-        "Michael Haynes"
-      ],
       "author_url": "",
       "author_search": true,
       "cluster_id": "72dac50c0d8d7398",
       "cluster_sources": [
         "The Catholic Herald"
+      ],
+      "vaticanist_ids": [
+        "143"
+      ],
+      "vaticanist_names": [
+        "Michael Haynes"
       ]
     },
     {
@@ -80735,7 +80802,8 @@
       "cluster_id": "33b2d7ffc4b43c21",
       "cluster_sources": [
         "EL PAÍS"
-      ]
+      ],
+      "byline_checked_at": "2026-11-15T19:25:00.429155+00:00"
     },
     {
       "id": "a7e3eefb1706b1d4",
@@ -82398,18 +82466,18 @@
       "article_url": "https://www.la-croix.com/a-vif/leon-xiv-au-perou-les-chasquis-du-pape-20261113",
       "author_verified": true,
       "byline_checked_at": "2026-11-14T08:10:46.899838+00:00",
-      "vaticanist_ids": [
-        "4"
-      ],
-      "vaticanist_names": [
-        "Mikaël Corre"
-      ],
       "author_url": "",
       "cluster_id": "66e3dd3bc7b99b16",
       "cluster_sources": [
         "La Croix",
         "Programme TV Ouest-France",
         "Télépro"
+      ],
+      "vaticanist_ids": [
+        "4"
+      ],
+      "vaticanist_names": [
+        "Mikaël Corre"
       ]
     },
     {
@@ -82544,12 +82612,6 @@
       "article_url": "https://www.la-croix.com/religion/le-jour-ou-le-pape-leon-xiv-est-rentre-a-chiclayo-20261114",
       "author_verified": true,
       "byline_checked_at": "2026-11-14T08:40:51.410945+00:00",
-      "vaticanist_ids": [
-        "4"
-      ],
-      "vaticanist_names": [
-        "Mikaël Corre"
-      ],
       "author_url": "",
       "cluster_id": "16b317c4353a3d00",
       "cluster_sources": [
@@ -82557,6 +82619,12 @@
         "La Liberté",
         "Radio Lac",
         "laliberte.ch"
+      ],
+      "vaticanist_ids": [
+        "4"
+      ],
+      "vaticanist_names": [
+        "Mikaël Corre"
       ]
     },
     {
@@ -83918,16 +83986,16 @@
       "article_url": "https://www.lastampa.it/cronaca/2026/11/14/news/la_fede_non_e_magia_cosi_leone_xiv_e_tornato_padre_roberto-15797952/",
       "author_verified": true,
       "byline_checked_at": "2026-11-14T07:40:50.060038+00:00",
+      "author_url": "",
+      "cluster_id": "2a02d7ebed04d25e",
+      "cluster_sources": [
+        "La Stampa"
+      ],
       "vaticanist_ids": [
         "38"
       ],
       "vaticanist_names": [
         "Giacomo Galeazzi"
-      ],
-      "author_url": "",
-      "cluster_id": "2a02d7ebed04d25e",
-      "cluster_sources": [
-        "La Stampa"
       ]
     },
     {
@@ -84247,12 +84315,6 @@
       "article_url": "https://www.independent.co.uk/news/peru-south-african-americas-lima-communities-b3084917.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-14T07:31:02.556282+00:00",
-      "vaticanist_ids": [
-        "132"
-      ],
-      "vaticanist_names": [
-        "Nicole Winfield"
-      ],
       "author_url": "",
       "cluster_id": "0646108a9266f695",
       "cluster_sources": [
@@ -84266,6 +84328,12 @@
         "The Washington Post",
         "WSLS",
         "cruxnow.com"
+      ],
+      "vaticanist_ids": [
+        "132"
+      ],
+      "vaticanist_names": [
+        "Nicole Winfield"
       ]
     },
     {
@@ -84571,17 +84639,17 @@
       "article_url": "https://www.avvenire.it/chiesa/papa/il-papa-e-la-chiclayo-dei-poveri-i-milionari-vogliono-limmortalita-interi-popoli-soffrono-per-la-miseria_115773",
       "author_verified": true,
       "byline_checked_at": "2026-11-14T07:10:41.582111+00:00",
-      "vaticanist_ids": [
-        "113"
-      ],
-      "vaticanist_names": [
-        "Giacomo Gambassi"
-      ],
       "author_url": "",
       "cluster_id": "0972caf8789b517d",
       "cluster_sources": [
         "Avvenire",
         "Ore12"
+      ],
+      "vaticanist_ids": [
+        "113"
+      ],
+      "vaticanist_names": [
+        "Giacomo Gambassi"
       ]
     },
     {
@@ -88612,18 +88680,18 @@
       "article_url": "https://www.americamagazine.org/vatican-dispatch/2026/11/13/pope-leo-chiclayo-catholic-university-transhumanism/",
       "author_verified": true,
       "byline_checked_at": "2026-11-14T02:01:14.989083+00:00",
-      "vaticanist_ids": [
-        "9"
-      ],
-      "vaticanist_names": [
-        "Gerard O'Connell"
-      ],
       "author_url": "",
       "author_search": true,
       "cluster_id": "08ac85f986c8dc8f",
       "cluster_sources": [
         "America Magazine",
         "Rome Reports"
+      ],
+      "vaticanist_ids": [
+        "9"
+      ],
+      "vaticanist_names": [
+        "Gerard O'Connell"
       ]
     },
     {
@@ -88782,12 +88850,6 @@
       "article_url": "https://www.osvnews.com/in-chiclayo-pope-calls-on-local-clergy-to-reject-clericalism-warns-students-against-soulless-tech/",
       "author_verified": true,
       "byline_checked_at": "2026-11-14T01:50:46.375777+00:00",
-      "vaticanist_ids": [
-        "188"
-      ],
-      "vaticanist_names": [
-        "Junno Arocho Esteves"
-      ],
       "author_url": "",
       "author_search": true,
       "cluster_id": "0a2caacfc2582125",
@@ -88795,6 +88857,12 @@
         "Catholic Standard",
         "National Catholic Reporter",
         "OSV News"
+      ],
+      "vaticanist_ids": [
+        "188"
+      ],
+      "vaticanist_names": [
+        "Junno Arocho Esteves"
       ]
     },
     {
@@ -89144,16 +89212,16 @@
       "article_url": "https://www.abc.es/sociedad/leon-xiv-progreso-cientifico-puede-privilegio-millonarios-20261114020236-nt.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-14T23:30:59.457603+00:00",
+      "author_url": "",
+      "cluster_id": "67a0714dd0342eb9",
+      "cluster_sources": [
+        "ABC"
+      ],
       "vaticanist_ids": [
         "60"
       ],
       "vaticanist_names": [
         "Javier Martínez-Brocal"
-      ],
-      "author_url": "",
-      "cluster_id": "67a0714dd0342eb9",
-      "cluster_sources": [
-        "ABC"
       ]
     },
     {
@@ -89456,12 +89524,6 @@
       "article_url": "https://roma.corriere.it/notizie/cronaca/26_novembre_13/papa-leone-chiclayo-peru-f8312efb-d0e9-498a-8f0c-c17c7507exlk_amp.shtml",
       "author_verified": true,
       "byline_checked_at": "2026-11-15T10:57:25.506608+00:00",
-      "vaticanist_ids": [
-        "11"
-      ],
-      "vaticanist_names": [
-        "Gian Guido Vecchi"
-      ],
       "author_url": "",
       "author_search": true,
       "cluster_id": "4752d1e5be4f544f",
@@ -89470,6 +89532,12 @@
         "Corriere Roma",
         "Il Sole 24 ORE",
         "LaPresse"
+      ],
+      "vaticanist_ids": [
+        "11"
+      ],
+      "vaticanist_names": [
+        "Gian Guido Vecchi"
       ]
     },
     {
@@ -90443,12 +90511,6 @@
       "article_url": "https://www.washingtonpost.com/world/2026/11/13/pope-peru-chiclayo-leo-mass-robert-prevost/17ec221c-df54-11f1-912c-4fbb80d73f7f_story.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-13T11:31:09.465630+00:00",
-      "vaticanist_ids": [
-        "132"
-      ],
-      "vaticanist_names": [
-        "Nicole Winfield"
-      ],
       "author_url": "",
       "cluster_id": "07db5bbce90baa72",
       "cluster_sources": [
@@ -90457,6 +90519,12 @@
         "KTLA",
         "NBC 5 Chicago",
         "The Washington Post"
+      ],
+      "vaticanist_ids": [
+        "132"
+      ],
+      "vaticanist_names": [
+        "Nicole Winfield"
       ]
     },
     {
@@ -91400,16 +91468,16 @@
       "article_url": "https://www.ncronline.org/vatican/vatican-news/francis-hometown-pope-leo-builds-late-popes-social-justice-message",
       "author_verified": true,
       "byline_checked_at": "2026-11-10T23:40:43.459039+00:00",
+      "author_url": "",
+      "cluster_id": "19d734987f4f4195",
+      "cluster_sources": [
+        "National Catholic Reporter"
+      ],
       "vaticanist_ids": [
         "40"
       ],
       "vaticanist_names": [
         "Justin Mc Lellan"
-      ],
-      "author_url": "",
-      "cluster_id": "19d734987f4f4195",
-      "cluster_sources": [
-        "National Catholic Reporter"
       ]
     },
     {
@@ -92470,17 +92538,17 @@
       "article_url": "https://www.nytimes.com/2026/11/13/world/europe/pope-leo-xiv-peru-chiclayo.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-13T22:31:01.736815+00:00",
-      "vaticanist_ids": [
-        "117"
-      ],
-      "vaticanist_names": [
-        "Motoko Rich"
-      ],
       "author_url": "",
       "author_search": true,
       "cluster_id": "a868501d94af3c42",
       "cluster_sources": [
         "The New York Times"
+      ],
+      "vaticanist_ids": [
+        "117"
+      ],
+      "vaticanist_names": [
+        "Motoko Rich"
       ]
     },
     {
@@ -92603,17 +92671,17 @@
       "article_url": "https://www.acistampa.com/amp/story/37657/papa-leone-xiv-chiesa-sinodale-e-camminare-insieme",
       "author_verified": true,
       "byline_checked_at": "2026-11-14T00:01:15.956110+00:00",
-      "vaticanist_ids": [
-        "202"
-      ],
-      "vaticanist_names": [
-        "Antonio Tarallo"
-      ],
       "author_url": "",
       "author_search": true,
       "cluster_id": "d8ce5f2aa2d8abc3",
       "cluster_sources": [
         "ACI Stampa"
+      ],
+      "vaticanist_ids": [
+        "202"
+      ],
+      "vaticanist_names": [
+        "Antonio Tarallo"
       ]
     },
     {
@@ -94723,18 +94791,18 @@
       "article_url": "https://www.americamagazine.org/vatican-dispatch/2026/11/13/pope-leo-mass-chiclayo-home-peru/",
       "author_verified": true,
       "byline_checked_at": "2026-11-13T21:10:46.743172+00:00",
-      "vaticanist_ids": [
-        "9"
-      ],
-      "vaticanist_names": [
-        "Gerard O'Connell"
-      ],
       "author_url": "",
       "author_search": true,
       "cluster_id": "5184ee377f4c6aad",
       "cluster_sources": [
         "America Magazine",
         "Letters from Leo"
+      ],
+      "vaticanist_ids": [
+        "9"
+      ],
+      "vaticanist_names": [
+        "Gerard O'Connell"
       ]
     },
     {
@@ -94753,16 +94821,16 @@
       "article_url": "https://www.ncronline.org/vatican/pope-chiclayano-leo-receives-joyful-welcome-his-former-diocese",
       "author_verified": true,
       "byline_checked_at": "2026-11-13T21:10:46.743172+00:00",
+      "author_url": "",
+      "cluster_id": "741f21f430a50f68",
+      "cluster_sources": [
+        "National Catholic Reporter"
+      ],
       "vaticanist_ids": [
         "40"
       ],
       "vaticanist_names": [
         "Justin Mc Lellan"
-      ],
-      "author_url": "",
-      "cluster_id": "741f21f430a50f68",
-      "cluster_sources": [
-        "National Catholic Reporter"
       ]
     },
     {
@@ -94978,12 +95046,6 @@
       "article_url": "https://www.avvenire.it/chiesa/partito-da-vescovo-torna-da-papa-leone-nella-sua-chiclayo-accolto-da-un-milione-e-mezzo-di-persone_115749",
       "author_verified": true,
       "byline_checked_at": "2026-11-13T17:50:47.380435+00:00",
-      "vaticanist_ids": [
-        "113"
-      ],
-      "vaticanist_names": [
-        "Giacomo Gambassi"
-      ],
       "author_url": "",
       "cluster_id": "4752d1e5be4f544f",
       "cluster_sources": [
@@ -94991,6 +95053,12 @@
         "Corriere Roma",
         "Il Sole 24 ORE",
         "LaPresse"
+      ],
+      "vaticanist_ids": [
+        "113"
+      ],
+      "vaticanist_names": [
+        "Giacomo Gambassi"
       ]
     },
     {
@@ -95040,16 +95108,16 @@
       "article_url": "https://www.americamagazine.org/vatican-dispatch/2026/11/13/pope-leo-peru-cuzco-archbishop-lizardo-estrada-herrera/",
       "author_verified": true,
       "byline_checked_at": "2026-11-13T21:10:46.743172+00:00",
+      "author_url": "",
+      "cluster_id": "c8f1660f3469ab2f",
+      "cluster_sources": [
+        "America Magazine"
+      ],
       "vaticanist_ids": [
         "9"
       ],
       "vaticanist_names": [
         "Gerard O'Connell"
-      ],
-      "author_url": "",
-      "cluster_id": "c8f1660f3469ab2f",
-      "cluster_sources": [
-        "America Magazine"
       ]
     },
     {
@@ -99047,16 +99115,16 @@
       "article_url": "https://www.lefigaro.fr/actualite-france/leon-xiv-au-perou-les-fideles-de-chiclayo-touches-au-coeur-par-le-retour-de-mgr-robert-leur-eveque-devenu-pape-20261113",
       "author_verified": true,
       "byline_checked_at": "2026-11-13T18:50:44.826282+00:00",
+      "author_url": "",
+      "cluster_id": "8507729376b314e9",
+      "cluster_sources": [
+        "Le Figaro"
+      ],
       "vaticanist_ids": [
         "65"
       ],
       "vaticanist_names": [
         "Jean-Marie Guénois"
-      ],
-      "author_url": "",
-      "cluster_id": "8507729376b314e9",
-      "cluster_sources": [
-        "Le Figaro"
       ]
     },
     {
@@ -99075,16 +99143,16 @@
       "article_url": "https://www.lavanguardia.com/internacional/20261113/11683788/cinco-paises-ue-representaran-europa-negociaciones-ucrania.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-13T20:01:17.941360+00:00",
+      "author_url": "",
+      "cluster_id": "6c767aa31dfe44f9",
+      "cluster_sources": [
+        "La Vanguardia"
+      ],
       "vaticanist_ids": [
         "22"
       ],
       "vaticanist_names": [
         "Anna Buj"
-      ],
-      "author_url": "",
-      "cluster_id": "6c767aa31dfe44f9",
-      "cluster_sources": [
-        "La Vanguardia"
       ]
     },
     {
@@ -99886,18 +99954,18 @@
       "article_url": "https://thecatholicherald.com/article/1-5-million-welcome-pope-leo-to-his-former-diocese-of-chiclayo",
       "author_verified": true,
       "byline_checked_at": "2026-11-13T18:31:05.725434+00:00",
-      "vaticanist_ids": [
-        "143"
-      ],
-      "vaticanist_names": [
-        "Michael Haynes"
-      ],
       "author_url": "",
       "author_search": true,
       "cluster_id": "4f95d6d60746ab4d",
       "cluster_sources": [
         "Malay Mail",
         "The Catholic Herald"
+      ],
+      "vaticanist_ids": [
+        "143"
+      ],
+      "vaticanist_names": [
+        "Michael Haynes"
       ]
     },
     {
@@ -100759,17 +100827,17 @@
       "article_url": "https://www.tgcom24.mediaset.it/2026/video/peru-papa-leone-xiv-celebra-la-messa-a-las-pampas-di-pimentel-citta-dove-era-vescovo_118944230-02k.shtml",
       "author_verified": true,
       "byline_checked_at": "2026-11-13T18:21:00.254671+00:00",
-      "vaticanist_ids": [
-        "246"
-      ],
-      "vaticanist_names": [
-        "Fabio Marchese Ragona"
-      ],
       "author_url": "",
       "author_search": true,
       "cluster_id": "0e59182461216520",
       "cluster_sources": [
         "Tgcom24"
+      ],
+      "vaticanist_ids": [
+        "246"
+      ],
+      "vaticanist_names": [
+        "Fabio Marchese Ragona"
       ]
     },
     {
@@ -100867,7 +100935,6 @@
       "cluster_size": 1,
       "origin": "direct",
       "author": "Franca Giansoldati",
-      "author_url": "",
       "article_url": "https://www.ilmessaggero.it/vaticano/papa_leone_e_la_mobilitazione_popolare_fenomeno_sotto_la_lente_dei_governi-9888242.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-13T17:50:47.380435+00:00",
@@ -100877,6 +100944,7 @@
       "vaticanist_names": [
         "Franca Giansoldati"
       ],
+      "author_url": "",
       "cluster_id": "2e79195b8253cff5",
       "cluster_sources": [
         "Il Messaggero"
@@ -101048,17 +101116,17 @@
       "article_url": "https://www.americamagazine.org/vatican-dispatch/2026/11/13/pope-leo-francis-argentina/",
       "author_verified": true,
       "byline_checked_at": "2026-11-13T16:01:16.168168+00:00",
-      "vaticanist_ids": [
-        "134"
-      ],
-      "vaticanist_names": [
-        "Colleen Dulle"
-      ],
       "author_url": "",
       "author_search": true,
       "cluster_id": "b48c8423693c90d3",
       "cluster_sources": [
         "America Magazine"
+      ],
+      "vaticanist_ids": [
+        "134"
+      ],
+      "vaticanist_names": [
+        "Colleen Dulle"
       ]
     },
     {
@@ -101077,16 +101145,16 @@
       "article_url": "https://catholicreview.org/pope-leo-xiv-moved-to-tears-by-testimonies-of-faith-and-hope-during-argentina-visit/",
       "author_verified": true,
       "byline_checked_at": "2026-11-13T21:50:44.385749+00:00",
+      "author_url": "",
+      "cluster_id": "e13215c1e687cf71",
+      "cluster_sources": [
+        "Catholic Review"
+      ],
       "vaticanist_ids": [
         "35"
       ],
       "vaticanist_names": [
         "Inés San Martín"
-      ],
-      "author_url": "",
-      "cluster_id": "e13215c1e687cf71",
-      "cluster_sources": [
-        "Catholic Review"
       ]
     },
     {
@@ -101356,7 +101424,6 @@
       "cluster_size": 1,
       "origin": "direct",
       "author": "Franca Giansoldati",
-      "author_url": "",
       "article_url": "https://www.ilmessaggero.it/vaticano/papa_leone_argentina_bergoglio_peru_viaggio_folle_record-9883808.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-13T10:10:44.890469+00:00",
@@ -101366,6 +101433,7 @@
       "vaticanist_names": [
         "Franca Giansoldati"
       ],
+      "author_url": "",
       "cluster_id": "65a065e30165be55",
       "cluster_sources": [
         "Il Messaggero"
@@ -101384,7 +101452,6 @@
       "cluster_size": 1,
       "origin": "direct",
       "author": "Franca Giansoldati",
-      "author_url": "",
       "article_url": "https://www.ilmessaggero.it/vaticano/il_papa_peru_condanna_abusi_verita_giustizia_le_vere_risposte-9886426.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-13T10:10:44.890469+00:00",
@@ -101394,6 +101461,7 @@
       "vaticanist_names": [
         "Franca Giansoldati"
       ],
+      "author_url": "",
       "cluster_id": "be5cf426d9bf16e8",
       "cluster_sources": [
         "Il Messaggero"
@@ -101416,16 +101484,16 @@
       "article_url": "https://www.ilmessaggero.it/vaticano/papa_leone_viaggio_peru_padre_bob_argentina-9884146.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-11T23:20:44.349394+00:00",
+      "author_search": true,
+      "cluster_id": "d6c3015bfaca3cd3",
+      "cluster_sources": [
+        "Il Messaggero"
+      ],
       "vaticanist_ids": [
         "20"
       ],
       "vaticanist_names": [
         "Franca Giansoldati"
-      ],
-      "author_search": true,
-      "cluster_id": "d6c3015bfaca3cd3",
-      "cluster_sources": [
-        "Il Messaggero"
       ]
     },
     {
@@ -101622,16 +101690,16 @@
       "article_url": "https://www.famigliacristiana.it/attualita/italia/caritas-italia-aumenta-poverta-solitudine-amplifica-problemi-p58f1k6g",
       "author_verified": true,
       "byline_checked_at": "2026-11-13T20:10:44.102717+00:00",
+      "author_url": "",
+      "cluster_id": "832a4d0d55efc293",
+      "cluster_sources": [
+        "Famiglia Cristiana"
+      ],
       "vaticanist_ids": [
         "19"
       ],
       "vaticanist_names": [
         "Annachiara Valle"
-      ],
-      "author_url": "",
-      "cluster_id": "832a4d0d55efc293",
-      "cluster_sources": [
-        "Famiglia Cristiana"
       ]
     },
     {
@@ -101712,16 +101780,16 @@
       "article_url": "https://www.famigliacristiana.it/chiesa/catechismo-novita-don-armando-matteo-ddekh3je",
       "author_verified": true,
       "byline_checked_at": "2026-11-13T12:10:43.134895+00:00",
+      "author_url": "",
+      "cluster_id": "5af7f8e25ce89a3d",
+      "cluster_sources": [
+        "Famiglia Cristiana"
+      ],
       "vaticanist_ids": [
         "203"
       ],
       "vaticanist_names": [
         "Laura Bellomi"
-      ],
-      "author_url": "",
-      "cluster_id": "5af7f8e25ce89a3d",
-      "cluster_sources": [
-        "Famiglia Cristiana"
       ]
     },
     {
@@ -101890,16 +101958,16 @@
       "article_url": "https://www.famigliacristiana.it/credere/giornata-dei-poveri-a-napoli-una-casa-per-chi-vive-in-strada-eg9i4ixx",
       "author_verified": true,
       "byline_checked_at": "2026-11-13T09:10:54.978623+00:00",
+      "author_url": "",
+      "cluster_id": "5c8dab331d0eb990",
+      "cluster_sources": [
+        "Famiglia Cristiana"
+      ],
       "vaticanist_ids": [
         "44"
       ],
       "vaticanist_names": [
         "Vittoria Prisciandaro"
-      ],
-      "author_url": "",
-      "cluster_id": "5c8dab331d0eb990",
-      "cluster_sources": [
-        "Famiglia Cristiana"
       ]
     },
     {
@@ -101919,15 +101987,15 @@
       "article_url": "https://www.repubblica.it/esteri/2026/11/13/news/papa_leone_libertador_anti-sovranisti_conquista_sudamerica-425719676/?rss",
       "author_verified": true,
       "byline_checked_at": "2026-11-13T00:10:47.653016+00:00",
+      "cluster_id": "112861e72a988869",
+      "cluster_sources": [
+        "la Repubblica"
+      ],
       "vaticanist_ids": [
         "43"
       ],
       "vaticanist_names": [
         "Iacopo Scaramuzzi"
-      ],
-      "cluster_id": "112861e72a988869",
-      "cluster_sources": [
-        "la Repubblica"
       ]
     },
     {
@@ -102015,7 +102083,6 @@
       "cluster_size": 1,
       "origin": "direct",
       "author": "Franca Giansoldati",
-      "author_url": "",
       "article_url": "https://www.ilmessaggero.it/vaticano/papa_leone_appello_contro_machismo_violenze_donne_patriarcato_peru-9886391.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-12T23:01:21.245977+00:00",
@@ -102025,6 +102092,7 @@
       "vaticanist_names": [
         "Franca Giansoldati"
       ],
+      "author_url": "",
       "cluster_id": "8284a1cfa9cf2766",
       "cluster_sources": [
         "Il Messaggero"
@@ -102118,16 +102186,16 @@
       "article_url": "https://www.rainews.it/video/2026/11/papa-leone-xiv-ai-vescovi-di-lima-gli-abusi-sui-minori-sono-delitti-difendere-vita-e-giustizia-f6df4dba-7184-4049-8b6d-da983130a208.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-12T21:10:47.632586+00:00",
+      "author_url": "",
+      "cluster_id": "b82b863989afad59",
+      "cluster_sources": [
+        "RaiNews"
+      ],
       "vaticanist_ids": [
         "267"
       ],
       "vaticanist_names": [
         "Vania De Luca"
-      ],
-      "author_url": "",
-      "cluster_id": "b82b863989afad59",
-      "cluster_sources": [
-        "RaiNews"
       ]
     },
     {
@@ -102288,16 +102356,16 @@
       "article_url": "https://www.ilsole24ore.com/art/i-cent-anni-dell-istat-leggere-paese-AJo4EUEC",
       "author_verified": true,
       "byline_checked_at": "2026-11-12T16:40:49.394270+00:00",
+      "author_url": "",
+      "cluster_id": "bd6003588fbc183a",
+      "cluster_sources": [
+        "Il Sole 24 ORE"
+      ],
       "vaticanist_ids": [
         "8"
       ],
       "vaticanist_names": [
         "Carlo Marroni"
-      ],
-      "author_url": "",
-      "cluster_id": "bd6003588fbc183a",
-      "cluster_sources": [
-        "Il Sole 24 ORE"
       ]
     },
     {
@@ -102713,16 +102781,16 @@
       "article_url": "https://www.lavanguardia.com/vida/20261112/11681827/papa-decanto-octavi-vila-iglesia-catalana-viaje-barcelona.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-12T05:10:39.494396+00:00",
+      "author_url": "",
+      "cluster_id": "36d9ee80f03fba63",
+      "cluster_sources": [
+        "La Vanguardia"
+      ],
       "vaticanist_ids": [
         "176"
       ],
       "vaticanist_names": [
         "Francesco Olivo"
-      ],
-      "author_url": "",
-      "cluster_id": "36d9ee80f03fba63",
-      "cluster_sources": [
-        "La Vanguardia"
       ]
     },
     {
@@ -102999,16 +103067,16 @@
       "article_url": "https://www.ewtnnews.com/es/vaticano/vaticano-maximo-tribunal-de-apelaciones-critica-publicacion-listas-de-clerigos-creiblemente-acusados",
       "author_verified": true,
       "byline_checked_at": "2026-11-11T17:50:50.525000+00:00",
+      "author_url": "",
+      "cluster_id": "a995730eb43406a2",
+      "cluster_sources": [
+        "EWTN News"
+      ],
       "vaticanist_ids": [
         "85"
       ],
       "vaticanist_names": [
         "Hannah Brockhaus"
-      ],
-      "author_url": "",
-      "cluster_id": "a995730eb43406a2",
-      "cluster_sources": [
-        "EWTN News"
       ]
     },
     {
@@ -103222,7 +103290,6 @@
       "cluster_size": 1,
       "origin": "direct",
       "author": "Franca Giansoldati",
-      "author_url": "",
       "article_url": "https://www.ilmessaggero.it/vaticano/papa_leone_eredita_peru_peruviano_argentina_papa_francesco_lima-9883552.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-11T13:40:44.870922+00:00",
@@ -103232,6 +103299,7 @@
       "vaticanist_names": [
         "Franca Giansoldati"
       ],
+      "author_url": "",
       "cluster_id": "0e4d43f7dededc16",
       "cluster_sources": [
         "Il Messaggero"
@@ -103267,8 +103335,8 @@
       ]
     },
     {
-      "id": "62f58ea705f28ab9",
-      "title": "Leone XIV lascia l’Argentina nel segno di Francesco: affida il pontificato alla sua Madonna e invoca la riconciliazione",
+      "id": "b698326501a88b32",
+      "title": "Leone XIV lascia l?Argentina nel segno di Francesco: affida il pontificato alla \"sua\" Madonna e invoca la riconciliazione",
       "url": "https://www.ilmessaggero.it/vaticano/papa_leone_francesco_pontificato_argentina_desaparecidos_milei_eredita-9883531.html",
       "source": "Il Messaggero",
       "country": "Italia",
@@ -103279,7 +103347,6 @@
       "cluster_size": 1,
       "origin": "direct",
       "author": "Franca Giansoldati",
-      "author_url": "",
       "article_url": "https://www.ilmessaggero.it/vaticano/papa_leone_francesco_pontificato_argentina_desaparecidos_milei_eredita-9883531.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-11T13:20:39.679944+00:00",
@@ -103289,7 +103356,8 @@
       "vaticanist_names": [
         "Franca Giansoldati"
       ],
-      "cluster_id": "62f58ea705f28ab9",
+      "author_url": "",
+      "cluster_id": "b698326501a88b32",
       "cluster_sources": [
         "Il Messaggero"
       ]
@@ -103600,7 +103668,7 @@
       "cluster_size": 2,
       "origin": "direct",
       "byline_checked_at": "2026-11-13T23:31:07.578003+00:00",
-      "cluster_id": "c917f0b158730da4",
+      "cluster_id": "4dbfd64499510dfa",
       "cluster_sources": [
         "Il Messaggero",
         "Vatican News"
@@ -103622,16 +103690,16 @@
       "article_url": "https://www.avvenire.it/agora/scienza/eli-pariser-verso-unia-disarmata-e-disarmante_115590",
       "author_verified": true,
       "byline_checked_at": "2026-11-11T05:10:41.243571+00:00",
+      "author_url": "",
+      "cluster_id": "e07580e590e0f0cc",
+      "cluster_sources": [
+        "Avvenire"
+      ],
       "vaticanist_ids": [
         "142"
       ],
       "vaticanist_names": [
         "Riccardo Benotti"
-      ],
-      "author_url": "",
-      "cluster_id": "e07580e590e0f0cc",
-      "cluster_sources": [
-        "Avvenire"
       ]
     },
     {
@@ -103739,17 +103807,17 @@
       "article_url": "https://www.ncregister.com/news/cardinal-ranjith-on-christian-soul-searching-amid-islam-s-rise",
       "author_verified": true,
       "byline_checked_at": "2026-11-11T03:31:03.470591+00:00",
-      "vaticanist_ids": [
-        "30"
-      ],
-      "vaticanist_names": [
-        "Edward Pentin"
-      ],
       "author_url": "",
       "author_search": true,
       "cluster_id": "bc2ed44c7600e467",
       "cluster_sources": [
         "National Catholic Register"
+      ],
+      "vaticanist_ids": [
+        "30"
+      ],
+      "vaticanist_names": [
+        "Edward Pentin"
       ]
     },
     {
@@ -104146,8 +104214,8 @@
       ]
     },
     {
-      "id": "1f5541047b26e7f0",
-      "title": "Leone XIV, l’amico pastore presbiteriano di Bergoglio: «In lui ritrovo Papa Francesco al cento per cento»",
+      "id": "ed37f7fd93b2e14f",
+      "title": "Leone XIV, l?amico pastore presbiteriano di Bergoglio: «In lui ritrovo Papa Francesco al cento per cento»",
       "url": "https://www.ilmessaggero.it/vaticano/papa_leone_bergogliano_argentina_l_amico_marcel_figueroa_papa_francesco-9881339.html",
       "source": "Il Messaggero",
       "country": "Italia",
@@ -104158,7 +104226,6 @@
       "cluster_size": 1,
       "origin": "direct",
       "author": "Franca Giansoldati",
-      "author_url": "",
       "article_url": "https://www.ilmessaggero.it/vaticano/papa_leone_bergogliano_argentina_l_amico_marcel_figueroa_papa_francesco-9881339.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-10T14:10:48.365663+00:00",
@@ -104168,7 +104235,8 @@
       "vaticanist_names": [
         "Franca Giansoldati"
       ],
-      "cluster_id": "1f5541047b26e7f0",
+      "author_url": "",
+      "cluster_id": "ed37f7fd93b2e14f",
       "cluster_sources": [
         "Il Messaggero"
       ]
@@ -104222,8 +104290,8 @@
       ]
     },
     {
-      "id": "f24b8efd5a19e0a7",
-      "title": "Leone XIV sulle orme di Francesco a Buenos Aires, l’omaggio nella cattedrale di Bergoglio, il simbolo di un’eredità che continua",
+      "id": "4dbfd64499510dfa",
+      "title": "Leone XIV sulle orme di Francesco a Buenos Aires, l?omaggio nella cattedrale di Bergoglio, il simbolo di un?eredità che continua",
       "url": "https://www.ilmessaggero.it/vaticano/papa_leone_sulle_orme_di_francesco_bergoglio_a_buenos_aires-9881261.html",
       "source": "Il Messaggero",
       "country": "Italia",
@@ -104234,7 +104302,6 @@
       "cluster_size": 2,
       "origin": "direct",
       "author": "Franca Giansoldati",
-      "author_url": "",
       "article_url": "https://www.ilmessaggero.it/vaticano/papa_leone_sulle_orme_di_francesco_bergoglio_a_buenos_aires-9881261.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-10T13:10:47.359857+00:00",
@@ -104244,7 +104311,8 @@
       "vaticanist_names": [
         "Franca Giansoldati"
       ],
-      "cluster_id": "c917f0b158730da4",
+      "author_url": "",
+      "cluster_id": "4dbfd64499510dfa",
       "cluster_sources": [
         "Il Messaggero",
         "Vatican News"
@@ -104404,17 +104472,17 @@
       "article_url": "https://www.ilmessaggero.it/vaticano/papa_leone_buenos_aires_messa_folla_record_sfida_milei_cosa_ha_detto-9879263.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-09T15:50:46.456850+00:00",
-      "vaticanist_ids": [
-        "20"
-      ],
-      "vaticanist_names": [
-        "Franca Giansoldati"
-      ],
       "author_search": true,
       "cluster_id": "d9413edbfeaa970f",
       "cluster_sources": [
         "Il Messaggero",
         "Vatican News"
+      ],
+      "vaticanist_ids": [
+        "20"
+      ],
+      "vaticanist_names": [
+        "Franca Giansoldati"
       ]
     },
     {
@@ -104943,7 +105011,6 @@
       "cluster_size": 1,
       "origin": "direct",
       "author": "Franca Giansoldati",
-      "author_url": "",
       "article_url": "https://www.ilmessaggero.it/vaticano/leone_xiv_argentina_milei_economia_servizio_persona-9877663.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-09T14:50:46.772027+00:00",
@@ -104953,6 +105020,7 @@
       "vaticanist_names": [
         "Franca Giansoldati"
       ],
+      "author_url": "",
       "cluster_id": "373025dda50e5fb1",
       "cluster_sources": [
         "Il Messaggero"
@@ -104974,18 +105042,18 @@
       "article_url": "https://www.ilgiornale.it/news/vaticano/un-leone-che-ci-unisce-buenos-aires-saluta-il-papa/",
       "author_verified": true,
       "byline_checked_at": "2026-11-09T11:31:00.226787+00:00",
-      "vaticanist_ids": [
-        "27"
-      ],
-      "vaticanist_names": [
-        "Serena Sartini"
-      ],
       "author_url": "",
       "author_search": true,
       "cluster_id": "120d5c2300293515",
       "cluster_sources": [
         "Il Giornale",
         "il Giornale"
+      ],
+      "vaticanist_ids": [
+        "27"
+      ],
+      "vaticanist_names": [
+        "Serena Sartini"
       ]
     },
     {
@@ -105204,7 +105272,6 @@
       "cluster_size": 1,
       "origin": "direct",
       "author": "Franca Giansoldati",
-      "author_url": "",
       "article_url": "https://www.ilmessaggero.it/vaticano/papa_leone_milei_argentina_disabili_visita_al_cottolengo-9877609.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-08T21:20:44.697439+00:00",
@@ -105214,6 +105281,7 @@
       "vaticanist_names": [
         "Franca Giansoldati"
       ],
+      "author_url": "",
       "cluster_id": "43b3e067703d617d",
       "cluster_sources": [
         "Il Messaggero"
@@ -106220,7 +106288,7 @@
         "28946cfe625a96a9",
         "f5d1458b9d0fedb3",
         "3eab1a8aa6aa18e8",
-        "22002f009cfb421e",
+        "1c643bcca6ec3714",
         "360b35d9d3119d1c",
         "b770a5991d1b2778",
         "91ac79ae9df0d4e1",
@@ -106310,10 +106378,10 @@
         "bfea9cad77e5ffa2",
         "0e4d43f7dededc16",
         "50c0b08813bb3617",
-        "62f58ea705f28ab9",
-        "1f5541047b26e7f0",
+        "b698326501a88b32",
+        "ed37f7fd93b2e14f",
         "eb9644ead90b0c1a",
-        "f24b8efd5a19e0a7",
+        "4dbfd64499510dfa",
         "fd72b04533fc7ba1",
         "85879b2f3c5c6d04",
         "373025dda50e5fb1",
