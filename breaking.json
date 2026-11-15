@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-15T11:10:23.475370+00:00",
+  "updated_at": "2026-11-15T11:15:28.218230+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-15T11:10:23.475370+00:00"
+      "checked_at": "2026-11-15T11:15:28.218230+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-15T11:10:23.475370+00:00"
+      "checked_at": "2026-11-15T11:15:28.218230+00:00"
     }
   },
   "items": [
+    {
+      "id": "535de1c3f36b1241cb8f",
+      "source": "BBC News",
+      "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+      "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T11:06:32+00:00"
+    },
     {
       "id": "53dee1a839bbb2273596",
       "source": "TGcom24",
@@ -318,13 +325,6 @@
       "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
       "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-14T00:03:56+00:00"
-    },
-    {
-      "id": "f2606f3e9d40f4dd5d8f",
-      "source": "BBC News",
-      "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
-      "url": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T23:11:51+00:00"
     }
   ]
 }
