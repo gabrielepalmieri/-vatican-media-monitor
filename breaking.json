@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-15T10:40:24.483031+00:00",
+  "updated_at": "2026-11-15T10:45:27.642318+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-15T10:40:24.483031+00:00"
+      "checked_at": "2026-11-15T10:45:27.642318+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-15T10:40:24.483031+00:00"
+      "checked_at": "2026-11-15T10:45:27.642318+00:00"
     }
   },
   "items": [
+    {
+      "id": "53dee1a839bbb2273596",
+      "source": "TGcom24",
+      "title": "La montagna torna ad attrarre: dal 2019 oltre 174mila nuovi abitanti",
+      "url": "https://www.tgcom24.mediaset.it/tgcomlab/trend/montagna-abitanti-dati_118996634-202602k.shtml",
+      "published": "2026-11-15T10:39:00+00:00"
+    },
     {
       "id": "067e0e0048316fa2de27",
       "source": "TGcom24",
@@ -297,13 +304,6 @@
       "title": "Roma, colpito al petto con un paio di forbici: 44enne morto sul colpo",
       "url": "https://www.tgcom24.mediaset.it/cronaca/roma-morto-forbici-petto-lite_118964567-202602k.shtml",
       "published": "2026-11-14T11:38:00+00:00"
-    },
-    {
-      "id": "38fa19159e6fff014d1d",
-      "source": "TGcom24",
-      "title": "Milano, 92enne ucciso durante il raggiro del falso carabiniere: due fermi",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-92enne-ucciso-durante-raggiro_118964407-202602k.shtml",
-      "published": "2026-11-14T11:07:00+00:00"
     },
     {
       "id": "aef4020f77fa7154c4a8",
