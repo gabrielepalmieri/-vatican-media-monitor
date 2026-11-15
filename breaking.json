@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-15T09:55:17.028529+00:00",
+  "updated_at": "2026-11-15T10:00:52.694920+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-15T09:55:17.028529+00:00"
+      "checked_at": "2026-11-15T10:00:52.694920+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-15T09:55:17.028529+00:00"
+      "checked_at": "2026-11-15T10:00:52.694920+00:00"
     }
   },
   "items": [
+    {
+      "id": "dfa1b610a7205ba0e5de",
+      "source": "BBC News",
+      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T09:57:25+00:00"
+    },
     {
       "id": "fa314e5567293757bb6f",
       "source": "TGcom24",
@@ -94,13 +101,6 @@
       "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
       "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-15T03:21:04+00:00"
-    },
-    {
-      "id": "dfa1b610a7205ba0e5de",
-      "source": "BBC News",
-      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-      "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-15T02:49:45+00:00"
     },
     {
       "id": "ee4f4f1509a0cbf6e7cc",
@@ -238,7 +238,7 @@
     {
       "id": "7e79b551b45f3e8a13cd",
       "source": "TGcom24",
-      "title": "Caos nei cieli Usa, il segretario ai Trasporti: \"Tornata la piena operatività\"",
+      "title": "Caos nei cieli Usa, il Segretario ai Trasporti: \"Tornata la piena operatività\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/caos-cieli-usa-soppressi-voli_118972332-202602k.shtml",
       "published": "2026-11-14T16:51:00+00:00"
     },
@@ -292,18 +292,18 @@
       "published": "2026-11-14T12:57:00+00:00"
     },
     {
-      "id": "d28bc395ed4db3e1bb82",
-      "source": "TGcom24",
-      "title": "Francia, nuova giornata di proteste: attesi oltre 100mila manifestanti",
-      "url": "https://www.tgcom24.mediaset.it/mondo/francia-proteste-aggiornamenti-diretta-14-novembre_118964894-202602k.shtml",
-      "published": "2026-11-14T12:14:00+00:00"
-    },
-    {
       "id": "5d42f324e7784e0376da",
       "source": "TGcom24",
       "title": "Roma, colpito al petto con un paio di forbici: 44enne morto sul colpo",
       "url": "https://www.tgcom24.mediaset.it/cronaca/roma-morto-forbici-petto-lite_118964567-202602k.shtml",
       "published": "2026-11-14T11:38:00+00:00"
+    },
+    {
+      "id": "38fa19159e6fff014d1d",
+      "source": "TGcom24",
+      "title": "Milano, 92enne ucciso durante il raggiro del falso carabiniere: due fermi",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-92enne-ucciso-durante-raggiro_118964407-202602k.shtml",
+      "published": "2026-11-14T11:07:00+00:00"
     },
     {
       "id": "aef4020f77fa7154c4a8",
