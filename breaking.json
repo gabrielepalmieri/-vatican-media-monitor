@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-15T15:55:19.127538+00:00",
+  "updated_at": "2026-11-15T16:00:55.405262+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-15T15:55:19.127538+00:00"
+      "checked_at": "2026-11-15T16:00:55.405262+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-15T15:55:19.127538+00:00"
+      "checked_at": "2026-11-15T16:00:55.405262+00:00"
     }
   },
   "items": [
+    {
+      "id": "25e592e222d7bf9f48c0",
+      "source": "BBC News",
+      "title": "Trump barred from closing 'Trash Island' golf course on Sunday",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T15:57:03+00:00"
+    },
     {
       "id": "700feb8a1f429b90b3d0",
       "source": "TGcom24",
@@ -213,13 +220,6 @@
       "title": "Trump critica Newsom sulla commutazione delle pene di morte: \"Incompetente\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-trump-california-newsom-condanne-a-morte_118988041-202602k.shtml",
       "published": "2026-11-15T05:00:00+00:00"
-    },
-    {
-      "id": "25e592e222d7bf9f48c0",
-      "source": "BBC News",
-      "title": "Trump barred from closing 'Trash Island' golf course on Sunday",
-      "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-15T03:21:04+00:00"
     },
     {
       "id": "ee4f4f1509a0cbf6e7cc",
