@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-15T21:00:56.509347+00:00",
+  "updated_at": "2026-11-15T21:05:18.795233+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-15T21:00:56.509347+00:00"
+      "checked_at": "2026-11-15T21:05:18.795233+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-15T21:00:56.509347+00:00"
+      "checked_at": "2026-11-15T21:05:18.795233+00:00"
     }
   },
   "items": [
+    {
+      "id": "fa7e137f93b5b7eba77d",
+      "source": "BBC News",
+      "title": "Czechs rally against plan to switch funding of public media",
+      "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T21:03:40+00:00"
+    },
     {
       "id": "1b70ba2ac1a49c238cf7",
       "source": "TGcom24",
@@ -87,13 +94,6 @@
       "title": "Nuova crisi di migranti in Spagna, alle Canarie 1500 arrivi in un giorno",
       "url": "https://www.tgcom24.mediaset.it/2026/video/scoppia-la-crisi-migranti-alle-canarie-in-un-giorno-soccorse-oltre-1-500-persone-in-mare_119016149-02k.shtml",
       "published": "2026-11-15T17:46:00+00:00"
-    },
-    {
-      "id": "fa7e137f93b5b7eba77d",
-      "source": "BBC News",
-      "title": "Czechs rally against plan to switch funding of public media",
-      "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-15T17:23:40+00:00"
     },
     {
       "id": "0ba65eece5726d597546",
