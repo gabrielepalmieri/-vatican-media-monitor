@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-15T10:10:24.296910+00:00",
+  "updated_at": "2026-11-15T10:15:28.764263+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-15T10:10:24.296910+00:00"
+      "checked_at": "2026-11-15T10:15:28.764263+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-15T10:10:24.296910+00:00"
+      "checked_at": "2026-11-15T10:15:28.764263+00:00"
     }
   },
   "items": [
+    {
+      "id": "067e0e0048316fa2de27",
+      "source": "TGcom24",
+      "title": "Mosca: \"Negozieremo per raggiungere gli obiettivi fissati da Putin nel 2024\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-15-ottobre_118990307-202602k.shtml",
+      "published": "2026-11-15T10:10:00+00:00"
+    },
     {
       "id": "dfa1b610a7205ba0e5de",
       "source": "BBC News",
@@ -304,13 +311,6 @@
       "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
       "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-14T10:42:20+00:00"
-    },
-    {
-      "id": "fc32b0473d1405f18dd5",
-      "source": "TGcom24",
-      "title": "Cortei, oltre 50 perquisizioni in 13 città: coinvolti anche minorenni",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/cortei-50-perquisizioni-digos_118964027-202602k.shtml",
-      "published": "2026-11-14T10:35:00+00:00"
     },
     {
       "id": "afeb7a0c1462fec920f9",
