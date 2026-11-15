@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-15T16:50:24.384888+00:00",
+  "updated_at": "2026-11-15T16:55:17.811766+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-15T16:50:24.384888+00:00"
+      "checked_at": "2026-11-15T16:55:17.811766+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-15T16:50:24.384888+00:00"
+      "checked_at": "2026-11-15T16:55:17.811766+00:00"
     }
   },
   "items": [
+    {
+      "id": "0ba65eece5726d597546",
+      "source": "TGcom24",
+      "title": "Tensione Ue-Mosca, l'Estonia chiude completamente il confine con la Russia",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-15-ottobre_118990307-202602k.shtml",
+      "published": "2026-11-15T16:51:00+00:00"
+    },
     {
       "id": "fa7e137f93b5b7eba77d",
       "source": "BBC News",
@@ -290,13 +297,6 @@
       "title": "Attacco hacker a La Poste in Francia: violati i dati di 22 milioni di persone",
       "url": "https://www.tgcom24.mediaset.it/mondo/francia-la-poste-attacco-hacker-dati-violazione-indagini_118987286-202602k.shtml",
       "published": "2026-11-14T20:50:00+00:00"
-    },
-    {
-      "id": "6e75b4004ec87b11f2e0",
-      "source": "TGcom24",
-      "title": "Israele, Eisenkot: \"La proposta di Netanyahu? E' l'ennesimo trucco\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/netanyahu-governo-unita-nazionale-iran-eisenkot_118982288-202602k.shtml",
-      "published": "2026-11-14T19:55:00+00:00"
     },
     {
       "id": "a89d76b5ce60a2d40c7b",
