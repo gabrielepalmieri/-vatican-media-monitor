@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-15T18:00:55.642924+00:00",
+  "updated_at": "2026-11-15T18:05:20.338099+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-15T18:00:55.642924+00:00"
+      "checked_at": "2026-11-15T18:05:20.338099+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-15T18:00:55.642924+00:00"
+      "checked_at": "2026-11-15T18:05:20.338099+00:00"
     }
   },
   "items": [
+    {
+      "id": "82455c992b0b939478c8",
+      "source": "BBC News",
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T17:57:09+00:00"
+    },
     {
       "id": "259ce0e2197521266389",
       "source": "TGcom24",
@@ -269,13 +276,6 @@
       "title": "Proteste in Francia: oltre 200 fermi e dieci agenti di polizia rimasti feriti",
       "url": "https://www.tgcom24.mediaset.it/mondo/francia-proteste-aggiornamenti-diretta-14-novembre_118964894-202602k.shtml",
       "published": "2026-11-14T22:56:00+00:00"
-    },
-    {
-      "id": "44f371e7523ab45e8db3",
-      "source": "BBC News",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T22:37:25+00:00"
     },
     {
       "id": "c7e654eb3492b4f79a70",
