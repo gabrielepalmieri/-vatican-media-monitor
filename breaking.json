@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-15T13:00:57.601018+00:00",
+  "updated_at": "2026-11-15T13:05:17.601442+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-15T13:00:57.601018+00:00"
+      "checked_at": "2026-11-15T13:05:17.601442+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-15T13:00:57.601018+00:00"
+      "checked_at": "2026-11-15T13:05:17.601442+00:00"
     }
   },
   "items": [
+    {
+      "id": "de17fbfa40d2581f1005",
+      "source": "TGcom24",
+      "title": "Guerra Ucraina, Ue conferma: \"Abbordata nel Mediterraneo una nave ombra russa\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-15-ottobre_118990307-202602k.shtml",
+      "published": "2026-11-15T13:02:00+00:00"
+    },
     {
       "id": "392d13ffb5ac707df4f5",
       "source": "TGcom24",
@@ -304,13 +311,6 @@
       "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
       "url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-14T15:42:54+00:00"
-    },
-    {
-      "id": "2b107105e6350334d3ce",
-      "source": "TGcom24",
-      "title": "Milano, nuovo corteo di \"Italia in piazza\": poche centinaia i presenti",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-corteo-italia-piazza_118975423-202602k.shtml",
-      "published": "2026-11-14T15:16:00+00:00"
     },
     {
       "id": "aef4020f77fa7154c4a8",
