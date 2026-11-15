@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-15T20:15:35.136695+00:00",
+  "updated_at": "2026-11-15T20:20:26.789943+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-15T20:15:35.136695+00:00"
+      "checked_at": "2026-11-15T20:20:26.789943+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-15T20:15:35.136695+00:00"
+      "checked_at": "2026-11-15T20:20:26.789943+00:00"
     }
   },
   "items": [
@@ -33,11 +33,25 @@
       "published": "2026-11-15T19:31:48+00:00"
     },
     {
+      "id": "fbde44fe68cf04c07bda",
+      "source": "BBC News",
+      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+      "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T19:20:53+00:00"
+    },
+    {
       "id": "d661a2b0f5cc392f59f2",
       "source": "TGcom24",
       "title": "Schlein: \"Chi vince le primarie sarà capo di un'alleanza vincolata da programma\"",
       "url": "https://www.tgcom24.mediaset.it/politica/elly-schlein-campo-largo-primarie-patrimoniale-dichiarazioni_119018954-202602k.shtml",
       "published": "2026-11-15T18:54:00+00:00"
+    },
+    {
+      "id": "ccf10a8816bd02575f24",
+      "source": "BBC News",
+      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+      "url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T18:38:11+00:00"
     },
     {
       "id": "4b345332e8f70ead752c",
@@ -66,6 +80,13 @@
       "title": "Tensione Ue-Mosca, l'Estonia chiude completamente il confine con la Russia",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-15-ottobre_118990307-202602k.shtml",
       "published": "2026-11-15T16:51:00+00:00"
+    },
+    {
+      "id": "4bbdd91310f7025fa945",
+      "source": "BBC News",
+      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+      "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T16:15:20+00:00"
     },
     {
       "id": "df3edb5731f11c6aec85",
@@ -108,13 +129,6 @@
       "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
       "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-15T14:56:21+00:00"
-    },
-    {
-      "id": "49cc0d940d705b5e7983",
-      "source": "BBC News",
-      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-      "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-15T14:33:59+00:00"
     },
     {
       "id": "e95532c6c04fcfcbd241",
@@ -201,25 +215,11 @@
       "published": "2026-11-15T10:10:00+00:00"
     },
     {
-      "id": "dfa1b610a7205ba0e5de",
-      "source": "BBC News",
-      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-      "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-15T09:57:25+00:00"
-    },
-    {
       "id": "fa314e5567293757bb6f",
       "source": "TGcom24",
       "title": "Cadde dal tettuccio di un'auto in corsa, morto 23enne a Treviso",
       "url": "https://www.tgcom24.mediaset.it/cronaca/treviso-cade-tettuccio-auto-morto_118994368-202602k.shtml",
       "published": "2026-11-15T09:40:00+00:00"
-    },
-    {
-      "id": "389bd7ac15265cbe1341",
-      "source": "BBC News",
-      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
-      "url": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-15T09:26:37+00:00"
     },
     {
       "id": "ef1f563464d776830dd5",
@@ -255,13 +255,6 @@
       "title": "Kiev: \"Nella notte 132 droni russi contro l'Ucraina, intercettati 106\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-15-ottobre_118990307-202602k.shtml",
       "published": "2026-11-15T07:28:00+00:00"
-    },
-    {
-      "id": "10450ad29396bd58b69e",
-      "source": "BBC News",
-      "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-15T07:10:31+00:00"
     },
     {
       "id": "34439008b9660e3e4a8e",
@@ -311,27 +304,6 @@
       "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
       "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-14T19:14:33+00:00"
-    },
-    {
-      "id": "87539708c12af6b5af97",
-      "source": "BBC News",
-      "title": "Italy fines Meta €805m over accessing users' photos",
-      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T18:28:06+00:00"
-    },
-    {
-      "id": "dd56aa5785ae310410fd",
-      "source": "BBC News",
-      "title": "Philippines wins first Eurovision Song Contest Asia",
-      "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T18:17:58+00:00"
-    },
-    {
-      "id": "970028e067e849347fd3",
-      "source": "BBC News",
-      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T18:00:10+00:00"
     }
   ]
 }
