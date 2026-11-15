@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-15T08:15:28.763254+00:00",
+  "updated_at": "2026-11-15T08:20:25.231583+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-15T08:15:28.763254+00:00"
+      "checked_at": "2026-11-15T08:20:25.231583+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-15T08:15:28.763254+00:00"
+      "checked_at": "2026-11-15T08:20:25.231583+00:00"
     }
   },
   "items": [
+    {
+      "id": "c073bc42db100182d9ed",
+      "source": "BBC News",
+      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T08:17:41+00:00"
+    },
     {
       "id": "7b2bf9ca92770fb2105e",
       "source": "TGcom24",
@@ -297,13 +304,6 @@
       "title": "Zelensky: \"Usa propongono adesione Nato in cambio della cessione del Donbass\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-14-novembre_118963620-202602k.shtml",
       "published": "2026-11-14T09:55:00+00:00"
-    },
-    {
-      "id": "0a3f7967b6d487305efc",
-      "source": "BBC News",
-      "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
-      "url": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T01:47:36+00:00"
     },
     {
       "id": "afeb7a0c1462fec920f9",
