@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-15T15:30:43.110327+00:00",
+  "updated_at": "2026-11-15T15:35:20.214324+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-15T15:30:43.110327+00:00"
+      "checked_at": "2026-11-15T15:35:20.214324+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-15T15:30:43.110327+00:00"
+      "checked_at": "2026-11-15T15:35:20.214324+00:00"
     }
   },
   "items": [
+    {
+      "id": "700feb8a1f429b90b3d0",
+      "source": "TGcom24",
+      "title": "Bari, indagati due giovani hacker: rubavano identità digitali e dati sensibili",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/bari-hacker-minorenni-rubavano-identita-dati-pin-carte-credito_119008686-202602k.shtml",
+      "published": "2026-11-15T15:30:00+00:00"
+    },
     {
       "id": "a2d44ade8410953407e0",
       "source": "TGcom24",
@@ -290,13 +297,6 @@
       "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
       "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-14T19:14:33+00:00"
-    },
-    {
-      "id": "611c6b96caf3f7fe4892",
-      "source": "TGcom24",
-      "title": "Meta annuncia ricorso dopo la maxi multa del Garante della privacy",
-      "url": "https://www.tgcom24.mediaset.it/tgtech/garante-privacy-multa-meta-foto-facebook_118968205-202602k.shtml",
-      "published": "2026-11-14T18:40:00+00:00"
     },
     {
       "id": "87539708c12af6b5af97",
