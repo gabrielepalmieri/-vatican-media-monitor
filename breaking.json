@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-15T08:00:56.304552+00:00",
+  "updated_at": "2026-11-15T08:05:23.162745+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-15T08:00:56.304552+00:00"
+      "checked_at": "2026-11-15T08:05:23.162745+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-15T08:00:56.304552+00:00"
+      "checked_at": "2026-11-15T08:05:23.162745+00:00"
     }
   },
   "items": [
+    {
+      "id": "7b2bf9ca92770fb2105e",
+      "source": "TGcom24",
+      "title": "Bologna, tragedia al raduno di Elisa: fan 35enne ha un arresto cardiaco e muore",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/elisa-bologna-fan-arresto-cardiaco_118990562-202602k.shtml",
+      "published": "2026-11-15T08:01:00+00:00"
+    },
     {
       "id": "5506477338fee9f534da",
       "source": "TGcom24",
@@ -283,13 +290,6 @@
       "title": "Zelensky: \"Usa propongono adesione Nato in cambio della cessione del Donbass\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-14-novembre_118963620-202602k.shtml",
       "published": "2026-11-14T09:55:00+00:00"
-    },
-    {
-      "id": "65d53cd45ab33e7a41c1",
-      "source": "TGcom24",
-      "title": "Milano, segregata in casa viene licenziata per assenza ingiustificata: reintegrata",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-segregata-casa-licenziata-reintegrata_118960771-202602k.shtml",
-      "published": "2026-11-14T09:18:00+00:00"
     },
     {
       "id": "0a3f7967b6d487305efc",
