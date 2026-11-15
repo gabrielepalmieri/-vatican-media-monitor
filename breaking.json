@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-15T23:15:27.727034+00:00",
+  "updated_at": "2026-11-15T23:20:24.026443+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-11-15T23:15:27.727034+00:00"
+      "checked_at": "2026-11-15T23:20:24.026443+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-15T23:15:27.727034+00:00"
+      "checked_at": "2026-11-15T23:20:24.026443+00:00"
     }
   },
   "items": [
+    {
+      "id": "f03efccb90052770a447",
+      "source": "BBC News",
+      "title": "'Steering casualty' preceded New Orleans cruise ship collision, says NTSB",
+      "url": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T22:57:27+00:00"
+    },
     {
       "id": "55d49a1a52853093f855",
       "source": "TGcom24",
@@ -73,13 +80,6 @@
       "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
       "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-15T19:32:39+00:00"
-    },
-    {
-      "id": "c41fbccf5584716a8d04",
-      "source": "BBC News",
-      "title": "Ronaldinho makes comeback in Ravenna win",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-15T19:31:48+00:00"
     },
     {
       "id": "fbde44fe68cf04c07bda",
