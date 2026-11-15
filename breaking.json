@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-15T09:25:16.422782+00:00",
+  "updated_at": "2026-11-15T09:30:48.136656+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-15T09:25:16.422782+00:00"
+      "checked_at": "2026-11-15T09:30:48.136656+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-15T09:25:16.422782+00:00"
+      "checked_at": "2026-11-15T09:30:48.136656+00:00"
     }
   },
   "items": [
+    {
+      "id": "389bd7ac15265cbe1341",
+      "source": "BBC News",
+      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+      "url": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T09:26:37+00:00"
+    },
+    {
+      "id": "ef1f563464d776830dd5",
+      "source": "TGcom24",
+      "title": "Scatta l'obbligo di gomme invernali: quali sono le sanzioni e quando servono anche le catene",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/gomme-invernali-catene-sanzioni_118992346-202602k.shtml",
+      "published": "2026-11-15T09:10:00+00:00"
+    },
     {
       "id": "4a837811e6df20efdd63",
       "source": "TGcom24",
@@ -297,13 +311,6 @@
       "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
       "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-14T10:42:20+00:00"
-    },
-    {
-      "id": "fc32b0473d1405f18dd5",
-      "source": "TGcom24",
-      "title": "Cortei, oltre 50 perquisizioni in 13 città: coinvolti anche minorenni",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/cortei-50-perquisizioni-digos_118964027-202602k.shtml",
-      "published": "2026-11-14T10:35:00+00:00"
     },
     {
       "id": "afeb7a0c1462fec920f9",
