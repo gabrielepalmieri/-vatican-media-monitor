@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-15T20:05:18.531464+00:00",
+  "updated_at": "2026-11-15T20:10:33.871003+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-15T20:05:18.531464+00:00"
+      "checked_at": "2026-11-15T20:10:33.871003+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-15T20:05:18.531464+00:00"
+      "checked_at": "2026-11-15T20:10:33.871003+00:00"
     }
   },
   "items": [
@@ -24,6 +24,13 @@
       "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
       "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-15T19:32:39+00:00"
+    },
+    {
+      "id": "c41fbccf5584716a8d04",
+      "source": "BBC News",
+      "title": "Ronaldinho makes comeback in Ravenna win",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T19:31:48+00:00"
     },
     {
       "id": "d661a2b0f5cc392f59f2",
@@ -325,27 +332,6 @@
       "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
       "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-14T18:00:10+00:00"
-    },
-    {
-      "id": "8137613ea0d170d85e71",
-      "source": "BBC News",
-      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T15:53:55+00:00"
-    },
-    {
-      "id": "73f660e269ce6ee1671a",
-      "source": "BBC News",
-      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
-      "url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T15:42:54+00:00"
-    },
-    {
-      "id": "aef4020f77fa7154c4a8",
-      "source": "BBC News",
-      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
-      "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T10:42:20+00:00"
     }
   ]
 }
