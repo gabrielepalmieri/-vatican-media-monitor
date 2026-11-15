@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-15T05:00:56.069464+00:00",
+  "updated_at": "2026-11-15T05:05:18.856328+00:00",
   "sources": {
     "TGcom24": {
-      "ok": false,
-      "checked_at": "2026-11-15T05:00:56.069464+00:00"
+      "ok": true,
+      "checked_at": "2026-11-15T05:05:18.856328+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-15T05:00:56.069464+00:00"
+      "checked_at": "2026-11-15T05:05:18.856328+00:00"
     }
   },
   "items": [
+    {
+      "id": "70cc736eeec627c13c1d",
+      "source": "TGcom24",
+      "title": "Trump critica Newsom sulla commutazione delle pene di morte: \"Incompetente\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-trump-california-newsom-condanne-a-morte_118988041-202602k.shtml",
+      "published": "2026-11-15T05:00:00+00:00"
+    },
     {
       "id": "25e592e222d7bf9f48c0",
       "source": "BBC News",
@@ -283,13 +290,6 @@
       "title": "Microsoft, ripristinati tutti i servizi dopo il blackout globale",
       "url": "https://www.tgcom24.mediaset.it/mondo/microsoft-ripristinati-servizi_118958339-202602k.shtml",
       "published": "2026-11-14T07:15:00+00:00"
-    },
-    {
-      "id": "f840163057312a1c98f1",
-      "source": "TGcom24",
-      "title": "Milano, scontro tra due auto nella notte: morto un 46enne",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-incidente-due-auto-un-morto_118957548-202602k.shtml",
-      "published": "2026-11-14T06:37:00+00:00"
     },
     {
       "id": "0a3f7967b6d487305efc",
