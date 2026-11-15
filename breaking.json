@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-15T05:35:18.374948+00:00",
+  "updated_at": "2026-11-15T05:40:23.842032+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-15T05:35:18.374948+00:00"
+      "checked_at": "2026-11-15T05:40:23.842032+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-15T05:35:18.374948+00:00"
+      "checked_at": "2026-11-15T05:40:23.842032+00:00"
     }
   },
   "items": [
+    {
+      "id": "cd813a205226e2823bf7",
+      "source": "TGcom24",
+      "title": "Usa: sabato cancellati 6.500 voli, domenica almeno altri 760",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-caos-voli-cancellati_118989346-202602k.shtml",
+      "published": "2026-11-15T05:35:00+00:00"
+    },
     {
       "id": "70cc736eeec627c13c1d",
       "source": "TGcom24",
@@ -283,13 +290,6 @@
       "title": "Garlasco, Sempio intercettato: \"Magari hanno allungato qualche mille euro ai carabinieri\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/garlasco-sempio-intercettazione-mille-euro_118950924-202602k.shtml",
       "published": "2026-11-14T07:45:00+00:00"
-    },
-    {
-      "id": "873ddbb8c9e10b28aba2",
-      "source": "TGcom24",
-      "title": "Microsoft, ripristinati tutti i servizi dopo il blackout globale",
-      "url": "https://www.tgcom24.mediaset.it/mondo/microsoft-ripristinati-servizi_118958339-202602k.shtml",
-      "published": "2026-11-14T07:15:00+00:00"
     },
     {
       "id": "0a3f7967b6d487305efc",
