@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-15T22:30:43.163514+00:00",
+  "updated_at": "2026-11-15T22:35:17.779137+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-15T22:30:43.163514+00:00"
+      "checked_at": "2026-11-15T22:35:17.779137+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-15T22:30:43.163514+00:00"
+      "checked_at": "2026-11-15T22:35:17.779137+00:00"
     }
   },
   "items": [
+    {
+      "id": "55d49a1a52853093f855",
+      "source": "TGcom24",
+      "title": "Papa Leone XIV in Amazzonia: \"Il grido della terra e dei poveri si levano insieme\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/papa-leone-xiv-cusco-peru-folla_119013657-202602k.shtml",
+      "published": "2026-11-15T22:30:00+00:00"
+    },
+    {
+      "id": "7e942f902c675b8b1a16",
+      "source": "BBC News",
+      "title": "Police ban protests near 10 schools and five universities in Paris",
+      "url": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T22:28:54+00:00"
+    },
     {
       "id": "09f62fd1126fb339d579",
       "source": "BBC News",
@@ -255,20 +269,6 @@
       "title": "Miami, collisione fra due aerei sulla pista dell'aeroporto: due feriti",
       "url": "https://www.tgcom24.mediaset.it/mondo/miami-aeroporto-scontro-aerei-feriti_118993116-202602k.shtml",
       "published": "2026-11-15T08:41:00+00:00"
-    },
-    {
-      "id": "c073bc42db100182d9ed",
-      "source": "BBC News",
-      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-15T08:17:41+00:00"
-    },
-    {
-      "id": "7b2bf9ca92770fb2105e",
-      "source": "TGcom24",
-      "title": "Bologna, tragedia al raduno di Elisa: fan 35enne ha un arresto cardiaco e muore",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/elisa-bologna-fan-arresto-cardiaco_118990562-202602k.shtml",
-      "published": "2026-11-15T08:01:00+00:00"
     },
     {
       "id": "ee4f4f1509a0cbf6e7cc",
