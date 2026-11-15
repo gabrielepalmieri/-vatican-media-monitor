@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-15T07:25:25.658855+00:00",
+  "updated_at": "2026-11-15T07:30:44.068921+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-15T07:25:25.658855+00:00"
+      "checked_at": "2026-11-15T07:30:44.068921+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-15T07:25:25.658855+00:00"
+      "checked_at": "2026-11-15T07:30:44.068921+00:00"
     }
   },
   "items": [
+    {
+      "id": "5506477338fee9f534da",
+      "source": "TGcom24",
+      "title": "Kiev: \"Nella notte 132 russi contro l'Ucraina, intercettati 106\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-15-ottobre_118990307-202602k.shtml",
+      "published": "2026-11-15T07:28:00+00:00"
+    },
     {
       "id": "10450ad29396bd58b69e",
       "source": "BBC News",
@@ -283,13 +290,6 @@
       "title": "Milano, segregata in casa viene licenziata per assenza ingiustificata: reintegrata",
       "url": "https://www.tgcom24.mediaset.it/cronaca/milano-segregata-casa-licenziata-reintegrata_118960771-202602k.shtml",
       "published": "2026-11-14T09:18:00+00:00"
-    },
-    {
-      "id": "45f1113c2b2663653c84",
-      "source": "TGcom24",
-      "title": "Aerei a terra in Usa, per l'Fbi \"non è stato un cyberattacco\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/usa-bloccati-voli-a-livello-nazionale-causa-circostanze-straordinarie_118952126-202602k.shtml",
-      "published": "2026-11-14T08:23:00+00:00"
     },
     {
       "id": "0a3f7967b6d487305efc",
