@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-15T20:20:26.789943+00:00",
+  "updated_at": "2026-11-15T20:25:18.294633+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-15T20:20:26.789943+00:00"
+      "checked_at": "2026-11-15T20:25:18.294633+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-15T20:20:26.789943+00:00"
+      "checked_at": "2026-11-15T20:25:18.294633+00:00"
     }
   },
   "items": [
+    {
+      "id": "18b1bdac3add8517241a",
+      "source": "TGcom24",
+      "title": "Nvidia, media: \"Jensen Huang pronto a un clamoroso ritorno\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-jensen-huang-ritorno-ceo_119020650-202602k.shtml",
+      "published": "2026-11-15T20:23:00+00:00"
+    },
     {
       "id": "80436ba7bcded15fba03",
       "source": "TGcom24",
@@ -269,13 +276,6 @@
       "title": "Usa: sabato cancellati 6.700 voli, domenica almeno altri 1.400",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-caos-voli-cancellati_118989346-202602k.shtml",
       "published": "2026-11-15T05:35:00+00:00"
-    },
-    {
-      "id": "70cc736eeec627c13c1d",
-      "source": "TGcom24",
-      "title": "Trump critica Newsom sulla commutazione delle pene di morte: \"Incompetente\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/usa-trump-california-newsom-condanne-a-morte_118988041-202602k.shtml",
-      "published": "2026-11-15T05:00:00+00:00"
     },
     {
       "id": "ee4f4f1509a0cbf6e7cc",
