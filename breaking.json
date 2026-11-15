@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-15T12:00:58.849338+00:00",
+  "updated_at": "2026-11-15T12:05:18.015185+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-15T12:00:58.849338+00:00"
+      "checked_at": "2026-11-15T12:05:18.015185+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-15T12:00:58.849338+00:00"
+      "checked_at": "2026-11-15T12:05:18.015185+00:00"
     }
   },
   "items": [
+    {
+      "id": "b3374153cda09cece64f",
+      "source": "TGcom24",
+      "title": "L'ex presidente Usa Biden nel suo libro: \"Zelensky scontroso e irriconoscente\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-15-ottobre_118990307-202602k.shtml",
+      "published": "2026-11-15T11:59:00+00:00"
+    },
     {
       "id": "120b15111ee299089779",
       "source": "TGcom24",
@@ -306,25 +313,11 @@
       "published": "2026-11-14T13:31:00+00:00"
     },
     {
-      "id": "572ff4bb9cf34eba9b74",
-      "source": "TGcom24",
-      "title": "Meta, maxi multa di 805 milioni di euro dal Garante della privacy",
-      "url": "https://www.tgcom24.mediaset.it/tgtech/garante-privacy-multa-meta-foto-facebook_118968205-202602k.shtml",
-      "published": "2026-11-14T12:57:00+00:00"
-    },
-    {
       "id": "aef4020f77fa7154c4a8",
       "source": "BBC News",
       "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
       "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-14T10:42:20+00:00"
-    },
-    {
-      "id": "afeb7a0c1462fec920f9",
-      "source": "BBC News",
-      "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
-      "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T00:03:56+00:00"
     }
   ]
 }
