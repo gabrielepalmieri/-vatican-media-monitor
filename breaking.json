@@ -1,29 +1,36 @@
 {
-  "updated_at": "2026-11-16T12:20:27.452970+00:00",
+  "updated_at": "2026-11-16T12:25:19.611209+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-16T12:20:27.452970+00:00"
+      "checked_at": "2026-11-16T12:25:19.611209+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-16T12:20:27.452970+00:00"
+      "checked_at": "2026-11-16T12:25:19.611209+00:00"
     }
   },
   "items": [
+    {
+      "id": "f18988fd7144acd6de24",
+      "source": "BBC News",
+      "title": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T12:20:49+00:00"
+    },
+    {
+      "id": "d229671f10598604aeb7",
+      "source": "TGcom24",
+      "title": "Palermo, accoltella in strada l'ex della fidanzata: arrestato 20enne",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/palermo-accoltella-ex-della-fidanzata-arrestato_119045698-202602k.shtml",
+      "published": "2026-11-16T12:20:00+00:00"
+    },
     {
       "id": "109db43240d27c4cb8ae",
       "source": "BBC News",
       "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
       "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-16T11:55:57+00:00"
-    },
-    {
-      "id": "f18988fd7144acd6de24",
-      "source": "BBC News",
-      "title": "Jensen Huang allies campaign to reinstate the former Nvidia boss",
-      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T11:45:40+00:00"
     },
     {
       "id": "af6f285b7f405eb41b89",
@@ -290,13 +297,6 @@
       "title": "Tensione Ue-Mosca, l'Estonia chiude completamente il confine con la Russia",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-15-ottobre_118990307-202602k.shtml",
       "published": "2026-11-15T16:51:00+00:00"
-    },
-    {
-      "id": "df3edb5731f11c6aec85",
-      "source": "TGcom24",
-      "title": "Perù, Papa Leone sbarca a Cusco: bagno di folla e giro in Papamobile",
-      "url": "https://www.tgcom24.mediaset.it/mondo/papa-leone-xiv-cusco-peru-folla_119013657-202602k.shtml",
-      "published": "2026-11-15T16:05:00+00:00"
     },
     {
       "id": "e982de98774614c2c887",
