@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-16T02:10:25.836031+00:00",
+  "updated_at": "2026-11-16T02:15:35.993792+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-11-16T02:10:25.836031+00:00"
+      "checked_at": "2026-11-16T02:15:35.993792+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-16T02:10:25.836031+00:00"
+      "checked_at": "2026-11-16T02:15:35.993792+00:00"
     }
   },
   "items": [
+    {
+      "id": "2416f7b1aad9d77482cc",
+      "source": "BBC News",
+      "title": "Australian MP who lost both legs in alleged car attack discharged from hospital",
+      "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T01:53:19+00:00"
+    },
     {
       "id": "09f62fd1126fb339d579",
       "source": "BBC News",
@@ -31,13 +38,6 @@
       "title": "Russia's mega-rich are already imagining a future after Putin",
       "url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-16T00:13:14+00:00"
-    },
-    {
-      "id": "fbde44fe68cf04c07bda",
-      "source": "BBC News",
-      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-      "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T00:03:29+00:00"
     },
     {
       "id": "e838c5dc2cc10eb3d2f3",
@@ -66,6 +66,13 @@
       "title": "Police ban protests near 10 schools and five universities in Paris",
       "url": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-15T22:28:54+00:00"
+    },
+    {
+      "id": "fa6ea3a2499ad8525e70",
+      "source": "BBC News",
+      "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T22:00:13+00:00"
     },
     {
       "id": "fa7e137f93b5b7eba77d",
@@ -185,13 +192,6 @@
       "title": "Livorno, trovata morta sulle strisce: rintracciato l'uomo che l'ha investita",
       "url": "https://www.tgcom24.mediaset.it/cronaca/livorno-donna-morta-strada_119003399-202602k.shtml",
       "published": "2026-11-15T13:58:00+00:00"
-    },
-    {
-      "id": "8e901b0646117d82e1e6",
-      "source": "BBC News",
-      "title": "Iran targets US military base in Bahrain with drone attack",
-      "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-15T13:42:58+00:00"
     },
     {
       "id": "c9077261e511a0fde22b",
