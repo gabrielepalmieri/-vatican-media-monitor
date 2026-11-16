@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-16T18:30:54.088623+00:00",
+  "updated_at": "2026-11-16T18:35:20.101545+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-16T18:30:54.088623+00:00"
+      "checked_at": "2026-11-16T18:35:20.101545+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-16T18:30:54.088623+00:00"
+      "checked_at": "2026-11-16T18:35:20.101545+00:00"
     }
   },
   "items": [
+    {
+      "id": "43a8f4d7ab3213797f0f",
+      "source": "TGcom24",
+      "title": "Nvidia, il Ceo di OpenAI Altman: \"Difficile immaginare la rivoluzione IA senza Huang\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/sam-altman-openai-jensen-huang-nvidia-sostegno_119065062-202602k.shtml",
+      "published": "2026-11-16T18:30:00+00:00"
+    },
     {
       "id": "f18988fd7144acd6de24",
       "source": "BBC News",
@@ -255,13 +262,6 @@
       "title": "Pechino conferma l'incontro trilaterale tra Xi, Trump e Putin",
       "url": "https://www.tgcom24.mediaset.it/mondo/pechino-trilaterale-xi-jinping-donald-trump-vladimir-putin_119031756-202602k.shtml",
       "published": "2026-11-16T05:32:00+00:00"
-    },
-    {
-      "id": "9b956ee11f9a6500b63c",
-      "source": "TGcom24",
-      "title": "Usa, media: \"Lutnick avrebbe indebolito le regole sui chip per interessi personali\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/lutnick-allentato-norme-chip-attivita-famiglia_119023140-202602k.shtml",
-      "published": "2026-11-16T05:00:00+00:00"
     },
     {
       "id": "72ccb94370e49274b29d",
