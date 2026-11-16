@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-16T15:30:47.958191+00:00",
+  "updated_at": "2026-11-16T15:35:18.909755+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-16T15:30:47.958191+00:00"
+      "checked_at": "2026-11-16T15:35:18.909755+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-16T15:30:47.958191+00:00"
+      "checked_at": "2026-11-16T15:35:18.909755+00:00"
     }
   },
   "items": [
+    {
+      "id": "f18988fd7144acd6de24",
+      "source": "BBC News",
+      "title": "Trump says he wouldn't mind seeing Huang return to Nvidia",
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T15:31:20+00:00"
+    },
     {
       "id": "795d10cd84364e95bd9c",
       "source": "TGcom24",
@@ -94,13 +101,6 @@
       "title": "Man sentenced over 'horrific' attempted murder of three children",
       "url": "https://www.bbc.co.uk/news/articles/cr0qj0nzwj34o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-16T12:27:15+00:00"
-    },
-    {
-      "id": "f18988fd7144acd6de24",
-      "source": "BBC News",
-      "title": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
-      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T12:20:49+00:00"
     },
     {
       "id": "43d00b43e7fecb371072",
