@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-16T00:05:19.165620+00:00",
+  "updated_at": "2026-11-16T00:10:28.334125+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-11-16T00:05:19.165620+00:00"
+      "checked_at": "2026-11-16T00:10:28.334125+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-16T00:05:19.165620+00:00"
+      "checked_at": "2026-11-16T00:10:28.334125+00:00"
     }
   },
   "items": [
@@ -17,6 +17,13 @@
       "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
       "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-16T00:03:29+00:00"
+    },
+    {
+      "id": "e838c5dc2cc10eb3d2f3",
+      "source": "BBC News",
+      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T23:52:10+00:00"
     },
     {
       "id": "f03efccb90052770a447",
@@ -136,13 +143,6 @@
       "title": "Perù, Papa Leone sbarca a Cusco: bagno di folla e giro in Papamobile",
       "url": "https://www.tgcom24.mediaset.it/mondo/papa-leone-xiv-cusco-peru-folla_119013657-202602k.shtml",
       "published": "2026-11-15T16:05:00+00:00"
-    },
-    {
-      "id": "25e592e222d7bf9f48c0",
-      "source": "BBC News",
-      "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
-      "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-15T15:57:03+00:00"
     },
     {
       "id": "700feb8a1f429b90b3d0",
