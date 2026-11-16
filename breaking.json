@@ -1,29 +1,36 @@
 {
-  "updated_at": "2026-11-16T18:50:25.800547+00:00",
+  "updated_at": "2026-11-16T19:00:58.020827+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-16T18:50:25.800547+00:00"
+      "checked_at": "2026-11-16T19:00:58.020827+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-16T18:50:25.800547+00:00"
+      "checked_at": "2026-11-16T19:00:58.020827+00:00"
     }
   },
   "items": [
+    {
+      "id": "f18988fd7144acd6de24",
+      "source": "BBC News",
+      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T18:56:42+00:00"
+    },
+    {
+      "id": "1700439192391706ef61",
+      "source": "TGcom24",
+      "title": "Disservizi per diverse grandi banche Usa: problemi di accesso online",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-banca-app-down_119065253-202602k.shtml",
+      "published": "2026-11-16T18:53:00+00:00"
+    },
     {
       "id": "43a8f4d7ab3213797f0f",
       "source": "TGcom24",
       "title": "Nvidia, il Ceo di OpenAI Altman: \"Difficile immaginare la rivoluzione IA senza Huang\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/sam-altman-openai-jensen-huang-nvidia-sostegno_119065062-202602k.shtml",
       "published": "2026-11-16T18:30:00+00:00"
-    },
-    {
-      "id": "f18988fd7144acd6de24",
-      "source": "BBC News",
-      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T18:06:26+00:00"
     },
     {
       "id": "464fc94578fa47a51db0",
@@ -255,13 +262,6 @@
       "title": "Ia, media: \"Usa e alleati firmano accordo per tutelare la supply chain dalla Cina\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/intelligenza-artificiale-ia-usa-cina_119031759-202602k.shtml",
       "published": "2026-11-16T06:05:00+00:00"
-    },
-    {
-      "id": "48eebeade9a727491d06",
-      "source": "TGcom24",
-      "title": "Pechino conferma l'incontro trilaterale tra Xi, Trump e Putin",
-      "url": "https://www.tgcom24.mediaset.it/mondo/pechino-trilaterale-xi-jinping-donald-trump-vladimir-putin_119031756-202602k.shtml",
-      "published": "2026-11-16T05:32:00+00:00"
     },
     {
       "id": "72ccb94370e49274b29d",
