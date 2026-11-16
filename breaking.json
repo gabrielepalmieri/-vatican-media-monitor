@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-16T12:45:30.390786+00:00",
+  "updated_at": "2026-11-16T12:50:26.550932+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-16T12:45:30.390786+00:00"
+      "checked_at": "2026-11-16T12:50:26.550932+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-16T12:45:30.390786+00:00"
+      "checked_at": "2026-11-16T12:50:26.550932+00:00"
     }
   },
   "items": [
+    {
+      "id": "109db43240d27c4cb8ae",
+      "source": "BBC News",
+      "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
+      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T12:49:33+00:00"
+    },
     {
       "id": "5c4143ce2cbe207776c1",
       "source": "TGcom24",
       "title": "Ucraina, Commissione Ue: \"Pronti a ospitare colloqui multilaterali, anche con Russia\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-16-novembre_119032170-202602k.shtml",
       "published": "2026-11-16T12:44:00+00:00"
-    },
-    {
-      "id": "109db43240d27c4cb8ae",
-      "source": "BBC News",
-      "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
-      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T12:36:17+00:00"
     },
     {
       "id": "ec99cb25f6eb60bfde79",
