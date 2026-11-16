@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-16T20:00:56.447994+00:00",
+  "updated_at": "2026-11-16T20:05:20.256215+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-16T20:00:56.447994+00:00"
+      "checked_at": "2026-11-16T20:05:20.256215+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-16T20:00:56.447994+00:00"
+      "checked_at": "2026-11-16T20:05:20.256215+00:00"
     }
   },
   "items": [
+    {
+      "id": "c5122bcb93a6ee25de9c",
+      "source": "BBC News",
+      "title": "Forensic expert says his analysis raises doubts about how Epstein died",
+      "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T20:03:30+00:00"
+    },
     {
       "id": "49e880d6f8923b22e671",
       "source": "TGcom24",
@@ -24,13 +31,6 @@
       "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
       "url": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-16T19:30:30+00:00"
-    },
-    {
-      "id": "c5122bcb93a6ee25de9c",
-      "source": "BBC News",
-      "title": "Forensic expert says his analysis raises doubts about how Epstein died",
-      "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T19:19:18+00:00"
     },
     {
       "id": "f18988fd7144acd6de24",
