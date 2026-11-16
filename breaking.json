@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-16T22:20:24.348692+00:00",
+  "updated_at": "2026-11-16T22:25:18.782385+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-16T22:20:24.348692+00:00"
+      "checked_at": "2026-11-16T22:25:18.782385+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-16T22:20:24.348692+00:00"
+      "checked_at": "2026-11-16T22:25:18.782385+00:00"
     }
   },
   "items": [
+    {
+      "id": "f18988fd7144acd6de24",
+      "source": "BBC News",
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T22:21:27+00:00"
+    },
     {
       "id": "3b61b371785972a2be4d",
       "source": "TGcom24",
@@ -59,13 +66,6 @@
       "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
       "url": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-16T19:30:30+00:00"
-    },
-    {
-      "id": "f18988fd7144acd6de24",
-      "source": "BBC News",
-      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T19:16:52+00:00"
     },
     {
       "id": "1f33494d202b01c21c63",
