@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-16T23:05:20.027033+00:00",
+  "updated_at": "2026-11-16T23:10:24.732665+00:00",
   "sources": {
     "TGcom24": {
-      "ok": false,
-      "checked_at": "2026-11-16T23:05:20.027033+00:00"
+      "ok": true,
+      "checked_at": "2026-11-16T23:10:24.732665+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-16T23:05:20.027033+00:00"
+      "checked_at": "2026-11-16T23:10:24.732665+00:00"
     }
   },
   "items": [
+    {
+      "id": "6e950a74e83792699232",
+      "source": "TGcom24",
+      "title": "Trump: \"Il ritorno di Huang a Nvidia? Non mi dispiacerebbe affatto\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/sam-altman-openai-jensen-huang-nvidia-sostegno_119065062-202602k.shtml",
+      "published": "2026-11-16T23:05:00+00:00"
+    },
     {
       "id": "3e08a70f70ee79d6a04d",
       "source": "TGcom24",
@@ -276,13 +283,6 @@
       "title": "Ue, ok del Consiglio alla giornata europea per le vittime degli incidenti sul lavoro",
       "url": "https://www.tgcom24.mediaset.it/mondo/ue-unione-europea-giornata-vittime-incidenti-sul-lavoro_119039565-202602k.shtml",
       "published": "2026-11-16T09:11:00+00:00"
-    },
-    {
-      "id": "cfbb6e741405bb6dbd77",
-      "source": "TGcom24",
-      "title": "Kallas a Mosca: \"Prima il cessate il fuoco poi si discute\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-16-novembre_119032170-202602k.shtml",
-      "published": "2026-11-16T08:27:00+00:00"
     },
     {
       "id": "72ccb94370e49274b29d",
