@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-16T01:05:19.369600+00:00",
+  "updated_at": "2026-11-16T01:10:26.815939+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-11-16T01:05:19.369600+00:00"
+      "checked_at": "2026-11-16T01:10:26.815939+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-16T01:05:19.369600+00:00"
+      "checked_at": "2026-11-16T01:10:26.815939+00:00"
     }
   },
   "items": [
+    {
+      "id": "4bbdd91310f7025fa945",
+      "source": "BBC News",
+      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+      "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T01:05:44+00:00"
+    },
     {
       "id": "616617278145d8d95253",
       "source": "BBC News",
@@ -136,13 +143,6 @@
       "title": "Tensione Ue-Mosca, l'Estonia chiude completamente il confine con la Russia",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-15-ottobre_118990307-202602k.shtml",
       "published": "2026-11-15T16:51:00+00:00"
-    },
-    {
-      "id": "4bbdd91310f7025fa945",
-      "source": "BBC News",
-      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
-      "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-15T16:15:20+00:00"
     },
     {
       "id": "df3edb5731f11c6aec85",
