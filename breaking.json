@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-16T03:20:25.119859+00:00",
+  "updated_at": "2026-11-16T03:25:19.303705+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-11-16T03:20:25.119859+00:00"
+      "checked_at": "2026-11-16T03:25:19.303705+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-16T03:20:25.119859+00:00"
+      "checked_at": "2026-11-16T03:25:19.303705+00:00"
     }
   },
   "items": [
+    {
+      "id": "e838c5dc2cc10eb3d2f3",
+      "source": "BBC News",
+      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T03:21:56+00:00"
+    },
     {
       "id": "2416f7b1aad9d77482cc",
       "source": "BBC News",
@@ -38,13 +45,6 @@
       "title": "Russia's mega-rich are already imagining a future after Putin",
       "url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-16T00:13:14+00:00"
-    },
-    {
-      "id": "e838c5dc2cc10eb3d2f3",
-      "source": "BBC News",
-      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
-      "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-15T23:52:10+00:00"
     },
     {
       "id": "f03efccb90052770a447",
