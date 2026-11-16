@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T01:51:02.141247+00:00",
+  "updated_at": "2026-11-16T01:53:57.823161+00:00",
   "items": [
     {
       "id": "e7279efe0dc570b7",
@@ -167,7 +167,7 @@
       "published": "2026-11-16T01:33:23+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 14,
+      "cluster_size": 15,
       "origin": "search",
       "author": "LiveTube",
       "article_url": "https://www.livetube.tv/news/video-pope-leo-xiv-demands-justice-for-environmental-defenders-killed-for-protecting-the-amazon",
@@ -177,6 +177,7 @@
       "cluster_id": "1bddeccf253ba152",
       "cluster_sources": [
         "AP News",
+        "Chicago Tribune",
         "Daily Gate City",
         "KSAT",
         "Los Angeles Times",
@@ -238,7 +239,7 @@
       "published": "2026-11-16T01:30:00+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 14,
+      "cluster_size": 15,
       "origin": "search",
       "author": "Associated Press Videos",
       "article_url": "https://sg.news.yahoo.com/pope-leo-xiv-travels-peruvian-013038501.html",
@@ -248,6 +249,7 @@
       "cluster_id": "1bddeccf253ba152",
       "cluster_sources": [
         "AP News",
+        "Chicago Tribune",
         "Daily Gate City",
         "KSAT",
         "Los Angeles Times",
@@ -361,6 +363,7 @@
       "article_url": "https://evidencia.pe/el-papa-leon-xiv-congrega-a-medio-millon-de-fieles-en-una-historica-jornada-en-cusco/",
       "author_verified": true,
       "byline_checked_at": "2026-11-16T01:50:46.592443+00:00",
+      "author_url": "",
       "cluster_id": "230938f7a8c244d2",
       "cluster_sources": [
         "Evidencia.pe",
@@ -965,6 +968,24 @@
       ]
     },
     {
+      "id": "31873bdc44e228f4",
+      "title": "Middle East and north Africa",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mUXo4RzBTYnBSblRjT0IyTFFSSWE0b2ZyQlR6RHVPMGdMd1dHTDhYTGxsXzQ4MERJUTNsV2c1YzVxQnA1VFBEc0VlYmgtcDBzSFUtZ1JZWQ?oc=5",
+      "source": "The Guardian",
+      "country": "Regno Unito",
+      "language": "English",
+      "published": "2026-11-16T01:06:07+00:00",
+      "topic": "Attualità",
+      "kind": "news",
+      "cluster_size": 1,
+      "origin": "search",
+      "byline_checked_at": "2026-11-15T16:15:08.413161+00:00",
+      "cluster_id": "31873bdc44e228f4",
+      "cluster_sources": [
+        "The Guardian"
+      ]
+    },
+    {
       "id": "a173cc9dde4ec848",
       "title": "Highlights from Holy Mass presided over by Pope Leo XIV at the Ucayali Regional Sports Village, where he underlined that “social peace and ecological equilibrium go hand in hand, so violence against people is violence against the earth, and violence again",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51OWotZkJWOF9aeXNSRnk4MkJNVGRKbWNyd1JsTGdaQWVyRVdJT2FJRnoyUWRydXlhT25ELUQ1X3BRTUVNREZlckJ1TmFOaUhaVU1iNmRB?oc=5",
@@ -1146,7 +1167,7 @@
       "title": "Pope Leo XIV warned that environmental destruction was threatening both the rainforest and the people who depend on it. For the report, click on the link: https://www.theborneopost.com/2026/11/16/pope-visits-andes-amazon-in-test-of-cancer-recovery/ #Pop",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOd3Z0MDlKYjVlVy1WelM3ZFlvMUU3Z2FNcDJYS25HSmZpZmNQekRidDNWVjd4RnJ5RV9lblFROFBVYUNOczJ6QzlKclRHekRkZ2NsclBvMFhWeFBHbUR0TFZmeGpRSExzaU9Wd0FGcEdXMnE4R3ZFRzFwckZRQjZZdEtkNGxnLWo5V0ZQZU5ORmc1MEQyN1ZTaEJRb2MyNzNTbDVhckxRM210MzM2OFZDLXM1ck8xRmxpaC1zc216TWlxRmhobjdyT1BDSzFEajFBc2xPVy1sSkZrbGpnbFJQQQ?oc=5",
       "source": "Facebook",
-      "country": "Regno Unito",
+      "country": "Stati Uniti",
       "language": "English",
       "published": "2026-11-16T01:00:28+00:00",
       "topic": "Papa Leone XIV",
@@ -2302,7 +2323,7 @@
       "title": "Pope Leo XIV called for an end to the exploitation of people and the Amazon rainforest during the first papal Mass in the Amazon region, celebrated before an estimated 70,000 people in Ucayali, Peru. In his homily, the Pope said that environmental destructio",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTThXMU1meHdIMnpwZXFVYVIta2NXWWZJTWRVMnNMMmRCNnRmc0ZreGtnX054V0twNkU3ZFl5MWowQWkwaGRmMnNtZy04Y1JidFVBWjNtRUlhN1FabUp6V3pydVJfOWRwNjZydFVHU1Nac3VaX1V0SVVFaDJWcG9UWWE0V01sN2REOU0wMVhpQ3h1UmlWMzY1WDRPZXI0eEplOU9hSFl3OXd2TzJuZkZEZE92SmlrQzI2SEJRNG1PM2JNLTBpLVZjeDBMWDh6NFZqd093Z09hbEZtUXJDdXc?oc=5",
       "source": "Facebook",
-      "country": "Regno Unito",
+      "country": "Stati Uniti",
       "language": "English",
       "published": "2026-11-16T00:34:43+00:00",
       "topic": "Papa Leone XIV",
@@ -2360,6 +2381,27 @@
         "France 24",
         "X",
         "XEVT"
+      ]
+    },
+    {
+      "id": "4263f145c2c2da09",
+      "title": "America Latina, tre presidenti in viaggio per il vertice Apec",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdmtIaXhZV3A3WllrbXZLUm13akxuOWdkS0U3TkRtMFNqWnBNX1kwX3pUOFFoSzZkWGpSLVRMOWo0dkgxOGZ3T2FkMlpRcUN5eFR1VVhqOS1MRzRlbm9sTkhjOTRhcTJlSlltRVJrX3lBYVoySXdCTXVvbjdzN3FuQkpxU0JFdVJoSWdNZlFRY04ydXlOUzBZUENuODR0UnEzOG9RSzZuWUZ4UTl4akdhQUlFcUJWakJqZlVBTXlHRWllX2VHdjNvb1F6eWlsZ2tLZlZFWDg2VzZSOEcyaXQ0RURpUkp6TFlEczdGSmdMNlJLcGFBZHJsaUdR0gH_AUFVX3lxTE9oeHF6X3d6OXo3SWNUemtUWGs2R1ZyclZxUXFjRHBJWURxTGRadmV2aDh6YTZBS01ab1BfWGZTZVZ2WU41cXZzWUNveHlDYWFZckZSUVU0cnlBTjJNdmhwajdWLUpLU29wdmd2M285SVNSR1lpc29ES2lYX1lJcE12QnVZX0hmcFg2dWF0ejIxOGRwNFRSdzNHTzNmYUJiMld6YkJINTI1RVp0YkxhUHB0aVBVSExyeUI4Y2xpbGdTX0RtOUFDTTRMZFZ2eVNNc3BLaTdoZy10TV8yZlNPYkt1UWdRaUZHbFR6RXlyekZ5VWFHbllVRGMzenRUS1AtNA?oc=5",
+      "source": "ANSA",
+      "country": "Italia",
+      "language": "Italiano",
+      "published": "2026-11-16T00:34:00+00:00",
+      "topic": "Viaggi apostolici",
+      "kind": "news",
+      "cluster_size": 1,
+      "origin": "search",
+      "author": "Agenzia ANSA",
+      "article_url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/16/america-latina-tre-presidenti-in-viaggio-per-il-vertice-apec_c4b08a48-bc15-479f-99d0-ab10e6b379ac.html",
+      "author_verified": true,
+      "byline_checked_at": "2026-11-16T01:53:41.154574+00:00",
+      "cluster_id": "4263f145c2c2da09",
+      "cluster_sources": [
+        "ANSA"
       ]
     },
     {
@@ -2664,7 +2706,7 @@
       "published": "2026-11-16T00:27:09+00:00",
       "topic": "Papa Leone XIV",
       "kind": "social",
-      "cluster_size": 14,
+      "cluster_size": 15,
       "origin": "search",
       "author": "Associated Press",
       "author_url": "https://www.youtube.com/@AssociatedPress",
@@ -2672,6 +2714,7 @@
       "cluster_id": "1bddeccf253ba152",
       "cluster_sources": [
         "AP News",
+        "Chicago Tribune",
         "Daily Gate City",
         "KSAT",
         "Los Angeles Times",
@@ -2697,12 +2740,13 @@
       "published": "2026-11-16T00:27:09+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 14,
+      "cluster_size": 15,
       "origin": "search",
       "byline_checked_at": "2026-11-16T01:10:43.506521+00:00",
       "cluster_id": "1bddeccf253ba152",
       "cluster_sources": [
         "AP News",
+        "Chicago Tribune",
         "Daily Gate City",
         "KSAT",
         "Los Angeles Times",
@@ -2728,12 +2772,13 @@
       "published": "2026-11-16T00:27:09+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 14,
+      "cluster_size": 15,
       "origin": "search",
       "byline_checked_at": "2026-11-16T00:40:46.214936+00:00",
       "cluster_id": "1bddeccf253ba152",
       "cluster_sources": [
         "AP News",
+        "Chicago Tribune",
         "Daily Gate City",
         "KSAT",
         "Los Angeles Times",
@@ -2759,12 +2804,13 @@
       "published": "2026-11-16T00:27:09+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 14,
+      "cluster_size": 15,
       "origin": "search",
       "byline_checked_at": "2026-11-16T00:40:46.214936+00:00",
       "cluster_id": "1bddeccf253ba152",
       "cluster_sources": [
         "AP News",
+        "Chicago Tribune",
         "Daily Gate City",
         "KSAT",
         "Los Angeles Times",
@@ -2953,7 +2999,7 @@
       "title": "CNN. . Pope Leo flew in the cockpit of a helicopter with Peruvian Air Force pilots during his 12-day apostolic journey to Latin America.",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNVFaVXZxZXVZWWRsMGVaTVllMDlkWmM3YkhQVlp1aG55S1YwbDY2M1pmZXVuWFViZ2k1azJWeGQ5TzFFSTctU0tUZXRjQWZLSFkzU1JGQUhYajdfQTFQUXBKTUt5YnZzd1ViZXcxOF8tUVdkWGZjVk11WTFVS3cxS2F2al9QbVByVXlWWEc3NzQxSVd2b3JoQnhkLUdVY3BNa2MyNlZfZV95eW9BMjR1djBBdHZKdXgydjVkU1Y1bG1LNEhYUmJ1MUxGUlotUGM?oc=5",
       "source": "Facebook",
-      "country": "Regno Unito",
+      "country": "Stati Uniti",
       "language": "English",
       "published": "2026-11-16T00:25:02+00:00",
       "topic": "Attualità",
@@ -3272,24 +3318,6 @@
       "cluster_id": "5925fcef3c465572",
       "cluster_sources": [
         "Infobae"
-      ]
-    },
-    {
-      "id": "31873bdc44e228f4",
-      "title": "Middle East and north Africa",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mUXo4RzBTYnBSblRjT0IyTFFSSWE0b2ZyQlR6RHVPMGdMd1dHTDhYTGxsXzQ4MERJUTNsV2c1YzVxQnA1VFBEc0VlYmgtcDBzSFUtZ1JZWQ?oc=5",
-      "source": "The Guardian",
-      "country": "Regno Unito",
-      "language": "English",
-      "published": "2026-11-16T00:17:47+00:00",
-      "topic": "Attualità",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "search",
-      "byline_checked_at": "2026-11-15T16:15:08.413161+00:00",
-      "cluster_id": "31873bdc44e228f4",
-      "cluster_sources": [
-        "The Guardian"
       ]
     },
     {
@@ -4341,6 +4369,7 @@
       "article_url": "https://www.repubblica.it/esteri/2026/11/16/news/ue_assist_a_trump_si_a_un_vertice_in_europa_russia_ucraina-425725996/",
       "author_verified": true,
       "byline_checked_at": "2026-11-16T01:50:46.592443+00:00",
+      "author_url": "",
       "cluster_id": "16ecfa977ad1c1b6",
       "cluster_sources": [
         "la Repubblica"
@@ -4427,6 +4456,47 @@
       ]
     },
     {
+      "id": "6bf161220193863c",
+      "title": "Associazioni antifasciste, il governo taglia i fondi: “Così non sopravviviamo”",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLVFuRTVfZmNzMmdGeHBoMUtiTC1FazJvOTFYazkxLTM2REVSSTFHQ0c5ZmlkcFJHWHh2YjdVT0tfVVdiNDg1Nmo4TlBKV0E0QWIySjhnYUZVTFF0WVp0NVNTZWpBTUlSV2NZa0ZQYzVYMzNTMF9KOFM5VWJGY0t5aWoxeDJ2OGYzelNTTXRHUlBndmhSQU4tQ2JYSlIzWFJLY292eXd1a0pfaU9D0gGyAUFVX3lxTFA2TWtGdVpjTmdRbmVZamxXY1M2cEpQZ0RNOFJmT3NjXzRnMkFrVUV6NUhYRGhkTE5mOEhHX0Ezd2RlQ0Jsa2dHQjNPdWNFNnBLZkxvcVR5TDZwRmh5NE10eEh2RHN0S0N5Y2tLbm4xSkpLaVVmUC0xeDhiWld0OTF2cG5XQzJfbFB3UlAzMmR2XzdKemxBbmpqNnl1U1Nwa3VkQmJMSjRQbkZpaDUxOUV0d2c?oc=5",
+      "source": "la Repubblica",
+      "country": "Italia",
+      "language": "Italiano",
+      "published": "2026-11-16T00:00:00+00:00",
+      "topic": "Attualità",
+      "kind": "news",
+      "cluster_size": 1,
+      "origin": "search",
+      "byline_checked_at": "2026-11-16T01:40:41.424611+00:00",
+      "cluster_id": "6bf161220193863c",
+      "cluster_sources": [
+        "la Repubblica"
+      ]
+    },
+    {
+      "id": "ab8777278ae46b0c",
+      "title": "Sanità, Regioni in trincea: “Sono pochi altri 500 milioni. E non si prendano a noi”",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMGpURFgtRHNWblpFc3Rxcm84TWtDTmRrTmdmbjdUWFM1ZlNzSXNzOFFWQU42dUJqc3NqYUp5SXhTWVRuQXV6c3NPT2I2X3hVeHNWUkhkWXFpbXRHLU9HNF8zSGF2alA2ZG0yOU1RREJTd18zeXpnZk5pTUh6ZjVlWjhHbzB2S3djS2QyalRKQVFESGdkQkRNTjJ5UjUyZHVOemlmemktRElGcENIM05rSzZfS01IQUR1RW96dWg3SThOV2gxNElMWUFqUnRKMUJSYlZuMDhJSU5CZTBwQndfVUtONkRCbzQ5dlVIcV9uUW91ZW5NNTh4eg?oc=5",
+      "source": "la Repubblica",
+      "country": "Italia",
+      "language": "Italiano",
+      "published": "2026-11-16T00:00:00+00:00",
+      "topic": "Attualità",
+      "kind": "news",
+      "cluster_size": 2,
+      "origin": "search",
+      "author": "Valentina Conte",
+      "article_url": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/11/16/news/sanita_manovra_regioni_in_trincea_pochi_500_milioni_extra-425725871/",
+      "author_verified": true,
+      "byline_checked_at": "2026-11-16T00:10:49.337758+00:00",
+      "author_url": "",
+      "cluster_id": "ab8777278ae46b0c",
+      "cluster_sources": [
+        "ANSA",
+        "la Repubblica"
+      ]
+    },
+    {
       "id": "7d4f780f80fcbd7c",
       "title": "Antimafia, Nello Rossi: “Serve rigore o la magistratura rischia di affondare”",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNHhUakVnMFRuYXl3RlotZ25sR3cweklwcll4YVJUUFBENWh1R0xocDdEM0hMYXl5b0NlazRiWVdzN29wdGNSM2hkaXliTTYtNGpuM1hremFiVmdQQ3BDMVZXZGdNTGhYQm1CbzVNSkRNc0N4NU9MOGlCdFdhZ3NyT3kwLVUzdlhHZ0xwSFp3N1h2SHpDN3RCdWRkLXl6dnJ4VjQ4blVLQ3VuNWdELWx5dHJIbldJWnZHVmtyQTItemo2dl9qeGUwX0ktMFdVNWVMLWNyV9IB2gFBVV95cUxQSk1aWjI1bE40X3pMNlFzU21IUHdjZnR6UmJqOWJCUVRJeWJQMkdIcGhTZWFDZnQzNTVVVmVNNXQxWm9JVE55MzBNNG9nUWZrSGFPSVhJTDc3NkNuSDRpb2piT3lvQ0M1OVRHTTlOVXc1cEd5d3VMUmR3a25yLVpXUGF4cmw1NE85Y0V6SEFvZmtVN2VNLXRqSW04NUJtUm9YbDF3NjlaTWpNN2VjRnh4dzl2NU1XbTlMYXc2TWJOUVpnZEI3cFRaZThmUXZJQS1TVWQ3OEFWZHM5UQ?oc=5",
@@ -4489,29 +4559,6 @@
       ]
     },
     {
-      "id": "ab8777278ae46b0c",
-      "title": "Sanità, Regioni in trincea: “Sono pochi altri 500 milioni. E non si prendano a noi”",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMGpURFgtRHNWblpFc3Rxcm84TWtDTmRrTmdmbjdUWFM1ZlNzSXNzOFFWQU42dUJqc3NqYUp5SXhTWVRuQXV6c3NPT2I2X3hVeHNWUkhkWXFpbXRHLU9HNF8zSGF2alA2ZG0yOU1RREJTd18zeXpnZk5pTUh6ZjVlWjhHbzB2S3djS2QyalRKQVFESGdkQkRNTjJ5UjUyZHVOemlmemktRElGcENIM05rSzZfS01IQUR1RW96dWg3SThOV2gxNElMWUFqUnRKMUJSYlZuMDhJSU5CZTBwQndfVUtONkRCbzQ5dlVIcV9uUW91ZW5NNTh4eg?oc=5",
-      "source": "la Repubblica",
-      "country": "Italia",
-      "language": "Italiano",
-      "published": "2026-11-16T00:00:00+00:00",
-      "topic": "Attualità",
-      "kind": "news",
-      "cluster_size": 2,
-      "origin": "search",
-      "author": "Valentina Conte",
-      "article_url": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/11/16/news/sanita_manovra_regioni_in_trincea_pochi_500_milioni_extra-425725871/",
-      "author_verified": true,
-      "byline_checked_at": "2026-11-16T00:10:49.337758+00:00",
-      "author_url": "",
-      "cluster_id": "ab8777278ae46b0c",
-      "cluster_sources": [
-        "ANSA",
-        "la Repubblica"
-      ]
-    },
-    {
       "id": "b05416775ab1e205",
       "title": "Diritti e sostenibilità, torna ReWriters Fest",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQm5PMlZYV2gxMGlrZ204aGF4ZV95eHRIblg4TnpQYUJabFU3NG9teHJYb0tvbDMtd3RkRzFac21DT1dOZjNreWQ5ZnlMekFBVVVQOWcxUmptOGQ2cWFHWnBMc1AxbUVfM254UDBpd2NndGJRN0JJNnJCYTY1X1VBVnVIY1N0dkNMWWNJRDUxYVJLaFhrNEE0MWpGdlEzN1phdzFkUEd0RDVFd9IBrwFBVV95cUxQQzF2TC1qa2c1R0Q4T2hMQV92Q0JJVTlrOEg1ZU1TUTNSblRsRXRHZzdzcnd1Z0QwOGs1WTlRYmlPNkxRSEtkdVk0WmkyRVFVYlVtcVhmQURON1VNWHRNTTJERWhDWUlCUXJmSTBQOW9wQUt5aGY3RlM3MXFhQVZrRmUwRTRHbDJhel9yTkFSSDFsWDBlTVVyNWhYMjRUQXBGd28xMEFQaFU2d18yMlBB?oc=5",
@@ -4551,24 +4598,6 @@
       "byline_checked_at": "2026-11-16T00:10:49.337758+00:00",
       "author_url": "",
       "cluster_id": "b18a1d6fa2c54b3b",
-      "cluster_sources": [
-        "la Repubblica"
-      ]
-    },
-    {
-      "id": "6bf161220193863c",
-      "title": "Associazioni antifasciste, il governo taglia i fondi: “Così non sopravviviamo”",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLVFuRTVfZmNzMmdGeHBoMUtiTC1FazJvOTFYazkxLTM2REVSSTFHQ0c5ZmlkcFJHWHh2YjdVT0tfVVdiNDg1Nmo4TlBKV0E0QWIySjhnYUZVTFF0WVp0NVNTZWpBTUlSV2NZa0ZQYzVYMzNTMF9KOFM5VWJGY0t5aWoxeDJ2OGYzelNTTXRHUlBndmhSQU4tQ2JYSlIzWFJLY292eXd1a0pfaU9D0gGyAUFVX3lxTFA2TWtGdVpjTmdRbmVZamxXY1M2cEpQZ0RNOFJmT3NjXzRnMkFrVUV6NUhYRGhkTE5mOEhHX0Ezd2RlQ0Jsa2dHQjNPdWNFNnBLZkxvcVR5TDZwRmh5NE10eEh2RHN0S0N5Y2tLbm4xSkpLaVVmUC0xeDhiWld0OTF2cG5XQzJfbFB3UlAzMmR2XzdKemxBbmpqNnl1U1Nwa3VkQmJMSjRQbkZpaDUxOUV0d2c?oc=5",
-      "source": "la Repubblica",
-      "country": "Italia",
-      "language": "Italiano",
-      "published": "2026-11-16T00:00:00+00:00",
-      "topic": "Attualità",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "search",
-      "byline_checked_at": "2026-11-16T01:40:41.424611+00:00",
-      "cluster_id": "6bf161220193863c",
       "cluster_sources": [
         "la Repubblica"
       ]
@@ -4777,12 +4806,13 @@
       "published": "2026-11-15T23:57:00+00:00",
       "topic": "Attualità",
       "kind": "news",
-      "cluster_size": 14,
+      "cluster_size": 15,
       "origin": "search",
       "byline_checked_at": "2026-11-15T12:01:12.739200+00:00",
       "cluster_id": "1bddeccf253ba152",
       "cluster_sources": [
         "AP News",
+        "Chicago Tribune",
         "Daily Gate City",
         "KSAT",
         "Los Angeles Times",
@@ -5332,6 +5362,7 @@
       "article_url": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/15/papa-condena-desmatamento-mortes-indigenas-amazonia",
       "author_verified": true,
       "byline_checked_at": "2026-11-16T01:50:46.592443+00:00",
+      "author_url": "",
       "cluster_id": "5aefbe1d7f00bad7",
       "cluster_sources": [
         "TV Sim Brasil"
@@ -6698,7 +6729,8 @@
       "cluster_sources": [
         "Facebook",
         "X"
-      ]
+      ],
+      "account_checked_at": "2026-11-16T01:53:48.606656+00:00"
     },
     {
       "id": "f330e52bf5fe9a14",
@@ -6783,7 +6815,7 @@
       ]
     },
     {
-      "id": "4e9ca33c3e36c4c0",
+      "id": "2c27bfb7e110d1b7",
       "title": "#PapaLeonXIV | Papa León XIV viste con motivos amazónicos y exige frenar la explotación de la tierra https://t.co/bptSbwMLVv",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CRGpFSWZtZDktNUtZR1NOdlNVSjQ1YkVJOElTOElMZ3NEVjNWRmNNckZWZjVHOXlKNHNQcVowdGUxMGRabXpBMjd6VUdtNUg1SlJCYjg4aENadw?oc=5",
       "source": "X",
@@ -6794,10 +6826,13 @@
       "kind": "social",
       "cluster_size": 1,
       "origin": "search",
-      "cluster_id": "4e9ca33c3e36c4c0",
+      "cluster_id": "2c27bfb7e110d1b7",
       "cluster_sources": [
         "X"
-      ]
+      ],
+      "author": "ATV",
+      "author_url": "https://x.com/atvpe",
+      "account_checked_at": "2026-11-16T01:53:48.606656+00:00"
     },
     {
       "id": "933096cd60272481",
@@ -6925,7 +6960,7 @@
       ]
     },
     {
-      "id": "0b160a89f34d84ed",
+      "id": "19d033842fe85450",
       "title": "Papa León XIV durante misa en Pucallpa: “Toda explotación laboral es una depredación del medio ambiente” https://t.co/moiH3r4Ibr",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DZlpBZzcwRVg0aFZMMjlGa0FNNkMzMElMSlJXX1VhbGRFeEdDZkNORjZuVUdiN1F6TDZVTnFfUjd5V1pRUjV6WkdUVlNzUUdIaXJLWnZ1TzNNeVJiU2lhd2tMMzJLU2c?oc=5",
       "source": "X",
@@ -6942,7 +6977,10 @@
         "Facebook",
         "López-Dóriga Digital",
         "X"
-      ]
+      ],
+      "author": "El Comercio",
+      "author_url": "https://x.com/elcomercio_peru",
+      "account_checked_at": "2026-11-16T01:53:48.606656+00:00"
     },
     {
       "id": "f27d29ed9a320cc4",
@@ -7239,7 +7277,8 @@
       "cluster_id": "24b4a317794c5acf",
       "cluster_sources": [
         "Facebook"
-      ]
+      ],
+      "account_checked_at": "2026-11-16T01:53:48.606656+00:00"
     },
     {
       "id": "bd3218316835bec5",
@@ -7436,7 +7475,7 @@
       "published": "2026-11-15T23:10:00+00:00",
       "topic": "Attualità",
       "kind": "news",
-      "cluster_size": 14,
+      "cluster_size": 15,
       "origin": "search",
       "author": "Mauricio Savarese, Nicole Winfield and Astrid Suarez",
       "article_url": "https://www.latimes.com/world-nation/story/2026-11-15/pope-crosses-peru-in-finale-of-his-homecoming-trip",
@@ -7452,6 +7491,7 @@
       "cluster_id": "1bddeccf253ba152",
       "cluster_sources": [
         "AP News",
+        "Chicago Tribune",
         "Daily Gate City",
         "KSAT",
         "Los Angeles Times",
@@ -7764,6 +7804,7 @@
       "kind": "social",
       "cluster_size": 1,
       "origin": "search",
+      "account_checked_at": "2026-11-16T01:53:48.606656+00:00",
       "cluster_id": "89885c4561994f54",
       "cluster_sources": [
         "Facebook"
@@ -7827,7 +7868,8 @@
       "cluster_id": "b107463a49e06b93",
       "cluster_sources": [
         "Facebook"
-      ]
+      ],
+      "account_checked_at": "2026-11-16T01:53:48.606656+00:00"
     },
     {
       "id": "a3a6031736e720da",
@@ -7991,7 +8033,7 @@
       "title": "From deep in the Peruvian rainforest, Pope Leo XIV on Sunday demanded justice for environmental defenders killed for protecting the Amazon and fully backed efforts by Indigenous peoples to stop their lands from being ravaged by logging and illegal exploita",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYkl6b2RERzYxUkFpODNwdWtZQXk5VGZ2TnN2Vkc4aTB0aDFucS12M2hXaXhGTlpUUG0zMTlDeVZOeTBaVlQ5TDJHZXVMUURzLVEzQm8zV0pDanprTll3dzUtODRlLXlUREJyZzhuVklCWHFGUVdWeEp6ZDlCWmJkbm1DVkVWNmdPMHRoSFBrdWEzaFZPZXcwbV9CWEFtRWdOMlJhNXEyYkVBWERZY1E2RkhUb1Zib3Bma0xYdDBBeDB5bC1hb2p5NzhJb2ZjV3RHWXVF?oc=5",
       "source": "Facebook",
-      "country": "Regno Unito",
+      "country": "Stati Uniti",
       "language": "English",
       "published": "2026-11-15T23:05:00+00:00",
       "topic": "Papa Leone XIV",
@@ -8044,7 +8086,7 @@
       ]
     },
     {
-      "id": "98f7d4046e36ab13",
+      "id": "c7c5cc861d378776",
       "title": "¡El Papa León XIV ya recorre el malecón Puerto Callao en Yarinacocha! 🇵🇪🙏",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaWExKZFJmQ0tkRmRKOXVSbjBoel93Vi1vM3dTVmtQVTJZREVONEhWaGwzTzFZdmo3V2NhXzJndThObEZ3UmY4NFd4N2E0NHo4VXNYYQ?oc=5",
       "source": "YouTube",
@@ -8055,7 +8097,10 @@
       "kind": "social",
       "cluster_size": 2,
       "origin": "search",
-      "cluster_id": "98f7d4046e36ab13",
+      "author": "Panamericana Noticias",
+      "author_url": "https://www.youtube.com/@Panamericana-Noticias",
+      "account_checked_at": "2026-11-16T01:53:48.606656+00:00",
+      "cluster_id": "c7c5cc861d378776",
       "cluster_sources": [
         "Infobae",
         "YouTube"
@@ -8148,7 +8193,7 @@
       "cluster_size": 3,
       "origin": "search",
       "account_checked_at": "2026-11-15T23:10:54.950272+00:00",
-      "cluster_id": "3841a58d2553fd56",
+      "cluster_id": "6446d75b2ab0929c",
       "cluster_sources": [
         "Facebook",
         "Instagram",
@@ -8303,6 +8348,7 @@
       "kind": "social",
       "cluster_size": 1,
       "origin": "search",
+      "account_checked_at": "2026-11-16T01:53:48.606656+00:00",
       "cluster_id": "06a5c21d6d8d7ff5",
       "cluster_sources": [
         "Facebook"
@@ -8371,6 +8417,28 @@
       ]
     },
     {
+      "id": "dcbd220d3f6bb38f",
+      "title": "104-Jährige: \"Der Pfarrer war froh, dass ich da war\"",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVWZqUnRoMFJXWUVwT284alBzaFp1Qm9tYzdfRnZqNVhoUl9vazVKRm16cWh6RURWcnZEck5ydXJKQXNvcGNCQWg2Nk5DMk5CanZiSF9KM2hwR3FmNm1UUW1COWZEalFEbTdKMW9wUTVVTENzSXoyb3NVS09YM25IUmM4R3ByMUF4ektCQWpkeUpqVENKYU9mQkhhTFk?oc=5",
+      "source": "katholisch.de",
+      "country": "Germania",
+      "language": "Deutsch",
+      "published": "2026-11-15T23:01:00+00:00",
+      "topic": "Pace e diplomazia",
+      "kind": "news",
+      "cluster_size": 1,
+      "origin": "search",
+      "author": "Madeleine Spendier",
+      "article_url": "https://www.katholisch.de/kirche-international/104-jaehrige-der-pfarrer-war-froh-dass-ich-da-war",
+      "author_verified": true,
+      "byline_checked_at": "2026-11-15T23:10:44.765959+00:00",
+      "author_url": "",
+      "cluster_id": "dcbd220d3f6bb38f",
+      "cluster_sources": [
+        "katholisch.de"
+      ]
+    },
+    {
       "id": "1c029b614c6c25bc",
       "title": "Die Kirche sollte häufiger die Perspektive wechseln",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNDNyUWtNdURFMlhHQlRNUnQwbjNlTFlJVEwtc0JDekFqYjJCbUMxRzJVYk5kbU5YOWNRMnpyUzVpdzZrU2JUeGdsYXFqcTE4b3BYekpEWFFWNlNRZVloQ2xNc3hEdC1OV2VWYUROemZHY3NPR1hRMnNTWmxaSzhNeFhLbDBCeEVOVVJqVXNoc1g2aTR3c2VrWTh0WTVFeVlGdVE?oc=5",
@@ -8410,28 +8478,6 @@
       "byline_checked_at": "2026-11-15T23:20:47.774364+00:00",
       "author_url": "",
       "cluster_id": "27d576bddfa17fbc",
-      "cluster_sources": [
-        "katholisch.de"
-      ]
-    },
-    {
-      "id": "dcbd220d3f6bb38f",
-      "title": "104-Jährige: \"Der Pfarrer war froh, dass ich da war\"",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVWZqUnRoMFJXWUVwT284alBzaFp1Qm9tYzdfRnZqNVhoUl9vazVKRm16cWh6RURWcnZEck5ydXJKQXNvcGNCQWg2Nk5DMk5CanZiSF9KM2hwR3FmNm1UUW1COWZEalFEbTdKMW9wUTVVTENzSXoyb3NVS09YM25IUmM4R3ByMUF4ektCQWpkeUpqVENKYU9mQkhhTFk?oc=5",
-      "source": "katholisch.de",
-      "country": "Germania",
-      "language": "Deutsch",
-      "published": "2026-11-15T23:01:00+00:00",
-      "topic": "Pace e diplomazia",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "search",
-      "author": "Madeleine Spendier",
-      "article_url": "https://www.katholisch.de/kirche-international/104-jaehrige-der-pfarrer-war-froh-dass-ich-da-war",
-      "author_verified": true,
-      "byline_checked_at": "2026-11-15T23:10:44.765959+00:00",
-      "author_url": "",
-      "cluster_id": "dcbd220d3f6bb38f",
       "cluster_sources": [
         "katholisch.de"
       ]
@@ -8552,7 +8598,7 @@
       "cluster_size": 3,
       "origin": "search",
       "account_checked_at": "2026-11-15T23:10:54.950272+00:00",
-      "cluster_id": "3841a58d2553fd56",
+      "cluster_id": "6446d75b2ab0929c",
       "cluster_sources": [
         "Facebook",
         "Instagram",
@@ -8844,7 +8890,7 @@
       ]
     },
     {
-      "id": "3841a58d2553fd56",
+      "id": "6446d75b2ab0929c",
       "title": "🇵🇪 Léon XIV a célébré la première messe d'un Pape en #Amazonie. L'occasion de souligner à nouveau «le lien douloureux qui existe entre la destruction de l’environnement en Amazonie et les menaces contre la dignité humaine de ses populations». https://",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fY3dueE5WblJMc1JEZVMydFBuTXlKMFFQcWctd0ktdE5KUHZHUzFDMFBud0loODBQNDBCYzhlbU5sc0lsLWNHM0l4bnk1STBtMEZkdXE4alFZSEI4YnVNX2prRU1Zdw?oc=5",
       "source": "X",
@@ -8855,12 +8901,15 @@
       "kind": "social",
       "cluster_size": 3,
       "origin": "search",
-      "cluster_id": "3841a58d2553fd56",
+      "cluster_id": "6446d75b2ab0929c",
       "cluster_sources": [
         "Facebook",
         "Instagram",
         "X"
-      ]
+      ],
+      "author": "Vatican News",
+      "author_url": "https://x.com/vaticannews_fr",
+      "account_checked_at": "2026-11-16T01:53:48.606656+00:00"
     },
     {
       "id": "b6476aa04add983d",
@@ -9044,6 +9093,24 @@
       "cluster_id": "f7650ec19f15db23",
       "cluster_sources": [
         "Vatican News"
+      ]
+    },
+    {
+      "id": "dd2af9feed36ce6e",
+      "title": "Prince Harry salutes wounded Ukrainian veterans as ‘role models’ on surprise Ukraine visit",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcklqVi1XWjFZOWg4YVhVUWZkVFI3OXk3cGdSQmNKX1J3ZlpCRm9ZeGw1UFlhSURfNmhLUHFndzQyNWN3SVdTczA5Z3ZuYWNMcWp2cDJCN25hQjVvTVRMamlOM1RsLVh1Q0dtY2ZGQ3Rqeno1UkZ0WVluNElRMVFFNU93M1BuYU9WNkprYmlBNDcxM3FvY1lrTjBaN0tmclBkWVBpX2JQV2cyMmZ1NXlGR0JuR1M?oc=5",
+      "source": "AP News",
+      "country": "Stati Uniti",
+      "language": "English",
+      "published": "2026-11-15T22:56:00+00:00",
+      "topic": "Viaggi apostolici",
+      "kind": "news",
+      "cluster_size": 1,
+      "origin": "search",
+      "byline_checked_at": "2026-11-16T01:40:41.424611+00:00",
+      "cluster_id": "dd2af9feed36ce6e",
+      "cluster_sources": [
+        "AP News"
       ]
     },
     {
@@ -9313,7 +9380,7 @@
     {
       "id": "b99ed66d6886d17f",
       "title": "Nyt, 'entro 24 ore la portaerei Roosevelt in Medio Oriente, è la terza nell'area'",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcUd6OFdPRmxHNmVYeTA5dFhqSGgxSDlSb1V3QkxVSXFWd0tpa2lkVks5M1c3dGpobGYyUlIzWTlRcjZyS19UQk9qeS1zcGdmVjNSQXZVeWs4ZFZ0QWR1YnZSYlhzb1o4TEp4RE12NmxFaFdpM1M0N2k5SFVORlVUSzZLa3F6SDNMV3VuamtaeDZ0ek1ZQ2NqTEJ6UThDV0hnTEZTelRDdGZlRVRXbGM4SGNKQlQzbU5VMzYtQzVkUFEwWmEwTDlackcycldTcmNoRFR6Zm1Ud0xwc0MwTEtCcXZuSkljS2Y5bklwZWJCdEtXWUFweUYzQVNPYlNKc28?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNazVrZHl1UDV6c2JfWnZYVVZjWG4tNE05X3htY254LWhuX3pVb1BJMlF0S3lDTHBxNDNIeUxSeFd5SUlUa0l3ZTZMQlZmZXZJV1R2NjlIek9pTlNvOXY1WlZ6amJNTk1zaWg2WVJkaUZMUkdMdWo0ejdvQTZMeDJNSzlQbnVRVkN6bWI0LVE3T0xYcDM0MWJvVGEtWFRLclJDQUJaeFlVS1c5TmwxY1c2R3dvT3NoVXlDM3dRTG9tcnZDekN0ZUhLTHdaaFBYLVp6cTdPSWNkaGh2MVdTVF9kdlhZSWtEbHUzTktvdlNtSkhnRGlybXV1bE85SUNUUjhIQzJoTEhxNGUzTmNxX2fSAZMCQVVfeXFMTksySklsYmhpcnJvMDhSQUNURGpfYjlERFkzdHZMRFZkaFg5RDc1S01mRWVxTFNTWU1ERTVYSHNjMzhQQXdPSkpWX1pIYTVFT01IU09UQ0hQUmVQSGZ3c3JmS080bUJ6S2liYzZJb2MxQ0diV1J1S1JCSXVQYlF3cnVHYWdRa3FHOEs1UDMtanFOTkZoWDAwMGFndGlkVUJVX3BUOHVhbzZTWkRhRTNnem9fZnd4a1d1ZmJWTHk5cTR6QWFqWmxyTVpiTy03TnI1NjZ4bTRRYTRBX3F4bldWaFhiOVNwbFpmeWZvdFkwSjVjNVB4V0hUMENIN2s5cDExbnAyVXYxTGNtZDUxQmVJak1NZUk?oc=5",
       "source": "ANSA",
       "country": "Italia",
       "language": "Italiano",
@@ -9792,7 +9859,7 @@
       "published": "2026-11-15T22:39:24+00:00",
       "topic": "Attualità",
       "kind": "news",
-      "cluster_size": 14,
+      "cluster_size": 15,
       "origin": "search",
       "author": "Mauricio Savarese, Nicole Winfield and Astrid Suarez | AP",
       "article_url": "https://www.washingtonpost.com/world/2026/11/15/peru-pope-visit-indigenous-amazon/4b3b2c92-e0eb-11f1-a99e-b3e3805c6b8b_story.html",
@@ -9808,6 +9875,7 @@
       "cluster_id": "1bddeccf253ba152",
       "cluster_sources": [
         "AP News",
+        "Chicago Tribune",
         "Daily Gate City",
         "KSAT",
         "Los Angeles Times",
@@ -10722,7 +10790,7 @@
       "title": "El papa León XIV fue recibido con muestras de cariño por un grupo de niños a su llegada al Santuario de San Tiribius, en Zana, Perú, el sábado 14 de noviembre. Los pequeños corrieron hacia el pontífice para rodearlo con los brazos abiertos y darle un abra",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcU5qanp4b0IyemZCdl9DQ2NTVzlEV3JpbUVFSkZ2Q1VPa3dXV1g1ajFoR3V5YXVWV3FnRGhDWkVGZkhBek56elpub2tIOUpyT24yYUluQW5hSDgyNjN4WEMxY3YzVVljaVRQXzRTWWZLTUd5RWNrcXZTU28xdm1pQXR3blpoQVNuWVI4V1BJQk15RjlSZGd6YnQ0R3lzNHlKSFZfTHRQamxXdGVWbEljNEFXcm5HUXFJVkJwUkpkUEdqQ3g0MnhBRElodFNpOFlOeEpud19LaVRiYk5iOUtpVzFtY2dWMWJUb3ItYkdkdw?oc=5",
       "source": "Facebook",
-      "country": "America Latina",
+      "country": "Spagna",
       "language": "Español",
       "published": "2026-11-15T22:22:14+00:00",
       "topic": "Papa Leone XIV",
@@ -11666,7 +11734,7 @@
       "title": "A city in Peru organized and unveiled a 46-foot monument of Pope Leo XIV",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOERmakNhb0pzQmFURGJfVzZxMENTekx5UlBKSmNudXpVNTZ3c2NZM1JsZDZVdDhJQWU4bkJTVmdZVmNsZGlkaXdHRlJIQmotQ0RUcmVzR2dLOEh6YWd0ODVIdVVtQW9HR1hnWnRwQ0lEQmpBNkkwNnBTNTh3U1o4SHRqclRDcVMyaXNOeExuQzcyc0RYVlFBN29UVktieW50Mm9zOUtMRm1kcnBmTlBB?oc=5",
       "source": "Reddit",
-      "country": "Stati Uniti",
+      "country": "Regno Unito",
       "language": "English",
       "published": "2026-11-15T22:08:02+00:00",
       "topic": "Papa Leone XIV",
@@ -12113,24 +12181,6 @@
       "cluster_sources": [
         "Clarin.com",
         "X"
-      ]
-    },
-    {
-      "id": "dd2af9feed36ce6e",
-      "title": "Prince Harry salutes wounded Ukrainian veterans as ‘role models’ on surprise Ukraine visit",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcklqVi1XWjFZOWg4YVhVUWZkVFI3OXk3cGdSQmNKX1J3ZlpCRm9ZeGw1UFlhSURfNmhLUHFndzQyNWN3SVdTczA5Z3ZuYWNMcWp2cDJCN25hQjVvTVRMamlOM1RsLVh1Q0dtY2ZGQ3Rqeno1UkZ0WVluNElRMVFFNU93M1BuYU9WNkprYmlBNDcxM3FvY1lrTjBaN0tmclBkWVBpX2JQV2cyMmZ1NXlGR0JuR1M?oc=5",
-      "source": "AP News",
-      "country": "Stati Uniti",
-      "language": "English",
-      "published": "2026-11-15T22:03:00+00:00",
-      "topic": "Viaggi apostolici",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "search",
-      "byline_checked_at": "2026-11-16T01:40:41.424611+00:00",
-      "cluster_id": "dd2af9feed36ce6e",
-      "cluster_sources": [
-        "AP News"
       ]
     },
     {
@@ -12819,7 +12869,7 @@
       "title": "The full text of Pope Leo XIV's Angelus address given Nov. 15 at the square of the Cathedral Basilica of the Assumption of the Blessed Virgin Mary in Cusco, Peru, during during his Nov. 6-17 apostolic journey to Uruguay, Argentina and Peru.",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb3pmZ1NRSW1qNWVMQl9oN2hkZFU4MVRTbHhXQTVSdkQ2NkN5LWhJeTM2eEozZU1SaEVWQ2VOeWpXWkNiOUJKWTc3cG5pemNkb3dic2FqQmZaVGRpdzMzUHRzOEhGWWNPNms0RXBTaVZxd1Z4Tl91Nm94cmt3Vm1JN1MtMjJXVEpqMGdXRFh4aVBqVm1vbWZidi1FRF8wdS1pNkN6aXRJT1FjdHZJUUJORDJkd2Z2el96ckJiZmtzQmw1YnE4cXVNWkFPNF9LTm5jREhN?oc=5",
       "source": "Facebook",
-      "country": "Regno Unito",
+      "country": "Stati Uniti",
       "language": "English",
       "published": "2026-11-15T21:52:25+00:00",
       "topic": "Papa Leone XIV",
@@ -12891,6 +12941,23 @@
       "author_url": "https://www.youtube.com/@romereports",
       "account_checked_at": "2026-11-15T22:01:26.317363+00:00",
       "cluster_id": "557f226dca083130",
+      "cluster_sources": [
+        "YouTube"
+      ]
+    },
+    {
+      "id": "9a65727ab111713c",
+      "title": "Pucallpa, Arrival at the Ucayali Regional Sports Village, November 15, 2026 – Pope Leo XIV",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mWEN6MVpOMVBsR3E1a2ZzMXdOdG1BbWhQZ3premlVQW8zVkxFRHgxYVltSTJMOHJ4X2pUY1I5ZTVLUHEwNmhtS3UyTnFZYy1ZOXJEX253?oc=5",
+      "source": "YouTube",
+      "country": "Stati Uniti",
+      "language": "English",
+      "published": "2026-11-15T21:51:25+00:00",
+      "topic": "Papa Leone XIV",
+      "kind": "social",
+      "cluster_size": 1,
+      "origin": "search",
+      "cluster_id": "9a65727ab111713c",
       "cluster_sources": [
         "YouTube"
       ]
@@ -13661,12 +13728,13 @@
       "published": "2026-11-15T21:41:00+00:00",
       "topic": "Attualità",
       "kind": "news",
-      "cluster_size": 14,
+      "cluster_size": 15,
       "origin": "search",
       "byline_checked_at": "2026-11-15T22:01:19.090194+00:00",
       "cluster_id": "1bddeccf253ba152",
       "cluster_sources": [
         "AP News",
+        "Chicago Tribune",
         "Daily Gate City",
         "KSAT",
         "Los Angeles Times",
@@ -13898,25 +13966,6 @@
       ]
     },
     {
-      "id": "ca0061a98f949058",
-      "title": "🕊 Papa León XIV abraza la riqueza ancestral de los pueblos indígenas y amazónicos en un encuentro de fe, cultura y esperanza 👉 https://ow.ly/GZzR5106Mh3 Foto: ANDINA/Marvin Aladino/Marvin Aladino",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3aVlYYjlZcG9TcEtFTC1BWDRmMmRFOHVsUDRuYXZDRDBPb3dzM3ZxeW5VeV9XRXN1Mjdfd0JmN1hseVZaZ2FXRHlpWDBQdzNOYlE?oc=5",
-      "source": "Instagram",
-      "country": "Spagna",
-      "language": "Español",
-      "published": "2026-11-15T21:35:44+00:00",
-      "topic": "Papa Leone XIV",
-      "kind": "social",
-      "cluster_size": 2,
-      "origin": "search",
-      "account_checked_at": "2026-11-15T22:05:49.851773+00:00",
-      "cluster_id": "bb66055e468558b5",
-      "cluster_sources": [
-        "Instagram",
-        "X"
-      ]
-    },
-    {
       "id": "f76b88d162bf9b0b",
       "title": "EN VIVO | PAPA LEÓN XIV REGRESA A LIMA TRAS VISITAR CUSCO Y PUCALLPA",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wRHBsMHVjRmtJb0UxMkUwN2xRbXM1Q2hjZGxCTjZmSzFHZFdkU1RYbi11U092N0dwWUlrMzJSYmtwR1BZTllrWS1wUWF5eV9vNFExR3ZB?oc=5",
@@ -13934,6 +13983,25 @@
       "cluster_id": "41fe282134432165",
       "cluster_sources": [
         "YouTube"
+      ]
+    },
+    {
+      "id": "ca0061a98f949058",
+      "title": "🕊 Papa León XIV abraza la riqueza ancestral de los pueblos indígenas y amazónicos en un encuentro de fe, cultura y esperanza 👉 https://ow.ly/GZzR5106Mh3 Foto: ANDINA/Marvin Aladino/Marvin Aladino",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3aVlYYjlZcG9TcEtFTC1BWDRmMmRFOHVsUDRuYXZDRDBPb3dzM3ZxeW5VeV9XRXN1Mjdfd0JmN1hseVZaZ2FXRHlpWDBQdzNOYlE?oc=5",
+      "source": "Instagram",
+      "country": "Spagna",
+      "language": "Español",
+      "published": "2026-11-15T21:35:44+00:00",
+      "topic": "Papa Leone XIV",
+      "kind": "social",
+      "cluster_size": 2,
+      "origin": "search",
+      "account_checked_at": "2026-11-15T22:05:49.851773+00:00",
+      "cluster_id": "bb66055e468558b5",
+      "cluster_sources": [
+        "Instagram",
+        "X"
       ]
     },
     {
@@ -15940,6 +16008,7 @@
       "article_url": "https://www.infobae.com/america/mundo/2026/11/15/los-huties-reivindicaron-un-ataque-con-misiles-balisticos-contra-el-aeropuerto-y-el-centro-financiero-de-riad/",
       "author_verified": true,
       "byline_checked_at": "2026-11-16T01:50:46.592443+00:00",
+      "author_url": "",
       "cluster_id": "aac051d88c7d12d0",
       "cluster_sources": [
         "Infobae"
@@ -16382,12 +16451,13 @@
       "published": "2026-11-15T20:58:04+00:00",
       "topic": "Attualità",
       "kind": "news",
-      "cluster_size": 14,
+      "cluster_size": 15,
       "origin": "search",
       "byline_checked_at": "2026-11-15T23:20:47.774364+00:00",
       "cluster_id": "1bddeccf253ba152",
       "cluster_sources": [
         "AP News",
+        "Chicago Tribune",
         "Daily Gate City",
         "KSAT",
         "Los Angeles Times",
@@ -17197,7 +17267,7 @@
       "cluster_size": 2,
       "origin": "search",
       "byline_checked_at": "2026-11-15T21:20:43.446474+00:00",
-      "cluster_id": "98f7d4046e36ab13",
+      "cluster_id": "c7c5cc861d378776",
       "cluster_sources": [
         "Infobae",
         "YouTube"
@@ -18490,6 +18560,27 @@
       ]
     },
     {
+      "id": "60cdc497555f3046",
+      "title": "Nyt, 'Lutnick ha allentato le norme sui chip in contrasto con attività di famiglia'",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOVjk3YXpfQy1tSXZnS1c5MmlOTl9YYlpHWW9sLXcxMHE2SnNFVi0tUmFCSDdBa2hTSGk1V3V0RjUzQURRdExvRzhGUlMwMlRrUWZpY1VIdTJrT01zZ3V1ME9OdVkzZnNyR3BMTk4zcFlRZjZDRG03LXZ0cXV5b01Ub0JYemFhNWpEV3BNdWtuUXk5S09NanZaV18ydzJOdDQ0QVd1cmx1UkFTQWZSMkM5MFpzVVRvcDRUbGlxQ0sxdzExVEZNOVRFNzRhSUpLbVBSdkhvby1jM0ZwbUg2T0ZMWnVWUWhEVEp1OVIzRzRpZkFyWUhKZ1BkT0t6TVRfdzRjOW5pcw?oc=5",
+      "source": "ANSA",
+      "country": "Italia",
+      "language": "Italiano",
+      "published": "2026-11-15T20:16:00+00:00",
+      "topic": "Attualità",
+      "kind": "news",
+      "cluster_size": 1,
+      "origin": "search",
+      "author": "Agenzia ANSA",
+      "article_url": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/nyt-lutnick-ha-allentato-le-norme-sui-chip-in-contrasto-con-attivita-di-famiglia_12557283-2631-4ea0-962b-3f70ea4845b9.html",
+      "author_verified": true,
+      "byline_checked_at": "2026-11-16T01:53:41.154574+00:00",
+      "cluster_id": "60cdc497555f3046",
+      "cluster_sources": [
+        "ANSA"
+      ]
+    },
+    {
       "id": "6366be7adb4e0c62",
       "title": "El papa León XIV rezó el Ángelus en Cusco y llegó a Pucallpa para reunirse con misioneros",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQUHkyckJEenpUYkF4dHRBOUhVel9YZ3R5Wng4MU9US3hLSHFxU3otbjZ5TExnd1pvTDRVbkpxbmVZcGxYQ1FYWndCT2oyQXU1Wjh0TVJNcWpxVHhCUjRhSjFUZVZBSnR4dmZxTmhFclJtSmJBa18zZkJaSmlzTTNtNXhRR004Y1laVWxsZEdCODhBQzRtbDNzYk5DODlJOGRRbmtjSENMbHhteGZicllUVGREQmNUQzBjMHFpUEwzcHk2ZWRhVy1kSk5Ca0tqMnFmOGVXNnNqZXdQSXRkOGZZUmt5NWVCSkRhZ2hOc1FhUm1SbXc1MzBTWEpYbC1PV2tGQUN0WtIBigJBVV95cUxPNkRzZHo2Vk1XQW53R2dDVEVtdmctWjBfMVNWRjg1dy1ZZUlhOVZnN2Z6RTE5WTNxd1JWSmNEWm94WnpBX0NGc1dtX3YxSEh6dnRxTkVULU1mWDl0cmQwa2ZLdkhlWm9heG82SWFuWVgyd0dES0VCSk05WFFNTk1DVDhHa2R3U0swaHRXQWYtSzVTdmlHYXhxd0ZWR3JQUUZyb0NaTHhsZnN5QzhlUmRrM3ltNWdZRFFEODdnejhRZ2JTQVo0SDJLNVRyc2pVQlI2SUpkRTV2Z0Y3NUlwWWRRVXNRanlYT3VuQXphTndYaXFycW9ZcFI1WjBqSzBlNnRIMlh6djkzVVNPQQ?oc=5",
@@ -18517,7 +18608,7 @@
       "title": "Bob Dylan & The Pope - SNL",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oUG9Wc0hpVllyREU5aFpUSkN6S2ZNWEdwb00yQUl4cFdfM1FnSlBSSjlrTUJBZm93cVBpelFnSC0wdi1qYllXYjQ1VXhuOVJJUGVhY0FXdm5vMFNEY1Fnc1FBcHdjcGVtLXFCZEVBcGR3aHR1LURMam1wcE9nOFE?oc=5",
       "source": "Reddit",
-      "country": "Stati Uniti",
+      "country": "Regno Unito",
       "language": "English",
       "published": "2026-11-15T20:15:03+00:00",
       "topic": "Attualità",
@@ -20227,6 +20318,7 @@
       "article_url": "https://efe.com/cultura/2026-11-15/grammy-nominaciones-taylor-swift-madonna-rosalia-antesala-2027/",
       "author_verified": true,
       "byline_checked_at": "2026-11-16T01:50:46.592443+00:00",
+      "author_url": "",
       "cluster_id": "1eb16a7309def226",
       "cluster_sources": [
         "EFE - Agencia de noticias"
@@ -20817,7 +20909,7 @@
       "title": "Llegada del papa León XIV a Pucallpa",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOHpxSW5CbzJEYTdSdk5WV2preFR1OV84bHBwUm5vZ3hoY1QzZFVfMkZwMWRHcEQtYmdBQ0t5VEx5ZGNjOEQwQmQ1dHZjNmxHTlFhM2F4N0RBOW8zdS16WHN1aHlwbnRUeEdLWUFxb18zWTBHN29oZzRqOFo0cy1MLUdjaDZVZjA2YVFJSUpmakg?oc=5",
       "source": "Infobae",
-      "country": "Spagna",
+      "country": "America Latina",
       "language": "Español",
       "published": "2026-11-15T19:37:10+00:00",
       "topic": "Papa Leone XIV",
@@ -20963,12 +21055,13 @@
       "published": "2026-11-15T19:33:09+00:00",
       "topic": "Attualità",
       "kind": "news",
-      "cluster_size": 14,
+      "cluster_size": 15,
       "origin": "search",
       "byline_checked_at": "2026-11-15T21:10:44.400689+00:00",
       "cluster_id": "1bddeccf253ba152",
       "cluster_sources": [
         "AP News",
+        "Chicago Tribune",
         "Daily Gate City",
         "KSAT",
         "Los Angeles Times",
@@ -21266,6 +21359,28 @@
         "ABC",
         "Infobae",
         "Yahoo"
+      ]
+    },
+    {
+      "id": "07342d417eaf73f6",
+      "title": "Media, 'William e Kate in visita di tre giorni in India, domani a Mumbai'",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbW5Ray1QR0E0SUhPLTFSWURfendfNXRJT1FjUGpaQWVLQmVLSDRiek81MVhBZGwtbVFCLUNaMi0xUGNwX2hnVDdZOTlOTlVtX3d1Q19tNEJob01fTjdYNlNmV3F6UXJBNVczdnQxMGdEeXZvMVc4NmtyVHg3RlkyMU01VWtLNkIxY3cwbUNJTXlQNDJEZ3lLOEFwSFB3QWMxQnlXaTlqT21GWVVDUTlYYi1LdEE0eWdrZTVrOVV1VzZtOTUwM3VSYkluNDcyUnNCYlh3Qm1ESUVhMy1oVEtOSTFCbGR1bXREbFlmN3FOelNhZnQ2V242RS1B0gH_AUFVX3lxTE52N3psdXpMNHRuZjFmT2gtOFlZRHJheGFZcExwV1JCOUdTdjlFV1RPM1Z3dTJFWXF6dEl6dGhnbkowV1RMb2FSQnlwQzlzNlFsUnRWWGtRWjk3VU1sVVlUWU9IeHdYUXNlY2ZPbnl6bjdudFV6N2pBdUFZZEpRX080czhJN3AtZnpSV0ladFY5SUM3eGJ4RDRrdDVQblpENmVYUHJ3dmJMSXo4SEoxRDZ2RDRfbmVZSWZteWhZdzVQOGNOX1ZDUUIxSTBPQ2dBU0NYY3NnbGhZa1BmYXlmWVAtVTBROEo4aFREcDBBSzNVWkVaY1NqeXdfdGxLZm9TNA?oc=5",
+      "source": "ANSA",
+      "country": "Italia",
+      "language": "Italiano",
+      "published": "2026-11-15T19:28:00+00:00",
+      "topic": "Viaggi apostolici",
+      "kind": "news",
+      "cluster_size": 1,
+      "origin": "search",
+      "author": "Agenzia ANSA",
+      "article_url": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/media-william-e-kate-in-visita-di-tre-giorni-in-india-domani-a-mumbai_7182ed92-3d4c-4923-aa59-fc82d7cd8971.html",
+      "author_verified": true,
+      "byline_checked_at": "2026-11-16T01:53:41.154574+00:00",
+      "author_url": "",
+      "cluster_id": "07342d417eaf73f6",
+      "cluster_sources": [
+        "ANSA"
       ]
     },
     {
@@ -21961,6 +22076,27 @@
       ]
     },
     {
+      "id": "6e5c2c4a0fa3054b",
+      "title": "Yemen, salgono a otto le vittime in un attacco degli Houthi vicino Aden",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOR093U2NQUHlQODVMTEZDUjhmWE9PWnB0Y3lVbkxhSW9TTms1eWwxY3YtU2tpckpwdTNEZWlXTFZ5OFhJWmRabURobFMyZm5iOFVLM3NwRUxRb1VjRUY5Ym9OenJPU3NqYUpGTVAxTzduQ2V5M1kteWRWaDJGQzZfdWw5VlFfa0NMamxYMEVTS2lFeDYxdXFWd2x0Tl9PbmFienhUSkNYMFNzSm1tZFVsWjZKV3I3c0tUOTNueHdfVXA5OUthUy1PamViSUVuamJLZDE4T0sxcnRWTzljSDJlLUw5TU12LVQxWDRZdFVNLXNQdGQwenozYUR2ZGtiQ1htRHZ5emJ30gGLAkFVX3lxTE9PUlQ0ZUJ5M2x1UGRnbWd1ZUJkTTk3akRTSkNzaGR3MFpIN3gtT3VJN016d1duZ0pzZ0pGQklqZGtXUE1jNmFvYVU0T1NOVDREUEdXVWxia0FaSnY2c0VfZEk4d0hvSldKcXpjOGZBNlI4d3ItZnNlOG1taWhkWF9yc2l1aF9QOFpxVjYzU055VkFXdjJpMTVzRXhvN0xGMkdqNk5scDhKMTM1V2tTTC1aYXE2LVVQT1pIcVNLc3ZwSTNhdFRnSFhyQjBYZ3lDTjdxOTl0c1QyWXJic0VJYU5fQ2tTTmJXUTdDWHc2ZVFaVFg1SG05eFhucFNvR3ExTVA2bWdxcnU2SFNESQ?oc=5",
+      "source": "ANSA",
+      "country": "Italia",
+      "language": "Italiano",
+      "published": "2026-11-15T19:13:00+00:00",
+      "topic": "Attualità",
+      "kind": "news",
+      "cluster_size": 1,
+      "origin": "search",
+      "author": "Agenzia ANSA",
+      "article_url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/yemen-salgono-a-otto-le-vittime-in-un-attacco-degli-houthi-vicino-aden_9aa94a75-364c-4d70-be94-9766e9e53338.html",
+      "author_verified": true,
+      "byline_checked_at": "2026-11-16T01:53:41.154574+00:00",
+      "cluster_id": "6e5c2c4a0fa3054b",
+      "cluster_sources": [
+        "ANSA"
+      ]
+    },
+    {
       "id": "235cebd76d7b9a3f",
       "title": "El papa León XIV se despide de Cusco y se dirige a Pucallpa",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZEJydGFZMWdhZWJpWUhHQ29QSjBWbExZdGROQm8yV2xCeEwtcDVWRDVXZlZCZzVIdFFueWZycGRUZjhoYVNoZ0FIQ0FtY29FNmxIbjNHZGc0dEF4ZkRfcC1ZTjBzNUJaR2p6Z3hvSnFBMlBybV9ZYThkUEh4X1lvc05YeEE1WW8?oc=5",
@@ -22142,6 +22278,27 @@
       "cluster_id": "254fdc9713a08156",
       "cluster_sources": [
         "Avvenire"
+      ]
+    },
+    {
+      "id": "8739cefe7801c79d",
+      "title": "Rapporto, Israele non ha rispettato gli accordi sugli aiuti a Gaza",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOM1NiVXk5Q2U0cW5PNFg3M3dOb0pGWk5jbHJlWmNFS3UyY0FHQTlFbWNTN3BtVk5OWlBfTGJYUlVQaWZVR2pQS3EwQ0YzaG5pQnVSMF9VcDdFQVh2dDlVWXdaYWdnQm92Z2k2VUYtbzd6SFhBTFR5NU1wMEJOOE9qak9Pd3Jyd2RMUC0xWk56azBWZm96T1F3Rk5KR1I3TFdXaGpPQU1FckNMOHl5NHJSOXhhTTR5RVF3aFZHUmNoVVpQOWVFSGVYS3cxaE50RGQ3MkZVMTV0ZGVNelR5RWFvSWxiX24ySWZzcmc3SUM1X2JDSHpwWGR3ZVlwYnZuMlnSAYQCQVVfeXFMTWhQUjlreGc4b0NEbkVGOUxidTRtTmw2WmdBQmhWbXA1Sld0eXotNGEyYkU1MldIRU5aSEF5SkI1M2g3WlRpalBQZlozTjZXaWE4UjhiWmtUNkFib2o2N1QwbmZjSlpDeVh3UHZoWC1WTjhQWVhVblNTQXBHeXdxeXVMaTk1Ml9xSXhGX3Ruc3hVVHJ5WlltbUZDREJJMjBvT2pDUVZidG5veWZsMUxPNWgtbTBYak5tX1ZsU002NnAtRDIxU1B2Q0lBVnphNzNycFFRQjdDeUM1WkdzUXdQQzF1Z2poUmc5R0pCaFg2WnAxYjZZS211enI4bnJ2ZzJYbWpmbUY?oc=5",
+      "source": "ANSA",
+      "country": "Italia",
+      "language": "Italiano",
+      "published": "2026-11-15T19:10:00+00:00",
+      "topic": "Attualità",
+      "kind": "news",
+      "cluster_size": 1,
+      "origin": "search",
+      "author": "Agenzia ANSA",
+      "article_url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/rapporto-israele-non-ha-rispettato-gli-accordi-sugli-aiuti-a-gaza_e5bb31c4-d05c-435d-a15c-4f6be88d66cc.html",
+      "author_verified": true,
+      "byline_checked_at": "2026-11-16T01:53:41.154574+00:00",
+      "cluster_id": "8739cefe7801c79d",
+      "cluster_sources": [
+        "ANSA"
       ]
     },
     {
@@ -23791,16 +23948,16 @@
       "article_url": "https://www.acistampa.com/index.php/story/34511/papa-leone-xiv-la-supplica-al-principe-della-pace-per-i-popoli-feriti-dalla-guerra",
       "author_verified": true,
       "byline_checked_at": "2026-11-15T20:40:49.301068+00:00",
+      "author_url": "",
+      "cluster_id": "936945202fe5f24d",
+      "cluster_sources": [
+        "ACI Stampa"
+      ],
       "vaticanist_ids": [
         "202"
       ],
       "vaticanist_names": [
         "Antonio Tarallo"
-      ],
-      "author_url": "",
-      "cluster_id": "936945202fe5f24d",
-      "cluster_sources": [
-        "ACI Stampa"
       ]
     },
     {
@@ -25137,6 +25294,7 @@
       "article_url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/15/regioni-pochi-500-milioni-alla-sanita-non-si-prendano-da-noi_9947b3be-842a-4a80-928a-52f04c536213.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-15T18:40:41.984019+00:00",
+      "author_url": "",
       "cluster_id": "ab8777278ae46b0c",
       "cluster_sources": [
         "ANSA",
@@ -26421,7 +26579,7 @@
       "title": "En la cuna del Imperio Inca, el papa León XIV celebra la piedad popular",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOUw0M3l0UmJYeHkySlNwSjVrOThMNlhqR3pfVjRKcE5WQVFndHdKdWpKcEZRcVpZT2dnUjJLUEU3YzJtSWdjc2dLUFFmM0Fqc0dIdURqVTQxdFBVZXQwNmRlUGo2cmRKSkNMQlBMMmV4RWJlWFJpRHhaZHhnaVZLLVFNbjRPVnpfY1BmNkdrbktKcTc2SHJNaTZpWW53SVVwNnJLWDlUWG1qaHk2NHFF?oc=5",
       "source": "Rome Reports",
-      "country": "America Latina",
+      "country": "Spagna",
       "language": "Español",
       "published": "2026-11-15T18:02:20+00:00",
       "topic": "Papa Leone XIV",
@@ -26456,6 +26614,27 @@
       "byline_checked_at": "2026-11-15T19:01:17.391212+00:00",
       "author_url": "",
       "cluster_id": "89d8e1a72c9d6d88",
+      "cluster_sources": [
+        "ANSA"
+      ]
+    },
+    {
+      "id": "5b3416ad6e4c1da6",
+      "title": "Allagamenti nel Salernitano, in azione nucleo fluviale dei Vigili del fuoco",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQkxVZFhnZWZIVHBlMzAzMGpfRnZBak5NbmVtUnltaVBuRzJsNUszNnRCN0doQ3NtSDh1QU1Jd25BUXZPTjY1SU1RMkRBMy1yNnNwbU1TdDhPVUFKNEFqZ010MkpVX05peXh6MlQ4Y3ZZQXdrVEs1azBzempfZ1RLOGd4MFUwakxydHE1anptbENWdWFrSEFqbnh5MWJCMlRYc2RPMVlWZUV2LUhjU2VZOVhYbFlYb0JoSGFWU1c1NkRhSTBJZ29EVlVSaHpveWZmYjN6T3ZUM0s3eTRfUVRrd3ROSGNndm01bDU1ZkRrR2hpYXc3UGQxT195VHTSAYICQVVfeXFMTWRmRFNDRjM2dl9JYUFLck5SYnE4aG1Zdk5fVEw0UEZlYkFhWEZGWUpUaEJiUmVxVWVXaFU4Sm5DOGlkRkVSdVRxckw0RGEwZDJYeS1DYXJuUUp1N2dRNFdGbjhVLWtMMERrSGRHVk83dFVkNUVVRm1raC1leXcyZlcwVDJpMXNrTU01b255RkxHa1c4cDduUXpmZ3BaVE5SOUg3LUk1cUlkN1BuOHBHX1lELTBZX0RJZFI2SUI4VHpFbjUwb1NqUkNvQnRwRmkwU1VzLVRRTHFzRW0xWkI1RzNVTDBncUs0R3ZSU0pLaHJpS1BYWXdUSGJkYzBWMHlqQUJn?oc=5",
+      "source": "ANSA",
+      "country": "Italia",
+      "language": "Italiano",
+      "published": "2026-11-15T18:02:00+00:00",
+      "topic": "Attualità",
+      "kind": "news",
+      "cluster_size": 1,
+      "origin": "search",
+      "author": "Agenzia ANSA",
+      "article_url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/15/allagamenti-nel-salernitano-in-azione-nucleo-fluviale-dei-vigili-del-fuoco_b02d2da9-d7ae-4314-973d-6d8edde267e1.html",
+      "author_verified": true,
+      "byline_checked_at": "2026-11-16T01:53:41.154574+00:00",
+      "cluster_id": "5b3416ad6e4c1da6",
       "cluster_sources": [
         "ANSA"
       ]
@@ -28424,24 +28603,6 @@
       ]
     },
     {
-      "id": "fb199cbd6c116d95",
-      "title": "Pope travels in helicopter weeks after lung cancer surgery",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50RGx2RkR0a0FoYnJRelByMTRfb0JkTHU3a05EcVcyZGlLdU03bXkwalhmc0pMUWVXLXlCMHVWam8zRFJ6dFdPQ0toeVZiMkdEQkpWN1pCM3JacXk4NDJlalhJMy1nY2tGYlRiYU5fbDZLa19rTWtFOThGYlphZw?oc=5",
-      "source": "The Telegraph",
-      "country": "Regno Unito",
-      "language": "English",
-      "published": "2026-11-15T17:35:00+00:00",
-      "topic": "Viaggi apostolici",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "search",
-      "byline_checked_at": "2026-11-15T17:40:41.603332+00:00",
-      "cluster_id": "5edac7ebf079cf44",
-      "cluster_sources": [
-        "The Telegraph"
-      ]
-    },
-    {
       "id": "2487e906f77b2fc7",
       "title": "Estonia shuts Russian border after foiling attack on drone factory",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ3RxVVdxU1pIMGxPSGxHZ2JnTkVoblRUSXdfeHh0VTdRUDJlMXk4UzBhRG93X0VUX0U0S3JpdFVjZTRjRlpYLWJWWjYwQ1YtRkYzWEIxbHluN0VMVG9rX09kT2ZSQVhLV2RZRzRJWndLa2tLRWZQY1pKMlVjdV9NZUJGZkQ4bC1lOGxOWXhGZXR4UVBhb1J1dkN0Wm5RSW1ZZnZEYWUyWGZWX29F?oc=5",
@@ -28459,6 +28620,24 @@
       "byline_checked_at": "2026-11-15T17:50:44.063922+00:00",
       "author_url": "",
       "cluster_id": "2487e906f77b2fc7",
+      "cluster_sources": [
+        "The Telegraph"
+      ]
+    },
+    {
+      "id": "fb199cbd6c116d95",
+      "title": "Pope travels in helicopter weeks after lung cancer surgery",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50RGx2RkR0a0FoYnJRelByMTRfb0JkTHU3a05EcVcyZGlLdU03bXkwalhmc0pMUWVXLXlCMHVWam8zRFJ6dFdPQ0toeVZiMkdEQkpWN1pCM3JacXk4NDJlalhJMy1nY2tGYlRiYU5fbDZLa19rTWtFOThGYlphZw?oc=5",
+      "source": "The Telegraph",
+      "country": "Regno Unito",
+      "language": "English",
+      "published": "2026-11-15T17:35:00+00:00",
+      "topic": "Viaggi apostolici",
+      "kind": "news",
+      "cluster_size": 1,
+      "origin": "search",
+      "byline_checked_at": "2026-11-15T17:40:41.603332+00:00",
+      "cluster_id": "5edac7ebf079cf44",
       "cluster_sources": [
         "The Telegraph"
       ]
@@ -29136,7 +29315,7 @@
       "published": "2026-11-15T17:26:15+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 2,
+      "cluster_size": 1,
       "origin": "search",
       "author": "Diario El Universal",
       "article_url": "https://www.eluniversal.com/internacional/245369/papa-leon-xiv-afronta-en-peru-la-jornada-mas-intensa-de-su-gira-por-america-latina",
@@ -29144,8 +29323,7 @@
       "byline_checked_at": "2026-11-15T18:31:01.897830+00:00",
       "cluster_id": "a5f083140f417098",
       "cluster_sources": [
-        "EL UNIVERSAL",
-        "YouTube"
+        "EL UNIVERSAL"
       ]
     },
     {
@@ -31837,7 +32015,7 @@
       "title": "Will a Pope ever visit The Netherlands again?",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSEZreF9MNzA5d3BsWEJlMF9KaS1BV3NxZVdUa1l2TkpNelFiblVNbzlPam5jeC1aSUxxdFB5VFVtdVJ0VTJRaFBONVUyVmJjU0RkY2pDU0M3S09qSHlEY3h2ZEs1V2EtcEh5aEZOekpwRlVTdGl5Uk1mczRnOVhVa3ZNVzN1YVdkQWJ3RndCM01kWmpocmhuRVAtS0NpRHR2?oc=5",
       "source": "Reddit",
-      "country": "Stati Uniti",
+      "country": "Regno Unito",
       "language": "English",
       "published": "2026-11-15T16:41:19+00:00",
       "topic": "Viaggi apostolici",
@@ -34019,7 +34197,7 @@
       "title": "Papa León XIV deja Chiclayo entre aplausos, lluvia y una emotiva despedida | El Comercio",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1WnVJaTFWSkx3ZnBjcmpFSTc3QTFzaHUtY1d5LUlLTEZjTmFDZ0JUbW1Ha3dBT1RCb2VYS3NLcHZoVEFDMXVfUXlVRkszQldKaGRfNVRn?oc=5",
       "source": "YouTube",
-      "country": "America Latina",
+      "country": "Spagna",
       "language": "Español",
       "published": "2026-11-15T16:05:10+00:00",
       "topic": "Papa Leone XIV",
@@ -34346,6 +34524,28 @@
       ]
     },
     {
+      "id": "07da36eb69efe263",
+      "title": "De Yalta a Shenzhen: la oportunidad de un nuevo entendimiento mundial",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQTJUbVZHLXMydmVmektJX0Vnb1poZmJSRVJtendIekdwUFg3LXJLVG5XZzNrN2EzNW9zMDNLU25haW1XNGdoZV94ekZvNEVPS2o4djhMck5QT0MtaWdHTXpZUXR6S0t2TnRScGpZQzk4b2VSVThDSms4S1o1akwxamZtMThDc2dGRVVTTVJmYkkyWXRKekhCUFp3cnp5cW91aGQ2Y0hCSGFUdENxaFBGam1LWHpXLU00c3BpMNIB1wFBVV95cUxObkF5Vm5JSkdoNTd5al9HSUQ0ckhxQ1N0b0pvMzNyZUsxZEltTUJnbmktLUJYRGo2QnhyQTEzSDNndVZycjdLUVJSYk93djFOS0NNWGh1eGY4dkg0Y0EtbnIwNEVSQ2pOZEpJUTgtRHJabU9Dd1ZENjI3VkNGNHl2cWlKS0ZKZGZvbGJHdmo1MmFHLXVSbUxQb2JpeFR4el91ZWxZUk1jc0g4TlZMYkpQSjR0TFFlT3NCSEduR19tcjF2TTlLV2pwNGpJMDhxdXZaX2ROZjlScw?oc=5",
+      "source": "Infobae",
+      "country": "America Latina",
+      "language": "Español",
+      "published": "2026-11-15T15:59:40+00:00",
+      "topic": "Attualità",
+      "kind": "news",
+      "cluster_size": 1,
+      "origin": "search",
+      "author": "Gerardo  Werthein",
+      "article_url": "https://www.infobae.com/america/opinion/2026/11/15/de-yalta-a-shenzhen-la-oportunidad-de-un-nuevo-entendimiento-mundial/",
+      "author_verified": true,
+      "byline_checked_at": "2026-11-15T17:10:42.854606+00:00",
+      "author_url": "",
+      "cluster_id": "07da36eb69efe263",
+      "cluster_sources": [
+        "Infobae"
+      ]
+    },
+    {
       "id": "ce3d3a235c37944c",
       "title": "Clavijo exige al Estado que active sin más demoras los refuerzos para El Hierro",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fb08xR2RNUS1jUkc0N3ItSzZGX3BBc0pBbWx3LW53cHFqbVo1MlNpS2VGdW5VelZzcVlHTFBvU0tFQkdyOENURmF5WXBCazYxMlA2Ny1FcDEwZzFOdTZ6cE50YzRfdFZWV19tdGJB?oc=5",
@@ -34473,28 +34673,6 @@
         "El Tiempo",
         "La Nación Costa Rica",
         "Portafolio.co"
-      ]
-    },
-    {
-      "id": "07da36eb69efe263",
-      "title": "De Yalta a Shenzhen: la oportunidad de un nuevo entendimiento mundial",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQTJUbVZHLXMydmVmektJX0Vnb1poZmJSRVJtendIekdwUFg3LXJLVG5XZzNrN2EzNW9zMDNLU25haW1XNGdoZV94ekZvNEVPS2o4djhMck5QT0MtaWdHTXpZUXR6S0t2TnRScGpZQzk4b2VSVThDSms4S1o1akwxamZtMThDc2dGRVVTTVJmYkkyWXRKekhCUFp3cnp5cW91aGQ2Y0hCSGFUdENxaFBGam1LWHpXLU00c3BpMNIB1wFBVV95cUxObkF5Vm5JSkdoNTd5al9HSUQ0ckhxQ1N0b0pvMzNyZUsxZEltTUJnbmktLUJYRGo2QnhyQTEzSDNndVZycjdLUVJSYk93djFOS0NNWGh1eGY4dkg0Y0EtbnIwNEVSQ2pOZEpJUTgtRHJabU9Dd1ZENjI3VkNGNHl2cWlKS0ZKZGZvbGJHdmo1MmFHLXVSbUxQb2JpeFR4el91ZWxZUk1jc0g4TlZMYkpQSjR0TFFlT3NCSEduR19tcjF2TTlLV2pwNGpJMDhxdXZaX2ROZjlScw?oc=5",
-      "source": "Infobae",
-      "country": "America Latina",
-      "language": "Español",
-      "published": "2026-11-15T15:56:00+00:00",
-      "topic": "Attualità",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "search",
-      "author": "Gerardo  Werthein",
-      "article_url": "https://www.infobae.com/america/opinion/2026/11/15/de-yalta-a-shenzhen-la-oportunidad-de-un-nuevo-entendimiento-mundial/",
-      "author_verified": true,
-      "byline_checked_at": "2026-11-15T17:10:42.854606+00:00",
-      "author_url": "",
-      "cluster_id": "07da36eb69efe263",
-      "cluster_sources": [
-        "Infobae"
       ]
     },
     {
@@ -34892,6 +35070,27 @@
       "cluster_id": "41fe282134432165",
       "cluster_sources": [
         "YouTube"
+      ]
+    },
+    {
+      "id": "68b6737541ffeaf9",
+      "title": "Cuba punta a riconvertire l'industria dello zucchero per produrre energia",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZkJOLVhhVHpEVl9oZHpnTlUzSW54QklxdXluVWEydUV4YW1FZ0hXMmxTOE5aUHU2OXVBX2VUSjJXSzZRaW5oUUtJZlFQNWoxNXY4Yk5lTkNKREZzS01hSUVEZXAxNzQtNWZYQzc0NmxkVDBWZ1ZfMmRZOW02V3dPdmQ5RWdpbml3QVJrcmhlXzFrdzdhcjZKdWk3YUNKeFBvRUo1SHR0VHpKVFlVVmpjeVkwdFJNNkFvOExuUk12aGc4aUlrdTJQUmd1QjNabVVnRklYYkpsQ1BuRGVoN2hNTURVZ01rZFVnU1hjOUMwd0hDYVk5RDhJ0gH8AUFVX3lxTFAxVlFwSVBHX3VXd2FaSWRnOVJmNTBHMDNQVVljWFZMV2xzbEU4ZkYtTDlVUmZmajRLQUFOcU9Xd0NJMDFGVGVTU0hwQmhBTGJNYUlKMVY3aGhaQnM3TFR0SUhpeDZUN2pYMnVXVTlsaHZMNjRRNmJGNkoxMTdfdDlQay1OTEQtOXd1VzZIM1RZZ3RFeGhQc2JjR0VIcG9YWUZfcVdjYWx0eFFsMml4N1VUR0l2SWJ3Sm1nVUZaZ3o5cm10YXk0OE5iNDJqVHdVTmY2UFZKRGFDSl9zcVRjVTc4cktpQUctcHNLVTJaVVlDZW9waXJHdTF0UDJmdw?oc=5",
+      "source": "ANSA",
+      "country": "Italia",
+      "language": "Italiano",
+      "published": "2026-11-15T15:49:00+00:00",
+      "topic": "Attualità",
+      "kind": "news",
+      "cluster_size": 1,
+      "origin": "search",
+      "author": "Agenzia ANSA",
+      "article_url": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/cuba-punta-a-riconvertire-lindustria-dello-zucchero-per-produrre-energia_bb796b2f-8944-4ea6-a01d-a5595311564a.html",
+      "author_verified": true,
+      "byline_checked_at": "2026-11-16T01:53:41.154574+00:00",
+      "cluster_id": "68b6737541ffeaf9",
+      "cluster_sources": [
+        "ANSA"
       ]
     },
     {
@@ -35488,6 +35687,38 @@
       "cluster_id": "195b169633a432f2",
       "cluster_sources": [
         "The Telegraph"
+      ]
+    },
+    {
+      "id": "6f47384348cae153",
+      "title": "Pope Leo XIV in Peruvian rainforest demands justice for environmental defenders killed for protecting Amazon",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLVpxc3VvZDhyMVJnRklwRnhqWDB6LTVPbDRNR0NQNE9sRFlMU2xtaHNoeWVFV0JmVEJacnlTeGZQeE9BZzdlOGlWdk9XM0owQ3NhRFJfOC1rb0dDb3FfbVNYVDB6V2laYXFIMkJ2VW1YUWxLY2xzSldpeGpCUUFORg?oc=5",
+      "source": "Chicago Tribune",
+      "country": "Regno Unito",
+      "language": "English",
+      "published": "2026-11-15T15:35:33+00:00",
+      "topic": "Papa Leone XIV",
+      "kind": "news",
+      "cluster_size": 15,
+      "origin": "search",
+      "byline_checked_at": "2026-11-15T16:50:40.926151+00:00",
+      "cluster_id": "1bddeccf253ba152",
+      "cluster_sources": [
+        "AP News",
+        "Chicago Tribune",
+        "Daily Gate City",
+        "KSAT",
+        "Los Angeles Times",
+        "News4JAX",
+        "Oskaloosa Herald",
+        "Politico",
+        "Seattle Post-Intelligencer",
+        "The Audubon County Advocate Journal",
+        "The Washington Post",
+        "Yahoo News Singapore",
+        "YouTube",
+        "livetube.tv",
+        "www.swiowanewssource.com"
       ]
     },
     {
@@ -36825,6 +37056,27 @@
       ]
     },
     {
+      "id": "8416b465b5af0c2d",
+      "title": "I dem socialisti di New York invitano Alexandria Ocasio-Cortez a candidarsi nel 2028",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQNF9vOWdYRGdKZFhHb1NhbU9qYTVJMUFkV0RmcHZGUE5qY0xwRmhpd2VxcUdMcHBiSlZiWFFaQWVOXzhzRTZDT05WdWItWmhhdUM4LTNtN0lFLVZ2LWlOMVhraURna3RfdEkxZHFrQUxDY1ZNb05ac3AtUGN0REVZaUNJdFlJeEMyYTZ5MzFHUU9rWGFnNlBHSGl1akh4SVVqT21PTVFkNklzRTFVUVVzTWo3bVZHUUY2YVYzdEk2ZFRQbW02clhCNm0tMlVQSDhabXQ3ZW52ekdoU2ZuRUJNS0cxRjBVZ19NcFVZLS1vMC1DblJ5TTg0dm1PV3N0S0szMWdOTDBFa2l2ZnIzaHo2T9IBlgJBVV95cUxNNXhuVkJ5Skd4U1l5ZlNybGdVWHNnb2tXOUxfUThoUEN3X0ZHSWpRbWwtZUNkWUowNUdGVWtQWDJ4UEd4LXVoWU44a2FWcS1NdkZDeDd5MGNpVlVRLWZOb0V1eWNQbl92RHVrUHVtRmxMYko3Rm5SbnJuNlZMUUFrd2RtZEw2bmRXMWs4Y2U2NHQzVlNmNDdhTWZ0TVliNThCRURFSEV0VFd1bHhNYmFmT3hEdzRjOHA1VlE2bVZHNkFFOWIwMlk5V3FlMmpZQlBjSUdCSEZQdHpXUzRyWExvMXRkZF9wOXM0bjMtX0h1VjNxT2Q4YnQ4cjRqZWQwNHR0T3BtQUxidWx2LU1BX2FjbFdGcVotZw?oc=5",
+      "source": "ANSA",
+      "country": "Italia",
+      "language": "Italiano",
+      "published": "2026-11-15T15:04:00+00:00",
+      "topic": "Attualità",
+      "kind": "news",
+      "cluster_size": 1,
+      "origin": "search",
+      "author": "Agenzia ANSA",
+      "article_url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/15/i-dem-socialisti-di-new-york-invitano-alexandria-ocasio-cortez-a-candidarsi-nel_85872274-9010-41b4-9567-9cc3f9a35c9d.html",
+      "author_verified": true,
+      "byline_checked_at": "2026-11-16T01:53:41.154574+00:00",
+      "cluster_id": "8416b465b5af0c2d",
+      "cluster_sources": [
+        "ANSA"
+      ]
+    },
+    {
       "id": "b245917c37267d67",
       "title": "🔴 PAPA LEÓN XIV HOY EN VIVO | DÍA 4: viaje al Cusco y a Pucallpa | Trome",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ycWZFbXFnZ0VPWHBZNlFaUnYwamNRd19NcTVZb25qRWhzZmV6b2staGU4THNRMmttTG01YzY2MEZCSERsb2xHUGtSZTA0YlFTYnkwQV93?oc=5",
@@ -37002,6 +37254,27 @@
       "cluster_id": "474a019644f1d9ee",
       "cluster_sources": [
         "TikTok"
+      ]
+    },
+    {
+      "id": "8df776d8ce6a8b42",
+      "title": "Iran, 'non accetteremo riduzione o sospensione arricchimento uranio'",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdThNSFQ4aVpBemRiRS1ZTmxPRTNDa0NfeENnNkZqck1wRERSSlphbmE1a011OENmWTZ6WXZydV9rWmFSTVhEUF9ScHNPNFBLUm1zdE80aW9ySFFMcVFod1NRM0dkMlBPT0dyUzBRbU9pQlc1VGUzU1hRUWZDVmVKblpJR2RST19zTmhpejhvcGt6cjBZYWFfdlEzNWdjb3doYkFzUU94Q1FadUhjRUJndXl4dXRVWENRUXNwTEpER3RLZU0xOEZERFlwcFJnbTVnNzhKN1hQenNVQlZKREIyRmFIVVVmWFlDVjZDUkZR0gHzAUFVX3lxTE1RXzFkNVZjNU9sbWk2bC1Ud240d3FhMjFCT2s3dDliTElBQllBdkVhVDJoSUtIT1ROM3F1LXdfYWtfd3UyLWJOTkhWNFFnREtjMWxhUnFtNURFNzBYRDk1NUs2UWFzZFg2b2Rqa3AyaFdoLW90bnJEUUxOZ215NHRvb3d0X3h0QXUyN1BZclJTZFZMTE9iNDJ0OTg4WHZ6ZUc1OVV1WXJJT0NnbzhsaFJNeXFqaVZyNzc1TVV0VkFOYkdVRVRfRVFwNGdHdFo5dFdmcmlwVFVXQk1ubVZCZE5ZZ2ZGU2RrZTkxVmVXV0ZYeTFDYw?oc=5",
+      "source": "ANSA",
+      "country": "Italia",
+      "language": "Italiano",
+      "published": "2026-11-15T15:01:00+00:00",
+      "topic": "Attualità",
+      "kind": "news",
+      "cluster_size": 1,
+      "origin": "search",
+      "author": "Agenzia ANSA",
+      "article_url": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/iran-torna-a-colpire-in-bahrain-monito-dal-golfo-no-a-escalation_d5b5e247-124f-4bc5-9d47-5cb043b816c3.html",
+      "author_verified": true,
+      "byline_checked_at": "2026-11-16T01:53:41.154574+00:00",
+      "cluster_id": "8df776d8ce6a8b42",
+      "cluster_sources": [
+        "ANSA"
       ]
     },
     {
@@ -37437,6 +37710,28 @@
       "cluster_sources": [
         "ANSA",
         "la Repubblica"
+      ]
+    },
+    {
+      "id": "06210e5e6640dafb",
+      "title": "Cancellati oggi negli Usa altri 1.400 voli dopo i 6.700 di sabato",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRDJkSVVqYndqQjk0SlJCT1lkcDZ4eVpuRExzQ1pXcTE2T1dBRU5meGdCWFlwdlFGXzM5REZ5VXRfUnNaSE9fSExLQmlaWVpKWFYyVmhqTFJnRXkzcWdvWlBhemRJckYwR3YtaVJDOXhMZmNuVjJCMEpESWpaaGlzU25iWUVtMGpVZ25jMWpnU2FTbHd5VFZKdmNLYU5MdFNZTHk1VnR0SzRBRjhRVURESDZyNjRGYjJiMW45RDg5ZF9TeHRTRVJYbXhlcTh0LXRyb1NDZERBR0hYNmprbDM2QWdlQkpZeDh6b3lDdlJn0gHzAUFVX3lxTFBnWW9BemtXV0hwN0EyZFZKQjA2UWhhdmRjTnlPeURwbnR3em5rV21kNkl4NWRrWmt3U1RYUmZlZE5PVXRONFdYVzNXb3dZLVNhVkZ4U25GMHIwSUh2VFI3dVRud1dWQVBibmRzal9sY2Z3dnh1LUUya2twMFdoaFlPWVA2VHF3UDVhaGlCWTEtTHlBdTREdlRjZktTc2t2dm5FVGFCaTlfMzZwQTdPdTZ6ZEMwSlF5X0VtcmJRREs0NElPRjlYMlFLTmdNRkpiZG52aTZMb0paRTVJVUc0ZHU4WDNhZVkwamVzbVAyYVAwLTZIOA?oc=5",
+      "source": "ANSA",
+      "country": "Italia",
+      "language": "Italiano",
+      "published": "2026-11-15T14:56:00+00:00",
+      "topic": "Attualità",
+      "kind": "news",
+      "cluster_size": 1,
+      "origin": "search",
+      "author": "Agenzia ANSA",
+      "article_url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/15/cancellati-oggi-negli-usa-altri-1.400-voli-dopo-i-6.700-di-sabato_6dabf05d-2a7f-461f-b71a-d1b5dd91da11.html",
+      "author_verified": true,
+      "byline_checked_at": "2026-11-16T01:53:41.154574+00:00",
+      "author_url": "",
+      "cluster_id": "06210e5e6640dafb",
+      "cluster_sources": [
+        "ANSA"
       ]
     },
     {
@@ -41499,7 +41794,7 @@
     {
       "id": "9807595d4282fdbd",
       "title": "Donne al centro nella new wave del cinema egiziano",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeW5IREYwQS13NHlIbTJOaWlnZGZYYkJBQXJPRzFTeWh3dlVhVEZLakNMZHlCNUtjWW92ek00eE1nSHpkRE1PX1Bvc2hNSG92NXR5clIxVGh5ekt3T254VVZTYjZFUEZlM0pvcGpoYmpjYkdCMjJRaW4wZlNoc1NBWlRPV0dRaTh5a2g5QWNDcjRlZmpEVy1xOGhfUWlTd0JBTDlpRDBaRHFOM2ZLOWJhZlduR2ZXSnJBREk4V2FGT0dCdnFrbXFnT01pUjVpeWJ3VXNkNFo5bG04b2ExR3h5Rm9TMDJkZ9IB6wFBVV95cUxQYzFvcHBwMm1LSGlTWFdLbF9oVHdJOTJQTThVbE5RcXZjWFZDQkV1NVBSaXZuZ1VMRWZyZVYtMU1KX2FpbjFBTGljU2F2WXpvWkZ2aFNYbm9mRFk2aFFBS3ltelQ1amVUaHF1RmtXcVVWRmZZdWNvMHR1bll3c2pyaWtCRy1tY1FVVmZkOWxVbndLNGJtUWxSZjhzZW1CM0JBNXFuR2xuOWwxV245LVU0ZmJ3bXdaR09BT2FndmlhZ0V6WmstVEFZR29UMXYyMkhLdDJhNVVCdUxLbnFWNkRtY25TbTFmTFNiTEpN?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdnpyTEFxR1JZN0ZnbDVJZ0NjTy1WU3dsc3FpazU5MEM1WEw1Q0pnbmFMTUx5WDI3Q1lJNnBhaTJRM1ZvVVM3Q2R4YmR0RnVTWjI1QWZHZ0xwbTN4bHkwTmlQbzZaZ0x6Tk00Um5GR09EeWpuUzEtUjU2cnVJaEMwRnl4ZkFZVnNHbFNGTUJBdkFaQ084NWFPQ3F0cU9nbkdYbGpZcHIwWlAyVUM5TkgxeHhqUmpDMGVhb0ZEaVRIdzBVZlhBLUxRdmlZdDdmTC1nNnoyMnlFMm4zNi1KREtOdFMyR2I1bmlYZTZj0gHwAUFVX3lxTE1XaVB3MHIxN0R5c0VuTENNYnBnQllZMmQyMF9MdkwzVHVTdnk1aTVrVHFqam9TN0NkS0Q5S05JaFZrWEZSWGtTc21SLTlpb25yMk9IWVBhOGRVNlJmZXVnOVRmOUpsUlMzcnJQWlFwbkRJNHg4bGJnYVBLbG94UnVLRXZrMGdjbHZpcnQ4ZnZPdUxySEJEMnF1Y19aOWt6X1l2T2xkaXVjNzhXSk12emlaR0FBX0ZIQ2gxaHJwUVJYaDhLSFpWV1BEeFI4VEV4bDRuOVhEYVZXcFE5NFQ2YXFFWlV6UnlfZWlfSlNzalotNw?oc=5",
       "source": "ANSA",
       "country": "Italia",
       "language": "Italiano",
@@ -42354,7 +42649,7 @@
       "title": "Pope Leo XIV has had the coat of arms on his fascia altered (first image: new design, second image: previous)",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYjZwS0xZTERsMjZoRURGVzdpRVIzdXBzZ0xscDU0QXFRS3A4RXRKaGtSMTVmUGlCcXN4YVp5US11aWlIN3NYWDQtR0UzNjBjYTBDN0l2WlMwRlRlYTJZbWw1YjRXSUxyTHFMcXpBN19TUVdJcnZYcEM2MmlQODFIc0ZydDE1UjBsc255VUs4MDNmekZVc1FOeWlxVHE?oc=5",
       "source": "Reddit",
-      "country": "Stati Uniti",
+      "country": "Regno Unito",
       "language": "English",
       "published": "2026-11-15T13:11:31+00:00",
       "topic": "Papa Leone XIV",
@@ -42362,23 +42657,6 @@
       "cluster_size": 1,
       "origin": "search",
       "cluster_id": "98b25f750aaedd2a",
-      "cluster_sources": [
-        "Reddit"
-      ]
-    },
-    {
-      "id": "0effc016a4084a0a",
-      "title": "Le pape Léon XIV a fait modifier l'écusson sur sa fascia (première image : nouveau design, deuxième image : précédent)",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObFhsai1LODlrWlBLUnJGUlh5T3R6LWVpdnEzbV9yYTduenZ1dWhTMVhweDZpNUdmbC1aeWlLVTVXdnFNM0k0UVlLam5uR0h0WW1tWDZhTVU2S1lVQjR1aGtNRGV4d1RHX1dtZUNiMjhQVmhJajk1eUE1MzJTdFlXblVmOEI0ZmRLSzUtYnlCSlh3WkJHRVlYdVo0WFZkRXdLRnd6RQ?oc=5",
-      "source": "Reddit",
-      "country": "Francia",
-      "language": "Français",
-      "published": "2026-11-15T13:11:31+00:00",
-      "topic": "Papa Leone XIV",
-      "kind": "social",
-      "cluster_size": 1,
-      "origin": "search",
-      "cluster_id": "0effc016a4084a0a",
       "cluster_sources": [
         "Reddit"
       ]
@@ -42396,6 +42674,23 @@
       "cluster_size": 1,
       "origin": "search",
       "cluster_id": "8e7f6cc5b6113aee",
+      "cluster_sources": [
+        "Reddit"
+      ]
+    },
+    {
+      "id": "0effc016a4084a0a",
+      "title": "Le pape Léon XIV a fait modifier l'écusson sur sa fascia (première image : nouveau design, deuxième image : précédent)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObFhsai1LODlrWlBLUnJGUlh5T3R6LWVpdnEzbV9yYTduenZ1dWhTMVhweDZpNUdmbC1aeWlLVTVXdnFNM0k0UVlLam5uR0h0WW1tWDZhTVU2S1lVQjR1aGtNRGV4d1RHX1dtZUNiMjhQVmhJajk1eUE1MzJTdFlXblVmOEI0ZmRLSzUtYnlCSlh3WkJHRVlYdVo0WFZkRXdLRnd6RQ?oc=5",
+      "source": "Reddit",
+      "country": "Francia",
+      "language": "Français",
+      "published": "2026-11-15T13:11:31+00:00",
+      "topic": "Papa Leone XIV",
+      "kind": "social",
+      "cluster_size": 1,
+      "origin": "search",
+      "cluster_id": "0effc016a4084a0a",
       "cluster_sources": [
         "Reddit"
       ]
@@ -42861,6 +43156,28 @@
       ]
     },
     {
+      "id": "56a179862e1f74ed",
+      "title": "Mosca, 'negoziati sull'Ucraina, l'Ue vuole salire sull'ultimo treno'",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVDdMajF6SHF1ZVhmMWtiRWx3c1dkWTk4Ui1jdmdZWE9xNTd3T1JnQnhwTi1UWV9xTVU0SE1QZk1hUjUyOVBaNlVndlhCYi1lTEVrZWNrcXBGa0VSRV9wcVBHMW5UNks2VmxYMlpFLTFCM200WVZEWVI0UDhCc3FBbmt4SUp3dm9zOW9aQ0h1ZzZKWUVfQzI5M3NESVAycncyaWViX0JLT0lDZHV5MHdtZDd6aTR6OGlmVXVSUzJ1dkR1YU9ua19EWWVrRUllYUo4OU9RRGVLSm1GZk03RmFlVkxRTmhRQl9a0gHuAUFVX3lxTE9UZVYxWVpudU11dFpSeGRselJ1VWhwOGtXaTBCTGlUTDJzWUtpVjRteVR6Uk1wUW4wZUtqNWozVnRoN0RYNHBCZGtEaHQ5TjJMdExqdkhtV2Viald5dEZlWFIyYlNmM3A0VDRHQTF4cGZxY1ZVbzF2TGgyaXRUSHMyZHhpRnoyVkhLY2l4Y1dkWUhjMy16OHJFbTFZLTZlNzhBUkNfYnJDRFduUHNFRS1QV081Ul8xc0JkdzU1T2FRSDg5OWxNNVNBX0k1Nld6QUJCbUlZWUJKVXFvaFk0WXI1ZC0xMFpVUDI3R2V0TXc?oc=5",
+      "source": "ANSA",
+      "country": "Italia",
+      "language": "Italiano",
+      "published": "2026-11-15T13:00:00+00:00",
+      "topic": "Attualità",
+      "kind": "news",
+      "cluster_size": 1,
+      "origin": "search",
+      "author": "Agenzia ANSA",
+      "article_url": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/mosca-negoziati-sullucraina-lue-vuole-salire-sullultimo-treno_569f970a-c57c-4974-a924-58ff47836a7a.html",
+      "author_verified": true,
+      "byline_checked_at": "2026-11-15T14:40:44.678674+00:00",
+      "author_url": "",
+      "cluster_id": "56a179862e1f74ed",
+      "cluster_sources": [
+        "ANSA"
+      ]
+    },
+    {
       "id": "177bc0edadd02d1f",
       "title": "Canadian Catholics retain identity more than U.S. Catholics, but decline in practice is similar",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeXFQXy12Z0haR2xxdTRQaUdSRHBaalRXdHZHSDZzcHhCODNiRzVsTkdTNWRXaU92THl0US1kNm56NlpRSlM5Q0JicnpneTEyR2RkVXJzaXUxeTYtdVF2Sjl2MXM4T3hMZmZnanNqTHY3SUp5M19wcHlIa3RiVWRzejdweXdRUk8yT0JFUk5JMFpBdWs3QUhLSVhjUjdwWjBIRjduSzlTREV2UklCd1JTWEdocUtQVGVsMVZMOWdBWFgwYzRTSjBzWGgybWVnZw?oc=5",
@@ -42922,28 +43239,6 @@
       "cluster_id": "664df647b2d03f10",
       "cluster_sources": [
         "Infobae"
-      ]
-    },
-    {
-      "id": "56a179862e1f74ed",
-      "title": "Mosca, 'negoziati sull'Ucraina, l'Ue vuole salire sull'ultimo treno'",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMzdzOE5leldfbXlwRVhHZ04xWWMxQVlLLXdJd1k0X1c3WjNxSVJnRHlBNFhkaE1XTUtBSjdPdDV4RFdUaERicG5Ha1NmaEQ1S3QzWGJZSTNBa3hCdThkeWdTU1lkWlU5V1NWcUJCazBBeTZvVXZ4cjZ0c09OTmQ4YXMyZkhGaHVuZkh6dHNFNUFJN3I2Zlh0c3VJLXhSYjhZYUl4eU80Q2lXa0tCYk53Y1p2Q2FxQjFYaEh6Z3dxMmlXVDFMeW1vM2ZzNU9VYnpVNDhMRk9VM2M3UzEyTENPZHVwS1JTQnZtTGJj?oc=5",
-      "source": "ANSA",
-      "country": "Italia",
-      "language": "Italiano",
-      "published": "2026-11-15T13:00:00+00:00",
-      "topic": "Attualità",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "search",
-      "author": "Agenzia ANSA",
-      "article_url": "https://www.ansa.it/sito/notizie/topnews/2026/11/15/mosca-negoziati-sullucraina-lue-vuole-salire-sullultimo-treno_569f970a-c57c-4974-a924-58ff47836a7a.html",
-      "author_verified": true,
-      "byline_checked_at": "2026-11-15T14:40:44.678674+00:00",
-      "author_url": "",
-      "cluster_id": "56a179862e1f74ed",
-      "cluster_sources": [
-        "ANSA"
       ]
     },
     {
@@ -43470,7 +43765,7 @@
       "title": "The Pope climbed into the cockpit of a Peruvian Air Force helicopter",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX1JUX1AwTHcyS3RJZW1MOW5ZWDVBOWNWRmE3dEJha0FFTDFSV1IyUi1rU3pqT1lPZC1mZE5SdXRsdFhBUVV2WmtGV19TSXd6dUhaa2piY1dzRnBoc0pmZnlObEpWcUl4OHFKX3V3aWZfa0F6TlNydDk4UnNBbVFGWGtjbXZzaXB0NVRnQXhERVh3V1NlSlZETVdUNTU2SEZ0?oc=5",
       "source": "Reddit",
-      "country": "Stati Uniti",
+      "country": "Regno Unito",
       "language": "English",
       "published": "2026-11-15T12:47:09+00:00",
       "topic": "Attualità",
@@ -44356,7 +44651,7 @@
       "title": "Pope Leo XIV crowns the Immaculate Virgin at the Cathedral of Chiclayo and entrusts his life and ministry to Our Lady, in the same place he began his episcopal service as the diocesan Bishop in 2015.",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMmsyeTdHMk1IRG1vTERPaGh1Q3d2cEpkeDhEUUY1WVhGcDl6S3FtMnpSX1FFbU5tdFJGMFhpRUJEdEtGYlBGNW5DdFQtRThBNWNtWlFSNzV1eUtjb0J3d0hNWFRfR2VPam1xLTRmVkxHdW5rQm1IRzZqYi1WNFlDX2JocGZjZTBxNVpMcVRzYmpMSDhldnVVaU53NTNzMWNmME5VckIwSQ?oc=5",
       "source": "Reddit",
-      "country": "Stati Uniti",
+      "country": "Regno Unito",
       "language": "English",
       "published": "2026-11-15T12:30:07+00:00",
       "topic": "Papa Leone XIV",
@@ -44513,13 +44808,12 @@
       "published": "2026-11-15T12:28:22+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 2,
+      "cluster_size": 1,
       "origin": "search",
       "byline_checked_at": "2026-11-15T12:40:45.908443+00:00",
       "cluster_id": "7d279951b6b1dd00",
       "cluster_sources": [
-        "ORF",
-        "ORF ON"
+        "ORF"
       ]
     },
     {
@@ -45056,6 +45350,23 @@
       ]
     },
     {
+      "id": "36faec122cc41d8f",
+      "title": "PAPA LEÓN XIV EN VIVO DÍA 5 EN PERÚ: LLEGÓ A PUCALLPA Y CELEBRARÁ SANTA MISA | #LR",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83YTNhN0FvTkRZWjU3cGVHVlp4YjJ0d2p4N3VNZ05BNEtUQmdhOG42Q2lQa0w5WFlKcm55clNoMmNSYUtOSThpeUswcTFCNHZmbFNST1FB?oc=5",
+      "source": "YouTube",
+      "country": "Spagna",
+      "language": "Español",
+      "published": "2026-11-15T12:13:00+00:00",
+      "topic": "Papa Leone XIV",
+      "kind": "social",
+      "cluster_size": 1,
+      "origin": "search",
+      "cluster_id": "36faec122cc41d8f",
+      "cluster_sources": [
+        "YouTube"
+      ]
+    },
+    {
       "id": "c317a4ba99a49f2a",
       "title": "Tanti gol ed emozioni, la Lazio guida una Serie A da effetti speciali",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMmVQU3A0aV90XzNCVXFkVmpaeVJwOVFkeW45U25FaE1JVFBrMFZrZzJLWVdsek1PMlJDWVZOSWtQRWhTSTFuMHZyWGNHd0VEeVdiQll5TmRKOHV0ZUozN05Bd2FpNFZnal9UMVd1RlJFTGtpcGVqd0E5a1o1alVrZy1yaHliUEhXSDhKSFNoYWttbjYzX1VDSk82Um53WjdnTElKd0N6ZWVqUjVJUFVYenNrWmpMaTZicmJxUDlSSGVGLXpZNXFRb2lNRnBCdkVWMkhsRmFxNk5YNHRfZUVaYkZsZ3F1eEZ6czZKWnN4QmFLQdIB9wFBVV95cUxPVHVVMzlNTy1namJhTENXZUgtWWd6OU5aTlMzYzhSenN6UGxnOTZXSDBqUnRqVWNGUjV2WHp6RWlTQzRnVjhjMG90ZUVsczhoU3U3YmpmSWNYUlJBcmQxcG5feHI0Yk93R0RPX3lfVU9sNkhvQkU3Y0ctbDRzU1B5R0V1YWp0VmNlb01Sb3U0ZVpQdkw4Xy1MY0dZcGxBWmxwYmxSU2FJdzZNNUprSmx5Ym5jb05hQ09ER3ZQenNrY2Vld3RfZml0T21ULVVSX2dhaE5YelNLbi1Pc0FubzhyUGg4aWxPVUxWTEI2SGExWkJfSG00aWln?oc=5",
@@ -45075,23 +45386,6 @@
       "cluster_id": "c317a4ba99a49f2a",
       "cluster_sources": [
         "ANSA"
-      ]
-    },
-    {
-      "id": "36faec122cc41d8f",
-      "title": "PAPA LEÓN XIV EN VIVO DÍA 5 EN PERÚ: LLEGÓ A PUCALLPA Y CELEBRARÁ SANTA MISA | #LR",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83YTNhN0FvTkRZWjU3cGVHVlp4YjJ0d2p4N3VNZ05BNEtUQmdhOG42Q2lQa0w5WFlKcm55clNoMmNSYUtOSThpeUswcTFCNHZmbFNST1FB?oc=5",
-      "source": "YouTube",
-      "country": "Spagna",
-      "language": "Español",
-      "published": "2026-11-15T12:13:00+00:00",
-      "topic": "Papa Leone XIV",
-      "kind": "social",
-      "cluster_size": 1,
-      "origin": "search",
-      "cluster_id": "36faec122cc41d8f",
-      "cluster_sources": [
-        "YouTube"
       ]
     },
     {
@@ -46035,7 +46329,7 @@
       "published": "2026-11-15T11:53:47+00:00",
       "topic": "Attualità",
       "kind": "news",
-      "cluster_size": 14,
+      "cluster_size": 15,
       "origin": "search",
       "author": "Mauricio Savarese, Nicole Winfield And Astrid Suarez, Associated Press, Mauricio Savarese, Nicole Winfield And Astrid Suarez, Associated Press",
       "article_url": "https://www.ksat.com/news/2026/11/15/pope-crosses-peru-in-the-finale-of-a-trip-home-to-visit-flock-high-in-andes-and-deep-in-amazon/",
@@ -46046,6 +46340,7 @@
       "cluster_id": "1bddeccf253ba152",
       "cluster_sources": [
         "AP News",
+        "Chicago Tribune",
         "Daily Gate City",
         "KSAT",
         "Los Angeles Times",
@@ -46071,7 +46366,7 @@
       "published": "2026-11-15T11:53:47+00:00",
       "topic": "Attualità",
       "kind": "news",
-      "cluster_size": 14,
+      "cluster_size": 15,
       "origin": "search",
       "author_search": true,
       "author": "Mauricio Savarese, Nicole Winfield And Astrid Suarez, Associated Press, Mauricio Savarese, Nicole Winfield And Astrid Suarez, Associated Press",
@@ -46082,6 +46377,7 @@
       "cluster_id": "1bddeccf253ba152",
       "cluster_sources": [
         "AP News",
+        "Chicago Tribune",
         "Daily Gate City",
         "KSAT",
         "Los Angeles Times",
@@ -46811,24 +47107,6 @@
       "cluster_id": "c4eb43f6116c216a",
       "cluster_sources": [
         "Religion Unplugged"
-      ]
-    },
-    {
-      "id": "c8d311168fa6f806",
-      "title": "🔴📡 Quinto día de la visita del papa León XIV a Perú en su gira por América Latina",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Yck04aWEyLWFpQmo4U0tuZ3o2Mm5aUGxHVFpheUZfTG53MVUwbHQ4MXBRMWFubl9EVUlYSWZwN2EySmxvdjQtcVExcTZQODRmODJOUUtn?oc=5",
-      "source": "YouTube",
-      "country": "America Latina",
-      "language": "Español",
-      "published": "2026-11-15T11:35:13+00:00",
-      "topic": "Papa Leone XIV",
-      "kind": "social",
-      "cluster_size": 2,
-      "origin": "search",
-      "cluster_id": "a5f083140f417098",
-      "cluster_sources": [
-        "EL UNIVERSAL",
-        "YouTube"
       ]
     },
     {
@@ -48425,7 +48703,9 @@
       "id": "941ba708cc5a2e58",
       "title": "Perù, il Papa in elicottero per arrivare sulle Ande",
       "url": "https://www.ilgiornale.it/news/vaticano/peru-il-papa-in-elicottero-per-arrivare-sulle-ande/",
-      "source": "il Giornale",
+      "source": "Il Giornale",
+      "author": "Nico Spuntoni",
+      "author_url": "",
       "country": "Italia",
       "language": "Italiano",
       "published": "2026-11-15T11:00:00+00:00",
@@ -48433,7 +48713,6 @@
       "kind": "news",
       "cluster_size": 1,
       "origin": "direct",
-      "author": "Nico Spuntoni",
       "article_url": "https://www.ilgiornale.it/news/vaticano/peru-il-papa-in-elicottero-per-arrivare-sulle-ande/",
       "author_verified": true,
       "byline_checked_at": "2026-11-15T11:10:45.028725+00:00",
@@ -48443,11 +48722,10 @@
       "vaticanist_names": [
         "Nico Spuntoni"
       ],
-      "author_url": "",
       "author_search": true,
       "cluster_id": "941ba708cc5a2e58",
       "cluster_sources": [
-        "il Giornale"
+        "Il Giornale"
       ]
     },
     {
@@ -48967,68 +49245,6 @@
       ]
     },
     {
-      "id": "3bde3aba67d14043",
-      "title": "Pour une banque culturelle à l’image des banques alimentaires",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYzFkN1JsMmxGMzIxSVk1UDN2ZGRSREtSd0tCc1ZZM1dQRlp3MXFPVF9zWVc0YW5QVVF0VkVmNWpRLXAzQ2tZcVhDUGpVaGV6R2tNYW1XRERKYnBVdXZrdlc0eDdxS0doektTX3lESHkwaWhFZTBmX1I2WEJsMi1FNW9PbW5kR2RSTmFZd1hvdHo1NTJSVnlUTW1GWk44S2xGUGJLQ2FR?oc=5",
-      "source": "La Croix",
-      "country": "Francia",
-      "language": "Français",
-      "published": "2026-11-15T10:34:34+00:00",
-      "topic": "Attualità",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "search",
-      "author": "La-Croix.com, Emmanuelle Giuliani",
-      "article_url": "https://www.la-croix.com/culture/pour-une-banque-culturelle-a-l-image-des-banques-alimentaires-20261115",
-      "author_verified": true,
-      "byline_checked_at": "2026-11-15T10:40:47.702132+00:00",
-      "author_url": "",
-      "cluster_id": "3bde3aba67d14043",
-      "cluster_sources": [
-        "La Croix"
-      ]
-    },
-    {
-      "id": "9598cbd429bb794b",
-      "title": "Dos aviones chocaron mientras circulaban por la pista del aeropuerto de Miami",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbGF5WTZoRXZ5SnJ4VDRvNWhmZFU2Vm9ydW83dmVYTUdyQy1LNTNhOEdOckNTMUNEYk1aSEFUdm1OU0Mza3FzUEx6WlM3SjJtanpwR1hBX0U4eXNEekh0dHlWcU9feWgtaFRueG5maE05LWI2RmMtVlhwOThiM3BKMmFEVmNoUk94NEgxNWpmRGxldG4wZzJSc0dzeXRjR2I5TUJzQU9aSUxkXzJEdHBJNm82VFFPSDgzekRZOU9pLUzSAdQBQVVfeXFMUDhJc25KRmFjVjl3ai1DUHV2aTNENFBTRVFRckpBSEwzaTFDdUZkNDJ1VFVySXZZODJCdGhVRTZuRVpfN3pTUTdxVXBjNE4zRldoVWpDTVFQaEN4aVlOd3RNcy1hSlVXbFpSSXk1RnlOWWRxb25hdDNIUU9Cc3d4UVBvV0wzZGdPWWZhM2hRY1NQeGE2Unk3VXBWODhCbjg0c3Frb1NIazR4SWpIMEJKbmJMdEtvdldXUjlINWpDWlJrWXB0bHBlUFVwQjlwNlhCSmJ5bjk?oc=5",
-      "source": "TN",
-      "country": "America Latina",
-      "language": "Español",
-      "published": "2026-11-15T10:32:55+00:00",
-      "topic": "Attualità",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "search",
-      "author": "Enzo Páez Molina",
-      "article_url": "https://tn.com.ar/internacional/2026/11/15/dos-aviones-chocaron-mientras-circulaban-por-las-pistas-del-aeropuerto-de-miami/",
-      "author_verified": true,
-      "byline_checked_at": "2026-11-15T23:10:44.765959+00:00",
-      "author_url": "",
-      "cluster_id": "9598cbd429bb794b",
-      "cluster_sources": [
-        "TN"
-      ]
-    },
-    {
-      "id": "5192959c04c6c313",
-      "title": "Maria, Madre della Chiesa: storia di un titolo (e perché ci interessa oggi)",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSkpLNTA4U1FDak9vSE1ya2wzUlI5UXlTQ1lCYnVYbzc3XzFhWWpLM1RITkVRMTFBZDdxMThjUDg1QXJXNUdCcUhvNnF3dzRPaTFyNnVJLVhJaXRqQzdMNUVzWTJYclNKQzRSdEZoelFvREtaWmUwdmZ6U0dlYWpDdWJoMm1XNU9faW4xS0JySERKeEZjQzc5aXVDWQ?oc=5",
-      "source": "La Nuova Bussola Quotidiana",
-      "country": "Italia",
-      "language": "Italiano",
-      "published": "2026-11-15T10:31:10+00:00",
-      "topic": "Attualità",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "search",
-      "byline_checked_at": "2026-11-14T21:15:02.841115+00:00",
-      "cluster_id": "5192959c04c6c313",
-      "cluster_sources": [
-        "La Nuova Bussola Quotidiana"
-      ]
-    },
-    {
       "id": "755dc3802972dca3",
       "title": "Casalini e Zenone. “Leone vuole cambiare rotta? Chi comanda in vaticano?”. VIDEO",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbkV4dlBMUDJ1eUlVWFJORUVZa181ZVpfYi13QWx0TFNFUFo3bURiajc1MXdhWFZlNjhERXY0ZWJHMWRBQVp0U08teEZrcnF1d2NucmhYOUZjMFNWTkZxLWFIVHBla3h6QWJsVWdTTVpVZnA1SGxMcXktYmVIc2xNMEYtc25NdXl3QkUxcWhNOEhYWTJFQnVtRjJfTXhjejNfZDBWYjQ2VUFZODFJcUtSQ3hwcW0tR0hN?oc=5",
@@ -49048,50 +49264,6 @@
       "cluster_id": "755dc3802972dca3",
       "cluster_sources": [
         "MiL - Messainlatino.it -"
-      ]
-    },
-    {
-      "id": "fa6fcc1b496290b9",
-      "title": "Ouverture des commerces le dimanche jusqu’à Noël : pourquoi la concrétisation se fait attendre",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNGtKdkMyelY2MmZ4djlkb1hDbi1ldlBFOFpocnpfdEhXU0pVbzB5NjdXSFFEZHhkWFZibm9IbWxTRGh1Q0t5amdpTTQ2b1VfUW9XSjdRaFdfUTZ4R1NTNDZiSGxOTXVmZjRDY2tRQXppS09JMUp2ZVNJcFU4YzRRckpjODNyU0VvaWtHSFhac1ByeHlxLVFubkFzUzI3ekNlWW55enhWV0UtbjVTLUlFQkFncmUwQ1puQjB3UVg3d3J6OHlLVUFja2Q2VjhWamRO?oc=5",
-      "source": "La Croix",
-      "country": "Francia",
-      "language": "Français",
-      "published": "2026-11-15T10:25:40+00:00",
-      "topic": "Attualità",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "search",
-      "author": "La-Croix.com",
-      "article_url": "https://www.la-croix.com/economie/ouverture-des-commerces-le-dimanche-jusqu-a-noel-pourquoi-la-concretisation-se-fait-attendre-20261115",
-      "author_verified": true,
-      "byline_checked_at": "2026-11-15T10:30:59.828168+00:00",
-      "author_url": "",
-      "cluster_id": "fa6fcc1b496290b9",
-      "cluster_sources": [
-        "La Croix"
-      ]
-    },
-    {
-      "id": "31fa129e2be6e39b",
-      "title": "Forte maltempo nel Salernitano, frane e allagamenti",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORFQtZkxtLU1sSU4yeEs0Z2NqMzY1SkJXM3VOTzBRQWZlTThQeHFrUDlfUWlkMm5ISEx2TmwwV2RWZENHRjdzOERyVkJId3ZZYnFqZVB5YnVTYnJvVGlieHF1SGVtaTZxcnlBYm9tNVBYWHY1UlBoU0JMMjJicnRCZU1HZEwyR3dNSGtmOXhOcWRBZVUyR1Q2c2hMTEVIb08tYnhQZHhGYXA3cER3ZW02azlLU3BuUVhuQkY0T0JvLUFCamVNR09XWjREQ0Z4LXlJOVB5Q2dpbmNCdTlm0gHiAUFVX3lxTFB2VjhEX01aSGNna2h4Nk9MYTJWTTlqNThoUW9mc0dpWkNYM3JQX3E3LWJ5WFFhdnBHNGF2UWJBZFJDUjVoMF8tU0p2Rk9nZkFHaElIbHhLUnBvbS1SdWJseFZ1ZGtCMktIVlFWUVR4T2JPMlJhNlVVS1NZYnJwa0JBT2lUMThkVmdKTnJQUUpGcms0SS1mV0VXRkJFSFlvcWdCODViVm5qeFJtdGR1b3RVVWsweEx5X1FmNS1xYnVFSU9xU0RxZGZ4YTB3ZXVVM1pJVFZnekVJZHNjVllja3VWRnc?oc=5",
-      "source": "ANSA",
-      "country": "Italia",
-      "language": "Italiano",
-      "published": "2026-11-15T10:24:00+00:00",
-      "topic": "Attualità",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "search",
-      "author": "Agenzia ANSA",
-      "article_url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/15/forte-maltempo-nel-salernitano-frane-e-allagamenti_d58f8a75-e889-4450-841f-259077558f9a.html",
-      "author_verified": true,
-      "byline_checked_at": "2026-11-16T00:10:49.337758+00:00",
-      "author_url": "",
-      "cluster_id": "31fa129e2be6e39b",
-      "cluster_sources": [
-        "ANSA"
       ]
     },
     {
@@ -49139,105 +49311,6 @@
       ]
     },
     {
-      "id": "5bef2c25f6f69a1d",
-      "title": "Pope Leo XIV calls for action to address poverty, migration in Peru – FRCN HQ",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU3AtZG9WR1MtNGV0STRNVDJXMjI0SDdDU0hLTThKNWtCYjNXc1ROY1VzdnJPVnpnVTFoMXl1M0FNdUdaY01CejhMVjdhbmhBeVZlUXF4ZExnZUluUENaSTM3SG1LWG5DMlFEd2VpTWZRWDlueEJ6UXVOOV9DY2ZRUHRlaHdUaEZoNF9sY2VMZHM2a3hhc1VIdndJNThKbG5WOVVXZU1HUVRDZw?oc=5",
-      "source": "FRCN HQ",
-      "country": "Regno Unito",
-      "language": "English",
-      "published": "2026-11-15T10:17:31+00:00",
-      "topic": "Papa Leone XIV",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "search",
-      "byline_checked_at": "2026-11-15T10:30:59.828168+00:00",
-      "cluster_id": "5bef2c25f6f69a1d",
-      "cluster_sources": [
-        "FRCN HQ"
-      ]
-    },
-    {
-      "id": "29999cd4bad92196",
-      "title": "Myla Cambiaso combinó sus dos pasiones: moda y caballos en una colección que lleva su sello",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOU2l4cm50RmxxbUFOYnlTYTNvYmcwb2JSLUZEVTg2Mk5xc3lpbXQ5aVhGUjVOcXRpZHV0R0xkazMzWHVBZGktUHJhbmRWaS1HOWt0OHNOZm9XNWNvTkpvQ3BRbjFTR1o4LXFSdVJOaWxWUHpxRzVsTi1pR0VLbk1nMnU1YXp3aldHaVJ4WG44eGhEY2haaWVPeERkN29xY3lfMDl2dERGX0dnTlUxWlRGdFR2dlp1eEFPQ1Bib055MWZveEpNRW5HQVF0ZDZrSzNERlh1Rl8wNNIB6wFBVV95cUxOb0pKN2RLWU05eF93SWtZMm1DMFlBX0VNemRiNE5uTHFkU3J3YktPd3VMWkJBLVV1TWJOd2FVMDBkS0xWckVjek9jakdDbzA5d1BhZHJKVWF5VjdSdHBnUnVvZlNSY1Uwa2xtTnprQ0FoNlNweTREdVdlajdELURaMHg1YUtNdlpPRmxZUE9NdEE2U0VBVV9lYm5NV1FiNzEwZ2I0YUNvbmdiV0FWVl9YbkZUUWVsSUg4aV9DdFowQVFNOGVySVV0YWN5bWZzcGJ3b21TWjZ3eWxXa2dJOWhmS254RUFnZmtaMmEw?oc=5",
-      "source": "TN",
-      "country": "America Latina",
-      "language": "Español",
-      "published": "2026-11-15T10:16:00+00:00",
-      "topic": "Attualità",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "search",
-      "author": "Agustina Gómez",
-      "article_url": "https://tn.com.ar/estilo/celebridades/2026/11/15/myla-cambiaso-combino-sus-dos-pasiones-moda-y-caballos-en-una-coleccion-que-lleva-su-sello/",
-      "author_verified": true,
-      "byline_checked_at": "2026-11-15T15:50:44.640828+00:00",
-      "author_url": "",
-      "cluster_id": "29999cd4bad92196",
-      "cluster_sources": [
-        "TN"
-      ]
-    },
-    {
-      "id": "ed22dd0a53269072",
-      "title": "Da Sanremo alle canzoni di Natale: tra Sal Da Vinci e i 'Ditony' il Festival si mangia anche il panettone",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTkdDSVB0bjdsVjQ5MmxhQ2JFUXlEaEN4TEE4OUl0bDlBLWY1NEpjSFBmd2dWWmtGd1QyTU9TZFg4UkdIM1BzOWJieF9WU3oxSUx0QllFbGhmZDNOTWR2UHVMZFlqdFR0WXB4SFIxSWd2TGlMRi05OWU4MkNxaDVXQnU5cVhWclFGejIxdW1WQ3FLSEhOajZlaHVLMVo2QXV4SlZleUdtV25oRDgtSk9sX2VJdzEwVm92ay1LZlpVLUx1dW9hY2s1QUp0bFdtQ3EyMjNKRUwwNFp4STl0eXloQXFlRGNJZ0I4RVB5LTV2RUV5YlNQSDZaMERPUWbSAfwBQVVfeXFMTk5HQ0lQdG43bFY0OTJsYUNiRVF5RGhDeExBODlJdGw5QS1mNTRKY0hQZndnVlprRndUMk1PU2RYOFJHSDNQczliYnhfVlN6MUlMdEJZRWxoZmQzTk1kdlB1TGRZanRUdFlweEhSMUlndkxpTEYtOTllODJDcWg1V0J1OXFYVnJRRnoyMXVtVkNxS0hITmo2ZWh1SzFaNkF1eEpWZXlHbVduaEQ4LUpPbF9lSXcxMFZvdmstS2ZaVS1MdXVvYWNrNUFKdGxXbUNxMjIzSkVMMDRaeEk5dHl5aEFxZURjSWdCOEVQeS01dkVFeWJTUEg2WjBET1Fm?oc=5",
-      "source": "La Stampa",
-      "country": "Italia",
-      "language": "Italiano",
-      "published": "2026-11-15T10:14:00+00:00",
-      "topic": "Attualità",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "search",
-      "byline_checked_at": "2026-11-15T11:31:02.564339+00:00",
-      "cluster_id": "ed22dd0a53269072",
-      "cluster_sources": [
-        "La Stampa"
-      ]
-    },
-    {
-      "id": "46bf02d848c07d4b",
-      "title": "Simona Quadarella: «Ho smesso di piangere per il nuoto. Non serve avere ansia ma rimboccarsi le maniche»",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTWxXbkR2bmlZMWtrR21KZDlqNGdhMWRSR1JsRVhJdl9rV3ZYTmRfejRzbHJjZmhlZUVvQTFpY3NTYlNreGpnWEFVaTlNZ2hRRjhTX09qX0Z6YjdWZE1CY2w5dE1udldha0RnZEdvUzllR0otZ00zUjBvb2V0ckFxWUFvQTJCd9IBiwFBVV95cUxOdTFjc2M0SEtvbldrT05WR1J4UXZtZHJSUTlFeS1HWm9kX2ItYWJad0hhLWd0aEhRY1RtU2NQelVjb3BaOXF6RHctVnd3QU5reUhlUW1ES2FsUHB4UkFjSTNKeEkxblJjTWYzd21EalJRejRNZEhOVU81dXVaMVhPWVJKZ0NmOEdZcXNr?oc=5",
-      "source": "Il Messaggero",
-      "country": "Italia",
-      "language": "Italiano",
-      "published": "2026-11-15T10:09:15+00:00",
-      "topic": "Attualità",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "search",
-      "author": "Luca Uccello",
-      "article_url": "https://www.ilmessaggero.it/persone/simona_quadarella_piange_nuoto-9891318.html",
-      "author_verified": true,
-      "byline_checked_at": "2026-11-15T17:39:18.166627+00:00",
-      "author_url": "",
-      "cluster_id": "46bf02d848c07d4b",
-      "cluster_sources": [
-        "Il Messaggero"
-      ]
-    },
-    {
-      "id": "8882304cec27f391",
-      "title": "Papst Leo XIV. besucht frühere Wirkungsstätte",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFhWSHB5OTZFY18zX3hCUU1CelJ1QkU3UzN4dnhRM0VkNHllb1EwMWdUYXNlYUhEVU1JMlRlQmlIU3pKbTBtMERvdGFxMi1MSGdQTHdDZWxKcUZRNEtJakZzUUctZjFBZ3FqSzhHMm9xb1V5ZERCU1FHN3ItSU16Q0pCRGVhb2hDcm91TkoxSHNfdw?oc=5",
-      "source": "ORF ON",
-      "country": "Germania",
-      "language": "Deutsch",
-      "published": "2026-11-15T10:08:10+00:00",
-      "topic": "Papa Leone XIV",
-      "kind": "news",
-      "cluster_size": 2,
-      "origin": "search",
-      "byline_checked_at": "2026-11-15T10:30:59.828168+00:00",
-      "cluster_id": "7d279951b6b1dd00",
-      "cluster_sources": [
-        "ORF",
-        "ORF ON"
-      ]
-    },
-    {
       "id": "7cc0407cb6db2c47",
       "title": "L’Iran revendique une attaque de drones contre une base américaine à Bahreïn",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYWl0SDhGTjVoMzRZbWFYcEhaSTVxRXpKcEJ1MWJFWTdFSjlrTFZQaTBOVTl6N2dEa3MxZWRUMUJnYUg5U3Rnb3RiWGtuNFFnNlJ0c0xLQkV0VFJOc2szUlFyeFNqZHVYa0tseTBIcmF2aUhsOUkwUjB6SFpUT0VsQTd0SHc2MmpwZE92RWdEWU1TRzA2Mjgyc1ZJRldfeENWNkxwazMwSmZOTk53NG0zcGF4VWNVRkE1Wk5aYXFjQXFJSmRwWjJZcnZGMVpxc053ZjJELW01QXhaeFRqcXZuN0pyS0M?oc=5",
@@ -49261,7 +49334,7 @@
       "title": "My proposal for Papal States / Vatican Civ",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNenFzd0ROSnhYNVRaSUZzemliamsyR002cFFrZDFncWhNckMzbkJ3MnRoTFl2d1hBUU8tdXJVMWVBc2JoSHN0YlV4RW9mekc3cFlNOUFOeWpvTXo4bFRHNUJDSFJHN0pqNDQyNGdYNWE1ZDcwSTEzeU1NaFhVNTRrcmlQMlBlWFZoMFQ3a2N3R2xUZw?oc=5",
       "source": "Reddit",
-      "country": "Stati Uniti",
+      "country": "Regno Unito",
       "language": "English",
       "published": "2026-11-15T09:55:04+00:00",
       "topic": "Attualità",
@@ -50342,10 +50415,10 @@
       "cluster_size": 1,
       "origin": "direct",
       "author": "Vatican News",
-      "author_url": "",
       "article_url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-in-zana-continue-passing-on-the-faith-to-your-children.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-15T00:31:00.469912+00:00",
+      "author_url": "",
       "cluster_id": "0da4cb159fcb6dcd",
       "cluster_sources": [
         "Vatican News"
@@ -53021,7 +53094,7 @@
     {
       "id": "4b3e5c9b9663ee44",
       "title": "SpaceX recupera per la prima volta nella storia un veicolo spaziale",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPM3Vrb1FQQjdaS2lnZWZTNmZkcEMydDFmdFV1VzBjODlrMzZJNWhTcmZHV00ydVl5QVpCWVNuUFRJYW9VZVQ0WkdobTF6b1Q2dmVlcS13cEhCenhKRjRWVEl6R3Bzd2MwRnVpTUoyZGo5Rm04blhnVG9QMlhWSHpWS2RDejhTV3VHYlpkNlpvdld3R095SDVHQ1FvMWhpNHM3UWd0NHdObEViSk1jRDV3cjBJWFIteHZnRVZlSG1VclZGaERUb1AyQW8zbFhSWEZoNlVKNUo1TURNRVU4UnhKaDVLYXhwbHdXa0huUGZhLWFtd2gtbDRLeWtTNDRBZF9z0gGGAkFVX3lxTE4tZTlXdzVNeno4SFQ1V0JKRmEwVnlmUHktNDJ1MldoN1RPRXVDUmd6azNxZ1UwTHVad3ppQU9CMzdFWGk2T0l0TktVeTN5OFhDaFFaalNlenRucFRveFk2S3hsc3RVb2N1Uk9hR1JwVmhqRWMtSlo1bUtXR1ZkWGs4VXNYcUhPNkp0Z094UGtYUXBHZ0JYNVdTM0NwTVNtZWxnVDhnaFFTMlhoYThFcTYxUmJmZkRGRWlYOHEwRXpaQWN6X2NyRkZtWHk2OWp1ZlpGV1FPWkl2NUZ0MTVWZXdaYmljUS1Sam1PRTRSaWlXWllobUJWUVlJWlZTanJwTUs4SFo0Y0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRGZ6aTJfaDlnYU80ZUFiU05KTVY4TFZiaWctemFOa0VLMjJNSl9XTGxVeTFyVC1jU05lWG1ESDN6WHg4WGFyOE53ckpES0xjOEc3X0s5aVlkeHl4Vko5M2gzcG11QktkdmRsdE9feHd1M203T3Z0MThKRjFmel92bUdpbFJDSWlFRFhKNWtub1BkRHFZMGRfdHdmd3ctbzQ0OW1mY3NxMm5MRC1qZnlvSGxfN1B1cGlrMmJGeGI3ekdGOFJEVEdZdkhpM3AtdFB5V0JpZDkwZ0tZdEI2OVJsZXRSWTRUSzBJZkdFMkV0Z1XSAfYBQVVfeXFMTXp6dno2a0wyLU00NHF4VWZEeDIxT255b2pJbU11U180TnAxLXZzTmhoWVZXaWJ1eDlxeE80VjNMNkdJUEhNMXNkNDFhSXZWWjMxMFlzWjJ2cXFRVk0yM0xka1JoNWd4MEIwYVpJNVludkVlLUhFM1JnTnE4emlpalI2N2RoOG5IY2N5LThadUJYR1JieFZ6RkNjejlHVFFUMm1URE1GeWZYaVlQbWZCNWd3Nko0TmZuTzZyWTF6OTR6RGlzZ0lCWU1GSUF0TTNtVmJhWHBwM0VPaE1jOV9IZjRrc0JzeW9DUGV2a3JJXzFhWEVFLU9n?oc=5",
       "source": "ANSA",
       "country": "Italia",
       "language": "Italiano",
@@ -53031,10 +53104,10 @@
       "cluster_size": 4,
       "origin": "search",
       "author": "Agenzia ANSA",
+      "author_url": "",
       "article_url": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/spacex-recupera-per-la-prima-volta-nella-storia-un-veicolo-spaziale_d061a5b5-9f2d-4539-9b90-45189df72084.html",
       "author_verified": true,
       "byline_checked_at": "2026-11-14T23:40:44.601513+00:00",
-      "author_url": "",
       "cluster_id": "10fb0ce3a183eea0",
       "cluster_sources": [
         "ANSA",
@@ -54717,7 +54790,7 @@
     {
       "id": "e56652b776976169",
       "title": "Recorde a oração do Papa no Santuário de S. Toribio de Mogrovejo, no Peru",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTzk3cXpyM01GV0UtLUJzYWhMZ1B4a19rMXd0LVBobzZyMml2eFBoanc3X05pd2pES05aaUQxR0U1cHRzYlVsWkpCS04zbmFPSWJ2QmRZcGxBQnBqM25La0dHeURXak1MSUpWcVdGSldRUUF0d3o0ZEVzTXJnRTcxWDFXS19QRFh0Nm81RjlpUHBZNDctNTBIaTI1OVBfWkxOaXRtc2lsa3ZsUUVzTFg2ODVTd1RURHdVV05oYUlYblJEelnSAcMBQVVfeXFMTk85N3F6cjNNRldFLS1Cc2FoTGdQeGtfazF3dC1QaG82cjJpdnhQaGp3N19OaXdqREtOWmlEMUdFNXB0c2JVbFpKQktOM25hT0lidkJkWXBsQUJwajNuS2tHR3lEV2pNTElKVnFXRkpXUVFBdHd6NGRFc01yZ0U3MVgxV0tfUERYdDZvNUY5aVBwWTQ3LTUwSGkyNTlQX1pMTml0bXNpbGt2bFFFc0xYNjg1U3dUVER3VVdOaGFJWG5SRHpZ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOW1sSUxVOGMyMTBhTHJLMUk3aDdrcmxYUWh1S0FqWlJHeklEQzk1ajhyR2l3NWIzU2Nja2FmUm84V2xTOWM5X3pTMl84M2RZaUtrdjAyVUZDSVBFU0s3Mm9HRnRZRzl0cnNqaU5vVG1XV2tjb21reHZZRTE5UVRpSkNXZE55NjRDeUtUcFYtSjR4Uzl2WUl5TDl6V0E1b2tiSjc3c09LSGNWRDVPbjQ0OWFVbFFpUFJjWVpiZEJ5QdIBwwFBVV95cUxOTzk3cXpyM01GV0UtLUJzYWhMZ1B4a19rMXd0LVBobzZyMml2eFBoanc3X05pd2pES05aaUQxR0U1cHRzYlVsWkpCS04zbmFPSWJ2QmRZcGxBQnBqM25La0dHeURXak1MSUpWcVdGSldRUUF0d3o0ZEVzTXJnRTcxWDFXS19QRFh0Nm81RjlpUHBZNDctNTBIaTI1OVBfWkxOaXRtc2lsa3ZsUUVzTFg2ODVTd1RURHdVV05oYUlYblJEelk?oc=5",
       "source": "Renascença",
       "country": "Portogallo",
       "language": "Português",
@@ -68773,6 +68846,23 @@
       ]
     },
     {
+      "id": "ffeea1c4b184c221",
+      "title": "Duffy, 'voli ritornano gradualmente alla normalità, ma ritardi proseguono'",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYW5DVHowYXFSMFBzWDM2NWdIajJ2NVBuQlo1dUpMN1RqR3hzY3MyUkpGNUp6ODI2WElPN1N4Y0tYUFpxcDZTVF9IZHZXM3p6alFYZzdrRHFGT1hHeUxYNWtaeXFaMEVZcXJoTE5ZLXNtT1FtLTBRRVMwVDktM0JEajlvN3V4QTA5Y25QNE1YWm95ZWNiNzJiSll6VGFNMEJTc2NkTUZtNkl5ZEJkNHc1aUdDMWFaMVJKb2ppOUMzZ3ZuXy1GZF9yS0djWlJiakszZ3VwMmJkcEx2RDUwU01fanFNWjFqMlg1UUVmOG10Y1I4Tkkw0gH6AUFVX3lxTE5hZVlSRHN3a1I0R2xCMGdYY3JYWVpudnhaa1Naemt0bXpfT2ZOWW0zY19TRzljWHNxbkdTU0xGeFMxc25Db2JNVjRPeUdJdVVXUHkyU2h5bHVNUEt1ZGx0NHpsdkpiVFZSZmZqU3Y5QWk2ZC1qbWpiS0VaQWlsODVVSnRFRFFfbnhHQkEwQ2FRYmJmTkJ3VlBqTjVLVXJqZVRFUkVVUHpFVmNpOWZlVmxTcS1uVjgtUFpEUnVMTW9tX2tsQzJFcGo3QTNXaGdIcm9FcFN5NVJnUVpyRGl0NjZkMGpOZm5JLURnUFBFSXUzYWx3M01oeTI4eGc?oc=5",
+      "source": "ANSA",
+      "country": "Italia",
+      "language": "Italiano",
+      "published": "2026-11-14T15:31:00+00:00",
+      "topic": "Attualità",
+      "kind": "news",
+      "cluster_size": 1,
+      "origin": "search",
+      "cluster_id": "ffeea1c4b184c221",
+      "cluster_sources": [
+        "ANSA"
+      ]
+    },
+    {
       "id": "a5e6781e6f47ef1a",
       "title": "Rejoining EU ‘would cost households £6.5k each over a decade’",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbkhUWHVGa3B3X2pObHlkdkdWV0JZaFIwNFpwcjVBcnFhcUpudTdoWkhiRUpqVFBxbHByalhBbmpLblc4VjhXXzdfZGxLSnBDSGZaTWtycWJ0RGdENzdUajVTODRPd0xGaEJLalp5WHVfU1lvRktKWlA0SExlcjBYeVpQT0daWGxMdmZrRVFndG9KQkR6R3ZDa08yNHBEWFg2MFczUWZLcw?oc=5",
@@ -77650,12 +77740,13 @@
       "published": "2026-11-14T12:15:06+00:00",
       "topic": "Abusi e tutela",
       "kind": "news",
-      "cluster_size": 2,
+      "cluster_size": 3,
       "origin": "search",
       "byline_checked_at": "2026-11-14T12:20:46.927332+00:00",
       "cluster_id": "556acc993fda9ae0",
       "cluster_sources": [
         "Cabo Mil Radio",
+        "Quadratín México",
         "Valores Religiosos"
       ]
     },
@@ -79680,28 +79771,6 @@
       ]
     },
     {
-      "id": "80967b81c5e08612",
-      "title": "Il pianista Grigory Sokolov torna a Bologna con due Sonate di Schubert e Brahms",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNUVdIWWlJcXBzbG9pZExQcWlHWW5keUd6T0t3T1FwOVp4dWxkSERWUGtzVUI4Q19jMGZsMFBreWdsWWtfWFB4REFUU1NPTFN4a0pmTUhCNEFCSVF5UXk0LTM2RGtSVnhxOFRIeXJiMjJJaXJINFdMOUpreHg0Zjg0a0JvelUyaXVjYzkxVXVVelN4M3Y2NUFnUHdWVjVFYVdCMm12OXpaLUVvcnBFLS1VUDM5WjM5WS1jRTFFajVKYWR1a1NnZWo5cnc4V1AwSDlrYVUyZWFWMzlJRmpUaFhHVjEtWW5NZVpsRjcxUFB6ZXR2eVFDV2Z4VUt0LWNlOXhPLWpRRlRvbk1zcDVT0gGSAkFVX3lxTE1RY2NzcUZaNy1jZDh3Q1BLTmI3bVlGM2FwbTh0bWdLVk9rTHdzX3RQaFNhbGhkUHlyZGNXT0lYQXR4LUVoSjM3Z1FkcnZGcjdON1hRdm5zWmo1a081U211eEJxczdSdXdZNW5jQm5mOWZILV9nVnRMS1dyaktHS2ZRN0FFS1ctU2s2MXhIcEI3WGs3NWF5VEpTa1VKa1dJYXlOZ3UtN0l3dzIyd1UxU0JrbE9hd3Z4bVZWMXhQdlRLV2t3RnJ5c0tCZ2x5ZEpvQ1pvektzT2ZZVUZWeWJDZkx3WndBOTBwY2FlQTRnMGlxMnhZUlUtVzlsZ1N1UGVSNXZoWnNjS092emFaclZtYkNNcVE?oc=5",
-      "source": "ANSA",
-      "country": "Italia",
-      "language": "Italiano",
-      "published": "2026-11-14T11:19:00+00:00",
-      "topic": "Attualità",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "search",
-      "author": "Agenzia ANSA",
-      "article_url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/14/il-pianista-grigory-sokolov-torna-a-bologna-con-due-sonate-di-schubert-e-brahms_27719675-6e4e-4c46-a565-8a6d03959342.html",
-      "author_verified": true,
-      "byline_checked_at": "2026-11-14T12:40:44.326812+00:00",
-      "author_url": "",
-      "cluster_id": "80967b81c5e08612",
-      "cluster_sources": [
-        "ANSA"
-      ]
-    },
-    {
       "id": "5ea6605ce1504a65",
       "title": "Pope Leo is on a lonely crusade to inspire AI to work for the good of humanity",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNFQ1TkJ1UW5odXNCTEowQnZCdmowTVI0X1ZPcllvYk53SlJzSVFudmtrbjhnZkRKSUM1MmlJYjNYMXY1MHpYdzk0MWJmd3FlZmVaU0YwVUMwOG1ubzJIUktiZHRLOU9pd2I5Y0VkRlU3ZTdud2gtLV9KQ1hDRTlrZlBycTJNaEdwME5HbXA2RFpTQ0poZW5tWGIwSDJBRFJycjhkdkk2SkZzamx1VFhPRGdiQQ?oc=5",
@@ -79874,50 +79943,6 @@
       ]
     },
     {
-      "id": "bb0e2514550e2c45",
-      "title": "Meloni, per la sinistra autonomi di serie B, noi aiutiamo chi rischia in proprio",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPdEdINU5tdTFrSzRkUDEyUUxnczRfUU9RYndWb1BVTS1NdDBiUWVsci1PZDRJNS1jc0F6cWFkWUd2ampWRkpBUlRYcXhLQjg0dmZobl9YZFlpcUF6T3Btc2lJSXZNZlM3Zjk0TExRMFJVdFBYazF6eGd4MjFGVTVhdDdzTi12cnFjV2ZUSUFOREphNkhuNkw1YWhUalpfRnpxbGZkTkVxUHpmWUJ1REo3YzFFd3VaazRPSkFkV1dHV3BCZXI4VWNSSzJIWldKblZBa29oOXNJMk1LaVNqM3pKTGdLLWQ3UVhvR1hCd2J6TWVXY0NjYVFzNXM5bkJXUHRlb1E?oc=5",
-      "source": "ANSA",
-      "country": "Italia",
-      "language": "Italiano",
-      "published": "2026-11-14T11:12:00+00:00",
-      "topic": "Attualità",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "search",
-      "author": "Agenzia ANSA",
-      "article_url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/meloni-per-la-sinistra-autonomi-di-serie-b-noi-aiutiamo-chi-rischia-in-proprio_d062a05e-3c0d-4ed5-819b-478eba04133b.html",
-      "author_verified": true,
-      "byline_checked_at": "2026-11-14T13:01:16.067302+00:00",
-      "author_url": "",
-      "cluster_id": "6e7d18a7aa4e68df",
-      "cluster_sources": [
-        "ANSA"
-      ]
-    },
-    {
-      "id": "065f538f6e6943b0",
-      "title": "A bordo di un'auto investono tre ragazzi e fuggono, uno è gravissimo",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQ0psbUJhTTQ0MEhrSjlvT2YzcVZJQngtLUxHQ1NUN0JyeEt0T1diV1FwNTZDUjNHb0NVR2d0MDBONjctSFJfOHFzOHlQeFZvczhoTjVBOE50dTZXaW1HS2UtaUUxdkYxZ1dmbWlMZ29yWnFRTjZUMF9JTFEzdnYyM0hvSzduUTNYLUp2MWVYYW5JMDVFZ0JGRWZiRmt3TGlISnh0QkhtbXhhaUZRZ3ZNdEdfOEw0dGF3NloyOWlYRms0N2lrWjFTcGVLbnF1T2RkbnQzWXpHNWNYcUo0YmYxVGRKdzRPSy1KcURSejJWeTFZZ9IB9wFBVV95cUxQejZNMm9EMDV0VXUtTEZKMlBCeE5HdC1oNFdCTWN3MzhoMXNBT0N6RnBPbWVnWnhoSkhENHM5M1cxQ0I0XzhFWHNBYW10Ui1kcVpPNWZZeWJUY2RKZy1BNTcxeHozd0NmaU10Vk9DOUZPdUlqNWd6ajVFZ2x2WGxEazVvbGl3Umh6MzhIR0NzNUxjLXVEV2RvYzhrQnNFRUkzV1NBZWVSdU9xYnNtX2tCZndveGlaWmVISG1jMXdtQVBaenQ0MmZ5bXVNWnVFM0E3VGJNS1VaaWx5b2tNVWxCSDB5eks1WVE5SG9zd0o0eFhrWXB3Qktv?oc=5",
-      "source": "ANSA",
-      "country": "Italia",
-      "language": "Italiano",
-      "published": "2026-11-14T11:12:00+00:00",
-      "topic": "Attualità",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "search",
-      "author": "Agenzia ANSA",
-      "article_url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/14/a-bordo-di-unauto-investono-tre-ragazzi-e-fuggono-uno-e-gravissimo_3884b674-1e8e-4787-93ed-b7cbdea8dc2b.html",
-      "author_verified": true,
-      "byline_checked_at": "2026-11-14T18:31:01.303293+00:00",
-      "author_url": "",
-      "cluster_id": "065f538f6e6943b0",
-      "cluster_sources": [
-        "ANSA"
-      ]
-    },
-    {
       "id": "9df786947fd8de34",
       "title": "ASEAN not easing Myanmar approach, bloc's special envoy says",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZUlYSHRWQW5NUFlBWEJONXVMVS03VHpBa19tZ0JiU0o2LXdnQTFiWkZlUzcyUlh5YTB6QkxaMVJIV21NemQ1T0kwTEhWY2o5ZTN0QUxCUUUtQkhTbGM4emVlbnY0UENjX3pmVXBWLWYza21yOU5QRm9UODh4VWpQUkJZYkNwRzBHWTZqaVNXRWx5QVllSko3UjFEQkpPQWVXX1M3WXdxY05uVnphYTVmcEtJcw?oc=5",
@@ -79991,28 +80016,6 @@
       "cluster_id": "f3c0331d4972330c",
       "cluster_sources": [
         "La Croix"
-      ]
-    },
-    {
-      "id": "4ba25c70acc2d703",
-      "title": "Il vincitore di The Voice Senior all'ospedale dove fu curato per tumore al seno",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNNmMxT1g0UWI4SFBXMU5pbGlJSXZ4SmwyWS1Ya1BSdHk4OTk3TWtvTGFrUDFwaHNERFk1cV9rVWJ6UWFwSDhhS3JEWms3ZTg0SmdQREZ0bllqMVlNRURleVhuaC1yWnFJTENqdFpxU0tiSjBsOUNTWUhGV29vekE5NmRCRnpoaGpTbkE4akQyWGx6LXF4UmlVZnNub0hzOVA3SlBCRTlzMFRxajcwRFdSbU9WaWdTNk0ybkNvR1AxUmZUSEtWODF0QTlSZmRhZzJmUGNHUnZ6R2lVVTFWRk93enphWkpyVF81aEhaZk1lRXhrWm9Db1ludXl0UnBlN0VYMHN1eU5n0gGLAkFVX3lxTE54S2QyZXBuTVR3RWZ5ZHJVTTUxSURQVTdUR3h4RGhaM0VVd1ViUUc0LS1aX3d5VGloN3lTUzg0NjlZd1JYNWkwU3FVTzBiNnB1TDh1U1JDSUpEOHRVelVyT0VzS0ZFeThvS0drd3dYTjI4b1JGYVJMdUNPaHdUd1FqZkhqTWZYVEFuUnhLdmx4Vkk2MjRSakRDOVpuMmc2dXNIV2dveU50NlBUSzRYUlAtZU03QnpiZzJOY1I5eVIyMS01RTBmYkZHVWxHNC1CWnVVdjN0dFVBY1RITGpQcWZtbXg3cExEVEhzOGFzZXFmR2FRTXEwc29xUFhKb3BDOGFGRnA5TXY1M1lHUQ?oc=5",
-      "source": "ANSA",
-      "country": "Italia",
-      "language": "Italiano",
-      "published": "2026-11-14T11:09:00+00:00",
-      "topic": "Attualità",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "search",
-      "author": "Agenzia ANSA",
-      "article_url": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/14/il-vincitore-di-the-voice-senior-allospedale-dove-fu-curato-per-tumore-al-seno_26744d05-333c-49e2-9b9b-90fb58ba19cb.html",
-      "author_verified": true,
-      "byline_checked_at": "2026-11-14T12:40:44.326812+00:00",
-      "author_url": "",
-      "cluster_id": "4ba25c70acc2d703",
-      "cluster_sources": [
-        "ANSA"
       ]
     },
     {
@@ -80329,7 +80332,9 @@
       "id": "f24a506af4841a84",
       "title": "Leone nella sua Chiclayo: “Che benedizione”",
       "url": "https://www.ilgiornale.it/news/vaticano/leone-nella-sua-chiclayo-che-benedizione/",
-      "source": "il Giornale",
+      "source": "Il Giornale",
+      "author": "Nico Spuntoni",
+      "author_url": "https://www.ilgiornale.it/autore/nico-spuntoni/",
       "country": "Italia",
       "language": "Italiano",
       "published": "2026-11-14T11:00:00+00:00",
@@ -80337,8 +80342,6 @@
       "kind": "news",
       "cluster_size": 1,
       "origin": "direct",
-      "author": "Nico Spuntoni",
-      "author_url": "https://www.ilgiornale.it/autore/nico-spuntoni/",
       "article_url": "https://www.ilgiornale.it/news/vaticano/leone-nella-sua-chiclayo-che-benedizione/",
       "author_verified": true,
       "byline_checked_at": "2026-11-14T11:10:44.855350+00:00",
@@ -80351,7 +80354,7 @@
       "author_search": true,
       "cluster_id": "f24a506af4841a84",
       "cluster_sources": [
-        "il Giornale"
+        "Il Giornale"
       ]
     },
     {
@@ -80593,28 +80596,6 @@
       ]
     },
     {
-      "id": "3d94debd4c18d7fc",
-      "title": "Forlì capitale dell’economia sociale: il festival di Confcooperative, E-ius e Fondazione Terzjus",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQbVdQT2t2STVCa3M4djdqTEpoRkFlWkFaRkQwVjVOYmxkaUdsZ014WFlreVlwQjNrc256Z2IwcE05N3pxbjB6ZjlNbjN1YWplY1NfNTdEcnloMzd0bDUwQnRzdWRSRXF2Z0tfOHpOWk4wSUFwRFJTOUQwRU9pcHdPQUYwcm0yWDh0NkFYQ1JQYXhjZFRWUGx6U2FhVUlqdU5ROUVfM0FXUm9WOC1BaDVLNHMxZ0M1d3RueUFIdnZIemhLeGZ2NXk4c1Mxek5Xc2JYOEp4aVRmbFFyelFxRGNUODhwdTFrZ3p0UllVNC0xRG9nVVoxTEZIX2NjYjh4NUxYa3VPczZrN1Q5aVEyTHpVakZBekZDNllwUDJyM0VR?oc=5",
-      "source": "ANSA",
-      "country": "Italia",
-      "language": "Italiano",
-      "published": "2026-11-14T10:59:00+00:00",
-      "topic": "Finanze",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "search",
-      "author": "Agenzia ANSA",
-      "article_url": "https://www.ansa.it/sito/videogallery/economia/2026/11/14/forli-capitale-delleconomia-sociale-il-festival-di-confcooperative-e-ius-e-fondazione-terzjus_ad51a47f-690c-4180-a921-3a9b21eee5fe.html",
-      "author_verified": true,
-      "byline_checked_at": "2026-11-14T12:10:39.086540+00:00",
-      "author_url": "",
-      "cluster_id": "3d94debd4c18d7fc",
-      "cluster_sources": [
-        "ANSA"
-      ]
-    },
-    {
       "id": "8b05a59b70476772",
       "title": "Casalini e Zenone OGGI 13 novembre alle 12.45. “Leone vuole cambiare rotta? Chi comanda in vaticano?”. VIDEO",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNnhydHVHZTVFYjhMMVpmajAtU1RlLVlWckVQeE44Rm10T09XOUdGMzVGR0pLTWk1el9KYVc1TUxfeFlHX3hqR1diYTlMeTBsUWxlTVpGanE1NkxmRGxWLXo2U2tuTFlNQTlfYlV5M2M5Z0hsSFhBd3g1QmluV29GdEI0TC1SWGx1c1owSHc2UFFQeTVmWHU4cFJieVJZTlhXcWs2UExvMkRsVk1xZ1NfaGpPUHlDMW9GTm5wVDIyNTl5UU9uTE5VdGlLWFVkWTF5d0dSelV5TWhwMk9NcXc?oc=5",
@@ -80765,28 +80746,6 @@
       ]
     },
     {
-      "id": "039dfa3cf70b317f",
-      "title": "Scontro auto-trattore nel Barese, muore un agricoltore 65enne",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUkh4d01NbVU3dVpOUER5ODIwZlMtalY1NHhZX19CdVl0RUNvZWZHeDdobFpmemhJcHFIcWhHUzRidG9YQUtBdzRWVHdkemp0STJWZ2FLODFLbEpBQ2UxRGc1VzE3MWZNR1Q3TlpLTWV4b3hibC1Famlfc09GcHZST0hKaDUxbkpOVmlpaTNOMXBkWl9iR2hUYy14eFo3SGZCclM1bFZtNG9seGFaT2VQeTdYeUlkaTlWeERPUnlPT2FxWm9UT2JKMklPT0c0TTZxQ0lHZzRtSFZCeGhnX3B2eTNn0gHnAUFVX3lxTFAtSWd5ODVtRU55OV9ra2phTXl2Z3AwekNKTzk5azBoaUFKcmpON3hXQzlQYWVWcVc4d01LZnhLYnhrQ1RjTmc5dEl6TnhvZ2dIdUJKMmVMQlo1NDNlSTFLbEl1UGtjNlFSaUVnM28yMGdFRFloSGZ3N0VhTzE2cnozaFJGVlczREpRSUNXYTBTV1Myc0xOOGRXVHlnQmhodjlibUpMb3lEUlljdnpPMGxaTG1MSDFORG9KYXhaWWpFWmJlWjM3bHRYWWstZlVwRmtIbkZVZHFfb0NsYlpZcktBQll6dkg1MA?oc=5",
-      "source": "ANSA",
-      "country": "Italia",
-      "language": "Italiano",
-      "published": "2026-11-14T10:55:00+00:00",
-      "topic": "Attualità",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "search",
-      "author": "Agenzia ANSA",
-      "article_url": "https://www.ansa.it/puglia/notizie/2026/11/14/scontro-auto-trattore-nel-barese-muore-un-agricoltore-65enne_6c5a9894-87a8-476d-86e8-d66dcfbaad0e.html",
-      "author_verified": true,
-      "byline_checked_at": "2026-11-14T13:01:16.067302+00:00",
-      "author_url": "",
-      "cluster_id": "039dfa3cf70b317f",
-      "cluster_sources": [
-        "ANSA"
-      ]
-    },
-    {
       "id": "6e0bf17469f859c7",
       "title": "“Visioni italiane”, lo sguardo è delle donne. Farinelli: “Svolta storica”",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTS1kSXUyV1pYRTFmMnFmelMyQXZfR0ZEMVFROFVDRlo5Q3JHcFZCSTl5OWxfUXI0Y3VhX0FVdkZuVExWN2lHX0szeXhkU2VIdElGZXJSSXV0czlybDEtN0VQLVpHZWUtYl9pekRvaFotMU13QTdQQ1QtRzJtaWlTZ2VOeDdwNC1qRGhZOFVrb1BfamVvN2tZT3VNT05XWGxLS0YyM2JmMk5tRlp6OEE?oc=5",
@@ -80871,28 +80830,6 @@
       ]
     },
     {
-      "id": "a78d5e2ed6fc00d4",
-      "title": "Tennis: WTA Finals, Sabalenka eliminata da Svitolina",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPOVlmMjM0YXpYZ3MyZnRiUjkwSmxWNTVNemtjRHNtdlFyT05QVm05eVhWeWZGYUo0aWhsSnFZSE9UQU4xMjNEdUdUVTVsYTB5WS11eXVzQVRWS21kRkhnT1p1ckJ5UTdDUjl6Z3JoWk5MMU9aSDZQTDh3NlZNMUsxRTFGYU5kWV9rYlBEdmtRTFIzdmdaZWZVZ3RMT2pWb0ZPbm1pWHYyT3VlNGVscUkwY29CTGlGM085OEgzamhUQ1YxUS1vWFhRMU1RbXhWQngxTDU5MWdaMmFDY2taNUJDTm1iZWZETjBSNUx1WXJsM3dFaTBhS055bmRuTDJQQdIBgwJBVV95cUxQcGlMVC11dHVXUHl2Z05xd3IxZVhwVFdPQzFNNTJEN3dnbC15OXo0QlZrSnh5cC14TnV3X3FqOTNQdGRkYTFNS0NxcUI5a1pydWtSRS1FbklFRkVNcE90RDZydEk0RFJRM1E5bXNkVE51NldocWNwYS1CdWFoTGpDeFRjTUs4MzRDNThGdS02X2ozbXRhQzdaSnVtOFljYWhkdXowYTdmQ3hBMi1TdEpzX1drY2JHV1ZOdEhDdnhFVTFvWDN4aXdxeDRwNF9SaTktYUVrQTA5VTVuU1VBbWlyWG9jb1JqRXhxb2ZhTXlZYWxNS3RCY2ltWHZ0dm5oMkZjY0Nj?oc=5",
-      "source": "ANSA",
-      "country": "Italia",
-      "language": "Italiano",
-      "published": "2026-11-14T10:53:00+00:00",
-      "topic": "Attualità",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "search",
-      "author": "Agenzia ANSA",
-      "article_url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/14/tennis-sabalenka-eliminata-nella-fase-a-gironi-delle-wta-finals-indian_aa915780-925d-4002-9654-6f679f765731.html",
-      "author_verified": true,
-      "byline_checked_at": "2026-11-14T02:40:40.569495+00:00",
-      "author_url": "",
-      "cluster_id": "a78d5e2ed6fc00d4",
-      "cluster_sources": [
-        "ANSA"
-      ]
-    },
-    {
       "id": "a049fcd4d068fa0a",
       "title": "L'abbraccio di Torino alle Finals: cosa significa l'evento per la città",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRGhOek5RNFgzYWZqRHFkVkViaWE3ODJtMzNzMFo2Uy1fN3BhbTktb1RCQkVDTjhHTDJVbi1nTnhVYlNZUDhGd0FveFFNdElSeS1QcnhUU2pITmRybDRfLTFMWEJMQzA3aDcta3k5RFVsRVVxakFTX1dOenlTTXR1N1FtQzJKbDBvMG1SMk56MFdza3RxdGRoX2JranV0X2lpRGFRSTJuX2R1bU1rRTg1R2JlbVk4eWxMNFNZdkVRZmg5YURYbm9qRGxzWmJtSk3SAc8BQVVfeXFMT0RoTnpOUTRYM2FmakRxZFZFYmlhNzgybTMzczBaNlMtXzdwYW05LW9UQkJFQ044R0wyVW4tZ054VWJTWVA4RndBb3hRTXRJUnktUHJ4VFNqSE5kcmw0Xy0xTFhCTEMwN2g3LWt5OURVbEVVcWpBU19XTnp5U010dTdRbUMySmwwbzBtUjJOejBXc2t0cXRkaF9ia2p1dF9paURhUUkybl9kdW1Na0U4NUdiZW1ZOHlsTDRTWXZFUWZoOWFEWG5vakRsc1pibUpN?oc=5",
@@ -80963,28 +80900,6 @@
         "National Catholic Register",
         "Vatican News",
         "voz.us"
-      ]
-    },
-    {
-      "id": "c94ab6e6c6a6cac3",
-      "title": "Anziano ucciso durante una truffa del falso carabiniere, due fermi",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMlFaUnFJZy1WU1dYYmRaT2dsQUd1RFRRWU5GMzZoNVBZa0phX0RtZGt5WkQwcXFKUUEzTG9mSzh2NDJ6UjRiSWlzLVZhTl9wUktWM2ZLNGkzSUpvZ3NoY0gwNnM3R2tIcjNYaExlY3RISzJEM09iOTlhUGViUVh1RHlINGo0Nk5MTk5Fd1VxYXVGSm53bWdITWJFcWo1SVFDM0VTVC1hNWh1WE1fOXltZmN6VnVscTFMbklFUDZCWDF5THk3TDd5WUJsb2JGSFVhdnFrb196V0gyaUJvekl2MUNUSC1YTnVoelR4aE1WLXk?oc=5",
-      "source": "ANSA",
-      "country": "Italia",
-      "language": "Italiano",
-      "published": "2026-11-14T10:51:00+00:00",
-      "topic": "Attualità",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "search",
-      "author": "Agenzia ANSA",
-      "article_url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/anziano-ucciso-durante-una-truffa-del-falso-carabiniere-due-fermi_230b814f-6a3c-467b-ba09-2391f3c424a0.html",
-      "author_verified": true,
-      "byline_checked_at": "2026-11-14T16:31:04.289919+00:00",
-      "author_url": "",
-      "cluster_id": "c94ab6e6c6a6cac3",
-      "cluster_sources": [
-        "ANSA"
       ]
     },
     {
@@ -81353,28 +81268,6 @@
       "cluster_id": "8200b9d7767ee527",
       "cluster_sources": [
         "Avvenire"
-      ]
-    },
-    {
-      "id": "71714a3a4ac7afe2",
-      "title": "Tajani, 'ho sempre detto che la manovra poteva essere migliorata in Parlamento'",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMTItWllDUnZzQS1NMVdDTGxDb1pESE5RclhnbEk4TEFNZUZQdXBzMXpjRTVtYTBRSGZhTjNfdWxyQnhoREt2UEtkd1FkWHpsbnVSQ0lBTmZnSHJtZzFrOS1sWkcwSWthVE9FQ2kwQWVjUkpFOEdVZ3kzT2ZnWDhjUUZ4X1g1enl2NXgxY0JWT3BXNmx5T05UdDNGaXFacXBwbEctYWZqajZVQzRtTG9rQWZubEc5SDBVVVRkQzltRmR3NkZXU0l2MjR4YkFTcDVGeWl6NmdNdDV5RUo4bEE0VWdqaUtIeXV3NkJfYllrUFJFa0FwM1BESnJ4S3VxWDQ?oc=5",
-      "source": "ANSA",
-      "country": "Italia",
-      "language": "Italiano",
-      "published": "2026-11-14T10:43:00+00:00",
-      "topic": "Attualità",
-      "kind": "news",
-      "cluster_size": 1,
-      "origin": "search",
-      "author": "Agenzia ANSA",
-      "article_url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/tajani-ho-sempre-detto-che-la-manovra-poteva-essere-migliorata-in-parlamento_ef23b892-6445-4107-88fb-57b29bd2714e.html",
-      "author_verified": true,
-      "byline_checked_at": "2026-11-14T11:20:42.231760+00:00",
-      "author_url": "",
-      "cluster_id": "71714a3a4ac7afe2",
-      "cluster_sources": [
-        "ANSA"
       ]
     },
     {
@@ -85989,7 +85882,7 @@
       "id": "cea0e9a71abe0c33",
       "title": "Papst: Mitwirkung der Laien in der Kirche ist kein Zugeständnis",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY01XVVR0S180TEh4bkRQekltaVlLcUhZRXh0RlRmWjZvUG5aZzV0d0ZrUi1reHphRERubG9nam9kVERJV0NnQXhCUkxqTGxEUlR6QWIxVUFpZ0p0aVJ0dnlTN2VrV3U2Mm1EdzQ2blZ2VGNSeWVrQmQ0S2p5QTVjekRtTTVBczNvdmN3dlFsdzdqRlRIUDdrUjRkOVNVYWs0ZUVObHpQMnU3SVE?oc=5",
-      "source": "katholisch.de",
+      "source": "Katholisch.de",
       "country": "Germania",
       "language": "Deutsch",
       "published": "2026-11-14T08:11:36+00:00",
@@ -86004,7 +85897,7 @@
       "author_url": "",
       "cluster_id": "cea0e9a71abe0c33",
       "cluster_sources": [
-        "katholisch.de"
+        "Katholisch.de"
       ]
     },
     {
@@ -87382,12 +87275,12 @@
       "article_url": "https://www.lapresse.it/video/2026/11/14/peru-papa-leone-xiv-torna-nella-sua-diocesi-di-chiclayo/",
       "author_verified": true,
       "byline_checked_at": "2026-11-15T03:31:05.109503+00:00",
-      "cluster_id": "6981fdc758fe9bec",
+      "cluster_id": "4752d1e5be4f544f",
       "cluster_sources": [
-        "ANSA",
+        "Avvenire",
+        "Corriere Roma",
         "Il Sole 24 ORE",
-        "LaPresse",
-        "la Repubblica"
+        "LaPresse"
       ]
     },
     {
@@ -87597,12 +87490,12 @@
       "author_verified": true,
       "byline_checked_at": "2026-11-14T07:10:41.582111+00:00",
       "author_url": "",
-      "cluster_id": "6981fdc758fe9bec",
+      "cluster_id": "4752d1e5be4f544f",
       "cluster_sources": [
-        "ANSA",
+        "Avvenire",
+        "Corriere Roma",
         "Il Sole 24 ORE",
-        "LaPresse",
-        "la Repubblica"
+        "LaPresse"
       ]
     },
     {
@@ -88321,26 +88214,6 @@
       ]
     },
     {
-      "id": "6981fdc758fe9bec",
-      "title": "Il Papa torna Padre Rob nella sua ex diocesi, bagno di folla a Chiclayo",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ0RBZFB4RU1PMUFjYzIxSFZtNThQcGh6NUxRbUdCU2VDZmJjcTNiUTBIN2NFX1JtWDFMYVNGUHNwY0dwV3cyUDN2bkl0RmxiZlNXcHZlbk5OYW9HYjh1Rm56OFVQcllRVGEwN1JBeXVxeElmR18wa1ZUeGJlbmp2dHNTTGdla2hvMGRiZ3hncmNLdGxsZXlYWWpoWjJyMmJlRWl0anhlTVlMbW4yLTVVUGFhWkNYa2M0OUdYTE9VTDd2U2k5eHgzb2VWbzBJY0hob2JSSlRrejdYUFhaeldORHJBNm10Z9IB6wFBVV95cUxQd0NmRENodXI4eVY1Zmp5Qy1RLVNadXl4Sm00Tl94YTZ1WTVFOTgtYWRMclFNUE0xNmVGaUNBS3VZZUppRm9NS0hrdDk4bXhSNGdUNk9xdzd4R2QwVGw0bGZqV295VzdKaXV4bXNlQzdpQnRId3ltQkJ6YWc0SGtnN0VGVXNrT01VSE81NmdCMDdMT3ZGRnY1X2o1SGxFY3ZDNkZOQWM5Z1o2bGFKcmtzeDBQVmhlZkNCbktzaFVMY2llclpXcV9rZ3FxdVc2d2hGLUVjSDk4Y2Z3dDJXOFBkSGlfc1Rha3lZWE5n?oc=5",
-      "source": "ANSA",
-      "country": "Italia",
-      "language": "Italiano",
-      "published": "2026-11-14T06:16:00+00:00",
-      "topic": "Attualità",
-      "kind": "news",
-      "cluster_size": 4,
-      "origin": "search",
-      "cluster_id": "6981fdc758fe9bec",
-      "cluster_sources": [
-        "ANSA",
-        "Il Sole 24 ORE",
-        "LaPresse",
-        "la Repubblica"
-      ]
-    },
-    {
       "id": "e0d19dd82c4001d3",
       "title": "Canada, US make progress on trade deal, Carney says",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOFV4SHZzV0VocU4wQzJyTFVCSGRUTlVPVkpkRTJYOVN6cXM2TTQ2SEhOLUQ0bVNZTW1OZ0xQMEpJT2Y5ZzJMZFFzcUlmYVRBQXlmSEdSdlhkTDVoclMwcjlMcFVIYkNTVjBtQ2RfdjdIMTVqWVdrU1FmMHdIZFRNTXRUekVvVkZleXlmSVZvN19pTmRsU3l5WWRvMzdEdw?oc=5",
@@ -88560,10 +88433,10 @@
       ]
     },
     {
-      "id": "03d395ed538c1a29",
+      "id": "0f8fb59c80a0b996",
       "title": "Las mejores fotos de la semana",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNa1FFTnoxbEhsV3d5dzJPcUNxOHhWMXdsQ3l6VG0wNG16RUVYbGlIR1R1Umh6NERCTlVHT3pzY1hTRHlxWnZaZXZwblZYQ1pIZ2FqWGQ5VHBFOVNMekZiS2hPWlVSWkZfRTc3OGJGRERkY3duMjFlZDM0eUJXOVF0RHRzWFpCb1BPSHRrenNuU2x3Nk1pYnhJb1ZFblVLSFZ2Mm4tbzlsOWdfUnFjZW1ldXl4TnFOcDlLSnViQnFwT3BqcjAxeTI2MnVuZ2lSWWxEMHZDVjZn0gHbAUFVX3lxTE4zTF8zWjZHc0I0WUN0dGV2VmhLU1I4S3FmN2tRV2xaaEN5MDlkbWlXT2RXVldzSV9GbUxTM1hSVzhkbWpKWXRxRTZZTWwwQVNBc2h1d1ZkR3dCYzZ2X2VsN09NNHJhZHFrU1ZyVnBxVmpIZVNrNV9mVlk4Wm5oTVREV01xeExPUnRlR2UtN2FBVm53NEpLNlhpWm1ZTVI4anhWX2lHMF9Xb0ZsemdyZ3pydFRxZFVEeXFLR2tTTXJtVFNTdlpJNHExU1dHQWlYZkNoQXkyRlFENVhaYw?oc=5",
-      "source": "Clarín",
+      "source": "Clarin.com",
       "country": "America Latina",
       "language": "Español",
       "published": "2026-11-14T06:03:15+00:00",
@@ -88583,10 +88456,10 @@
       ]
     },
     {
-      "id": "0f8fb59c80a0b996",
+      "id": "03d395ed538c1a29",
       "title": "Las mejores fotos de la semana",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNa1FFTnoxbEhsV3d5dzJPcUNxOHhWMXdsQ3l6VG0wNG16RUVYbGlIR1R1Umh6NERCTlVHT3pzY1hTRHlxWnZaZXZwblZYQ1pIZ2FqWGQ5VHBFOVNMekZiS2hPWlVSWkZfRTc3OGJGRERkY3duMjFlZDM0eUJXOVF0RHRzWFpCb1BPSHRrenNuU2x3Nk1pYnhJb1ZFblVLSFZ2Mm4tbzlsOWdfUnFjZW1ldXl4TnFOcDlLSnViQnFwT3BqcjAxeTI2MnVuZ2lSWWxEMHZDVjZn0gHbAUFVX3lxTE4zTF8zWjZHc0I0WUN0dGV2VmhLU1I4S3FmN2tRV2xaaEN5MDlkbWlXT2RXVldzSV9GbUxTM1hSVzhkbWpKWXRxRTZZTWwwQVNBc2h1d1ZkR3dCYzZ2X2VsN09NNHJhZHFrU1ZyVnBxVmpIZVNrNV9mVlk4Wm5oTVREV01xeExPUnRlR2UtN2FBVm53NEpLNlhpWm1ZTVI4anhWX2lHMF9Xb0ZsemdyZ3pydFRxZFVEeXFLR2tTTXJtVFNTdlpJNHExU1dHQWlYZkNoQXkyRlFENVhaYw?oc=5",
-      "source": "Clarin.com",
+      "source": "Clarín",
       "country": "America Latina",
       "language": "Español",
       "published": "2026-11-14T06:03:15+00:00",
@@ -92868,7 +92741,7 @@
       "published": "2026-11-14T00:28:00+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 2,
+      "cluster_size": 4,
       "origin": "search",
       "author": "Gian Guido Vecchi",
       "article_url": "https://roma.corriere.it/notizie/cronaca/26_novembre_13/papa-leone-chiclayo-peru-f8312efb-d0e9-498a-8f0c-c17c7507exlk_amp.shtml",
@@ -92879,7 +92752,9 @@
       "cluster_id": "4752d1e5be4f544f",
       "cluster_sources": [
         "Avvenire",
-        "Corriere Roma"
+        "Corriere Roma",
+        "Il Sole 24 ORE",
+        "LaPresse"
       ],
       "vaticanist_ids": [
         "11"
@@ -98600,7 +98475,7 @@
       "published": "2026-11-13T21:01:43+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 2,
+      "cluster_size": 4,
       "origin": "search",
       "author": "Giacomo Gambassi",
       "article_url": "https://www.avvenire.it/chiesa/partito-da-vescovo-torna-da-papa-leone-nella-sua-chiclayo-accolto-da-un-milione-e-mezzo-di-persone_115749",
@@ -98616,7 +98491,9 @@
       "cluster_id": "4752d1e5be4f544f",
       "cluster_sources": [
         "Avvenire",
-        "Corriere Roma"
+        "Corriere Roma",
+        "Il Sole 24 ORE",
+        "LaPresse"
       ]
     },
     {
@@ -98629,7 +98506,7 @@
       "published": "2026-11-13T21:01:43+00:00",
       "topic": "Nomine e Curia",
       "kind": "news",
-      "cluster_size": 2,
+      "cluster_size": 4,
       "origin": "search",
       "author": "Giacomo Gambassi",
       "article_url": "https://www.avvenire.it/chiesa/partito-da-vescovo-torna-da-papa-leone-nella-sua-chiclayo-accolto-da-un-milione-e-mezzo-di-persone_115749",
@@ -98639,7 +98516,9 @@
       "cluster_id": "4752d1e5be4f544f",
       "cluster_sources": [
         "Avvenire",
-        "Corriere Roma"
+        "Corriere Roma",
+        "Il Sole 24 ORE",
+        "LaPresse"
       ],
       "vaticanist_ids": [
         "113"
@@ -99611,15 +99490,16 @@
       "published": "2026-11-13T20:21:02+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 2,
+      "cluster_size": 3,
       "origin": "search",
       "author": "Hola News",
       "article_url": "https://holanews.com/la-emocion-se-apodera-de-la-primera-misa-del-papa-leon-xiv-en-peru-bajo-un-intenso-calor/",
       "author_verified": true,
       "byline_checked_at": "2026-11-13T18:50:44.826282+00:00",
       "author_url": "",
-      "cluster_id": "bbd0b160c56b1594",
+      "cluster_id": "93876c384bd6b39c",
       "cluster_sources": [
+        "ABC",
         "HolaNews",
         "Visión 360"
       ]
@@ -99827,15 +99707,16 @@
       "published": "2026-11-13T20:09:04+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 2,
+      "cluster_size": 3,
       "origin": "search",
       "author": "Visión 360",
       "article_url": "https://www.vision360.bo/noticias/2026/11/13/77132-la-emocion-se-apodera-de-la-primera-misa-del-papa-leon-xiv-en-peru-bajo-un-intenso-calor",
       "author_verified": true,
       "byline_checked_at": "2026-11-13T20:31:04.104129+00:00",
       "author_url": "",
-      "cluster_id": "bbd0b160c56b1594",
+      "cluster_id": "93876c384bd6b39c",
       "cluster_sources": [
+        "ABC",
         "HolaNews",
         "Visión 360"
       ]
@@ -100189,18 +100070,15 @@
       "published": "2026-11-13T20:00:57+00:00",
       "topic": "Papa Leone XIV",
       "kind": "news",
-      "cluster_size": 4,
+      "cluster_size": 1,
       "origin": "direct",
       "author": "Iacopo Scaramuzzi",
       "article_url": "https://www.repubblica.it/esteri/2026/11/13/news/papa_leone_xiv_peru_chiclayo_vescovo-425721617/?rss",
       "author_verified": true,
       "byline_checked_at": "2026-11-13T17:01:22.761459+00:00",
       "author_url": "",
-      "cluster_id": "6981fdc758fe9bec",
+      "cluster_id": "a481ce4821bd49bc",
       "cluster_sources": [
-        "ANSA",
-        "Il Sole 24 ORE",
-        "LaPresse",
         "la Repubblica"
       ],
       "vaticanist_ids": [
@@ -101044,7 +100922,7 @@
       "published": "2026-11-13T19:32:06+00:00",
       "topic": "Abusi e tutela",
       "kind": "news",
-      "cluster_size": 2,
+      "cluster_size": 3,
       "origin": "search",
       "author": "Noticias Cabo Mil",
       "article_url": "https://www.cabomil.net/post/el-papa-le%C3%B3n-xiv-se-re%C3%BAne-con-v%C3%ADctimas-de-abusos-de-iglesia-en-per%C3%BA",
@@ -101054,6 +100932,7 @@
       "cluster_id": "556acc993fda9ae0",
       "cluster_sources": [
         "Cabo Mil Radio",
+        "Quadratín México",
         "Valores Religiosos"
       ]
     },
@@ -101504,6 +101383,169 @@
       ]
     },
     {
+      "id": "97b7cd8610e930f6",
+      "title": "UK’s first Indian restaurant is this week’s hot topic",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON2xRUzRxOGY5SUNpem1heEIzZjdmbzJyajZ2Ui00UUNxVmFaQ2VCOEdxbnJtckxqdEJjXzBPQ25EUl90el82aEFTYno4LTVRek5YaWQ0M2NiT3g4aVZNNVNOREsxb2tJX2FZQU1JX0tESGs2dzljd0RoOUVWVjRIVWZYYTJXUUtTeVBnS0tXY0FXamYwcE5IU0pfa2l3d0ZMaGJJTlV0Zw?oc=5",
+      "source": "The Times",
+      "country": "Regno Unito",
+      "language": "English",
+      "published": "2026-11-13T19:16:07+00:00",
+      "topic": "Attualità",
+      "kind": "news",
+      "cluster_size": 1,
+      "origin": "search",
+      "author": "Rob Nash",
+      "article_url": "https://www.thetimes.com/comment/columnists/article/britain-first-indian-restaurant-veeraswamy-hb099gl5c",
+      "author_verified": true,
+      "byline_checked_at": "2026-11-13T22:20:54.488299+00:00",
+      "cluster_id": "97b7cd8610e930f6",
+      "cluster_sources": [
+        "The Times"
+      ]
+    },
+    {
+      "id": "2ea34c991bb1793b",
+      "title": "Basílica de São Pedro: 400 anos de sua dedicação ao culto",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VaG44dldGQkhGX3pkdXFuNThLMXI0azBzVlZwNzIxdWdQTkFVYVlhN3RvS3c4dk90WEZ3SkFPbFFjY2dPb3Mtand2WkdOVUNaYmc1SjBiRmtLaEdPU2RVcmszcEEwVElOYkM5NE5LVVZ0OEdSTEwtRmk5VQ?oc=5",
+      "source": "Portal A12",
+      "country": "Brasile",
+      "language": "Português",
+      "published": "2026-11-13T19:14:22+00:00",
+      "topic": "Attualità",
+      "kind": "news",
+      "cluster_size": 1,
+      "origin": "search",
+      "byline_checked_at": "2026-11-13T19:10:46.729964+00:00",
+      "cluster_id": "2ea34c991bb1793b",
+      "cluster_sources": [
+        "Portal A12"
+      ]
+    },
+    {
+      "id": "1003a1e5b62783ff",
+      "title": "Vaticano oferece almoço com Papa Leão XIV e sorvete grátis para 1.300 moradores de rua",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSlVWckVYTmxmcFVqeF9BWkZiNlpWd3NmbGxPWHdYY2JpZEVjOTBXYXVUVUd0UHE2eWs5MVJaWDJ5VGFVVkpZTEZvZk9HQmRkd090dldZaXBlQ0ZkeFFnYUFHcHNra3I2SkFHck9UeFVJbmx1R0NJOWRQTHhlc2F1d1FTclNCM3hyenByOV9pYnJMT0EtUFk0dzA4eWdPdjRYQUV6U2M4RjdpQkJqMk01QXM1enFSV0Y4UHlRQzBqQmpyejg?oc=5",
+      "source": "Gazeta do Povo",
+      "country": "Brasile",
+      "language": "Português",
+      "published": "2026-11-13T19:07:00+00:00",
+      "topic": "Attualità",
+      "kind": "news",
+      "cluster_size": 1,
+      "origin": "search",
+      "author": "Catholic News Agency ",
+      "article_url": "https://www.gazetadopovo.com.br/mundo/vaticano-oferece-almoco-com-papa-leao-xiv-e-sorvete-gratis-para-1-300-moradores-de-rua/",
+      "author_verified": true,
+      "byline_checked_at": "2026-11-13T19:20:46.397283+00:00",
+      "cluster_id": "1003a1e5b62783ff",
+      "cluster_sources": [
+        "Gazeta do Povo"
+      ]
+    },
+    {
+      "id": "93876c384bd6b39c",
+      "title": "La emoción se apodera de la primera misa del papa León XIV en Perú bajo un intenso calor",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYUlpbzExZ2xLZzBWR2hfclBKc3dFY0lSbU93OENhUEV0STlvRWFldzVlSHk1RnlHb1AtUDNKdWJzem5rNEppWUlhaFRydk9qYnZack5fZDN3QjFGQjV5V1NVc3c3bndMOWlHVDMyb1dsY2p1RXhkaTFxUmpHWTdicVNoRzBKTklJN204UEdrUjg3Z1Vmc2pGQ9IBngFBVV95cUxOa1dLdGdOTFh3QTVldnpvMHpBcjZTZ0s5Yng5d2ZHNHRPSW5pMXdfN1ZWN0NhX3pDNE93bjhGUUU4QXpINXNPYkphU0xyRG02LTBCVUhJWVBobEdxU1hjb2RRdWk0aEZCZXE0TVk0eGMtMVhxZ2o0bFdkSlFfYnBNMVB5bHRLXy1iUS1mOThncnJCM0JKVm5hNXRRZTljZw?oc=5",
+      "source": "ABC",
+      "country": "Spagna",
+      "language": "Español",
+      "published": "2026-11-13T19:06:54+00:00",
+      "topic": "Papa Leone XIV",
+      "kind": "news",
+      "cluster_size": 3,
+      "origin": "search",
+      "author": "Agencia EFE",
+      "article_url": "https://www.abc.es/sociedad/emocion-apodera-primera-misa-papa-leon-xiv-20261113200650-nt.html",
+      "author_verified": true,
+      "byline_checked_at": "2026-11-13T19:31:07.366730+00:00",
+      "cluster_id": "93876c384bd6b39c",
+      "cluster_sources": [
+        "ABC",
+        "HolaNews",
+        "Visión 360"
+      ]
+    },
+    {
+      "id": "92e3219ddbe693fa",
+      "title": "Car bomb kills Russian soldier near St Petersburg in targeted assassination",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeTc3d1Y4aVlpb2M4Y2F1UFgzQVV3cTN4dWZnVWtTVi1UVk1NSWJvTnFpSmxvOUpmTlduOG9kOXRqM0F1bmFNWkZFMzlQWU1hSTJYNEF6S3JsZHp4Y1dLbGNIdWwtUU9LOGFYcWJOUXNmWThBUWFEeVJiTkY3UlZIaW9tLUIwUUxYM0QyRkRueU41WFdwMHZPemJITVBtY2k3S29zVm0zbkJZekVsa2RiVTBxUDZ3YnFVempHbGhRYmZXS0RXTUFn?oc=5",
+      "source": "Reuters",
+      "country": "Regno Unito",
+      "language": "English",
+      "published": "2026-11-13T19:06:07+00:00",
+      "topic": "Attualità",
+      "kind": "news",
+      "cluster_size": 1,
+      "origin": "search",
+      "cluster_id": "92e3219ddbe693fa",
+      "cluster_sources": [
+        "Reuters"
+      ]
+    },
+    {
+      "id": "306b51edc28e8a8c",
+      "title": "UseTheNews #46 - Papst Leo XIV. auf Südamerikareise",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNXMwNl9mY1o4Y2pNVFhZUHloUWN4WFFuZklRTGFDQnR6eC1UQ1lubnVWcHhaam1La3F2b2YtNDZlSDRjNmRhU2ctMjBBU09YamNTcFlQRGx4OGRxU1hBMTNNZmdEMTdQT0VfQm1XZF85WGt3MGpsc1RZdW9Wbkc5NGRHY2hxTHdULVY0YkR3dkxkWHozalY3VFBnMkZOcUQ2TXk5NjdMOG82em8?oc=5",
+      "source": "Keystone SDA",
+      "country": "Germania",
+      "language": "Deutsch",
+      "published": "2026-11-13T19:05:08+00:00",
+      "topic": "Papa Leone XIV",
+      "kind": "news",
+      "cluster_size": 1,
+      "origin": "search",
+      "byline_checked_at": "2026-11-15T16:15:08.413161+00:00",
+      "cluster_id": "306b51edc28e8a8c",
+      "cluster_sources": [
+        "Keystone SDA"
+      ]
+    },
+    {
+      "id": "68bbf32a6c51a2f3",
+      "title": "Reúne León XIV en Perú a víctimas de abusos en la Iglesia",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUDVNRDlSX0FKc0w0djZVX0dqUkt2VWZKbVo2MnpDZHlaSUJZbmlnY0hFSFlWWk9FdXVxRkNpTjZndmpfdW5uT2wyUW1fZW1NX3ZVVVlKcE5YYTlra2laNnlyMEtrSTdqSGxnZHVLN081dVVsdHgwVUpDclJGRWFXa0d0alUxQ2NGYU5GUE5sVW9Yal81?oc=5",
+      "source": "Quadratín México",
+      "country": "Spagna",
+      "language": "Español",
+      "published": "2026-11-13T19:05:00+00:00",
+      "topic": "Abusi e tutela",
+      "kind": "news",
+      "cluster_size": 3,
+      "origin": "search",
+      "author": "Alejandra Reyes/Quadratín Hispano",
+      "article_url": "https://mexico.quadratin.com.mx/reune-leon-xiv-en-peru-a-victimas-de-abusos-en-la-iglesia/",
+      "author_verified": true,
+      "byline_checked_at": "2026-11-13T19:10:46.729964+00:00",
+      "author_url": "",
+      "cluster_id": "556acc993fda9ae0",
+      "cluster_sources": [
+        "Cabo Mil Radio",
+        "Quadratín México",
+        "Valores Religiosos"
+      ]
+    },
+    {
+      "id": "4ffa859c68cb333c",
+      "title": "Russia and Ukraine hold nearly 4 hours of US-mediated talks in Abu Dhabi",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdE9tUE9WT3FtYkNfcGpnMFZCZl9rNEZCYjhzdUFzaVdqSnFvcEt3WUMxbGtaUEFnTjhwMzlHLTJKYllFTjFWbmNKVDlnN1hZM1RFY25ZY2trWkh6TnM4MThQUDhrd1ZQMUdOeGlmX0l3T2ozb1lDaHNSMHRvbHJER2dRNVphcVNmN282NU1CbG9pNmJJODdZUngxNzhaOE9jT2VGWUxScDJJdmNBU3ZMLWZSTEptWTl0S1ExTkQ0em5vZlBVVHFkY2k3bGhxVkk?oc=5",
+      "source": "The Washington Post",
+      "country": "Stati Uniti",
+      "language": "English",
+      "published": "2026-11-13T19:04:52+00:00",
+      "topic": "Attualità",
+      "kind": "news",
+      "cluster_size": 1,
+      "origin": "search",
+      "author": "Bassam Hatoum | AP",
+      "article_url": "https://www.washingtonpost.com/world/2026/11/10/russia-ukraine-war-putin-zelenskyy-uae/f7f2e2f2-dcc4-11f1-912c-4fbb80d73f7f_story.html",
+      "author_verified": true,
+      "byline_checked_at": "2026-11-14T00:01:15.956110+00:00",
+      "cluster_id": "4ffa859c68cb333c",
+      "cluster_sources": [
+        "The Washington Post"
+      ]
+    },
+    {
       "id": "7713f8aa949f934f",
       "title": "The Friday Pillar Post - November 13, 2026",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NWDNpS0RPV0pmVDd6Z05leW5GT2pvbmZLVzBIMDVqSkh5NGZqV3hRM0tTWEI4b29CWGxwRjdTZjVMa3BRNFlqUUJTNE5mWi1IczZCdmJXTTU1TVdpUnd3bllJQndpR01iamo5NGtNRVg5RWpSNVE?oc=5",
@@ -101940,7 +101982,9 @@
       "id": "1ffb1e82acfd32ec",
       "title": "Leone torna a “casa” e condanna gli abusi",
       "url": "https://www.ilgiornale.it/news/vaticano/leone-torna-a-casa-e-condanna-gli-abusi/",
-      "source": "il Giornale",
+      "source": "Il Giornale",
+      "author": "Nico Spuntoni",
+      "author_url": "https://www.ilgiornale.it/autore/nico-spuntoni/",
       "country": "Italia",
       "language": "Italiano",
       "published": "2026-11-13T11:00:00+00:00",
@@ -101948,8 +101992,6 @@
       "kind": "news",
       "cluster_size": 1,
       "origin": "direct",
-      "author": "Nico Spuntoni",
-      "author_url": "https://www.ilgiornale.it/autore/nico-spuntoni/",
       "article_url": "https://www.ilgiornale.it/news/vaticano/leone-torna-a-casa-e-condanna-gli-abusi/",
       "author_verified": true,
       "byline_checked_at": "2026-11-13T11:20:49.987173+00:00",
@@ -101962,7 +102004,7 @@
       "author_search": true,
       "cluster_id": "1ffb1e82acfd32ec",
       "cluster_sources": [
-        "il Giornale"
+        "Il Giornale"
       ]
     },
     {
@@ -103251,7 +103293,9 @@
       "id": "eae056c9f440e2fc",
       "title": "Lizardo Estrada Herrera: “Lo aspettiamo a braccia aperte, è stato un maestro e amico”",
       "url": "https://www.ilgiornale.it/news/vaticano/lizardo-estrada-herrera-lo-aspettiamo-a-braccia-aperte-e-stato-un-maestro-e-amico/",
-      "source": "il Giornale",
+      "source": "Il Giornale",
+      "author": "Nico Spuntoni",
+      "author_url": "",
       "country": "Italia",
       "language": "Italiano",
       "published": "2026-11-12T11:00:00+00:00",
@@ -103259,8 +103303,6 @@
       "kind": "news",
       "cluster_size": 1,
       "origin": "direct",
-      "author": "Nico Spuntoni",
-      "author_url": "",
       "article_url": "https://www.ilgiornale.it/news/vaticano/lizardo-estrada-herrera-lo-aspettiamo-a-braccia-aperte-e-stato-un-maestro-e-amico/",
       "author_verified": true,
       "byline_checked_at": "2026-11-12T11:10:46.479745+00:00",
@@ -103273,7 +103315,7 @@
       "author_search": true,
       "cluster_id": "eae056c9f440e2fc",
       "cluster_sources": [
-        "il Giornale"
+        "Il Giornale"
       ]
     },
     {
@@ -103395,7 +103437,7 @@
     {
       "id": "36d9ee80f03fba63",
       "title": "El Papa se decantó por Octavi Vilà y la Iglesia catalana tras su viaje a Barcelona",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb2luRVpic1B2MEhzT29CMWpHcHhsUDdUN0JJNkE0YjEyQ1ZFYmlSdmU5ZzN0RUJUZnNaQ2RQcE5NRWhtd0FwWGkxVHlHQndTQXc3bEZmemRHZEpLVGdTdW16S0FKR2R6R3F4VmxlNjd1eWZCakJKVFdGZnY3dXRBUmVhYWw3am1aeGQtZEItbTBBb3dmNTFYX29heEIzNjV4aWZaRjhoU1pCVmEwSXlUWDVYTGrSAboBQVVfeXFMTXY3QXJGY2dGc3dfd3lhV25UUzZ0QV9tTy1sbzdiX2pDX2t0R0VESmRRbVZYSDBUSXVySG5YU1ZkS1hBeTZOaXlrUmprTnZxWWJuZFUtd0dsX2d6NHRfTnVEeVlmNjlYTEFaVGlmNUU4RlU2aTM1bVBqdnJyTUMyMFhpWElrZE1VN2xQaGRNTWlaby1Tc1ZISXdkX2FrM2puVm1wVXlqVzdxV0ZPYWc0MExiRzA2UFA3NHd3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdjdBckZjZ0Zzd193eWFXblRTNnRBX21PLWxvN2JfakNfa3RHRURKZFFtVlhIMFRJdXJIblhTVmRLWEF5Nk5peWtSamtOdnFZYm5kVS13R2xfZ3o0dF9OdUR5WWY2OVhMQVpUaWY1RThGVTZpMzVtUGp2cnJNQzIwWGlYSWtkTVU3bFBoZE1NaVpvLVNzVkhJd2RfYWszam5WbXBVeWpXN3FXRk9hZzQwTGJHMDZQUDc0d3fSAboBQVVfeXFMTXY3QXJGY2dGc3dfd3lhV25UUzZ0QV9tTy1sbzdiX2pDX2t0R0VESmRRbVZYSDBUSXVySG5YU1ZkS1hBeTZOaXlrUmprTnZxWWJuZFUtd0dsX2d6NHRfTnVEeVlmNjlYTEFaVGlmNUU4RlU2aTM1bVBqdnJyTUMyMFhpWElrZE1VN2xQaGRNTWlaby1Tc1ZISXdkX2FrM2puVm1wVXlqVzdxV0ZPYWc0MExiRzA2UFA3NHd3?oc=5",
       "source": "La Vanguardia",
       "country": "Spagna",
       "language": "Español",
@@ -104143,7 +104185,9 @@
       "id": "872902fd1bcb804b",
       "title": "Leone XIV in Argentina: tra gli orfani di Bergoglio",
       "url": "https://www.ilgiornale.it/news/vaticano/leone-xiv-in-argentina-tra-gli-orfani-di-bergoglio/",
-      "source": "il Giornale",
+      "source": "Il Giornale",
+      "author": "Nico Spuntoni",
+      "author_url": "https://www.ilgiornale.it/autore/nico-spuntoni/",
       "country": "Italia",
       "language": "Italiano",
       "published": "2026-11-11T11:00:00+00:00",
@@ -104151,8 +104195,6 @@
       "kind": "news",
       "cluster_size": 1,
       "origin": "direct",
-      "author": "Nico Spuntoni",
-      "author_url": "https://www.ilgiornale.it/autore/nico-spuntoni/",
       "article_url": "https://www.ilgiornale.it/news/vaticano/leone-xiv-in-argentina-tra-gli-orfani-di-bergoglio/",
       "author_verified": true,
       "byline_checked_at": "2026-11-11T11:30:58.235551+00:00",
@@ -104165,7 +104207,7 @@
       "author_search": true,
       "cluster_id": "872902fd1bcb804b",
       "cluster_sources": [
-        "il Giornale"
+        "Il Giornale"
       ]
     },
     {
@@ -105010,16 +105052,16 @@
       "id": "120d5c2300293515",
       "title": "Buenos Aires, in 2,5 milioni per Papa Leone",
       "url": "https://www.ilgiornale.it/news/vaticano/buenos-aires-in-25-milioni-per-papa-leone/",
-      "source": "il Giornale",
+      "source": "Il Giornale",
+      "author": "Nico Spuntoni",
+      "author_url": "",
       "country": "Italia",
       "language": "Italiano",
       "published": "2026-11-10T11:00:00+00:00",
       "topic": "Attualità",
       "kind": "news",
-      "cluster_size": 1,
+      "cluster_size": 2,
       "origin": "direct",
-      "author": "Nico Spuntoni",
-      "author_url": "",
       "article_url": "https://www.ilgiornale.it/news/vaticano/buenos-aires-in-25-milioni-per-papa-leone/",
       "author_verified": true,
       "byline_checked_at": "2026-11-10T11:10:46.879633+00:00",
@@ -105032,6 +105074,7 @@
       "author_search": true,
       "cluster_id": "120d5c2300293515",
       "cluster_sources": [
+        "Il Giornale",
         "il Giornale"
       ]
     },
@@ -105482,7 +105525,7 @@
       "published": "2026-11-09T11:00:00+00:00",
       "topic": "Attualità",
       "kind": "news",
-      "cluster_size": 1,
+      "cluster_size": 2,
       "origin": "search",
       "author": "Serena Sartini",
       "article_url": "https://www.ilgiornale.it/news/vaticano/un-leone-che-ci-unisce-buenos-aires-saluta-il-papa/",
@@ -105498,6 +105541,7 @@
       "author_search": true,
       "cluster_id": "120d5c2300293515",
       "cluster_sources": [
+        "Il Giornale",
         "il Giornale"
       ]
     },
@@ -105505,7 +105549,9 @@
       "id": "e1a98c188fcf92ed",
       "title": "Prevost da Milei con l’ombra di Bergoglio",
       "url": "https://www.ilgiornale.it/news/vaticano/prevost-da-milei-con-lombra-di-bergoglio/",
-      "source": "il Giornale",
+      "source": "Il Giornale",
+      "author": "Nico Spuntoni",
+      "author_url": "https://www.ilgiornale.it/autore/nico-spuntoni/",
       "country": "Italia",
       "language": "Italiano",
       "published": "2026-11-09T11:00:00+00:00",
@@ -105513,8 +105559,6 @@
       "kind": "news",
       "cluster_size": 1,
       "origin": "direct",
-      "author": "Nico Spuntoni",
-      "author_url": "https://www.ilgiornale.it/autore/nico-spuntoni/",
       "article_url": "https://www.ilgiornale.it/news/vaticano/prevost-da-milei-con-lombra-di-bergoglio/",
       "author_verified": true,
       "byline_checked_at": "2026-11-09T11:31:00.226787+00:00",
@@ -105527,7 +105571,7 @@
       "author_search": true,
       "cluster_id": "e1a98c188fcf92ed",
       "cluster_sources": [
-        "il Giornale"
+        "Il Giornale"
       ]
     },
     {
@@ -105808,13 +105852,13 @@
         "a52f96fc86ca96b7",
         "16ecfa977ad1c1b6",
         "3594c4daea39ef72",
+        "6bf161220193863c",
+        "ab8777278ae46b0c",
         "7d4f780f80fcbd7c",
         "6222189b3f2ea5d2",
         "63913b0decf38c45",
-        "ab8777278ae46b0c",
         "b05416775ab1e205",
         "b18a1d6fa2c54b3b",
-        "6bf161220193863c",
         "20022096a35730e4",
         "f1754671916ceccb",
         "0e8e3fc6a8637b78",
@@ -105987,7 +106031,7 @@
       "country": "Italia",
       "source": "La Stampa",
       "group": "Testata",
-      "count": 57,
+      "count": 56,
       "last_seen": "2026-11-15T21:43:00+00:00",
       "item_ids": [
         "0d7af9d7a2d8e4cd",
@@ -106006,7 +106050,6 @@
         "a1d4267882b89103",
         "1d7ede06924aad0b",
         "eb82e9eba03c7e04",
-        "ed22dd0a53269072",
         "3d0ae6c362513146",
         "99c3d2de77c17fc4",
         "63d8bd45f522fe67",
@@ -106457,7 +106500,7 @@
       "country": "Italia",
       "source": "La Nuova Bussola Quotidiana",
       "group": "Testata",
-      "count": 23,
+      "count": 22,
       "last_seen": "2026-11-15T23:09:48+00:00",
       "item_ids": [
         "1d334493c1de3587",
@@ -106469,7 +106512,6 @@
         "0cd2b4bb98a8cb14",
         "72adc41ce0b91a27",
         "1de9fa1cec8b2989",
-        "5192959c04c6c313",
         "8ecd9fd06e1f534f",
         "8a1f4253fe831edf",
         "4d445eb5da854e8c",
@@ -106565,7 +106607,7 @@
       "country": "Italia",
       "source": "Il Messaggero",
       "group": "Testata",
-      "count": 147,
+      "count": 146,
       "last_seen": "2026-11-16T00:30:04+00:00",
       "item_ids": [
         "178d7725db6ae4b4",
@@ -106617,7 +106659,6 @@
         "30c0be201f45148a",
         "d7f009f0bf02abfa",
         "33a07de57b0b0135",
-        "46bf02d848c07d4b",
         "22002f009cfb421e",
         "53d2471ef3d72991",
         "d457e908602ab9b2",
@@ -106758,9 +106799,9 @@
       "last_seen": "2026-11-15T23:02:11+00:00",
       "item_ids": [
         "e0d48cd5ef5e4afe",
+        "dcbd220d3f6bb38f",
         "1c029b614c6c25bc",
         "27d576bddfa17fbc",
-        "dcbd220d3f6bb38f",
         "60fd2803586c0905",
         "a9471e8ce7cf04e8",
         "f784e3cf2865bb1f",
@@ -106918,7 +106959,7 @@
       "country": "America Latina",
       "source": "TN",
       "group": "Testata",
-      "count": 36,
+      "count": 34,
       "last_seen": "2026-11-15T21:55:55+00:00",
       "item_ids": [
         "90a1cbef4039e912",
@@ -106933,8 +106974,6 @@
         "dd4e8d81c259e060",
         "a6184d17fcdc59df",
         "8a713159e88f9bdf",
-        "9598cbd429bb794b",
-        "29999cd4bad92196",
         "1548c78dc79e08cb",
         "8c0d5bed29b3a1d4",
         "6578cafd5740b673",
@@ -106999,8 +107038,8 @@
         "9521ac66924dd2cb",
         "4f4269764cc1b42e",
         "54f9c59529a5dc1b",
-        "03d395ed538c1a29",
         "0f8fb59c80a0b996",
+        "03d395ed538c1a29",
         "1f34bd18d4b9731b",
         "3c294fc4a3f3243e",
         "0a56d5378d9f1a13",
@@ -107191,7 +107230,7 @@
       "country": "Stati Uniti",
       "source": "The Washington Post",
       "group": "Testata",
-      "count": 44,
+      "count": 45,
       "last_seen": "2026-11-15T22:39:24+00:00",
       "item_ids": [
         "fa5ab24f1c85ffc9",
@@ -107237,6 +107276,7 @@
         "8158f6dbb58f9b9e",
         "fe4d4db6f6afb397",
         "c37f593d8642ed21",
+        "4ffa859c68cb333c",
         "00cec6e7b916f289"
       ]
     },
@@ -107458,7 +107498,7 @@
       "country": "Francia",
       "source": "La Croix / La Croix International",
       "group": "Testata",
-      "count": 135,
+      "count": 133,
       "last_seen": "2026-11-16T00:51:27+00:00",
       "item_ids": [
         "e16a6514068f9ea7",
@@ -107496,8 +107536,6 @@
         "79e15a0b03e0a8a1",
         "e7e8d0ba596415e4",
         "22bf756788867a7a",
-        "3bde3aba67d14043",
-        "fa6fcc1b496290b9",
         "21f045c7624f1cd3",
         "416a6f759190f276",
         "4dc2b9e9d3c99953",
@@ -107786,7 +107824,7 @@
       "country": "Spagna",
       "source": "ABC",
       "group": "Testata",
-      "count": 75,
+      "count": 76,
       "last_seen": "2026-11-16T01:19:42+00:00",
       "item_ids": [
         "7c53e24b0ca56d49",
@@ -107863,7 +107901,8 @@
         "769d35de125d5095",
         "4622da125989b625",
         "827d434fb757d02a",
-        "1fdc6d55f99e1194"
+        "1fdc6d55f99e1194",
+        "93876c384bd6b39c"
       ]
     },
     {
@@ -108412,8 +108451,8 @@
         "3cefbbd292a4333a",
         "a2741701dd2ac2f2",
         "c292794d6c21f76f",
-        "fb199cbd6c116d95",
         "2487e906f77b2fc7",
+        "fb199cbd6c116d95",
         "5edac7ebf079cf44",
         "f3502c9285a922fc",
         "548496c96052c1d1",
@@ -108511,7 +108550,7 @@
       "country": "Regno Unito",
       "source": "The Times",
       "group": "Testata",
-      "count": 7,
+      "count": 8,
       "last_seen": "2026-11-16T00:58:00+00:00",
       "item_ids": [
         "dca5ec31fd14a632",
@@ -108520,7 +108559,8 @@
         "943d50e4b574d93e",
         "ef052b9446c28b31",
         "3a33617deb28b582",
-        "14b50bf5870446a4"
+        "14b50bf5870446a4",
+        "97b7cd8610e930f6"
       ]
     },
     {
@@ -108762,8 +108802,9 @@
       "source": "ANSA",
       "group": "Agenzia",
       "count": 180,
-      "last_seen": "2026-11-15T23:01:29+00:00",
+      "last_seen": "2026-11-16T00:34:00+00:00",
       "item_ids": [
+        "4263f145c2c2da09",
         "24932f39f415c7ca",
         "b99ed66d6886d17f",
         "33c7100997afc6ae",
@@ -108782,11 +108823,15 @@
         "75f989cab6e8438c",
         "bdda81cef06fbe52",
         "0970ee6da9d4af4e",
+        "60cdc497555f3046",
         "40e965bcb20c9a5b",
         "4fb8a26fa5324685",
         "04dae43c10c6f824",
+        "07342d417eaf73f6",
         "b5437765cfd5fcd4",
+        "6e5c2c4a0fa3054b",
         "12b51c04a877dc30",
+        "8739cefe7801c79d",
         "706224110d990cc9",
         "5e258ac4ff20c637",
         "9ce845bed8f9ab7a",
@@ -108797,14 +108842,19 @@
         "b2751c270a82b187",
         "903d37ac8faa32e4",
         "89d8e1a72c9d6d88",
+        "5b3416ad6e4c1da6",
         "9da9512ab100dd29",
         "e81cd05a8f51b9fe",
         "416675b5e5439b3e",
         "df987ee932cf3393",
         "9a4cb3a3d19a747d",
+        "68b6737541ffeaf9",
         "45bb7d8af8b41705",
         "a087d94c03cfc19f",
+        "8416b465b5af0c2d",
+        "8df776d8ce6a8b42",
         "b4ccbb99c1d4721c",
+        "06210e5e6640dafb",
         "fa9128a707c536f5",
         "32d8fa6fb7ef3188",
         "e16b6a78305e71be",
@@ -108838,7 +108888,6 @@
         "57107e790340bd1e",
         "43df131bcec45e30",
         "0341e7bf2c5d1dff",
-        "31fa129e2be6e39b",
         "5801c79142119182",
         "c72977e974ed52f4",
         "4b3e5c9b9663ee44",
@@ -108882,6 +108931,7 @@
         "29f0d0edffe463a7",
         "a3b65eb52d21cccf",
         "9c15ca018b4d6892",
+        "ffeea1c4b184c221",
         "6c2fdb036e96490e",
         "4d77539a991e2fa1",
         "996be250897b1e52",
@@ -108933,16 +108983,6 @@
         "4dfa6df79abb7865",
         "f197ee4dc1cc1606",
         "ae732c1043b1f102",
-        "80967b81c5e08612",
-        "bb0e2514550e2c45",
-        "065f538f6e6943b0",
-        "4ba25c70acc2d703",
-        "3d94debd4c18d7fc",
-        "039dfa3cf70b317f",
-        "a78d5e2ed6fc00d4",
-        "c94ab6e6c6a6cac3",
-        "71714a3a4ac7afe2",
-        "6981fdc758fe9bec",
         "4557c6bea6652596"
       ]
     },
@@ -109021,7 +109061,7 @@
       "country": "Regno Unito",
       "source": "Reuters",
       "group": "Agenzia",
-      "count": 51,
+      "count": 52,
       "last_seen": "2026-11-16T00:03:00+00:00",
       "item_ids": [
         "f4ad59477ee73ae5",
@@ -109074,7 +109114,8 @@
         "69512f658a277d09",
         "2480577916931235",
         "6b99e1ddfe1d71c9",
-        "110283d6ccaa0074"
+        "110283d6ccaa0074",
+        "92e3219ddbe693fa"
       ]
     },
     {
@@ -109092,8 +109133,8 @@
         "40b1c380f8bf7125",
         "98e7ed3c3679bef9",
         "374f78711348c778",
-        "d92e659e4a67d0e2",
         "dd2af9feed36ce6e",
+        "d92e659e4a67d0e2",
         "7fd29d405108dfa2",
         "82de6dddab94de49",
         "3518cca2f5198467",
