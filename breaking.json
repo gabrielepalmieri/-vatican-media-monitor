@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-16T05:05:17.599158+00:00",
+  "updated_at": "2026-11-16T05:10:24.622127+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-16T05:05:17.599158+00:00"
+      "checked_at": "2026-11-16T05:10:24.622127+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-16T05:05:17.599158+00:00"
+      "checked_at": "2026-11-16T05:10:24.622127+00:00"
     }
   },
   "items": [
+    {
+      "id": "b9db972a608efc1278d8",
+      "source": "BBC News",
+      "title": "Wife of assassinated ex-Haitian leader registers for presidential election",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T05:06:59+00:00"
+    },
     {
       "id": "9b956ee11f9a6500b63c",
       "source": "TGcom24",
@@ -73,13 +80,6 @@
       "title": "Papa Leone XIV in Amazzonia: \"Il grido della terra e dei poveri si levano insieme\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/papa-leone-xiv-cusco-peru-folla_119013657-202602k.shtml",
       "published": "2026-11-15T22:30:00+00:00"
-    },
-    {
-      "id": "7e942f902c675b8b1a16",
-      "source": "BBC News",
-      "title": "Police ban protests near 10 schools and five universities in Paris",
-      "url": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-15T22:28:54+00:00"
     },
     {
       "id": "7c780ad9aa0548f450bb",
