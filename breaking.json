@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-16T14:55:21.796278+00:00",
+  "updated_at": "2026-11-16T15:01:02.189609+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-16T14:55:21.796278+00:00"
+      "checked_at": "2026-11-16T15:01:02.189609+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-16T14:55:21.796278+00:00"
+      "checked_at": "2026-11-16T15:01:02.189609+00:00"
     }
   },
   "items": [
+    {
+      "id": "d83bdc4d9efaf8197e45",
+      "source": "BBC News",
+      "title": "Raye, Rosalia and Dolly Parton recognised in Grammy nominations",
+      "url": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T14:48:55+00:00"
+    },
     {
       "id": "aa545b5ff3d02ce18a49",
       "source": "TGcom24",
@@ -94,13 +101,6 @@
       "title": "Salerno, 88enne uccide la moglie malata e poi tenta il suicidio",
       "url": "https://www.tgcom24.mediaset.it/cronaca/salerno-serre-uccide-moglie-malata-poi-tenta-suicidio_119044498-202602k.shtml",
       "published": "2026-11-16T11:32:00+00:00"
-    },
-    {
-      "id": "fb3aafcec53e6f17ca6a",
-      "source": "BBC News",
-      "title": "Klopp says Infantino worse than Blatter",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T11:27:08+00:00"
     },
     {
       "id": "c1e71d0612c5fe629aa1",
