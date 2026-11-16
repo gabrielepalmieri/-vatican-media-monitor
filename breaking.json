@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-16T19:49:42.706938+00:00",
+  "updated_at": "2026-11-16T19:50:34.126335+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-16T19:49:42.706938+00:00"
+      "checked_at": "2026-11-16T19:50:34.126335+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-16T19:49:42.706938+00:00"
+      "checked_at": "2026-11-16T19:50:34.126335+00:00"
     }
   },
   "items": [
+    {
+      "id": "49e880d6f8923b22e671",
+      "source": "TGcom24",
+      "title": "Frosinone, donna trovata morta in casa: fermato il marito",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/frosinone-donna-morta-marito_119052635-202602k.shtml",
+      "published": "2026-11-16T19:45:00+00:00"
+    },
     {
       "id": "cd08282ceb9095a3f362",
       "source": "BBC News",
@@ -283,13 +290,6 @@
       "title": "Ia, media: \"Usa e alleati firmano accordo per tutelare la supply chain dalla Cina\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/intelligenza-artificiale-ia-usa-cina_119031759-202602k.shtml",
       "published": "2026-11-16T06:05:00+00:00"
-    },
-    {
-      "id": "48eebeade9a727491d06",
-      "source": "TGcom24",
-      "title": "Pechino conferma l'incontro trilaterale tra Xi, Trump e Putin",
-      "url": "https://www.tgcom24.mediaset.it/mondo/pechino-trilaterale-xi-jinping-donald-trump-vladimir-putin_119031756-202602k.shtml",
-      "published": "2026-11-16T05:32:00+00:00"
     },
     {
       "id": "72ccb94370e49274b29d",
