@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-16T16:01:06.170094+00:00",
+  "updated_at": "2026-11-16T16:05:21.138673+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-16T16:01:06.170094+00:00"
+      "checked_at": "2026-11-16T16:05:21.138673+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-16T16:01:06.170094+00:00"
+      "checked_at": "2026-11-16T16:05:21.138673+00:00"
     }
   },
   "items": [
+    {
+      "id": "109db43240d27c4cb8ae",
+      "source": "BBC News",
+      "title": "Five EU countries announce migrant deportation centre in Rwanda",
+      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T16:03:24+00:00"
+    },
     {
       "id": "c65910a3ce7a774519f6",
       "source": "TGcom24",
@@ -80,13 +87,6 @@
       "title": "Meloni: \"Anche nel 2027 aumenti rinnovo contratti privati tassati al 5%\"",
       "url": "https://www.tgcom24.mediaset.it/2026/video/meloni-anche-nel-2027-aumenti-rinnovo-contratti-privati-tassati-al-5-_119048415-02k.shtml",
       "published": "2026-11-16T13:35:00+00:00"
-    },
-    {
-      "id": "109db43240d27c4cb8ae",
-      "source": "BBC News",
-      "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
-      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T12:54:44+00:00"
     },
     {
       "id": "5c4143ce2cbe207776c1",
