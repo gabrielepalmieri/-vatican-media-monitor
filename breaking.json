@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-16T09:40:24.841349+00:00",
+  "updated_at": "2026-11-16T09:45:35.206244+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-16T09:40:24.841349+00:00"
+      "checked_at": "2026-11-16T09:45:35.206244+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-16T09:40:24.841349+00:00"
+      "checked_at": "2026-11-16T09:45:35.206244+00:00"
     }
   },
   "items": [
+    {
+      "id": "d99adc4af0373b0af4de",
+      "source": "TGcom24",
+      "title": "Madrid: \"Nulla si può decidere sull'Ucraina senza la Spagna al tavolo\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-16-novembre_119032170-202602k.shtml",
+      "published": "2026-11-16T09:39:00+00:00"
+    },
     {
       "id": "fa6ea3a2499ad8525e70",
       "source": "BBC News",
@@ -297,13 +304,6 @@
       "title": "Usa, Trump scarica su Biden i problemi legati allo stop dei voli",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-caos-voli-cancellati_118989346-202602k.shtml",
       "published": "2026-11-15T14:25:00+00:00"
-    },
-    {
-      "id": "f13b8a2e72358f6afae8",
-      "source": "TGcom24",
-      "title": "Livorno, trovata morta sulle strisce: rintracciato l'uomo che l'ha investita",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/livorno-donna-morta-strada_119003399-202602k.shtml",
-      "published": "2026-11-15T13:58:00+00:00"
     },
     {
       "id": "c9077261e511a0fde22b",
