@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-16T23:20:25.190418+00:00",
+  "updated_at": "2026-11-16T23:25:31.085491+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-16T23:20:25.190418+00:00"
+      "checked_at": "2026-11-16T23:25:31.085491+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-16T23:20:25.190418+00:00"
+      "checked_at": "2026-11-16T23:25:31.085491+00:00"
     }
   },
   "items": [
+    {
+      "id": "109db43240d27c4cb8ae",
+      "source": "BBC News",
+      "title": "Five EU countries announce migrant deportation centre in Rwanda",
+      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T23:20:45+00:00"
+    },
     {
       "id": "6e950a74e83792699232",
       "source": "TGcom24",
@@ -122,13 +129,6 @@
       "title": "Un milione e mezzo di persone per l'ultima messa del Papa in Perù prima del rientro",
       "url": "https://www.tgcom24.mediaset.it/mondo/foto/papa-ultima-messa-peru-lima_119060022-202602k.shtml",
       "published": "2026-11-16T16:50:00+00:00"
-    },
-    {
-      "id": "109db43240d27c4cb8ae",
-      "source": "BBC News",
-      "title": "Five EU countries announce migrant deportation centre in Rwanda",
-      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T16:27:24+00:00"
     },
     {
       "id": "e3623ebee90cb961627b",
