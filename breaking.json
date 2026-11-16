@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-16T05:30:43.701004+00:00",
+  "updated_at": "2026-11-16T05:35:19.007141+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-16T05:30:43.701004+00:00"
+      "checked_at": "2026-11-16T05:35:19.007141+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-16T05:30:43.701004+00:00"
+      "checked_at": "2026-11-16T05:35:19.007141+00:00"
     }
   },
   "items": [
+    {
+      "id": "48eebeade9a727491d06",
+      "source": "TGcom24",
+      "title": "Pechino conferma l'incontro trilaterale tra Xi, Trump e Putin",
+      "url": "https://www.tgcom24.mediaset.it/mondo/pechino-trilaterale-xi-jinping-donald-trump-vladimir-putin_119031756-202602k.shtml",
+      "published": "2026-11-16T05:32:00+00:00"
+    },
     {
       "id": "b9db972a608efc1278d8",
       "source": "BBC News",
@@ -276,13 +283,6 @@
       "title": "Mosca: \"Negozieremo per raggiungere gli obiettivi fissati da Putin nel 2024\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-15-ottobre_118990307-202602k.shtml",
       "published": "2026-11-15T10:10:00+00:00"
-    },
-    {
-      "id": "fa314e5567293757bb6f",
-      "source": "TGcom24",
-      "title": "Cadde dal tettuccio di un'auto in corsa, morto 23enne a Treviso",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/treviso-cade-tettuccio-auto-morto_118994368-202602k.shtml",
-      "published": "2026-11-15T09:40:00+00:00"
     },
     {
       "id": "ee4f4f1509a0cbf6e7cc",
