@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-16T11:20:34.666583+00:00",
+  "updated_at": "2026-11-16T11:25:17.378517+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-16T11:20:34.666583+00:00"
+      "checked_at": "2026-11-16T11:25:17.378517+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-16T11:20:34.666583+00:00"
+      "checked_at": "2026-11-16T11:25:17.378517+00:00"
     }
   },
   "items": [
+    {
+      "id": "109db43240d27c4cb8ae",
+      "source": "BBC News",
+      "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
+      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T11:17:34+00:00"
+    },
     {
       "id": "c1e71d0612c5fe629aa1",
       "source": "BBC News",
@@ -171,13 +178,6 @@
       "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
       "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-16T01:47:57+00:00"
-    },
-    {
-      "id": "4bbdd91310f7025fa945",
-      "source": "BBC News",
-      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
-      "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T01:05:44+00:00"
     },
     {
       "id": "616617278145d8d95253",
