@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-16T14:29:15.890928+00:00",
+  "updated_at": "2026-11-16T14:30:46.372296+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-16T14:29:15.890928+00:00"
+      "checked_at": "2026-11-16T14:30:46.372296+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-16T14:29:15.890928+00:00"
+      "checked_at": "2026-11-16T14:30:46.372296+00:00"
     }
   },
   "items": [
+    {
+      "id": "86f70558dd2540d330ea",
+      "source": "BBC News",
+      "title": "Estonia to close Russia border crossings after attempted drone factory arson attack",
+      "url": "https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T14:22:36+00:00"
+    },
     {
       "id": "8c9e6b98b3c3dba31729",
       "source": "TGcom24",
@@ -250,13 +257,6 @@
       "published": "2026-11-16T00:11:12+00:00"
     },
     {
-      "id": "a30a0a8208fdfc73aa88",
-      "source": "BBC News",
-      "title": "Teenager Andreeva caps stunning week with WTA Finals title",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/c61740145y7wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-15T23:18:38+00:00"
-    },
-    {
       "id": "867972dae1a081a1dd06",
       "source": "TGcom24",
       "title": "Usa, il Pentagono valuta procedimento contro generale: \"Passava notizie ai media\"",
@@ -290,13 +290,6 @@
       "title": "Usa, la portaerei Roosevelt in Medio Oriente entro 24 ore: sarà la terza",
       "url": "https://www.tgcom24.mediaset.it/mondo/terza-portaerei-usa-verso-medio-oriente_119021166-202602k.shtml",
       "published": "2026-11-15T19:48:00+00:00"
-    },
-    {
-      "id": "82455c992b0b939478c8",
-      "source": "BBC News",
-      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-15T19:32:39+00:00"
     },
     {
       "id": "d661a2b0f5cc392f59f2",
