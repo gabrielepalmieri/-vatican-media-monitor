@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-16T11:40:24.815121+00:00",
+  "updated_at": "2026-11-16T11:50:25.586273+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-16T11:40:24.815121+00:00"
+      "checked_at": "2026-11-16T11:50:25.586273+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-16T11:40:24.815121+00:00"
+      "checked_at": "2026-11-16T11:50:25.586273+00:00"
     }
   },
   "items": [
+    {
+      "id": "109db43240d27c4cb8ae",
+      "source": "BBC News",
+      "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
+      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T11:47:17+00:00"
+    },
     {
       "id": "af6f285b7f405eb41b89",
       "source": "TGcom24",
       "title": "Salerno, 88enne uccide la moglie malata e poi tenta il suicidio",
       "url": "https://www.tgcom24.mediaset.it/cronaca/salerno-serre-uccide-moglie-malata-poi-tenta-suicidio_119044498-202602k.shtml",
       "published": "2026-11-16T11:32:00+00:00"
-    },
-    {
-      "id": "109db43240d27c4cb8ae",
-      "source": "BBC News",
-      "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
-      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T11:17:34+00:00"
     },
     {
       "id": "c1e71d0612c5fe629aa1",
