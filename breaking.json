@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-16T19:35:18.670532+00:00",
+  "updated_at": "2026-11-16T19:40:25.997036+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-16T19:35:18.670532+00:00"
+      "checked_at": "2026-11-16T19:40:25.997036+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-16T19:35:18.670532+00:00"
+      "checked_at": "2026-11-16T19:40:25.997036+00:00"
     }
   },
   "items": [
@@ -110,6 +110,13 @@
       "published": "2026-11-16T15:15:00+00:00"
     },
     {
+      "id": "a93b546d47c75efec889",
+      "source": "BBC News",
+      "title": "Street cricket with a legend then metro ride as William and Kate begin India visit",
+      "url": "https://www.bbc.co.uk/news/videos/crkgvnl51w1vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T15:08:59+00:00"
+    },
+    {
       "id": "b4cb5cb67148442838f1",
       "source": "BBC News",
       "title": "Robert Pattinson: How the Twilight star became 007",
@@ -145,11 +152,11 @@
       "published": "2026-11-16T14:22:36+00:00"
     },
     {
-      "id": "8c9e6b98b3c3dba31729",
-      "source": "TGcom24",
-      "title": "Frosinone, donna trovata morta in casa: marito sotto interrogatorio",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/frosinone-donna-morta-marito_119052635-202602k.shtml",
-      "published": "2026-11-16T14:15:00+00:00"
+      "id": "a82cdf5ed34aa93fa7b9",
+      "source": "BBC News",
+      "title": "Gérard Depardieu drops appeal against sexual assault conviction",
+      "url": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T13:40:56+00:00"
     },
     {
       "id": "7c892f1d4a16491c4c7f",
@@ -171,13 +178,6 @@
       "title": "Ashes of exiled Nobel Laureate Miguel Ángel Asturias returned to Guatemala",
       "url": "https://www.bbc.co.uk/news/articles/cvde1klewg88o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-16T12:42:14+00:00"
-    },
-    {
-      "id": "ec99cb25f6eb60bfde79",
-      "source": "BBC News",
-      "title": "Man sentenced over 'horrific' attempted murder of three children",
-      "url": "https://www.bbc.co.uk/news/articles/cr0qj0nzwj34o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T12:27:15+00:00"
     },
     {
       "id": "43d00b43e7fecb371072",
@@ -285,6 +285,13 @@
       "published": "2026-11-16T06:05:00+00:00"
     },
     {
+      "id": "48eebeade9a727491d06",
+      "source": "TGcom24",
+      "title": "Pechino conferma l'incontro trilaterale tra Xi, Trump e Putin",
+      "url": "https://www.tgcom24.mediaset.it/mondo/pechino-trilaterale-xi-jinping-donald-trump-vladimir-putin_119031756-202602k.shtml",
+      "published": "2026-11-16T05:32:00+00:00"
+    },
+    {
       "id": "72ccb94370e49274b29d",
       "source": "BBC News",
       "title": "Watch: New York teen reunites with cat missing after building collapse",
@@ -311,6 +318,13 @@
       "title": "Town rebuilt after devastating floods becomes showcase for Libyan strongman's rule",
       "url": "https://www.bbc.co.uk/news/articles/cr0qjz77j4k1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-16T00:11:12+00:00"
+    },
+    {
+      "id": "ccf10a8816bd02575f24",
+      "source": "BBC News",
+      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+      "url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T18:38:11+00:00"
     }
   ]
 }
