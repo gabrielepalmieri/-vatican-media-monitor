@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-16T09:20:26.028625+00:00",
+  "updated_at": "2026-11-16T09:25:17.568229+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-16T09:20:26.028625+00:00"
+      "checked_at": "2026-11-16T09:25:17.568229+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-16T09:20:26.028625+00:00"
+      "checked_at": "2026-11-16T09:25:17.568229+00:00"
     }
   },
   "items": [
+    {
+      "id": "fa6ea3a2499ad8525e70",
+      "source": "BBC News",
+      "title": "'You're going to win the war': Harry praises war veterans on surprise Ukraine visit",
+      "url": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T09:21:31+00:00"
+    },
     {
       "id": "413b83a0626ee0cbc3a4",
       "source": "TGcom24",
@@ -178,13 +185,6 @@
       "title": "Canada bars Russia from Junior World Championships",
       "url": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-15T22:01:16+00:00"
-    },
-    {
-      "id": "fa6ea3a2499ad8525e70",
-      "source": "BBC News",
-      "title": "'You're going to win the war': Harry praises war veterans on surprise Ukraine visit",
-      "url": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-15T22:00:13+00:00"
     },
     {
       "id": "fa7e137f93b5b7eba77d",
