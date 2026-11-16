@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-16T05:00:59.305019+00:00",
+  "updated_at": "2026-11-16T05:05:17.599158+00:00",
   "sources": {
     "TGcom24": {
-      "ok": false,
-      "checked_at": "2026-11-16T05:00:59.305019+00:00"
+      "ok": true,
+      "checked_at": "2026-11-16T05:05:17.599158+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-16T05:00:59.305019+00:00"
+      "checked_at": "2026-11-16T05:05:17.599158+00:00"
     }
   },
   "items": [
+    {
+      "id": "9b956ee11f9a6500b63c",
+      "source": "TGcom24",
+      "title": "Usa, media: \"Lutnick avrebbe indebolito le regole sui chip per interessi personali\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/lutnick-allentato-norme-chip-attivita-famiglia_119023140-202602k.shtml",
+      "published": "2026-11-16T05:00:00+00:00"
+    },
     {
       "id": "e838c5dc2cc10eb3d2f3",
       "source": "BBC News",
@@ -52,6 +59,13 @@
       "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
       "url": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-15T22:57:27+00:00"
+    },
+    {
+      "id": "867972dae1a081a1dd06",
+      "source": "TGcom24",
+      "title": "Usa, il Pentagono valuta procedimento contro generale: \"Passava notizie ai media\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-pentagono-procedimento-contro-generale-sylvia_119030781-202602k.shtml",
+      "published": "2026-11-15T22:56:00+00:00"
     },
     {
       "id": "55d49a1a52853093f855",
@@ -262,20 +276,6 @@
       "title": "Cadde dal tettuccio di un'auto in corsa, morto 23enne a Treviso",
       "url": "https://www.tgcom24.mediaset.it/cronaca/treviso-cade-tettuccio-auto-morto_118994368-202602k.shtml",
       "published": "2026-11-15T09:40:00+00:00"
-    },
-    {
-      "id": "ef1f563464d776830dd5",
-      "source": "TGcom24",
-      "title": "15 novembre, scatta l'obbligo gomme invernali: multe per chi non le cambia",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/gomme-invernali-catene-sanzioni_118992346-202602k.shtml",
-      "published": "2026-11-15T09:10:00+00:00"
-    },
-    {
-      "id": "4a837811e6df20efdd63",
-      "source": "TGcom24",
-      "title": "Miami, collisione fra due aerei sulla pista dell'aeroporto: due feriti",
-      "url": "https://www.tgcom24.mediaset.it/mondo/miami-aeroporto-scontro-aerei-feriti_118993116-202602k.shtml",
-      "published": "2026-11-15T08:41:00+00:00"
     },
     {
       "id": "ee4f4f1509a0cbf6e7cc",
