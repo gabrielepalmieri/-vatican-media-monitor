@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-16T21:50:24.879599+00:00",
+  "updated_at": "2026-11-16T21:55:17.984279+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-16T21:50:24.879599+00:00"
+      "checked_at": "2026-11-16T21:55:17.984279+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-16T21:50:24.879599+00:00"
+      "checked_at": "2026-11-16T21:55:17.984279+00:00"
     }
   },
   "items": [
+    {
+      "id": "f68cf1f9473b3cbdce37",
+      "source": "BBC News",
+      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+      "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T21:40:07+00:00"
+    },
     {
       "id": "47c3dee6a0d78861e5db",
       "source": "TGcom24",
@@ -213,13 +220,6 @@
       "title": "Salerno, 88enne uccide la moglie malata e poi tenta il suicidio",
       "url": "https://www.tgcom24.mediaset.it/cronaca/salerno-serre-uccide-moglie-malata-poi-tenta-suicidio_119044498-202602k.shtml",
       "published": "2026-11-16T11:32:00+00:00"
-    },
-    {
-      "id": "c1e71d0612c5fe629aa1",
-      "source": "BBC News",
-      "title": "Yemeni forces retreat to defend port city from Houthis",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T11:09:38+00:00"
     },
     {
       "id": "5d3ffd67c37931e97238",
