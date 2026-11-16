@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-16T11:35:19.154813+00:00",
+  "updated_at": "2026-11-16T11:40:24.815121+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-16T11:35:19.154813+00:00"
+      "checked_at": "2026-11-16T11:40:24.815121+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-16T11:35:19.154813+00:00"
+      "checked_at": "2026-11-16T11:40:24.815121+00:00"
     }
   },
   "items": [
+    {
+      "id": "af6f285b7f405eb41b89",
+      "source": "TGcom24",
+      "title": "Salerno, 88enne uccide la moglie malata e poi tenta il suicidio",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/salerno-serre-uccide-moglie-malata-poi-tenta-suicidio_119044498-202602k.shtml",
+      "published": "2026-11-16T11:32:00+00:00"
+    },
     {
       "id": "109db43240d27c4cb8ae",
       "source": "BBC News",
@@ -290,13 +297,6 @@
       "title": "Perù, Papa Leone sbarca a Cusco: bagno di folla e giro in Papamobile",
       "url": "https://www.tgcom24.mediaset.it/mondo/papa-leone-xiv-cusco-peru-folla_119013657-202602k.shtml",
       "published": "2026-11-15T16:05:00+00:00"
-    },
-    {
-      "id": "700feb8a1f429b90b3d0",
-      "source": "TGcom24",
-      "title": "Bari, indagati due giovani hacker: rubavano identità digitali e dati sensibili",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/bari-hacker-minorenni-rubavano-identita-dati-pin-carte-credito_119008686-202602k.shtml",
-      "published": "2026-11-15T15:30:00+00:00"
     },
     {
       "id": "e982de98774614c2c887",
