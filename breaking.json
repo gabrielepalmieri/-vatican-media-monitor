@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-16T11:01:01.763340+00:00",
+  "updated_at": "2026-11-16T11:05:28.380481+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-16T11:01:01.763340+00:00"
+      "checked_at": "2026-11-16T11:05:28.380481+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-16T11:01:01.763340+00:00"
+      "checked_at": "2026-11-16T11:05:28.380481+00:00"
     }
   },
   "items": [
+    {
+      "id": "5d3ffd67c37931e97238",
+      "source": "TGcom24",
+      "title": "Nuova mail di allarme bomba alle scuole italiane, nessuna evacuazione",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/nuovo-mail-di-allarme-bomba-alle-scuole-italiane-nessuna-evacuazione_119043710-202602k.shtml",
+      "published": "2026-11-16T11:02:00+00:00"
+    },
+    {
+      "id": "c1ae6b0387b29516e870",
+      "source": "BBC News",
+      "title": "Two mass shootings in South Africa leave 17 dead",
+      "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T10:57:48+00:00"
+    },
     {
       "id": "a047d38520388aa1e229",
       "source": "TGcom24",
@@ -187,13 +201,6 @@
       "published": "2026-11-15T23:18:38+00:00"
     },
     {
-      "id": "f03efccb90052770a447",
-      "source": "BBC News",
-      "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
-      "url": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-15T22:57:27+00:00"
-    },
-    {
       "id": "867972dae1a081a1dd06",
       "source": "TGcom24",
       "title": "Usa, il Pentagono valuta procedimento contro generale: \"Passava notizie ai media\"",
@@ -220,13 +227,6 @@
       "title": "Gaza, appello di Italia, Canada e Uk: \"Permettere ingresso di aiuti\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/gaza-israele-aiuti-dichiarazione-italia-canada-uk_119023895-202602k.shtml",
       "published": "2026-11-15T20:58:00+00:00"
-    },
-    {
-      "id": "aca228f2b37f51a03470",
-      "source": "TGcom24",
-      "title": "Gaza, appello di Italia, Canada e Uk: \"Permettere ingresso di aiuti\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/gaza-israele-aiuti-dichiarazione-italia-canada-uk_119023895-202602k.shtml",
-      "published": "2026-11-15T20:57:00+00:00"
     },
     {
       "id": "18b1bdac3add8517241a",
@@ -266,7 +266,7 @@
     {
       "id": "259ce0e2197521266389",
       "source": "TGcom24",
-      "title": "Nuova crisi di migranti in Spagna, alle Canarie 1500 arrivi in un giorno",
+      "title": "Nuova crisi di migranti in Spagna, alle Canarie 1.500 arrivi in un giorno",
       "url": "https://www.tgcom24.mediaset.it/2026/video/scoppia-la-crisi-migranti-alle-canarie-in-un-giorno-soccorse-oltre-1-500-persone-in-mare_119016149-02k.shtml",
       "published": "2026-11-15T17:46:00+00:00"
     },
