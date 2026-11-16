@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-16T01:45:30.282652+00:00",
+  "updated_at": "2026-11-16T01:50:25.179659+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-11-16T01:45:30.282652+00:00"
+      "checked_at": "2026-11-16T01:50:25.179659+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-16T01:45:30.282652+00:00"
+      "checked_at": "2026-11-16T01:50:25.179659+00:00"
     }
   },
   "items": [
+    {
+      "id": "09f62fd1126fb339d579",
+      "source": "BBC News",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T01:47:57+00:00"
+    },
     {
       "id": "4bbdd91310f7025fa945",
       "source": "BBC News",
@@ -59,13 +66,6 @@
       "title": "Police ban protests near 10 schools and five universities in Paris",
       "url": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-15T22:28:54+00:00"
-    },
-    {
-      "id": "09f62fd1126fb339d579",
-      "source": "BBC News",
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-15T22:24:20+00:00"
     },
     {
       "id": "fa7e137f93b5b7eba77d",
