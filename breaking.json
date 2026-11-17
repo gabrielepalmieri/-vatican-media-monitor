@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-17T21:45:31.341557+00:00",
+  "updated_at": "2026-11-17T21:50:28.570736+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-17T21:45:31.341557+00:00"
+      "checked_at": "2026-11-17T21:50:28.570736+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-17T21:45:31.341557+00:00"
+      "checked_at": "2026-11-17T21:50:28.570736+00:00"
     }
   },
   "items": [
+    {
+      "id": "14b613f1b91c1aefaf60",
+      "source": "TGcom24",
+      "title": "Usa, la Sec ha aperto un'indagine su Nvidia",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-sec-nvidia-indagine_119098979-202602k.shtml",
+      "published": "2026-11-17T21:47:00+00:00"
+    },
     {
       "id": "0452af691c7f83eba03a",
       "source": "BBC News",
@@ -325,13 +332,6 @@
       "title": "Papa Leone è rientrato a Roma dopo il viaggio apostolico in Sudamerica",
       "url": "https://www.tgcom24.mediaset.it/cronaca/papa-leone-e-rientrato-a-roma_119076576-202602k.shtml",
       "published": "2026-11-17T08:31:00+00:00"
-    },
-    {
-      "id": "b6756ffb91616611edb3",
-      "source": "TGcom24",
-      "title": "Istanbul, polizia turca nella sede di una tv di opposizione: arrestati i dirigenti",
-      "url": "https://www.tgcom24.mediaset.it/mondo/turchia-polizia-sede-tv-opposizione_119075468-202602k.shtml",
-      "published": "2026-11-17T08:00:00+00:00"
     },
     {
       "id": "092ccd15117df21e5cdd",
