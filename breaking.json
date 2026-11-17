@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-17T13:05:31.696845+00:00",
+  "updated_at": "2026-11-17T13:10:26.540961+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-17T13:05:31.696845+00:00"
+      "checked_at": "2026-11-17T13:10:26.540961+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-17T13:05:31.696845+00:00"
+      "checked_at": "2026-11-17T13:10:26.540961+00:00"
     }
   },
   "items": [
+    {
+      "id": "cd685cc02d5a71ee31e9",
+      "source": "TGcom24",
+      "title": "Omicidio Bergamini, confermata la condanna a 16 anni per Isabella Internò",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/omicidio-bergamini-condanna-isabella-interno_119084415-202602k.shtml",
+      "published": "2026-11-17T13:07:00+00:00"
+    },
     {
       "id": "e7a12f2bb2514c4f72e1",
       "source": "BBC News",
@@ -304,13 +311,6 @@
       "title": "Camera, al centrosinistra le elezioni suppletive a Chieti: vince Luciano D'Amico",
       "url": "https://www.tgcom24.mediaset.it/politica/chieti-elezioni-suppletive-camera-centrosinistra-d-amico_119062853-202602k.shtml",
       "published": "2026-11-16T17:50:00+00:00"
-    },
-    {
-      "id": "d7e8eb6d8e2028fe0400",
-      "source": "TGcom24",
-      "title": "Livorno, cede il tetto di un capannone mentre lavora: muore 75enne",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/livorno-cede-tetto-capannone-muore-mentre-lavora_119058767-202602k.shtml",
-      "published": "2026-11-16T17:20:00+00:00"
     },
     {
       "id": "a93b546d47c75efec889",
