@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-17T11:55:18.769821+00:00",
+  "updated_at": "2026-11-17T12:00:59.574751+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-17T11:55:18.769821+00:00"
+      "checked_at": "2026-11-17T12:00:59.574751+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-17T11:55:18.769821+00:00"
+      "checked_at": "2026-11-17T12:00:59.574751+00:00"
     }
   },
   "items": [
@@ -26,6 +26,13 @@
       "published": "2026-11-17T11:41:00+00:00"
     },
     {
+      "id": "5613666ce4a6db4588b8",
+      "source": "BBC News",
+      "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
+      "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T11:17:32+00:00"
+    },
+    {
       "id": "674b00680ae99b38f9d9",
       "source": "TGcom24",
       "title": "Nvidia, l'azienda crea un comitato di vigilanza sull'export di chip",
@@ -35,7 +42,7 @@
     {
       "id": "0452af691c7f83eba03a",
       "source": "BBC News",
-      "title": "Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
       "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-17T10:45:55+00:00"
     },
@@ -192,13 +199,6 @@
       "title": "BBC launches programme for children forced from school by bandits and poverty in West Africa",
       "url": "https://www.bbc.co.uk/news/articles/c3pw450ndyjqo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-17T00:08:19+00:00"
-    },
-    {
-      "id": "4fb22c54712137889c5e",
-      "source": "BBC News",
-      "title": "OpenAI sued by California over Hugging Face attack",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T23:12:24+00:00"
     },
     {
       "id": "2bc8c37c83278c858f0c",
