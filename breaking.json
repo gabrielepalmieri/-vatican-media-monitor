@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-17T07:25:17.348111+00:00",
+  "updated_at": "2026-11-17T07:30:47.227666+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-17T07:25:17.348111+00:00"
+      "checked_at": "2026-11-17T07:30:47.227666+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-17T07:25:17.348111+00:00"
+      "checked_at": "2026-11-17T07:30:47.227666+00:00"
     }
   },
   "items": [
+    {
+      "id": "0452af691c7f83eba03a",
+      "source": "BBC News",
+      "title": "Ukraine and Russia trade strikes on key bridges",
+      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T07:30:07+00:00"
+    },
     {
       "id": "cee1b9fe326f2549a332",
       "source": "TGcom24",
@@ -31,13 +38,6 @@
       "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
       "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-17T05:59:01+00:00"
-    },
-    {
-      "id": "0452af691c7f83eba03a",
-      "source": "BBC News",
-      "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
-      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T05:57:38+00:00"
     },
     {
       "id": "e2e9c171fac69c03f6c1",
