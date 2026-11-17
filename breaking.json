@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-17T10:30:46.870402+00:00",
+  "updated_at": "2026-11-17T10:35:28.140877+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-17T10:30:46.870402+00:00"
+      "checked_at": "2026-11-17T10:35:28.140877+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-17T10:30:46.870402+00:00"
+      "checked_at": "2026-11-17T10:35:28.140877+00:00"
     }
   },
   "items": [
+    {
+      "id": "0452af691c7f83eba03a",
+      "source": "BBC News",
+      "title": "Crimean Bridge badly damaged as Zelensky hails 'unprecedented' attack by Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T10:34:29+00:00"
+    },
     {
       "id": "eb73a76873508d658bbf",
       "source": "TGcom24",
@@ -38,13 +45,6 @@
       "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
       "url": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-17T09:27:44+00:00"
-    },
-    {
-      "id": "0452af691c7f83eba03a",
-      "source": "BBC News",
-      "title": "Crimea bridge shut after Ukrainian strike, as Russia hits Kyiv crossings",
-      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T09:27:41+00:00"
     },
     {
       "id": "c4b458ffd62d11060dc3",
