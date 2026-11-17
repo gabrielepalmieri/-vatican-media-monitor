@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-17T16:15:32.533921+00:00",
+  "updated_at": "2026-11-17T16:20:28.401515+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-17T16:15:32.533921+00:00"
+      "checked_at": "2026-11-17T16:20:28.401515+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-17T16:15:32.533921+00:00"
+      "checked_at": "2026-11-17T16:20:28.401515+00:00"
     }
   },
   "items": [
+    {
+      "id": "6c7566592d35b62869b3",
+      "source": "BBC News",
+      "title": "US loses measles elimination status after 26 years amid record case numbers",
+      "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T16:19:30+00:00"
+    },
+    {
+      "id": "a6a4dfce3ee7d7e84e89",
+      "source": "TGcom24",
+      "title": "Usa, fuori uso la rete riservata della Nsa: escluso l'attacco informatico",
+      "url": "https://www.tgcom24.mediaset.it/mondo/cybersicurezza-germania-europa-minaccia-ibrida-russia_119084076-202602k.shtml",
+      "published": "2026-11-17T16:15:00+00:00"
+    },
     {
       "id": "0452af691c7f83eba03a",
       "source": "BBC News",
@@ -257,13 +271,6 @@
       "published": "2026-11-17T02:38:08+00:00"
     },
     {
-      "id": "91be4008237540c5d2fe",
-      "source": "BBC News",
-      "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
-      "url": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T01:26:01+00:00"
-    },
-    {
       "id": "f6fdc837424680b34fa0",
       "source": "BBC News",
       "title": "BBC launches programme for children forced from school by bandits and poverty in West Africa",
@@ -304,13 +311,6 @@
       "title": "Pope Leo hit by flying rosary while waving to crowds in Peru",
       "url": "https://www.bbc.co.uk/news/videos/ckpdwn23j5j8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-16T21:12:13+00:00"
-    },
-    {
-      "id": "de09a78975f47b700854",
-      "source": "TGcom24",
-      "title": "Ucraina, Kushner: \"Progressi nell'accordo finale, ma richiederà decisioni difficili\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-16-novembre_119032170-202602k.shtml",
-      "published": "2026-11-16T20:30:00+00:00"
     },
     {
       "id": "a93b546d47c75efec889",
