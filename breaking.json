@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-17T21:20:27.046175+00:00",
+  "updated_at": "2026-11-17T21:25:18.655265+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-17T21:20:27.046175+00:00"
+      "checked_at": "2026-11-17T21:25:18.655265+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-17T21:20:27.046175+00:00"
+      "checked_at": "2026-11-17T21:25:18.655265+00:00"
     }
   },
   "items": [
+    {
+      "id": "0452af691c7f83eba03a",
+      "source": "BBC News",
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T21:24:35+00:00"
+    },
     {
       "id": "b14c7b66beac6995a8bd",
       "source": "TGcom24",
@@ -157,13 +164,6 @@
       "title": "Ucraina, soldati francesi in territorio ucraino per addestrare esercito",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-17-novembre_119074110-202602k.shtml",
       "published": "2026-11-17T17:15:00+00:00"
-    },
-    {
-      "id": "0452af691c7f83eba03a",
-      "source": "BBC News",
-      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T16:56:38+00:00"
     },
     {
       "id": "1d520b7aa783a5be44e3",
