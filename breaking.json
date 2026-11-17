@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-11-17T20:25:19.955971+00:00",
+  "updated_at": "2026-11-17T20:30:44.974174+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-17T20:25:19.955971+00:00"
+      "checked_at": "2026-11-17T20:30:44.974174+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-17T20:25:19.955971+00:00"
+      "checked_at": "2026-11-17T20:30:44.974174+00:00"
     }
   },
   "items": [
+    {
+      "id": "e7a12f2bb2514c4f72e1",
+      "source": "BBC News",
+      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+      "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T20:30:20+00:00"
+    },
+    {
+      "id": "0a2a66dfac9eaee96c57",
+      "source": "BBC News",
+      "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+      "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T20:25:46+00:00"
+    },
+    {
+      "id": "81bc5430a6d2c5fd0c84",
+      "source": "BBC News",
+      "title": "Russian military plane crashes killing all 19 on board",
+      "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T20:25:27+00:00"
+    },
     {
       "id": "8145bc18d05eac6aaee6",
       "source": "TGcom24",
@@ -24,13 +45,6 @@
       "title": "Diesel Euro 5, il decreto diventa legge: prorogati al 2027 i divieti di circolazione",
       "url": "https://www.tgcom24.mediaset.it/politica/senato-decreto-diesel-euro-5-legge_119097075-202602k.shtml",
       "published": "2026-11-17T19:40:00+00:00"
-    },
-    {
-      "id": "81bc5430a6d2c5fd0c84",
-      "source": "BBC News",
-      "title": "Russian military plane crashes killing all 19 on board",
-      "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T19:33:55+00:00"
     },
     {
       "id": "a4dd9fb62ca8b53dd66e",
@@ -152,13 +166,6 @@
       "published": "2026-11-17T15:38:10+00:00"
     },
     {
-      "id": "e7a12f2bb2514c4f72e1",
-      "source": "BBC News",
-      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-      "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T15:36:11+00:00"
-    },
-    {
       "id": "f5c591f989e61eb7f677",
       "source": "TGcom24",
       "title": "Mario Roggero, le motivazioni della condanna: \"Fu una deliberata aggressione\"",
@@ -192,13 +199,6 @@
       "title": "Omicidio Bergamini, confermata condanna a 16 anni per la ex Isabella Internò",
       "url": "https://www.tgcom24.mediaset.it/cronaca/omicidio-bergamini-condanna-isabella-interno_119084415-202602k.shtml",
       "published": "2026-11-17T13:07:00+00:00"
-    },
-    {
-      "id": "0a2a66dfac9eaee96c57",
-      "source": "BBC News",
-      "title": "Trump lands in Asia ahead of talks with Russian and Chinese presidents",
-      "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T12:54:32+00:00"
     },
     {
       "id": "1d3b36666caa68f31e3a",
