@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-17T18:05:23.492579+00:00",
+  "updated_at": "2026-11-17T18:10:31.642868+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-17T18:05:23.492579+00:00"
+      "checked_at": "2026-11-17T18:10:31.642868+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-17T18:05:23.492579+00:00"
+      "checked_at": "2026-11-17T18:10:31.642868+00:00"
     }
   },
   "items": [
+    {
+      "id": "73630c3e9231c42b8546",
+      "source": "TGcom24",
+      "title": "Salerno, anziana uccisa in casa: fermata una persona per l'omicidio",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/salerno-anziana-uccisa-fermata-persona_119095311-202602k.shtml",
+      "published": "2026-11-17T18:05:00+00:00"
+    },
     {
       "id": "5c0161ab21f5d9ef99b4",
       "source": "BBC News",
@@ -325,13 +332,6 @@
       "title": "Trump: \"Il ritorno di Huang a Nvidia? Non mi dispiacerebbe affatto\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/sam-altman-openai-jensen-huang-nvidia-sostegno_119065062-202602k.shtml",
       "published": "2026-11-16T23:05:00+00:00"
-    },
-    {
-      "id": "3e08a70f70ee79d6a04d",
-      "source": "TGcom24",
-      "title": "Le Canarie nella morsa dei migranti: oltre 11mila arrivi irregolari da novembre",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/continuano-gli-sbarchi-di-migranti-alle-canarie-sono-11mila-da-inizio-novembre_119070089-02k.shtml",
-      "published": "2026-11-16T22:32:00+00:00"
     },
     {
       "id": "b07a6f1b92fc9973bf78",
