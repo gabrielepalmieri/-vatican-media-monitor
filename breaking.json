@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-11-17T16:55:21.066074+00:00",
+  "updated_at": "2026-11-17T17:01:01.441279+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-17T16:55:21.066074+00:00"
+      "checked_at": "2026-11-17T17:01:01.441279+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-17T16:55:21.066074+00:00"
+      "checked_at": "2026-11-17T17:01:01.441279+00:00"
     }
   },
   "items": [
+    {
+      "id": "0452af691c7f83eba03a",
+      "source": "BBC News",
+      "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T16:56:38+00:00"
+    },
     {
       "id": "1d520b7aa783a5be44e3",
       "source": "TGcom24",
       "title": "Guerra Iran, media Usa: \"Netanyahu vuole nuovo attacco per restare al potere\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-17-novembre_119073910-202602k.shtml",
       "published": "2026-11-17T16:46:00+00:00"
+    },
+    {
+      "id": "b96e24d90f67ad6ca837",
+      "source": "BBC News",
+      "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+      "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T16:42:11+00:00"
     },
     {
       "id": "5c0161ab21f5d9ef99b4",
@@ -40,18 +54,18 @@
       "published": "2026-11-17T16:15:00+00:00"
     },
     {
-      "id": "0452af691c7f83eba03a",
-      "source": "BBC News",
-      "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T16:07:41+00:00"
-    },
-    {
       "id": "b7c4397942cde3199977",
       "source": "BBC News",
       "title": "UK sanctions firms over Israeli West Bank settlements",
       "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-17T15:59:47+00:00"
+    },
+    {
+      "id": "3adf87ca291f0411662b",
+      "source": "BBC News",
+      "title": "BBC reports from Kyiv bridge hit by Russian attack",
+      "url": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T15:54:15+00:00"
     },
     {
       "id": "b7ce319a9383a4f8aaf3",
@@ -220,13 +234,6 @@
       "title": "Cagliari, soldi di persone vulnerabili per spese e cene: avvocata e marito indagati",
       "url": "https://www.tgcom24.mediaset.it/cronaca/cagliari-soldi-anziani-vulnerabili-spese-cene-indagati-peculato-avvocata-marito_119074615-202602k.shtml",
       "published": "2026-11-17T07:29:00+00:00"
-    },
-    {
-      "id": "b97af96bfb7ab1c85db2",
-      "source": "BBC News",
-      "title": "Body of Melbourne Cup horse found dumped in Sydney skip",
-      "url": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T07:01:00+00:00"
     },
     {
       "id": "cee1b9fe326f2549a332",
