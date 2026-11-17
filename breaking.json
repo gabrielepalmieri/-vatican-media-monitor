@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-17T09:35:19.026329+00:00",
+  "updated_at": "2026-11-17T09:40:34.458187+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-17T09:35:19.026329+00:00"
+      "checked_at": "2026-11-17T09:40:34.458187+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-17T09:35:19.026329+00:00"
+      "checked_at": "2026-11-17T09:40:34.458187+00:00"
     }
   },
   "items": [
+    {
+      "id": "9ea009b4a19bed44dc45",
+      "source": "TGcom24",
+      "title": "Istat, a ottobre l'inflazione vola al 5,5%",
+      "url": "https://www.tgcom24.mediaset.it/economia/istat-ottobre-aumenta-inflazione_119078167-202602k.shtml",
+      "published": "2026-11-17T09:36:00+00:00"
+    },
     {
       "id": "0452af691c7f83eba03a",
       "source": "BBC News",
@@ -103,6 +110,13 @@
       "published": "2026-11-17T03:07:23+00:00"
     },
     {
+      "id": "90be0f10063156dd1c3b",
+      "source": "BBC News",
+      "title": "Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T02:38:08+00:00"
+    },
+    {
       "id": "f18988fd7144acd6de24",
       "source": "BBC News",
       "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
@@ -117,18 +131,18 @@
       "published": "2026-11-17T01:26:01+00:00"
     },
     {
+      "id": "02b65f3bf8bdc17c9154",
+      "source": "BBC News",
+      "title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T01:04:45+00:00"
+    },
+    {
       "id": "f6fdc837424680b34fa0",
       "source": "BBC News",
       "title": "BBC launches programme for children forced from school by bandits and poverty in West Africa",
       "url": "https://www.bbc.co.uk/news/articles/c3pw450ndyjqo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-17T00:08:19+00:00"
-    },
-    {
-      "id": "0bf51010e48bffaf6288",
-      "source": "BBC News",
-      "title": "The AI start-ups fixing India's broken roads and messy land records",
-      "url": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T23:25:53+00:00"
     },
     {
       "id": "109db43240d27c4cb8ae",
@@ -285,13 +299,6 @@
       "published": "2026-11-16T15:08:59+00:00"
     },
     {
-      "id": "b4cb5cb67148442838f1",
-      "source": "BBC News",
-      "title": "Robert Pattinson: How the Twilight star became 007",
-      "url": "https://www.bbc.co.uk/news/articles/c574290jvk8wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T15:02:41+00:00"
-    },
-    {
       "id": "d83bdc4d9efaf8197e45",
       "source": "BBC News",
       "title": "Raye, Rosalía and Dolly Parton recognised in Grammy nominations",
@@ -304,13 +311,6 @@
       "title": "Ucraina, il Cremlino conferma: \"Incontro Putin e Xi prima del trilaterale\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-16-novembre_119032170-202602k.shtml",
       "published": "2026-11-16T14:45:00+00:00"
-    },
-    {
-      "id": "7c892f1d4a16491c4c7f",
-      "source": "TGcom24",
-      "title": "Meloni: \"Anche nel 2027 aumenti rinnovo contratti privati tassati al 5%\"",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/meloni-anche-nel-2027-aumenti-rinnovo-contratti-privati-tassati-al-5-_119048415-02k.shtml",
-      "published": "2026-11-16T13:35:00+00:00"
     },
     {
       "id": "72ccb94370e49274b29d",
