@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-17T18:20:26.439771+00:00",
+  "updated_at": "2026-11-17T18:25:20.774632+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-17T18:20:26.439771+00:00"
+      "checked_at": "2026-11-17T18:25:20.774632+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-17T18:20:26.439771+00:00"
+      "checked_at": "2026-11-17T18:25:20.774632+00:00"
     }
   },
   "items": [
+    {
+      "id": "5c0161ab21f5d9ef99b4",
+      "source": "BBC News",
+      "title": "Jensen Huang says he would be 'honoured' to return as Nvidia boss despite board rejecting comeback calls",
+      "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T18:24:21+00:00"
+    },
     {
       "id": "73630c3e9231c42b8546",
       "source": "TGcom24",
       "title": "Salerno, anziana uccisa in casa: fermata una persona per l'omicidio",
       "url": "https://www.tgcom24.mediaset.it/cronaca/salerno-anziana-uccisa-fermata-persona_119095311-202602k.shtml",
       "published": "2026-11-17T18:05:00+00:00"
-    },
-    {
-      "id": "5c0161ab21f5d9ef99b4",
-      "source": "BBC News",
-      "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
-      "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T17:42:26+00:00"
     },
     {
       "id": "b7c4397942cde3199977",
