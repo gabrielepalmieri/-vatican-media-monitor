@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-17T14:20:27.287549+00:00",
+  "updated_at": "2026-11-17T14:25:20.577331+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-17T14:20:27.287549+00:00"
+      "checked_at": "2026-11-17T14:25:20.577331+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-17T14:20:27.287549+00:00"
+      "checked_at": "2026-11-17T14:25:20.577331+00:00"
     }
   },
   "items": [
+    {
+      "id": "e7f0e74902f56c3e4342",
+      "source": "TGcom24",
+      "title": "Roma, nuovo furto di Fentanyl: sparite 50 fiale da una clinica privata",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/roma-furto-fentanyl-clinica-fiale-sparite_119077514-202602k.shtml",
+      "published": "2026-11-17T14:23:00+00:00"
+    },
     {
       "id": "927e015d8acb7f6e75e7",
       "source": "TGcom24",
@@ -304,13 +311,6 @@
       "title": "Disservizi per diverse grandi banche Usa: problemi di accesso online",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-banca-app-down_119065253-202602k.shtml",
       "published": "2026-11-16T19:10:00+00:00"
-    },
-    {
-      "id": "43a8f4d7ab3213797f0f",
-      "source": "TGcom24",
-      "title": "Nvidia, il Ceo di OpenAI Altman: \"Difficile immaginare la rivoluzione IA senza Huang\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/sam-altman-openai-jensen-huang-nvidia-sostegno_119065062-202602k.shtml",
-      "published": "2026-11-16T18:30:00+00:00"
     },
     {
       "id": "a93b546d47c75efec889",
