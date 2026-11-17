@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-17T15:40:28.224024+00:00",
+  "updated_at": "2026-11-17T15:45:33.847131+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-17T15:40:28.224024+00:00"
+      "checked_at": "2026-11-17T15:45:33.847131+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-17T15:40:28.224024+00:00"
+      "checked_at": "2026-11-17T15:45:33.847131+00:00"
     }
   },
   "items": [
+    {
+      "id": "b7ce319a9383a4f8aaf3",
+      "source": "TGcom24",
+      "title": "\"Jeffrey Epstein è stato ucciso\": una nuova perizia smentisce il suicidio",
+      "url": "https://www.tgcom24.mediaset.it/mondo/jeffrey-epstein-morte-perizia-omicidio_119089488-202602k.shtml",
+      "published": "2026-11-17T15:40:00+00:00"
+    },
     {
       "id": "e7a12f2bb2514c4f72e1",
       "source": "BBC News",
@@ -304,13 +311,6 @@
       "title": "Ucraina, Kushner: \"Progressi nell'accordo finale, ma richiederà decisioni difficili\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-16-novembre_119032170-202602k.shtml",
       "published": "2026-11-16T20:30:00+00:00"
-    },
-    {
-      "id": "49e880d6f8923b22e671",
-      "source": "TGcom24",
-      "title": "Frosinone, donna trovata morta in casa: fermato il marito",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/frosinone-donna-morta-marito_119052635-202602k.shtml",
-      "published": "2026-11-16T19:45:00+00:00"
     },
     {
       "id": "a93b546d47c75efec889",
