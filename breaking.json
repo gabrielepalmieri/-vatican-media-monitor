@@ -1,22 +1,29 @@
 {
-  "updated_at": "2026-11-17T07:55:21.021640+00:00",
+  "updated_at": "2026-11-17T08:00:58.220986+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-17T07:55:21.021640+00:00"
+      "checked_at": "2026-11-17T08:00:58.220986+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-17T07:55:21.021640+00:00"
+      "checked_at": "2026-11-17T08:00:58.220986+00:00"
     }
   },
   "items": [
     {
+      "id": "b6756ffb91616611edb3",
+      "source": "TGcom24",
+      "title": "Istanbul, polizia turca nella sede di una tv di opposizione: arrestati i dirigenti",
+      "url": "https://www.tgcom24.mediaset.it/mondo/turchia-polizia-sede-tv-opposizione_119075468-202602k.shtml",
+      "published": "2026-11-17T08:00:00+00:00"
+    },
+    {
       "id": "0452af691c7f83eba03a",
       "source": "BBC News",
-      "title": "Ukraine and Russia trade strikes on key bridges",
+      "title": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
       "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T07:30:43+00:00"
+      "published": "2026-11-17T07:55:32+00:00"
     },
     {
       "id": "a4f2f16ff4f54bdde406",
@@ -297,13 +304,6 @@
       "title": "Palermo, accoltella in strada l'ex della fidanzata: arrestato 20enne",
       "url": "https://www.tgcom24.mediaset.it/cronaca/palermo-accoltella-ex-della-fidanzata-arrestato_119045698-202602k.shtml",
       "published": "2026-11-16T12:02:00+00:00"
-    },
-    {
-      "id": "af6f285b7f405eb41b89",
-      "source": "TGcom24",
-      "title": "Salerno, 88enne uccide la moglie malata e poi tenta il suicidio",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/salerno-serre-uccide-moglie-malata-poi-tenta-suicidio_119044498-202602k.shtml",
-      "published": "2026-11-16T11:32:00+00:00"
     },
     {
       "id": "c1ae6b0387b29516e870",
