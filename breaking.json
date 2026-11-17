@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-17T08:30:46.410780+00:00",
+  "updated_at": "2026-11-17T08:35:18.645544+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-17T08:30:46.410780+00:00"
+      "checked_at": "2026-11-17T08:35:18.645544+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-17T08:30:46.410780+00:00"
+      "checked_at": "2026-11-17T08:35:18.645544+00:00"
     }
   },
   "items": [
+    {
+      "id": "6025e11dc8f3e2b9294f",
+      "source": "TGcom24",
+      "title": "Papa Leone è rientrato a Roma",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/papa-leone-e-rientrato-a-roma_119076576-202602k.shtml",
+      "published": "2026-11-17T08:31:00+00:00"
+    },
     {
       "id": "0452af691c7f83eba03a",
       "source": "BBC News",
@@ -297,13 +304,6 @@
       "title": "Ucraina, Commissione Ue: \"Pronti a ospitare colloqui multilaterali, anche con Russia\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-16-novembre_119032170-202602k.shtml",
       "published": "2026-11-16T12:44:00+00:00"
-    },
-    {
-      "id": "43d00b43e7fecb371072",
-      "source": "TGcom24",
-      "title": "Palermo, accoltella in strada l'ex della fidanzata: arrestato 20enne",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/palermo-accoltella-ex-della-fidanzata-arrestato_119045698-202602k.shtml",
-      "published": "2026-11-16T12:02:00+00:00"
     },
     {
       "id": "c1ae6b0387b29516e870",
