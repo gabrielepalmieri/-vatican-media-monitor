@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-17T18:35:20.758162+00:00",
+  "updated_at": "2026-11-17T18:40:34.327357+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-17T18:35:20.758162+00:00"
+      "checked_at": "2026-11-17T18:40:34.327357+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-17T18:35:20.758162+00:00"
+      "checked_at": "2026-11-17T18:40:34.327357+00:00"
     }
   },
   "items": [
+    {
+      "id": "ca159543aedea599810a",
+      "source": "TGcom24",
+      "title": "Manovra, depositati circa 6.600 emendamenti",
+      "url": "https://www.tgcom24.mediaset.it/politica/manovra-emendamenti-depositati_119095498-202602k.shtml",
+      "published": "2026-11-17T18:36:00+00:00"
+    },
     {
       "id": "b7c4397942cde3199977",
       "source": "BBC News",
@@ -325,13 +332,6 @@
       "title": "BBC launches programme for children forced from school by bandits and poverty in West Africa",
       "url": "https://www.bbc.co.uk/news/articles/c3pw450ndyjqo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-17T00:08:19+00:00"
-    },
-    {
-      "id": "6e950a74e83792699232",
-      "source": "TGcom24",
-      "title": "Trump: \"Il ritorno di Huang a Nvidia? Non mi dispiacerebbe affatto\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/sam-altman-openai-jensen-huang-nvidia-sostegno_119065062-202602k.shtml",
-      "published": "2026-11-16T23:05:00+00:00"
     },
     {
       "id": "b07a6f1b92fc9973bf78",
