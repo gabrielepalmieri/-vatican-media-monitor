@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-17T09:20:25.809947+00:00",
+  "updated_at": "2026-11-17T09:25:19.018618+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-17T09:20:25.809947+00:00"
+      "checked_at": "2026-11-17T09:25:19.018618+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-17T09:20:25.809947+00:00"
+      "checked_at": "2026-11-17T09:25:19.018618+00:00"
     }
   },
   "items": [
+    {
+      "id": "c4b458ffd62d11060dc3",
+      "source": "BBC News",
+      "title": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
+      "url": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T09:20:29+00:00"
+    },
     {
       "id": "48c0bae34b7df5eaab0e",
       "source": "TGcom24",
       "title": "Cremlino: \"Europa ha posizione aggressiva, difficile suo ruolo nei negoziati\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-17-novembre_119074110-202602k.shtml",
       "published": "2026-11-17T09:00:00+00:00"
-    },
-    {
-      "id": "c4b458ffd62d11060dc3",
-      "source": "BBC News",
-      "title": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
-      "url": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T08:53:09+00:00"
     },
     {
       "id": "6025e11dc8f3e2b9294f",
