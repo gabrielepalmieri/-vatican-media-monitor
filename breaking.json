@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-17T15:15:32.706284+00:00",
+  "updated_at": "2026-11-17T15:20:28.609465+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-17T15:15:32.706284+00:00"
+      "checked_at": "2026-11-17T15:20:28.609465+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-17T15:15:32.706284+00:00"
+      "checked_at": "2026-11-17T15:20:28.609465+00:00"
     }
   },
   "items": [
+    {
+      "id": "c4b458ffd62d11060dc3",
+      "source": "BBC News",
+      "title": "Mozambique opposition leader goes on trial for terrorism over deadly election protests",
+      "url": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T15:19:19+00:00"
+    },
     {
       "id": "f5c591f989e61eb7f677",
       "source": "TGcom24",
@@ -40,6 +47,13 @@
       "published": "2026-11-17T13:49:00+00:00"
     },
     {
+      "id": "b7c4397942cde3199977",
+      "source": "BBC News",
+      "title": "UK sanctions firms over Israeli West Bank settlements",
+      "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T13:10:06+00:00"
+    },
+    {
       "id": "cd685cc02d5a71ee31e9",
       "source": "TGcom24",
       "title": "Omicidio Bergamini, confermata condanna a 16 anni per la ex Isabella Internò",
@@ -66,13 +80,6 @@
       "title": "Cybersicurezza, gli 007 tedeschi: \"Europa esposta a minaccia ibrida di lungo periodo\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/cybersicurezza-germania-europa-minaccia-ibrida-russia_119084076-202602k.shtml",
       "published": "2026-11-17T12:38:00+00:00"
-    },
-    {
-      "id": "c4b458ffd62d11060dc3",
-      "source": "BBC News",
-      "title": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
-      "url": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T12:35:57+00:00"
     },
     {
       "id": "ff231a943b9ce8a7c650",
@@ -171,13 +178,6 @@
       "title": "Istanbul, polizia turca nella sede di una tv di opposizione: arrestati i dirigenti",
       "url": "https://www.tgcom24.mediaset.it/mondo/turchia-polizia-sede-tv-opposizione_119075468-202602k.shtml",
       "published": "2026-11-17T08:00:00+00:00"
-    },
-    {
-      "id": "51fe219b88f44486f8d4",
-      "source": "BBC News",
-      "title": "Japan sends up jets after alleged Russian incursion of its airspace",
-      "url": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T07:44:17+00:00"
     },
     {
       "id": "a4f2f16ff4f54bdde406",
