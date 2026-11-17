@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-17T14:25:20.577331+00:00",
+  "updated_at": "2026-11-17T14:30:48.677234+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-17T14:25:20.577331+00:00"
+      "checked_at": "2026-11-17T14:30:48.677234+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-17T14:25:20.577331+00:00"
+      "checked_at": "2026-11-17T14:30:48.677234+00:00"
     }
   },
   "items": [
+    {
+      "id": "68d429104e6f0b97f63f",
+      "source": "BBC News",
+      "title": "How new US chip restrictions on South East Asia will hit China",
+      "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T14:25:45+00:00"
+    },
     {
       "id": "e7f0e74902f56c3e4342",
       "source": "TGcom24",
@@ -101,13 +108,6 @@
       "title": "Nvidia, l'azienda crea un comitato di vigilanza sull'export di chip",
       "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-risultati-trimestrali-jensen-huang-borsa_119080671-202602k.shtml",
       "published": "2026-11-17T11:02:00+00:00"
-    },
-    {
-      "id": "68d429104e6f0b97f63f",
-      "source": "BBC News",
-      "title": "How new US chip restrictions on South East Asia will hit China",
-      "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T10:22:09+00:00"
     },
     {
       "id": "eb73a76873508d658bbf",
