@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-17T22:45:28.775522+00:00",
+  "updated_at": "2026-11-17T22:50:26.164438+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-17T22:45:28.775522+00:00"
+      "checked_at": "2026-11-17T22:50:26.164438+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-17T22:45:28.775522+00:00"
+      "checked_at": "2026-11-17T22:50:26.164438+00:00"
     }
   },
   "items": [
+    {
+      "id": "2b49fb76551f913db5bd",
+      "source": "BBC News",
+      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+      "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T22:46:30+00:00"
+    },
     {
       "id": "1f01c61bc5eb75a43b09",
       "source": "TGcom24",
@@ -52,13 +59,6 @@
       "title": "US loses measles elimination status after 26 years amid record case numbers",
       "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-17T21:04:00+00:00"
-    },
-    {
-      "id": "2b49fb76551f913db5bd",
-      "source": "BBC News",
-      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-      "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T20:44:54+00:00"
     },
     {
       "id": "27f610f1e73d480dfdee",
