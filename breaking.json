@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-11-17T23:05:21.660999+00:00",
+  "updated_at": "2026-11-17T23:10:27.573747+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-11-17T23:05:21.660999+00:00"
+      "checked_at": "2026-11-17T23:10:27.573747+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-17T23:05:21.660999+00:00"
+      "checked_at": "2026-11-17T23:10:27.573747+00:00"
     }
   },
   "items": [
+    {
+      "id": "22050bf2baa3eb0bbbde",
+      "source": "BBC News",
+      "title": "Nvidia reports bumper results as firm says it not reinstating Huang",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T23:03:39+00:00"
+    },
     {
       "id": "2b49fb76551f913db5bd",
       "source": "BBC News",
       "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
       "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-17T22:46:30+00:00"
+    },
+    {
+      "id": "3339d659b38cdbde0451",
+      "source": "BBC News",
+      "title": "Thomas Markle charged over child sex abuse material in Philippines",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T22:44:15+00:00"
     },
     {
       "id": "1f01c61bc5eb75a43b09",
@@ -122,13 +136,6 @@
       "title": "UK sanctions firms over Israeli West Bank settlements",
       "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-17T18:27:27+00:00"
-    },
-    {
-      "id": "5c0161ab21f5d9ef99b4",
-      "source": "BBC News",
-      "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-      "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T18:24:21+00:00"
     },
     {
       "id": "864867958307af2c7fca",
