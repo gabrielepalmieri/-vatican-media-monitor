@@ -1,22 +1,29 @@
 {
-  "updated_at": "2026-11-17T06:00:55.984056+00:00",
+  "updated_at": "2026-11-17T06:05:19.208854+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-17T06:00:55.984056+00:00"
+      "checked_at": "2026-11-17T06:05:19.208854+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-17T06:00:55.984056+00:00"
+      "checked_at": "2026-11-17T06:05:19.208854+00:00"
     }
   },
   "items": [
     {
-      "id": "f824d786f9e1b4ed2b31",
+      "id": "65816464cb41ca317caf",
       "source": "TGcom24",
       "title": "Disservizi grandi banche Usa, segretario Sicurezza: \"Nessun attacco informatico\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-banca-app-down_119065253-202602k.shtml",
-      "published": "2026-11-17T06:05:00+00:00"
+      "published": "2026-11-17T06:01:00+00:00"
+    },
+    {
+      "id": "bc30d12eee0e2045cb98",
+      "source": "BBC News",
+      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+      "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T05:59:01+00:00"
     },
     {
       "id": "0452af691c7f83eba03a",
@@ -122,13 +129,6 @@
       "title": "Zelensky: \"Giovedì a Berlino nuovo incontro Europa-Usa-Ucraina-Nato\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-16-novembre_119032170-202602k.shtml",
       "published": "2026-11-16T22:02:00+00:00"
-    },
-    {
-      "id": "f68cf1f9473b3cbdce37",
-      "source": "BBC News",
-      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
-      "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T21:40:07+00:00"
     },
     {
       "id": "47c3dee6a0d78861e5db",
