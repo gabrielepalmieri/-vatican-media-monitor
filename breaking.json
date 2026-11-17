@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-17T16:05:20.261215+00:00",
+  "updated_at": "2026-11-17T16:10:38.903081+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-17T16:05:20.261215+00:00"
+      "checked_at": "2026-11-17T16:10:38.903081+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-17T16:05:20.261215+00:00"
+      "checked_at": "2026-11-17T16:10:38.903081+00:00"
     }
   },
   "items": [
+    {
+      "id": "0452af691c7f83eba03a",
+      "source": "BBC News",
+      "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T16:07:41+00:00"
+    },
     {
       "id": "b7c4397942cde3199977",
       "source": "BBC News",
@@ -87,13 +94,6 @@
       "title": "Omicidio Bergamini, confermata condanna a 16 anni per la ex Isabella Internò",
       "url": "https://www.tgcom24.mediaset.it/cronaca/omicidio-bergamini-condanna-isabella-interno_119084415-202602k.shtml",
       "published": "2026-11-17T13:07:00+00:00"
-    },
-    {
-      "id": "0452af691c7f83eba03a",
-      "source": "BBC News",
-      "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T13:01:11+00:00"
     },
     {
       "id": "1d3b36666caa68f31e3a",
