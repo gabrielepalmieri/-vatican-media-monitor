@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-17T20:40:36.141049+00:00",
+  "updated_at": "2026-11-17T20:45:30.023486+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-17T20:40:36.141049+00:00"
+      "checked_at": "2026-11-17T20:45:30.023486+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-17T20:40:36.141049+00:00"
+      "checked_at": "2026-11-17T20:45:30.023486+00:00"
     }
   },
   "items": [
+    {
+      "id": "2b49fb76551f913db5bd",
+      "source": "BBC News",
+      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+      "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T20:44:54+00:00"
+    },
     {
       "id": "27f610f1e73d480dfdee",
       "source": "TGcom24",
@@ -87,6 +94,20 @@
       "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
       "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-17T18:24:21+00:00"
+    },
+    {
+      "id": "864867958307af2c7fca",
+      "source": "BBC News",
+      "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+      "url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T18:20:36+00:00"
+    },
+    {
+      "id": "368da8280b99a3c6256c",
+      "source": "BBC News",
+      "title": "Who to watch in Spain's election race",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T18:13:45+00:00"
     },
     {
       "id": "73630c3e9231c42b8546",
