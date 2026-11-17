@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-17T09:00:59.161164+00:00",
+  "updated_at": "2026-11-17T09:05:20.160311+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-17T09:00:59.161164+00:00"
+      "checked_at": "2026-11-17T09:05:20.160311+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-17T09:00:59.161164+00:00"
+      "checked_at": "2026-11-17T09:05:20.160311+00:00"
     }
   },
   "items": [
+    {
+      "id": "48c0bae34b7df5eaab0e",
+      "source": "TGcom24",
+      "title": "Cremlino: \"Europa ha posizione aggressiva, difficile suo ruolo nei negoziati\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-17-novembre_119074110-202602k.shtml",
+      "published": "2026-11-17T09:00:00+00:00"
+    },
+    {
+      "id": "c4b458ffd62d11060dc3",
+      "source": "BBC News",
+      "title": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
+      "url": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T08:53:09+00:00"
+    },
     {
       "id": "6025e11dc8f3e2b9294f",
       "source": "TGcom24",
@@ -297,20 +311,6 @@
       "title": "Meloni: \"Anche nel 2027 aumenti rinnovo contratti privati tassati al 5%\"",
       "url": "https://www.tgcom24.mediaset.it/2026/video/meloni-anche-nel-2027-aumenti-rinnovo-contratti-privati-tassati-al-5-_119048415-02k.shtml",
       "published": "2026-11-16T13:35:00+00:00"
-    },
-    {
-      "id": "5c4143ce2cbe207776c1",
-      "source": "TGcom24",
-      "title": "Ucraina, Commissione Ue: \"Pronti a ospitare colloqui multilaterali, anche con Russia\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-16-novembre_119032170-202602k.shtml",
-      "published": "2026-11-16T12:44:00+00:00"
-    },
-    {
-      "id": "c1ae6b0387b29516e870",
-      "source": "BBC News",
-      "title": "Two mass shootings in South Africa leave 17 dead",
-      "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T10:57:48+00:00"
     },
     {
       "id": "72ccb94370e49274b29d",
