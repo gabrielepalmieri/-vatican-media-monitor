@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-17T20:35:19.592400+00:00",
+  "updated_at": "2026-11-17T20:40:36.141049+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-17T20:35:19.592400+00:00"
+      "checked_at": "2026-11-17T20:40:36.141049+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-17T20:35:19.592400+00:00"
+      "checked_at": "2026-11-17T20:40:36.141049+00:00"
     }
   },
   "items": [
+    {
+      "id": "27f610f1e73d480dfdee",
+      "source": "TGcom24",
+      "title": "Bergamo, donna soffocata in casa: il marito si è consegnato",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/donna-soffocata-dal-marito-in-casa-in-provincia-di-bergamo-il-marito-si-consegna_119098260-202602k.shtml",
+      "published": "2026-11-17T20:39:00+00:00"
+    },
     {
       "id": "e7a12f2bb2514c4f72e1",
       "source": "BBC News",
@@ -304,13 +311,6 @@
       "title": "Cagliari, soldi di persone vulnerabili per spese e cene: avvocata e marito indagati",
       "url": "https://www.tgcom24.mediaset.it/cronaca/cagliari-soldi-anziani-vulnerabili-spese-cene-indagati-peculato-avvocata-marito_119074615-202602k.shtml",
       "published": "2026-11-17T07:29:00+00:00"
-    },
-    {
-      "id": "cee1b9fe326f2549a332",
-      "source": "TGcom24",
-      "title": "Crimea, il governatore: \"Due uccisi da droni ucraini, colpito il ponte di Kerch\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-17-novembre_119074110-202602k.shtml",
-      "published": "2026-11-17T06:44:00+00:00"
     },
     {
       "id": "092ccd15117df21e5cdd",
