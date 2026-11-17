@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-16T13:34:44.672912+00:00",
+  "updated_at": "2026-11-17T04:27:05.940947+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-11-16T13:34:44.672912+00:00",
+  "un_verified_at": "2026-11-17T04:27:05.940947+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,39 +1918,6 @@
     }
   ],
   "days": {
-    "2026-11-15": {
-      "saints": [
-        {
-          "title": "Sant'Alberto Magno, vescovo e dottore della Chiesa, domenicano",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/15/sant-alberto-magno--vescovo-e-dottore-della-chiesa--domenicano.html"
-        },
-        {
-          "title": "San Giuseppe Pignatelli, sacerdote gesuita",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/15/san-giuseppe-pignatelli--sacerdote-gesuita.html"
-        },
-        {
-          "title": "San Macuto (Maclovio)",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/15/san-macuto-o-maclovio.html"
-        }
-      ],
-      "un": [
-        {
-          "title": "Giornata internazionale per la prevenzione e la lotta contro tutte le forme di criminalità organizzata transnazionale",
-          "url": "https://www.un.org/en/observances/fight-against-transnational-crime-day"
-        },
-        {
-          "title": "Giornata mondiale in ricordo delle vittime della strada",
-          "url": "https://www.un.org/en/observances/road-traffic-victims-day"
-        }
-      ],
-      "un_available": true,
-      "holy_see": [
-        {
-          "title": "Giornata mondiale dei poveri",
-          "url": "https://www.vatican.va/content/leo-xiv/it/messages/poor.html"
-        }
-      ]
-    },
     "2026-11-16": {
       "saints": [
         {
@@ -2675,6 +2642,17 @@
           "url": "https://www.un.org/en/observances/meditation-day"
         }
       ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-12-22": {
+      "saints": [
+        {
+          "title": "Santa Francesca Saverio Cabrini, vergine, fondatrice delle Missionarie del S. Cuore di Gesù",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/22/santa-francesca-saverio-cabrini--vergine--fondatrice-delle-missi.html"
+        }
+      ],
+      "un": [],
       "un_available": true,
       "holy_see": []
     }
