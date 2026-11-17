@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-17T05:35:19.198717+00:00",
+  "updated_at": "2026-11-17T05:40:25.054635+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-17T05:35:19.198717+00:00"
+      "checked_at": "2026-11-17T05:40:25.054635+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-17T05:35:19.198717+00:00"
+      "checked_at": "2026-11-17T05:40:25.054635+00:00"
     }
   },
   "items": [
@@ -26,6 +26,20 @@
       "published": "2026-11-17T05:00:00+00:00"
     },
     {
+      "id": "0452af691c7f83eba03a",
+      "source": "BBC News",
+      "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
+      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T04:18:32+00:00"
+    },
+    {
+      "id": "f5993c75a4d2bd9f698a",
+      "source": "BBC News",
+      "title": "Vance says he will decide 'sometime next year' about 2028 US presidential run",
+      "url": "https://www.bbc.co.uk/news/articles/cwkgr9m41engo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T03:07:23+00:00"
+    },
+    {
       "id": "f18988fd7144acd6de24",
       "source": "BBC News",
       "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
@@ -33,11 +47,53 @@
       "published": "2026-11-17T02:37:53+00:00"
     },
     {
+      "id": "91be4008237540c5d2fe",
+      "source": "BBC News",
+      "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+      "url": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T01:26:01+00:00"
+    },
+    {
+      "id": "f6fdc837424680b34fa0",
+      "source": "BBC News",
+      "title": "Kidnap, child marriage and poverty: Why millions of Nigerian children can't go to school",
+      "url": "https://www.bbc.co.uk/news/articles/c3pw450ndyjqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T00:08:19+00:00"
+    },
+    {
+      "id": "0bf51010e48bffaf6288",
+      "source": "BBC News",
+      "title": "The AI start-ups fixing India's broken roads and messy land records",
+      "url": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T23:25:53+00:00"
+    },
+    {
       "id": "109db43240d27c4cb8ae",
       "source": "BBC News",
       "title": "Five EU countries announce migrant deportation centre in Rwanda",
       "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-16T23:20:45+00:00"
+    },
+    {
+      "id": "4fb22c54712137889c5e",
+      "source": "BBC News",
+      "title": "California sues OpenAI over Hugging Face attack",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T23:12:24+00:00"
+    },
+    {
+      "id": "2bc8c37c83278c858f0c",
+      "source": "BBC News",
+      "title": "Taking Korea's toughest exam from behind bars",
+      "url": "https://www.bbc.co.uk/news/articles/cmewvxg855yno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T23:09:49+00:00"
+    },
+    {
+      "id": "682817b9abed07b867a4",
+      "source": "BBC News",
+      "title": "China is hosting the world's leaders in its AI wonderland. Here's what they won't see",
+      "url": "https://www.bbc.co.uk/news/articles/cm3eg3v9jkk8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T23:07:20+00:00"
     },
     {
       "id": "6e950a74e83792699232",
@@ -131,13 +187,6 @@
       "published": "2026-11-16T17:20:00+00:00"
     },
     {
-      "id": "535d8bde7d8affb9b14d",
-      "source": "BBC News",
-      "title": "When will we see Robert Pattinson as Bond in cinemas?",
-      "url": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T17:18:54+00:00"
-    },
-    {
       "id": "388b33cab1ca260df710",
       "source": "TGcom24",
       "title": "Un milione e mezzo di persone per l'ultima messa del Papa in Perù prima del rientro",
@@ -157,13 +206,6 @@
       "title": "Migranti, cinque Paesi Ue annunciano un centro rimpatri in Ruanda dal 2027",
       "url": "https://www.tgcom24.mediaset.it/mondo/migranti-vienna-centro-rimpatri-ruanda_119056590-202602k.shtml",
       "published": "2026-11-16T15:48:00+00:00"
-    },
-    {
-      "id": "0ac7678e4110aa7ef26a",
-      "source": "BBC News",
-      "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T15:40:16+00:00"
     },
     {
       "id": "795d10cd84364e95bd9c",
@@ -187,13 +229,6 @@
       "published": "2026-11-16T15:02:41+00:00"
     },
     {
-      "id": "9a0c40eab9854e0319b8",
-      "source": "BBC News",
-      "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-      "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T14:58:12+00:00"
-    },
-    {
       "id": "d83bdc4d9efaf8197e45",
       "source": "BBC News",
       "title": "Raye, Rosalía and Dolly Parton recognised in Grammy nominations",
@@ -206,13 +241,6 @@
       "title": "Ucraina, il Cremlino conferma: \"Incontro Putin e Xi prima del trilaterale\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-16-novembre_119032170-202602k.shtml",
       "published": "2026-11-16T14:45:00+00:00"
-    },
-    {
-      "id": "86f70558dd2540d330ea",
-      "source": "BBC News",
-      "title": "Estonia to close Russia border crossings after attempted drone factory arson attack",
-      "url": "https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T14:22:36+00:00"
     },
     {
       "id": "a82cdf5ed34aa93fa7b9",
@@ -234,13 +262,6 @@
       "title": "Ucraina, Commissione Ue: \"Pronti a ospitare colloqui multilaterali, anche con Russia\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-16-novembre_119032170-202602k.shtml",
       "published": "2026-11-16T12:44:00+00:00"
-    },
-    {
-      "id": "74ed966311a1c8772dbe",
-      "source": "BBC News",
-      "title": "Ashes of exiled Nobel Laureate Miguel Ángel Asturias returned to Guatemala",
-      "url": "https://www.bbc.co.uk/news/articles/cvde1klewg88o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T12:42:14+00:00"
     },
     {
       "id": "43d00b43e7fecb371072",
@@ -290,27 +311,6 @@
       "title": "New York teen reunites with cat missing after building collapse",
       "url": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-16T04:36:45+00:00"
-    },
-    {
-      "id": "c8e8a3616d732380fd53",
-      "source": "BBC News",
-      "title": "Is India rethinking its short-term military recruitment scheme?",
-      "url": "https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T00:41:42+00:00"
-    },
-    {
-      "id": "616617278145d8d95253",
-      "source": "BBC News",
-      "title": "Russia's mega-rich are already imagining a future after Putin",
-      "url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T00:13:14+00:00"
-    },
-    {
-      "id": "93d8561de82f964f6dd7",
-      "source": "BBC News",
-      "title": "Town rebuilt after devastating floods becomes showcase for Libyan strongman's rule",
-      "url": "https://www.bbc.co.uk/news/articles/cr0qjz77j4k1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T00:11:12+00:00"
     },
     {
       "id": "ccf10a8816bd02575f24",
