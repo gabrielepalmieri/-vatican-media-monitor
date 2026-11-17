@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-17T15:05:20.588263+00:00",
+  "updated_at": "2026-11-17T15:10:38.861128+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-17T15:05:20.588263+00:00"
+      "checked_at": "2026-11-17T15:10:38.861128+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-17T15:05:20.588263+00:00"
+      "checked_at": "2026-11-17T15:10:38.861128+00:00"
     }
   },
   "items": [
+    {
+      "id": "f5c591f989e61eb7f677",
+      "source": "TGcom24",
+      "title": "Mario Roggero, le motivazioni della condanna: \"Fu una deliberata aggressione\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/mario-roggero-motivazioni-condanna_119088575-202602k.shtml",
+      "published": "2026-11-17T15:04:00+00:00"
+    },
     {
       "id": "68d429104e6f0b97f63f",
       "source": "BBC News",
@@ -304,13 +311,6 @@
       "title": "Frosinone, donna trovata morta in casa: fermato il marito",
       "url": "https://www.tgcom24.mediaset.it/cronaca/frosinone-donna-morta-marito_119052635-202602k.shtml",
       "published": "2026-11-16T19:45:00+00:00"
-    },
-    {
-      "id": "1f33494d202b01c21c63",
-      "source": "TGcom24",
-      "title": "Disservizi per diverse grandi banche Usa: problemi di accesso online",
-      "url": "https://www.tgcom24.mediaset.it/mondo/usa-banca-app-down_119065253-202602k.shtml",
-      "published": "2026-11-16T19:10:00+00:00"
     },
     {
       "id": "a93b546d47c75efec889",
