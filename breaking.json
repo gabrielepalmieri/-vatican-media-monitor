@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-18T11:55:18.976012+00:00",
+  "updated_at": "2026-11-18T12:00:59.066174+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-18T11:55:18.976012+00:00"
+      "checked_at": "2026-11-18T12:00:59.066174+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-18T11:55:18.976012+00:00"
+      "checked_at": "2026-11-18T12:00:59.066174+00:00"
     }
   },
   "items": [
+    {
+      "id": "c8e155ad027f3175a7e5",
+      "source": "TGcom24",
+      "title": "Allarmi bomba nelle scuole, identificato in Usa l'utente Andropov: \"Non ha mandato lui le mail\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/allarmi-bomba-scuole-mikhail-andropov-usa_119119521-202602k.shtml",
+      "published": "2026-11-18T11:52:00+00:00"
+    },
     {
       "id": "368da8280b99a3c6256c",
       "source": "BBC News",
@@ -290,13 +297,6 @@
       "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
       "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-17T17:37:04+00:00"
-    },
-    {
-      "id": "d757ae0691edbc146028",
-      "source": "TGcom24",
-      "title": "Decreto Sicurezza, pronto lo stop ai social per gli under 13",
-      "url": "https://www.tgcom24.mediaset.it/politica/decreto-sicurezza-pronto-lo-stop-ai-social-per-gli-under-13_119095299-202602k.shtml",
-      "published": "2026-11-17T17:35:00+00:00"
     },
     {
       "id": "6973e8cf5448a937b74a",
