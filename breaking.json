@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-18T20:05:21.222494+00:00",
+  "updated_at": "2026-11-18T20:10:27.241391+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-18T20:05:21.222494+00:00"
+      "checked_at": "2026-11-18T20:10:27.241391+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-18T20:05:21.222494+00:00"
+      "checked_at": "2026-11-18T20:10:27.241391+00:00"
     }
   },
   "items": [
+    {
+      "id": "85e0af584eddaea18e03",
+      "source": "BBC News",
+      "title": "William and Kate meet PM Modi as they wrap up India tour",
+      "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T20:07:08+00:00"
+    },
     {
       "id": "872323af3561caa74be0",
       "source": "TGcom24",
@@ -31,13 +38,6 @@
       "title": "Colloquio Giappone-Russia a Shenzhen, primo in sette anni tra leader dei due Paesi",
       "url": "https://www.tgcom24.mediaset.it/mondo/vertice-apec-shenzhen-diretta_119111676-202602k.shtml",
       "published": "2026-11-18T18:00:00+00:00"
-    },
-    {
-      "id": "85e0af584eddaea18e03",
-      "source": "BBC News",
-      "title": "William and Kate reflect on 'enduring' UK-India ties with Modi",
-      "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T17:51:47+00:00"
     },
     {
       "id": "abad533fbc889b76dd06",
