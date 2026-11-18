@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-18T14:20:30.944696+00:00",
+  "updated_at": "2026-11-18T14:25:21.988478+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-18T14:20:30.944696+00:00"
+      "checked_at": "2026-11-18T14:25:21.988478+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-18T14:20:30.944696+00:00"
+      "checked_at": "2026-11-18T14:25:21.988478+00:00"
     }
   },
   "items": [
@@ -17,6 +17,13 @@
       "title": "Israele lancia un attacco nel centro di Gaza: civili in fuga",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-18-novembre_119104067-202602k.shtml",
       "published": "2026-11-18T14:05:00+00:00"
+    },
+    {
+      "id": "adce13fcb0db075f039b",
+      "source": "BBC News",
+      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T13:55:14+00:00"
     },
     {
       "id": "51834c9a7bbbc7cdbe41",
@@ -166,13 +173,6 @@
       "published": "2026-11-18T08:06:00+00:00"
     },
     {
-      "id": "3339d659b38cdbde0451",
-      "source": "BBC News",
-      "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
-      "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T07:48:18+00:00"
-    },
-    {
       "id": "699b4f20783ee1875ebe",
       "source": "TGcom24",
       "title": "Prato, padre poligamo ottiene gli assegni familiari per gli 11 figli",
@@ -229,11 +229,39 @@
       "published": "2026-11-18T04:50:00+00:00"
     },
     {
+      "id": "3ca0a0642739705c8339",
+      "source": "BBC News",
+      "title": "Waymo pulls driverless taxis from all US freeways",
+      "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T03:07:22+00:00"
+    },
+    {
+      "id": "7e4fe86ca9d6ad4af6d9",
+      "source": "BBC News",
+      "title": "Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump",
+      "url": "https://www.bbc.co.uk/news/articles/cm15ezz8n394o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T02:29:52+00:00"
+    },
+    {
+      "id": "de73136136768509b53d",
+      "source": "BBC News",
+      "title": "Irishman charged with destroying US military aircraft with axe",
+      "url": "https://www.bbc.co.uk/news/articles/cwd01jjl5zzzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T02:00:37+00:00"
+    },
+    {
       "id": "22050bf2baa3eb0bbbde",
       "source": "BBC News",
       "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
       "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-18T01:18:18+00:00"
+    },
+    {
+      "id": "b11ffb4d215809d4f226",
+      "source": "BBC News",
+      "title": "Pakistan's solar revolution is so successful the national grid is lagging behind",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T23:34:56+00:00"
     },
     {
       "id": "0dacf6fa48321a3d9979",
@@ -285,13 +313,6 @@
       "published": "2026-11-17T21:12:00+00:00"
     },
     {
-      "id": "81bc5430a6d2c5fd0c84",
-      "source": "BBC News",
-      "title": "Russian military plane crashes, killing all 19 on board",
-      "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T21:06:11+00:00"
-    },
-    {
       "id": "6c7566592d35b62869b3",
       "source": "BBC News",
       "title": "US loses measles elimination status after 26 years amid record case numbers",
@@ -320,13 +341,6 @@
       "published": "2026-11-17T18:20:36+00:00"
     },
     {
-      "id": "b96e24d90f67ad6ca837",
-      "source": "BBC News",
-      "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
-      "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T17:37:04+00:00"
-    },
-    {
       "id": "6973e8cf5448a937b74a",
       "source": "BBC News",
       "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
@@ -341,27 +355,6 @@
       "published": "2026-11-17T15:54:15+00:00"
     },
     {
-      "id": "eec17139f442d0ee2aa4",
-      "source": "BBC News",
-      "title": "How the attack on Crimean Bridge unfolded",
-      "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T15:38:10+00:00"
-    },
-    {
-      "id": "68d429104e6f0b97f63f",
-      "source": "BBC News",
-      "title": "How new US chip restrictions on South East Asia will hit China",
-      "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T14:25:45+00:00"
-    },
-    {
-      "id": "5613666ce4a6db4588b8",
-      "source": "BBC News",
-      "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
-      "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T11:17:32+00:00"
-    },
-    {
       "id": "d4f62978504cc0e13b17",
       "source": "BBC News",
       "title": "Will President Trump meet Kim Jong Un?",
@@ -369,25 +362,11 @@
       "published": "2026-11-17T10:13:27+00:00"
     },
     {
-      "id": "ebe7ab23faaa2e69874b",
-      "source": "BBC News",
-      "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
-      "url": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T09:27:44+00:00"
-    },
-    {
       "id": "092ccd15117df21e5cdd",
       "source": "BBC News",
       "title": "Inside the Chinese 'AI wonderland' where Xi will host Trump",
       "url": "https://www.bbc.co.uk/news/videos/ckjwjl6ywgn9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-17T06:23:51+00:00"
-    },
-    {
-      "id": "bc30d12eee0e2045cb98",
-      "source": "BBC News",
-      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-      "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T05:59:01+00:00"
     }
   ]
 }
