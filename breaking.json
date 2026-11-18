@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-11-18T07:45:29.525934+00:00",
+  "updated_at": "2026-11-18T07:50:25.577990+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-18T07:45:29.525934+00:00"
+      "checked_at": "2026-11-18T07:50:25.577990+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-18T07:45:29.525934+00:00"
+      "checked_at": "2026-11-18T07:50:25.577990+00:00"
     }
   },
   "items": [
+    {
+      "id": "3339d659b38cdbde0451",
+      "source": "BBC News",
+      "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T07:48:18+00:00"
+    },
     {
       "id": "699b4f20783ee1875ebe",
       "source": "TGcom24",
       "title": "Prato, padre poligamo ottiene gli assegni familiari per gli 11 figli",
       "url": "https://www.tgcom24.mediaset.it/cronaca/prato-padre-poligamo-assegni-familiari-11-figli_119106340-202602k.shtml",
       "published": "2026-11-18T07:35:00+00:00"
+    },
+    {
+      "id": "24f0f2b57c2a7d376062",
+      "source": "BBC News",
+      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+      "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T07:00:25+00:00"
     },
     {
       "id": "8ae86e5f866f68ffefc8",
@@ -45,6 +59,13 @@
       "title": "Vaccini, gli Usa perdono lo status di Paese che ha eliminato il morbillo",
       "url": "https://www.tgcom24.mediaset.it/mondo/vaccini-usa-perdono-lo-status-di-paese-che-ha-eliminato-morbillo_119103677-202602k.shtml",
       "published": "2026-11-18T05:10:00+00:00"
+    },
+    {
+      "id": "88729a749c23e89c4a5d",
+      "source": "BBC News",
+      "title": "Rubio says US not 'under systemic attack' after series of tech outages",
+      "url": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T04:57:06+00:00"
     },
     {
       "id": "240f765a1f42b1afb658",
@@ -80,13 +101,6 @@
       "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
       "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-17T22:46:30+00:00"
-    },
-    {
-      "id": "3339d659b38cdbde0451",
-      "source": "BBC News",
-      "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
-      "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T22:44:15+00:00"
     },
     {
       "id": "1f01c61bc5eb75a43b09",
@@ -145,13 +159,6 @@
       "published": "2026-11-17T20:30:20+00:00"
     },
     {
-      "id": "0a2a66dfac9eaee96c57",
-      "source": "BBC News",
-      "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
-      "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T20:25:46+00:00"
-    },
-    {
       "id": "8145bc18d05eac6aaee6",
       "source": "TGcom24",
       "title": "La Camera approva il ddl antisemitismo,147 i si: è legge",
@@ -173,25 +180,11 @@
       "published": "2026-11-17T19:04:00+00:00"
     },
     {
-      "id": "011b9c31d7a9fb8afc7a",
-      "source": "BBC News",
-      "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
-      "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T18:58:57+00:00"
-    },
-    {
       "id": "ca159543aedea599810a",
       "source": "TGcom24",
       "title": "Manovra, depositati circa 6.600 emendamenti",
       "url": "https://www.tgcom24.mediaset.it/politica/manovra-emendamenti-depositati_119095498-202602k.shtml",
       "published": "2026-11-17T18:36:00+00:00"
-    },
-    {
-      "id": "b7c4397942cde3199977",
-      "source": "BBC News",
-      "title": "UK sanctions firms over Israeli West Bank settlements",
-      "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T18:27:27+00:00"
     },
     {
       "id": "864867958307af2c7fca",
@@ -311,13 +304,6 @@
       "title": "Omicidio Bergamini, confermata condanna a 16 anni per la ex Isabella Internò",
       "url": "https://www.tgcom24.mediaset.it/cronaca/omicidio-bergamini-condanna-isabella-interno_119084415-202602k.shtml",
       "published": "2026-11-17T13:07:00+00:00"
-    },
-    {
-      "id": "55176fb7e386ba34d734",
-      "source": "BBC News",
-      "title": "Gunmen kill Costa Rican journalist who reported on drugs trade",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T11:58:16+00:00"
     },
     {
       "id": "02b65f3bf8bdc17c9154",
