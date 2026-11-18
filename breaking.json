@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-18T16:25:20.223950+00:00",
+  "updated_at": "2026-11-18T16:30:47.735495+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-18T16:25:20.223950+00:00"
+      "checked_at": "2026-11-18T16:30:47.735495+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-18T16:25:20.223950+00:00"
+      "checked_at": "2026-11-18T16:30:47.735495+00:00"
     }
   },
   "items": [
@@ -31,6 +31,13 @@
       "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
       "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-18T16:05:32+00:00"
+    },
+    {
+      "id": "96544bee5c164c872b92",
+      "source": "BBC News",
+      "title": "Fiona the hippo undergoing care after swallowing a hat at Cincinnati Zoo",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d93z0e9gjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T16:05:26+00:00"
     },
     {
       "id": "04d67eed55d58afd6035",
@@ -215,6 +222,13 @@
       "published": "2026-11-18T08:37:00+00:00"
     },
     {
+      "id": "505ba5759e364befdf40",
+      "source": "BBC News",
+      "title": "BBC correspondents discuss historic Trump, Xi and Putin meeting",
+      "url": "https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T08:33:32+00:00"
+    },
+    {
       "id": "a62c77e908e96f32ad34",
       "source": "TGcom24",
       "title": "Aggressioni minicar a Roma, pm: \"I due giovani si accanivano contro le vittime\"",
@@ -374,27 +388,6 @@
       "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
       "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-17T17:19:57+00:00"
-    },
-    {
-      "id": "3adf87ca291f0411662b",
-      "source": "BBC News",
-      "title": "BBC reports from Kyiv bridge hit by Russian attack",
-      "url": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T15:54:15+00:00"
-    },
-    {
-      "id": "d4f62978504cc0e13b17",
-      "source": "BBC News",
-      "title": "Will President Trump meet Kim Jong Un?",
-      "url": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T10:13:27+00:00"
-    },
-    {
-      "id": "092ccd15117df21e5cdd",
-      "source": "BBC News",
-      "title": "Inside the Chinese 'AI wonderland' where Xi will host Trump",
-      "url": "https://www.bbc.co.uk/news/videos/ckjwjl6ywgn9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T06:23:51+00:00"
     }
   ]
 }
