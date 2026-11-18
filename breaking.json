@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-18T15:55:19.852313+00:00",
+  "updated_at": "2026-11-18T16:01:00.251856+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-18T15:55:19.852313+00:00"
+      "checked_at": "2026-11-18T16:01:00.251856+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-18T15:55:19.852313+00:00"
+      "checked_at": "2026-11-18T16:01:00.251856+00:00"
     }
   },
   "items": [
+    {
+      "id": "df4f7670ee212f8190fa",
+      "source": "BBC News",
+      "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T15:56:29+00:00"
+    },
     {
       "id": "04d67eed55d58afd6035",
       "source": "TGcom24",
@@ -24,13 +31,6 @@
       "title": "Parents jailed for torture and death of four-year-old girl in France in 1987",
       "url": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-18T15:39:57+00:00"
-    },
-    {
-      "id": "df4f7670ee212f8190fa",
-      "source": "BBC News",
-      "title": "Hakeem Jeffries nominated to be US Speaker of the House",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T15:38:02+00:00"
     },
     {
       "id": "77fe2ae81549c816013f",
