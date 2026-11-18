@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-18T05:00:58.839936+00:00",
+  "updated_at": "2026-11-18T05:05:19.080100+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-18T05:00:58.839936+00:00"
+      "checked_at": "2026-11-18T05:05:19.080100+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-18T05:00:58.839936+00:00"
+      "checked_at": "2026-11-18T05:05:19.080100+00:00"
     }
   },
   "items": [
+    {
+      "id": "110c75d6874a9888d443",
+      "source": "TGcom24",
+      "title": "Vaccini, Usa perdono lo status di Paese che ha eliminato morbillo",
+      "url": "https://www.tgcom24.mediaset.it/mondo/vaccini-usa-perdono-lo-status-di-paese-che-ha-eliminato-morbillo_119103677-202602k.shtml",
+      "published": "2026-11-18T05:00:00+00:00"
+    },
     {
       "id": "daf33dda062eea742e10",
       "source": "TGcom24",
@@ -325,13 +332,6 @@
       "title": "Nvidia, l'azienda crea un comitato di vigilanza sull'export di chip",
       "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-risultati-trimestrali-jensen-huang-borsa_119080671-202602k.shtml",
       "published": "2026-11-17T11:02:00+00:00"
-    },
-    {
-      "id": "eb73a76873508d658bbf",
-      "source": "TGcom24",
-      "title": "Raid sul ponte di Crimea, Zelensky rivendica: \"Operazione senza precedenti\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-17-novembre_119074110-202602k.shtml",
-      "published": "2026-11-17T10:15:00+00:00"
     },
     {
       "id": "d4f62978504cc0e13b17",
