@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-18T17:55:18.510255+00:00",
+  "updated_at": "2026-11-18T18:00:58.528123+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-18T17:55:18.510255+00:00"
+      "checked_at": "2026-11-18T18:00:58.528123+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-18T17:55:18.510255+00:00"
+      "checked_at": "2026-11-18T18:00:58.528123+00:00"
     }
   },
   "items": [
+    {
+      "id": "0881ac16dc5dcc269384",
+      "source": "TGcom24",
+      "title": "Colloquio Giappone-Russia a Shenzhen, primo in sette anni tra leader dei due Paesi",
+      "url": "https://www.tgcom24.mediaset.it/mondo/vertice-apec-shenzhen-diretta_119111676-202602k.shtml",
+      "published": "2026-11-18T18:00:00+00:00"
+    },
     {
       "id": "85e0af584eddaea18e03",
       "source": "BBC News",
@@ -38,6 +45,13 @@
       "title": "Bce, Meloni ha ricevuto il candidato spagnolo alla presidenza de Cos",
       "url": "https://www.tgcom24.mediaset.it/economia/bce-giorgia-meloni-incontra-de-cos_119137937-202602k.shtml",
       "published": "2026-11-18T17:30:00+00:00"
+    },
+    {
+      "id": "8cef60fb6060f7cd9037",
+      "source": "BBC News",
+      "title": "New video shows explosions moments before part of Crimea Bridge collapses",
+      "url": "https://www.bbc.co.uk/news/videos/ckvg28jy77z5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T17:09:43+00:00"
     },
     {
       "id": "57408c309edd28a99b4d",
@@ -318,13 +332,6 @@
       "title": "Rubio says US not 'under systemic attack' after series of tech outages",
       "url": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-18T04:57:06+00:00"
-    },
-    {
-      "id": "240f765a1f42b1afb658",
-      "source": "TGcom24",
-      "title": "Incontro Xi-Putin al vertice Apec di Shenzhen: \"Rapporti saldi come una montagna\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/incontro-xi-putin-apec-shenzhen_119103883-202602k.shtml",
-      "published": "2026-11-18T04:50:00+00:00"
     },
     {
       "id": "3ca0a0642739705c8339",
