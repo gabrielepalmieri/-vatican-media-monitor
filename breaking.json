@@ -1,16 +1,37 @@
 {
-  "updated_at": "2026-11-18T23:40:25.388679+00:00",
+  "updated_at": "2026-11-18T23:45:37.327484+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-18T23:40:25.388679+00:00"
+      "checked_at": "2026-11-18T23:45:37.327484+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-18T23:40:25.388679+00:00"
+      "checked_at": "2026-11-18T23:45:37.327484+00:00"
     }
   },
   "items": [
+    {
+      "id": "613b376344f516023328",
+      "source": "BBC News",
+      "title": "Claude-maker Anthropic poised for $1.4tn stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T23:44:27+00:00"
+    },
+    {
+      "id": "adce13fcb0db075f039b",
+      "source": "BBC News",
+      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T23:42:07+00:00"
+    },
+    {
+      "id": "40a8a7d23d81f6252e3d",
+      "source": "BBC News",
+      "title": "Russian man accused of spying on US tech defence company that assists Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T23:28:03+00:00"
+    },
     {
       "id": "461e1d40ba3afd6787cc",
       "source": "BBC News",
@@ -54,6 +75,13 @@
       "published": "2026-11-18T21:55:00+00:00"
     },
     {
+      "id": "258ea681a132a48a41d1",
+      "source": "BBC News",
+      "title": "Can Anthropic's record breaking IPO stop the AI bubble bursting?",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T21:28:08+00:00"
+    },
+    {
       "id": "df4f7670ee212f8190fa",
       "source": "BBC News",
       "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
@@ -94,13 +122,6 @@
       "title": "Colloquio Giappone-Russia a Shenzhen, primo in sette anni tra leader dei due Paesi",
       "url": "https://www.tgcom24.mediaset.it/mondo/vertice-apec-shenzhen-diretta_119111676-202602k.shtml",
       "published": "2026-11-18T18:00:00+00:00"
-    },
-    {
-      "id": "abad533fbc889b76dd06",
-      "source": "BBC News",
-      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-      "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T17:34:25+00:00"
     },
     {
       "id": "10cdd6baf20b499b0b25",
@@ -194,13 +215,6 @@
       "published": "2026-11-18T14:05:00+00:00"
     },
     {
-      "id": "adce13fcb0db075f039b",
-      "source": "BBC News",
-      "title": "The seven Anthropic founders who are about to become multi-billionaires",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T13:55:14+00:00"
-    },
-    {
       "id": "51834c9a7bbbc7cdbe41",
       "source": "TGcom24",
       "title": "Media Usa: \"I dem preparano ampia indagine sulla famiglia Trump\"",
@@ -241,13 +255,6 @@
       "title": "Allarmi a scuola, identificato negli Usa l'utente Andropov: \"Non ha mandato lui le mail\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/allarmi-bomba-scuole-mikhail-andropov-usa_119119521-202602k.shtml",
       "published": "2026-11-18T11:52:00+00:00"
-    },
-    {
-      "id": "368da8280b99a3c6256c",
-      "source": "BBC News",
-      "title": "Who to watch in Spain's election race",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T11:44:25+00:00"
     },
     {
       "id": "559677e2e58cb4d56370",
@@ -395,20 +402,6 @@
       "title": "US loses measles elimination status after 26 years amid record case numbers",
       "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-17T21:04:00+00:00"
-    },
-    {
-      "id": "e7a12f2bb2514c4f72e1",
-      "source": "BBC News",
-      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-      "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T20:30:20+00:00"
-    },
-    {
-      "id": "6973e8cf5448a937b74a",
-      "source": "BBC News",
-      "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-      "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T17:19:57+00:00"
     }
   ]
 }
