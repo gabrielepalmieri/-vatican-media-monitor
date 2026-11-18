@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-18T05:30:44.710841+00:00",
+  "updated_at": "2026-11-18T05:35:18.480018+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-18T05:30:44.710841+00:00"
+      "checked_at": "2026-11-18T05:35:18.480018+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-18T05:30:44.710841+00:00"
+      "checked_at": "2026-11-18T05:35:18.480018+00:00"
     }
   },
   "items": [
+    {
+      "id": "148455d34f91778e7ebf",
+      "source": "TGcom24",
+      "title": "L'Iran lancia droni contro una base americana in Kuwait",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-18-novembre_119104067-202602k.shtml",
+      "published": "2026-11-18T05:30:00+00:00"
+    },
     {
       "id": "682a568694c9af65fa95",
       "source": "TGcom24",
@@ -325,13 +332,6 @@
       "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
       "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-17T11:17:32+00:00"
-    },
-    {
-      "id": "674b00680ae99b38f9d9",
-      "source": "TGcom24",
-      "title": "Nvidia, l'azienda crea un comitato di vigilanza sull'export di chip",
-      "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-risultati-trimestrali-jensen-huang-borsa_119080671-202602k.shtml",
-      "published": "2026-11-17T11:02:00+00:00"
     },
     {
       "id": "d4f62978504cc0e13b17",
