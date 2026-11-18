@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-11-18T17:30:48.021939+00:00",
+  "updated_at": "2026-11-18T17:35:19.881210+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-18T17:30:48.021939+00:00"
+      "checked_at": "2026-11-18T17:35:19.881210+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-18T17:30:48.021939+00:00"
+      "checked_at": "2026-11-18T17:35:19.881210+00:00"
     }
   },
   "items": [
+    {
+      "id": "abad533fbc889b76dd06",
+      "source": "BBC News",
+      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T17:34:25+00:00"
+    },
     {
       "id": "df4f7670ee212f8190fa",
       "source": "BBC News",
       "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
       "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T17:09:02+00:00"
+      "published": "2026-11-18T17:34:23+00:00"
+    },
+    {
+      "id": "10cdd6baf20b499b0b25",
+      "source": "TGcom24",
+      "title": "Bce, Meloni ha ricevuto il candidato spagnolo alla presidenza de Cos",
+      "url": "https://www.tgcom24.mediaset.it/economia/bce-giorgia-meloni-incontra-de-cos_119137937-202602k.shtml",
+      "published": "2026-11-18T17:30:00+00:00"
     },
     {
       "id": "57408c309edd28a99b4d",
@@ -94,13 +108,6 @@
       "title": "Studente investito e ucciso sulle strisce a Roma, un anno all'automobilista",
       "url": "https://www.tgcom24.mediaset.it/cronaca/roma-incidente-casilina-jacopo-pio-cirillo-patteggiamento_119129788-202602k.shtml",
       "published": "2026-11-18T15:00:00+00:00"
-    },
-    {
-      "id": "abad533fbc889b76dd06",
-      "source": "BBC News",
-      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-      "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T14:57:56+00:00"
     },
     {
       "id": "9746137efe076aa3b64f",
@@ -360,13 +367,6 @@
       "title": "Millions of red crabs start annual migration on Christmas Island",
       "url": "https://www.bbc.co.uk/news/videos/cq62p73jjl90o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-17T23:05:39+00:00"
-    },
-    {
-      "id": "a81e923ca1c7c77a8d30",
-      "source": "TGcom24",
-      "title": "Lega, Massimiliano Romeo sotituito al Senato: Deostro nuovo capogruppo",
-      "url": "https://www.tgcom24.mediaset.it/politica/lega-romeo-sostituito-al-senato_119103497-202602k.shtml",
-      "published": "2026-11-17T22:59:00+00:00"
     },
     {
       "id": "2b49fb76551f913db5bd",
