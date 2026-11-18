@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-18T08:35:18.937821+00:00",
+  "updated_at": "2026-11-18T08:40:25.203076+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-18T08:35:18.937821+00:00"
+      "checked_at": "2026-11-18T08:40:25.203076+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-18T08:35:18.937821+00:00"
+      "checked_at": "2026-11-18T08:40:25.203076+00:00"
     }
   },
   "items": [
+    {
+      "id": "08960df6ff6d571c0e5c",
+      "source": "TGcom24",
+      "title": "Guerra Ucraina, Moldova: \"Droni hanno violato lo spazio aereo durante raid russi\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-18-novembre_119104977-202602k.shtml",
+      "published": "2026-11-18T08:37:00+00:00"
+    },
+    {
+      "id": "9a7864fb285da2ea7ad9",
+      "source": "BBC News",
+      "title": "Ghana's new $60m presidential jet sparks public outrage",
+      "url": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T08:08:20+00:00"
+    },
     {
       "id": "a62c77e908e96f32ad34",
       "source": "TGcom24",
@@ -87,6 +101,13 @@
       "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
       "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-18T01:18:18+00:00"
+    },
+    {
+      "id": "0dacf6fa48321a3d9979",
+      "source": "BBC News",
+      "title": "Millions of red crabs start annual migration on Christmas Island",
+      "url": "https://www.bbc.co.uk/news/videos/cq62p73jjl90o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T23:05:39+00:00"
     },
     {
       "id": "7bbe1b15bf5d618dd2c1",
@@ -299,13 +320,6 @@
       "published": "2026-11-17T14:23:00+00:00"
     },
     {
-      "id": "927e015d8acb7f6e75e7",
-      "source": "TGcom24",
-      "title": "Mattarella ai giovani: \"Vostro compito cambiare il mondo, meritate fiducia\"",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/sergio-mattarella-giovani-cattolica-milano_119086967-02k.shtml",
-      "published": "2026-11-17T13:49:00+00:00"
-    },
-    {
       "id": "02b65f3bf8bdc17c9154",
       "source": "BBC News",
       "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
@@ -346,13 +360,6 @@
       "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
       "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-17T05:59:01+00:00"
-    },
-    {
-      "id": "b07a6f1b92fc9973bf78",
-      "source": "BBC News",
-      "title": "Pope Leo hit by flying rosary while waving to crowds in Peru",
-      "url": "https://www.bbc.co.uk/news/videos/ckpdwn23j5j8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T21:12:13+00:00"
     }
   ]
 }
