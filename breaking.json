@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-18T06:50:25.144592+00:00",
+  "updated_at": "2026-11-18T06:55:17.725451+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-18T06:50:25.144592+00:00"
+      "checked_at": "2026-11-18T06:55:17.725451+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-18T06:50:25.144592+00:00"
+      "checked_at": "2026-11-18T06:55:17.725451+00:00"
     }
   },
   "items": [
+    {
+      "id": "fa0724f1c411c78397ae",
+      "source": "TGcom24",
+      "title": "Gemelle Kessler, rivelata la lettera d'addio: \"Abbiamo toccato il fondo\"",
+      "url": "https://www.tgcom24.mediaset.it/spettacolo/gemelle-kessler-morte-lettera-addio_119105159-202602k.shtml",
+      "published": "2026-11-18T06:54:00+00:00"
+    },
     {
       "id": "12913b93c454a7987ef9",
       "source": "TGcom24",
@@ -42,7 +49,7 @@
     {
       "id": "22050bf2baa3eb0bbbde",
       "source": "BBC News",
-      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
       "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-18T01:18:18+00:00"
     },
@@ -304,13 +311,6 @@
       "title": "Cybersicurezza, gli 007 tedeschi: \"Europa esposta a minaccia ibrida di lungo periodo\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/cybersicurezza-germania-europa-minaccia-ibrida-russia_119084076-202602k.shtml",
       "published": "2026-11-17T12:38:00+00:00"
-    },
-    {
-      "id": "ff231a943b9ce8a7c650",
-      "source": "TGcom24",
-      "title": "L'Ue: \"Temu non contrasta la vendita di prodotti illegali, rischia una multa\"",
-      "url": "https://www.tgcom24.mediaset.it/economia/temu-multa-ue_119081579-202602k.shtml",
-      "published": "2026-11-17T12:10:00+00:00"
     },
     {
       "id": "55176fb7e386ba34d734",
