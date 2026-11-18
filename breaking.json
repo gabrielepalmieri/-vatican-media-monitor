@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-18T09:25:19.149863+00:00",
+  "updated_at": "2026-11-18T09:30:46.939660+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-18T09:25:19.149863+00:00"
+      "checked_at": "2026-11-18T09:30:46.939660+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-18T09:25:19.149863+00:00"
+      "checked_at": "2026-11-18T09:30:46.939660+00:00"
     }
   },
   "items": [
+    {
+      "id": "9a7864fb285da2ea7ad9",
+      "source": "BBC News",
+      "title": "Ghana's new $60m presidential jet sparks public outrage",
+      "url": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T09:27:51+00:00"
+    },
     {
       "id": "2669f0a8f54597cc0cf5",
       "source": "TGcom24",
@@ -24,13 +31,6 @@
       "title": "Ucraina, Moldova: \"Droni hanno violato lo spazio aereo durante raid russi\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-18-novembre_119104977-202602k.shtml",
       "published": "2026-11-18T08:37:00+00:00"
-    },
-    {
-      "id": "9a7864fb285da2ea7ad9",
-      "source": "BBC News",
-      "title": "Ghana's new $60m presidential jet sparks public outrage",
-      "url": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T08:08:20+00:00"
     },
     {
       "id": "a62c77e908e96f32ad34",
@@ -238,7 +238,7 @@
     {
       "id": "73630c3e9231c42b8546",
       "source": "TGcom24",
-      "title": "Salerno, anziana uccisa in casa: fermata una persona per l'omicidio",
+      "title": "Salerno, 87enne uccisa in casa: fermato un parente",
       "url": "https://www.tgcom24.mediaset.it/cronaca/salerno-anziana-uccisa-fermata-persona_119095311-202602k.shtml",
       "published": "2026-11-17T18:05:00+00:00"
     },
