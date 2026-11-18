@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-18T21:10:31.580074+00:00",
+  "updated_at": "2026-11-18T21:15:34.902985+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-18T21:10:31.580074+00:00"
+      "checked_at": "2026-11-18T21:15:34.902985+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-18T21:10:31.580074+00:00"
+      "checked_at": "2026-11-18T21:15:34.902985+00:00"
     }
   },
   "items": [
+    {
+      "id": "df4f7670ee212f8190fa",
+      "source": "BBC News",
+      "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T21:13:06+00:00"
+    },
     {
       "id": "7654a6f088a80c2f16a6",
       "source": "TGcom24",
@@ -59,13 +66,6 @@
       "title": "Grand Theft Auto 6 is a masterpiece, say critics",
       "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-18T17:34:25+00:00"
-    },
-    {
-      "id": "df4f7670ee212f8190fa",
-      "source": "BBC News",
-      "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T17:34:23+00:00"
     },
     {
       "id": "10cdd6baf20b499b0b25",
