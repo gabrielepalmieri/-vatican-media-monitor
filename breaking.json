@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-18T22:30:47.069179+00:00",
+  "updated_at": "2026-11-18T22:35:18.741671+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-18T22:30:47.069179+00:00"
+      "checked_at": "2026-11-18T22:35:18.741671+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-18T22:30:47.069179+00:00"
+      "checked_at": "2026-11-18T22:35:18.741671+00:00"
     }
   },
   "items": [
+    {
+      "id": "7abc1b4f160116ac9595",
+      "source": "BBC News",
+      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T22:34:56+00:00"
+    },
     {
       "id": "c5e094e3b880392bc14e",
       "source": "TGcom24",
@@ -31,13 +38,6 @@
       "title": "Caso Almasri, la Corte penale internazionale: \"Ancora libero in Libia, vede chi vuole\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/almasri-libero-libia-condanna-corte-penale-internazionale_119145345-202602k.shtml",
       "published": "2026-11-18T20:38:00+00:00"
-    },
-    {
-      "id": "7abc1b4f160116ac9595",
-      "source": "BBC News",
-      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T20:14:57+00:00"
     },
     {
       "id": "85e0af584eddaea18e03",
