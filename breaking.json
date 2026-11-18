@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-18T23:05:25.857859+00:00",
+  "updated_at": "2026-11-18T23:10:25.373107+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-18T23:05:25.857859+00:00"
+      "checked_at": "2026-11-18T23:10:25.373107+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-18T23:05:25.857859+00:00"
+      "checked_at": "2026-11-18T23:10:25.373107+00:00"
     }
   },
   "items": [
+    {
+      "id": "461e1d40ba3afd6787cc",
+      "source": "BBC News",
+      "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T23:04:06+00:00"
+    },
     {
       "id": "08c4720b559c95b0f1d9",
       "source": "TGcom24",
@@ -388,13 +395,6 @@
       "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
       "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-17T20:30:20+00:00"
-    },
-    {
-      "id": "864867958307af2c7fca",
-      "source": "BBC News",
-      "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
-      "url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T18:20:36+00:00"
     },
     {
       "id": "6973e8cf5448a937b74a",
