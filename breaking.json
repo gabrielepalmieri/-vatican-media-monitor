@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-19T17:20:26.062050+00:00",
+  "updated_at": "2026-11-19T17:25:19.170700+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-19T17:20:26.062050+00:00"
+      "checked_at": "2026-11-19T17:25:19.170700+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-19T17:20:26.062050+00:00"
+      "checked_at": "2026-11-19T17:25:19.170700+00:00"
     }
   },
   "items": [
+    {
+      "id": "c53ef016c3bc21dee9cd",
+      "source": "BBC News",
+      "title": "Susan Smith denied parole again 32 years after drowning her two sons",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T17:23:34+00:00"
+    },
     {
       "id": "2ffbbc40983ab0fde2b6",
       "source": "TGcom24",
@@ -31,13 +38,6 @@
       "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
       "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-19T16:55:57+00:00"
-    },
-    {
-      "id": "c53ef016c3bc21dee9cd",
-      "source": "BBC News",
-      "title": "Susan Smith denied parole again 32 years after drowning her two sons",
-      "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T16:53:29+00:00"
     },
     {
       "id": "619ebc2c6a96eb834df3",
