@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-19T16:50:25.499979+00:00",
+  "updated_at": "2026-11-19T16:55:18.765902+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-19T16:50:25.499979+00:00"
+      "checked_at": "2026-11-19T16:55:18.765902+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-19T16:50:25.499979+00:00"
+      "checked_at": "2026-11-19T16:55:18.765902+00:00"
     }
   },
   "items": [
+    {
+      "id": "c53ef016c3bc21dee9cd",
+      "source": "BBC News",
+      "title": "Susan Smith denied parole again 32 years after drowning her two sons",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T16:53:29+00:00"
+    },
+    {
+      "id": "619ebc2c6a96eb834df3",
+      "source": "TGcom24",
+      "title": "\"Niente Erasmus per chi manifesta\": polemica in un istituto scolastico di Bitonto",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/-niente-erasmus-per-chi-manifesta-il-20-novembre-bufera-sul-messaggio-in-classroom-in-una-scuola-di-bitonto_119179309-202602k.shtml",
+      "published": "2026-11-19T16:51:00+00:00"
+    },
     {
       "id": "8d5fdf2d5866fbb4fe16",
       "source": "BBC News",
@@ -24,13 +38,6 @@
       "title": "Allarmi bomba, Piantedosi: \"Nessuna emergenza per la sicurezza nazionale\"",
       "url": "https://www.tgcom24.mediaset.it/2026/video/allarmi-bomba-piantedosi-nessuna-emergenza-per-la-sicurezza-nazionale-_119176425-02k.shtml",
       "published": "2026-11-19T16:10:00+00:00"
-    },
-    {
-      "id": "c53ef016c3bc21dee9cd",
-      "source": "BBC News",
-      "title": "Susan Smith seeks parole again 32 years after drowning her two sons",
-      "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T15:59:30+00:00"
     },
     {
       "id": "6c8feeb19696f1ecc444",
@@ -339,13 +346,6 @@
       "title": "William and Kate meet PM Modi as they wrap up India tour",
       "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-18T20:07:08+00:00"
-    },
-    {
-      "id": "872323af3561caa74be0",
-      "source": "TGcom24",
-      "title": "Media israeliani: \"Tel Aviv valuta attacco all'Iran nei prossimi giorni\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-18-novembre_119104067-202602k.shtml",
-      "published": "2026-11-18T19:45:00+00:00"
     },
     {
       "id": "8cef60fb6060f7cd9037",
