@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-18T13:53:22.848657+00:00",
+  "updated_at": "2026-11-19T03:19:20.722643+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-11-18T13:53:22.848657+00:00",
+  "un_verified_at": "2026-11-19T03:19:20.722643+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,21 +1918,6 @@
     }
   ],
   "days": {
-    "2026-11-17": {
-      "saints": [
-        {
-          "title": "Santa Elisabetta d'Ungheria, terziaria francescana",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/17/santa-elisabetta-d-ungheria--terziaria-francescana.html"
-        },
-        {
-          "title": "San Gregorio Taumaturgo, vescovo di Neocesarea",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/17.html"
-        }
-      ],
-      "un": [],
-      "un_available": true,
-      "holy_see": []
-    },
     "2026-11-18": {
       "saints": [
         {
@@ -2636,6 +2621,26 @@
         }
       ],
       "un": [],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-12-24": {
+      "saints": [
+        {
+          "title": "Santa Tarsilla, vergine romana, zia di San Gregorio Magno",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/24/santa-tarsilla--vergine-romana--zia-di-san-gregorio-magno.html"
+        },
+        {
+          "title": "Santa Irma, abbadessa",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/24.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata internazionale contro la criminalità informatica",
+          "url": "https://www.unodc.org/unodc/en/cybercrime/day.html"
+        }
+      ],
       "un_available": true,
       "holy_see": []
     }
