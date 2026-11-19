@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-19T08:01:00.715374+00:00",
+  "updated_at": "2026-11-19T08:05:27.298688+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-19T08:01:00.715374+00:00"
+      "checked_at": "2026-11-19T08:05:27.298688+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-19T08:01:00.715374+00:00"
+      "checked_at": "2026-11-19T08:05:27.298688+00:00"
     }
   },
   "items": [
+    {
+      "id": "08b89595308e85cb17f2",
+      "source": "TGcom24",
+      "title": "Ue, rinviata al 2029 la stretta sulle emissioni di metano",
+      "url": "https://www.tgcom24.mediaset.it/mondo/ue-stretta-metano-slitta-2029_119159497-202602k.shtml",
+      "published": "2026-11-19T08:01:00+00:00"
+    },
     {
       "id": "b238f8b1fe4cf723c5c1",
       "source": "BBC News",
@@ -311,13 +318,6 @@
       "title": "Julio Iglesias, aperta un'inchiesta per presunta violenza sessuale",
       "url": "https://www.tgcom24.mediaset.it/mondo/spagna-julio-iglesias-aperta-inchiesta-violenza-sessuale_119122341-202602k.shtml",
       "published": "2026-11-18T12:43:00+00:00"
-    },
-    {
-      "id": "8de50e4caae024c2f66e",
-      "source": "TGcom24",
-      "title": "Cacciatori morti a Savona: uno si è suicidato dopo aver ucciso l'altro per errore?",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/savona-quiliano-cacciatori-morti-bosco_119120877-202602k.shtml",
-      "published": "2026-11-18T12:12:00+00:00"
     },
     {
       "id": "1c983310ff053831cad4",
