@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-19T15:40:27.392202+00:00",
+  "updated_at": "2026-11-19T15:45:29.945627+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-19T15:40:27.392202+00:00"
+      "checked_at": "2026-11-19T15:45:29.945627+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-19T15:40:27.392202+00:00"
+      "checked_at": "2026-11-19T15:45:29.945627+00:00"
     }
   },
   "items": [
+    {
+      "id": "bb746de93586a7e33b4f",
+      "source": "TGcom24",
+      "title": "Via libera del Senato al decreto scuola, ora tocca alla Camera",
+      "url": "https://www.tgcom24.mediaset.it/politica/senato-decreto-scuola-camera_119176933-202602k.shtml",
+      "published": "2026-11-19T15:40:00+00:00"
+    },
     {
       "id": "5dba77575055d3a91673",
       "source": "BBC News",
@@ -325,13 +332,6 @@
       "title": "William and Kate meet PM Modi as they wrap up India tour",
       "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-18T20:07:08+00:00"
-    },
-    {
-      "id": "872323af3561caa74be0",
-      "source": "TGcom24",
-      "title": "Media israeliani: \"Tel Aviv valuta attacco all'Iran nei prossimi giorni\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-18-novembre_119104067-202602k.shtml",
-      "published": "2026-11-18T19:45:00+00:00"
     },
     {
       "id": "8cef60fb6060f7cd9037",
