@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-19T11:05:27.198729+00:00",
+  "updated_at": "2026-11-19T11:10:27.350779+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-19T11:05:27.198729+00:00"
+      "checked_at": "2026-11-19T11:10:27.350779+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-19T11:05:27.198729+00:00"
+      "checked_at": "2026-11-19T11:10:27.350779+00:00"
     }
   },
   "items": [
+    {
+      "id": "7abc1b4f160116ac9595",
+      "source": "BBC News",
+      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T11:07:37+00:00"
+    },
     {
       "id": "613b376344f516023328",
       "source": "BBC News",
@@ -192,13 +199,6 @@
       "title": "Media: \"Il Board of Peace avverte: il cessate il fuoco a Gaza può crollare\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-18-novembre_119104067-202602k.shtml",
       "published": "2026-11-18T23:00:00+00:00"
-    },
-    {
-      "id": "7abc1b4f160116ac9595",
-      "source": "BBC News",
-      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T22:34:56+00:00"
     },
     {
       "id": "331ef712ba6cd9ec49b3",
