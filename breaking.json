@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-19T15:50:28.305615+00:00",
+  "updated_at": "2026-11-19T15:55:19.269694+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-19T15:50:28.305615+00:00"
+      "checked_at": "2026-11-19T15:55:19.269694+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-19T15:50:28.305615+00:00"
+      "checked_at": "2026-11-19T15:55:19.269694+00:00"
     }
   },
   "items": [
+    {
+      "id": "6c8feeb19696f1ecc444",
+      "source": "BBC News",
+      "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
+      "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T15:52:26+00:00"
+    },
     {
       "id": "bb746de93586a7e33b4f",
       "source": "TGcom24",
@@ -157,13 +164,6 @@
       "title": "Meloni: \"Estenderemo al Centro-Nord il modello della Zes unica\"",
       "url": "https://www.tgcom24.mediaset.it/politica/meloni-estensione-nord-italia-modello-zes-unica_119162868-202602k.shtml",
       "published": "2026-11-19T09:09:00+00:00"
-    },
-    {
-      "id": "6c8feeb19696f1ecc444",
-      "source": "BBC News",
-      "title": "Dozens missing after boat carrying 100 migrants sinks off Senegal's coast",
-      "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T09:02:52+00:00"
     },
     {
       "id": "8f47ddcbfb004e6b1085",
