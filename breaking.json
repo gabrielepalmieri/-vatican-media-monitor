@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-19T16:10:26.300984+00:00",
+  "updated_at": "2026-11-19T16:15:36.062558+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-19T16:10:26.300984+00:00"
+      "checked_at": "2026-11-19T16:15:36.062558+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-19T16:10:26.300984+00:00"
+      "checked_at": "2026-11-19T16:15:36.062558+00:00"
     }
   },
   "items": [
+    {
+      "id": "20b776dd0481c2a9d2c9",
+      "source": "TGcom24",
+      "title": "Allarmi bomba, Piantedosi: \"Nessuna emergenza per la sicurezza nazionale\"",
+      "url": "https://www.tgcom24.mediaset.it/2026/video/allarmi-bomba-piantedosi-nessuna-emergenza-per-la-sicurezza-nazionale-_119176425-02k.shtml",
+      "published": "2026-11-19T16:10:00+00:00"
+    },
     {
       "id": "6c8feeb19696f1ecc444",
       "source": "BBC News",
@@ -318,13 +325,6 @@
       "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
       "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-18T21:13:06+00:00"
-    },
-    {
-      "id": "7654a6f088a80c2f16a6",
-      "source": "TGcom24",
-      "title": "Caso Almasri, la Corte penale internazionale: \"Ancora libero in Libia, vede chi vuole\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/almasri-libero-libia-condanna-corte-penale-internazionale_119145345-202602k.shtml",
-      "published": "2026-11-18T20:38:00+00:00"
     },
     {
       "id": "85e0af584eddaea18e03",
