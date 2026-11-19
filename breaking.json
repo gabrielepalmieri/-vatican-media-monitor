@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-19T02:20:25.478572+00:00",
+  "updated_at": "2026-11-19T02:25:18.273611+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-19T02:20:25.478572+00:00"
+      "checked_at": "2026-11-19T02:25:18.273611+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-19T02:20:25.478572+00:00"
+      "checked_at": "2026-11-19T02:25:18.273611+00:00"
     }
   },
   "items": [
+    {
+      "id": "613b376344f516023328",
+      "source": "BBC News",
+      "title": "Claude-maker Anthropic poised for stock market debut worth up to $1.5tn",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T02:20:15+00:00"
+    },
     {
       "id": "4b2f395dc250f4a0b95c",
       "source": "BBC News",
@@ -45,13 +52,6 @@
       "title": "Why has Waymo pulled all its driverless cars from US freeways?",
       "url": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-18T23:47:46+00:00"
-    },
-    {
-      "id": "613b376344f516023328",
-      "source": "BBC News",
-      "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
-      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T23:44:27+00:00"
     },
     {
       "id": "40a8a7d23d81f6252e3d",
