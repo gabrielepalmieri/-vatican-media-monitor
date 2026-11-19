@@ -1,29 +1,36 @@
 {
-  "updated_at": "2026-11-19T10:45:30.199296+00:00",
+  "updated_at": "2026-11-19T10:50:32.748208+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-19T10:45:30.199296+00:00"
+      "checked_at": "2026-11-19T10:50:32.748208+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-19T10:45:30.199296+00:00"
+      "checked_at": "2026-11-19T10:50:32.748208+00:00"
     }
   },
   "items": [
+    {
+      "id": "613b376344f516023328",
+      "source": "BBC News",
+      "title": "Anthropic raises $81bn in record-breaking stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T10:48:04+00:00"
+    },
+    {
+      "id": "9de38482ea0e783b1c7e",
+      "source": "TGcom24",
+      "title": "Palermo, maxi sequestro di sigarette di contrabbando e cocaina",
+      "url": "https://www.tgcom24.mediaset.it/2026/video/palermo-carabinieri-sequestro-sigarette-cocaina_119163238-02k.shtml",
+      "published": "2026-11-19T10:44:00+00:00"
+    },
     {
       "id": "bca813769788ce3187d4",
       "source": "TGcom24",
       "title": "Giornalismo in lutto, è morto Corrado Augias",
       "url": "https://www.tgcom24.mediaset.it/televisione/corrado-augias-morte_119166777-202602k.shtml",
       "published": "2026-11-19T10:26:00+00:00"
-    },
-    {
-      "id": "613b376344f516023328",
-      "source": "BBC News",
-      "title": "Anthropic raises $81bn in record-breaking stock market debut",
-      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T10:12:16+00:00"
     },
     {
       "id": "56c536d9087cabd78ac9",
@@ -311,13 +318,6 @@
       "title": "Fiona the hippo undergoing care after swallowing a hat at Cincinnati Zoo",
       "url": "https://www.bbc.co.uk/news/articles/cm2d93z0e9gjo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-18T16:05:26+00:00"
-    },
-    {
-      "id": "04d67eed55d58afd6035",
-      "source": "TGcom24",
-      "title": "Ucraina, media: \"Per intelligence occidentali Putin non è pronto a un accordo\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-18-novembre_119104977-202602k.shtml",
-      "published": "2026-11-18T15:40:00+00:00"
     },
     {
       "id": "3953335ad6535aecc812",
