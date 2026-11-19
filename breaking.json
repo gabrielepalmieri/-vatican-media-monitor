@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-19T04:40:25.657937+00:00",
+  "updated_at": "2026-11-19T04:45:30.680933+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-19T04:40:25.657937+00:00"
+      "checked_at": "2026-11-19T04:45:30.680933+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-19T04:40:25.657937+00:00"
+      "checked_at": "2026-11-19T04:45:30.680933+00:00"
     }
   },
   "items": [
+    {
+      "id": "ef9bf13a1f87f3800417",
+      "source": "BBC News",
+      "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+      "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T04:42:52+00:00"
+    },
     {
       "id": "b238f8b1fe4cf723c5c1",
       "source": "BBC News",
@@ -395,13 +402,6 @@
       "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
       "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-18T01:18:18+00:00"
-    },
-    {
-      "id": "b11ffb4d215809d4f226",
-      "source": "BBC News",
-      "title": "Pakistan's solar revolution is so successful the national grid is lagging behind",
-      "url": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T23:34:56+00:00"
     }
   ]
 }
