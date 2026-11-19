@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-19T10:15:31.031704+00:00",
+  "updated_at": "2026-11-19T10:20:25.313830+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-19T10:15:31.031704+00:00"
+      "checked_at": "2026-11-19T10:20:25.313830+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-19T10:15:31.031704+00:00"
+      "checked_at": "2026-11-19T10:20:25.313830+00:00"
     }
   },
   "items": [
@@ -150,6 +150,13 @@
       "title": "Why has Waymo pulled all its driverless cars from US freeways?",
       "url": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-18T23:47:46+00:00"
+    },
+    {
+      "id": "adce13fcb0db075f039b",
+      "source": "BBC News",
+      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T23:42:07+00:00"
     },
     {
       "id": "40a8a7d23d81f6252e3d",
@@ -332,13 +339,6 @@
       "title": "Bancroft sandpaper claims heap pressure on Cummins",
       "url": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-18T11:12:46+00:00"
-    },
-    {
-      "id": "1e00ea51e56dec917145",
-      "source": "BBC News",
-      "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
-      "url": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T10:53:21+00:00"
     },
     {
       "id": "24f0f2b57c2a7d376062",
