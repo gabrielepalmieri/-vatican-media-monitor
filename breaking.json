@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-19T16:55:18.765902+00:00",
+  "updated_at": "2026-11-19T17:01:00.699355+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-19T16:55:18.765902+00:00"
+      "checked_at": "2026-11-19T17:01:00.699355+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-19T16:55:18.765902+00:00"
+      "checked_at": "2026-11-19T17:01:00.699355+00:00"
     }
   },
   "items": [
+    {
+      "id": "8d5fdf2d5866fbb4fe16",
+      "source": "BBC News",
+      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T16:55:57+00:00"
+    },
     {
       "id": "c53ef016c3bc21dee9cd",
       "source": "BBC News",
@@ -24,13 +31,6 @@
       "title": "\"Niente Erasmus per chi manifesta\": polemica in un istituto scolastico di Bitonto",
       "url": "https://www.tgcom24.mediaset.it/cronaca/-niente-erasmus-per-chi-manifesta-il-20-novembre-bufera-sul-messaggio-in-classroom-in-una-scuola-di-bitonto_119179309-202602k.shtml",
       "published": "2026-11-19T16:51:00+00:00"
-    },
-    {
-      "id": "8d5fdf2d5866fbb4fe16",
-      "source": "BBC News",
-      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-      "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T16:19:23+00:00"
     },
     {
       "id": "20b776dd0481c2a9d2c9",
