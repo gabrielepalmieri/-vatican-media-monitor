@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-19T07:30:45.351907+00:00",
+  "updated_at": "2026-11-19T07:35:18.767058+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-19T07:30:45.351907+00:00"
+      "checked_at": "2026-11-19T07:35:18.767058+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-19T07:30:45.351907+00:00"
+      "checked_at": "2026-11-19T07:35:18.767058+00:00"
     }
   },
   "items": [
+    {
+      "id": "b238f8b1fe4cf723c5c1",
+      "source": "BBC News",
+      "title": "Crimean Bridge attacked again, Russia says",
+      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T07:32:06+00:00"
+    },
     {
       "id": "2b95f9c608285b137e40",
       "source": "TGcom24",
@@ -59,13 +66,6 @@
       "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
       "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-19T04:42:52+00:00"
-    },
-    {
-      "id": "b238f8b1fe4cf723c5c1",
-      "source": "BBC News",
-      "title": "Crimean Bridge attacked again, Russian official says",
-      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T04:37:17+00:00"
     },
     {
       "id": "4b2f395dc250f4a0b95c",
