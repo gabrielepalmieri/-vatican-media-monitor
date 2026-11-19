@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-19T23:40:25.831938+00:00",
+  "updated_at": "2026-11-19T23:45:28.964912+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-19T23:40:25.831938+00:00"
+      "checked_at": "2026-11-19T23:45:28.964912+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-19T23:40:25.831938+00:00"
+      "checked_at": "2026-11-19T23:45:28.964912+00:00"
     }
   },
   "items": [
+    {
+      "id": "e2a200190d2689ed3c54",
+      "source": "BBC News",
+      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T23:40:29+00:00"
+    },
     {
       "id": "cafcd435da2da8974c1e",
       "source": "BBC News",
@@ -73,13 +80,6 @@
       "title": "Uccise moglie e suocera, ergastolo definitivo per l'ex medico della Virtus",
       "url": "https://www.tgcom24.mediaset.it/cronaca/uccise-moglie-suocera-ergastolo-definitivo-per-ex-medico-virtus_119186407-202602k.shtml",
       "published": "2026-11-19T22:14:00+00:00"
-    },
-    {
-      "id": "e2a200190d2689ed3c54",
-      "source": "BBC News",
-      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T22:09:04+00:00"
     },
     {
       "id": "34f0a3f3922e41cc7e57",
