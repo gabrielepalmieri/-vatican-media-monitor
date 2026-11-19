@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-19T23:50:25.541467+00:00",
+  "updated_at": "2026-11-19T23:55:18.116888+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-19T23:50:25.541467+00:00"
+      "checked_at": "2026-11-19T23:55:18.116888+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-19T23:50:25.541467+00:00"
+      "checked_at": "2026-11-19T23:55:18.116888+00:00"
     }
   },
   "items": [
+    {
+      "id": "79dfa452ecb5349ae299",
+      "source": "BBC News",
+      "title": "Trump posthumously pardons US baseball legend Pete Rose",
+      "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T23:51:50+00:00"
+    },
     {
       "id": "e2a200190d2689ed3c54",
       "source": "BBC News",
@@ -33,13 +40,6 @@
       "published": "2026-11-19T23:29:00+00:00"
     },
     {
-      "id": "79dfa452ecb5349ae299",
-      "source": "BBC News",
-      "title": "Trump posthumously pardons US baseball legend Pete Rose",
-      "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T23:18:43+00:00"
-    },
-    {
       "id": "db302319bab755e57462",
       "source": "TGcom24",
       "title": "Droni sull'aeroporto di Genova, scalo chiuso per due ore",
@@ -49,7 +49,7 @@
     {
       "id": "5eef5e533d20e4c2644f",
       "source": "BBC News",
-      "title": "California probing whether China improperly acquired Nvidia technology",
+      "title": "California targets Nvidia in China AI chip probe",
       "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-19T23:04:30+00:00"
     },
