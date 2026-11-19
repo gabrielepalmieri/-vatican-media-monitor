@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-19T00:40:25.539325+00:00",
+  "updated_at": "2026-11-19T00:45:30.354900+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-19T00:40:25.539325+00:00"
+      "checked_at": "2026-11-19T00:45:30.354900+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-19T00:40:25.539325+00:00"
+      "checked_at": "2026-11-19T00:45:30.354900+00:00"
     }
   },
   "items": [
+    {
+      "id": "17f37aacfe474827ec6d",
+      "source": "BBC News",
+      "title": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
+      "url": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T00:38:52+00:00"
+    },
     {
       "id": "c068d9ee7e8c697466f8",
       "source": "BBC News",
@@ -24,13 +31,6 @@
       "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
       "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-18T23:44:27+00:00"
-    },
-    {
-      "id": "adce13fcb0db075f039b",
-      "source": "BBC News",
-      "title": "The seven Anthropic founders who are about to become multi-billionaires",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T23:42:07+00:00"
     },
     {
       "id": "40a8a7d23d81f6252e3d",
