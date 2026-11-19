@@ -1,22 +1,50 @@
 {
-  "updated_at": "2026-11-19T17:35:21.586918+00:00",
+  "updated_at": "2026-11-19T17:40:26.515652+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-19T17:35:21.586918+00:00"
+      "checked_at": "2026-11-19T17:40:26.515652+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-19T17:35:21.586918+00:00"
+      "checked_at": "2026-11-19T17:40:26.515652+00:00"
     }
   },
   "items": [
+    {
+      "id": "5dba77575055d3a91673",
+      "source": "BBC News",
+      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+      "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T17:38:22+00:00"
+    },
+    {
+      "id": "80fff9cc543c161049bb",
+      "source": "BBC News",
+      "title": "Rohingya genocide: What was said in court and what happens now?",
+      "url": "https://www.bbc.co.uk/news/videos/c60qj10j0ld5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T17:35:05+00:00"
+    },
+    {
+      "id": "fefb3c4ada2b0710eeeb",
+      "source": "TGcom24",
+      "title": "Ucraina, Macron: \"Riaprire la questione dell'adesione di Kiev alla Nato\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/vertice-apec-shenzhen-secondo-giorno-live_119153587-202602k.shtml",
+      "published": "2026-11-19T17:34:00+00:00"
+    },
     {
       "id": "c53ef016c3bc21dee9cd",
       "source": "BBC News",
       "title": "Susan Smith denied parole again 32 years after drowning her two sons",
       "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-19T17:23:34+00:00"
+    },
+    {
+      "id": "e381e045e9eecb2c5b99",
+      "source": "BBC News",
+      "title": "What did Trump, Xi and Putin get out of their historic meeting?",
+      "url": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T17:23:29+00:00"
     },
     {
       "id": "2ffbbc40983ab0fde2b6",
@@ -66,13 +94,6 @@
       "title": "Via libera del Senato al decreto scuola, ora tocca alla Camera",
       "url": "https://www.tgcom24.mediaset.it/politica/senato-decreto-scuola-camera_119176933-202602k.shtml",
       "published": "2026-11-19T15:40:00+00:00"
-    },
-    {
-      "id": "5dba77575055d3a91673",
-      "source": "BBC News",
-      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-      "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T15:23:34+00:00"
     },
     {
       "id": "fe9a936043348b662fea",
@@ -313,13 +334,6 @@
       "published": "2026-11-18T23:00:00+00:00"
     },
     {
-      "id": "331ef712ba6cd9ec49b3",
-      "source": "BBC News",
-      "title": "Catherine visits Mumbai maternity hospital on the last day of royal trip",
-      "url": "https://www.bbc.co.uk/news/videos/c9gkljpgdn1lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T22:32:47+00:00"
-    },
-    {
       "id": "416ed23bbe1c9df9477b",
       "source": "TGcom24",
       "title": "Bergamo, era nata viva la piccola trovata morta e partorita da una 17enne",
@@ -348,13 +362,6 @@
       "published": "2026-11-18T20:07:08+00:00"
     },
     {
-      "id": "8cef60fb6060f7cd9037",
-      "source": "BBC News",
-      "title": "New video shows explosions moments before part of Crimea Bridge collapses",
-      "url": "https://www.bbc.co.uk/news/videos/ckvg28jy77z5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T17:09:43+00:00"
-    },
-    {
       "id": "57408c309edd28a99b4d",
       "source": "BBC News",
       "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
@@ -367,13 +374,6 @@
       "title": "Julio Iglesias facing court investigation over alleged sexual offences",
       "url": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-18T16:33:16+00:00"
-    },
-    {
-      "id": "96544bee5c164c872b92",
-      "source": "BBC News",
-      "title": "Fiona the hippo undergoing care after swallowing a hat at Cincinnati Zoo",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d93z0e9gjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T16:05:26+00:00"
     },
     {
       "id": "3953335ad6535aecc812",
@@ -416,13 +416,6 @@
       "title": "Ghana's new $60m presidential jet sparks public outrage",
       "url": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-18T09:27:51+00:00"
-    },
-    {
-      "id": "505ba5759e364befdf40",
-      "source": "BBC News",
-      "title": "BBC correspondents discuss historic Trump, Xi and Putin meeting",
-      "url": "https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T08:33:32+00:00"
     }
   ]
 }
