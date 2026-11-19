@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-19T10:25:18.144263+00:00",
+  "updated_at": "2026-11-19T10:30:46.419078+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-19T10:25:18.144263+00:00"
+      "checked_at": "2026-11-19T10:30:46.419078+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-19T10:25:18.144263+00:00"
+      "checked_at": "2026-11-19T10:30:46.419078+00:00"
     }
   },
   "items": [
+    {
+      "id": "bca813769788ce3187d4",
+      "source": "TGcom24",
+      "title": "Giornalismo in lutto, è morto Corrado Augias",
+      "url": "https://www.tgcom24.mediaset.it/televisione/corrado-augias-morte_119166777-202602k.shtml",
+      "published": "2026-11-19T10:26:00+00:00"
+    },
     {
       "id": "613b376344f516023328",
       "source": "BBC News",
@@ -318,13 +325,6 @@
       "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
       "url": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-18T15:39:57+00:00"
-    },
-    {
-      "id": "77fe2ae81549c816013f",
-      "source": "TGcom24",
-      "title": "Studente investito e ucciso sulle strisce a Roma, un anno all'automobilista",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/roma-incidente-casilina-jacopo-pio-cirillo-patteggiamento_119129788-202602k.shtml",
-      "published": "2026-11-18T15:00:00+00:00"
     },
     {
       "id": "1098766803f0db040a08",
