@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-19T10:10:25.947472+00:00",
+  "updated_at": "2026-11-19T10:15:31.031704+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-19T10:10:25.947472+00:00"
+      "checked_at": "2026-11-19T10:15:31.031704+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-19T10:10:25.947472+00:00"
+      "checked_at": "2026-11-19T10:15:31.031704+00:00"
     }
   },
   "items": [
+    {
+      "id": "613b376344f516023328",
+      "source": "BBC News",
+      "title": "Anthropic raises $81bn in record-breaking stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T10:12:16+00:00"
+    },
     {
       "id": "56c536d9087cabd78ac9",
       "source": "TGcom24",
@@ -122,13 +129,6 @@
       "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
       "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-19T02:59:06+00:00"
-    },
-    {
-      "id": "613b376344f516023328",
-      "source": "BBC News",
-      "title": "Anthropic valued at $1.5 trillion ahead of AI giant's stock market debut",
-      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T02:20:15+00:00"
     },
     {
       "id": "56c40d8264d551c02dc9",
