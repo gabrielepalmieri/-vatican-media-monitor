@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-19T07:25:17.598924+00:00",
+  "updated_at": "2026-11-19T07:30:45.351907+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-19T07:25:17.598924+00:00"
+      "checked_at": "2026-11-19T07:30:45.351907+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-19T07:25:17.598924+00:00"
+      "checked_at": "2026-11-19T07:30:45.351907+00:00"
     }
   },
   "items": [
+    {
+      "id": "2b95f9c608285b137e40",
+      "source": "TGcom24",
+      "title": "Si ribalta barca con migranti a Lampedusa, dispersa bimba di 6 anni",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/migranti-lampedusa-naufragio-dispersa-bambina_119157120-202602k.shtml",
+      "published": "2026-11-19T07:30:00+00:00"
+    },
     {
       "id": "7a003adab5410b758a73",
       "source": "TGcom24",
@@ -70,7 +77,7 @@
     {
       "id": "613b376344f516023328",
       "source": "BBC News",
-      "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+      "title": "AI giant Anthropic valued at $1.5 trillion ahead of stock market debut",
       "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-19T02:20:15+00:00"
     },
@@ -311,13 +318,6 @@
       "title": "Cacciatori morti a Savona: uno si è suicidato dopo aver ucciso l'altro per errore?",
       "url": "https://www.tgcom24.mediaset.it/cronaca/savona-quiliano-cacciatori-morti-bosco_119120877-202602k.shtml",
       "published": "2026-11-18T12:12:00+00:00"
-    },
-    {
-      "id": "c8e155ad027f3175a7e5",
-      "source": "TGcom24",
-      "title": "Allarmi a scuola, identificato negli Usa l'utente Andropov: \"Non ha mandato lui le mail\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/allarmi-bomba-scuole-mikhail-andropov-usa_119119521-202602k.shtml",
-      "published": "2026-11-18T11:52:00+00:00"
     },
     {
       "id": "1c983310ff053831cad4",
