@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-19T01:05:18.369043+00:00",
+  "updated_at": "2026-11-19T01:10:25.567829+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-19T01:05:18.369043+00:00"
+      "checked_at": "2026-11-19T01:10:25.567829+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-19T01:05:18.369043+00:00"
+      "checked_at": "2026-11-19T01:10:25.567829+00:00"
     }
   },
   "items": [
+    {
+      "id": "b238f8b1fe4cf723c5c1",
+      "source": "BBC News",
+      "title": "Crimean Bridge attacked again, Russian official says",
+      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T01:05:03+00:00"
+    },
     {
       "id": "56c40d8264d551c02dc9",
       "source": "BBC News",
@@ -395,13 +402,6 @@
       "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
       "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-17T21:24:35+00:00"
-    },
-    {
-      "id": "6c7566592d35b62869b3",
-      "source": "BBC News",
-      "title": "US loses measles elimination status after 26 years amid record case numbers",
-      "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T21:04:00+00:00"
     }
   ]
 }
