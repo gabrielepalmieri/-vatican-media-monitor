@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-19T20:05:19.795283+00:00",
+  "updated_at": "2026-11-19T20:10:26.519801+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-19T20:05:19.795283+00:00"
+      "checked_at": "2026-11-19T20:10:26.519801+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-19T20:05:19.795283+00:00"
+      "checked_at": "2026-11-19T20:10:26.519801+00:00"
     }
   },
   "items": [
+    {
+      "id": "8d5fdf2d5866fbb4fe16",
+      "source": "BBC News",
+      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T20:07:02+00:00"
+    },
+    {
+      "id": "2e08f67aa47d9a6f0300",
+      "source": "TGcom24",
+      "title": "Mario Cipollini prosciolto dalle accuse di maltrattamenti alla ex moglie",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/mario-cipollini-prosciolto-accuse-moglie-prescrizione_119182011-202602k.shtml",
+      "published": "2026-11-19T20:02:00+00:00"
+    },
     {
       "id": "75e38e8ba4203b5e29a6",
       "source": "TGcom24",
@@ -101,13 +115,6 @@
       "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
       "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-19T17:03:23+00:00"
-    },
-    {
-      "id": "8d5fdf2d5866fbb4fe16",
-      "source": "BBC News",
-      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-      "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T16:55:57+00:00"
     },
     {
       "id": "619ebc2c6a96eb834df3",
@@ -297,13 +304,6 @@
       "title": "Van Gogh, \"Castagni in fiore\" venduto a New York per 190,4 milioni di dollari",
       "url": "https://www.tgcom24.mediaset.it/mondo/vincent-van-gogh-record-asta-new-york_119155372-202602k.shtml",
       "published": "2026-11-19T06:40:00+00:00"
-    },
-    {
-      "id": "20f274eff4d067cfa3a6",
-      "source": "TGcom24",
-      "title": "Argentina, arrestata la moglie dell'ex Br BertulazzI",
-      "url": "https://www.tgcom24.mediaset.it/mondo/argentina-arrestata-moglie-bertulazzi_119155347-202602k.shtml",
-      "published": "2026-11-19T06:02:00+00:00"
     },
     {
       "id": "ef9bf13a1f87f3800417",
