@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-19T23:10:25.312427+00:00",
+  "updated_at": "2026-11-19T23:15:30.254788+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-11-19T23:10:25.312427+00:00"
+      "checked_at": "2026-11-19T23:15:30.254788+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-19T23:10:25.312427+00:00"
+      "checked_at": "2026-11-19T23:15:30.254788+00:00"
     }
   },
   "items": [
+    {
+      "id": "5eef5e533d20e4c2644f",
+      "source": "BBC News",
+      "title": "California probing whether China improperly acquired Nvidia technology",
+      "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T23:04:30+00:00"
+    },
     {
       "id": "60631cf020669026d019",
       "source": "BBC News",
@@ -409,13 +416,6 @@
       "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
       "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-18T13:04:48+00:00"
-    },
-    {
-      "id": "1c983310ff053831cad4",
-      "source": "BBC News",
-      "title": "Bancroft sandpaper claims heap pressure on Cummins",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T11:12:46+00:00"
     }
   ]
 }
