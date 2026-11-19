@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-19T00:50:27.647482+00:00",
+  "updated_at": "2026-11-19T00:55:18.051941+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-19T00:50:27.647482+00:00"
+      "checked_at": "2026-11-19T00:55:18.051941+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-19T00:50:27.647482+00:00"
+      "checked_at": "2026-11-19T00:55:18.051941+00:00"
     }
   },
   "items": [
+    {
+      "id": "56c40d8264d551c02dc9",
+      "source": "BBC News",
+      "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T00:49:19+00:00"
+    },
     {
       "id": "17f37aacfe474827ec6d",
       "source": "BBC News",
@@ -381,13 +388,6 @@
       "title": "Pakistan's solar revolution is so successful the national grid is lagging behind",
       "url": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-17T23:34:56+00:00"
-    },
-    {
-      "id": "2b49fb76551f913db5bd",
-      "source": "BBC News",
-      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-      "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T22:46:30+00:00"
     },
     {
       "id": "0452af691c7f83eba03a",
