@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-19T02:05:18.759566+00:00",
+  "updated_at": "2026-11-19T02:10:25.147907+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-19T02:05:18.759566+00:00"
+      "checked_at": "2026-11-19T02:10:25.147907+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-19T02:05:18.759566+00:00"
+      "checked_at": "2026-11-19T02:10:25.147907+00:00"
     }
   },
   "items": [
+    {
+      "id": "4b2f395dc250f4a0b95c",
+      "source": "BBC News",
+      "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+      "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T01:56:28+00:00"
+    },
     {
       "id": "b238f8b1fe4cf723c5c1",
       "source": "BBC News",
@@ -395,13 +402,6 @@
       "title": "Pakistan's solar revolution is so successful the national grid is lagging behind",
       "url": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-17T23:34:56+00:00"
-    },
-    {
-      "id": "0452af691c7f83eba03a",
-      "source": "BBC News",
-      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T21:24:35+00:00"
     }
   ]
 }
