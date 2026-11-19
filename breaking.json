@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-19T23:25:25.000843+00:00",
+  "updated_at": "2026-11-19T23:30:43.047158+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-19T23:25:25.000843+00:00"
+      "checked_at": "2026-11-19T23:30:43.047158+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-19T23:25:25.000843+00:00"
+      "checked_at": "2026-11-19T23:30:43.047158+00:00"
     }
   },
   "items": [
+    {
+      "id": "79dfa452ecb5349ae299",
+      "source": "BBC News",
+      "title": "Trump posthumously pardons US baseball legend Pete Rose",
+      "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T23:18:43+00:00"
+    },
     {
       "id": "db302319bab755e57462",
       "source": "TGcom24",
