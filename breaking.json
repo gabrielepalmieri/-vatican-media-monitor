@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-11-19T09:30:46.095885+00:00",
+  "updated_at": "2026-11-19T09:35:20.000143+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-19T09:30:46.095885+00:00"
+      "checked_at": "2026-11-19T09:35:20.000143+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-19T09:30:46.095885+00:00"
+      "checked_at": "2026-11-19T09:35:20.000143+00:00"
     }
   },
   "items": [
+    {
+      "id": "923943ef9858800cac4e",
+      "source": "BBC News",
+      "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
+      "url": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T09:21:54+00:00"
+    },
     {
       "id": "3412b161313641922fd6",
       "source": "TGcom24",
       "title": "Meloni: \"Estenderemo al Centro-Nord il modello della Zes unica\"",
       "url": "https://www.tgcom24.mediaset.it/politica/meloni-estensione-nord-italia-modello-zes-unica_119162868-202602k.shtml",
       "published": "2026-11-19T09:09:00+00:00"
+    },
+    {
+      "id": "6c8feeb19696f1ecc444",
+      "source": "BBC News",
+      "title": "Dozens missing after boat carrying 100 migrants sinks off Senegal's coast",
+      "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T09:02:52+00:00"
     },
     {
       "id": "8f47ddcbfb004e6b1085",
@@ -129,13 +143,6 @@
       "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
       "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-18T23:28:03+00:00"
-    },
-    {
-      "id": "461e1d40ba3afd6787cc",
-      "source": "BBC News",
-      "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
-      "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T23:04:06+00:00"
     },
     {
       "id": "08c4720b559c95b0f1d9",
