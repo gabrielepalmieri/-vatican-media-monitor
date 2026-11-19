@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-19T17:01:00.699355+00:00",
+  "updated_at": "2026-11-19T17:05:19.857891+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-19T17:01:00.699355+00:00"
+      "checked_at": "2026-11-19T17:05:19.857891+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-19T17:01:00.699355+00:00"
+      "checked_at": "2026-11-19T17:05:19.857891+00:00"
     }
   },
   "items": [
+    {
+      "id": "7abc1b4f160116ac9595",
+      "source": "BBC News",
+      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T17:03:23+00:00"
+    },
     {
       "id": "8d5fdf2d5866fbb4fe16",
       "source": "BBC News",
@@ -143,13 +150,6 @@
       "title": "Mostro di Firenze, ripartono indagini: prelievi di saliva ai parenti delle vittime",
       "url": "https://www.tgcom24.mediaset.it/cronaca/mostro-di-firenze-svolta-dna-parenti-vittime-indagini_119169123-202602k.shtml",
       "published": "2026-11-19T11:37:00+00:00"
-    },
-    {
-      "id": "7abc1b4f160116ac9595",
-      "source": "BBC News",
-      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T11:07:37+00:00"
     },
     {
       "id": "9de38482ea0e783b1c7e",
