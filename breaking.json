@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-19T23:15:30.254788+00:00",
+  "updated_at": "2026-11-19T23:20:25.312479+00:00",
   "sources": {
     "TGcom24": {
-      "ok": false,
-      "checked_at": "2026-11-19T23:15:30.254788+00:00"
+      "ok": true,
+      "checked_at": "2026-11-19T23:20:25.312479+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-19T23:15:30.254788+00:00"
+      "checked_at": "2026-11-19T23:20:25.312479+00:00"
     }
   },
   "items": [
+    {
+      "id": "db302319bab755e57462",
+      "source": "TGcom24",
+      "title": "Droni sull'aeroporto di Genova, scalo chiuso per due ore",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/droni-aeroporto-genova-scalo-chiuso_119192128-202602k.shtml",
+      "published": "2026-11-19T23:15:00+00:00"
+    },
     {
       "id": "5eef5e533d20e4c2644f",
       "source": "BBC News",
@@ -311,13 +318,6 @@
       "title": "Cultura in lutto, è morto il giornalista Corrado Augias",
       "url": "https://www.tgcom24.mediaset.it/televisione/corrado-augias-morte_119166777-202602k.shtml",
       "published": "2026-11-19T10:26:00+00:00"
-    },
-    {
-      "id": "56c536d9087cabd78ac9",
-      "source": "TGcom24",
-      "title": "Addio a Piero Vigorelli, lo storico giornalista e conduttore aveva 82 anni",
-      "url": "https://www.tgcom24.mediaset.it/televisione/addio-a-piero-vigorelli-lo-storico-giornalista-e-conduttore-aveva-82-anni_119165935-202602k.shtml",
-      "published": "2026-11-19T09:46:00+00:00"
     },
     {
       "id": "923943ef9858800cac4e",
