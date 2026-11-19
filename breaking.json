@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-19T23:05:20.245186+00:00",
+  "updated_at": "2026-11-19T23:10:25.312427+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-11-19T23:05:20.245186+00:00"
+      "checked_at": "2026-11-19T23:10:25.312427+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-19T23:05:20.245186+00:00"
+      "checked_at": "2026-11-19T23:10:25.312427+00:00"
     }
   },
   "items": [
+    {
+      "id": "60631cf020669026d019",
+      "source": "BBC News",
+      "title": "From premature baby to social media star - Famed hippo Fiona dies",
+      "url": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T22:54:03+00:00"
+    },
     {
       "id": "13856a6c84dac5ef7f2f",
       "source": "BBC News",
@@ -346,13 +353,6 @@
       "title": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
       "url": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-19T00:38:52+00:00"
-    },
-    {
-      "id": "c068d9ee7e8c697466f8",
-      "source": "BBC News",
-      "title": "Why has Waymo pulled all its driverless cars from US freeways?",
-      "url": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T23:47:46+00:00"
     },
     {
       "id": "adce13fcb0db075f039b",
