@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-20T00:50:24.324151+00:00",
+  "updated_at": "2026-11-20T00:55:18.337895+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-20T00:50:24.324151+00:00"
+      "checked_at": "2026-11-20T00:55:18.337895+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-20T00:50:24.324151+00:00"
+      "checked_at": "2026-11-20T00:55:18.337895+00:00"
     }
   },
   "items": [
+    {
+      "id": "34f0a3f3922e41cc7e57",
+      "source": "BBC News",
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T00:50:24+00:00"
+    },
     {
       "id": "df3ae9b6a283364cda68",
       "source": "BBC News",
@@ -108,13 +115,6 @@
       "title": "Uccise moglie e suocera, ergastolo definitivo per l'ex medico della Virtus",
       "url": "https://www.tgcom24.mediaset.it/cronaca/uccise-moglie-suocera-ergastolo-definitivo-per-ex-medico-virtus_119186407-202602k.shtml",
       "published": "2026-11-19T22:14:00+00:00"
-    },
-    {
-      "id": "34f0a3f3922e41cc7e57",
-      "source": "BBC News",
-      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T21:21:43+00:00"
     },
     {
       "id": "4bfa64c3c35c5bd5ec6f",
