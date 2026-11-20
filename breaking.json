@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-20T04:15:29.064552+00:00",
+  "updated_at": "2026-11-20T04:20:24.588637+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-20T04:15:29.064552+00:00"
+      "checked_at": "2026-11-20T04:20:24.588637+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-20T04:15:29.064552+00:00"
+      "checked_at": "2026-11-20T04:20:24.588637+00:00"
     }
   },
   "items": [
+    {
+      "id": "84d7fee9866b8dddfe53",
+      "source": "BBC News",
+      "title": "UK and EU to agree youth mobility scheme, BBC understands",
+      "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T02:40:49+00:00"
+    },
     {
       "id": "34a9570eea6202740622",
       "source": "BBC News",
@@ -59,13 +66,6 @@
       "title": "Trump posthumously pardons US baseball legend Pete Rose",
       "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-19T23:51:50+00:00"
-    },
-    {
-      "id": "e2a200190d2689ed3c54",
-      "source": "BBC News",
-      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T23:40:29+00:00"
     },
     {
       "id": "cafcd435da2da8974c1e",
