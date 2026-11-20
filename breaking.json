@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-20T22:30:47.174756+00:00",
+  "updated_at": "2026-11-20T22:35:23.215435+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-20T22:30:47.174756+00:00"
+      "checked_at": "2026-11-20T22:35:23.215435+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-20T22:30:47.174756+00:00"
+      "checked_at": "2026-11-20T22:35:23.215435+00:00"
     }
   },
   "items": [
+    {
+      "id": "18a9abf874f232cff852",
+      "source": "TGcom24",
+      "title": "Morte per la ricina, interrogato per 13 ore il fratello di Gianni Di Vita",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/campobasso-morte-avvelenate-ricina-fratello-de-vita_119229736-202602k.shtml",
+      "published": "2026-11-20T22:30:00+00:00"
+    },
     {
       "id": "032de8ea3bd05b134b3c",
       "source": "BBC News",
@@ -290,13 +297,6 @@
       "title": "Roma, movimenti per la casa occupano un cantiere in via Lanza",
       "url": "https://www.tgcom24.mediaset.it/cronaca/roma-movimenti-casa-occupano-cantiere_119195823-202602k.shtml",
       "published": "2026-11-20T08:07:00+00:00"
-    },
-    {
-      "id": "de164acd16045d53d931",
-      "source": "TGcom24",
-      "title": "Trentino, lavoratori extracomunitari ridotti in schiavitù: arrestati due imprenditori",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/trentino-lavoratori-extracomunitari-ridotti-in-schiavitu-arrestati-due-imprenditori_119194204-202602k.shtml",
-      "published": "2026-11-20T07:30:00+00:00"
     },
     {
       "id": "fb278fd11a1932475679",
