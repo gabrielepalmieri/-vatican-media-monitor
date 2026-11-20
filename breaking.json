@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-20T08:40:25.529337+00:00",
+  "updated_at": "2026-11-20T08:45:38.059034+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-20T08:40:25.529337+00:00"
+      "checked_at": "2026-11-20T08:45:38.059034+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-20T08:40:25.529337+00:00"
+      "checked_at": "2026-11-20T08:45:38.059034+00:00"
     }
   },
   "items": [
+    {
+      "id": "bd70953079f4aa74d91d",
+      "source": "BBC News",
+      "title": "Three Kyiv bridges hit during major Russian missile attack",
+      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T08:40:45+00:00"
+    },
     {
       "id": "f90b5a88bb1b34e6d70f",
       "source": "TGcom24",
@@ -38,6 +45,13 @@
       "title": "Guerra in Ucraina, allarme per minaccia missilistica in due province polacche",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-20-novembre_119192362-202602k.shtml",
       "published": "2026-11-20T06:45:00+00:00"
+    },
+    {
+      "id": "fb278fd11a1932475679",
+      "source": "BBC News",
+      "title": "Nigeria moves to end jail terms for attempted suicide",
+      "url": "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T06:32:17+00:00"
     },
     {
       "id": "46c0200207b149a5a90c",
