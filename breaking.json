@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-20T19:20:31.228580+00:00",
+  "updated_at": "2026-11-20T19:25:24.104220+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-20T19:20:31.228580+00:00"
+      "checked_at": "2026-11-20T19:25:24.104220+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-20T19:20:31.228580+00:00"
+      "checked_at": "2026-11-20T19:25:24.104220+00:00"
     }
   },
   "items": [
+    {
+      "id": "b909a216ce4ab0cc8afa",
+      "source": "TGcom24",
+      "title": "Trump: \"Con Xi concordato di mettere paletti sull'IA\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/iran-usa-trump-ultime-notizie-20-novembre_119218087-202602k.shtml",
+      "published": "2026-11-20T19:15:00+00:00"
+    },
     {
       "id": "7e4ad66c904c2be1c0b4",
       "source": "BBC News",
@@ -311,13 +318,6 @@
       "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
       "url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-20T00:08:22+00:00"
-    },
-    {
-      "id": "d7fad0e9d9fe08d5d034",
-      "source": "TGcom24",
-      "title": "Retromarcia Musk: \"Non sono Maga, sciocco spendere 500 milioni per le midterm\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/musk-maga-repubblicani-midterm_119190666-202602k.shtml",
-      "published": "2026-11-20T00:00:00+00:00"
     },
     {
       "id": "4ad27b6997b4ae628130",
