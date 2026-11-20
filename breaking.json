@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-20T16:25:23.759687+00:00",
+  "updated_at": "2026-11-20T16:30:55.125557+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-20T16:25:23.759687+00:00"
+      "checked_at": "2026-11-20T16:30:55.125557+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-20T16:25:23.759687+00:00"
+      "checked_at": "2026-11-20T16:30:55.125557+00:00"
     }
   },
   "items": [
+    {
+      "id": "465f9c4265029fba56ec",
+      "source": "BBC News",
+      "title": "Anthropic shares fall a day after blockbuster opening",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T16:27:47+00:00"
+    },
     {
       "id": "9136cafe054dde87adc9",
       "source": "TGcom24",
@@ -26,11 +33,25 @@
       "published": "2026-11-20T15:55:16+00:00"
     },
     {
+      "id": "e1eef46a75caaeea1f88",
+      "source": "BBC News",
+      "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
+      "url": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T15:55:02+00:00"
+    },
+    {
       "id": "27471876de4830798a5b",
       "source": "TGcom24",
       "title": "Sciopero generale, a Roma gli studenti proteggono gli agenti davanti al Ministero",
       "url": "https://www.tgcom24.mediaset.it/cronaca/sciopero-generale-20-novembre-ultime-notizie_119187326-202602k.shtml",
       "published": "2026-11-20T15:15:00+00:00"
+    },
+    {
+      "id": "bd52e3d9caad731670f9",
+      "source": "BBC News",
+      "title": "What we know about the latest Russian missile strikes on Ukraine",
+      "url": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T15:14:01+00:00"
     },
     {
       "id": "8cc813e19f48fbfcf61c",
@@ -80,6 +101,13 @@
       "title": "Londra e Bruxelles siglano il \"reset\" a dieci anni dalla Brexit",
       "url": "https://www.tgcom24.mediaset.it/mondo/londra-bruxelles-reset-brexit_119205936-202602k.shtml",
       "published": "2026-11-20T12:43:00+00:00"
+    },
+    {
+      "id": "cb1655c9311569c1d834",
+      "source": "BBC News",
+      "title": "Texas death-row inmate screams as execution takes more than one hour",
+      "url": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T12:42:37+00:00"
     },
     {
       "id": "40d95f4fb480199040ba",
@@ -173,6 +201,13 @@
       "published": "2026-11-20T06:00:00+00:00"
     },
     {
+      "id": "9c04bbe3a0d7134e6320",
+      "source": "BBC News",
+      "title": "Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage",
+      "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T05:59:56+00:00"
+    },
+    {
       "id": "aedb74fc8f7fffe3f1f1",
       "source": "TGcom24",
       "title": "Proposta degli Usa: Kiev potrebbe entrare nella Nato se cede territori a Mosca",
@@ -192,20 +227,6 @@
       "title": "Sciopero generale 20 novembre, attese manifestazioni in tutta Italia",
       "url": "https://www.tgcom24.mediaset.it/cronaca/sciopero-generale-20-novembre-ultime-notizie_119187326-202602k.shtml",
       "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "594c9be8717fd758cd5b",
-      "source": "BBC News",
-      "title": "China issues Mount Fuji warning as family of missing climber offers reward",
-      "url": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T04:13:22+00:00"
-    },
-    {
-      "id": "24eb894c578b864b4a8a",
-      "source": "BBC News",
-      "title": "US army warns detonation of unstable explosives will create toxic plume",
-      "url": "https://www.bbc.co.uk/news/articles/cmlye2334wlyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T01:27:27+00:00"
     },
     {
       "id": "34f0a3f3922e41cc7e57",
@@ -229,6 +250,13 @@
       "published": "2026-11-20T00:13:21+00:00"
     },
     {
+      "id": "e2f302a4c987a0d42d16",
+      "source": "BBC News",
+      "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
+      "url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T00:08:22+00:00"
+    },
+    {
       "id": "d7fad0e9d9fe08d5d034",
       "source": "TGcom24",
       "title": "Retromarcia Musk: \"Non sono Maga, sciocco spendere 500 milioni per le midterm\"",
@@ -241,27 +269,6 @@
       "title": "How did Anthropic's stock market debut unfold?",
       "url": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-19T23:52:25+00:00"
-    },
-    {
-      "id": "79dfa452ecb5349ae299",
-      "source": "BBC News",
-      "title": "Trump posthumously pardons US baseball legend Pete Rose",
-      "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T23:51:50+00:00"
-    },
-    {
-      "id": "e2a200190d2689ed3c54",
-      "source": "BBC News",
-      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T23:40:29+00:00"
-    },
-    {
-      "id": "cafcd435da2da8974c1e",
-      "source": "BBC News",
-      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T23:33:51+00:00"
     },
     {
       "id": "199e3e05970a8d414eb8",
@@ -278,25 +285,11 @@
       "published": "2026-11-19T23:15:00+00:00"
     },
     {
-      "id": "5eef5e533d20e4c2644f",
-      "source": "BBC News",
-      "title": "California targets Nvidia in China AI chip probe",
-      "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T23:04:30+00:00"
-    },
-    {
       "id": "60631cf020669026d019",
       "source": "BBC News",
       "title": "From premature baby to social media star - Famed hippo Fiona dies",
       "url": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-19T22:54:03+00:00"
-    },
-    {
-      "id": "13856a6c84dac5ef7f2f",
-      "source": "BBC News",
-      "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
-      "url": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T22:48:22+00:00"
     },
     {
       "id": "48260a4c76712f1069bd",
@@ -320,20 +313,6 @@
       "published": "2026-11-19T21:04:00+00:00"
     },
     {
-      "id": "8d5fdf2d5866fbb4fe16",
-      "source": "BBC News",
-      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-      "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T20:07:02+00:00"
-    },
-    {
-      "id": "5dba77575055d3a91673",
-      "source": "BBC News",
-      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-      "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T17:38:22+00:00"
-    },
-    {
       "id": "80fff9cc543c161049bb",
       "source": "BBC News",
       "title": "Rohingya genocide: What was said in court and what happens now?",
@@ -341,88 +320,11 @@
       "published": "2026-11-19T17:35:05+00:00"
     },
     {
-      "id": "c53ef016c3bc21dee9cd",
-      "source": "BBC News",
-      "title": "Susan Smith denied parole again 32 years after drowning her two sons",
-      "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T17:23:34+00:00"
-    },
-    {
       "id": "e381e045e9eecb2c5b99",
       "source": "BBC News",
       "title": "BBC correspondents discuss what Trump, Xi and Putin got out of historic talks",
       "url": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-19T17:23:29+00:00"
-    },
-    {
-      "id": "7abc1b4f160116ac9595",
-      "source": "BBC News",
-      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T17:03:23+00:00"
-    },
-    {
-      "id": "6c8feeb19696f1ecc444",
-      "source": "BBC News",
-      "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
-      "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T15:52:26+00:00"
-    },
-    {
-      "id": "e964c9cb86a1c650bea1",
-      "source": "BBC News",
-      "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T13:31:23+00:00"
-    },
-    {
-      "id": "b238f8b1fe4cf723c5c1",
-      "source": "BBC News",
-      "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
-      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T13:07:35+00:00"
-    },
-    {
-      "id": "3a8390b9ebbb65af133d",
-      "source": "BBC News",
-      "title": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
-      "url": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T12:56:30+00:00"
-    },
-    {
-      "id": "8dcf8a09725e7c1fce75",
-      "source": "BBC News",
-      "title": "Florida pastor found guilty over role in assassination of Haitian president",
-      "url": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T11:44:57+00:00"
-    },
-    {
-      "id": "9f370bfcd7321f6ade3f",
-      "source": "BBC News",
-      "title": "Indian driver wins $1.3m in life-changing lottery prize",
-      "url": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T11:38:09+00:00"
-    },
-    {
-      "id": "e6659b0fa169184c180f",
-      "source": "BBC News",
-      "title": "'It's a dream come true' – South African DJ celebrates featuring in GTA 6",
-      "url": "https://www.bbc.co.uk/news/articles/crx20q3qy0vxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T10:32:10+00:00"
-    },
-    {
-      "id": "923943ef9858800cac4e",
-      "source": "BBC News",
-      "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
-      "url": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T09:21:54+00:00"
-    },
-    {
-      "id": "ef9bf13a1f87f3800417",
-      "source": "BBC News",
-      "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
-      "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T04:42:52+00:00"
     }
   ]
 }
