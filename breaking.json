@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-20T23:15:33.312459+00:00",
+  "updated_at": "2026-11-20T23:20:35.423218+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-20T23:15:33.312459+00:00"
+      "checked_at": "2026-11-20T23:20:35.423218+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-20T23:15:33.312459+00:00"
+      "checked_at": "2026-11-20T23:20:35.423218+00:00"
     }
   },
   "items": [
+    {
+      "id": "8747a1f23a8ff53b0cc1",
+      "source": "BBC News",
+      "title": "US declassifies more UFO footage filmed in the Middle East",
+      "url": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T23:15:20+00:00"
+    },
     {
       "id": "c446e3148bd74bdeae19",
       "source": "TGcom24",
@@ -353,13 +360,6 @@
       "title": "From premature baby to social media star - Famed hippo Fiona dies",
       "url": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-19T22:54:03+00:00"
-    },
-    {
-      "id": "e381e045e9eecb2c5b99",
-      "source": "BBC News",
-      "title": "BBC correspondents discuss what Trump, Xi and Putin got out of historic talks",
-      "url": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T17:23:29+00:00"
     }
   ]
 }
