@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-20T07:35:19.673844+00:00",
+  "updated_at": "2026-11-20T07:40:26.755996+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-20T07:35:19.673844+00:00"
+      "checked_at": "2026-11-20T07:40:26.755996+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-20T07:35:19.673844+00:00"
+      "checked_at": "2026-11-20T07:40:26.755996+00:00"
     }
   },
   "items": [
+    {
+      "id": "de164acd16045d53d931",
+      "source": "TGcom24",
+      "title": "Trentino, lavoratori extracomunitari ridotti in schiavitù: arrestati due imprenditori",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/trentino-lavoratori-extracomunitari-ridotti-in-schiavitu-arrestati-due-imprenditori_119194204-202602k.shtml",
+      "published": "2026-11-20T07:30:00+00:00"
+    },
     {
       "id": "84d7fee9866b8dddfe53",
       "source": "BBC News",
@@ -325,13 +332,6 @@
       "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
       "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-19T13:31:23+00:00"
-    },
-    {
-      "id": "ed51212f4027d9f1cd2b",
-      "source": "TGcom24",
-      "title": "Myanmar, Corte internazionale di giustizia riconosce genocidio dei rohingya",
-      "url": "https://www.tgcom24.mediaset.it/mondo/myanmar-corte-internazionale-giustizia-genocidio-rohingya_119175111-202602k.shtml",
-      "published": "2026-11-19T13:27:00+00:00"
     },
     {
       "id": "b238f8b1fe4cf723c5c1",
