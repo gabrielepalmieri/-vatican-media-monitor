@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-20T19:01:01.697908+00:00",
+  "updated_at": "2026-11-20T19:05:24.378313+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-20T19:01:01.697908+00:00"
+      "checked_at": "2026-11-20T19:05:24.378313+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-20T19:01:01.697908+00:00"
+      "checked_at": "2026-11-20T19:05:24.378313+00:00"
     }
   },
   "items": [
+    {
+      "id": "7e4ad66c904c2be1c0b4",
+      "source": "BBC News",
+      "title": "White House removes cyber-security chief after series of tech outages",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T19:03:56+00:00"
+    },
     {
       "id": "bf6a1fb98ce3e53167de",
       "source": "TGcom24",
@@ -129,13 +136,6 @@
       "title": "Ebook, Forza Italia presenta alla Camera un emendamento soppressivo",
       "url": "https://www.tgcom24.mediaset.it/politica/ebook-forza-italia-presenta-alla-camera-un-emendamento-soppressivo-della-norma-del-senato_119203348-202602k.shtml",
       "published": "2026-11-20T13:58:00+00:00"
-    },
-    {
-      "id": "7e4ad66c904c2be1c0b4",
-      "source": "BBC News",
-      "title": "White House removes cyber-security chief after series of tech outages",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T13:28:32+00:00"
     },
     {
       "id": "c950c57cfca3fee5c17f",
