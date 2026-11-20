@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-19T14:22:00.597180+00:00",
+  "updated_at": "2026-11-20T03:05:57.162766+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-11-19T14:22:00.597180+00:00",
+  "un_verified_at": "2026-11-20T03:05:57.162766+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,34 +1918,6 @@
     }
   ],
   "days": {
-    "2026-11-18": {
-      "saints": [
-        {
-          "title": "Dedicazione delle Basiliche dei Santi Pietro e Paolo apostoli",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/18/dedicazione-delle-basiliche-dei-santi-pietro-e-paolo-apostoli.html"
-        },
-        {
-          "title": "San Romano di Antiochia",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/18.html"
-        },
-        {
-          "title": "Santa Filippina Duchesne",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/18.html"
-        },
-        {
-          "title": "S. Oddone, abate di Cluny",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/18.html"
-        }
-      ],
-      "un": [
-        {
-          "title": "Giornata mondiale per la prevenzione e la guarigione dallo sfruttamento, dagli abusi e dalla violenza sessuale sui minori",
-          "url": "https://www.un.org/en/observances/child-sexual-exploitation-prevention-and-healing-day"
-        }
-      ],
-      "un_available": true,
-      "holy_see": []
-    },
     "2026-11-19": {
       "saints": [
         {
@@ -2641,6 +2613,21 @@
           "url": "https://www.unodc.org/unodc/en/cybercrime/day.html"
         }
       ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-12-25": {
+      "saints": [
+        {
+          "title": "Sant'Anastasia, martire di Sirmio",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/25.html"
+        },
+        {
+          "title": "Beata Maria degli Apostoli, fondatrice delle Suore Salvatoriane",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/25.html"
+        }
+      ],
+      "un": [],
       "un_available": true,
       "holy_see": []
     }
