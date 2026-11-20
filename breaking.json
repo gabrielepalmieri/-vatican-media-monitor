@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-20T13:30:51.803255+00:00",
+  "updated_at": "2026-11-20T13:35:24.697761+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-20T13:30:51.803255+00:00"
+      "checked_at": "2026-11-20T13:35:24.697761+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-20T13:30:51.803255+00:00"
+      "checked_at": "2026-11-20T13:35:24.697761+00:00"
     }
   },
   "items": [
@@ -17,6 +17,13 @@
       "title": "White House removes cyber-security chief after series of tech outages",
       "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-20T13:28:32+00:00"
+    },
+    {
+      "id": "c950c57cfca3fee5c17f",
+      "source": "TGcom24",
+      "title": "Polonia, media: missile russo a circa 100 km da esercitazione Volenterosi",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-20-novembre_119192362-202602k.shtml",
+      "published": "2026-11-20T13:27:00+00:00"
     },
     {
       "id": "bd70953079f4aa74d91d",
@@ -115,13 +122,6 @@
       "title": "Trentino, lavoratori extracomunitari ridotti in schiavitù: arrestati due imprenditori",
       "url": "https://www.tgcom24.mediaset.it/cronaca/trentino-lavoratori-extracomunitari-ridotti-in-schiavitu-arrestati-due-imprenditori_119194204-202602k.shtml",
       "published": "2026-11-20T07:30:00+00:00"
-    },
-    {
-      "id": "84d7fee9866b8dddfe53",
-      "source": "BBC News",
-      "title": "UK and EU to agree youth mobility scheme, BBC understands",
-      "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T07:14:46+00:00"
     },
     {
       "id": "901a09ba4571eceff7b0",
@@ -325,13 +325,6 @@
       "title": "Garlasco, Lovati: Stasi sarà riabilitato, Sempio prosciolto e il caso insoluto",
       "url": "https://www.tgcom24.mediaset.it/cronaca/garlasco-lovati-stasi-sempio_119183806-202602k.shtml",
       "published": "2026-11-19T19:11:00+00:00"
-    },
-    {
-      "id": "30d2493ca3ed49056ffb",
-      "source": "TGcom24",
-      "title": "Rovigo, due minorenni imitano Gta: rubano un bus e finiscono in un fosso",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/rovigo-minorenni-imitano-gta-rubano-bus-finiscono-fosso_119181811-202602k.shtml",
-      "published": "2026-11-19T18:40:00+00:00"
     },
     {
       "id": "5dba77575055d3a91673",
