@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-20T08:05:20.288385+00:00",
+  "updated_at": "2026-11-20T08:10:26.142587+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-20T08:05:20.288385+00:00"
+      "checked_at": "2026-11-20T08:10:26.142587+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-20T08:05:20.288385+00:00"
+      "checked_at": "2026-11-20T08:10:26.142587+00:00"
     }
   },
   "items": [
+    {
+      "id": "f90b5a88bb1b34e6d70f",
+      "source": "TGcom24",
+      "title": "Roma, movimenti per la casa occupano un cantiere in via Lanza",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/roma-movimenti-casa-occupano-cantiere_119195823-202602k.shtml",
+      "published": "2026-11-20T08:07:00+00:00"
+    },
     {
       "id": "de164acd16045d53d931",
       "source": "TGcom24",
@@ -320,13 +327,6 @@
       "published": "2026-11-19T14:49:00+00:00"
     },
     {
-      "id": "aadc9ded7483e05385bb",
-      "source": "TGcom24",
-      "title": "Wwf: \"Il Mediterraneo si sta alzando, a rischio le case di 20 milioni di persone\"",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/mediterraneo-malato-entro-il-2100-a-rischio-le-case-di-20-milioni-di-persone_119171990-02k.shtml",
-      "published": "2026-11-19T14:00:00+00:00"
-    },
-    {
       "id": "e964c9cb86a1c650bea1",
       "source": "BBC News",
       "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
@@ -402,13 +402,6 @@
       "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
       "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-18T23:28:03+00:00"
-    },
-    {
-      "id": "85e0af584eddaea18e03",
-      "source": "BBC News",
-      "title": "William and Kate meet PM Modi as they wrap up India tour",
-      "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T20:07:08+00:00"
     }
   ]
 }
