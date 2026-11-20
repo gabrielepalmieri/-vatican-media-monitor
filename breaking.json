@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-20T10:35:23.636002+00:00",
+  "updated_at": "2026-11-20T10:40:33.478103+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-20T10:35:23.636002+00:00"
+      "checked_at": "2026-11-20T10:40:33.478103+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-20T10:35:23.636002+00:00"
+      "checked_at": "2026-11-20T10:40:33.478103+00:00"
     }
   },
   "items": [
+    {
+      "id": "fe50632c543b751eed5e",
+      "source": "TGcom24",
+      "title": "Sciopero generale, Landini: \"Siamo più di un milione in 100 piazze\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/sciopero-generale-20-novembre-ultime-notizie_119187326-202602k.shtml",
+      "published": "2026-11-20T10:37:00+00:00"
+    },
     {
       "id": "bd70953079f4aa74d91d",
       "source": "BBC News",
@@ -332,13 +339,6 @@
       "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
       "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-19T17:03:23+00:00"
-    },
-    {
-      "id": "619ebc2c6a96eb834df3",
-      "source": "TGcom24",
-      "title": "\"Niente Erasmus per chi manifesta\": polemica in un istituto scolastico di Bitonto",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/-niente-erasmus-per-chi-manifesta-il-20-novembre-bufera-sul-messaggio-in-classroom-in-una-scuola-di-bitonto_119179309-202602k.shtml",
-      "published": "2026-11-19T16:51:00+00:00"
     },
     {
       "id": "6c8feeb19696f1ecc444",
