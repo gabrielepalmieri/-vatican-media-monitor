@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-20T04:55:17.262739+00:00",
+  "updated_at": "2026-11-20T05:00:57.965728+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-20T04:55:17.262739+00:00"
+      "checked_at": "2026-11-20T05:00:57.965728+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-20T04:55:17.262739+00:00"
+      "checked_at": "2026-11-20T05:00:57.965728+00:00"
     }
   },
   "items": [
@@ -355,6 +355,13 @@
       "published": "2026-11-19T11:37:00+00:00"
     },
     {
+      "id": "9de38482ea0e783b1c7e",
+      "source": "TGcom24",
+      "title": "Palermo, maxi sequestro di sigarette di contrabbando e cocaina",
+      "url": "https://www.tgcom24.mediaset.it/2026/video/palermo-carabinieri-sequestro-sigarette-cocaina_119163238-02k.shtml",
+      "published": "2026-11-19T10:44:00+00:00"
+    },
+    {
       "id": "e6659b0fa169184c180f",
       "source": "BBC News",
       "title": "'It's a dream come true' – South African DJ celebrates featuring in GTA 6",
@@ -402,13 +409,6 @@
       "title": "William and Kate meet PM Modi as they wrap up India tour",
       "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-18T20:07:08+00:00"
-    },
-    {
-      "id": "57408c309edd28a99b4d",
-      "source": "BBC News",
-      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-      "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T17:00:40+00:00"
     }
   ]
 }
