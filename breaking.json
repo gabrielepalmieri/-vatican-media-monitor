@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-20T18:01:01.810704+00:00",
+  "updated_at": "2026-11-20T18:05:26.377730+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-20T18:01:01.810704+00:00"
+      "checked_at": "2026-11-20T18:05:26.377730+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-20T18:01:01.810704+00:00"
+      "checked_at": "2026-11-20T18:05:26.377730+00:00"
     }
   },
   "items": [
+    {
+      "id": "f37190e82c2072ab6f7c",
+      "source": "TGcom24",
+      "title": "Iran, Trump: \"Voglio un accordo vero, Teheran un'intesa non accettabile\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/iran-usa-trump-ultime-notizie-20-novembre_119218087-202602k.shtml",
+      "published": "2026-11-20T18:00:00+00:00"
+    },
     {
       "id": "465f9c4265029fba56ec",
       "source": "BBC News",
@@ -318,13 +325,6 @@
       "title": "From premature baby to social media star - Famed hippo Fiona dies",
       "url": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-19T22:54:03+00:00"
-    },
-    {
-      "id": "48260a4c76712f1069bd",
-      "source": "TGcom24",
-      "title": "Ucraina, Meloni: \"La Cina spinga la Russia verso la pace\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/vertice-apec-shenzhen-secondo-giorno-live_119153587-202602k.shtml",
-      "published": "2026-11-19T22:48:00+00:00"
     },
     {
       "id": "e381e045e9eecb2c5b99",
