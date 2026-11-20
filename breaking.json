@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-20T17:35:24.142965+00:00",
+  "updated_at": "2026-11-20T17:40:32.304914+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-20T17:35:24.142965+00:00"
+      "checked_at": "2026-11-20T17:40:32.304914+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-20T17:35:24.142965+00:00"
+      "checked_at": "2026-11-20T17:40:32.304914+00:00"
     }
   },
   "items": [
+    {
+      "id": "465f9c4265029fba56ec",
+      "source": "BBC News",
+      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T17:36:29+00:00"
+    },
     {
       "id": "e35eaf9dce18b79a8b0f",
       "source": "TGcom24",
@@ -45,13 +52,6 @@
       "title": "Venezia aumenta la tassa di soggiorno: importo massimo da 5 a 9,50 euro a notte",
       "url": "https://www.tgcom24.mediaset.it/tgcom-mag/tassa-soggiorno-venezia_119213195-202602k.shtml",
       "published": "2026-11-20T16:38:00+00:00"
-    },
-    {
-      "id": "465f9c4265029fba56ec",
-      "source": "BBC News",
-      "title": "Anthropic shares fall a day after blockbuster opening",
-      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T16:27:47+00:00"
     },
     {
       "id": "9136cafe054dde87adc9",
