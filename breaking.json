@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-20T21:50:31.244944+00:00",
+  "updated_at": "2026-11-20T21:55:24.402851+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-20T21:50:31.244944+00:00"
+      "checked_at": "2026-11-20T21:55:24.402851+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-20T21:50:31.244944+00:00"
+      "checked_at": "2026-11-20T21:55:24.402851+00:00"
     }
   },
   "items": [
+    {
+      "id": "e64958f6811c52917129",
+      "source": "BBC News",
+      "title": "What the new UK-EU deal could mean for future post-Brexit relations",
+      "url": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T21:43:22+00:00"
+    },
     {
       "id": "784cba3d4d0e59227c25",
       "source": "BBC News",
@@ -325,13 +332,6 @@
       "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
       "url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-20T00:08:22+00:00"
-    },
-    {
-      "id": "4ad27b6997b4ae628130",
-      "source": "BBC News",
-      "title": "How did Anthropic's stock market debut unfold?",
-      "url": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T23:52:25+00:00"
     },
     {
       "id": "199e3e05970a8d414eb8",
