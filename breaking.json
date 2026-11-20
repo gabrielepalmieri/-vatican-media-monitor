@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-20T22:40:29.980927+00:00",
+  "updated_at": "2026-11-20T22:45:30.450994+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-20T22:40:29.980927+00:00"
+      "checked_at": "2026-11-20T22:45:30.450994+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-20T22:40:29.980927+00:00"
+      "checked_at": "2026-11-20T22:45:30.450994+00:00"
     }
   },
   "items": [
+    {
+      "id": "465f9c4265029fba56ec",
+      "source": "BBC News",
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T22:42:47+00:00"
+    },
+    {
+      "id": "f9ca2d3a6832470fc8a8",
+      "source": "BBC News",
+      "title": "French police officers sentenced for beating of music producer Michel Zecler",
+      "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T22:37:09+00:00"
+    },
     {
       "id": "18a9abf874f232cff852",
       "source": "TGcom24",
@@ -59,13 +73,6 @@
       "title": "Omicidio Yara, Bossetti a \"Quarto Grado\": \"Bisogna cercare nella palestra\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/massimo-bossetti-intervista-quarto-grado_119222733-202602k.shtml",
       "published": "2026-11-20T20:31:00+00:00"
-    },
-    {
-      "id": "465f9c4265029fba56ec",
-      "source": "BBC News",
-      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T20:00:53+00:00"
     },
     {
       "id": "308adc35b5aad7d2fdcb",
