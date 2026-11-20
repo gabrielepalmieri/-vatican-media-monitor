@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-20T16:50:37.507973+00:00",
+  "updated_at": "2026-11-20T16:55:24.432708+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-20T16:50:37.507973+00:00"
+      "checked_at": "2026-11-20T16:55:24.432708+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-20T16:50:37.507973+00:00"
+      "checked_at": "2026-11-20T16:55:24.432708+00:00"
     }
   },
   "items": [
+    {
+      "id": "e7ced0b33e29cde28aab",
+      "source": "BBC News",
+      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T16:54:29+00:00"
+    },
+    {
+      "id": "ff49c9dc9089e7fdcaef",
+      "source": "BBC News",
+      "title": "Cost of living protests sweep across Europe",
+      "url": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T16:45:34+00:00"
+    },
     {
       "id": "67defdc7381460629a25",
       "source": "TGcom24",
@@ -73,13 +87,6 @@
       "title": "Ebook, Forza Italia presenta alla Camera un emendamento soppressivo",
       "url": "https://www.tgcom24.mediaset.it/politica/ebook-forza-italia-presenta-alla-camera-un-emendamento-soppressivo-della-norma-del-senato_119203348-202602k.shtml",
       "published": "2026-11-20T13:58:00+00:00"
-    },
-    {
-      "id": "e7ced0b33e29cde28aab",
-      "source": "BBC News",
-      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T13:52:04+00:00"
     },
     {
       "id": "7e4ad66c904c2be1c0b4",
@@ -311,13 +318,6 @@
       "title": "Uccise moglie e suocera, ergastolo definitivo per l'ex medico della Virtus",
       "url": "https://www.tgcom24.mediaset.it/cronaca/uccise-moglie-suocera-ergastolo-definitivo-per-ex-medico-virtus_119186407-202602k.shtml",
       "published": "2026-11-19T22:14:00+00:00"
-    },
-    {
-      "id": "80fff9cc543c161049bb",
-      "source": "BBC News",
-      "title": "Rohingya genocide: What was said in court and what happens now?",
-      "url": "https://www.bbc.co.uk/news/videos/c60qj10j0ld5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T17:35:05+00:00"
     },
     {
       "id": "e381e045e9eecb2c5b99",
