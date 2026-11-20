@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-20T11:20:33.848795+00:00",
+  "updated_at": "2026-11-20T11:25:22.526985+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-20T11:20:33.848795+00:00"
+      "checked_at": "2026-11-20T11:25:22.526985+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-20T11:20:33.848795+00:00"
+      "checked_at": "2026-11-20T11:25:22.526985+00:00"
     }
   },
   "items": [
+    {
+      "id": "5a7bc5c91b1cf4ca5d44",
+      "source": "TGcom24",
+      "title": "Sciopero generale, gli studenti occupano l'Università di Genova",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/sciopero-generale-20-novembre-ultime-notizie_119187326-202602k.shtml",
+      "published": "2026-11-20T11:21:00+00:00"
+    },
     {
       "id": "bd70953079f4aa74d91d",
       "source": "BBC News",
@@ -325,13 +332,6 @@
       "title": "BBC correspondents discuss what Trump, Xi and Putin got out of historic talks",
       "url": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-19T17:23:29+00:00"
-    },
-    {
-      "id": "2ffbbc40983ab0fde2b6",
-      "source": "TGcom24",
-      "title": "Esordio col botto per Anthropic a Wall Street: 111,50 dollari per azione",
-      "url": "https://www.tgcom24.mediaset.it/economia/anthropic-quotazione-wall-street-apertura_119180185-202602k.shtml",
-      "published": "2026-11-19T17:16:00+00:00"
     },
     {
       "id": "7abc1b4f160116ac9595",
