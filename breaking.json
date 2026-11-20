@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-20T21:55:24.402851+00:00",
+  "updated_at": "2026-11-20T22:00:57.886682+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-20T21:55:24.402851+00:00"
+      "checked_at": "2026-11-20T22:00:57.886682+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-20T21:55:24.402851+00:00"
+      "checked_at": "2026-11-20T22:00:57.886682+00:00"
     }
   },
   "items": [
+    {
+      "id": "85ea3258b8406c26a308",
+      "source": "TGcom24",
+      "title": "Ucraina, media: \"Due morti a Kryvyi Rih per un attacco russo\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-20-novembre_119192362-202602k.shtml",
+      "published": "2026-11-20T21:55:00+00:00"
+    },
     {
       "id": "e64958f6811c52917129",
       "source": "BBC News",
@@ -276,13 +283,6 @@
       "title": "Trentino, lavoratori extracomunitari ridotti in schiavitù: arrestati due imprenditori",
       "url": "https://www.tgcom24.mediaset.it/cronaca/trentino-lavoratori-extracomunitari-ridotti-in-schiavitu-arrestati-due-imprenditori_119194204-202602k.shtml",
       "published": "2026-11-20T07:30:00+00:00"
-    },
-    {
-      "id": "901a09ba4571eceff7b0",
-      "source": "TGcom24",
-      "title": "Guerra in Ucraina, allarme per minaccia missilistica in due province polacche",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-20-novembre_119192362-202602k.shtml",
-      "published": "2026-11-20T06:45:00+00:00"
     },
     {
       "id": "fb278fd11a1932475679",
