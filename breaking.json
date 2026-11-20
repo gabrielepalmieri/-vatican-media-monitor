@@ -1,20 +1,27 @@
 {
-  "updated_at": "2026-11-20T11:55:23.443060+00:00",
+  "updated_at": "2026-11-20T12:01:03.624029+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-20T11:55:23.443060+00:00"
+      "checked_at": "2026-11-20T12:01:03.624029+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-20T11:55:23.443060+00:00"
+      "checked_at": "2026-11-20T12:01:03.624029+00:00"
     }
   },
   "items": [
     {
+      "id": "40d95f4fb480199040ba",
+      "source": "TGcom24",
+      "title": "Milano, accoltellò una donna \"scelta a caso\": condannato a 10 anni",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-accoltello-donna-a-caso-condannato-10-anni_119202138-202602k.shtml",
+      "published": "2026-11-20T11:58:00+00:00"
+    },
+    {
       "id": "9050cdb4c72b463d74d6",
       "source": "TGcom24",
-      "title": "Verona, si è suicidato Nadir Rossi: era accusato di aver ucciso la moglie",
+      "title": "Verona, Rossi tenta il suicidio: era accusato di aver ucciso la moglie",
       "url": "https://www.tgcom24.mediaset.it/cronaca/nadir-rossi-suicidio-insulina_119202726-202602k.shtml",
       "published": "2026-11-20T11:34:00+00:00"
     },
@@ -318,13 +325,6 @@
       "title": "Ucraina, Merz: \"Siamo pronti a parlare con Putin ma in un luogo neutrale\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/vertice-apec-shenzhen-secondo-giorno-live_119153587-202602k.shtml",
       "published": "2026-11-19T18:19:00+00:00"
-    },
-    {
-      "id": "7e884a7a988d83026536",
-      "source": "TGcom24",
-      "title": "Torino, neonata di 14 giorni trovata morta: indagini in corso",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/torino-morta-neonata-indagini_119181817-202602k.shtml",
-      "published": "2026-11-19T17:58:00+00:00"
     },
     {
       "id": "5dba77575055d3a91673",
