@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-20T12:05:24.094479+00:00",
+  "updated_at": "2026-11-20T12:10:38.348901+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-20T12:05:24.094479+00:00"
+      "checked_at": "2026-11-20T12:10:38.348901+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-20T12:05:24.094479+00:00"
+      "checked_at": "2026-11-20T12:10:38.348901+00:00"
     }
   },
   "items": [
+    {
+      "id": "bd70953079f4aa74d91d",
+      "source": "BBC News",
+      "title": "Three Kyiv bridges hit during major Russian missile attack",
+      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T12:09:55+00:00"
+    },
     {
       "id": "40d95f4fb480199040ba",
       "source": "TGcom24",
@@ -31,13 +38,6 @@
       "title": "Sciopero generale, gli studenti occupano l'Università di Genova",
       "url": "https://www.tgcom24.mediaset.it/cronaca/sciopero-generale-20-novembre-ultime-notizie_119187326-202602k.shtml",
       "published": "2026-11-20T11:21:00+00:00"
-    },
-    {
-      "id": "bd70953079f4aa74d91d",
-      "source": "BBC News",
-      "title": "Three Kyiv bridges hit during major Russian missile attack",
-      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T11:12:57+00:00"
     },
     {
       "id": "de253f69f6541884bf83",
