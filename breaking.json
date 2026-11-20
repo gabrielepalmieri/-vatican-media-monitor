@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-20T19:45:35.308747+00:00",
+  "updated_at": "2026-11-20T19:50:30.379817+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-20T19:45:35.308747+00:00"
+      "checked_at": "2026-11-20T19:50:30.379817+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-20T19:45:35.308747+00:00"
+      "checked_at": "2026-11-20T19:50:30.379817+00:00"
     }
   },
   "items": [
+    {
+      "id": "308adc35b5aad7d2fdcb",
+      "source": "TGcom24",
+      "title": "Dal Mit via libera provvisorio alla guida assistita di Tesla",
+      "url": "https://www.tgcom24.mediaset.it/motori/tesla-guida-assistita-mit_119222579-202602k.shtml",
+      "published": "2026-11-20T19:50:00+00:00"
+    },
     {
       "id": "465f9c4265029fba56ec",
       "source": "BBC News",
@@ -283,13 +290,6 @@
       "title": "More climate money for Africa? Europe says use what's already pledged",
       "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-20T05:03:43+00:00"
-    },
-    {
-      "id": "8d0c55fa0ea57c088735",
-      "source": "TGcom24",
-      "title": "Sciopero generale 20 novembre, attese manifestazioni in tutta Italia",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/sciopero-generale-20-novembre-ultime-notizie_119187326-202602k.shtml",
-      "published": "2026-11-20T05:00:00+00:00"
     },
     {
       "id": "34f0a3f3922e41cc7e57",
