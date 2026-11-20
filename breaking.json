@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-11-20T23:20:35.423218+00:00",
+  "updated_at": "2026-11-20T23:25:22.186692+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-20T23:20:35.423218+00:00"
+      "checked_at": "2026-11-20T23:25:22.186692+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-20T23:20:35.423218+00:00"
+      "checked_at": "2026-11-20T23:25:22.186692+00:00"
     }
   },
   "items": [
+    {
+      "id": "351e0804d73a2c054a52",
+      "source": "BBC News",
+      "title": "These dead pets were meant to be cremated - then their bodies appeared on a livestream",
+      "url": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T23:20:33+00:00"
+    },
     {
       "id": "8747a1f23a8ff53b0cc1",
       "source": "BBC News",
       "title": "US declassifies more UFO footage filmed in the Middle East",
       "url": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-20T23:15:20+00:00"
+    },
+    {
+      "id": "ffa2fdeb6884960a3019",
+      "source": "BBC News",
+      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T23:08:57+00:00"
     },
     {
       "id": "c446e3148bd74bdeae19",
@@ -313,13 +327,6 @@
       "published": "2026-11-20T08:40:00+00:00"
     },
     {
-      "id": "fb278fd11a1932475679",
-      "source": "BBC News",
-      "title": "Nigeria moves to end jail terms for attempted suicide",
-      "url": "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T06:32:17+00:00"
-    },
-    {
       "id": "9c04bbe3a0d7134e6320",
       "source": "BBC News",
       "title": "Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage",
@@ -339,20 +346,6 @@
       "title": "Why Canada is embracing AI data centres while the US pushes back",
       "url": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-20T00:13:24+00:00"
-    },
-    {
-      "id": "e2f302a4c987a0d42d16",
-      "source": "BBC News",
-      "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
-      "url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T00:08:22+00:00"
-    },
-    {
-      "id": "199e3e05970a8d414eb8",
-      "source": "BBC News",
-      "title": "Cumin-laced fizzy sodas are giving cola giants a tough fight in India",
-      "url": "https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T23:29:00+00:00"
     },
     {
       "id": "60631cf020669026d019",
