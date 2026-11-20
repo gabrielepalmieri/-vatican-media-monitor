@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-11-20T09:10:25.346651+00:00",
+  "updated_at": "2026-11-20T09:15:31.782801+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-20T09:10:25.346651+00:00"
+      "checked_at": "2026-11-20T09:15:31.782801+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-20T09:10:25.346651+00:00"
+      "checked_at": "2026-11-20T09:15:31.782801+00:00"
     }
   },
   "items": [
+    {
+      "id": "b35c4b52694877854739",
+      "source": "TGcom24",
+      "title": "Brindisi, accusati di aver assalto un portavalori: tre arresti",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/brindisi-assalto-portavalori-tre-arresti_119198068-202602k.shtml",
+      "published": "2026-11-20T09:08:00+00:00"
+    },
     {
       "id": "bd70953079f4aa74d91d",
       "source": "BBC News",
       "title": "Three Kyiv bridges hit during major Russian missile attack",
       "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-20T09:01:06+00:00"
+    },
+    {
+      "id": "b6ca62e2da8041f26b14",
+      "source": "TGcom24",
+      "title": "Fonti Ue: \"Se Londra vuole rientrare siamo pronti a parlarne\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/fonti-ue-se-londra-vuole-rientrare-siamo-pronti-a-parlarne-_119198067-202602k.shtml",
+      "published": "2026-11-20T08:40:00+00:00"
     },
     {
       "id": "f90b5a88bb1b34e6d70f",
@@ -56,7 +70,7 @@
     {
       "id": "46c0200207b149a5a90c",
       "source": "TGcom24",
-      "title": "Nuovi raid russi su Kiev: tre morti e diversi feriti",
+      "title": "Nuovi raid russi su Kiev: sei morti e diversi feriti",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-20-novembre_119192362-202602k.shtml",
       "published": "2026-11-20T06:00:00+00:00"
     },
@@ -332,20 +346,6 @@
       "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
       "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-19T15:52:26+00:00"
-    },
-    {
-      "id": "bb746de93586a7e33b4f",
-      "source": "TGcom24",
-      "title": "Via libera del Senato al decreto scuola, ora tocca alla Camera",
-      "url": "https://www.tgcom24.mediaset.it/politica/senato-decreto-scuola-camera_119176933-202602k.shtml",
-      "published": "2026-11-19T15:40:00+00:00"
-    },
-    {
-      "id": "fe9a936043348b662fea",
-      "source": "TGcom24",
-      "title": "Milano, ex azzurra del nuoto truffata da finto finanziere: via 15 medaglie d'oro",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-ex-azzurra-del-nuoto-truffata-da-finto-finanziere-via-15-medaglie-e-due-rolex_119174884-202602k.shtml",
-      "published": "2026-11-19T14:49:00+00:00"
     },
     {
       "id": "e964c9cb86a1c650bea1",
