@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-20T11:05:27.817362+00:00",
+  "updated_at": "2026-11-20T11:10:43.266786+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-20T11:05:27.817362+00:00"
+      "checked_at": "2026-11-20T11:10:43.266786+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-20T11:05:27.817362+00:00"
+      "checked_at": "2026-11-20T11:10:43.266786+00:00"
     }
   },
   "items": [
+    {
+      "id": "bd70953079f4aa74d91d",
+      "source": "BBC News",
+      "title": "Three Kyiv bridges hit during major Russian missile attack",
+      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T11:08:40+00:00"
+    },
     {
       "id": "fe50632c543b751eed5e",
       "source": "TGcom24",
       "title": "Sciopero generale, Landini: \"Siamo più di un milione in 100 piazze\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/sciopero-generale-20-novembre-ultime-notizie_119187326-202602k.shtml",
       "published": "2026-11-20T10:37:00+00:00"
-    },
-    {
-      "id": "bd70953079f4aa74d91d",
-      "source": "BBC News",
-      "title": "Three Kyiv bridges hit during major Russian missile attack",
-      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T10:20:08+00:00"
     },
     {
       "id": "be9fa443baaa50949969",
