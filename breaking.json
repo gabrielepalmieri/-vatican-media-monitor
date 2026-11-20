@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-20T16:35:26.520205+00:00",
+  "updated_at": "2026-11-20T16:40:31.982733+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-20T16:35:26.520205+00:00"
+      "checked_at": "2026-11-20T16:40:31.982733+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-20T16:35:26.520205+00:00"
+      "checked_at": "2026-11-20T16:40:31.982733+00:00"
     }
   },
   "items": [
+    {
+      "id": "67defdc7381460629a25",
+      "source": "TGcom24",
+      "title": "Venezia aumenta la tassa di soggiorno: importo massimo da 5 a 9,50 euro a notte",
+      "url": "https://www.tgcom24.mediaset.it/tgcom-mag/tassa-soggiorno-venezia_119213195-202602k.shtml",
+      "published": "2026-11-20T16:38:00+00:00"
+    },
     {
       "id": "465f9c4265029fba56ec",
       "source": "BBC News",
@@ -304,13 +311,6 @@
       "title": "Uccise moglie e suocera, ergastolo definitivo per l'ex medico della Virtus",
       "url": "https://www.tgcom24.mediaset.it/cronaca/uccise-moglie-suocera-ergastolo-definitivo-per-ex-medico-virtus_119186407-202602k.shtml",
       "published": "2026-11-19T22:14:00+00:00"
-    },
-    {
-      "id": "4bfa64c3c35c5bd5ec6f",
-      "source": "TGcom24",
-      "title": "Salvini: Zelensky si scusi per il mio nome su lista nera o conseguenze su aiuti a Kiev",
-      "url": "https://www.tgcom24.mediaset.it/politica/salvini-zelensky-si-scusi-per-il-mio-nome-su-lista-nera-o-conseguenze-sugli-aiuti-_119187325-202602k.shtml",
-      "published": "2026-11-19T21:04:00+00:00"
     },
     {
       "id": "80fff9cc543c161049bb",
