@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-20T22:55:24.667750+00:00",
+  "updated_at": "2026-11-20T23:01:01.438811+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-20T22:55:24.667750+00:00"
+      "checked_at": "2026-11-20T23:01:01.438811+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-20T22:55:24.667750+00:00"
+      "checked_at": "2026-11-20T23:01:01.438811+00:00"
     }
   },
   "items": [
+    {
+      "id": "c446e3148bd74bdeae19",
+      "source": "TGcom24",
+      "title": "Roma, lite tra famiglie finisce nel sangue: morta una 52enne",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/roma-lite-tra-famiglie-accoltellamento_119230259-202602k.shtml",
+      "published": "2026-11-20T23:00:00+00:00"
+    },
     {
       "id": "465f9c4265029fba56ec",
       "source": "BBC News",
@@ -297,13 +304,6 @@
       "title": "Fonti Ue: \"Se Londra vuole rientrare siamo pronti a parlarne\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/fonti-ue-se-londra-vuole-rientrare-siamo-pronti-a-parlarne-_119198067-202602k.shtml",
       "published": "2026-11-20T08:40:00+00:00"
-    },
-    {
-      "id": "f90b5a88bb1b34e6d70f",
-      "source": "TGcom24",
-      "title": "Roma, movimenti per la casa occupano un cantiere in via Lanza",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/roma-movimenti-casa-occupano-cantiere_119195823-202602k.shtml",
-      "published": "2026-11-20T08:07:00+00:00"
     },
     {
       "id": "fb278fd11a1932475679",
