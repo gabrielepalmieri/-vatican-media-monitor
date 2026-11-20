@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-20T20:30:48.101325+00:00",
+  "updated_at": "2026-11-20T20:35:22.397483+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-20T20:30:48.101325+00:00"
+      "checked_at": "2026-11-20T20:35:22.397483+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-20T20:30:48.101325+00:00"
+      "checked_at": "2026-11-20T20:35:22.397483+00:00"
     }
   },
   "items": [
+    {
+      "id": "181a2462d1f2b484451a",
+      "source": "TGcom24",
+      "title": "Omicidio Yara, Bossetti a \"Quarto Grado\": \"Bisogna cercare nella palestra\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/massimo-bossetti-intervista-quarto-grado_119222733-202602k.shtml",
+      "published": "2026-11-20T20:31:00+00:00"
+    },
     {
       "id": "465f9c4265029fba56ec",
       "source": "BBC News",
@@ -290,13 +297,6 @@
       "title": "Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage",
       "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-20T05:59:56+00:00"
-    },
-    {
-      "id": "aedb74fc8f7fffe3f1f1",
-      "source": "TGcom24",
-      "title": "Proposta degli Usa: Kiev potrebbe entrare nella Nato se cede territori a Mosca",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-20-novembre_119192362-202602k.shtml",
-      "published": "2026-11-20T05:30:00+00:00"
     },
     {
       "id": "34a9570eea6202740622",
