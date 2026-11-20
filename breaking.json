@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-20T19:25:24.104220+00:00",
+  "updated_at": "2026-11-20T19:30:57.596568+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-20T19:25:24.104220+00:00"
+      "checked_at": "2026-11-20T19:30:57.596568+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-20T19:25:24.104220+00:00"
+      "checked_at": "2026-11-20T19:30:57.596568+00:00"
     }
   },
   "items": [
+    {
+      "id": "6bb41e809ded663aa9dd",
+      "source": "BBC News",
+      "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+      "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T19:27:49+00:00"
+    },
     {
       "id": "b909a216ce4ab0cc8afa",
       "source": "TGcom24",
@@ -38,13 +45,6 @@
       "title": "Iran, Trump: \"Voglio un accordo vero, Teheran un'intesa non accettabile\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/iran-usa-trump-ultime-notizie-20-novembre_119218087-202602k.shtml",
       "published": "2026-11-20T18:00:00+00:00"
-    },
-    {
-      "id": "6bb41e809ded663aa9dd",
-      "source": "BBC News",
-      "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
-      "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T17:54:37+00:00"
     },
     {
       "id": "b46f8adb013d63a741b3",
