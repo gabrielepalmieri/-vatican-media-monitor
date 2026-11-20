@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-20T07:10:25.576028+00:00",
+  "updated_at": "2026-11-20T07:15:29.673565+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-20T07:10:25.576028+00:00"
+      "checked_at": "2026-11-20T07:15:29.673565+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-20T07:10:25.576028+00:00"
+      "checked_at": "2026-11-20T07:15:29.673565+00:00"
     }
   },
   "items": [
+    {
+      "id": "84d7fee9866b8dddfe53",
+      "source": "BBC News",
+      "title": "UK and EU to agree youth mobility scheme, BBC understands",
+      "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T07:14:46+00:00"
+    },
     {
       "id": "46c0200207b149a5a90c",
       "source": "TGcom24",
@@ -38,13 +45,6 @@
       "title": "Sciopero generale 20 novembre, attese manifestazioni in tutta Italia",
       "url": "https://www.tgcom24.mediaset.it/cronaca/sciopero-generale-20-novembre-ultime-notizie_119187326-202602k.shtml",
       "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "id": "84d7fee9866b8dddfe53",
-      "source": "BBC News",
-      "title": "UK and EU to agree youth mobility scheme, BBC understands",
-      "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T04:35:51+00:00"
     },
     {
       "id": "594c9be8717fd758cd5b",
