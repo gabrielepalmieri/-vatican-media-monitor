@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-20T20:35:22.397483+00:00",
+  "updated_at": "2026-11-20T20:40:31.120649+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-20T20:35:22.397483+00:00"
+      "checked_at": "2026-11-20T20:40:31.120649+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-20T20:35:22.397483+00:00"
+      "checked_at": "2026-11-20T20:40:31.120649+00:00"
     }
   },
   "items": [
+    {
+      "id": "784cba3d4d0e59227c25",
+      "source": "BBC News",
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T20:35:26+00:00"
+    },
     {
       "id": "181a2462d1f2b484451a",
       "source": "TGcom24",
@@ -24,13 +31,6 @@
       "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
       "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-20T20:00:53+00:00"
-    },
-    {
-      "id": "784cba3d4d0e59227c25",
-      "source": "BBC News",
-      "title": "Trump threatens ban on US firms building AI data centres overseas",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T19:51:52+00:00"
     },
     {
       "id": "308adc35b5aad7d2fdcb",
