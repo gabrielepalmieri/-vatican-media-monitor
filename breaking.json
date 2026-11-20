@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-20T15:55:24.812609+00:00",
+  "updated_at": "2026-11-20T16:01:00.423735+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-20T15:55:24.812609+00:00"
+      "checked_at": "2026-11-20T16:01:00.423735+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-20T15:55:24.812609+00:00"
+      "checked_at": "2026-11-20T16:01:00.423735+00:00"
     }
   },
   "items": [
+    {
+      "id": "9136cafe054dde87adc9",
+      "source": "TGcom24",
+      "title": "Omicidio Willy, ergastolo definitivo per Gabriele Bianchi",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/willy-monteiro-ergastolo-definitivo-gabriele-bianchi_119211587-202602k.shtml",
+      "published": "2026-11-20T15:57:00+00:00"
+    },
+    {
+      "id": "de253f69f6541884bf83",
+      "source": "BBC News",
+      "title": "Nearly 600 women killed in South Africa within three months",
+      "url": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T15:55:16+00:00"
+    },
     {
       "id": "27471876de4830798a5b",
       "source": "TGcom24",
@@ -87,13 +101,6 @@
       "title": "Sciopero generale, gli studenti occupano l'Università di Genova",
       "url": "https://www.tgcom24.mediaset.it/cronaca/sciopero-generale-20-novembre-ultime-notizie_119187326-202602k.shtml",
       "published": "2026-11-20T11:21:00+00:00"
-    },
-    {
-      "id": "de253f69f6541884bf83",
-      "source": "BBC News",
-      "title": "Nearly 600 women killed in South Africa within three months",
-      "url": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T10:56:02+00:00"
     },
     {
       "id": "fe50632c543b751eed5e",
@@ -311,13 +318,6 @@
       "title": "Salvini: Zelensky si scusi per il mio nome su lista nera o conseguenze su aiuti a Kiev",
       "url": "https://www.tgcom24.mediaset.it/politica/salvini-zelensky-si-scusi-per-il-mio-nome-su-lista-nera-o-conseguenze-sugli-aiuti-_119187325-202602k.shtml",
       "published": "2026-11-19T21:04:00+00:00"
-    },
-    {
-      "id": "0ece135c2c4852b366ba",
-      "source": "TGcom24",
-      "title": "Schianto in A1 vicino a Bologna, morta anche la seconda 12enne",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/schianto-a1-bologna-morta-12enne_119186579-202602k.shtml",
-      "published": "2026-11-19T20:34:00+00:00"
     },
     {
       "id": "8d5fdf2d5866fbb4fe16",
