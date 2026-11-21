@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-21T16:45:31.002265+00:00",
+  "updated_at": "2026-11-21T16:50:29.502260+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-21T16:45:31.002265+00:00"
+      "checked_at": "2026-11-21T16:50:29.502260+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-21T16:45:31.002265+00:00"
+      "checked_at": "2026-11-21T16:50:29.502260+00:00"
     }
   },
   "items": [
+    {
+      "id": "6b05a643a1cb1ee7bc33",
+      "source": "TGcom24",
+      "title": "Francesco Schettino, fine pena anticipato a luglio 2030 per buona condotta",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/francesco-schettino-permessi-carcere_119234056-202602k.shtml",
+      "published": "2026-11-21T16:45:00+00:00"
+    },
     {
       "id": "e86d21d5ae16beb7fa95",
       "source": "BBC News",
@@ -213,13 +220,6 @@
       "title": "Media: \"Fbi ha allertato le compagnie aeree, Al Qaeda è pronta a colpire\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-al-qaeda-attacco-hacker_119231873-202602k.shtml",
       "published": "2026-11-21T05:20:00+00:00"
-    },
-    {
-      "id": "8b9f1508529946b8a72d",
-      "source": "TGcom24",
-      "title": "Melania Trump: \"Nell'entourage di Donald troppi yes people\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/melania-trump-intorno-donald-yes-people_119231492-202602k.shtml",
-      "published": "2026-11-21T05:00:00+00:00"
     },
     {
       "id": "7d71fcfb4e3921f389d2",
