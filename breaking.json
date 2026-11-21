@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-21T00:05:22.789097+00:00",
+  "updated_at": "2026-11-21T00:10:40.491926+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-21T00:05:22.789097+00:00"
+      "checked_at": "2026-11-21T00:10:40.491926+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-21T00:05:22.789097+00:00"
+      "checked_at": "2026-11-21T00:10:40.491926+00:00"
     }
   },
   "items": [
+    {
+      "id": "958e52f3ccd49e66602b",
+      "source": "BBC News",
+      "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+      "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T00:01:39+00:00"
+    },
     {
       "id": "5fbaba189e75dc66ae4f",
       "source": "BBC News",
@@ -136,13 +143,6 @@
       "title": "Trump: \"Con Xi concordato di mettere paletti sull'IA\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/iran-usa-trump-ultime-notizie-20-novembre_119218087-202602k.shtml",
       "published": "2026-11-20T19:15:00+00:00"
-    },
-    {
-      "id": "7e4ad66c904c2be1c0b4",
-      "source": "BBC News",
-      "title": "White House removes cyber-security chief after series of tech outages",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T19:03:56+00:00"
     },
     {
       "id": "bf6a1fb98ce3e53167de",
