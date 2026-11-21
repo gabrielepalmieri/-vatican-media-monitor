@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-21T12:55:23.115009+00:00",
+  "updated_at": "2026-11-21T13:01:01.914311+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-21T12:55:23.115009+00:00"
+      "checked_at": "2026-11-21T13:01:01.914311+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-21T12:55:23.115009+00:00"
+      "checked_at": "2026-11-21T13:01:01.914311+00:00"
     }
   },
   "items": [
+    {
+      "id": "5669eb06fbf438a231ea",
+      "source": "TGcom24",
+      "title": "De Gennaro, l'avvocato Coppi: \"L'ho visto venerdì, non sono stupito della morte\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/gianni-de-gennaro-morte-franco-coppi-non-stupito_119245814-202602k.shtml",
+      "published": "2026-11-21T13:00:00+00:00"
+    },
     {
       "id": "76a1d7d0e5a8e0d774ce",
       "source": "BBC News",
@@ -311,13 +318,6 @@
       "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
       "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-20T19:27:49+00:00"
-    },
-    {
-      "id": "b909a216ce4ab0cc8afa",
-      "source": "TGcom24",
-      "title": "Trump: \"Con Xi concordato di mettere paletti sull'IA\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/iran-usa-trump-ultime-notizie-20-novembre_119218087-202602k.shtml",
-      "published": "2026-11-20T19:15:00+00:00"
     },
     {
       "id": "61a588a31612af214480",
