@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-21T09:55:27.055416+00:00",
+  "updated_at": "2026-11-21T10:00:59.912069+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-21T09:55:27.055416+00:00"
+      "checked_at": "2026-11-21T10:00:59.912069+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-21T09:55:27.055416+00:00"
+      "checked_at": "2026-11-21T10:00:59.912069+00:00"
     }
   },
   "items": [
+    {
+      "id": "745af91efa0ac5b006f3",
+      "source": "TGcom24",
+      "title": "De Gennaro, Mantovano: \"Sconvolto\", Casini: \"Oggi brindano solo i mafiosi\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/suicidio-de-gennaro-reazioni_119239514-202602k.shtml",
+      "published": "2026-11-21T09:57:00+00:00"
+    },
     {
       "id": "c68a53db6881e3540103",
       "source": "BBC News",
@@ -332,20 +339,6 @@
       "title": "What we know about the latest Russian missile strikes on Ukraine",
       "url": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-20T15:14:01+00:00"
-    },
-    {
-      "id": "8cc813e19f48fbfcf61c",
-      "source": "TGcom24",
-      "title": "Stupro di gruppo, inchiesta su un caso che riguarderebbe Depardieu e Houellebecq",
-      "url": "https://www.tgcom24.mediaset.it/spettacolo/stupro-di-gruppo-inchiesta-caso-depardieu-houellebecq_119208868-202602k.shtml",
-      "published": "2026-11-20T14:27:00+00:00"
-    },
-    {
-      "id": "e70a41943146157c1523",
-      "source": "TGcom24",
-      "title": "Ebook, Forza Italia presenta alla Camera un emendamento soppressivo",
-      "url": "https://www.tgcom24.mediaset.it/politica/ebook-forza-italia-presenta-alla-camera-un-emendamento-soppressivo-della-norma-del-senato_119203348-202602k.shtml",
-      "published": "2026-11-20T13:58:00+00:00"
     }
   ]
 }
