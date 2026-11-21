@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-21T07:30:51.715090+00:00",
+  "updated_at": "2026-11-21T07:35:23.655511+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-21T07:30:51.715090+00:00"
+      "checked_at": "2026-11-21T07:35:23.655511+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-21T07:30:51.715090+00:00"
+      "checked_at": "2026-11-21T07:35:23.655511+00:00"
     }
   },
   "items": [
+    {
+      "id": "c68a53db6881e3540103",
+      "source": "BBC News",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T07:31:05+00:00"
+    },
     {
       "id": "4bfeecbd98c571815aff",
       "source": "BBC News",
@@ -192,13 +199,6 @@
       "title": "Dal Mit via libera provvisorio alla guida assistita di Tesla",
       "url": "https://www.tgcom24.mediaset.it/motori/tesla-guida-assistita-mit_119222579-202602k.shtml",
       "published": "2026-11-20T19:50:00+00:00"
-    },
-    {
-      "id": "4f7336f716334a3ec802",
-      "source": "BBC News",
-      "title": "Gérard Depardieu and French author investigated over sexual allegations",
-      "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T19:45:20+00:00"
     },
     {
       "id": "6bb41e809ded663aa9dd",
