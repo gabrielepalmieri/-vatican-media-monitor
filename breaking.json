@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-21T18:10:32.428709+00:00",
+  "updated_at": "2026-11-21T18:15:38.289455+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-21T18:10:32.428709+00:00"
+      "checked_at": "2026-11-21T18:15:38.289455+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-21T18:10:32.428709+00:00"
+      "checked_at": "2026-11-21T18:15:38.289455+00:00"
     }
   },
   "items": [
+    {
+      "id": "94519f046950ad969105",
+      "source": "TGcom24",
+      "title": "Deturpata la targa del giardino dedicato a Lea Garofalo a Milano",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-deturpata-targa-lea-garofalo_119259600-202602k.shtml",
+      "published": "2026-11-21T18:10:00+00:00"
+    },
     {
       "id": "493b9559b365dc8bc4de",
       "source": "TGcom24",
@@ -213,13 +220,6 @@
       "title": "Allarme droni a Sigonella, \"indicato cambio rotta ai voli militari\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/droni-sigonella-cambio-rotta-militari_119232793-202602k.shtml",
       "published": "2026-11-21T06:40:00+00:00"
-    },
-    {
-      "id": "34e936dddb893b0eda43",
-      "source": "TGcom24",
-      "title": "Guerra Russia-Ucraina, colpito un asilo nido a Zaporizhzhia",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-21-novembre_119232434-202602k.shtml",
-      "published": "2026-11-21T06:00:00+00:00"
     },
     {
       "id": "7d71fcfb4e3921f389d2",
