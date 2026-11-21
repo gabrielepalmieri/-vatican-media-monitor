@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-21T11:15:39.331452+00:00",
+  "updated_at": "2026-11-21T11:20:37.453906+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-21T11:15:39.331452+00:00"
+      "checked_at": "2026-11-21T11:20:37.453906+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-21T11:15:39.331452+00:00"
+      "checked_at": "2026-11-21T11:20:37.453906+00:00"
     }
   },
   "items": [
+    {
+      "id": "eef32d2d8ac9ef9e63fb",
+      "source": "TGcom24",
+      "title": "De Gennaro, Tajani: vittima di un processo fuori dal tribunale",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/suicidio-de-gennaro-reazioni_119239514-202602k.shtml",
+      "published": "2026-11-21T11:20:00+00:00"
+    },
     {
       "id": "197968c58d1ed107b0aa",
       "source": "TGcom24",
@@ -311,13 +318,6 @@
       "title": "Texas, polemiche sull'esecuzione di un detenuto durata oltre un'ora",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-esecuzione-detenuto-texas-procedura-durata-un-ora_119213362-202602k.shtml",
       "published": "2026-11-20T17:23:00+00:00"
-    },
-    {
-      "id": "fdd3063fad2ee8fd4a4d",
-      "source": "TGcom24",
-      "title": "Bce, candidati la francese Boone e il tedesco Brunnermeier per l'esecutivo",
-      "url": "https://www.tgcom24.mediaset.it/economia/bce-comitato-esecutivo-boone-brunnermeier_119215640-202602k.shtml",
-      "published": "2026-11-20T17:01:00+00:00"
     },
     {
       "id": "ff49c9dc9089e7fdcaef",
