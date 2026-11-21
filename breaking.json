@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-21T09:50:31.290919+00:00",
+  "updated_at": "2026-11-21T09:55:27.055416+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-21T09:50:31.290919+00:00"
+      "checked_at": "2026-11-21T09:55:27.055416+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-21T09:50:31.290919+00:00"
+      "checked_at": "2026-11-21T09:55:27.055416+00:00"
     }
   },
   "items": [
+    {
+      "id": "c68a53db6881e3540103",
+      "source": "BBC News",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T09:52:11+00:00"
+    },
     {
       "id": "39404a8687ea5e315ff2",
       "source": "BBC News",
@@ -28,7 +35,7 @@
     {
       "id": "64ab3b789ef7cabf7d97",
       "source": "TGcom24",
-      "title": "L'ex capo della polizia Gianni De Gennaro si è ucciso",
+      "title": "L'ex capo della polizia Gianni De Gennaro si è ucciso con un colpo di pistola",
       "url": "https://www.tgcom24.mediaset.it/cronaca/gianni-de-gennaro-suicidio_119238402-202602k.shtml",
       "published": "2026-11-21T09:23:00+00:00"
     },
@@ -66,13 +73,6 @@
       "title": "Costa Concordia, Schettino esce dal carcere: primo permesso dopo nove anni",
       "url": "https://www.tgcom24.mediaset.it/cronaca/francesco-schettino-permessi-carcere_119234056-202602k.shtml",
       "published": "2026-11-21T07:37:00+00:00"
-    },
-    {
-      "id": "c68a53db6881e3540103",
-      "source": "BBC News",
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21T07:31:05+00:00"
     },
     {
       "id": "21025360e91a316ec545",
