@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-21T09:25:22.023385+00:00",
+  "updated_at": "2026-11-21T09:30:48.675445+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-21T09:25:22.023385+00:00"
+      "checked_at": "2026-11-21T09:30:48.675445+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-21T09:25:22.023385+00:00"
+      "checked_at": "2026-11-21T09:30:48.675445+00:00"
     }
   },
   "items": [
+    {
+      "id": "39404a8687ea5e315ff2",
+      "source": "BBC News",
+      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T09:27:51+00:00"
+    },
+    {
+      "id": "64ab3b789ef7cabf7d97",
+      "source": "TGcom24",
+      "title": "L'ex capo della polizia Gianni De Gennaro si è ucciso",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/gianni-de-gennaro-suicidio_119238402-202602k.shtml",
+      "published": "2026-11-21T09:23:00+00:00"
+    },
     {
       "id": "a2bfd00ba024ce0d79e0",
       "source": "TGcom24",
@@ -59,13 +73,6 @@
       "title": "Allarme droni a Sigonella, \"indicato cambio rotta ai voli militari\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/droni-sigonella-cambio-rotta-militari_119232793-202602k.shtml",
       "published": "2026-11-21T06:40:00+00:00"
-    },
-    {
-      "id": "39404a8687ea5e315ff2",
-      "source": "BBC News",
-      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-      "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21T06:00:09+00:00"
     },
     {
       "id": "34e936dddb893b0eda43",
@@ -332,13 +339,6 @@
       "title": "Ebook, Forza Italia presenta alla Camera un emendamento soppressivo",
       "url": "https://www.tgcom24.mediaset.it/politica/ebook-forza-italia-presenta-alla-camera-un-emendamento-soppressivo-della-norma-del-senato_119203348-202602k.shtml",
       "published": "2026-11-20T13:58:00+00:00"
-    },
-    {
-      "id": "c950c57cfca3fee5c17f",
-      "source": "TGcom24",
-      "title": "Polonia, media: missile russo a circa 100 km da esercitazione Volenterosi",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-20-novembre_119192362-202602k.shtml",
-      "published": "2026-11-20T13:27:00+00:00"
     },
     {
       "id": "cb1655c9311569c1d834",
