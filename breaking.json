@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-21T12:20:32.720761+00:00",
+  "updated_at": "2026-11-21T12:25:22.787426+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-21T12:20:32.720761+00:00"
+      "checked_at": "2026-11-21T12:25:22.787426+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-21T12:20:32.720761+00:00"
+      "checked_at": "2026-11-21T12:25:22.787426+00:00"
     }
   },
   "items": [
+    {
+      "id": "76a1d7d0e5a8e0d774ce",
+      "source": "BBC News",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T12:20:55+00:00"
+    },
     {
       "id": "f5092989d0d11d0f43e9",
       "source": "TGcom24",
@@ -217,7 +224,7 @@
     {
       "id": "ffa2fdeb6884960a3019",
       "source": "BBC News",
-      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
       "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-20T23:08:57+00:00"
     },
@@ -325,13 +332,6 @@
       "title": "Cost of living protests sweep across Europe",
       "url": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-20T16:45:34+00:00"
-    },
-    {
-      "id": "de253f69f6541884bf83",
-      "source": "BBC News",
-      "title": "Nearly 600 women killed in South Africa within three months",
-      "url": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T15:55:16+00:00"
     },
     {
       "id": "bd52e3d9caad731670f9",
