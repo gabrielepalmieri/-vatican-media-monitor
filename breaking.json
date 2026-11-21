@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-21T07:35:23.655511+00:00",
+  "updated_at": "2026-11-21T07:40:30.411942+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-21T07:35:23.655511+00:00"
+      "checked_at": "2026-11-21T07:40:30.411942+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-21T07:35:23.655511+00:00"
+      "checked_at": "2026-11-21T07:40:30.411942+00:00"
     }
   },
   "items": [
+    {
+      "id": "a83b6ac7432c99db19f6",
+      "source": "TGcom24",
+      "title": "Costa Concordia, Schettino esce dal carcere: primo permesso dopo nove anni",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/francesco-schettino-permessi-carcere_119234056-202602k.shtml",
+      "published": "2026-11-21T07:37:00+00:00"
+    },
     {
       "id": "c68a53db6881e3540103",
       "source": "BBC News",
@@ -339,13 +346,6 @@
       "title": "Milano, accoltellò una donna \"scelta a caso\": condannato a 10 anni",
       "url": "https://www.tgcom24.mediaset.it/cronaca/milano-accoltello-donna-a-caso-condannato-10-anni_119202138-202602k.shtml",
       "published": "2026-11-20T11:58:00+00:00"
-    },
-    {
-      "id": "9050cdb4c72b463d74d6",
-      "source": "TGcom24",
-      "title": "Verona, Rossi tenta il suicidio: era accusato di aver ucciso la moglie",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/nadir-rossi-suicidio-insulina_119202726-202602k.shtml",
-      "published": "2026-11-20T11:34:00+00:00"
     },
     {
       "id": "50ea99944c107fa9a923",
