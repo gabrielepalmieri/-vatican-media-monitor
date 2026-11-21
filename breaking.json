@@ -1,29 +1,36 @@
 {
-  "updated_at": "2026-11-21T05:15:29.584005+00:00",
+  "updated_at": "2026-11-21T05:20:33.278946+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-21T05:15:29.584005+00:00"
+      "checked_at": "2026-11-21T05:20:33.278946+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-21T05:15:29.584005+00:00"
+      "checked_at": "2026-11-21T05:20:33.278946+00:00"
     }
   },
   "items": [
+    {
+      "id": "4bfeecbd98c571815aff",
+      "source": "BBC News",
+      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T05:15:41+00:00"
+    },
+    {
+      "id": "8b9f1508529946b8a72d",
+      "source": "TGcom24",
+      "title": "Melania Trump: \"Nell'entourage di Donald troppi yes people\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/melania-trump-intorno-donald-yes-people_119231492-202602k.shtml",
+      "published": "2026-11-21T05:00:00+00:00"
+    },
     {
       "id": "7d71fcfb4e3921f389d2",
       "source": "BBC News",
       "title": "Man convicted of starting Palisades fire in Los Angeles",
       "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-21T04:34:00+00:00"
-    },
-    {
-      "id": "4bfeecbd98c571815aff",
-      "source": "BBC News",
-      "title": "'He's a killer': Zelensky reacts to Trump calling Putin a friend",
-      "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21T04:32:50+00:00"
     },
     {
       "id": "c31b54e62220557c3a7a",
@@ -339,13 +346,6 @@
       "title": "Brindisi, accusati di aver assaltato un portavalori: tre arresti",
       "url": "https://www.tgcom24.mediaset.it/cronaca/brindisi-assalto-portavalori-tre-arresti_119198068-202602k.shtml",
       "published": "2026-11-20T09:08:00+00:00"
-    },
-    {
-      "id": "b6ca62e2da8041f26b14",
-      "source": "TGcom24",
-      "title": "Fonti Ue: \"Se Londra vuole rientrare siamo pronti a parlarne\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/fonti-ue-se-londra-vuole-rientrare-siamo-pronti-a-parlarne-_119198067-202602k.shtml",
-      "published": "2026-11-20T08:40:00+00:00"
     },
     {
       "id": "60631cf020669026d019",
