@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-21T11:45:39.266054+00:00",
+  "updated_at": "2026-11-21T11:50:32.291729+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-21T11:45:39.266054+00:00"
+      "checked_at": "2026-11-21T11:50:32.291729+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-21T11:45:39.266054+00:00"
+      "checked_at": "2026-11-21T11:50:32.291729+00:00"
     }
   },
   "items": [
+    {
+      "id": "559afde9d74fa613a81c",
+      "source": "TGcom24",
+      "title": "Moda, è morta a Milano la stilista Raffaella Curiel",
+      "url": "https://www.tgcom24.mediaset.it/lifestyle/moda-morte-raffaella-curiel_119243590-202602k.shtml",
+      "published": "2026-11-21T11:45:00+00:00"
+    },
     {
       "id": "eef32d2d8ac9ef9e63fb",
       "source": "TGcom24",
@@ -311,13 +318,6 @@
       "title": "Iran, Trump: \"Voglio un accordo vero, Teheran un'intesa non accettabile\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/iran-usa-trump-ultime-notizie-20-novembre_119218087-202602k.shtml",
       "published": "2026-11-20T18:00:00+00:00"
-    },
-    {
-      "id": "e35eaf9dce18b79a8b0f",
-      "source": "TGcom24",
-      "title": "Texas, polemiche sull'esecuzione di un detenuto durata oltre un'ora",
-      "url": "https://www.tgcom24.mediaset.it/mondo/usa-esecuzione-detenuto-texas-procedura-durata-un-ora_119213362-202602k.shtml",
-      "published": "2026-11-20T17:23:00+00:00"
     },
     {
       "id": "ff49c9dc9089e7fdcaef",
