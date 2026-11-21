@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-21T15:20:37.253670+00:00",
+  "updated_at": "2026-11-21T15:25:21.120449+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-21T15:20:37.253670+00:00"
+      "checked_at": "2026-11-21T15:25:21.120449+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-21T15:20:37.253670+00:00"
+      "checked_at": "2026-11-21T15:25:21.120449+00:00"
     }
   },
   "items": [
+    {
+      "id": "a8aad8185c2cbd75b3b3",
+      "source": "TGcom24",
+      "title": "Zelensky: \"Trilaterale Usa-Russia-Cina? Un grande insuccesso per Putin\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-21-novembre_119232434-202602k.shtml",
+      "published": "2026-11-21T15:20:00+00:00"
+    },
     {
       "id": "c68a53db6881e3540103",
       "source": "BBC News",
@@ -45,6 +52,13 @@
       "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
       "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-21T13:17:38+00:00"
+    },
+    {
+      "id": "baadc35784b773646fb5",
+      "source": "BBC News",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T13:15:21+00:00"
     },
     {
       "id": "5669eb06fbf438a231ea",
@@ -297,13 +311,6 @@
       "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
       "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-20T22:14:17+00:00"
-    },
-    {
-      "id": "85ea3258b8406c26a308",
-      "source": "TGcom24",
-      "title": "Ucraina, media: \"Due morti a Kryvyi Rih per un attacco russo\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-20-novembre_119192362-202602k.shtml",
-      "published": "2026-11-20T21:55:00+00:00"
     },
     {
       "id": "e64958f6811c52917129",
