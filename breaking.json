@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-21T06:45:30.884137+00:00",
+  "updated_at": "2026-11-21T06:50:30.302281+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-21T06:45:30.884137+00:00"
+      "checked_at": "2026-11-21T06:50:30.302281+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-21T06:45:30.884137+00:00"
+      "checked_at": "2026-11-21T06:50:30.302281+00:00"
     }
   },
   "items": [
+    {
+      "id": "21025360e91a316ec545",
+      "source": "TGcom24",
+      "title": "Allarme droni a Sigonella, \"indicato cambio rotta ai voli militari\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/droni-sigonella-cambio-rotta-militari_119232793-202602k.shtml",
+      "published": "2026-11-21T06:40:00+00:00"
+    },
     {
       "id": "39404a8687ea5e315ff2",
       "source": "BBC News",
@@ -208,6 +215,13 @@
       "published": "2026-11-20T19:15:00+00:00"
     },
     {
+      "id": "61a588a31612af214480",
+      "source": "BBC News",
+      "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
+      "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T18:48:48+00:00"
+    },
+    {
       "id": "bf6a1fb98ce3e53167de",
       "source": "TGcom24",
       "title": "Tensioni in centro a Torino per il corteo contro guerra e carovita",
@@ -334,25 +348,11 @@
       "published": "2026-11-20T11:34:00+00:00"
     },
     {
-      "id": "5a7bc5c91b1cf4ca5d44",
-      "source": "TGcom24",
-      "title": "Sciopero generale, gli studenti occupano l'Università di Genova",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/sciopero-generale-20-novembre-ultime-notizie_119187326-202602k.shtml",
-      "published": "2026-11-20T11:21:00+00:00"
-    },
-    {
       "id": "50ea99944c107fa9a923",
       "source": "BBC News",
       "title": "South Korea catches 111 students with new measures against exam cheating",
       "url": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-20T10:16:19+00:00"
-    },
-    {
-      "id": "60631cf020669026d019",
-      "source": "BBC News",
-      "title": "From premature baby to social media star - Famed hippo Fiona dies",
-      "url": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T22:54:03+00:00"
     }
   ]
 }
