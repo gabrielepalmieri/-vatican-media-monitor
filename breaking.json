@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-21T02:05:23.328256+00:00",
+  "updated_at": "2026-11-21T02:10:28.798700+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-21T02:05:23.328256+00:00"
+      "checked_at": "2026-11-21T02:10:28.798700+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-21T02:05:23.328256+00:00"
+      "checked_at": "2026-11-21T02:10:28.798700+00:00"
     }
   },
   "items": [
+    {
+      "id": "e7ced0b33e29cde28aab",
+      "source": "BBC News",
+      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T02:09:46+00:00"
+    },
     {
       "id": "c31b54e62220557c3a7a",
       "source": "BBC News",
@@ -192,13 +199,6 @@
       "title": "Bce, candidati la francese Boone e il tedesco Brunnermeier per l'esecutivo",
       "url": "https://www.tgcom24.mediaset.it/economia/bce-comitato-esecutivo-boone-brunnermeier_119215640-202602k.shtml",
       "published": "2026-11-20T17:01:00+00:00"
-    },
-    {
-      "id": "e7ced0b33e29cde28aab",
-      "source": "BBC News",
-      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T16:54:29+00:00"
     },
     {
       "id": "ff49c9dc9089e7fdcaef",
