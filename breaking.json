@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-21T19:30:48.014831+00:00",
+  "updated_at": "2026-11-21T19:35:32.452832+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-21T19:30:48.014831+00:00"
+      "checked_at": "2026-11-21T19:35:32.452832+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-21T19:30:48.014831+00:00"
+      "checked_at": "2026-11-21T19:35:32.452832+00:00"
     }
   },
   "items": [
+    {
+      "id": "c68a53db6881e3540103",
+      "source": "BBC News",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T19:33:49+00:00"
+    },
     {
       "id": "37369480e4756eb1125b",
       "source": "BBC News",
@@ -59,13 +66,6 @@
       "title": "Zelensky: \"Trilaterale Usa-Russia-Cina? Un grande insuccesso per Putin\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-21-novembre_119232434-202602k.shtml",
       "published": "2026-11-21T15:20:00+00:00"
-    },
-    {
-      "id": "c68a53db6881e3540103",
-      "source": "BBC News",
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21T14:54:24+00:00"
     },
     {
       "id": "06ac5ede76ce98c9bd4a",
