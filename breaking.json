@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-21T08:55:21.865741+00:00",
+  "updated_at": "2026-11-21T09:01:00.299526+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-21T08:55:21.865741+00:00"
+      "checked_at": "2026-11-21T09:01:00.299526+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-21T08:55:21.865741+00:00"
+      "checked_at": "2026-11-21T09:01:00.299526+00:00"
     }
   },
   "items": [
+    {
+      "id": "a2bfd00ba024ce0d79e0",
+      "source": "TGcom24",
+      "title": "Mps: \"Opas di Intesa congrua dopo il rilancio e le rassicurazioni su Siena\"",
+      "url": "https://www.tgcom24.mediaset.it/economia/mps-opas-intesa-sanpaolo-congrua_119236098-202602k.shtml",
+      "published": "2026-11-21T08:54:00+00:00"
+    },
     {
       "id": "0657bc5e9968a7938ac8",
       "source": "TGcom24",
@@ -24,6 +31,13 @@
       "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
       "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-21T08:10:25+00:00"
+    },
+    {
+      "id": "02fe712504bf326bee98",
+      "source": "BBC News",
+      "title": "Trafalgar Square Christmas tree felled in Norway",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T08:10:03+00:00"
     },
     {
       "id": "a83b6ac7432c99db19f6",
@@ -292,13 +306,6 @@
       "published": "2026-11-20T15:55:16+00:00"
     },
     {
-      "id": "e1eef46a75caaeea1f88",
-      "source": "BBC News",
-      "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
-      "url": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T15:55:02+00:00"
-    },
-    {
       "id": "27471876de4830798a5b",
       "source": "TGcom24",
       "title": "Sciopero generale, a Roma gli studenti proteggono gli agenti davanti al Ministero",
@@ -334,25 +341,11 @@
       "published": "2026-11-20T13:27:00+00:00"
     },
     {
-      "id": "c182f8aa9afa5d249bec",
-      "source": "TGcom24",
-      "title": "Londra e Bruxelles siglano il \"reset\" a dieci anni dalla Brexit",
-      "url": "https://www.tgcom24.mediaset.it/mondo/londra-bruxelles-reset-brexit_119205936-202602k.shtml",
-      "published": "2026-11-20T12:43:00+00:00"
-    },
-    {
       "id": "cb1655c9311569c1d834",
       "source": "BBC News",
       "title": "Texas death-row inmate screams as execution takes more than one hour",
       "url": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-20T12:42:37+00:00"
-    },
-    {
-      "id": "50ea99944c107fa9a923",
-      "source": "BBC News",
-      "title": "South Korea catches 111 students with new measures against exam cheating",
-      "url": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T10:16:19+00:00"
     }
   ]
 }
