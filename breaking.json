@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-21T06:40:30.471404+00:00",
+  "updated_at": "2026-11-21T06:45:30.884137+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-21T06:40:30.471404+00:00"
+      "checked_at": "2026-11-21T06:45:30.884137+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-21T06:40:30.471404+00:00"
+      "checked_at": "2026-11-21T06:45:30.884137+00:00"
     }
   },
   "items": [
+    {
+      "id": "39404a8687ea5e315ff2",
+      "source": "BBC News",
+      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T06:00:09+00:00"
+    },
     {
       "id": "34e936dddb893b0eda43",
       "source": "TGcom24",
@@ -213,13 +220,6 @@
       "title": "Iran, Trump: \"Voglio un accordo vero, Teheran un'intesa non accettabile\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/iran-usa-trump-ultime-notizie-20-novembre_119218087-202602k.shtml",
       "published": "2026-11-20T18:00:00+00:00"
-    },
-    {
-      "id": "b46f8adb013d63a741b3",
-      "source": "BBC News",
-      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-      "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20T17:49:48+00:00"
     },
     {
       "id": "e35eaf9dce18b79a8b0f",
