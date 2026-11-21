@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-21T07:20:30.487279+00:00",
+  "updated_at": "2026-11-21T07:25:22.555009+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-21T07:20:30.487279+00:00"
+      "checked_at": "2026-11-21T07:25:22.555009+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-21T07:20:30.487279+00:00"
+      "checked_at": "2026-11-21T07:25:22.555009+00:00"
     }
   },
   "items": [
+    {
+      "id": "4bfeecbd98c571815aff",
+      "source": "BBC News",
+      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T07:24:45+00:00"
+    },
     {
       "id": "21025360e91a316ec545",
       "source": "TGcom24",
@@ -45,13 +52,6 @@
       "title": "Media Usa: \"Fbi ha allertato le compagnie aeree, Al Qaeda è pronta a colpire\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-al-qaeda-attacco-hacker_119231873-202602k.shtml",
       "published": "2026-11-21T05:20:00+00:00"
-    },
-    {
-      "id": "4bfeecbd98c571815aff",
-      "source": "BBC News",
-      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-      "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21T05:15:41+00:00"
     },
     {
       "id": "8b9f1508529946b8a72d",
