@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-21T23:10:37.955555+00:00",
+  "updated_at": "2026-11-21T23:15:32.874430+00:00",
   "sources": {
     "TGcom24": {
-      "ok": false,
-      "checked_at": "2026-11-21T23:10:37.955555+00:00"
+      "ok": true,
+      "checked_at": "2026-11-21T23:15:32.874430+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-21T23:10:37.955555+00:00"
+      "checked_at": "2026-11-21T23:15:32.874430+00:00"
     }
   },
   "items": [
+    {
+      "id": "ceab28896159207116f3",
+      "source": "TGcom24",
+      "title": "Messico, guerriglia dopo l'arresto del boss El Chapo Isidro: almeno 11 morti",
+      "url": "https://www.tgcom24.mediaset.it/mondo/messico-el-chapo-isidro-arresto-sinaloa-fbi_119271778-202602k.shtml",
+      "published": "2026-11-21T23:13:00+00:00"
+    },
     {
       "id": "7b3bc7cbce42ed99660e",
       "source": "TGcom24",
@@ -192,13 +199,6 @@
       "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
       "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-21T10:26:36+00:00"
-    },
-    {
-      "id": "3fe44f048c089a6f083d",
-      "source": "TGcom24",
-      "title": "De Gennaro, Salvini: vittima massacro mediatico-giudiziario, Piantedosi: grande funzionario",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/suicidio-de-gennaro-reazioni_119239514-202602k.shtml",
-      "published": "2026-11-21T10:14:00+00:00"
     },
     {
       "id": "39404a8687ea5e315ff2",
