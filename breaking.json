@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-21T08:15:32.345838+00:00",
+  "updated_at": "2026-11-21T08:20:30.691340+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-21T08:15:32.345838+00:00"
+      "checked_at": "2026-11-21T08:20:30.691340+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-21T08:15:32.345838+00:00"
+      "checked_at": "2026-11-21T08:20:30.691340+00:00"
     }
   },
   "items": [
+    {
+      "id": "0657bc5e9968a7938ac8",
+      "source": "TGcom24",
+      "title": "Benevento, pediatra ferito a colpi di pistola: si indaga tra i parenti dei pazienti",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/benevento-pediatra-ferito-pistola_119233515-202602k.shtml",
+      "published": "2026-11-21T08:11:00+00:00"
+    },
     {
       "id": "4bfeecbd98c571815aff",
       "source": "BBC News",
@@ -339,13 +346,6 @@
       "title": "Texas death-row inmate screams as execution takes more than one hour",
       "url": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-20T12:42:37+00:00"
-    },
-    {
-      "id": "40d95f4fb480199040ba",
-      "source": "TGcom24",
-      "title": "Milano, accoltellò una donna \"scelta a caso\": condannato a 10 anni",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-accoltello-donna-a-caso-condannato-10-anni_119202138-202602k.shtml",
-      "published": "2026-11-20T11:58:00+00:00"
     },
     {
       "id": "50ea99944c107fa9a923",
