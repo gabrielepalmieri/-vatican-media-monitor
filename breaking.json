@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-21T22:15:39.054837+00:00",
+  "updated_at": "2026-11-21T22:20:35.911182+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-21T22:15:39.054837+00:00"
+      "checked_at": "2026-11-21T22:20:35.911182+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-21T22:15:39.054837+00:00"
+      "checked_at": "2026-11-21T22:20:35.911182+00:00"
     }
   },
   "items": [
+    {
+      "id": "c68a53db6881e3540103",
+      "source": "BBC News",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T22:19:43+00:00"
+    },
+    {
+      "id": "b2a0ff609725b83c3416",
+      "source": "TGcom24",
+      "title": "Proteste in Francia, oltre 80mila persone in piazza in tutto il Paese: 144 fermi",
+      "url": "https://www.tgcom24.mediaset.it/mondo/francia-proteste-21-novembre-fermi-tensioni-carovita_119271959-202602k.shtml",
+      "published": "2026-11-21T22:17:00+00:00"
+    },
     {
       "id": "ce2df08d497a8cbd699a",
       "source": "BBC News",
@@ -38,13 +52,6 @@
       "title": "Bahrein, pasdaran attaccano due basi americane: \"Colpiti radar dei Patriot\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/bahrein-incendio-in-un-sito-industriale-civile-per-un-attacco-iraniano-_119270665-202602k.shtml",
       "published": "2026-11-21T20:01:00+00:00"
-    },
-    {
-      "id": "c68a53db6881e3540103",
-      "source": "BBC News",
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21T19:33:49+00:00"
     },
     {
       "id": "37369480e4756eb1125b",
@@ -199,13 +206,6 @@
       "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
       "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-21T09:40:55+00:00"
-    },
-    {
-      "id": "64ab3b789ef7cabf7d97",
-      "source": "TGcom24",
-      "title": "L'ex capo della polizia Gianni De Gennaro si è ucciso con un colpo di pistola",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/gianni-de-gennaro-suicidio_119238402-202602k.shtml",
-      "published": "2026-11-21T09:23:00+00:00"
     },
     {
       "id": "4bfeecbd98c571815aff",
