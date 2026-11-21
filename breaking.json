@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-21T10:15:31.521960+00:00",
+  "updated_at": "2026-11-21T10:20:29.811982+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-21T10:15:31.521960+00:00"
+      "checked_at": "2026-11-21T10:20:29.811982+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-21T10:15:31.521960+00:00"
+      "checked_at": "2026-11-21T10:20:29.811982+00:00"
     }
   },
   "items": [
+    {
+      "id": "3fe44f048c089a6f083d",
+      "source": "TGcom24",
+      "title": "De Gennaro, Salvini: vittima massacro mediatico-giudiziario, Piantedosi: grande funzionario",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/suicidio-de-gennaro-reazioni_119239514-202602k.shtml",
+      "published": "2026-11-21T10:14:00+00:00"
+    },
     {
       "id": "745af91efa0ac5b006f3",
       "source": "TGcom24",
@@ -325,13 +332,6 @@
       "title": "Nearly 600 women killed in South Africa within three months",
       "url": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-20T15:55:16+00:00"
-    },
-    {
-      "id": "27471876de4830798a5b",
-      "source": "TGcom24",
-      "title": "Sciopero generale, a Roma gli studenti proteggono gli agenti davanti al Ministero",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/sciopero-generale-20-novembre-ultime-notizie_119187326-202602k.shtml",
-      "published": "2026-11-20T15:15:00+00:00"
     },
     {
       "id": "bd52e3d9caad731670f9",
