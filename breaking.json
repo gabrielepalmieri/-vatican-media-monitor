@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-21T12:50:30.956529+00:00",
+  "updated_at": "2026-11-21T12:55:23.115009+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-21T12:50:30.956529+00:00"
+      "checked_at": "2026-11-21T12:55:23.115009+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-21T12:50:30.956529+00:00"
+      "checked_at": "2026-11-21T12:55:23.115009+00:00"
     }
   },
   "items": [
+    {
+      "id": "76a1d7d0e5a8e0d774ce",
+      "source": "BBC News",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T12:52:00+00:00"
+    },
     {
       "id": "2b0168b450bc32045b5e",
       "source": "TGcom24",
       "title": "Camorra, disposto il 41bis a Catanzaro per il boss Michele Senese",
       "url": "https://www.tgcom24.mediaset.it/cronaca/camorra-41bis-boss-michele-senese_119245103-202602k.shtml",
       "published": "2026-11-21T12:30:00+00:00"
-    },
-    {
-      "id": "76a1d7d0e5a8e0d774ce",
-      "source": "BBC News",
-      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21T12:20:55+00:00"
     },
     {
       "id": "f5092989d0d11d0f43e9",
