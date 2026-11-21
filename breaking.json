@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-21T10:45:30.939801+00:00",
+  "updated_at": "2026-11-21T10:50:38.035505+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-21T10:45:30.939801+00:00"
+      "checked_at": "2026-11-21T10:50:38.035505+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-21T10:45:30.939801+00:00"
+      "checked_at": "2026-11-21T10:50:38.035505+00:00"
     }
   },
   "items": [
+    {
+      "id": "5c1ba40523a9fcc0233f",
+      "source": "TGcom24",
+      "title": "De Gennaro, Meloni: \"Profondamente scioccata dalla tragica scomparsa\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/suicidio-de-gennaro-reazioni_119239514-202602k.shtml",
+      "published": "2026-11-21T10:43:00+00:00"
+    },
     {
       "id": "f784366d920954140841",
       "source": "BBC News",
@@ -318,13 +325,6 @@
       "title": "Venezia aumenta la tassa di soggiorno: importo massimo da 5 a 9,50 euro a notte",
       "url": "https://www.tgcom24.mediaset.it/tgcom-mag/tassa-soggiorno-venezia_119213195-202602k.shtml",
       "published": "2026-11-20T16:38:00+00:00"
-    },
-    {
-      "id": "9136cafe054dde87adc9",
-      "source": "TGcom24",
-      "title": "Omicidio Willy, ergastolo definitivo per Gabriele Bianchi",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/willy-monteiro-ergastolo-definitivo-gabriele-bianchi_119211587-202602k.shtml",
-      "published": "2026-11-20T15:57:00+00:00"
     },
     {
       "id": "de253f69f6541884bf83",
