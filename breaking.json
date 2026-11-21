@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-21T13:30:53.121546+00:00",
+  "updated_at": "2026-11-21T13:35:27.969950+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-21T13:30:53.121546+00:00"
+      "checked_at": "2026-11-21T13:35:27.969950+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-21T13:30:53.121546+00:00"
+      "checked_at": "2026-11-21T13:35:27.969950+00:00"
     }
   },
   "items": [
+    {
+      "id": "c67ca0344cde971d68f4",
+      "source": "TGcom24",
+      "title": "Bulgari, è morto il fondatore Paolo: il gioielliere si è spento a 89 anni",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/morto-gioielliere-paolo-bulgari_119245107-202602k.shtml",
+      "published": "2026-11-21T13:30:00+00:00"
+    },
     {
       "id": "76a1d7d0e5a8e0d774ce",
       "source": "BBC News",
@@ -304,13 +311,6 @@
       "title": "Omicidio Yara, Bossetti a \"Quarto Grado\": \"Bisogna cercare nella palestra\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/massimo-bossetti-intervista-quarto-grado_119222733-202602k.shtml",
       "published": "2026-11-20T20:31:00+00:00"
-    },
-    {
-      "id": "308adc35b5aad7d2fdcb",
-      "source": "TGcom24",
-      "title": "Dal Mit via libera provvisorio alla guida assistita di Tesla",
-      "url": "https://www.tgcom24.mediaset.it/motori/tesla-guida-assistita-mit_119222579-202602k.shtml",
-      "published": "2026-11-20T19:50:00+00:00"
     },
     {
       "id": "6bb41e809ded663aa9dd",
