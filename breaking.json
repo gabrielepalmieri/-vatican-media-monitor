@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-22T19:25:21.923188+00:00",
+  "updated_at": "2026-11-22T19:30:44.691718+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-22T19:25:21.923188+00:00"
+      "checked_at": "2026-11-22T19:30:44.691718+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-22T19:25:21.923188+00:00"
+      "checked_at": "2026-11-22T19:30:44.691718+00:00"
     }
   },
   "items": [
+    {
+      "id": "1f1145ac7dfb5255fbff",
+      "source": "BBC News",
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22T19:26:54+00:00"
+    },
     {
       "id": "378e64b83608e0419a93",
       "source": "BBC News",
@@ -59,13 +66,6 @@
       "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
       "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-22T17:18:26+00:00"
-    },
-    {
-      "id": "1f1145ac7dfb5255fbff",
-      "source": "BBC News",
-      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-22T17:16:47+00:00"
     },
     {
       "id": "e830c8d5ed8b83be3fac",
@@ -241,13 +241,6 @@
       "title": "How a teen gamer and his mother helped rescue a missing girl",
       "url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-22T00:09:58+00:00"
-    },
-    {
-      "id": "ceab28896159207116f3",
-      "source": "TGcom24",
-      "title": "Messico, guerriglia dopo l'arresto del boss El Chapo Isidro: almeno 11 morti",
-      "url": "https://www.tgcom24.mediaset.it/mondo/messico-el-chapo-isidro-arresto-sinaloa-fbi_119271778-202602k.shtml",
-      "published": "2026-11-21T23:13:00+00:00"
     },
     {
       "id": "ce2df08d497a8cbd699a",
