@@ -1,29 +1,43 @@
 {
-  "updated_at": "2026-11-22T20:25:27.085965+00:00",
+  "updated_at": "2026-11-22T20:30:47.426365+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-22T20:25:27.085965+00:00"
+      "checked_at": "2026-11-22T20:30:47.426365+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-22T20:25:27.085965+00:00"
+      "checked_at": "2026-11-22T20:30:47.426365+00:00"
     }
   },
   "items": [
+    {
+      "id": "1f1145ac7dfb5255fbff",
+      "source": "BBC News",
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22T20:28:09+00:00"
+    },
+    {
+      "id": "3f7f7637d7eb921d9a1e",
+      "source": "TGcom24",
+      "title": "Guerra in Iran, Trump: \"Propenso a riprendere gli attacchi nel nuovo anno\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-22-novembre_119284862-202602k.shtml",
+      "published": "2026-11-22T20:27:00+00:00"
+    },
+    {
+      "id": "177a6394844c123770cf",
+      "source": "BBC News",
+      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22T20:26:24+00:00"
+    },
     {
       "id": "6dc88fb533cb89f94924",
       "source": "TGcom24",
       "title": "Cagliari, cade in mare dalla banchina del porto: salvato dai sommozzatori",
       "url": "https://www.tgcom24.mediaset.it/cronaca/cagliari-cade-in-mare-dalla-banchina-del-porto-salvato-dai-sommozzatori_119311977-202602k.shtml",
       "published": "2026-11-22T19:59:00+00:00"
-    },
-    {
-      "id": "1f1145ac7dfb5255fbff",
-      "source": "BBC News",
-      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-22T19:52:50+00:00"
     },
     {
       "id": "378e64b83608e0419a93",
@@ -206,13 +220,6 @@
       "title": "Lite nel locale, ucciso titolare di uno storico pub di Torino",
       "url": "https://www.tgcom24.mediaset.it/cronaca/torino-omicidio-franco-zangari-manhattan-pub_119278145-202602k.shtml",
       "published": "2026-11-22T06:40:00+00:00"
-    },
-    {
-      "id": "cbb6e931a3d8b1106b46",
-      "source": "TGcom24",
-      "title": "Si ribalta imbarcazione in Nigeria, almeno 24 morti: andavano a un funerale",
-      "url": "https://www.tgcom24.mediaset.it/mondo/nigeria-naufragio-morti_119277575-202602k.shtml",
-      "published": "2026-11-22T05:28:00+00:00"
     },
     {
       "id": "baadc35784b773646fb5",
