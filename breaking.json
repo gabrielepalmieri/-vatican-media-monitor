@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-22T08:45:35.990862+00:00",
+  "updated_at": "2026-11-22T08:50:31.048956+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-22T08:45:35.990862+00:00"
+      "checked_at": "2026-11-22T08:50:31.048956+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-22T08:45:35.990862+00:00"
+      "checked_at": "2026-11-22T08:50:31.048956+00:00"
     }
   },
   "items": [
+    {
+      "id": "55a2bad58ca695a3a45e",
+      "source": "TGcom24",
+      "title": "La sonda BepiColombo dopo otto anni nell'orbita di Mercurio",
+      "url": "https://www.tgcom24.mediaset.it/spazio/spazio-bepicolombo-mercurio-missione-esa_119282863-202602k.shtml",
+      "published": "2026-11-22T08:48:00+00:00"
+    },
     {
       "id": "52b6d1bc68e8ed051a49",
       "source": "TGcom24",
@@ -192,13 +199,6 @@
       "title": "De Gennaro, la procura di Grosseto indaga per istigazione al suicidio",
       "url": "https://www.tgcom24.mediaset.it/cronaca/gianni-de-gennaro-suicidio_119238402-202602k.shtml",
       "published": "2026-11-21T13:55:00+00:00"
-    },
-    {
-      "id": "c67ca0344cde971d68f4",
-      "source": "TGcom24",
-      "title": "Bulgari, è morto il fondatore Paolo: il gioielliere si è spento a 89 anni",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/morto-gioielliere-paolo-bulgari_119245107-202602k.shtml",
-      "published": "2026-11-21T13:30:00+00:00"
     },
     {
       "id": "76a1d7d0e5a8e0d774ce",
