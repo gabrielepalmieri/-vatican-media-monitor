@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-22T14:05:23.270204+00:00",
+  "updated_at": "2026-11-22T14:10:30.157802+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-22T14:05:23.270204+00:00"
+      "checked_at": "2026-11-22T14:10:30.157802+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-22T14:05:23.270204+00:00"
+      "checked_at": "2026-11-22T14:10:30.157802+00:00"
     }
   },
   "items": [
+    {
+      "id": "414dbef514b63954caf0",
+      "source": "BBC News",
+      "title": "Three killed and dozens missing after fire at Indonesian factory",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22T14:05:20+00:00"
+    },
     {
       "id": "1b4bbe99e638653e329c",
       "source": "TGcom24",
@@ -115,13 +122,6 @@
       "title": "Lite nel locale, ucciso titolare di uno storico pub di Torino",
       "url": "https://www.tgcom24.mediaset.it/cronaca/torino-omicidio-franco-zangari-manhattan-pub_119278145-202602k.shtml",
       "published": "2026-11-22T06:40:00+00:00"
-    },
-    {
-      "id": "414dbef514b63954caf0",
-      "source": "BBC News",
-      "title": "Three killed and dozens missing after fire at Indonesian factory",
-      "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-22T06:05:00+00:00"
     },
     {
       "id": "cbb6e931a3d8b1106b46",
