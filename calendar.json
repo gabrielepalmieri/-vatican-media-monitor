@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-21T13:25:34.311791+00:00",
+  "updated_at": "2026-11-22T02:10:07.335995+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-11-21T13:25:34.311791+00:00",
+  "un_verified_at": "2026-11-22T02:10:07.335995+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,30 +1918,6 @@
     }
   ],
   "days": {
-    "2026-11-20": {
-      "saints": [
-        {
-          "title": "Anna Kolesárová",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/20/anna-kolesarova-.html"
-        },
-        {
-          "title": "San Gelasio I, papa",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/20.html"
-        }
-      ],
-      "un": [
-        {
-          "title": "Giornata dell’industrializzazione dell’Africa",
-          "url": "https://www.un.org/en/observances/africa-industrialization-day"
-        },
-        {
-          "title": "Giornata mondiale dell’infanzia",
-          "url": "https://www.un.org/en/observances/world-childrens-day"
-        }
-      ],
-      "un_available": true,
-      "holy_see": []
-    },
     "2026-11-21": {
       "saints": [
         {
@@ -2619,6 +2595,26 @@
         }
       ],
       "un": [],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-12-27": {
+      "saints": [
+        {
+          "title": "San Giovanni, apostolo ed evangelista",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/27/san-giovanni--apostolo-ed-evangelista.html"
+        },
+        {
+          "title": "Santa Fabiola, vedova romana, discepola di San Girolamo",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/27.html"
+        }
+      ],
+      "un": [
+        {
+          "title": "Giornata internazionale della preparazione alle epidemie",
+          "url": "https://www.un.org/en/observances/epidemic-preparedness-day"
+        }
+      ],
       "un_available": true,
       "holy_see": []
     }
