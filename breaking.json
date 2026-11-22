@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-22T09:25:20.792578+00:00",
+  "updated_at": "2026-11-22T09:30:52.642544+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-22T09:25:20.792578+00:00"
+      "checked_at": "2026-11-22T09:30:52.642544+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-22T09:25:20.792578+00:00"
+      "checked_at": "2026-11-22T09:30:52.642544+00:00"
     }
   },
   "items": [
+    {
+      "id": "3fe9e7233d48808dd7e4",
+      "source": "TGcom24",
+      "title": "Arrestata dall'Ice una dottoranda di Princeton: è scontro sul suo status",
+      "url": "https://www.tgcom24.mediaset.it/mondo/dottoranda-cinese-arrestata-ice-usa-immigrazione_119282854-202602k.shtml",
+      "published": "2026-11-22T09:24:00+00:00"
+    },
     {
       "id": "9779bd3d195db35cbe70",
       "source": "BBC News",
@@ -206,13 +213,6 @@
       "title": "De Gennaro, telefonata di cordoglio di Mattarella al fratello Andrea",
       "url": "https://www.tgcom24.mediaset.it/cronaca/suicidio-de-gennaro-reazioni_119239514-202602k.shtml",
       "published": "2026-11-21T14:20:00+00:00"
-    },
-    {
-      "id": "cde5bf9cdc644314f585",
-      "source": "TGcom24",
-      "title": "De Gennaro, la procura di Grosseto indaga per istigazione al suicidio",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/gianni-de-gennaro-suicidio_119238402-202602k.shtml",
-      "published": "2026-11-21T13:55:00+00:00"
     },
     {
       "id": "76a1d7d0e5a8e0d774ce",
