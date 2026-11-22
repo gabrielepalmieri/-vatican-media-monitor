@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-22T17:10:34.489442+00:00",
+  "updated_at": "2026-11-22T17:15:31.805961+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-22T17:10:34.489442+00:00"
+      "checked_at": "2026-11-22T17:15:31.805961+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-22T17:10:34.489442+00:00"
+      "checked_at": "2026-11-22T17:15:31.805961+00:00"
     }
   },
   "items": [
+    {
+      "id": "1f1145ac7dfb5255fbff",
+      "source": "BBC News",
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22T17:12:01+00:00"
+    },
     {
       "id": "e830c8d5ed8b83be3fac",
       "source": "TGcom24",
       "title": "Israele, colloqui tra Likud e Yashar: \"Possibile governo di unità nazionale\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/israele-colloqui-netanyahu-eisenkot_119302960-202602k.shtml",
       "published": "2026-11-22T16:42:00+00:00"
-    },
-    {
-      "id": "1f1145ac7dfb5255fbff",
-      "source": "BBC News",
-      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-22T16:05:25+00:00"
     },
     {
       "id": "adfc7b579fe53cc2230d",
