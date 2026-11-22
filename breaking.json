@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-22T22:50:30.228824+00:00",
+  "updated_at": "2026-11-22T22:55:26.155786+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-22T22:50:30.228824+00:00"
+      "checked_at": "2026-11-22T22:55:26.155786+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-22T22:50:30.228824+00:00"
+      "checked_at": "2026-11-22T22:55:26.155786+00:00"
     }
   },
   "items": [
+    {
+      "id": "2a7e34802db1cd301c44",
+      "source": "TGcom24",
+      "title": "Cisgiordania, media: \"Il ministro degli Esteri israeliano condanna le violenze dei coloni\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/ministro-esteri-israeliano-condanna-violenze-coloni_119318517-202602k.shtml",
+      "published": "2026-11-22T22:52:00+00:00"
+    },
     {
       "id": "c95ad259b1c88a0933c2",
       "source": "BBC News",
@@ -21,7 +28,7 @@
     {
       "id": "ac803193cb486d2927da",
       "source": "TGcom24",
-      "title": "Trump: \"Con la vittoria dei dem alle midterm, l'Iran è diventato più aggressivo\"",
+      "title": "Trump: \"Con la vittoria dei dem alle midterm l'Iran è diventato più aggressivo\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-22-novembre_119284862-202602k.shtml",
       "published": "2026-11-22T22:31:00+00:00"
     },
@@ -206,13 +213,6 @@
       "title": "La sonda BepiColombo dopo otto anni nell'orbita di Mercurio",
       "url": "https://www.tgcom24.mediaset.it/spazio/spazio-bepicolombo-mercurio-missione-esa_119282863-202602k.shtml",
       "published": "2026-11-22T08:48:00+00:00"
-    },
-    {
-      "id": "52b6d1bc68e8ed051a49",
-      "source": "TGcom24",
-      "title": "Stretta FdI su studenti e cortei violenti: agli indagati via le borse di studio",
-      "url": "https://www.tgcom24.mediaset.it/politica/fdi-decreto-sicurezza-studenti-indagati-cortei-sospensione-borsa-studio_119278895-202602k.shtml",
-      "published": "2026-11-22T08:00:00+00:00"
     },
     {
       "id": "f90c1a91a02ec6f2a3cb",
