@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-22T20:00:57.326200+00:00",
+  "updated_at": "2026-11-22T20:05:22.972784+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-22T20:00:57.326200+00:00"
+      "checked_at": "2026-11-22T20:05:22.972784+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-22T20:00:57.326200+00:00"
+      "checked_at": "2026-11-22T20:05:22.972784+00:00"
     }
   },
   "items": [
+    {
+      "id": "6dc88fb533cb89f94924",
+      "source": "TGcom24",
+      "title": "Cagliari, cade in mare dalla banchina del porto: salvato dai sommozzatori",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/cagliari-cade-in-mare-dalla-banchina-del-porto-salvato-dai-sommozzatori_119311977-202602k.shtml",
+      "published": "2026-11-22T19:59:00+00:00"
+    },
     {
       "id": "1f1145ac7dfb5255fbff",
       "source": "BBC News",
@@ -206,13 +213,6 @@
       "title": "Si ribalta imbarcazione in Nigeria, almeno 24 morti: andavano a un funerale",
       "url": "https://www.tgcom24.mediaset.it/mondo/nigeria-naufragio-morti_119277575-202602k.shtml",
       "published": "2026-11-22T05:28:00+00:00"
-    },
-    {
-      "id": "61961bb021b490ed475d",
-      "source": "TGcom24",
-      "title": "Argentina, altre quattro persone in manette per la fuga dell'ex Br Bertulazzi",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/argentina-evasione-leonardo-bertulazzi-br-fermi_119276663-202602k.shtml",
-      "published": "2026-11-22T05:01:00+00:00"
     },
     {
       "id": "baadc35784b773646fb5",
