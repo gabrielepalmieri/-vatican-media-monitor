@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-22T11:25:21.333700+00:00",
+  "updated_at": "2026-11-22T11:30:46.842321+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-22T11:25:21.333700+00:00"
+      "checked_at": "2026-11-22T11:30:46.842321+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-22T11:25:21.333700+00:00"
+      "checked_at": "2026-11-22T11:30:46.842321+00:00"
     }
   },
   "items": [
+    {
+      "id": "37369480e4756eb1125b",
+      "source": "BBC News",
+      "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22T11:25:14+00:00"
+    },
     {
       "id": "3081fcf4a2b5c891a1ea",
       "source": "TGcom24",
@@ -178,13 +185,6 @@
       "title": "Bahrein, pasdaran attaccano due basi americane: \"Colpiti radar dei Patriot\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/bahrein-incendio-in-un-sito-industriale-civile-per-un-attacco-iraniano-_119270665-202602k.shtml",
       "published": "2026-11-21T20:01:00+00:00"
-    },
-    {
-      "id": "37369480e4756eb1125b",
-      "source": "BBC News",
-      "title": "Russia-bound ship attacked in Gulf of Finland",
-      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21T19:20:22+00:00"
     },
     {
       "id": "94519f046950ad969105",
