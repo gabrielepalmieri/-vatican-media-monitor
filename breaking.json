@@ -1,22 +1,29 @@
 {
-  "updated_at": "2026-11-22T17:15:31.805961+00:00",
+  "updated_at": "2026-11-22T17:20:31.898361+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-22T17:15:31.805961+00:00"
+      "checked_at": "2026-11-22T17:20:31.898361+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-22T17:15:31.805961+00:00"
+      "checked_at": "2026-11-22T17:20:31.898361+00:00"
     }
   },
   "items": [
+    {
+      "id": "37369480e4756eb1125b",
+      "source": "BBC News",
+      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22T17:18:26+00:00"
+    },
     {
       "id": "1f1145ac7dfb5255fbff",
       "source": "BBC News",
       "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
       "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-22T17:12:01+00:00"
+      "published": "2026-11-22T17:16:47+00:00"
     },
     {
       "id": "e830c8d5ed8b83be3fac",
@@ -66,13 +73,6 @@
       "title": "Cop31, l'Ue si oppone alla bozza di accordo presentata dalla presidenza turca",
       "url": "https://www.tgcom24.mediaset.it/mondo/cop31-turchia-ue-respinge-bozza-accordo-combustibili-fossili_119288563-202602k.shtml",
       "published": "2026-11-22T11:29:00+00:00"
-    },
-    {
-      "id": "37369480e4756eb1125b",
-      "source": "BBC News",
-      "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
-      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-22T11:25:14+00:00"
     },
     {
       "id": "3081fcf4a2b5c891a1ea",
