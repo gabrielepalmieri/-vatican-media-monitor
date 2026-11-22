@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-22T09:20:30.445092+00:00",
+  "updated_at": "2026-11-22T09:25:20.792578+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-22T09:20:30.445092+00:00"
+      "checked_at": "2026-11-22T09:25:20.792578+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-22T09:20:30.445092+00:00"
+      "checked_at": "2026-11-22T09:25:20.792578+00:00"
     }
   },
   "items": [
+    {
+      "id": "9779bd3d195db35cbe70",
+      "source": "BBC News",
+      "title": "South Korea education minister resigns over exam cheating scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22T09:20:45+00:00"
+    },
     {
       "id": "55a2bad58ca695a3a45e",
       "source": "TGcom24",
@@ -31,6 +38,13 @@
       "title": "De Gennaro, il vicino ristoratore: \"Negli ultimi giorni era diverso\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/gianni-de-gennaro-ultime-ore-testimoni-vicino_119278724-202602k.shtml",
       "published": "2026-11-22T07:35:00+00:00"
+    },
+    {
+      "id": "f90c1a91a02ec6f2a3cb",
+      "source": "BBC News",
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22T07:12:41+00:00"
     },
     {
       "id": "4d728c9a37e16aa34aa9",
