@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-22T06:40:35.383282+00:00",
+  "updated_at": "2026-11-22T06:45:30.712073+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-22T06:40:35.383282+00:00"
+      "checked_at": "2026-11-22T06:45:30.712073+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-22T06:40:35.383282+00:00"
+      "checked_at": "2026-11-22T06:45:30.712073+00:00"
     }
   },
   "items": [
+    {
+      "id": "fda8a1b0a17c82212d09",
+      "source": "TGcom24",
+      "title": "Lite nel locale, ucciso titolare di uno storico pub di Torino",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/torino-omicidio-franco-zangari-manhattan-pub_119278145-202602k.shtml",
+      "published": "2026-11-22T06:40:00+00:00"
+    },
     {
       "id": "414dbef514b63954caf0",
       "source": "BBC News",
@@ -199,13 +206,6 @@
       "title": "Caro bollette, Cgia: 2,4 milioni di famiglie senza riscaldamento, la metà al Sud",
       "url": "https://www.tgcom24.mediaset.it/economia/caro-bollette-cgia-2-4-milioni-famiglie-senza-riscaldamento_119237101-202602k.shtml",
       "published": "2026-11-21T12:05:00+00:00"
-    },
-    {
-      "id": "559afde9d74fa613a81c",
-      "source": "TGcom24",
-      "title": "Moda, è morta a Milano la stilista Raffaella Curiel",
-      "url": "https://www.tgcom24.mediaset.it/lifestyle/moda-morte-raffaella-curiel_119243590-202602k.shtml",
-      "published": "2026-11-21T11:45:00+00:00"
     },
     {
       "id": "f784366d920954140841",
