@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-22T06:50:28.551284+00:00",
+  "updated_at": "2026-11-22T06:55:24.740144+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-22T06:50:28.551284+00:00"
+      "checked_at": "2026-11-22T06:55:24.740144+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-22T06:50:28.551284+00:00"
+      "checked_at": "2026-11-22T06:55:24.740144+00:00"
     }
   },
   "items": [
+    {
+      "id": "c7b98db91e669d51db64",
+      "source": "BBC News",
+      "title": "New draft deal aims to avert collapse of talks at climate summit",
+      "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22T06:54:06+00:00"
+    },
     {
       "id": "fda8a1b0a17c82212d09",
       "source": "TGcom24",
@@ -31,13 +38,6 @@
       "title": "Si ribalta imbarcazione in Nigeria, almeno 24 morti: andavano a un funerale",
       "url": "https://www.tgcom24.mediaset.it/mondo/nigeria-naufragio-morti_119277575-202602k.shtml",
       "published": "2026-11-22T05:28:00+00:00"
-    },
-    {
-      "id": "c7b98db91e669d51db64",
-      "source": "BBC News",
-      "title": "New draft deal aims to avert collapse of talks at climate summit",
-      "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-22T05:26:10+00:00"
     },
     {
       "id": "61961bb021b490ed475d",
