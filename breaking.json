@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-22T05:01:03.828436+00:00",
+  "updated_at": "2026-11-22T05:05:27.896581+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-22T05:01:03.828436+00:00"
+      "checked_at": "2026-11-22T05:05:27.896581+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-22T05:01:03.828436+00:00"
+      "checked_at": "2026-11-22T05:05:27.896581+00:00"
     }
   },
   "items": [
+    {
+      "id": "61961bb021b490ed475d",
+      "source": "TGcom24",
+      "title": "Argentina, altre quattro persone in manette per la fuga dell'ex Br Bertulazzi",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/argentina-evasione-leonardo-bertulazzi-br-fermi_119276663-202602k.shtml",
+      "published": "2026-11-22T05:01:00+00:00"
+    },
     {
       "id": "baadc35784b773646fb5",
       "source": "BBC News",
@@ -199,13 +206,6 @@
       "title": "De Gennaro, il fratello di Borsellino: \"Pm responsabili di istigazione al suicidio\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/morte-gianni-de-gennaro-fratello-borsellino_119240946-202602k.shtml",
       "published": "2026-11-21T11:02:00+00:00"
-    },
-    {
-      "id": "5c1ba40523a9fcc0233f",
-      "source": "TGcom24",
-      "title": "De Gennaro, Meloni: \"Profondamente scioccata dalla tragica scomparsa\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/suicidio-de-gennaro-reazioni_119239514-202602k.shtml",
-      "published": "2026-11-21T10:43:00+00:00"
     },
     {
       "id": "f784366d920954140841",
