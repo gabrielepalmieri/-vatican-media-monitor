@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-23T07:00:59.610308+00:00",
+  "updated_at": "2026-11-23T07:05:24.028900+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-23T07:00:59.610308+00:00"
+      "checked_at": "2026-11-23T07:05:24.028900+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-23T07:00:59.610308+00:00"
+      "checked_at": "2026-11-23T07:05:24.028900+00:00"
     }
   },
   "items": [
+    {
+      "id": "150cd965ca54a9ae24f3",
+      "source": "BBC News",
+      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T07:01:31+00:00"
+    },
     {
       "id": "397d36f819833dde24a3",
       "source": "TGcom24",
@@ -108,13 +115,6 @@
       "title": "Cisgiordania, media: \"Il ministro degli Esteri israeliano condanna le violenze dei coloni\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/ministro-esteri-israeliano-condanna-violenze-coloni_119318517-202602k.shtml",
       "published": "2026-11-22T22:52:00+00:00"
-    },
-    {
-      "id": "150cd965ca54a9ae24f3",
-      "source": "BBC News",
-      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-22T22:49:10+00:00"
     },
     {
       "id": "c95ad259b1c88a0933c2",
