@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-23T05:25:27.068540+00:00",
+  "updated_at": "2026-11-23T05:30:44.947721+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-23T05:25:27.068540+00:00"
+      "checked_at": "2026-11-23T05:30:44.947721+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-23T05:25:27.068540+00:00"
+      "checked_at": "2026-11-23T05:30:44.947721+00:00"
     }
   },
   "items": [
+    {
+      "id": "11ec76fd07c9d5e87753",
+      "source": "TGcom24",
+      "title": "Caso Nvidia, Nyt: \"Alice Huang contattava 007 cinesi durante relazione con Jensen\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-alice-huang-jensen-huang-trump-spia_119318774-202602k.shtml",
+      "published": "2026-11-23T05:26:00+00:00"
+    },
     {
       "id": "91cbf5bc1df395ace553",
       "source": "BBC News",
@@ -227,13 +234,6 @@
       "title": "Ucraina, a Dymer raid russo su un edificio residenziale: quattro morti",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-22-novembre_119284838-202602k.shtml",
       "published": "2026-11-22T10:28:00+00:00"
-    },
-    {
-      "id": "0d0acac56e68fed0c27b",
-      "source": "TGcom24",
-      "title": "Teheran: \"Su Hormuz abbattuto ventesimo drone Usa, il quarto in 24 ore\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-22novembre_119284862-202602k.shtml",
-      "published": "2026-11-22T09:50:00+00:00"
     },
     {
       "id": "9779bd3d195db35cbe70",
