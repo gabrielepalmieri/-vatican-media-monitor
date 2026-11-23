@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-23T18:30:50.473093+00:00",
+  "updated_at": "2026-11-23T18:35:22.930143+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-23T18:30:50.473093+00:00"
+      "checked_at": "2026-11-23T18:35:22.930143+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-23T18:30:50.473093+00:00"
+      "checked_at": "2026-11-23T18:35:22.930143+00:00"
     }
   },
   "items": [
+    {
+      "id": "f99a36a5b2b94877ea1b",
+      "source": "TGcom24",
+      "title": "Ucraina, sarebbero oltre 700mila i soldati russi caduti dall'inizio della guerra",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-23-novembre_119319438-202602k.shtml",
+      "published": "2026-11-23T18:28:00+00:00"
+    },
     {
       "id": "fbd3e88029de07784465",
       "source": "BBC News",
@@ -332,13 +339,6 @@
       "title": "Trump: \"Con la vittoria dei dem alle midterm l'Iran è diventato più aggressivo\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-22-novembre_119284862-202602k.shtml",
       "published": "2026-11-22T22:31:00+00:00"
-    },
-    {
-      "id": "1a98eab49cf8b99b82d4",
-      "source": "TGcom24",
-      "title": "Milano, aggredito a colpi di ombrello in strada: 66enne in pericolo di vita",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-piazzale-maciachini-aggressione_119316426-202602k.shtml",
-      "published": "2026-11-22T22:10:00+00:00"
     },
     {
       "id": "b7f99b3c7edfb7d0f448",
