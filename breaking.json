@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-23T05:30:44.947721+00:00",
+  "updated_at": "2026-11-23T05:35:21.699235+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-23T05:30:44.947721+00:00"
+      "checked_at": "2026-11-23T05:35:21.699235+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-23T05:30:44.947721+00:00"
+      "checked_at": "2026-11-23T05:35:21.699235+00:00"
     }
   },
   "items": [
+    {
+      "id": "378e64b83608e0419a93",
+      "source": "BBC News",
+      "title": "What's next after no deal at COP31 climate talks?",
+      "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T05:34:39+00:00"
+    },
+    {
+      "id": "f6baa807b7bf235c8159",
+      "source": "BBC News",
+      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T05:33:17+00:00"
+    },
     {
       "id": "11ec76fd07c9d5e87753",
       "source": "TGcom24",
@@ -31,13 +45,6 @@
       "title": "Kushner: \"Impegno Usa per Kiev e per garanzie Nato alla Russia\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-22-novembre_119284838-202602k.shtml",
       "published": "2026-11-23T05:02:00+00:00"
-    },
-    {
-      "id": "f6baa807b7bf235c8159",
-      "source": "BBC News",
-      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-      "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-23T04:44:00+00:00"
     },
     {
       "id": "1f1145ac7dfb5255fbff",
@@ -136,13 +143,6 @@
       "title": "Cagliari, cade in mare dalla banchina del porto: salvato dai sommozzatori",
       "url": "https://www.tgcom24.mediaset.it/cronaca/cagliari-cade-in-mare-dalla-banchina-del-porto-salvato-dai-sommozzatori_119311977-202602k.shtml",
       "published": "2026-11-22T19:59:00+00:00"
-    },
-    {
-      "id": "378e64b83608e0419a93",
-      "source": "BBC News",
-      "title": "What's next after no deal at COP31 climate talks?",
-      "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-22T18:57:24+00:00"
     },
     {
       "id": "ec7af18546fd202e6f6f",
