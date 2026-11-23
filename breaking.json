@@ -1,22 +1,43 @@
 {
-  "updated_at": "2026-11-23T17:05:24.741363+00:00",
+  "updated_at": "2026-11-23T17:10:29.592651+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-23T17:05:24.741363+00:00"
+      "checked_at": "2026-11-23T17:10:29.592651+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-23T17:05:24.741363+00:00"
+      "checked_at": "2026-11-23T17:10:29.592651+00:00"
     }
   },
   "items": [
+    {
+      "id": "2d8ecdf12fdddaa9bf96",
+      "source": "BBC News",
+      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+      "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T17:07:25+00:00"
+    },
+    {
+      "id": "3cb1af89f37a4635a92e",
+      "source": "TGcom24",
+      "title": "Salvini vede l'ambasciatore ucraino: preoccupazione per sito Myrotvorets e Mediterraneo",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-23-novembre_119319438-202602k.shtml",
+      "published": "2026-11-23T17:00:00+00:00"
+    },
     {
       "id": "ca3a7f30b17e0bc2c544",
       "source": "BBC News",
       "title": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
       "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-23T16:49:51+00:00"
+    },
+    {
+      "id": "f0eaee9436ba35ea71ab",
+      "source": "TGcom24",
+      "title": "Cremona, 78enne ritrovata morta in un canale: era scomparsa da ore",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/spino-d-adda-cremona-chantal-cossart-morta-canale_119341096-202602k.shtml",
+      "published": "2026-11-23T16:22:00+00:00"
     },
     {
       "id": "4b2a5b8368c04dda6658",
@@ -101,13 +122,6 @@
       "title": "Search and rescue teams race against time to find survivors after Nigeria boat tragedy",
       "url": "https://www.bbc.co.uk/news/articles/cq7820xjm49po?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-23T12:43:40+00:00"
-    },
-    {
-      "id": "2d8ecdf12fdddaa9bf96",
-      "source": "BBC News",
-      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-      "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-23T11:57:33+00:00"
     },
     {
       "id": "5e4296eaeb4d230e0537",
@@ -297,20 +311,6 @@
       "title": "Ucraina, bambino estratto vivo dalle macerie del palazzo di Dymer",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-22-novembre_119284838-202602k.shtml",
       "published": "2026-11-22T21:10:00+00:00"
-    },
-    {
-      "id": "3f7f7637d7eb921d9a1e",
-      "source": "TGcom24",
-      "title": "Guerra in Iran, Trump: \"Propenso a riprendere gli attacchi nel nuovo anno\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-22-novembre_119284862-202602k.shtml",
-      "published": "2026-11-22T20:27:00+00:00"
-    },
-    {
-      "id": "6dc88fb533cb89f94924",
-      "source": "TGcom24",
-      "title": "Cagliari, cade in mare dalla banchina del porto: salvato dai sommozzatori",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/cagliari-cade-in-mare-dalla-banchina-del-porto-salvato-dai-sommozzatori_119311977-202602k.shtml",
-      "published": "2026-11-22T19:59:00+00:00"
     },
     {
       "id": "ec7af18546fd202e6f6f",
