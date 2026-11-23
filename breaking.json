@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-23T11:25:27.803176+00:00",
+  "updated_at": "2026-11-23T11:30:44.731303+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-23T11:25:27.803176+00:00"
+      "checked_at": "2026-11-23T11:30:44.731303+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-23T11:25:27.803176+00:00"
+      "checked_at": "2026-11-23T11:30:44.731303+00:00"
     }
   },
   "items": [
+    {
+      "id": "3c38f8c12a4d6d1d6dd0",
+      "source": "BBC News",
+      "title": "Flights grounded in Belgium due to strike against austerity measures",
+      "url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T11:26:12+00:00"
+    },
+    {
+      "id": "1f1145ac7dfb5255fbff",
+      "source": "BBC News",
+      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T11:25:16+00:00"
+    },
     {
       "id": "fe9945572e430e9cd05b",
       "source": "TGcom24",
@@ -45,20 +59,6 @@
       "title": "Kenya and DR Congo agree to restore ties after tensions over conflict",
       "url": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-23T08:53:01+00:00"
-    },
-    {
-      "id": "150cd965ca54a9ae24f3",
-      "source": "BBC News",
-      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-23T08:41:08+00:00"
-    },
-    {
-      "id": "1f1145ac7dfb5255fbff",
-      "source": "BBC News",
-      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-23T08:36:57+00:00"
     },
     {
       "id": "520fa84bf7779f2ff450",
