@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-23T14:20:31.799857+00:00",
+  "updated_at": "2026-11-23T14:25:22.041427+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-23T14:20:31.799857+00:00"
+      "checked_at": "2026-11-23T14:25:22.041427+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-23T14:20:31.799857+00:00"
+      "checked_at": "2026-11-23T14:25:22.041427+00:00"
     }
   },
   "items": [
+    {
+      "id": "1cdb11d79afb1a927c64",
+      "source": "TGcom24",
+      "title": "Nvidia, Jensen Huang reintegrato come Ceo e presidente",
+      "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-jensen-huang-ceo_119337245-202602k.shtml",
+      "published": "2026-11-23T14:19:00+00:00"
+    },
     {
       "id": "3c38f8c12a4d6d1d6dd0",
       "source": "BBC News",
@@ -276,13 +283,6 @@
       "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
       "url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-22T18:29:46+00:00"
-    },
-    {
-      "id": "6e249e8e0097dcd77b7e",
-      "source": "TGcom24",
-      "title": "Iran, due petroliere a fuoco vicino a Hormuz: \"Hanno urtato delle mine navali\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-22novembre_119284862-202602k.shtml",
-      "published": "2026-11-22T18:15:00+00:00"
     },
     {
       "id": "37369480e4756eb1125b",
