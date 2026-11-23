@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-23T20:25:23.703719+00:00",
+  "updated_at": "2026-11-23T20:30:47.118801+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-23T20:25:23.703719+00:00"
+      "checked_at": "2026-11-23T20:30:47.118801+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-23T20:25:23.703719+00:00"
+      "checked_at": "2026-11-23T20:30:47.118801+00:00"
     }
   },
   "items": [
+    {
+      "id": "1844e4fe84f190d41a7f",
+      "source": "TGcom24",
+      "title": "Nvidia, procuratore Usa informa Trump: nessuna prova di illeciti da parte di Huang",
+      "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-jensen-huang-ceo_119337245-202602k.shtml",
+      "published": "2026-11-23T19:58:00+00:00"
+    },
     {
       "id": "fac8b86fa480d85d0b4e",
       "source": "TGcom24",
@@ -325,13 +332,6 @@
       "title": "Vercelli, auto va fuori strada e prende fuoco: morto 17enne",
       "url": "https://www.tgcom24.mediaset.it/cronaca/vercelli-auto-fuori-strada-morto-17enne_119315246-202602k.shtml",
       "published": "2026-11-22T23:15:00+00:00"
-    },
-    {
-      "id": "2a7e34802db1cd301c44",
-      "source": "TGcom24",
-      "title": "Cisgiordania, media: \"Il ministro degli Esteri israeliano condanna le violenze dei coloni\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/ministro-esteri-israeliano-condanna-violenze-coloni_119318517-202602k.shtml",
-      "published": "2026-11-22T22:52:00+00:00"
     },
     {
       "id": "c95ad259b1c88a0933c2",
