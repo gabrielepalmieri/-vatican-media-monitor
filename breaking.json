@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-23T05:10:35.169925+00:00",
+  "updated_at": "2026-11-23T05:15:38.393367+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-23T05:10:35.169925+00:00"
+      "checked_at": "2026-11-23T05:15:38.393367+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-23T05:10:35.169925+00:00"
+      "checked_at": "2026-11-23T05:15:38.393367+00:00"
     }
   },
   "items": [
+    {
+      "id": "91cbf5bc1df395ace553",
+      "source": "BBC News",
+      "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T05:15:06+00:00"
+    },
     {
       "id": "d5d0df938cd6b94a6707",
       "source": "TGcom24",
@@ -38,13 +45,6 @@
       "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
       "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-23T01:23:43+00:00"
-    },
-    {
-      "id": "91cbf5bc1df395ace553",
-      "source": "BBC News",
-      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-23T00:50:35+00:00"
     },
     {
       "id": "f90c1a91a02ec6f2a3cb",
