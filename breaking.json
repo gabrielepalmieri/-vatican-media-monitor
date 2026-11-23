@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-23T08:00:59.436047+00:00",
+  "updated_at": "2026-11-23T08:05:28.964135+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-23T08:00:59.436047+00:00"
+      "checked_at": "2026-11-23T08:05:28.964135+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-23T08:00:59.436047+00:00"
+      "checked_at": "2026-11-23T08:05:28.964135+00:00"
     }
   },
   "items": [
+    {
+      "id": "e3e7f4d0f90b753abbf5",
+      "source": "TGcom24",
+      "title": "Zelensky rivendica gli attacchi alle navi russe in Libia: \"Operazione esemplare\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-23-novembre_119319438-202602k.shtml",
+      "published": "2026-11-23T08:01:00+00:00"
+    },
     {
       "id": "150cd965ca54a9ae24f3",
       "source": "BBC News",
@@ -227,13 +234,6 @@
       "title": "De Gennaro, investigatori al lavoro per escludere la presenza di altre persone",
       "url": "https://www.tgcom24.mediaset.it/cronaca/gianni-de-gennaro-ultime-ore-testimoni-vicino_119278724-202602k.shtml",
       "published": "2026-11-22T12:45:00+00:00"
-    },
-    {
-      "id": "36af766f730604af853d",
-      "source": "TGcom24",
-      "title": "Udine, operaio schiacciato in fabbrica: è in prognosi riservata",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/udine-operaio-schiacciato-in-fabbrica-e-in-prognosi-riservata_119290805-202602k.shtml",
-      "published": "2026-11-22T12:11:00+00:00"
     },
     {
       "id": "9779bd3d195db35cbe70",
