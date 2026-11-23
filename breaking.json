@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-23T17:25:22.320736+00:00",
+  "updated_at": "2026-11-23T17:30:45.806951+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-23T17:25:22.320736+00:00"
+      "checked_at": "2026-11-23T17:30:45.806951+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-23T17:25:22.320736+00:00"
+      "checked_at": "2026-11-23T17:30:45.806951+00:00"
     }
   },
   "items": [
+    {
+      "id": "f6b6c97efa3e04588e5f",
+      "source": "TGcom24",
+      "title": "La Polonia convocherà l'ambasciatore russo per la presunta violazione dello spazio aereo",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-23-novembre_119319438-202602k.shtml",
+      "published": "2026-11-23T17:28:00+00:00"
+    },
     {
       "id": "2d8ecdf12fdddaa9bf96",
       "source": "BBC News",
@@ -297,13 +304,6 @@
       "title": "Miley Cyrus marries Maxx Morando in California ceremony",
       "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-22T21:22:40+00:00"
-    },
-    {
-      "id": "d53d810016d23a68194e",
-      "source": "TGcom24",
-      "title": "Ucraina, bambino estratto vivo dalle macerie del palazzo di Dymer",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-22-novembre_119284838-202602k.shtml",
-      "published": "2026-11-22T21:10:00+00:00"
     },
     {
       "id": "ec7af18546fd202e6f6f",
