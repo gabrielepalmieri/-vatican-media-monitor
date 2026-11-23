@@ -1,29 +1,36 @@
 {
-  "updated_at": "2026-11-23T23:15:33.686328+00:00",
+  "updated_at": "2026-11-23T23:20:30.511796+00:00",
   "sources": {
     "TGcom24": {
-      "ok": false,
-      "checked_at": "2026-11-23T23:15:33.686328+00:00"
+      "ok": true,
+      "checked_at": "2026-11-23T23:20:30.511796+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-23T23:15:33.686328+00:00"
+      "checked_at": "2026-11-23T23:20:30.511796+00:00"
     }
   },
   "items": [
+    {
+      "id": "d9679acd07d5eba90009",
+      "source": "BBC News",
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T23:16:08+00:00"
+    },
+    {
+      "id": "effb6cbecd650aca3aea",
+      "source": "TGcom24",
+      "title": "Iran, i pasdaran annunciano: \"Tre petroliere in fiamme nello Stretto di Hormuz\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-23-novembre_119329090-202602k.shtml",
+      "published": "2026-11-23T23:16:00+00:00"
+    },
     {
       "id": "bcb30450f92f8fbf6540",
       "source": "TGcom24",
       "title": "Usa, la società Megaspeed in lista nera commerciale: a fondarla fu Alice Huang",
       "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-jensen-huang-ceo_119337245-202602k.shtml",
       "published": "2026-11-23T22:48:00+00:00"
-    },
-    {
-      "id": "d9679acd07d5eba90009",
-      "source": "BBC News",
-      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-      "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-23T22:45:51+00:00"
     },
     {
       "id": "25e7acc89257efa4dbe3",
@@ -304,13 +311,6 @@
       "title": "Zelensky rivendica gli attacchi alle navi russe in Libia: \"Operazione esemplare\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-23-novembre_119319438-202602k.shtml",
       "published": "2026-11-23T08:01:00+00:00"
-    },
-    {
-      "id": "397d36f819833dde24a3",
-      "source": "TGcom24",
-      "title": "Ucraina, sale a 11 morti il bilancio dell'attacco su un edificio a Dymer",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-23-novembre_119319438-202602k.shtml",
-      "published": "2026-11-23T06:56:00+00:00"
     },
     {
       "id": "464ad95dc6ae2c597d70",
