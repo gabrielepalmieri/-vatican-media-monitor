@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-23T21:15:33.051824+00:00",
+  "updated_at": "2026-11-23T21:20:31.368586+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-23T21:15:33.051824+00:00"
+      "checked_at": "2026-11-23T21:20:31.368586+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-23T21:15:33.051824+00:00"
+      "checked_at": "2026-11-23T21:20:31.368586+00:00"
     }
   },
   "items": [
+    {
+      "id": "7ee4a22903fa9fac19bf",
+      "source": "TGcom24",
+      "title": "Nvidia, il titolo vola a Wall Street: l'azienda chiude in rialzo al +31%",
+      "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-jensen-huang-ceo_119337245-202602k.shtml",
+      "published": "2026-11-23T21:16:00+00:00"
+    },
     {
       "id": "cda52468fc68786202f9",
       "source": "BBC News",
@@ -318,13 +325,6 @@
       "title": "Caso Nvidia, Nyt: \"Alice Huang contattava 007 cinesi durante relazione con Jensen\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-alice-huang-jensen-huang-trump-spia_119318774-202602k.shtml",
       "published": "2026-11-23T05:26:00+00:00"
-    },
-    {
-      "id": "d5d0df938cd6b94a6707",
-      "source": "TGcom24",
-      "title": "Kushner: \"Impegno Usa per Kiev e per garanzie Nato alla Russia\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-22-novembre_119284838-202602k.shtml",
-      "published": "2026-11-23T05:02:00+00:00"
     },
     {
       "id": "f90c1a91a02ec6f2a3cb",
