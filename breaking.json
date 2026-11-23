@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-23T00:30:44.677003+00:00",
+  "updated_at": "2026-11-23T00:35:20.753201+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-23T00:30:44.677003+00:00"
+      "checked_at": "2026-11-23T00:35:20.753201+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-23T00:30:44.677003+00:00"
+      "checked_at": "2026-11-23T00:35:20.753201+00:00"
     }
   },
   "items": [
+    {
+      "id": "f90c1a91a02ec6f2a3cb",
+      "source": "BBC News",
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T00:33:36+00:00"
+    },
     {
       "id": "0c7b51665c61b22e5dc7",
       "source": "TGcom24",
@@ -213,13 +220,6 @@
       "title": "South Korea education minister resigns over exam cheating scandal",
       "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-22T09:20:45+00:00"
-    },
-    {
-      "id": "f90c1a91a02ec6f2a3cb",
-      "source": "BBC News",
-      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-22T07:12:41+00:00"
     },
     {
       "id": "baadc35784b773646fb5",
