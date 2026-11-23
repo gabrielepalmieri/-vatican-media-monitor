@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-23T10:15:41.431194+00:00",
+  "updated_at": "2026-11-23T10:20:33.734002+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-23T10:15:41.431194+00:00"
+      "checked_at": "2026-11-23T10:20:33.734002+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-23T10:15:41.431194+00:00"
+      "checked_at": "2026-11-23T10:20:33.734002+00:00"
     }
   },
   "items": [
+    {
+      "id": "dc6ba483cfc750285b03",
+      "source": "TGcom24",
+      "title": "80 anni di Unicef, Mattarella: \"Un monito contro l'indifferenza verso i bambini\"",
+      "url": "https://www.tgcom24.mediaset.it/politica/sergio-mattarella-unicef-80-anni_119327900-202602k.shtml",
+      "published": "2026-11-23T10:15:00+00:00"
+    },
     {
       "id": "66673accebf311350287",
       "source": "TGcom24",
@@ -248,13 +255,6 @@
       "title": "Libia, droni su una nave russa ormeggiata a Bengasi: fiamme a bordo",
       "url": "https://www.tgcom24.mediaset.it/mondo/libia-bengasi-attacco-droni-nave-russa-corvetta-distrutta_119298499-202602k.shtml",
       "published": "2026-11-22T15:21:00+00:00"
-    },
-    {
-      "id": "a416763ccd99ef360249",
-      "source": "TGcom24",
-      "title": "Proposta Lega: \"Sei mesi ai Comuni per evadere le vecchie domande o condono\"",
-      "url": "https://www.tgcom24.mediaset.it/politica/lega-comuni-condono-manovra-2027_119298498-202602k.shtml",
-      "published": "2026-11-22T14:30:00+00:00"
     },
     {
       "id": "414dbef514b63954caf0",
