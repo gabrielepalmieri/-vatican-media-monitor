@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-23T17:35:23.756682+00:00",
+  "updated_at": "2026-11-23T17:40:39.079009+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-23T17:35:23.756682+00:00"
+      "checked_at": "2026-11-23T17:40:39.079009+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-23T17:35:23.756682+00:00"
+      "checked_at": "2026-11-23T17:40:39.079009+00:00"
     }
   },
   "items": [
@@ -17,6 +17,13 @@
       "title": "La Polonia convocherà l'ambasciatore russo per la presunta violazione dello spazio aereo",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-23-novembre_119319438-202602k.shtml",
       "published": "2026-11-23T17:28:00+00:00"
+    },
+    {
+      "id": "3a899d6e5359a93af063",
+      "source": "BBC News",
+      "title": "What failure of COP31 reveals about a divided world",
+      "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T17:24:25+00:00"
     },
     {
       "id": "2d8ecdf12fdddaa9bf96",
@@ -222,25 +229,11 @@
       "published": "2026-11-23T05:34:39+00:00"
     },
     {
-      "id": "f6baa807b7bf235c8159",
-      "source": "BBC News",
-      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-      "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-23T05:33:17+00:00"
-    },
-    {
       "id": "11ec76fd07c9d5e87753",
       "source": "TGcom24",
       "title": "Caso Nvidia, Nyt: \"Alice Huang contattava 007 cinesi durante relazione con Jensen\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-alice-huang-jensen-huang-trump-spia_119318774-202602k.shtml",
       "published": "2026-11-23T05:26:00+00:00"
-    },
-    {
-      "id": "91cbf5bc1df395ace553",
-      "source": "BBC News",
-      "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-23T05:15:06+00:00"
     },
     {
       "id": "d5d0df938cd6b94a6707",
