@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-23T12:45:32.417623+00:00",
+  "updated_at": "2026-11-23T12:50:31.214071+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-23T12:45:32.417623+00:00"
+      "checked_at": "2026-11-23T12:50:31.214071+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-23T12:45:32.417623+00:00"
+      "checked_at": "2026-11-23T12:50:31.214071+00:00"
     }
   },
   "items": [
+    {
+      "id": "a5c412b0b201105e8bda",
+      "source": "TGcom24",
+      "title": "Cisgiordania, Herzog: \"Spregevole violenza da estremisti ebrei contro innocenti\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-23-novembre_119329090-202602k.shtml",
+      "published": "2026-11-23T12:50:00+00:00"
+    },
     {
       "id": "2e2790a0b7b89a86acae",
       "source": "BBC News",
@@ -276,13 +283,6 @@
       "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
       "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-22T17:18:26+00:00"
-    },
-    {
-      "id": "e830c8d5ed8b83be3fac",
-      "source": "TGcom24",
-      "title": "Israele, colloqui tra Likud e Yashar: \"Possibile governo di unità nazionale\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/israele-colloqui-netanyahu-eisenkot_119302960-202602k.shtml",
-      "published": "2026-11-22T16:42:00+00:00"
     },
     {
       "id": "414dbef514b63954caf0",
