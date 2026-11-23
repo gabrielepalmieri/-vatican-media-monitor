@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-23T20:40:38.486772+00:00",
+  "updated_at": "2026-11-23T20:45:32.507620+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-23T20:40:38.486772+00:00"
+      "checked_at": "2026-11-23T20:45:32.507620+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-23T20:40:38.486772+00:00"
+      "checked_at": "2026-11-23T20:45:32.507620+00:00"
     }
   },
   "items": [
+    {
+      "id": "bf34031b81d3d6f8b7d3",
+      "source": "TGcom24",
+      "title": "Manovra, oltre 1.700 emendamenti inammissibili: saltano i marcatori colorati nei cortei",
+      "url": "https://www.tgcom24.mediaset.it/politica/manovra-bilancio-2027-emendamenti-inammissibili-cortei_119345161-202602k.shtml",
+      "published": "2026-11-23T20:43:00+00:00"
+    },
     {
       "id": "1844e4fe84f190d41a7f",
       "source": "TGcom24",
@@ -325,13 +332,6 @@
       "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
       "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-23T00:08:00+00:00"
-    },
-    {
-      "id": "0c7b51665c61b22e5dc7",
-      "source": "TGcom24",
-      "title": "Vercelli, auto va fuori strada e prende fuoco: morto 17enne",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/vercelli-auto-fuori-strada-morto-17enne_119315246-202602k.shtml",
-      "published": "2026-11-22T23:15:00+00:00"
     },
     {
       "id": "c95ad259b1c88a0933c2",
