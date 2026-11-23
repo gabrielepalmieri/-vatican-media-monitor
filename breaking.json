@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-23T12:05:25.796316+00:00",
+  "updated_at": "2026-11-23T12:10:30.381573+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-23T12:05:25.796316+00:00"
+      "checked_at": "2026-11-23T12:10:30.381573+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-23T12:05:25.796316+00:00"
+      "checked_at": "2026-11-23T12:10:30.381573+00:00"
     }
   },
   "items": [
+    {
+      "id": "2d8ecdf12fdddaa9bf96",
+      "source": "BBC News",
+      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+      "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T11:57:33+00:00"
+    },
     {
       "id": "5e4296eaeb4d230e0537",
       "source": "TGcom24",
@@ -31,6 +38,13 @@
       "title": "Flights grounded in Belgium due to strike against austerity measures",
       "url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-23T11:26:12+00:00"
+    },
+    {
+      "id": "2e2790a0b7b89a86acae",
+      "source": "BBC News",
+      "title": "Presidential villa also hit by water and power cuts, Nigerian leader says",
+      "url": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T11:15:16+00:00"
     },
     {
       "id": "fe9945572e430e9cd05b",
@@ -297,13 +311,6 @@
       "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
       "url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-22T00:10:37+00:00"
-    },
-    {
-      "id": "a923ef0ed06f13b7843c",
-      "source": "BBC News",
-      "title": "How a teen gamer and his mother helped rescue a missing girl",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-22T00:09:58+00:00"
     }
   ]
 }
