@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-23T12:30:46.452328+00:00",
+  "updated_at": "2026-11-23T12:35:35.116110+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-23T12:30:46.452328+00:00"
+      "checked_at": "2026-11-23T12:35:35.116110+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-23T12:30:46.452328+00:00"
+      "checked_at": "2026-11-23T12:35:35.116110+00:00"
     }
   },
   "items": [
+    {
+      "id": "2e2790a0b7b89a86acae",
+      "source": "BBC News",
+      "title": "Presidential villa suffers water and power cuts, Nigerian leader says",
+      "url": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T12:33:44+00:00"
+    },
     {
       "id": "3c38f8c12a4d6d1d6dd0",
       "source": "BBC News",
@@ -38,13 +45,6 @@
       "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
       "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-23T11:40:01+00:00"
-    },
-    {
-      "id": "2e2790a0b7b89a86acae",
-      "source": "BBC News",
-      "title": "Presidential villa also hit by water and power cuts, Nigerian leader says",
-      "url": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-23T11:15:16+00:00"
     },
     {
       "id": "fe9945572e430e9cd05b",
