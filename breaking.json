@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-23T08:40:29.829496+00:00",
+  "updated_at": "2026-11-23T08:45:37.477923+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-23T08:40:29.829496+00:00"
+      "checked_at": "2026-11-23T08:45:37.477923+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-23T08:40:29.829496+00:00"
+      "checked_at": "2026-11-23T08:45:37.477923+00:00"
     }
   },
   "items": [
+    {
+      "id": "150cd965ca54a9ae24f3",
+      "source": "BBC News",
+      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T08:41:08+00:00"
+    },
     {
       "id": "1f1145ac7dfb5255fbff",
       "source": "BBC News",
@@ -26,13 +33,6 @@
       "published": "2026-11-23T08:27:00+00:00"
     },
     {
-      "id": "150cd965ca54a9ae24f3",
-      "source": "BBC News",
-      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-23T08:13:27+00:00"
-    },
-    {
       "id": "e3e7f4d0f90b753abbf5",
       "source": "TGcom24",
       "title": "Zelensky rivendica gli attacchi alle navi russe in Libia: \"Operazione esemplare\"",
@@ -45,6 +45,13 @@
       "title": "Ucraina, sale a 11 morti il bilancio dell'attacco su un edificio a Dymer",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-23-novembre_119319438-202602k.shtml",
       "published": "2026-11-23T06:56:00+00:00"
+    },
+    {
+      "id": "464ad95dc6ae2c597d70",
+      "source": "BBC News",
+      "title": "Five takeaways from the failed climate talks COP31",
+      "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T06:33:50+00:00"
     },
     {
       "id": "912eff6f64fb1e7e3a61",
