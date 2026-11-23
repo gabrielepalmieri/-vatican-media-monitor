@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-22T13:16:35.764993+00:00",
+  "updated_at": "2026-11-23T02:40:44.677495+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-11-22T13:16:35.764993+00:00",
+  "un_verified_at": "2026-11-23T02:40:44.677495+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,27 +1918,6 @@
     }
   ],
   "days": {
-    "2026-11-21": {
-      "saints": [
-        {
-          "title": "Beata Maria di Gesù Buon Pastore, fondatrice delle Suore della Sacra Famiglia di Nazaret",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/21.html"
-        }
-      ],
-      "un": [
-        {
-          "title": "Giornata mondiale della televisione",
-          "url": "https://www.un.org/en/observances/world-television-day"
-        }
-      ],
-      "un_available": true,
-      "holy_see": [
-        {
-          "title": "Giornata Pro Orantibus",
-          "url": "https://www.vaticannews.va/it/festivita-liturgiche/presentazione-della-beata-vergine-maria-.html"
-        }
-      ]
-    },
     "2026-11-22": {
       "saints": [
         {
@@ -2615,6 +2594,17 @@
           "url": "https://www.un.org/en/observances/epidemic-preparedness-day"
         }
       ],
+      "un_available": true,
+      "holy_see": []
+    },
+    "2026-12-28": {
+      "saints": [
+        {
+          "title": "Santi Innocenti, martiri",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/12/28/santi-innocenti--martiri.html"
+        }
+      ],
+      "un": [],
       "un_available": true,
       "holy_see": []
     }
