@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-23T11:15:32.261331+00:00",
+  "updated_at": "2026-11-23T11:20:30.442237+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-23T11:15:32.261331+00:00"
+      "checked_at": "2026-11-23T11:20:30.442237+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-23T11:15:32.261331+00:00"
+      "checked_at": "2026-11-23T11:20:30.442237+00:00"
     }
   },
   "items": [
+    {
+      "id": "fe9945572e430e9cd05b",
+      "source": "TGcom24",
+      "title": "Allarmi bomba in Germania e Danimarca, lezioni sospese in diverse scuole",
+      "url": "https://www.tgcom24.mediaset.it/mondo/germania-allarme-bomba-scuole-mail-evacuazioni_119329721-202602k.shtml",
+      "published": "2026-11-23T11:13:00+00:00"
+    },
     {
       "id": "dc6ba483cfc750285b03",
       "source": "TGcom24",
@@ -248,13 +255,6 @@
       "title": "Israele, colloqui tra Likud e Yashar: \"Possibile governo di unità nazionale\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/israele-colloqui-netanyahu-eisenkot_119302960-202602k.shtml",
       "published": "2026-11-22T16:42:00+00:00"
-    },
-    {
-      "id": "adfc7b579fe53cc2230d",
-      "source": "TGcom24",
-      "title": "Libia, droni su una nave russa ormeggiata a Bengasi: fiamme a bordo",
-      "url": "https://www.tgcom24.mediaset.it/mondo/libia-bengasi-attacco-droni-nave-russa-corvetta-distrutta_119298499-202602k.shtml",
-      "published": "2026-11-22T15:21:00+00:00"
     },
     {
       "id": "414dbef514b63954caf0",
