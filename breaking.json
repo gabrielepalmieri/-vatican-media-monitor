@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-23T14:50:29.666956+00:00",
+  "updated_at": "2026-11-23T14:55:36.185672+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-23T14:50:29.666956+00:00"
+      "checked_at": "2026-11-23T14:55:36.185672+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-23T14:50:29.666956+00:00"
+      "checked_at": "2026-11-23T14:55:36.185672+00:00"
     }
   },
   "items": [
+    {
+      "id": "b3221c56d659cd17abcf",
+      "source": "BBC News",
+      "title": "Mexican soldiers attacked in wake of drug lord's arrest",
+      "url": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T14:54:03+00:00"
+    },
     {
       "id": "5511fb52470e5e4b993b",
       "source": "TGcom24",
@@ -38,13 +45,6 @@
       "title": "Flights and train services cancelled in Belgium due to strike",
       "url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-23T13:34:02+00:00"
-    },
-    {
-      "id": "b3221c56d659cd17abcf",
-      "source": "BBC News",
-      "title": "Mexican soldiers attacked in wake of drug lord's arrest",
-      "url": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-23T13:26:36+00:00"
     },
     {
       "id": "3c5c7b2e7676cc336b35",
