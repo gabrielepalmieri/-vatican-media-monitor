@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-23T22:50:29.599156+00:00",
+  "updated_at": "2026-11-23T22:55:23.019793+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-23T22:50:29.599156+00:00"
+      "checked_at": "2026-11-23T22:55:23.019793+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-23T22:50:29.599156+00:00"
+      "checked_at": "2026-11-23T22:55:23.019793+00:00"
     }
   },
   "items": [
+    {
+      "id": "bcb30450f92f8fbf6540",
+      "source": "TGcom24",
+      "title": "Usa, la società Megaspeed in lista nera commerciale: a fondarla fu Alice Huang",
+      "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-jensen-huang-ceo_119337245-202602k.shtml",
+      "published": "2026-11-23T22:48:00+00:00"
+    },
     {
       "id": "d9679acd07d5eba90009",
       "source": "BBC News",
@@ -311,13 +318,6 @@
       "title": "Five takeaways from the failed climate talks COP31",
       "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-23T06:33:50+00:00"
-    },
-    {
-      "id": "912eff6f64fb1e7e3a61",
-      "source": "TGcom24",
-      "title": "\"Sostanza sconosciuta\" nell'aria a concerto rap a Manchester: 12mila evacuati",
-      "url": "https://www.tgcom24.mediaset.it/mondo/manchester-concerto-evacuazione-don-toliver-intossicazione_119318821-202602k.shtml",
-      "published": "2026-11-23T06:16:00+00:00"
     },
     {
       "id": "378e64b83608e0419a93",
