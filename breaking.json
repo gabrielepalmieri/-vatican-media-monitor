@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-11-24T08:15:37.408780+00:00",
+  "updated_at": "2026-11-24T08:20:38.989792+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-24T08:15:37.408780+00:00"
+      "checked_at": "2026-11-24T08:20:38.989792+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-24T08:15:37.408780+00:00"
+      "checked_at": "2026-11-24T08:20:38.989792+00:00"
     }
   },
   "items": [
+    {
+      "id": "895f117a63e79487e903",
+      "source": "TGcom24",
+      "title": "Garlasco, parla Alberto Stasi: \"Vorrei dei figli, ma dovrò spiegare tutto\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/garlasco-alberto-stasi-figli-carcere_119349364-202602k.shtml",
+      "published": "2026-11-24T07:40:00+00:00"
+    },
     {
       "id": "f32deac7a7fc6aeeba93",
       "source": "BBC News",
       "title": "What China's Xi could take away from Jensen Huang's return to Nvidia",
       "url": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-24T07:26:27+00:00"
+    },
+    {
+      "id": "113c61c4dd9b49e66ca3",
+      "source": "TGcom24",
+      "title": "Papa Francesco, dal diavolo alle crisi spirituali: il diario inedito di Bergoglio",
+      "url": "https://www.tgcom24.mediaset.it/2026/video/il-diavolo-la-crisi-spirituale-il-cardinale-victor-manuel-fernandez-pubblica-il-diario-personale-di-papa-francesco_119349482-02k.shtml",
+      "published": "2026-11-24T07:00:00+00:00"
     },
     {
       "id": "f1867095f6394ce0e26b",
@@ -297,20 +311,6 @@
       "title": "80 anni di Unicef, Mattarella: \"Un monito contro l'indifferenza verso i bambini\"",
       "url": "https://www.tgcom24.mediaset.it/politica/sergio-mattarella-unicef-80-anni_119327900-202602k.shtml",
       "published": "2026-11-23T10:15:00+00:00"
-    },
-    {
-      "id": "66673accebf311350287",
-      "source": "TGcom24",
-      "title": "Maltempo, cede strada: 500 persone isolate a Stazzema (Lucca)",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/maltempo-lucca-stazzema-frana_119327130-202602k.shtml",
-      "published": "2026-11-23T09:49:00+00:00"
-    },
-    {
-      "id": "fdde1e8834e7915de3f7",
-      "source": "TGcom24",
-      "title": "Media tedeschi: Mosca pronta a lanciare satellite con testata nucleare",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-23-novembre_119319438-202602k.shtml",
-      "published": "2026-11-23T08:58:00+00:00"
     },
     {
       "id": "464ad95dc6ae2c597d70",
