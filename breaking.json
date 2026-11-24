@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-24T12:50:32.402723+00:00",
+  "updated_at": "2026-11-24T12:55:23.696949+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-24T12:50:32.402723+00:00"
+      "checked_at": "2026-11-24T12:55:23.696949+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-24T12:50:32.402723+00:00"
+      "checked_at": "2026-11-24T12:55:23.696949+00:00"
     }
   },
   "items": [
@@ -33,11 +33,25 @@
       "published": "2026-11-24T12:20:00+00:00"
     },
     {
+      "id": "f5dae5a53ce71e4d96cc",
+      "source": "BBC News",
+      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T12:12:48+00:00"
+    },
+    {
       "id": "4eb371d516663def2b29",
       "source": "TGcom24",
       "title": "Israele, l'Alta Corte: i coloni agiscono da milizia, proteggere i palestinesi",
       "url": "https://www.tgcom24.mediaset.it/mondo/israele-l-alta-corte-coloni-agiscono-da-milizia-proteggere-i-palestinesi_119357246-202602k.shtml",
       "published": "2026-11-24T11:50:00+00:00"
+    },
+    {
+      "id": "465a84f235fc52599c3a",
+      "source": "BBC News",
+      "title": "Car bomb tears through Colombian city wounding more than 20",
+      "url": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T11:45:52+00:00"
     },
     {
       "id": "e1d9f346de4b199b3a92",
@@ -290,13 +304,6 @@
       "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
       "url": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-23T17:14:50+00:00"
-    },
-    {
-      "id": "2d8ecdf12fdddaa9bf96",
-      "source": "BBC News",
-      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-      "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-23T17:07:25+00:00"
     },
     {
       "id": "3cb1af89f37a4635a92e",
