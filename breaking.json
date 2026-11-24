@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-24T18:55:22.907439+00:00",
+  "updated_at": "2026-11-24T19:00:57.708296+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-24T18:55:22.907439+00:00"
+      "checked_at": "2026-11-24T19:00:57.708296+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-24T18:55:22.907439+00:00"
+      "checked_at": "2026-11-24T19:00:57.708296+00:00"
     }
   },
   "items": [
+    {
+      "id": "ac2ca4dffe22fa32495d",
+      "source": "BBC News",
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T18:55:59+00:00"
+    },
     {
       "id": "2564428806b83c16642b",
       "source": "TGcom24",
@@ -38,13 +45,6 @@
       "title": "Nuovo attacco degli Houthi al grattacielo più alto di Riad: almeno 11 feriti",
       "url": "https://www.tgcom24.mediaset.it/2026/video/nuovo-attacco-al-grattacielo-piu-alto-di-riad_119368033-02k.shtml",
       "published": "2026-11-24T17:48:00+00:00"
-    },
-    {
-      "id": "ac2ca4dffe22fa32495d",
-      "source": "BBC News",
-      "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
-      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-24T17:04:20+00:00"
     },
     {
       "id": "982254fb4b9855102e28",
