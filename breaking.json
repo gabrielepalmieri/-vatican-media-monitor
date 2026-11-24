@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-24T13:45:32.496250+00:00",
+  "updated_at": "2026-11-24T13:50:31.891820+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-24T13:45:32.496250+00:00"
+      "checked_at": "2026-11-24T13:50:31.891820+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-24T13:45:32.496250+00:00"
+      "checked_at": "2026-11-24T13:50:31.891820+00:00"
     }
   },
   "items": [
+    {
+      "id": "2affd9c74b7ef559e2a7",
+      "source": "TGcom24",
+      "title": "Decreto scuola, il ministro Ciriani pone la fiducia alla Camera",
+      "url": "https://www.tgcom24.mediaset.it/politica/decreto-scuola-ciriani-fiducia_119361382-202602k.shtml",
+      "published": "2026-11-24T13:44:00+00:00"
+    },
     {
       "id": "fc83786fc9f14f177d8f",
       "source": "TGcom24",
@@ -311,13 +318,6 @@
       "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
       "url": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-23T17:14:50+00:00"
-    },
-    {
-      "id": "3cb1af89f37a4635a92e",
-      "source": "TGcom24",
-      "title": "Salvini vede l'ambasciatore ucraino: preoccupazione per sito Myrotvorets e Mediterraneo",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-23-novembre_119319438-202602k.shtml",
-      "published": "2026-11-23T17:00:00+00:00"
     },
     {
       "id": "4b2a5b8368c04dda6658",
