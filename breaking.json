@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-24T19:45:32.775666+00:00",
+  "updated_at": "2026-11-24T19:50:28.490168+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-24T19:45:32.775666+00:00"
+      "checked_at": "2026-11-24T19:50:28.490168+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-24T19:45:32.775666+00:00"
+      "checked_at": "2026-11-24T19:50:28.490168+00:00"
     }
   },
   "items": [
+    {
+      "id": "fc2d21678743cdf7af81",
+      "source": "TGcom24",
+      "title": "Turchia, elicottero militare si schianta durante un volo d'addestramento: 5 morti",
+      "url": "https://www.tgcom24.mediaset.it/mondo/turchia-incidente-elicottero-cinque-morti_119372846-202602k.shtml",
+      "published": "2026-11-24T19:45:00+00:00"
+    },
     {
       "id": "08fa1b9511879a48bc65",
       "source": "BBC News",
@@ -262,13 +269,6 @@
       "title": "Auto, in Europa immatricolazioni in crescita del 3,4% a ottobre",
       "url": "https://www.tgcom24.mediaset.it/economia/auto-europa-crescita-immatricolazione_119349146-202602k.shtml",
       "published": "2026-11-24T06:12:00+00:00"
-    },
-    {
-      "id": "7573c7186799ad1238d5",
-      "source": "TGcom24",
-      "title": "Caso Ueno Bank in Paraguay, arrestato anche il fratello dell'ex presidente Peña",
-      "url": "https://www.tgcom24.mediaset.it/mondo/paraguay-crack-bancario-ueno-bank-arresto-fratello-pena_119348345-202602k.shtml",
-      "published": "2026-11-24T05:30:00+00:00"
     },
     {
       "id": "eed434cfe76d8395f5af",
