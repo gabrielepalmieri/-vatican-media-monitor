@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-24T06:40:30.504816+00:00",
+  "updated_at": "2026-11-24T06:45:32.921874+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-24T06:40:30.504816+00:00"
+      "checked_at": "2026-11-24T06:45:32.921874+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-24T06:40:30.504816+00:00"
+      "checked_at": "2026-11-24T06:45:32.921874+00:00"
     }
   },
   "items": [
+    {
+      "id": "f1867095f6394ce0e26b",
+      "source": "BBC News",
+      "title": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
+      "url": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T06:23:01+00:00"
+    },
     {
       "id": "97b0a657ce74f858d19c",
       "source": "TGcom24",
@@ -185,13 +192,6 @@
       "title": "La Polonia convocherà l'ambasciatore russo per la presunta violazione dello spazio aereo",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-23-novembre_119319438-202602k.shtml",
       "published": "2026-11-23T17:28:00+00:00"
-    },
-    {
-      "id": "3a899d6e5359a93af063",
-      "source": "BBC News",
-      "title": "What failure of COP31 reveals about a divided world",
-      "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-23T17:24:25+00:00"
     },
     {
       "id": "953c0c333401440cd04f",
