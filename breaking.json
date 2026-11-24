@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-24T20:45:34.680719+00:00",
+  "updated_at": "2026-11-24T20:50:31.404404+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-24T20:45:34.680719+00:00"
+      "checked_at": "2026-11-24T20:50:31.404404+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-24T20:45:34.680719+00:00"
+      "checked_at": "2026-11-24T20:50:31.404404+00:00"
     }
   },
   "items": [
+    {
+      "id": "5cbc8466ea9d86edba19",
+      "source": "BBC News",
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T20:41:54+00:00"
+    },
     {
       "id": "d846f04c9266535b5a28",
       "source": "TGcom24",
