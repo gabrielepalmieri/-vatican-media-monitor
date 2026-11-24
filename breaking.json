@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-24T18:10:30.551461+00:00",
+  "updated_at": "2026-11-24T18:15:32.294109+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-24T18:10:30.551461+00:00"
+      "checked_at": "2026-11-24T18:15:32.294109+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-24T18:10:30.551461+00:00"
+      "checked_at": "2026-11-24T18:15:32.294109+00:00"
     }
   },
   "items": [
+    {
+      "id": "1c3308098fdc5d713dd5",
+      "source": "TGcom24",
+      "title": "Dl scuola, maggioranza: stop ebook per elementari, differimento per medie e licei",
+      "url": "https://www.tgcom24.mediaset.it/politica/decreto-scuola-ciriani-fiducia_119361382-202602k.shtml",
+      "published": "2026-11-24T18:15:00+00:00"
+    },
     {
       "id": "2d2cccee889742c1cb25",
       "source": "BBC News",
@@ -283,13 +290,6 @@
       "title": "Usa, la società Megaspeed in lista nera commerciale: a fondarla fu Alice Huang",
       "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-jensen-huang-ceo_119337245-202602k.shtml",
       "published": "2026-11-23T22:48:00+00:00"
-    },
-    {
-      "id": "25e7acc89257efa4dbe3",
-      "source": "TGcom24",
-      "title": "Svolta nel \"delitto del trapano\" a Genova: condannato a 30 anni il carrozziere",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/delitto-del-trapano-genova-fortunato-verduci-condanna_119346592-202602k.shtml",
-      "published": "2026-11-23T22:16:00+00:00"
     },
     {
       "id": "0be5322e6ee6e7b6972f",
