@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-24T21:30:47.387340+00:00",
+  "updated_at": "2026-11-24T21:35:23.370662+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-24T21:30:47.387340+00:00"
+      "checked_at": "2026-11-24T21:35:23.370662+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-24T21:30:47.387340+00:00"
+      "checked_at": "2026-11-24T21:35:23.370662+00:00"
     }
   },
   "items": [
+    {
+      "id": "5cbc8466ea9d86edba19",
+      "source": "BBC News",
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T21:32:34+00:00"
+    },
     {
       "id": "3aed6b6cb933188274b0",
       "source": "TGcom24",
@@ -24,13 +31,6 @@
       "title": "US attorney general dodges questions about Nvidia investigation",
       "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-24T21:19:42+00:00"
-    },
-    {
-      "id": "5cbc8466ea9d86edba19",
-      "source": "BBC News",
-      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-24T21:16:41+00:00"
     },
     {
       "id": "60845c997ce9c37eca4b",
