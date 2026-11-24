@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-24T10:45:30.369469+00:00",
+  "updated_at": "2026-11-24T10:50:31.705057+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-24T10:45:30.369469+00:00"
+      "checked_at": "2026-11-24T10:50:31.705057+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-24T10:45:30.369469+00:00"
+      "checked_at": "2026-11-24T10:50:31.705057+00:00"
     }
   },
   "items": [
+    {
+      "id": "08fa1b9511879a48bc65",
+      "source": "BBC News",
+      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T10:48:27+00:00"
+    },
     {
       "id": "1a3b387f70e6c7ded93a",
       "source": "TGcom24",
@@ -45,13 +52,6 @@
       "title": "Ucraina, media: Usa bloccano la consegna di 60 missili Patriot a Kiev",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-24-novembre_119350823-202602k.shtml",
       "published": "2026-11-24T08:48:00+00:00"
-    },
-    {
-      "id": "08fa1b9511879a48bc65",
-      "source": "BBC News",
-      "title": "DR Congo says aircraft missing as rebels claim to shoot down plane",
-      "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-24T08:35:41+00:00"
     },
     {
       "id": "9f1e95d8ca6f4108ae1a",
