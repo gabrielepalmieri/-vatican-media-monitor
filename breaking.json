@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-24T17:45:31.055374+00:00",
+  "updated_at": "2026-11-24T17:50:29.048484+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-24T17:45:31.055374+00:00"
+      "checked_at": "2026-11-24T17:50:29.048484+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-24T17:45:31.055374+00:00"
+      "checked_at": "2026-11-24T17:50:29.048484+00:00"
     }
   },
   "items": [
+    {
+      "id": "0688c5bd3871295f0693",
+      "source": "TGcom24",
+      "title": "Nuovo attacco degli Houthi al grattacielo più alto di Riad: almeno 11 feriti",
+      "url": "https://www.tgcom24.mediaset.it/2026/video/nuovo-attacco-al-grattacielo-piu-alto-di-riad_119368033-02k.shtml",
+      "published": "2026-11-24T17:48:00+00:00"
+    },
     {
       "id": "ac2ca4dffe22fa32495d",
       "source": "BBC News",
@@ -24,6 +31,13 @@
       "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
       "url": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-24T17:04:00+00:00"
+    },
+    {
+      "id": "e9f20ce4554e083ec1dd",
+      "source": "BBC News",
+      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+      "url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T16:49:07+00:00"
     },
     {
       "id": "2d2cccee889742c1cb25",
