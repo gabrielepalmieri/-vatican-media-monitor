@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-24T04:35:21.898926+00:00",
+  "updated_at": "2026-11-24T04:40:29.382744+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-24T04:35:21.898926+00:00"
+      "checked_at": "2026-11-24T04:40:29.382744+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-24T04:35:21.898926+00:00"
+      "checked_at": "2026-11-24T04:40:29.382744+00:00"
     }
   },
   "items": [
+    {
+      "id": "ca3a7f30b17e0bc2c544",
+      "source": "BBC News",
+      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T04:36:31+00:00"
+    },
     {
       "id": "4718efd8ca96127d1447",
       "source": "BBC News",
@@ -24,13 +31,6 @@
       "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
       "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-24T01:21:41+00:00"
-    },
-    {
-      "id": "ca3a7f30b17e0bc2c544",
-      "source": "BBC News",
-      "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
-      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-24T01:11:54+00:00"
     },
     {
       "id": "27cadaf4e1128dc77249",
