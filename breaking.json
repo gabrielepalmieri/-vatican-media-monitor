@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-24T19:25:36.325515+00:00",
+  "updated_at": "2026-11-24T19:30:47.086670+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-24T19:25:36.325515+00:00"
+      "checked_at": "2026-11-24T19:30:47.086670+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-24T19:25:36.325515+00:00"
+      "checked_at": "2026-11-24T19:30:47.086670+00:00"
     }
   },
   "items": [
+    {
+      "id": "08fa1b9511879a48bc65",
+      "source": "BBC News",
+      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T19:27:23+00:00"
+    },
     {
       "id": "a81c35c36d8542ac7666",
       "source": "TGcom24",
@@ -66,13 +73,6 @@
       "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
       "url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-24T16:49:07+00:00"
-    },
-    {
-      "id": "08fa1b9511879a48bc65",
-      "source": "BBC News",
-      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
-      "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-24T16:31:26+00:00"
     },
     {
       "id": "ee708515a027a7c87aca",
