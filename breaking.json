@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-24T16:25:22.759153+00:00",
+  "updated_at": "2026-11-24T16:30:46.001127+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-24T16:25:22.759153+00:00"
+      "checked_at": "2026-11-24T16:30:46.001127+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-24T16:25:22.759153+00:00"
+      "checked_at": "2026-11-24T16:30:46.001127+00:00"
     }
   },
   "items": [
+    {
+      "id": "ee708515a027a7c87aca",
+      "source": "TGcom24",
+      "title": "Manovra, Bruxelles promuove il Dpb dell'Italia",
+      "url": "https://www.tgcom24.mediaset.it/economia/manovra-ue-dpb-italia-approccio-non-molto-prudente_119363979-202602k.shtml",
+      "published": "2026-11-24T16:27:00+00:00"
+    },
     {
       "id": "6175aabca77dd7e0f46a",
       "source": "TGcom24",
@@ -283,13 +290,6 @@
       "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
       "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-23T20:48:35+00:00"
-    },
-    {
-      "id": "bf34031b81d3d6f8b7d3",
-      "source": "TGcom24",
-      "title": "Manovra, oltre 1.700 emendamenti inammissibili: saltano i marcatori colorati nei cortei",
-      "url": "https://www.tgcom24.mediaset.it/politica/manovra-bilancio-2027-emendamenti-inammissibili-cortei_119345161-202602k.shtml",
-      "published": "2026-11-23T20:43:00+00:00"
     },
     {
       "id": "335bee8c3a153ffde234",
