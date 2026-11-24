@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-24T07:30:46.088333+00:00",
+  "updated_at": "2026-11-24T07:35:27.979866+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-24T07:30:46.088333+00:00"
+      "checked_at": "2026-11-24T07:35:27.979866+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-24T07:30:46.088333+00:00"
+      "checked_at": "2026-11-24T07:35:27.979866+00:00"
     }
   },
   "items": [
+    {
+      "id": "f32deac7a7fc6aeeba93",
+      "source": "BBC News",
+      "title": "What China's Xi could take away from Jensen Huang's return to Nvidia",
+      "url": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T07:26:27+00:00"
+    },
     {
       "id": "f1867095f6394ce0e26b",
       "source": "BBC News",
@@ -73,13 +80,6 @@
       "title": "Dad who discovered daughter's murder on Facebook feels ignored by South African police",
       "url": "https://www.bbc.co.uk/news/articles/cqglr0d5jejxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-24T00:02:15+00:00"
-    },
-    {
-      "id": "d9679acd07d5eba90009",
-      "source": "BBC News",
-      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-      "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-23T23:16:08+00:00"
     },
     {
       "id": "effb6cbecd650aca3aea",
