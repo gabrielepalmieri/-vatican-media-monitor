@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-24T11:50:29.871470+00:00",
+  "updated_at": "2026-11-24T11:55:22.406073+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-24T11:50:29.871470+00:00"
+      "checked_at": "2026-11-24T11:55:22.406073+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-24T11:50:29.871470+00:00"
+      "checked_at": "2026-11-24T11:55:22.406073+00:00"
     }
   },
   "items": [
+    {
+      "id": "4eb371d516663def2b29",
+      "source": "TGcom24",
+      "title": "Israele, l'Alta Corte: i coloni agiscono da milizia, proteggere i palestinesi",
+      "url": "https://www.tgcom24.mediaset.it/mondo/israele-l-alta-corte-coloni-agiscono-da-milizia-proteggere-i-palestinesi_119357246-202602k.shtml",
+      "published": "2026-11-24T11:50:00+00:00"
+    },
     {
       "id": "4718efd8ca96127d1447",
       "source": "BBC News",
@@ -297,13 +304,6 @@
       "title": "Jensen Huang reintegrato come Ceo di Nvidia, Trump: \"Decisione giusta\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-jensen-huang-ceo_119337245-202602k.shtml",
       "published": "2026-11-23T14:31:00+00:00"
-    },
-    {
-      "id": "e5fa2d7f2b8900c381a3",
-      "source": "TGcom24",
-      "title": "Nvidia, Jensen Huang reintegrato come Ceo e presidente",
-      "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-jensen-huang-ceo_119337245-202602k.shtml",
-      "published": "2026-11-23T14:06:00+00:00"
     },
     {
       "id": "0e03f710ebc47ccc528e",
