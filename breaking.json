@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-24T19:00:57.708296+00:00",
+  "updated_at": "2026-11-24T19:05:24.865200+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-24T19:00:57.708296+00:00"
+      "checked_at": "2026-11-24T19:05:24.865200+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-24T19:00:57.708296+00:00"
+      "checked_at": "2026-11-24T19:05:24.865200+00:00"
     }
   },
   "items": [
+    {
+      "id": "49131810f92ab1ff1958",
+      "source": "TGcom24",
+      "title": "De Gennaro, analisi del Ris a Roma sui reperti trovati nella casa toscana",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/de-gennaro-ris-accertamenti-antimafia_119372842-202602k.shtml",
+      "published": "2026-11-24T19:00:00+00:00"
+    },
     {
       "id": "ac2ca4dffe22fa32495d",
       "source": "BBC News",
@@ -276,13 +283,6 @@
       "title": "Dad who discovered daughter's murder on Facebook feels ignored by South African police",
       "url": "https://www.bbc.co.uk/news/articles/cqglr0d5jejxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-24T00:02:15+00:00"
-    },
-    {
-      "id": "effb6cbecd650aca3aea",
-      "source": "TGcom24",
-      "title": "Iran, i pasdaran annunciano: \"Tre petroliere in fiamme nello Stretto di Hormuz\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-iran-israele-usa-ultime-notizie-23-novembre_119329090-202602k.shtml",
-      "published": "2026-11-23T23:16:00+00:00"
     },
     {
       "id": "8e99bf370a6fba39dc3e",
