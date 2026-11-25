@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-25T18:55:23.011027+00:00",
+  "updated_at": "2026-11-25T19:01:02.546153+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-25T18:55:23.011027+00:00"
+      "checked_at": "2026-11-25T19:01:02.546153+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-25T18:55:23.011027+00:00"
+      "checked_at": "2026-11-25T19:01:02.546153+00:00"
     }
   },
   "items": [
+    {
+      "id": "e44f71609fbb431532dc",
+      "source": "TGcom24",
+      "title": "Mattarella: \"Attacchi hacker alle scuole sono aggressione, li sconfiggeremo\"",
+      "url": "https://www.tgcom24.mediaset.it/politica/mattarella-attacchi-hacker-alle-scuole-sono-aggressione-li-sconfiggeremo-_119416606-202602k.shtml",
+      "published": "2026-11-25T18:59:00+00:00"
+    },
     {
       "id": "bca8193d5b2834d2b9b7",
       "source": "BBC News",
@@ -21,7 +28,7 @@
     {
       "id": "ba4debdf72e02db63be9",
       "source": "TGcom24",
-      "title": "Maltempo, allerta arancione in Campania e pericolo valanghe sulle Dolomiti venete",
+      "title": "Maltempo, allerta arancione in Campania e rischio valanghe sulle Dolomiti venete",
       "url": "https://www.tgcom24.mediaset.it/cronaca/maltempo-campania-scuole-chiuse-ischia-procida-salerno-napoli_119408146-202602k.shtml",
       "published": "2026-11-25T18:25:00+00:00"
     },
@@ -262,13 +269,6 @@
       "title": "Attacco ucraino a Bengasi, la Libia conferma la morte di due militari",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-25-novembre_119389333-202602k.shtml",
       "published": "2026-11-25T06:30:00+00:00"
-    },
-    {
-      "id": "041a175d01feb0fd455d",
-      "source": "TGcom24",
-      "title": "Usa, stallo sui fondi per la guerra in Iran: cresce il rischio \"shutdown\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-medio-oriente-25-novembre_119389328-202602k.shtml",
-      "published": "2026-11-25T06:00:00+00:00"
     },
     {
       "id": "8063424ec76d8d11cf23",
