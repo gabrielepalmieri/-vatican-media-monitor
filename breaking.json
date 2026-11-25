@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-25T07:25:27.312390+00:00",
+  "updated_at": "2026-11-25T07:30:48.039929+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-25T07:25:27.312390+00:00"
+      "checked_at": "2026-11-25T07:30:48.039929+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-25T07:25:27.312390+00:00"
+      "checked_at": "2026-11-25T07:30:48.039929+00:00"
     }
   },
   "items": [
+    {
+      "id": "f04da9b05d5ee1a0cc33",
+      "source": "TGcom24",
+      "title": "Nvidia, l'ombra dell'insider trading su Trump dopo il reintegro di Jensen Huang",
+      "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-trump-insider-trading-jensen-huang_119389382-202602k.shtml",
+      "published": "2026-11-25T07:15:00+00:00"
+    },
     {
       "id": "390a4dc0447d954590d6",
       "source": "BBC News",
@@ -91,7 +98,7 @@
     {
       "id": "a5dd1084cff9b3051949",
       "source": "BBC News",
-      "title": "With Huang rescue, Trump riskily ties his political fortunes to Nvidia",
+      "title": "Trump's rescue of Nvidia's Huang brings political risks",
       "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-25T01:03:05+00:00"
     },
@@ -318,13 +325,6 @@
       "title": "Mestre, troppi furti nei supermercati: prodotti in armadietti anti-taccheggio",
       "url": "https://www.tgcom24.mediaset.it/cronaca/mestre-venezia-supermercati-furti_119357257-202602k.shtml",
       "published": "2026-11-24T12:45:00+00:00"
-    },
-    {
-      "id": "5800bf62623480bdd6e0",
-      "source": "TGcom24",
-      "title": "Brindisi, dichiarava una sola casa ma ne affittava 12 ai turisti: evasi 500mila euro",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/brindisi-dichiarava-una-casa-ma-ne-affittava-12_119356910-202602k.shtml",
-      "published": "2026-11-24T12:20:00+00:00"
     },
     {
       "id": "e1d9f346de4b199b3a92",
