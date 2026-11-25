@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-25T05:05:22.981877+00:00",
+  "updated_at": "2026-11-25T05:10:30.284905+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-25T05:05:22.981877+00:00"
+      "checked_at": "2026-11-25T05:10:30.284905+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-25T05:05:22.981877+00:00"
+      "checked_at": "2026-11-25T05:10:30.284905+00:00"
     }
   },
   "items": [
+    {
+      "id": "b3927d960c387b2c0bf6",
+      "source": "TGcom24",
+      "title": "Crisi migratoria alle Canarie, altri 1.300 sbarchi a El Hierro",
+      "url": "https://www.tgcom24.mediaset.it/mondo/crisi-migratoria-canarie-sbarchi_119386692-202602k.shtml",
+      "published": "2026-11-25T05:00:00+00:00"
+    },
     {
       "id": "390a4dc0447d954590d6",
       "source": "BBC News",
@@ -327,25 +334,11 @@
       "published": "2026-11-24T10:23:00+00:00"
     },
     {
-      "id": "aca87ae7c27d34c8b918",
-      "source": "TGcom24",
-      "title": "Gianni De Gennaro, venerdì 27 novembre l'autopsia",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/gianni-de-gennaro-hard-disk-lettere-suicidio_119349360-202602k.shtml",
-      "published": "2026-11-24T09:26:00+00:00"
-    },
-    {
       "id": "69690233acc55d34c868",
       "source": "BBC News",
       "title": "Watch: Moment troops raid home and capture Mexican drug lord",
       "url": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-24T09:09:41+00:00"
-    },
-    {
-      "id": "d8dfa766eabec5a384f9",
-      "source": "TGcom24",
-      "title": "Ucraina, media: Usa bloccano la consegna di 60 missili Patriot a Kiev",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-24-novembre_119350823-202602k.shtml",
-      "published": "2026-11-24T08:48:00+00:00"
     },
     {
       "id": "f32deac7a7fc6aeeba93",
