@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-25T16:05:26.724711+00:00",
+  "updated_at": "2026-11-25T16:25:26.948325+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-25T16:05:26.724711+00:00"
+      "checked_at": "2026-11-25T16:25:26.948325+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-25T16:05:26.724711+00:00"
+      "checked_at": "2026-11-25T16:25:26.948325+00:00"
     }
   },
   "items": [
+    {
+      "id": "bca8193d5b2834d2b9b7",
+      "source": "BBC News",
+      "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
+      "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T16:20:14+00:00"
+    },
+    {
+      "id": "20c2fca322b8d6322d45",
+      "source": "TGcom24",
+      "title": "Nuovi dazi Usa all'Ue, Bruxelles: \"Si rispetti il limite massimo concordato\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-dazi-ue-unione-europea-cina_119403400-202602k.shtml",
+      "published": "2026-11-25T16:19:00+00:00"
+    },
     {
       "id": "b29b60fbc570c6f2b685",
       "source": "TGcom24",
@@ -101,13 +115,6 @@
       "title": "Israele, processo Netanyahu: giudici chiedono di rinunciare alla corruzione",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-medio-oriente-25-novembre_119389328-202602k.shtml",
       "published": "2026-11-25T11:47:00+00:00"
-    },
-    {
-      "id": "bca8193d5b2834d2b9b7",
-      "source": "BBC News",
-      "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
-      "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T11:45:16+00:00"
     },
     {
       "id": "e42840d4a05379a3d574",
