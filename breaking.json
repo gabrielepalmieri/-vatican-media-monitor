@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-25T13:15:39.944656+00:00",
+  "updated_at": "2026-11-25T13:20:32.502572+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-25T13:15:39.944656+00:00"
+      "checked_at": "2026-11-25T13:20:32.502572+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-25T13:15:39.944656+00:00"
+      "checked_at": "2026-11-25T13:20:32.502572+00:00"
     }
   },
   "items": [
+    {
+      "id": "7046b6db174090893fe8",
+      "source": "BBC News",
+      "title": "US announces new tariffs on host of countries including China",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T13:19:41+00:00"
+    },
     {
       "id": "b58d89c6b723e507cc66",
       "source": "TGcom24",
@@ -262,13 +269,6 @@
       "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
       "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-25T00:54:13+00:00"
-    },
-    {
-      "id": "7046b6db174090893fe8",
-      "source": "BBC News",
-      "title": "US preparing to unveil plan for new tariffs on global trading partners",
-      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T00:38:01+00:00"
     },
     {
       "id": "8d8ec269ffdc2817ce94",
