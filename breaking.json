@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-25T15:50:32.476287+00:00",
+  "updated_at": "2026-11-25T15:55:25.607076+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-25T15:50:32.476287+00:00"
+      "checked_at": "2026-11-25T15:55:25.607076+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-25T15:50:32.476287+00:00"
+      "checked_at": "2026-11-25T15:55:25.607076+00:00"
     }
   },
   "items": [
+    {
+      "id": "b29b60fbc570c6f2b685",
+      "source": "TGcom24",
+      "title": "La Polonia creerà una no-fly zone al confine con l'Ucraina",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-25-novembre_119389333-202602k.shtml",
+      "published": "2026-11-25T15:47:00+00:00"
+    },
     {
       "id": "3dfa3116011e716bcdd1",
       "source": "BBC News",
@@ -325,13 +332,6 @@
       "title": "Watch: Flock of turkeys chases woman on Massachusetts pavement",
       "url": "https://www.bbc.co.uk/news/videos/cknv4mq93gd2o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-24T22:07:30+00:00"
-    },
-    {
-      "id": "3aed6b6cb933188274b0",
-      "source": "TGcom24",
-      "title": "Nvidia, Huang: \"Non è stato Trump a farmi tornare, scelta del board in autonomia\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-huang-trump_119377642-202602k.shtml",
-      "published": "2026-11-24T21:25:00+00:00"
     },
     {
       "id": "f5dae5a53ce71e4d96cc",
