@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-25T19:50:31.997236+00:00",
+  "updated_at": "2026-11-25T19:55:22.672287+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-25T19:50:31.997236+00:00"
+      "checked_at": "2026-11-25T19:55:22.672287+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-25T19:50:31.997236+00:00"
+      "checked_at": "2026-11-25T19:55:22.672287+00:00"
     }
   },
   "items": [
+    {
+      "id": "6e80a278cca4f8edc8b1",
+      "source": "BBC News",
+      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T19:54:52+00:00"
+    },
     {
       "id": "15fc3b2c3196a8a3f46b",
       "source": "TGcom24",
@@ -24,13 +31,6 @@
       "title": "Two children among six dead after plane crash off Mississippi coast",
       "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-25T19:26:44+00:00"
-    },
-    {
-      "id": "6e80a278cca4f8edc8b1",
-      "source": "BBC News",
-      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
-      "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T19:23:03+00:00"
     },
     {
       "id": "b17a610ebfb46b5861b8",
