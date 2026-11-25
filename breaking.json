@@ -1,20 +1,27 @@
 {
-  "updated_at": "2026-11-25T23:25:23.186715+00:00",
+  "updated_at": "2026-11-25T23:30:49.085587+00:00",
   "sources": {
     "TGcom24": {
-      "ok": false,
-      "checked_at": "2026-11-25T23:25:23.186715+00:00"
+      "ok": true,
+      "checked_at": "2026-11-25T23:30:49.085587+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-25T23:25:23.186715+00:00"
+      "checked_at": "2026-11-25T23:30:49.085587+00:00"
     }
   },
   "items": [
     {
+      "id": "f588a6b71b5aeb1ef642",
+      "source": "TGcom24",
+      "title": "Giudice Usa blocca Trump sulla cittadinanza per nascita",
+      "url": "https://www.tgcom24.mediaset.it/mondo/giudice-usa-blocca-trump-sulla-cittadinanza-per-nascita_119427208-202602k.shtml",
+      "published": "2026-11-25T23:29:00+00:00"
+    },
+    {
       "id": "c21915b47c7aa13285d7",
       "source": "TGcom24",
-      "title": "È morto Andy Taylor, l'ex chitarrista dei Duran Duran: aveva 65 anni",
+      "title": "È morto Andy Taylor, ex chitarrista dei Duran Duran: aveva 65 anni",
       "url": "https://www.tgcom24.mediaset.it/spettacolo/morto-andy-taylor-ex-chitarrista-duran-duran_119424744-202602k.shtml",
       "published": "2026-11-25T22:30:00+00:00"
     },
@@ -42,21 +49,21 @@
     {
       "id": "a54535cb141eecd03375",
       "source": "TGcom24",
-      "title": "Ucraina, Zelensky: \"Continueremo attacchi, aerei e navi russi obiettivi legittimi\"",
+      "title": "Ucraina, Zelensky: \"Le navi e gli aerei russi sono obiettivi legittimi\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-25-novembre_119389333-202602k.shtml",
       "published": "2026-11-25T21:21:00+00:00"
     },
     {
       "id": "a8bdcd0be557826f057a",
       "source": "TGcom24",
-      "title": "Israele, Netanyahu convoca il gabinetto di sicurezza sull'escalation con l'Iran",
+      "title": "Israele, Netanyahu convoca il gabinetto di sicurezza per le tensioni con l'Iran",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-medio-oriente-25-novembre_119389328-202602k.shtml",
       "published": "2026-11-25T20:41:00+00:00"
     },
     {
       "id": "7c2cc9c3f64b9f010783",
       "source": "TGcom24",
-      "title": "Varsavia, uomo si dà fuoco davanti al palazzo presidenziale",
+      "title": "Polonia, un ucraino si dà fuoco a Varsavia davanti al palazzo presidenziale",
       "url": "https://www.tgcom24.mediaset.it/2026/video/varsavia-uomo-si-da-fuoco-davanti-al-palazzo-presidenziale_119418503-02k.shtml",
       "published": "2026-11-25T20:01:00+00:00"
     },
@@ -77,7 +84,7 @@
     {
       "id": "15fc3b2c3196a8a3f46b",
       "source": "TGcom24",
-      "title": "Egitto, esplode a Il Cairo un camion con bombole di gas: almeno 30 morti",
+      "title": "Egitto, esplode autocisterna di petrolio al Cairo: almeno 30 morti",
       "url": "https://www.tgcom24.mediaset.it/mondo/il-cairo-esplosione-camion-morti-feriti_119416607-202602k.shtml",
       "published": "2026-11-25T19:30:00+00:00"
     },
@@ -105,14 +112,14 @@
     {
       "id": "ba4debdf72e02db63be9",
       "source": "TGcom24",
-      "title": "Maltempo, allerta arancione in Campania e rischio valanghe sulle Dolomiti venete",
+      "title": "Maltempo: allerta arancione in Campania, rischio valanghe sulle Dolomiti",
       "url": "https://www.tgcom24.mediaset.it/cronaca/maltempo-campania-scuole-chiuse-ischia-procida-salerno-napoli_119408146-202602k.shtml",
       "published": "2026-11-25T18:25:00+00:00"
     },
     {
       "id": "b672ed6b78ef5b17126e",
       "source": "TGcom24",
-      "title": "Via libera della Camera alla fiducia sul decreto scuola: 180 sì, quattro astenuti",
+      "title": "Via libera della Camera alla fiducia sul decreto scuola: 180 sì, 4 astenuti",
       "url": "https://www.tgcom24.mediaset.it/politica/via-libera-della-camera-alla-fiducia-sul-decreto-scuola-180-si-quattro-astenuti_119416358-202602k.shtml",
       "published": "2026-11-25T17:56:00+00:00"
     },
@@ -147,7 +154,7 @@
     {
       "id": "20c2fca322b8d6322d45",
       "source": "TGcom24",
-      "title": "Nuovi dazi Usa all'Ue, Bruxelles: \"Si rispetti il limite massimo concordato\"",
+      "title": "Dazi Usa all'Ue, Bruxelles: \"Si rispetti il limite massimo concordato\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-dazi-ue-unione-europea-cina_119403400-202602k.shtml",
       "published": "2026-11-25T16:19:00+00:00"
     },
@@ -175,7 +182,7 @@
     {
       "id": "06ec750db5f2d003bccb",
       "source": "TGcom24",
-      "title": "Multa di 472 milioni dall'Antitrust Ue a tre colossi delle fragranze: \"Cartello su prezzi\"",
+      "title": "Ue, multa di 472 milioni a tre colossi delle fragranze: \"Cartello sui prezzi\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/antitrust-ue-multa-colossi-fragranze-profumi-givaudan_119405632-202602k.shtml",
       "published": "2026-11-25T15:17:00+00:00"
     },
@@ -189,7 +196,7 @@
     {
       "id": "c8a888b438572628d00f",
       "source": "TGcom24",
-      "title": "Rabbino pestato a Milano, tribunale sospende l'espulsione di un 20enne",
+      "title": "Rabbino picchiato a Milano, tribunale sospende l'espulsione di un 20enne",
       "url": "https://www.tgcom24.mediaset.it/cronaca/milano-aggressione-rabbino-sospesa-espulsione-cpr_119403788-202602k.shtml",
       "published": "2026-11-25T14:20:00+00:00"
     },
@@ -210,7 +217,7 @@
     {
       "id": "b58d89c6b723e507cc66",
       "source": "TGcom24",
-      "title": "Torino, 92enne morta dopo lo scippo: fermato un 50enne",
+      "title": "Torino, 92enne morta dopo uno scippo: fermato un 50enne",
       "url": "https://www.tgcom24.mediaset.it/2026/video/l-arresto-del-presunto-autore-dello-scippo-che-ha-provocato-la-morte-di-una-92enne_119400595-02k.shtml",
       "published": "2026-11-25T13:12:00+00:00"
     },
@@ -238,21 +245,14 @@
     {
       "id": "f055ee5fda002aa0183f",
       "source": "TGcom24",
-      "title": "Pagamenti nell'Eurozona, sorpasso delle carte sul contante nei negozi",
+      "title": "Pagamenti nell'Eurozona, nei negozi sorpasso delle carte sul contante",
       "url": "https://www.tgcom24.mediaset.it/tgcomlab/trend/pagamenti-eurozona-sorpasso-carte-contante_119399805-202602k.shtml",
       "published": "2026-11-25T12:21:00+00:00"
     },
     {
-      "id": "2ac5036c35ee3d45ddeb",
-      "source": "TGcom24",
-      "title": "Israele, processo Netanyahu: giudici chiedono di rinunciare alla corruzione",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-medio-oriente-25-novembre_119389328-202602k.shtml",
-      "published": "2026-11-25T11:47:00+00:00"
-    },
-    {
       "id": "e42840d4a05379a3d574",
       "source": "TGcom24",
-      "title": "Cremlino: la Libia ha il diritto di rispondere all'aggressione a Bengasi",
+      "title": "Cremlino: \"La Libia ha il diritto di rispondere all'aggressione a Bengasi\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-25-novembre_119389333-202602k.shtml",
       "published": "2026-11-25T11:01:00+00:00"
     },
