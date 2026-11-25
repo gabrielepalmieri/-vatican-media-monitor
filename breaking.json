@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-25T19:20:33.178837+00:00",
+  "updated_at": "2026-11-25T19:25:26.101034+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-25T19:20:33.178837+00:00"
+      "checked_at": "2026-11-25T19:25:26.101034+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-25T19:20:33.178837+00:00"
+      "checked_at": "2026-11-25T19:25:26.101034+00:00"
     }
   },
   "items": [
+    {
+      "id": "b17a610ebfb46b5861b8",
+      "source": "BBC News",
+      "title": "North Korea expels Swiss diplomat in sanctions row",
+      "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T19:19:06+00:00"
+    },
     {
       "id": "e44f71609fbb431532dc",
       "source": "TGcom24",
