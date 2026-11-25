@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-25T15:15:33.122894+00:00",
+  "updated_at": "2026-11-25T15:20:31.408909+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-25T15:15:33.122894+00:00"
+      "checked_at": "2026-11-25T15:20:31.408909+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-25T15:15:33.122894+00:00"
+      "checked_at": "2026-11-25T15:20:31.408909+00:00"
     }
   },
   "items": [
+    {
+      "id": "06ec750db5f2d003bccb",
+      "source": "TGcom24",
+      "title": "Multa di 472 milioni dall'Antitrust Ue a tre colossi delle fragranze: \"Cartello su prezzi\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/antitrust-ue-multa-colossi-fragranze-profumi-givaudan_119405632-202602k.shtml",
+      "published": "2026-11-25T15:17:00+00:00"
+    },
     {
       "id": "c21aae4a74dec8bd6e5f",
       "source": "BBC News",
@@ -325,13 +332,6 @@
       "title": "Nvidia, Huang: \"Non è stato Trump a farmi tornare, scelta del board in autonomia\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-huang-trump_119377642-202602k.shtml",
       "published": "2026-11-24T21:25:00+00:00"
-    },
-    {
-      "id": "60845c997ce9c37eca4b",
-      "source": "TGcom24",
-      "title": "Anche la Cia finisce sotto attacco hacker: violato un sistema non classificato",
-      "url": "https://www.tgcom24.mediaset.it/mondo/cyberattacco-usa-cia_119379793-202602k.shtml",
-      "published": "2026-11-24T20:57:00+00:00"
     },
     {
       "id": "f5dae5a53ce71e4d96cc",
