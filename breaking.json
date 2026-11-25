@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-25T19:25:26.101034+00:00",
+  "updated_at": "2026-11-25T19:30:47.341425+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-25T19:25:26.101034+00:00"
+      "checked_at": "2026-11-25T19:30:47.341425+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-25T19:25:26.101034+00:00"
+      "checked_at": "2026-11-25T19:30:47.341425+00:00"
     }
   },
   "items": [
+    {
+      "id": "1de0f6075f62db32aa77",
+      "source": "BBC News",
+      "title": "Two children among six dead after plane crash off Mississippi coast",
+      "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T19:26:44+00:00"
+    },
+    {
+      "id": "6e80a278cca4f8edc8b1",
+      "source": "BBC News",
+      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T19:23:03+00:00"
+    },
     {
       "id": "b17a610ebfb46b5861b8",
       "source": "BBC News",
@@ -262,13 +276,6 @@
       "title": "Nvidia, l'ombra dell'insider trading su Trump dopo il reintegro di Jensen Huang",
       "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-trump-insider-trading-jensen-huang_119389382-202602k.shtml",
       "published": "2026-11-25T07:15:00+00:00"
-    },
-    {
-      "id": "1de0f6075f62db32aa77",
-      "source": "BBC News",
-      "title": "Two children among six dead after plane crash off Mississippi coast",
-      "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T07:08:22+00:00"
     },
     {
       "id": "76f516ddc83bc86aa39a",
