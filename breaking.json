@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-25T12:45:34.249635+00:00",
+  "updated_at": "2026-11-25T12:50:33.523005+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-25T12:45:34.249635+00:00"
+      "checked_at": "2026-11-25T12:50:33.523005+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-25T12:45:34.249635+00:00"
+      "checked_at": "2026-11-25T12:50:33.523005+00:00"
     }
   },
   "items": [
+    {
+      "id": "eb224fc000972b4105b6",
+      "source": "TGcom24",
+      "title": "Capotreno ucciso a Bologna, Marin Jelenic condannato all'ergastolo",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/capotreno-ucciso-bologna-ergastolo_119400577-202602k.shtml",
+      "published": "2026-11-25T12:47:00+00:00"
+    },
     {
       "id": "390a4dc0447d954590d6",
       "source": "BBC News",
@@ -332,13 +339,6 @@
       "title": "Manovra, confronto Meloni-sindaci: \"Incontro produttivo, apertura dal governo\"",
       "url": "https://www.tgcom24.mediaset.it/politica/manovra-meloni-sindaci-governo_119370579-202602k.shtml",
       "published": "2026-11-24T18:46:00+00:00"
-    },
-    {
-      "id": "1c3308098fdc5d713dd5",
-      "source": "TGcom24",
-      "title": "Dl scuola, maggioranza: stop ebook per elementari, differimento per medie e licei",
-      "url": "https://www.tgcom24.mediaset.it/politica/decreto-scuola-ciriani-fiducia_119361382-202602k.shtml",
-      "published": "2026-11-24T18:15:00+00:00"
     },
     {
       "id": "2d2cccee889742c1cb25",
