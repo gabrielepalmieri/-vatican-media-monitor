@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-25T10:50:32.093430+00:00",
+  "updated_at": "2026-11-25T10:55:29.731696+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-25T10:50:32.093430+00:00"
+      "checked_at": "2026-11-25T10:55:29.731696+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-25T10:50:32.093430+00:00"
+      "checked_at": "2026-11-25T10:55:29.731696+00:00"
     }
   },
   "items": [
+    {
+      "id": "5cbc8466ea9d86edba19",
+      "source": "BBC News",
+      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T10:52:09+00:00"
+    },
     {
       "id": "51dc73ec3a618bda9b17",
       "source": "TGcom24",
@@ -157,13 +164,6 @@
       "title": "Solomon Islands ends controversial security pact with China for Australian treaty",
       "url": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-25T03:15:12+00:00"
-    },
-    {
-      "id": "5cbc8466ea9d86edba19",
-      "source": "BBC News",
-      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T02:59:27+00:00"
     },
     {
       "id": "4fdf4ab409c12d8695c1",
