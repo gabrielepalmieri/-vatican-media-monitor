@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-25T06:35:22.828908+00:00",
+  "updated_at": "2026-11-25T06:40:29.868056+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-25T06:35:22.828908+00:00"
+      "checked_at": "2026-11-25T06:40:29.868056+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-25T06:35:22.828908+00:00"
+      "checked_at": "2026-11-25T06:40:29.868056+00:00"
     }
   },
   "items": [
+    {
+      "id": "390a4dc0447d954590d6",
+      "source": "BBC News",
+      "title": "Kilmar Ábrego García leaves US for Spain, ending Trump deportation battle",
+      "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T06:36:00+00:00"
+    },
     {
       "id": "76f516ddc83bc86aa39a",
       "source": "TGcom24",
@@ -45,13 +52,6 @@
       "title": "Crisi migratoria alle Canarie, altri 1.300 sbarchi a El Hierro",
       "url": "https://www.tgcom24.mediaset.it/mondo/crisi-migratoria-canarie-sbarchi_119386692-202602k.shtml",
       "published": "2026-11-25T05:00:00+00:00"
-    },
-    {
-      "id": "390a4dc0447d954590d6",
-      "source": "BBC News",
-      "title": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
-      "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T04:49:55+00:00"
     },
     {
       "id": "ac2ca4dffe22fa32495d",
