@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-25T18:10:30.959626+00:00",
+  "updated_at": "2026-11-25T18:15:31.991761+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-25T18:10:30.959626+00:00"
+      "checked_at": "2026-11-25T18:15:31.991761+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-25T18:10:30.959626+00:00"
+      "checked_at": "2026-11-25T18:15:31.991761+00:00"
     }
   },
   "items": [
+    {
+      "id": "b672ed6b78ef5b17126e",
+      "source": "TGcom24",
+      "title": "Via libera della Camera alla fiducia sul decreto scuola: 180 sì, quattro astenuti",
+      "url": "https://www.tgcom24.mediaset.it/politica/via-libera-della-camera-alla-fiducia-sul-decreto-scuola-180-si-quattro-astenuti_119416358-202602k.shtml",
+      "published": "2026-11-25T17:56:00+00:00"
+    },
     {
       "id": "4ca1ad93a8928c3b7bb9",
       "source": "BBC News",
@@ -255,13 +262,6 @@
       "title": "Condanna Huawei, l'azienda: \"Verdetto senza fondamento giuridico o fattuale\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/huawei-colpevole-furto-frode-bancaria-usa_119381502-202602k.shtml",
       "published": "2026-11-25T05:30:00+00:00"
-    },
-    {
-      "id": "b3927d960c387b2c0bf6",
-      "source": "TGcom24",
-      "title": "Crisi migratoria alle Canarie, altri 1.300 sbarchi a El Hierro",
-      "url": "https://www.tgcom24.mediaset.it/mondo/crisi-migratoria-canarie-sbarchi_119386692-202602k.shtml",
-      "published": "2026-11-25T05:00:00+00:00"
     },
     {
       "id": "8063424ec76d8d11cf23",
