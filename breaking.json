@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-25T03:40:29.295100+00:00",
+  "updated_at": "2026-11-25T03:45:30.977119+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-25T03:40:29.295100+00:00"
+      "checked_at": "2026-11-25T03:45:30.977119+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-25T03:40:29.295100+00:00"
+      "checked_at": "2026-11-25T03:45:30.977119+00:00"
     }
   },
   "items": [
+    {
+      "id": "ac2ca4dffe22fa32495d",
+      "source": "BBC News",
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T03:44:07+00:00"
+    },
     {
       "id": "5cbc8466ea9d86edba19",
       "source": "BBC News",
@@ -38,13 +45,6 @@
       "title": "Nvidia, Huang: \"Non è stato Trump a farmi tornare, scelta del board in autonomia\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-huang-trump_119377642-202602k.shtml",
       "published": "2026-11-24T21:25:00+00:00"
-    },
-    {
-      "id": "ac2ca4dffe22fa32495d",
-      "source": "BBC News",
-      "title": "US attorney general dodges questions about Nvidia investigation",
-      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-24T21:19:42+00:00"
     },
     {
       "id": "60845c997ce9c37eca4b",
