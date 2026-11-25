@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-25T16:50:30.405736+00:00",
+  "updated_at": "2026-11-25T16:55:22.228322+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-25T16:50:30.405736+00:00"
+      "checked_at": "2026-11-25T16:55:22.228322+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-25T16:50:30.405736+00:00"
+      "checked_at": "2026-11-25T16:55:22.228322+00:00"
     }
   },
   "items": [
+    {
+      "id": "11d54a760fb252744d29",
+      "source": "TGcom24",
+      "title": "Aumenti per i magistrati, il Consiglio di Stato accoglie il ricorso dell'Anm",
+      "url": "https://www.tgcom24.mediaset.it/politica/aumenti-magistrati-consiglio-stato-accolto-ricorso-anm_119409064-202602k.shtml",
+      "published": "2026-11-25T16:50:00+00:00"
+    },
     {
       "id": "bca8193d5b2834d2b9b7",
       "source": "BBC News",
@@ -325,13 +332,6 @@
       "title": "Usa, militare si dichiara colpevole di aver fatto la spia per la Cina",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-militare-colpevole-spia-cina_119377646-202602k.shtml",
       "published": "2026-11-24T23:01:00+00:00"
-    },
-    {
-      "id": "56b2cdac87238938d8c7",
-      "source": "TGcom24",
-      "title": "Usa, Huawei condannata per furto di segreti commerciali e frode bancaria",
-      "url": "https://www.tgcom24.mediaset.it/mondo/huawei-colpevole-furto-frode-bancaria-usa_119381502-202602k.shtml",
-      "published": "2026-11-24T22:30:00+00:00"
     },
     {
       "id": "180271e5cdd767e44844",
