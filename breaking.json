@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-25T06:20:31.103313+00:00",
+  "updated_at": "2026-11-25T06:25:22.190374+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-25T06:20:31.103313+00:00"
+      "checked_at": "2026-11-25T06:25:22.190374+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-25T06:20:31.103313+00:00"
+      "checked_at": "2026-11-25T06:25:22.190374+00:00"
     }
   },
   "items": [
+    {
+      "id": "eca0d7a85b981e41a712",
+      "source": "BBC News",
+      "title": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T06:00:36+00:00"
+    },
     {
       "id": "041a175d01feb0fd455d",
       "source": "TGcom24",
@@ -73,6 +80,13 @@
       "title": "Thomas Markle indicted in US for possessing child sex abuse images",
       "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-25T01:40:42+00:00"
+    },
+    {
+      "id": "a5dd1084cff9b3051949",
+      "source": "BBC News",
+      "title": "With Huang rescue, Trump riskily ties his political fortunes to Nvidia",
+      "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T01:03:05+00:00"
     },
     {
       "id": "b4ad5444a647d2047cde",
@@ -367,13 +381,6 @@
       "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
       "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-24T01:21:41+00:00"
-    },
-    {
-      "id": "27cadaf4e1128dc77249",
-      "source": "BBC News",
-      "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
-      "url": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-24T00:23:25+00:00"
     },
     {
       "id": "f2e02843913447dfac7f",
