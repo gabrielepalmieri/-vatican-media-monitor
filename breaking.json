@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-25T07:50:30.446047+00:00",
+  "updated_at": "2026-11-25T07:55:22.879764+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-25T07:50:30.446047+00:00"
+      "checked_at": "2026-11-25T07:55:22.879764+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-25T07:50:30.446047+00:00"
+      "checked_at": "2026-11-25T07:55:22.879764+00:00"
     }
   },
   "items": [
+    {
+      "id": "8e8bf11430d925be95d3",
+      "source": "TGcom24",
+      "title": "Media: esercito di Haftar promette risposta ad attacco ucraino di Bengasi",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-25-novembre_119389333-202602k.shtml",
+      "published": "2026-11-25T07:48:00+00:00"
+    },
     {
       "id": "f04da9b05d5ee1a0cc33",
       "source": "TGcom24",
@@ -318,13 +325,6 @@
       "title": "Russian governor detained in rare criminal case against regional leader",
       "url": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-24T12:45:43+00:00"
-    },
-    {
-      "id": "a1fdcd8677a7d518e887",
-      "source": "TGcom24",
-      "title": "Mestre, troppi furti nei supermercati: prodotti in armadietti anti-taccheggio",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/mestre-venezia-supermercati-furti_119357257-202602k.shtml",
-      "published": "2026-11-24T12:45:00+00:00"
     },
     {
       "id": "e1d9f346de4b199b3a92",
