@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-25T06:30:46.200991+00:00",
+  "updated_at": "2026-11-25T06:35:22.828908+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-25T06:30:46.200991+00:00"
+      "checked_at": "2026-11-25T06:35:22.828908+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-25T06:30:46.200991+00:00"
+      "checked_at": "2026-11-25T06:35:22.828908+00:00"
     }
   },
   "items": [
+    {
+      "id": "76f516ddc83bc86aa39a",
+      "source": "TGcom24",
+      "title": "Attacco ucraino a Bengasi, la Libia conferma la morte di due militari",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-25-novembre_119389333-202602k.shtml",
+      "published": "2026-11-25T06:30:00+00:00"
+    },
     {
       "id": "eca0d7a85b981e41a712",
       "source": "BBC News",
@@ -325,13 +332,6 @@
       "title": "Brindisi, dichiarava una sola casa ma ne affittava 12 ai turisti: evasi 500mila euro",
       "url": "https://www.tgcom24.mediaset.it/cronaca/brindisi-dichiarava-una-casa-ma-ne-affittava-12_119356910-202602k.shtml",
       "published": "2026-11-24T12:20:00+00:00"
-    },
-    {
-      "id": "4eb371d516663def2b29",
-      "source": "TGcom24",
-      "title": "Israele, l'Alta Corte: i coloni agiscono da milizia, proteggere i palestinesi",
-      "url": "https://www.tgcom24.mediaset.it/mondo/israele-l-alta-corte-coloni-agiscono-da-milizia-proteggere-i-palestinesi_119357246-202602k.shtml",
-      "published": "2026-11-24T11:50:00+00:00"
     },
     {
       "id": "465a84f235fc52599c3a",
