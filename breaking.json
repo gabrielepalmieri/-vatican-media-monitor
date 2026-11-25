@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-25T17:45:32.687975+00:00",
+  "updated_at": "2026-11-25T17:50:31.592928+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-25T17:45:32.687975+00:00"
+      "checked_at": "2026-11-25T17:50:31.592928+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-25T17:45:32.687975+00:00"
+      "checked_at": "2026-11-25T17:50:31.592928+00:00"
     }
   },
   "items": [
+    {
+      "id": "4ca1ad93a8928c3b7bb9",
+      "source": "BBC News",
+      "title": "US stocks fall further as fears over AI intensify",
+      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T17:48:09+00:00"
+    },
     {
       "id": "eca0d7a85b981e41a712",
       "source": "BBC News",
@@ -45,13 +52,6 @@
       "title": "Nuovi dazi Usa all'Ue, Bruxelles: \"Si rispetti il limite massimo concordato\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-dazi-ue-unione-europea-cina_119403400-202602k.shtml",
       "published": "2026-11-25T16:19:00+00:00"
-    },
-    {
-      "id": "4ca1ad93a8928c3b7bb9",
-      "source": "BBC News",
-      "title": "US stocks fall further as fears over AI intensify",
-      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T16:07:26+00:00"
     },
     {
       "id": "b29b60fbc570c6f2b685",
