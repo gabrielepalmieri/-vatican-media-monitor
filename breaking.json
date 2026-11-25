@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-25T17:20:33.030299+00:00",
+  "updated_at": "2026-11-25T17:25:22.870012+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-25T17:20:33.030299+00:00"
+      "checked_at": "2026-11-25T17:25:22.870012+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-25T17:20:33.030299+00:00"
+      "checked_at": "2026-11-25T17:25:22.870012+00:00"
     }
   },
   "items": [
@@ -33,6 +33,13 @@
       "published": "2026-11-25T16:19:00+00:00"
     },
     {
+      "id": "4ca1ad93a8928c3b7bb9",
+      "source": "BBC News",
+      "title": "US stocks fall further as fears over AI intensify",
+      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T16:07:26+00:00"
+    },
+    {
       "id": "b29b60fbc570c6f2b685",
       "source": "TGcom24",
       "title": "La Polonia creerà una no-fly zone al confine con l'Ucraina",
@@ -45,6 +52,13 @@
       "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
       "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-25T15:42:50+00:00"
+    },
+    {
+      "id": "3fe76f80b9285fa727e6",
+      "source": "BBC News",
+      "title": "Canadian astronaut welcomes baby girl from space station",
+      "url": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T15:41:39+00:00"
     },
     {
       "id": "06ec750db5f2d003bccb",
@@ -68,6 +82,13 @@
       "published": "2026-11-25T14:20:00+00:00"
     },
     {
+      "id": "a63f2022879f7f776975",
+      "source": "BBC News",
+      "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
+      "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T14:06:13+00:00"
+    },
+    {
       "id": "2684a2190b53862c24c6",
       "source": "TGcom24",
       "title": "Dazi Usa, nuova stretta: tariffe fino al 15% contro l'Ue",
@@ -87,13 +108,6 @@
       "title": "Capotreno ucciso a Bologna, Marin Jelenic condannato all'ergastolo",
       "url": "https://www.tgcom24.mediaset.it/cronaca/capotreno-ucciso-bologna-ergastolo_119400577-202602k.shtml",
       "published": "2026-11-25T12:47:00+00:00"
-    },
-    {
-      "id": "390a4dc0447d954590d6",
-      "source": "BBC News",
-      "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
-      "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T12:42:11+00:00"
     },
     {
       "id": "49534423697790efaa7a",
@@ -145,6 +159,13 @@
       "published": "2026-11-25T10:22:00+00:00"
     },
     {
+      "id": "6d41357c92e3ce7ccc62",
+      "source": "BBC News",
+      "title": "Protesters call on Israel to free Palestinian student held without charge",
+      "url": "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T10:03:42+00:00"
+    },
+    {
       "id": "a9b115aa274dcba97c32",
       "source": "TGcom24",
       "title": "Papa: \"Spezzare catene che rendono schiavi della guerra, corsa armamenti è piaga\"",
@@ -185,13 +206,6 @@
       "title": "Media: esercito di Haftar promette risposta ad attacco ucraino di Bengasi",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-25-novembre_119389333-202602k.shtml",
       "published": "2026-11-25T07:48:00+00:00"
-    },
-    {
-      "id": "18bedadacea77db16673",
-      "source": "BBC News",
-      "title": "Zimbabwe issues arrest warrant for Robert Mugabe's son over missed court date",
-      "url": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T07:26:54+00:00"
     },
     {
       "id": "f04da9b05d5ee1a0cc33",
@@ -243,25 +257,11 @@
       "published": "2026-11-25T05:00:00+00:00"
     },
     {
-      "id": "ac2ca4dffe22fa32495d",
-      "source": "BBC News",
-      "title": "US attorney general dodges questions about Nvidia investigation",
-      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T03:44:07+00:00"
-    },
-    {
       "id": "8063424ec76d8d11cf23",
       "source": "BBC News",
       "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
       "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-25T03:28:37+00:00"
-    },
-    {
-      "id": "25ce49e73750a64ef533",
-      "source": "BBC News",
-      "title": "Solomon Islands ends controversial security pact with China for Australian treaty",
-      "url": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T03:15:12+00:00"
     },
     {
       "id": "4fdf4ab409c12d8695c1",
@@ -339,13 +339,6 @@
       "title": "Watch: Flock of turkeys chases woman on Massachusetts pavement",
       "url": "https://www.bbc.co.uk/news/videos/cknv4mq93gd2o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-24T22:07:30+00:00"
-    },
-    {
-      "id": "f5dae5a53ce71e4d96cc",
-      "source": "BBC News",
-      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-      "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-24T15:35:53+00:00"
     },
     {
       "id": "69690233acc55d34c868",
