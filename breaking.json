@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-25T18:50:31.526729+00:00",
+  "updated_at": "2026-11-25T18:55:23.011027+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-25T18:50:31.526729+00:00"
+      "checked_at": "2026-11-25T18:55:23.011027+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-25T18:50:31.526729+00:00"
+      "checked_at": "2026-11-25T18:55:23.011027+00:00"
     }
   },
   "items": [
@@ -17,6 +17,13 @@
       "title": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
       "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-25T18:41:33+00:00"
+    },
+    {
+      "id": "ba4debdf72e02db63be9",
+      "source": "TGcom24",
+      "title": "Maltempo, allerta arancione in Campania e pericolo valanghe sulle Dolomiti venete",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/maltempo-campania-scuole-chiuse-ischia-procida-salerno-napoli_119408146-202602k.shtml",
+      "published": "2026-11-25T18:25:00+00:00"
     },
     {
       "id": "b672ed6b78ef5b17126e",
@@ -262,13 +269,6 @@
       "title": "Usa, stallo sui fondi per la guerra in Iran: cresce il rischio \"shutdown\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-medio-oriente-25-novembre_119389328-202602k.shtml",
       "published": "2026-11-25T06:00:00+00:00"
-    },
-    {
-      "id": "b312feaa85ca77486578",
-      "source": "TGcom24",
-      "title": "Condanna Huawei, l'azienda: \"Verdetto senza fondamento giuridico o fattuale\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/huawei-colpevole-furto-frode-bancaria-usa_119381502-202602k.shtml",
-      "published": "2026-11-25T05:30:00+00:00"
     },
     {
       "id": "8063424ec76d8d11cf23",
