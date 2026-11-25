@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-25T05:55:27.376509+00:00",
+  "updated_at": "2026-11-25T06:00:54.850017+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-25T05:55:27.376509+00:00"
+      "checked_at": "2026-11-25T06:00:54.850017+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-25T05:55:27.376509+00:00"
+      "checked_at": "2026-11-25T06:00:54.850017+00:00"
     }
   },
   "items": [
+    {
+      "id": "041a175d01feb0fd455d",
+      "source": "TGcom24",
+      "title": "Usa, stallo sui fondi per la guerra in Iran: cresce il rischio \"shutdown\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-medio-oriente-25-novembre_119389328-202602k.shtml",
+      "published": "2026-11-25T06:00:00+00:00"
+    },
     {
       "id": "b312feaa85ca77486578",
       "source": "TGcom24",
@@ -332,13 +339,6 @@
       "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
       "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-24T10:58:51+00:00"
-    },
-    {
-      "id": "1a3b387f70e6c7ded93a",
-      "source": "TGcom24",
-      "title": "Barletta, schiacciato da un Tir contro un muro: muore operaio 57enne",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/barletta-operaio-morto-lavoro-tir-angelo-marchetti_119355754-202602k.shtml",
-      "published": "2026-11-24T10:23:00+00:00"
     },
     {
       "id": "69690233acc55d34c868",
