@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-25T11:45:33.431264+00:00",
+  "updated_at": "2026-11-25T11:50:31.721240+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-25T11:45:33.431264+00:00"
+      "checked_at": "2026-11-25T11:50:31.721240+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-25T11:45:33.431264+00:00"
+      "checked_at": "2026-11-25T11:50:31.721240+00:00"
     }
   },
   "items": [
+    {
+      "id": "2ac5036c35ee3d45ddeb",
+      "source": "TGcom24",
+      "title": "Israele, processo Netanyahu: giudici chiedono di rinunciare alla corruzione",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-medio-oriente-25-novembre_119389328-202602k.shtml",
+      "published": "2026-11-25T11:47:00+00:00"
+    },
+    {
+      "id": "bca8193d5b2834d2b9b7",
+      "source": "BBC News",
+      "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
+      "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T11:45:16+00:00"
+    },
     {
       "id": "390a4dc0447d954590d6",
       "source": "BBC News",
@@ -38,13 +52,6 @@
       "title": "Movimento 17 ottobre, Siher sui social: \"Dalle forze dell'ordine abusi di potere\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/movimento-17-ottobre-youssef-siher-post-social_119396202-202602k.shtml",
       "published": "2026-11-25T10:22:00+00:00"
-    },
-    {
-      "id": "bca8193d5b2834d2b9b7",
-      "source": "BBC News",
-      "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
-      "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T09:56:19+00:00"
     },
     {
       "id": "a9b115aa274dcba97c32",
