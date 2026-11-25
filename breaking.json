@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-25T15:40:32.252862+00:00",
+  "updated_at": "2026-11-25T15:45:50.218003+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-25T15:40:32.252862+00:00"
+      "checked_at": "2026-11-25T15:45:50.218003+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-25T15:40:32.252862+00:00"
+      "checked_at": "2026-11-25T15:45:50.218003+00:00"
     }
   },
   "items": [
+    {
+      "id": "3dfa3116011e716bcdd1",
+      "source": "BBC News",
+      "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
+      "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T15:42:50+00:00"
+    },
     {
       "id": "06ec750db5f2d003bccb",
       "source": "TGcom24",
@@ -80,13 +87,6 @@
       "title": "Pagamenti nell'Eurozona, sorpasso delle carte sul contante nei negozi",
       "url": "https://www.tgcom24.mediaset.it/tgcomlab/trend/pagamenti-eurozona-sorpasso-carte-contante_119399805-202602k.shtml",
       "published": "2026-11-25T12:21:00+00:00"
-    },
-    {
-      "id": "3dfa3116011e716bcdd1",
-      "source": "BBC News",
-      "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
-      "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T12:20:17+00:00"
     },
     {
       "id": "2ac5036c35ee3d45ddeb",
