@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-25T21:25:24.212667+00:00",
+  "updated_at": "2026-11-25T21:30:57.484164+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-25T21:25:24.212667+00:00"
+      "checked_at": "2026-11-25T21:30:57.484164+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-25T21:25:24.212667+00:00"
+      "checked_at": "2026-11-25T21:30:57.484164+00:00"
     }
   },
   "items": [
+    {
+      "id": "b1542caef06a2dc66bce",
+      "source": "BBC News",
+      "title": "At least 30 killed in massive fire as fuel truck crashes on Cairo highway",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T21:25:14+00:00"
+    },
     {
       "id": "a8bdcd0be557826f057a",
       "source": "TGcom24",
