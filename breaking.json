@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-11-26T16:10:29.883896+00:00",
+  "updated_at": "2026-11-26T16:15:34.026040+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-26T16:10:29.883896+00:00"
+      "checked_at": "2026-11-26T16:15:34.026040+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-26T16:10:29.883896+00:00"
+      "checked_at": "2026-11-26T16:15:34.026040+00:00"
     }
   },
   "items": [
+    {
+      "id": "a36958dd26252e1ca56a",
+      "source": "TGcom24",
+      "title": "Gianni De Gennaro, il presidente Mattarella sarà presente ai funerali",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/gianni-de-gennaro-funerali-mattarella_119451320-202602k.shtml",
+      "published": "2026-11-26T16:05:00+00:00"
+    },
     {
       "id": "659803258c6473498fcc",
       "source": "BBC News",
       "title": "Hundreds of flights cancelled as severe weather disrupts Thanksgiving travel in US",
       "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-26T15:57:26+00:00"
+    },
+    {
+      "id": "68b4f3406519e4087e06",
+      "source": "BBC News",
+      "title": "Two Italians killed after Iranian strike in Kuwait",
+      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T15:36:08+00:00"
     },
     {
       "id": "3d6519cedd49d2996622",
@@ -103,6 +117,13 @@
       "published": "2026-11-26T12:20:00+00:00"
     },
     {
+      "id": "35241f9363ba03d83566",
+      "source": "BBC News",
+      "title": "Egyptian authorities arrest motorist over tanker crash that killed 31",
+      "url": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T12:16:06+00:00"
+    },
+    {
       "id": "d5a99e7d35a0207e5100",
       "source": "TGcom24",
       "title": "Londra chiede a 100mila riservisti di tenersi pronti in caso di guerra",
@@ -138,13 +159,6 @@
       "published": "2026-11-26T10:56:00+00:00"
     },
     {
-      "id": "6e80a278cca4f8edc8b1",
-      "source": "BBC News",
-      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
-      "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T10:38:35+00:00"
-    },
-    {
       "id": "a9e49e036230409cbb67",
       "source": "BBC News",
       "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
@@ -164,6 +178,13 @@
       "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
       "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-26T10:14:08+00:00"
+    },
+    {
+      "id": "cb3a0c5cf35754b044ee",
+      "source": "BBC News",
+      "title": "Politics and peek-a-boo in Australian parliament as senator brings baby to work",
+      "url": "https://www.bbc.co.uk/news/videos/cmvg23djw8v9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T09:49:42+00:00"
     },
     {
       "id": "36e3f14c594cf782f0e5",
@@ -313,32 +334,11 @@
       "published": "2026-11-26T05:00:00+00:00"
     },
     {
-      "id": "7046b6db174090893fe8",
+      "id": "8cdbd01229eb5f0dd231",
       "source": "BBC News",
-      "title": "US announces new tariffs on host of countries including China",
-      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T04:10:58+00:00"
-    },
-    {
-      "id": "7c2f11df1bc62929b42b",
-      "source": "BBC News",
-      "title": "Macy's postpones Thanksgiving parade due to severe weather",
-      "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T04:04:14+00:00"
-    },
-    {
-      "id": "845a1ed56321538a6d9e",
-      "source": "BBC News",
-      "title": "California warns of flooding as King Tides peak over Thanksgiving",
-      "url": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T01:22:55+00:00"
-    },
-    {
-      "id": "43f13b70d254ab7d53ff",
-      "source": "BBC News",
-      "title": "Spanish elections: What you need to know and what's at stake",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T00:23:49+00:00"
+      "title": "France's political mainstream risks presidential vote debacle with no clear candidate",
+      "url": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T00:23:27+00:00"
     },
     {
       "id": "ed075100cf4514351a4f",
@@ -362,27 +362,6 @@
       "published": "2026-11-25T23:26:50+00:00"
     },
     {
-      "id": "c21915b47c7aa13285d7",
-      "source": "TGcom24",
-      "title": "È morto Andy Taylor, ex chitarrista dei Duran Duran: aveva 65 anni",
-      "url": "https://www.tgcom24.mediaset.it/spettacolo/morto-andy-taylor-ex-chitarrista-duran-duran_119424744-202602k.shtml",
-      "published": "2026-11-25T22:30:00+00:00"
-    },
-    {
-      "id": "b1542caef06a2dc66bce",
-      "source": "BBC News",
-      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
-      "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T22:18:06+00:00"
-    },
-    {
-      "id": "b17a610ebfb46b5861b8",
-      "source": "BBC News",
-      "title": "North Korea expels Swiss diplomat in sanctions row",
-      "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T21:51:17+00:00"
-    },
-    {
       "id": "8778fd4681b025b1851f",
       "source": "BBC News",
       "title": "Moment Nasa spacecraft hit asteroid - and what happened next",
@@ -390,25 +369,11 @@
       "published": "2026-11-25T20:11:46+00:00"
     },
     {
-      "id": "e06a0ca92816d5cac1bb",
-      "source": "BBC News",
-      "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
-      "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T16:42:11+00:00"
-    },
-    {
       "id": "09a74fbedc39d90ba063",
       "source": "BBC News",
       "title": "Greatest catch ever? Man on motorbike takes incredible grab",
       "url": "https://www.bbc.co.uk/sport/cricket/videos/cwx2e0g93l3eo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-25T16:23:03+00:00"
-    },
-    {
-      "id": "c21aae4a74dec8bd6e5f",
-      "source": "BBC News",
-      "title": "Five Russian military jets hit in airfield strike, says Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T14:46:41+00:00"
     }
   ]
 }
