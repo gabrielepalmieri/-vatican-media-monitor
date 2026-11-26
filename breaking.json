@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-26T23:01:06.264503+00:00",
+  "updated_at": "2026-11-26T23:05:21.922443+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-26T23:01:06.264503+00:00"
+      "checked_at": "2026-11-26T23:05:21.922443+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-26T23:01:06.264503+00:00"
+      "checked_at": "2026-11-26T23:05:21.922443+00:00"
     }
   },
   "items": [
+    {
+      "id": "f96a232b624351438ffa",
+      "source": "TGcom24",
+      "title": "Egitto, arrestato sospettato incidente dell'autocisterna che ha causato 31 morti",
+      "url": "https://www.tgcom24.mediaset.it/mondo/egitto-arrestato-sospettato-incidente-autocisterna_119468196-202602k.shtml",
+      "published": "2026-11-26T23:00:00+00:00"
+    },
     {
       "id": "2e8e6723072eced9c1e5",
       "source": "BBC News",
@@ -297,13 +304,6 @@
       "title": "Two screenings of Pakistani TV show cancelled in India after backlash",
       "url": "https://www.bbc.co.uk/news/articles/cky97x7delz9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-26T08:30:12+00:00"
-    },
-    {
-      "id": "6aac28c8364d2a38efbd",
-      "source": "TGcom24",
-      "title": "Black Friday, Confcom: giro affari da 6,6 miliardi, spesa media 262 euro a testa",
-      "url": "https://www.tgcom24.mediaset.it/tgcomlab/trend/black-friday-confcom-giro-affari-6-6-miliardi_119434128-202602k.shtml",
-      "published": "2026-11-26T08:20:00+00:00"
     },
     {
       "id": "abad8f36e93e84bb7690",
