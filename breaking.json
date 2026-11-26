@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-26T11:01:04.283797+00:00",
+  "updated_at": "2026-11-26T11:05:23.222649+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-26T11:01:04.283797+00:00"
+      "checked_at": "2026-11-26T11:05:23.222649+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-26T11:01:04.283797+00:00"
+      "checked_at": "2026-11-26T11:05:23.222649+00:00"
     }
   },
   "items": [
+    {
+      "id": "d8d2005dae06618e2019",
+      "source": "TGcom24",
+      "title": "La Camera approva il decreto scuola: 142 i sì, 112 i no",
+      "url": "https://www.tgcom24.mediaset.it/politica/camera-approvazione-decreto-scuola_119441711-202602k.shtml",
+      "published": "2026-11-26T10:56:00+00:00"
+    },
     {
       "id": "6e80a278cca4f8edc8b1",
       "source": "BBC News",
@@ -311,13 +318,6 @@
       "title": "Via libera della Camera alla fiducia sul decreto scuola: 180 sì, 4 astenuti",
       "url": "https://www.tgcom24.mediaset.it/politica/via-libera-della-camera-alla-fiducia-sul-decreto-scuola-180-si-quattro-astenuti_119416358-202602k.shtml",
       "published": "2026-11-25T17:56:00+00:00"
-    },
-    {
-      "id": "44c87946735fc8e8efde",
-      "source": "TGcom24",
-      "title": "De Gennaro, la lettera indirizzata a De Luca scritta poco prima di morire",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/caltanissetta-analisi-cinque-device-gianni-de-gennaro_119412798-202602k.shtml",
-      "published": "2026-11-25T17:22:00+00:00"
     },
     {
       "id": "e06a0ca92816d5cac1bb",
