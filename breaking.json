@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-26T10:05:30.775107+00:00",
+  "updated_at": "2026-11-26T10:10:32.860817+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-26T10:05:30.775107+00:00"
+      "checked_at": "2026-11-26T10:10:32.860817+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-26T10:05:30.775107+00:00"
+      "checked_at": "2026-11-26T10:10:32.860817+00:00"
     }
   },
   "items": [
@@ -21,7 +21,7 @@
     {
       "id": "36e3f14c594cf782f0e5",
       "source": "TGcom24",
-      "title": "Pistoia, uccide compagna poi si getta da viadotto: lo stesso di Lorena Isceri",
+      "title": "Pistoia, uccide la compagna e poi si getta dal viadotto: lo stesso di Lorena Isceri",
       "url": "https://www.tgcom24.mediaset.it/cronaca/pistoia-uccide-compagna-suicidio-da-stesso-cavalcavia-lorena-isceri_119439686-202602k.shtml",
       "published": "2026-11-26T09:47:00+00:00"
     },
@@ -187,6 +187,13 @@
       "published": "2026-11-26T01:22:55+00:00"
     },
     {
+      "id": "43f13b70d254ab7d53ff",
+      "source": "BBC News",
+      "title": "Spanish elections: What you need to know and what's at stake",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T00:23:49+00:00"
+    },
+    {
       "id": "6e80a278cca4f8edc8b1",
       "source": "BBC News",
       "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
@@ -339,13 +346,6 @@
       "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
       "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-25T03:28:37+00:00"
-    },
-    {
-      "id": "180271e5cdd767e44844",
-      "source": "BBC News",
-      "title": "Watch: Flock of turkeys chases woman on Massachusetts pavement",
-      "url": "https://www.bbc.co.uk/news/videos/cknv4mq93gd2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-24T22:07:30+00:00"
     }
   ]
 }
