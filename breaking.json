@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-26T11:50:34.027777+00:00",
+  "updated_at": "2026-11-26T11:55:21.703533+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-26T11:50:34.027777+00:00"
+      "checked_at": "2026-11-26T11:55:21.703533+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-26T11:50:34.027777+00:00"
+      "checked_at": "2026-11-26T11:55:21.703533+00:00"
     }
   },
   "items": [
+    {
+      "id": "d5a99e7d35a0207e5100",
+      "source": "TGcom24",
+      "title": "Londra chiede a 100mila riservisti di tenersi pronti in caso di guerra",
+      "url": "https://www.tgcom24.mediaset.it/mondo/regno-unito-chiesta-disponibilita-100mila-riservisti-in-caso-guerra_119442251-202602k.shtml",
+      "published": "2026-11-26T11:50:00+00:00"
+    },
     {
       "id": "166bb5d156d2909725ba",
       "source": "TGcom24",
@@ -311,13 +318,6 @@
       "title": "Mattarella: \"Attacchi hacker alle scuole sono aggressione, li sconfiggeremo\"",
       "url": "https://www.tgcom24.mediaset.it/politica/mattarella-attacchi-hacker-alle-scuole-sono-aggressione-li-sconfiggeremo-_119416606-202602k.shtml",
       "published": "2026-11-25T18:59:00+00:00"
-    },
-    {
-      "id": "ba4debdf72e02db63be9",
-      "source": "TGcom24",
-      "title": "Maltempo: allerta arancione in Campania, rischio valanghe sulle Dolomiti venete",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/maltempo-campania-scuole-chiuse-ischia-procida-salerno-napoli_119408146-202602k.shtml",
-      "published": "2026-11-25T18:25:00+00:00"
     },
     {
       "id": "e06a0ca92816d5cac1bb",
