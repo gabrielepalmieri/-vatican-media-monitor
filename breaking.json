@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-26T20:35:21.425317+00:00",
+  "updated_at": "2026-11-26T20:40:36.704200+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-26T20:35:21.425317+00:00"
+      "checked_at": "2026-11-26T20:40:36.704200+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-26T20:35:21.425317+00:00"
+      "checked_at": "2026-11-26T20:40:36.704200+00:00"
     }
   },
   "items": [
+    {
+      "id": "68b4f3406519e4087e06",
+      "source": "BBC News",
+      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T20:35:39+00:00"
+    },
     {
       "id": "8f63167368c5fa4fbf16",
       "source": "TGcom24",
       "title": "Italiani morti in Kuwait, media Iran: \"Sospetta mano Ucraina dietro l'attacco\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/kuwait-attacco-droni-iraniani-morti-italiani_119446681-202602k.shtml",
       "published": "2026-11-26T20:35:00+00:00"
-    },
-    {
-      "id": "68b4f3406519e4087e06",
-      "source": "BBC News",
-      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T19:27:45+00:00"
     },
     {
       "id": "5fe0d41e059f4ff22729",
