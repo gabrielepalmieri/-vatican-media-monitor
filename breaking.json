@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-26T13:55:21.077907+00:00",
+  "updated_at": "2026-11-26T14:01:10.249693+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-26T13:55:21.077907+00:00"
+      "checked_at": "2026-11-26T14:01:10.249693+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-26T13:55:21.077907+00:00"
+      "checked_at": "2026-11-26T14:01:10.249693+00:00"
     }
   },
   "items": [
+    {
+      "id": "1bfa8f31b71865737b7f",
+      "source": "BBC News",
+      "title": "Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one",
+      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T14:00:42+00:00"
+    },
     {
       "id": "1284ef98489b0a3ac2c3",
       "source": "TGcom24",
@@ -52,13 +59,6 @@
       "title": "Londra chiede a 100mila riservisti di tenersi pronti in caso di guerra",
       "url": "https://www.tgcom24.mediaset.it/mondo/regno-unito-chiesta-disponibilita-100mila-riservisti-in-caso-guerra_119442251-202602k.shtml",
       "published": "2026-11-26T11:50:00+00:00"
-    },
-    {
-      "id": "1bfa8f31b71865737b7f",
-      "source": "BBC News",
-      "title": "Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one",
-      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T11:27:42+00:00"
     },
     {
       "id": "166bb5d156d2909725ba",
@@ -362,13 +362,6 @@
       "published": "2026-11-25T20:11:46+00:00"
     },
     {
-      "id": "b01fa3e10b743892ec9f",
-      "source": "BBC News",
-      "title": "What we know about Trump's Thanksgiving tariffs",
-      "url": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T19:38:05+00:00"
-    },
-    {
       "id": "e06a0ca92816d5cac1bb",
       "source": "BBC News",
       "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
@@ -388,13 +381,6 @@
       "title": "Five Russian military jets hit in airfield strike, says Ukraine",
       "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-25T14:46:41+00:00"
-    },
-    {
-      "id": "8063424ec76d8d11cf23",
-      "source": "BBC News",
-      "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
-      "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T03:28:37+00:00"
     }
   ]
 }
