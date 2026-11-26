@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-26T09:01:01.047487+00:00",
+  "updated_at": "2026-11-26T09:05:24.969588+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-26T09:01:01.047487+00:00"
+      "checked_at": "2026-11-26T09:05:24.969588+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-26T09:01:01.047487+00:00"
+      "checked_at": "2026-11-26T09:05:24.969588+00:00"
     }
   },
   "items": [
+    {
+      "id": "ad6bb37cd1edc3c661d4",
+      "source": "TGcom24",
+      "title": "Milano, 83enne disabile morì in un incendio: un vicino arrestato per omicidio",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-incendio-disabile-morta-arrestato-vicino_119438533-202602k.shtml",
+      "published": "2026-11-26T08:50:00+00:00"
+    },
     {
       "id": "7f138b3cd7a29fba1f43",
       "source": "BBC News",
@@ -318,13 +325,6 @@
       "title": "La Polonia creerà una no-fly zone al confine con l'Ucraina",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-25-novembre_119389333-202602k.shtml",
       "published": "2026-11-25T15:47:00+00:00"
-    },
-    {
-      "id": "06ec750db5f2d003bccb",
-      "source": "TGcom24",
-      "title": "Ue, multa di 472 milioni a tre colossi delle fragranze: \"Cartello sui prezzi\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/antitrust-ue-multa-colossi-fragranze-profumi-givaudan_119405632-202602k.shtml",
-      "published": "2026-11-25T15:17:00+00:00"
     },
     {
       "id": "c21aae4a74dec8bd6e5f",
