@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-26T16:25:25.583181+00:00",
+  "updated_at": "2026-11-26T16:30:51.019256+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-26T16:25:25.583181+00:00"
+      "checked_at": "2026-11-26T16:30:51.019256+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-26T16:25:25.583181+00:00"
+      "checked_at": "2026-11-26T16:30:51.019256+00:00"
     }
   },
   "items": [
+    {
+      "id": "68b4f3406519e4087e06",
+      "source": "BBC News",
+      "title": "Two Italians killed after Iranian strike in Kuwait",
+      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T16:27:09+00:00"
+    },
     {
       "id": "0ac9d3ac4fa4e991b97f",
       "source": "BBC News",
@@ -31,13 +38,6 @@
       "title": "Hundreds of flights cancelled as severe weather disrupts Thanksgiving travel in US",
       "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-26T15:57:26+00:00"
-    },
-    {
-      "id": "68b4f3406519e4087e06",
-      "source": "BBC News",
-      "title": "Two Italians killed after Iranian strike in Kuwait",
-      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T15:36:08+00:00"
     },
     {
       "id": "3d6519cedd49d2996622",
