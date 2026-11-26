@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-26T06:55:22.191815+00:00",
+  "updated_at": "2026-11-26T07:01:00.835904+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-26T06:55:22.191815+00:00"
+      "checked_at": "2026-11-26T07:01:00.835904+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-26T06:55:22.191815+00:00"
+      "checked_at": "2026-11-26T07:01:00.835904+00:00"
     }
   },
   "items": [
+    {
+      "id": "c8f86503c995c43b14d7",
+      "source": "TGcom24",
+      "title": "Filorussi: \"Almeno cinque morti per raid ucraino su Zaporizhzhia\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-26-novembre_119431932-202602k.shtml",
+      "published": "2026-11-26T06:58:00+00:00"
+    },
     {
       "id": "66f857d6d72d78ad2939",
       "source": "TGcom24",
@@ -318,13 +325,6 @@
       "title": "Dazi Usa, nuova stretta: tariffe fino al 15% contro l'Ue",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-dazi-ue-unione-europea-cina_119403400-202602k.shtml",
       "published": "2026-11-25T13:50:00+00:00"
-    },
-    {
-      "id": "b58d89c6b723e507cc66",
-      "source": "TGcom24",
-      "title": "Torino, 92enne morta dopo uno scippo: fermato un 50enne",
-      "url": "https://www.tgcom24.mediaset.it/2026/video/l-arresto-del-presunto-autore-dello-scippo-che-ha-provocato-la-morte-di-una-92enne_119400595-02k.shtml",
-      "published": "2026-11-25T13:12:00+00:00"
     },
     {
       "id": "c6fd232e77b3a8eda91d",
