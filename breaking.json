@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-26T15:55:22.035267+00:00",
+  "updated_at": "2026-11-26T16:01:06.233669+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-26T15:55:22.035267+00:00"
+      "checked_at": "2026-11-26T16:01:06.233669+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-26T15:55:22.035267+00:00"
+      "checked_at": "2026-11-26T16:01:06.233669+00:00"
     }
   },
   "items": [
+    {
+      "id": "659803258c6473498fcc",
+      "source": "BBC News",
+      "title": "Hundreds of flights cancelled as severe weather disrupts Thanksgiving travel in US",
+      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T15:57:26+00:00"
+    },
     {
       "id": "3d6519cedd49d2996622",
       "source": "BBC News",
@@ -73,13 +80,6 @@
       "title": "Nuovo record di sbarchi alle Canarie: oltre 2.000 migranti arrivati in 24 ore",
       "url": "https://www.tgcom24.mediaset.it/2026/video/nuovo-record-di-sbarchi-alle-canarie-oltre-2-000-migranti-arrivati-in-24-ore-_119444584-02k.shtml",
       "published": "2026-11-26T13:17:00+00:00"
-    },
-    {
-      "id": "659803258c6473498fcc",
-      "source": "BBC News",
-      "title": "Miami runway incident disrupts flights on Thanksgiving eve",
-      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T13:09:15+00:00"
     },
     {
       "id": "e2fb183c783f5c0b49eb",
