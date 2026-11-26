@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-26T15:15:36.834233+00:00",
+  "updated_at": "2026-11-26T15:20:33.625247+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-26T15:15:36.834233+00:00"
+      "checked_at": "2026-11-26T15:20:33.625247+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-26T15:15:36.834233+00:00"
+      "checked_at": "2026-11-26T15:20:33.625247+00:00"
     }
   },
   "items": [
+    {
+      "id": "82c8ed31ddf59506b592",
+      "source": "TGcom24",
+      "title": "Italiani morti in Kuwait, Meloni: \"A nome mio e del governo, esprimo profondo cordoglio\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/kuwait-attacco-droni-iraniani-morti-italiani_119446681-202602k.shtml",
+      "published": "2026-11-26T15:19:00+00:00"
+    },
+    {
+      "id": "1bfa8f31b71865737b7f",
+      "source": "BBC News",
+      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T15:17:18+00:00"
+    },
     {
       "id": "eab0cd7d3501cc96f640",
       "source": "BBC News",
@@ -38,13 +52,6 @@
       "title": "Depardieu rinviato a giudizio: è accusato di stupro sull'attrice Charlotte Arnould",
       "url": "https://www.tgcom24.mediaset.it/mondo/depardieu-rinviato-a-giudizio-arnould_119447616-202602k.shtml",
       "published": "2026-11-26T14:21:00+00:00"
-    },
-    {
-      "id": "1bfa8f31b71865737b7f",
-      "source": "BBC News",
-      "title": "Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one",
-      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T14:00:42+00:00"
     },
     {
       "id": "5cd305243176121717ce",
