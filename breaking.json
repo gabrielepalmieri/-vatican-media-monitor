@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-26T13:05:24.356446+00:00",
+  "updated_at": "2026-11-26T13:10:36.709951+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-26T13:05:24.356446+00:00"
+      "checked_at": "2026-11-26T13:10:36.709951+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-26T13:05:24.356446+00:00"
+      "checked_at": "2026-11-26T13:10:36.709951+00:00"
     }
   },
   "items": [
+    {
+      "id": "659803258c6473498fcc",
+      "source": "BBC News",
+      "title": "Miami runway incident disrupts flights on Thanksgiving eve",
+      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T13:09:15+00:00"
+    },
     {
       "id": "e2fb183c783f5c0b49eb",
       "source": "TGcom24",
@@ -178,13 +185,6 @@
       "title": "Guinea orders residents to clean up the capital months after deadly rubbish dump collapse",
       "url": "https://www.bbc.co.uk/news/articles/cqwy4377yxnlo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-26T07:43:48+00:00"
-    },
-    {
-      "id": "659803258c6473498fcc",
-      "source": "BBC News",
-      "title": "FedEx plane overshoots Miami runway, causing brief suspension of flights at airport",
-      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T07:34:47+00:00"
     },
     {
       "id": "ce6a600a2b76973c7939",
