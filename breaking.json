@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-26T09:25:22.464875+00:00",
+  "updated_at": "2026-11-26T09:30:49.503743+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-26T09:25:22.464875+00:00"
+      "checked_at": "2026-11-26T09:30:49.503743+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-26T09:25:22.464875+00:00"
+      "checked_at": "2026-11-26T09:30:49.503743+00:00"
     }
   },
   "items": [
+    {
+      "id": "dbc3bf4652f8d6396bc5",
+      "source": "BBC News",
+      "title": "Musk's plan to send a million SpaceX data satellites into space approved",
+      "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T09:27:44+00:00"
+    },
     {
       "id": "9a73bb631b199a28c332",
       "source": "TGcom24",
@@ -185,13 +192,6 @@
       "title": "Has global jihadism failed, or is it simply changing shape?",
       "url": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-26T00:22:18+00:00"
-    },
-    {
-      "id": "dbc3bf4652f8d6396bc5",
-      "source": "BBC News",
-      "title": "US approves SpaceX plan to send a million data satellites to space",
-      "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T00:07:51+00:00"
     },
     {
       "id": "f588a6b71b5aeb1ef642",
