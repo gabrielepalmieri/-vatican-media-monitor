@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-26T06:20:29.454620+00:00",
+  "updated_at": "2026-11-26T06:25:21.418745+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-26T06:20:29.454620+00:00"
+      "checked_at": "2026-11-26T06:25:21.418745+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-26T06:20:29.454620+00:00"
+      "checked_at": "2026-11-26T06:25:21.418745+00:00"
     }
   },
   "items": [
+    {
+      "id": "66f857d6d72d78ad2939",
+      "source": "TGcom24",
+      "title": "Raid russo contro un edificio residenziale a Kharkiv: almeno due morti",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-26-novembre_119431932-202602k.shtml",
+      "published": "2026-11-26T06:22:00+00:00"
+    },
     {
       "id": "a6c6e817c4c56b7cd0e3",
       "source": "TGcom24",
@@ -318,13 +325,6 @@
       "title": "Torino, 92enne morta dopo uno scippo: fermato un 50enne",
       "url": "https://www.tgcom24.mediaset.it/2026/video/l-arresto-del-presunto-autore-dello-scippo-che-ha-provocato-la-morte-di-una-92enne_119400595-02k.shtml",
       "published": "2026-11-25T13:12:00+00:00"
-    },
-    {
-      "id": "eb224fc000972b4105b6",
-      "source": "TGcom24",
-      "title": "Capotreno ucciso a Bologna, Marin Jelenic condannato all'ergastolo",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/capotreno-ucciso-bologna-ergastolo_119400577-202602k.shtml",
-      "published": "2026-11-25T12:47:00+00:00"
     },
     {
       "id": "c6fd232e77b3a8eda91d",
