@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-26T10:25:25.721860+00:00",
+  "updated_at": "2026-11-26T10:30:58.345225+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-26T10:25:25.721860+00:00"
+      "checked_at": "2026-11-26T10:30:58.345225+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-26T10:25:25.721860+00:00"
+      "checked_at": "2026-11-26T10:30:58.345225+00:00"
     }
   },
   "items": [
+    {
+      "id": "65039dd7a83c97852171",
+      "source": "TGcom24",
+      "title": "Meloni: \"Niente tagli nel prossimo bilancio Ue, salvaguardare Pac e Coesione\"",
+      "url": "https://www.tgcom24.mediaset.it/politica/vertice-ue-meloni-no-tagli-bilancio-pac-coesione_119440533-202602k.shtml",
+      "published": "2026-11-26T10:22:00+00:00"
+    },
     {
       "id": "3d6519cedd49d2996622",
       "source": "BBC News",
@@ -311,13 +318,6 @@
       "title": "De Gennaro, la lettera indirizzata a De Luca scritta poco prima di morire",
       "url": "https://www.tgcom24.mediaset.it/cronaca/caltanissetta-analisi-cinque-device-gianni-de-gennaro_119412798-202602k.shtml",
       "published": "2026-11-25T17:22:00+00:00"
-    },
-    {
-      "id": "11d54a760fb252744d29",
-      "source": "TGcom24",
-      "title": "Aumenti per i magistrati, il Consiglio di Stato accoglie il ricorso dell'Anm",
-      "url": "https://www.tgcom24.mediaset.it/politica/aumenti-magistrati-consiglio-stato-accolto-ricorso-anm_119409064-202602k.shtml",
-      "published": "2026-11-25T16:50:00+00:00"
     },
     {
       "id": "e06a0ca92816d5cac1bb",
