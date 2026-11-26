@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-26T12:20:34.609005+00:00",
+  "updated_at": "2026-11-26T12:25:21.914138+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-26T12:20:34.609005+00:00"
+      "checked_at": "2026-11-26T12:25:21.914138+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-26T12:20:34.609005+00:00"
+      "checked_at": "2026-11-26T12:25:21.914138+00:00"
     }
   },
   "items": [
+    {
+      "id": "0b253d069b894852cc8b",
+      "source": "TGcom24",
+      "title": "Monza, chiama la fidanzata e poi si dà fuoco in auto: morto 50enne",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/monza-chiama-la-fidanzata-e-poi-si-da-fuoco-in-auto-morto-un-50enne-_119443307-202602k.shtml",
+      "published": "2026-11-26T12:20:00+00:00"
+    },
     {
       "id": "d5a99e7d35a0207e5100",
       "source": "TGcom24",
@@ -360,13 +367,6 @@
       "title": "Egitto, esplode autocisterna di petrolio al Cairo: almeno 30 morti",
       "url": "https://www.tgcom24.mediaset.it/mondo/il-cairo-esplosione-camion-morti-feriti_119416607-202602k.shtml",
       "published": "2026-11-25T19:30:00+00:00"
-    },
-    {
-      "id": "e44f71609fbb431532dc",
-      "source": "TGcom24",
-      "title": "Mattarella: \"Attacchi hacker alle scuole sono aggressione, li sconfiggeremo\"",
-      "url": "https://www.tgcom24.mediaset.it/politica/mattarella-attacchi-hacker-alle-scuole-sono-aggressione-li-sconfiggeremo-_119416606-202602k.shtml",
-      "published": "2026-11-25T18:59:00+00:00"
     },
     {
       "id": "e06a0ca92816d5cac1bb",
