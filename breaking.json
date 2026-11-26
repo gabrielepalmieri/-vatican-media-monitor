@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-26T12:50:33.153633+00:00",
+  "updated_at": "2026-11-26T12:55:25.320056+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-26T12:50:33.153633+00:00"
+      "checked_at": "2026-11-26T12:55:25.320056+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-26T12:50:33.153633+00:00"
+      "checked_at": "2026-11-26T12:55:25.320056+00:00"
     }
   },
   "items": [
+    {
+      "id": "e2fb183c783f5c0b49eb",
+      "source": "TGcom24",
+      "title": "Schlein: \"Nodi nel centrosinistra sul Fisco? Tavolo politico li scioglierà\"",
+      "url": "https://www.tgcom24.mediaset.it/politica/schlein-tavolo-politico-sciogliera-nodi-fisco_119444432-202602k.shtml",
+      "published": "2026-11-26T12:50:00+00:00"
+    },
     {
       "id": "f3eb5f5f46cdedae3058",
       "source": "BBC News",
@@ -360,13 +367,6 @@
       "title": "What we know about Trump's Thanksgiving tariffs",
       "url": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-25T19:38:05+00:00"
-    },
-    {
-      "id": "15fc3b2c3196a8a3f46b",
-      "source": "TGcom24",
-      "title": "Egitto, esplode autocisterna di petrolio al Cairo: almeno 30 morti",
-      "url": "https://www.tgcom24.mediaset.it/mondo/il-cairo-esplosione-camion-morti-feriti_119416607-202602k.shtml",
-      "published": "2026-11-25T19:30:00+00:00"
     },
     {
       "id": "e06a0ca92816d5cac1bb",
