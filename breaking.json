@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-26T18:30:48.207472+00:00",
+  "updated_at": "2026-11-26T18:35:20.948598+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-26T18:30:48.207472+00:00"
+      "checked_at": "2026-11-26T18:35:20.948598+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-26T18:30:48.207472+00:00"
+      "checked_at": "2026-11-26T18:35:20.948598+00:00"
     }
   },
   "items": [
+    {
+      "id": "78f79d9c0605634ff9dd",
+      "source": "TGcom24",
+      "title": "Gianni De Gennaro, la famiglia: \"La lettera sia pubblicata nella sua interezza\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/gianni-de-gennaro-lettera-condannato-a-morte_119430823-202602k.shtml",
+      "published": "2026-11-26T18:10:00+00:00"
+    },
     {
       "id": "68b4f3406519e4087e06",
       "source": "BBC News",
@@ -339,13 +346,6 @@
       "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
       "url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-26T05:00:24+00:00"
-    },
-    {
-      "id": "d0dffcff3782846a0cdc",
-      "source": "TGcom24",
-      "title": "Orafo ucciso nel Varesotto, confermati in appello i due ergastoli",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/orafo-ucciso-varesotto-ergastoli-confermati-in-appello_119410994-202602k.shtml",
-      "published": "2026-11-26T05:00:00+00:00"
     },
     {
       "id": "8cdbd01229eb5f0dd231",
