@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-26T05:00:58.670353+00:00",
+  "updated_at": "2026-11-26T05:05:22.012140+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-26T05:00:58.670353+00:00"
+      "checked_at": "2026-11-26T05:05:22.012140+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-26T05:00:58.670353+00:00"
+      "checked_at": "2026-11-26T05:05:22.012140+00:00"
     }
   },
   "items": [
+    {
+      "id": "d0dffcff3782846a0cdc",
+      "source": "TGcom24",
+      "title": "Orafo ucciso nel Varesotto, confermati in appello i due ergastoli",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/orafo-ucciso-varesotto-ergastoli-confermati-in-appello_119410994-202602k.shtml",
+      "published": "2026-11-26T05:00:00+00:00"
+    },
     {
       "id": "7046b6db174090893fe8",
       "source": "BBC News",
@@ -325,13 +332,6 @@
       "title": "Cremlino: \"La Libia ha il diritto di rispondere all'aggressione a Bengasi\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-25-novembre_119389333-202602k.shtml",
       "published": "2026-11-25T11:01:00+00:00"
-    },
-    {
-      "id": "51dc73ec3a618bda9b17",
-      "source": "TGcom24",
-      "title": "Movimento 17 ottobre, Siher sui social: \"Dalle forze dell'ordine abusi di potere\"",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/movimento-17-ottobre-youssef-siher-post-social_119396202-202602k.shtml",
-      "published": "2026-11-25T10:22:00+00:00"
     },
     {
       "id": "6d41357c92e3ce7ccc62",
