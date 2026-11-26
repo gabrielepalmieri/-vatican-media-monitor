@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-26T05:50:34.013620+00:00",
+  "updated_at": "2026-11-26T05:55:21.320993+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-26T05:50:34.013620+00:00"
+      "checked_at": "2026-11-26T05:55:21.320993+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-26T05:50:34.013620+00:00"
+      "checked_at": "2026-11-26T05:55:21.320993+00:00"
     }
   },
   "items": [
+    {
+      "id": "a6c6e817c4c56b7cd0e3",
+      "source": "TGcom24",
+      "title": "La lettera di De Gennaro: \"Tra poco non ci sarò più, un 'condannato a morte' non può mentire\"",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/gianni-de-gennaro-lettera-condannato-a-morte_119430823-202602k.shtml",
+      "published": "2026-11-26T05:52:00+00:00"
+    },
     {
       "id": "b6b459ac3ca256b3bae6",
       "source": "TGcom24",
@@ -325,13 +332,6 @@
       "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
       "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-25T12:21:49+00:00"
-    },
-    {
-      "id": "f055ee5fda002aa0183f",
-      "source": "TGcom24",
-      "title": "Pagamenti nell'Eurozona, nei negozi sorpasso delle carte sul contante",
-      "url": "https://www.tgcom24.mediaset.it/tgcomlab/trend/pagamenti-eurozona-sorpasso-carte-contante_119399805-202602k.shtml",
-      "published": "2026-11-25T12:21:00+00:00"
     },
     {
       "id": "6d41357c92e3ce7ccc62",
