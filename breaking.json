@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-26T16:20:32.047783+00:00",
+  "updated_at": "2026-11-26T16:25:25.583181+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-26T16:20:32.047783+00:00"
+      "checked_at": "2026-11-26T16:25:25.583181+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-26T16:20:32.047783+00:00"
+      "checked_at": "2026-11-26T16:25:25.583181+00:00"
     }
   },
   "items": [
+    {
+      "id": "0ac9d3ac4fa4e991b97f",
+      "source": "BBC News",
+      "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
+      "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T16:21:19+00:00"
+    },
     {
       "id": "a36958dd26252e1ca56a",
       "source": "TGcom24",
@@ -136,13 +143,6 @@
       "title": "Condominio in fiamme a Bologna: 14 feriti, tre sono gravi",
       "url": "https://www.tgcom24.mediaset.it/cronaca/foto/bologna-incendio-in-un-condominio-evacuati-50-residenti-13-persone-intossicate_119440472-202602k.shtml",
       "published": "2026-11-26T11:27:00+00:00"
-    },
-    {
-      "id": "0ac9d3ac4fa4e991b97f",
-      "source": "BBC News",
-      "title": "Seven injured, four critically, after Bangkok oil refinery explosion",
-      "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T11:21:50+00:00"
     },
     {
       "id": "27eb6de59271be09b5a5",
