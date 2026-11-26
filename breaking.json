@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-26T22:00:57.569427+00:00",
+  "updated_at": "2026-11-26T22:05:21.655324+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-26T22:00:57.569427+00:00"
+      "checked_at": "2026-11-26T22:05:21.655324+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-26T22:00:57.569427+00:00"
+      "checked_at": "2026-11-26T22:05:21.655324+00:00"
     }
   },
   "items": [
+    {
+      "id": "1bfa8f31b71865737b7f",
+      "source": "BBC News",
+      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T22:01:22+00:00"
+    },
     {
       "id": "68b4f3406519e4087e06",
       "source": "BBC News",
@@ -94,13 +101,6 @@
       "title": "Italiani morti in Kuwait, Meloni: \"A nome mio e del governo, esprimo profondo cordoglio\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/kuwait-attacco-droni-iraniani-morti-italiani_119446681-202602k.shtml",
       "published": "2026-11-26T15:19:00+00:00"
-    },
-    {
-      "id": "1bfa8f31b71865737b7f",
-      "source": "BBC News",
-      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T15:17:18+00:00"
     },
     {
       "id": "eab0cd7d3501cc96f640",
