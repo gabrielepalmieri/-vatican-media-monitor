@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-26T10:35:22.616770+00:00",
+  "updated_at": "2026-11-26T10:40:31.556631+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-26T10:35:22.616770+00:00"
+      "checked_at": "2026-11-26T10:40:31.556631+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-26T10:35:22.616770+00:00"
+      "checked_at": "2026-11-26T10:40:31.556631+00:00"
     }
   },
   "items": [
+    {
+      "id": "6e80a278cca4f8edc8b1",
+      "source": "BBC News",
+      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T10:38:35+00:00"
+    },
     {
       "id": "65039dd7a83c97852171",
       "source": "TGcom24",
@@ -199,13 +206,6 @@
       "title": "Spanish elections: What you need to know and what's at stake",
       "url": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-26T00:23:49+00:00"
-    },
-    {
-      "id": "6e80a278cca4f8edc8b1",
-      "source": "BBC News",
-      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
-      "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T00:23:05+00:00"
     },
     {
       "id": "ed075100cf4514351a4f",
