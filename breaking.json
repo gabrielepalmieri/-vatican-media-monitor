@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-26T00:20:30.006674+00:00",
+  "updated_at": "2026-11-26T00:25:21.401109+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-26T00:20:30.006674+00:00"
+      "checked_at": "2026-11-26T00:25:21.401109+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-26T00:20:30.006674+00:00"
+      "checked_at": "2026-11-26T00:25:21.401109+00:00"
     }
   },
   "items": [
+    {
+      "id": "6e80a278cca4f8edc8b1",
+      "source": "BBC News",
+      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T00:23:05+00:00"
+    },
     {
       "id": "f588a6b71b5aeb1ef642",
       "source": "TGcom24",
@@ -66,13 +73,6 @@
       "title": "Polonia, un ucraino si dà fuoco a Varsavia davanti al palazzo presidenziale",
       "url": "https://www.tgcom24.mediaset.it/2026/video/varsavia-uomo-si-da-fuoco-davanti-al-palazzo-presidenziale_119418503-02k.shtml",
       "published": "2026-11-25T20:01:00+00:00"
-    },
-    {
-      "id": "6e80a278cca4f8edc8b1",
-      "source": "BBC News",
-      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
-      "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T19:54:52+00:00"
     },
     {
       "id": "00eb29992fb0bf4e6cb1",
