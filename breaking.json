@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-26T20:30:49.298338+00:00",
+  "updated_at": "2026-11-26T20:35:21.425317+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-26T20:30:49.298338+00:00"
+      "checked_at": "2026-11-26T20:35:21.425317+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-26T20:30:49.298338+00:00"
+      "checked_at": "2026-11-26T20:35:21.425317+00:00"
     }
   },
   "items": [
+    {
+      "id": "8f63167368c5fa4fbf16",
+      "source": "TGcom24",
+      "title": "Italiani morti in Kuwait, media Iran: \"Sospetta mano Ucraina dietro l'attacco\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/kuwait-attacco-droni-iraniani-morti-italiani_119446681-202602k.shtml",
+      "published": "2026-11-26T20:35:00+00:00"
+    },
     {
       "id": "68b4f3406519e4087e06",
       "source": "BBC News",
@@ -311,13 +318,6 @@
       "title": "Filorussi: \"Almeno cinque morti per raid ucraino su Zaporizhzhia\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-26-novembre_119431932-202602k.shtml",
       "published": "2026-11-26T06:58:00+00:00"
-    },
-    {
-      "id": "66f857d6d72d78ad2939",
-      "source": "TGcom24",
-      "title": "Raid russo contro un edificio residenziale a Kharkiv: almeno due morti",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-26-novembre_119431932-202602k.shtml",
-      "published": "2026-11-26T06:22:00+00:00"
     },
     {
       "id": "783a6e4027d78613d89d",
