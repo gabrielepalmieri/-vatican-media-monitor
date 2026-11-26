@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-26T11:25:23.208639+00:00",
+  "updated_at": "2026-11-26T11:30:49.315538+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-26T11:25:23.208639+00:00"
+      "checked_at": "2026-11-26T11:30:49.315538+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-26T11:25:23.208639+00:00"
+      "checked_at": "2026-11-26T11:30:49.315538+00:00"
     }
   },
   "items": [
+    {
+      "id": "166bb5d156d2909725ba",
+      "source": "TGcom24",
+      "title": "Condominio in fiamme a Bologna: 14 feriti, tre sono gravi",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/foto/bologna-incendio-in-un-condominio-evacuati-50-residenti-13-persone-intossicate_119440472-202602k.shtml",
+      "published": "2026-11-26T11:27:00+00:00"
+    },
     {
       "id": "d8d2005dae06618e2019",
       "source": "TGcom24",
@@ -311,13 +318,6 @@
       "title": "Maltempo: allerta arancione in Campania, rischio valanghe sulle Dolomiti venete",
       "url": "https://www.tgcom24.mediaset.it/cronaca/maltempo-campania-scuole-chiuse-ischia-procida-salerno-napoli_119408146-202602k.shtml",
       "published": "2026-11-25T18:25:00+00:00"
-    },
-    {
-      "id": "b672ed6b78ef5b17126e",
-      "source": "TGcom24",
-      "title": "Via libera della Camera alla fiducia sul decreto scuola: 180 sì, 4 astenuti",
-      "url": "https://www.tgcom24.mediaset.it/politica/via-libera-della-camera-alla-fiducia-sul-decreto-scuola-180-si-quattro-astenuti_119416358-202602k.shtml",
-      "published": "2026-11-25T17:56:00+00:00"
     },
     {
       "id": "e06a0ca92816d5cac1bb",
