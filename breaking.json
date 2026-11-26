@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-26T14:25:21.274738+00:00",
+  "updated_at": "2026-11-26T14:30:48.800283+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-26T14:25:21.274738+00:00"
+      "checked_at": "2026-11-26T14:30:48.800283+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-26T14:25:21.274738+00:00"
+      "checked_at": "2026-11-26T14:30:48.800283+00:00"
     }
   },
   "items": [
+    {
+      "id": "443ebd0d23664dfb15fa",
+      "source": "TGcom24",
+      "title": "Depardieu rinviato a giudizio: è accusato di stupro sull'attrice Charlotte Arnould",
+      "url": "https://www.tgcom24.mediaset.it/mondo/depardieu-rinviato-a-giudizio-arnould_119447616-202602k.shtml",
+      "published": "2026-11-26T14:21:00+00:00"
+    },
     {
       "id": "1bfa8f31b71865737b7f",
       "source": "BBC News",
@@ -346,13 +353,6 @@
       "title": "North Korea expels Swiss diplomat in sanctions row",
       "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-25T21:51:17+00:00"
-    },
-    {
-      "id": "a54535cb141eecd03375",
-      "source": "TGcom24",
-      "title": "Ucraina, Zelensky: \"Le navi e gli aerei con armi russe sono obiettivi legittimi\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-25-novembre_119389333-202602k.shtml",
-      "published": "2026-11-25T21:21:00+00:00"
     },
     {
       "id": "8778fd4681b025b1851f",
