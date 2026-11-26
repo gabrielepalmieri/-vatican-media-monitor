@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-26T09:55:25.005490+00:00",
+  "updated_at": "2026-11-26T10:01:02.816161+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-26T09:55:25.005490+00:00"
+      "checked_at": "2026-11-26T10:01:02.816161+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-26T09:55:25.005490+00:00"
+      "checked_at": "2026-11-26T10:01:02.816161+00:00"
     }
   },
   "items": [
+    {
+      "id": "3d6519cedd49d2996622",
+      "source": "BBC News",
+      "title": "New UK-EU treaty has 10-year termination clause",
+      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T09:59:14+00:00"
+    },
     {
       "id": "36e3f14c594cf782f0e5",
       "source": "TGcom24",
@@ -66,13 +73,6 @@
       "title": "Guinea orders residents to clean up the capital months after deadly rubbish dump collapse",
       "url": "https://www.bbc.co.uk/news/articles/cqwy4377yxnlo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-26T07:43:48+00:00"
-    },
-    {
-      "id": "3d6519cedd49d2996622",
-      "source": "BBC News",
-      "title": "New UK-EU treaty has 10-year termination clause, BBC understands",
-      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T07:40:04+00:00"
     },
     {
       "id": "659803258c6473498fcc",
