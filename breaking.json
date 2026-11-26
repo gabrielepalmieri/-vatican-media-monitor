@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-26T15:20:33.625247+00:00",
+  "updated_at": "2026-11-26T15:25:23.698825+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-26T15:20:33.625247+00:00"
+      "checked_at": "2026-11-26T15:25:23.698825+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-26T15:20:33.625247+00:00"
+      "checked_at": "2026-11-26T15:25:23.698825+00:00"
     }
   },
   "items": [
+    {
+      "id": "3d6519cedd49d2996622",
+      "source": "BBC News",
+      "title": "New UK-EU treaty has 10-year termination clause",
+      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T15:23:17+00:00"
+    },
     {
       "id": "82c8ed31ddf59506b592",
       "source": "TGcom24",
@@ -157,13 +164,6 @@
       "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
       "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-26T10:14:08+00:00"
-    },
-    {
-      "id": "3d6519cedd49d2996622",
-      "source": "BBC News",
-      "title": "New UK-EU treaty has 10-year termination clause",
-      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T09:59:14+00:00"
     },
     {
       "id": "36e3f14c594cf782f0e5",
