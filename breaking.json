@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-26T19:25:24.033444+00:00",
+  "updated_at": "2026-11-26T19:30:47.497173+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-26T19:25:24.033444+00:00"
+      "checked_at": "2026-11-26T19:30:47.497173+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-26T19:25:24.033444+00:00"
+      "checked_at": "2026-11-26T19:30:47.497173+00:00"
     }
   },
   "items": [
+    {
+      "id": "68b4f3406519e4087e06",
+      "source": "BBC News",
+      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T19:27:45+00:00"
+    },
     {
       "id": "d3efb245b439ab1bc583",
       "source": "TGcom24",
@@ -24,13 +31,6 @@
       "title": "Gianni De Gennaro, la famiglia: \"La lettera sia pubblicata nella sua interezza\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/gianni-de-gennaro-lettera-condannato-a-morte_119430823-202602k.shtml",
       "published": "2026-11-26T18:10:00+00:00"
-    },
-    {
-      "id": "68b4f3406519e4087e06",
-      "source": "BBC News",
-      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T17:54:22+00:00"
     },
     {
       "id": "659803258c6473498fcc",
