@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-27T16:50:32.140385+00:00",
+  "updated_at": "2026-11-27T16:55:26.631018+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-27T16:50:32.140385+00:00"
+      "checked_at": "2026-11-27T16:55:26.631018+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-27T16:50:32.140385+00:00"
+      "checked_at": "2026-11-27T16:55:26.631018+00:00"
     }
   },
   "items": [
+    {
+      "id": "9a329dfb3d6ec03115a8",
+      "source": "BBC News",
+      "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+      "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T16:53:46+00:00"
+    },
     {
       "id": "372d6ced885a5223eb96",
       "source": "TGcom24",
@@ -31,13 +38,6 @@
       "title": "Brazil pushes back on Macron calling its meat 'doped'",
       "url": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-27T15:54:15+00:00"
-    },
-    {
-      "id": "9a329dfb3d6ec03115a8",
-      "source": "BBC News",
-      "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
-      "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T15:38:13+00:00"
     },
     {
       "id": "8e1297d829677a5de75f",
