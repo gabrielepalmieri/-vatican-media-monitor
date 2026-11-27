@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-27T16:10:32.782246+00:00",
+  "updated_at": "2026-11-27T16:15:33.362762+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-27T16:10:32.782246+00:00"
+      "checked_at": "2026-11-27T16:15:33.362762+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-27T16:10:32.782246+00:00"
+      "checked_at": "2026-11-27T16:15:33.362762+00:00"
     }
   },
   "items": [
+    {
+      "id": "372d6ced885a5223eb96",
+      "source": "TGcom24",
+      "title": "Russia, colpito impianto coinvolto in produzione carburante per missili balistici",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-27-novembre_119472715-202602k.shtml",
+      "published": "2026-11-27T16:11:00+00:00"
+    },
     {
       "id": "23cad4eb9feb2c8b1310",
       "source": "BBC News",
@@ -318,13 +325,6 @@
       "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
       "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-26T19:26:16+00:00"
-    },
-    {
-      "id": "d3efb245b439ab1bc583",
-      "source": "TGcom24",
-      "title": "Treviso, speronata da un'auto pirata partorisce d'urgenza: morta la neonata",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/treviso-speronata-auto-pirata-partorisce-morta-neonata_119455023-202602k.shtml",
-      "published": "2026-11-26T18:50:00+00:00"
     },
     {
       "id": "0ac9d3ac4fa4e991b97f",
