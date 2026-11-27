@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-27T18:01:01.344692+00:00",
+  "updated_at": "2026-11-27T18:05:23.128820+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-27T18:01:01.344692+00:00"
+      "checked_at": "2026-11-27T18:05:23.128820+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-27T18:01:01.344692+00:00"
+      "checked_at": "2026-11-27T18:05:23.128820+00:00"
     }
   },
   "items": [
+    {
+      "id": "2e8e6723072eced9c1e5",
+      "source": "BBC News",
+      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T18:00:40+00:00"
+    },
+    {
+      "id": "60549a355fc8ed332068",
+      "source": "TGcom24",
+      "title": "Ambasciata russa: \"Non ci stupiremmo se Kiev usasse territorio italiano per nuovi raid\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-27-novembre_119472715-202602k.shtml",
+      "published": "2026-11-27T17:40:00+00:00"
+    },
     {
       "id": "4f0e4e21aad299168e6e",
       "source": "BBC News",
@@ -157,13 +171,6 @@
       "title": "Il Costa Rica respinge Francesca Albanese: \"Su di lei allerta internazionale\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/costa-rica-respinge-francesca-albanese_119477137-202602k.shtml",
       "published": "2026-11-27T09:20:00+00:00"
-    },
-    {
-      "id": "2e8e6723072eced9c1e5",
-      "source": "BBC News",
-      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T09:07:48+00:00"
     },
     {
       "id": "9d4db2e584f85c2dcb20",
@@ -327,13 +334,6 @@
       "published": "2026-11-26T21:05:00+00:00"
     },
     {
-      "id": "8f63167368c5fa4fbf16",
-      "source": "TGcom24",
-      "title": "Italiani morti in Kuwait, media Iran: \"Sospetta mano Ucraina dietro l'attacco\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/kuwait-attacco-droni-iraniani-morti-italiani_119446681-202602k.shtml",
-      "published": "2026-11-26T20:35:00+00:00"
-    },
-    {
       "id": "5fe0d41e059f4ff22729",
       "source": "BBC News",
       "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
@@ -360,13 +360,6 @@
       "title": "Politics and peek-a-boo in Australian parliament as senator brings baby to work",
       "url": "https://www.bbc.co.uk/news/videos/cmvg23djw8v9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-26T09:49:42+00:00"
-    },
-    {
-      "id": "783a6e4027d78613d89d",
-      "source": "BBC News",
-      "title": "Desperate appeals from women on death row in Iran after protests",
-      "url": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T06:01:58+00:00"
     }
   ]
 }
