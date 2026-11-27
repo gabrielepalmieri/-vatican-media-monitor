@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-27T14:45:41.359937+00:00",
+  "updated_at": "2026-11-27T14:50:34.572932+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-27T14:45:41.359937+00:00"
+      "checked_at": "2026-11-27T14:50:34.572932+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-27T14:45:41.359937+00:00"
+      "checked_at": "2026-11-27T14:50:34.572932+00:00"
     }
   },
   "items": [
+    {
+      "id": "524586b7bb6ba19d3e93",
+      "source": "BBC News",
+      "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
+      "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T14:49:59+00:00"
+    },
+    {
+      "id": "920c7a1b6d7e592c7cb6",
+      "source": "TGcom24",
+      "title": "Washington, media: cresce il numero di funzionari Trump negli alloggi militari",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-attacco-hacker-cloud-air-force_119485146-202602k.shtml",
+      "published": "2026-11-27T14:48:00+00:00"
+    },
     {
       "id": "f25c477302c05a21d8a3",
       "source": "TGcom24",
@@ -80,13 +94,6 @@
       "title": "Zelensky: \"Attacco in Libia? Non agiamo mai senza coordinarci con i partner\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-27-novembre_119472715-202602k.shtml",
       "published": "2026-11-27T10:28:00+00:00"
-    },
-    {
-      "id": "524586b7bb6ba19d3e93",
-      "source": "BBC News",
-      "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
-      "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T10:26:28+00:00"
     },
     {
       "id": "ffdd1d390937dc27d834",
@@ -297,13 +304,6 @@
       "title": "Gianni De Gennaro, la famiglia: \"La lettera sia pubblicata nella sua interezza\"",
       "url": "https://www.tgcom24.mediaset.it/cronaca/gianni-de-gennaro-lettera-condannato-a-morte_119430823-202602k.shtml",
       "published": "2026-11-26T18:10:00+00:00"
-    },
-    {
-      "id": "5f9a5836174fb8bf8934",
-      "source": "TGcom24",
-      "title": "Milano, va a scuola con una pistola: arrestato 22enne",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-scuola-pistola-arrestato-22enne_119454687-202602k.shtml",
-      "published": "2026-11-26T17:35:00+00:00"
     },
     {
       "id": "0ac9d3ac4fa4e991b97f",
