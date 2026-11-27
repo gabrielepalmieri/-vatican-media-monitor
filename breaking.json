@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-27T08:15:32.819143+00:00",
+  "updated_at": "2026-11-27T08:20:35.913430+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-27T08:15:32.819143+00:00"
+      "checked_at": "2026-11-27T08:20:35.913430+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-27T08:15:32.819143+00:00"
+      "checked_at": "2026-11-27T08:20:35.913430+00:00"
     }
   },
   "items": [
@@ -38,6 +38,13 @@
       "title": "Could housing decide Spain's general election?",
       "url": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-27T06:09:31+00:00"
+    },
+    {
+      "id": "c49fd11ad2e391bbc6c4",
+      "source": "BBC News",
+      "title": "Houthi attacks test Saudi Arabia's image of security",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T06:04:51+00:00"
     },
     {
       "id": "9e2834b5ac1b8390fb5a",
@@ -374,13 +381,6 @@
       "title": "France's political mainstream risks presidential vote debacle with no clear candidate",
       "url": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-26T00:23:27+00:00"
-    },
-    {
-      "id": "724970b806cfa9511e93",
-      "source": "BBC News",
-      "title": "A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T23:26:50+00:00"
     }
   ]
 }
