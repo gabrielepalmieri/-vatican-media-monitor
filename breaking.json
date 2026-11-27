@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-27T16:55:26.631018+00:00",
+  "updated_at": "2026-11-27T17:01:05.500207+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-27T16:55:26.631018+00:00"
+      "checked_at": "2026-11-27T17:01:05.500207+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-27T16:55:26.631018+00:00"
+      "checked_at": "2026-11-27T17:01:05.500207+00:00"
     }
   },
   "items": [
@@ -17,6 +17,13 @@
       "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
       "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-27T16:53:46+00:00"
+    },
+    {
+      "id": "438a84ccb98dae60be3a",
+      "source": "TGcom24",
+      "title": "Kuwait, la Procura di Roma apre un'inchiesta sulla morte dei tecnici italiani",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/attacco-droni-kuwait-procura-roma-apre-inchiesta_119491917-202602k.shtml",
+      "published": "2026-11-27T16:51:00+00:00"
     },
     {
       "id": "372d6ced885a5223eb96",
@@ -360,13 +367,6 @@
       "title": "Desperate appeals from women on death row in Iran after protests",
       "url": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-26T06:01:58+00:00"
-    },
-    {
-      "id": "c276634abfd63d1da5a9",
-      "source": "BBC News",
-      "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
-      "url": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T05:00:27+00:00"
     }
   ]
 }
