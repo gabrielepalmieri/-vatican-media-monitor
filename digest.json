@@ -1,15 +1,101 @@
 {
   "editions": [
     {
+      "format_version": 2,
       "date": "2026-11-27",
       "available_at": "2026-11-27T07:00:00+01:00",
-      "prepared_at": "2026-11-27T10:11:34.908095+00:00",
+      "prepared_at": "2026-11-27T12:08:46.390633+00:00",
       "coverage_from": "2026-11-26T06:00:00+00:00",
       "coverage_to": "2026-11-27T06:00:00+00:00",
       "sections": [
         {
           "title": "Attualità",
           "items": [
+            {
+              "id": "6bfcb88bd55bda4f",
+              "title": "La linea prudente di Meloni su De Gennaro: “No a gioco delle tifoserie”. Opposizione: lo dica ai suoi",
+              "url": "https://www.repubblica.it/politica/2026/11/27/news/meloni_de_gennaro_tifoserie_funerali-425753627/",
+              "source": "la Repubblica",
+              "published": "2026-11-27T00:00:00+00:00",
+              "language": "Italiano",
+              "author": "Giacomo Salvini",
+              "section": "Attualità",
+              "topic": "Attualità",
+              "cluster_id": "6bfcb88bd55bda4f",
+              "summary": "Il Pd: “FdI ha portato teoremi di parte in Antimafia”. Scontro FI-5s su Scarpinato. La premier lunedì vede Merz: non so se sarò al funerale. Tajani ci sarà, Sa…",
+              "summary_origin": "publisher_metadata"
+            },
+            {
+              "id": "9b7ac98e8271a4b2",
+              "title": "De Gennaro, Meloni: «No alle tifoserie, bisogna fare chiarezza». Mattarella sarà ai funerali",
+              "url": "https://www.ilmessaggero.it/politica/de_gennaro_funerali_meloni_mattarella-9915297.html",
+              "source": "Il Messaggero",
+              "published": "2026-11-26T23:37:15+00:00",
+              "language": "Italiano",
+              "author": "Andrea Bulleri",
+              "section": "Attualità",
+              "topic": "Attualità",
+              "cluster_id": "41496210e23186e0",
+              "summary": "La premier: «Le parole di De Gennaro ci colpiscono, bisogna aiutare le Procure. Le esequie? Ci sarà Mantovano, io non so». Confermata la presenza del Capo dello Stato",
+              "summary_origin": "publisher_metadata"
+            },
+            {
+              "id": "4e1b7fd71c622b3f",
+              "title": "'Raggiunta una intesa su Bce con de Cos presidente, in esecutivo Boone e Brunnermeier'",
+              "url": "https://www.ansa.it/sito/notizie/economia/2026/11/26/confronto-tra-i-leader-sulla-bce-oggi-verso-lavvio-iter-formale_b89e1430-4300-482f-9508-c475065af9d8.html",
+              "source": "ANSA",
+              "published": "2026-11-26T17:10:02+00:00",
+              "language": "Italiano",
+              "author": "Agenzia ANSA",
+              "section": "Attualità",
+              "topic": "Attualità",
+              "cluster_id": "4e1b7fd71c622b3f",
+              "summary": "Via libera dei 27 allo spagnolo. Resta lo scontro tra modernizzatori e coesionisti (ANSA)",
+              "summary_origin": "publisher_metadata"
+            },
+            {
+              "id": "7743e0c486922a98",
+              "title": "Martelli: “Nelle parole di De Gennaro disgusto e sfida. Parlino gli ex premier che ha citato”",
+              "url": "https://www.lastampa.it/politica/2026/11/27/news/martelli_parole_de_gennaro_disgusto_sfida_parlino_ex_premier-15810824/",
+              "source": "La Stampa",
+              "published": "2026-11-27T03:00:00+00:00",
+              "language": "Italiano",
+              "summary": "L’ex ministro: «Potrebbero aiutare a chiarire che non è stato un uomo di sfrenata ambizione»",
+              "summary_origin": "feed",
+              "section": "Attualità",
+              "topic": "Attualità"
+            },
+            {
+              "id": "62facb789ed4f66e",
+              "title": "Il «testamento morale» di De Gennaro: «Io, condannato a morte, non mento. Ho sempre obbedito agli ordini». Mattarella sarà al funerale",
+              "url": "https://www.avvenire.it/politica/nelle-lettere-lultima-difesa-di-de-gennaro-io-uomo-dello-stato-ho-sempre-agito-per-la-legalita_116296",
+              "source": "Avvenire",
+              "published": "2026-11-26T14:52:27+00:00",
+              "language": "Italiano",
+              "author": "Vincenzo R. Spagnolo",
+              "section": "Attualità",
+              "topic": "Attualità",
+              "cluster_id": "62facb789ed4f66e",
+              "summary": "Trapela il contenuto della lettera dell'ex capo della Polizia. «Non ho mai tradito il mio giuramento di fedeltà alla Patria. Mi scuso degli errori commessi. Non ho mai chiesto nulla per me: domandate a Conte, Amato, Enrico e Gianni…",
+              "summary_origin": "publisher_metadata"
+            }
+          ]
+        },
+        {
+          "title": "Internazionale",
+          "items": [
+            {
+              "id": "4a00250ae60b20c8",
+              "title": "Mushroom murderer Erin Patterson launches last-ditch High Court appeal",
+              "url": "https://www.bbc.co.uk/news/articles/ck053e1d3ly1o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC News",
+              "published": "2026-11-27T05:54:38+00:00",
+              "language": "English",
+              "summary": "Erin Patterson is serving life in prison for poisoning her relatives with a toxic mushroom lunch in 2023.",
+              "summary_origin": "feed",
+              "section": "Internazionale",
+              "topic": "Internazionale"
+            },
             {
               "id": "3313601fcee8cd81",
               "title": "Attacco con droni in Kuwait, morti due tecnici italiani",
@@ -18,8 +104,8 @@
               "published": "2026-11-26T23:17:00+00:00",
               "language": "Italiano",
               "author": "Agenzia ANSA",
-              "section": "Attualità",
-              "topic": "Attualità",
+              "section": "Internazionale",
+              "topic": "Internazionale",
               "cluster_id": "0a2fe3142fdf120a",
               "summary": "\"E' stato l'Iran\". Ma Teheran sente Tajani e nega, 'pronti ad inchiesta congiunta' (ANSA)",
               "summary_origin": "publisher_metadata"
@@ -30,9 +116,9 @@
               "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-27-novembre_119472715-202602k.shtml",
               "source": "TGcom24",
               "published": "2026-11-27T05:28:00+00:00",
-              "section": "Attualità",
-              "topic": "Attualità",
-              "summary": "\"Putin vuole vedere la fine della guerra\", così il presidente Usa, Donald Trump, in riferimento al conflitto in Ucraina",
+              "section": "Internazionale",
+              "topic": "Internazionale",
+              "summary": "Guerra Russia-Ucraina: Zelensky difende l'attacco in Libia, Trump sente il segretario Nato Rutte, 45 droni abbattuti in Russia.",
               "summary_origin": "publisher_metadata"
             },
             {
@@ -44,8 +130,22 @@
               "language": "Italiano",
               "summary": "L’allarme della Farnesina ma per ora nessun ordine di lasciare il Paese. Irritazione con gli europei del Nord per il blocco della missione",
               "summary_origin": "feed",
-              "section": "Attualità",
-              "topic": "Attualità"
+              "section": "Internazionale",
+              "topic": "Internazionale"
+            },
+            {
+              "id": "4c8389d7c402fae0",
+              "title": "Kuwait, la cautela del governo verso l’Iran. Ma si studia la rimodulazione delle missioni",
+              "url": "https://www.ilmessaggero.it/politica/kuwait_governo_meloni_missioni_italiane_cosa_succede_ora-9915276.html",
+              "source": "Il Messaggero",
+              "published": "2026-11-26T23:08:53+00:00",
+              "language": "Italiano",
+              "author": "Francesco Bechis",
+              "section": "Internazionale",
+              "topic": "Internazionale",
+              "cluster_id": "4c8389d7c402fae0",
+              "summary": "Gli accertamenti sui frammenti del drone confermano la provenienza iraniana, forse partito dall’Iraq. Da settembre cento militari in meno nella “Task force Arabia”",
+              "summary_origin": "publisher_metadata"
             }
           ]
         },
@@ -65,15 +165,30 @@
               "topic": "Vaticano"
             },
             {
-              "id": "8dd37ff40b23defa",
-              "title": "Mattarella: \"Raccogliere l'allarme del Papa sul ritorno della barbarie nei rapporti internazionali\"",
-              "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUXRYRE5ENThvbkQ3NnpudjJfdzZMZ2FuTlVoTmJkdG95eWo3OThYSENNdW5xSlVjQ2lBdFJZZkpqZldWRWlfNlVuT0poRl96UjZ2VmdIbUhfR3g4M3BleFVMQVRIRWNEY0Rqb0V0WnBUTlFHZUlibXdqM0kzanpRbnY1dk9EUThLNmgwc3J5UzZPZEloMnlrUUw0VU41R09EVThxcW1oSzQ0M1ZmeFB3bE8zZmpEa25IVjBfQWRWUjhQMTJLeXoxX210aVktR1Y4Y3l2UlZEMmJEX1kzeGZYd0VEWGJzRk1hbFFNWnJ0dw?oc=5",
+              "id": "ac7a4b84a77b8b88",
+              "title": "All the Pope’s women. And not everyone in the Church hierarchy is happy",
+              "url": "https://www.repubblica.it/en/europe/news/2026/11/26/news/pope_leo_xiv_women_vatican_leadership-425752305/",
               "source": "la Repubblica",
-              "published": "2026-11-26T11:20:00+00:00",
+              "published": "2026-11-27T00:00:00+00:00",
               "language": "Italiano",
+              "summary": "Building on the extending Francis’s reforms, Prevost is appointing nuns and laywomen to positions once reserved for bishops and cardinals. It is a choice that divides the Church and has its roots in his experience as a missionary in Peru",
+              "summary_origin": "feed",
+              "section": "Vaticano",
+              "topic": "Vaticano"
+            },
+            {
+              "id": "25e6640255842422",
+              "title": "L'inaugurazione dell'anno accademico della Pontificia Università Lateranense con il presidente Mattarella",
+              "url": "https://video.corriere.it/l-inaugurazione-dell-anno-accademico-della-pontificia-universita-lateranense-con-il-presidente-mattarella/fb654e8f-e470-4cc4-a625-45c8495b0xlk",
+              "source": "Corriere della Sera",
+              "published": "2026-11-26T09:59:19+00:00",
+              "language": "Italiano",
+              "author": "Corriere TV",
               "section": "Vaticano",
               "topic": "Vaticano",
-              "cluster_id": "29dca166d4d07920"
+              "cluster_id": "01dc84ef67ec0152",
+              "summary": "Alla presenza del segretario Vaticano di Stato Parolin",
+              "summary_origin": "publisher_metadata"
             },
             {
               "id": "1b8c00750c4fa4fd",
@@ -88,12 +203,109 @@
               "cluster_id": "1b8c00750c4fa4fd",
               "summary": "Stamattina Leone XIV ha incontrato in Vaticano i partecipanti all'Assemblea congiunta dell'Unione superiori generali e dell'Unione internazionale delle superiore generali. «La vocazione religiosa è una delle profezie più significative e…",
               "summary_origin": "publisher_metadata"
+            },
+            {
+              "id": "b6d75318ba73ca59",
+              "title": "Papa Francesco, che cosa ci rivela davvero il suo Diario personale",
+              "url": "https://www.famigliacristiana.it/papa/papa-francesco-diario-spiritualita-lt42xuqy",
+              "source": "Famiglia Cristiana",
+              "published": "2026-11-27T00:16:00+00:00",
+              "language": "Italiano",
+              "author": "Don Vincenzo Vitale",
+              "section": "Vaticano",
+              "topic": "Vaticano",
+              "cluster_id": "b6d75318ba73ca59",
+              "summary": "Oltre le rivelazioni sul demonio e sull’inferno, le pagine inedite di Bergoglio raccontano le sue lotte interiori, le crisi spirituali e la profonda spiritualità ignaziana che ha animato il suo pontificato",
+              "summary_origin": "publisher_metadata"
+            }
+          ]
+        },
+        {
+          "title": "Chiesa",
+          "items": [
+            {
+              "id": "27356c0c419b2b0c",
+              "title": "Abusi, la CEI presenta studio su 378 segnalazioni. Zuppi: primo passo, andremo avanti",
+              "url": "https://www.vaticannews.va/it/chiesa/news/2026-11/cei-rapporto-abusi-chiesa-italia-assisi-cardinale-zuppi.html",
+              "source": "Vatican News",
+              "published": "2026-11-27T05:24:36+00:00",
+              "language": "Italiano",
+              "author": "Vatican News",
+              "section": "Chiesa",
+              "topic": "Chiesa",
+              "cluster_id": "27356c0c419b2b0c",
+              "summary": "Ad Assisi, nell’ambito della 83.ma Assemblea generale, la Conferenza Episcopale italiana ha presentato lo studio che offre una analisi dei casi ...",
+              "summary_origin": "publisher_metadata"
+            },
+            {
+              "id": "a00addc6be353434",
+              "title": "Preoccupazione per la scomparsa di un sacerdote cattolico nel nord del Togo",
+              "url": "https://www.avvenire.it/preoccupazione-per-la-scomparsa-di-un-sacerdote-cattolico-nel-nord-del-togo_116364",
+              "source": "Avvenire",
+              "published": "2026-11-26T21:50:00+00:00",
+              "language": "Italiano",
+              "author": "Redazione",
+              "section": "Chiesa",
+              "topic": "Chiesa",
+              "cluster_id": "a00addc6be353434",
+              "summary": "Del prete si sono perse le tracce da mercoledì. L'appello della Chiesa locale",
+              "summary_origin": "publisher_metadata"
+            },
+            {
+              "id": "a5d1a15f2aaa0b15",
+              "title": "Milano: se l’abete di Natale diventa Albero del Dono…",
+              "url": "https://www.agensir.it/territori/2026/11/26/milano-se-labete-di-natale-diventa-albero-del-dono/",
+              "source": "AgenSIR",
+              "published": "2026-11-26T19:24:00+00:00",
+              "language": "Italiano",
+              "summary": "(Milano) “Albero del Dono” o “Albero di Natale”? E allora perché non “Albero del dono di Natale”? A Milano ci si interroga sul nome assegnato all’abete di 26 metri, proveniente dal Trentino (inaugurazione il 4 dicembre), che fa mostra…",
+              "summary_origin": "feed",
+              "section": "Chiesa",
+              "topic": "Chiesa"
+            },
+            {
+              "id": "88caf370af540d4b",
+              "title": "Roma insicura: allarme furti nelle case dei cardinali",
+              "url": "https://www.ilgiornale.it/news/cronaca-nera/roma-insicura-allarme-furti-nelle-case-dei-cardinali/",
+              "source": "Il Giornale",
+              "published": "2026-11-26T11:00:00+00:00",
+              "language": "Italiano",
+              "author": "Nico Spuntoni",
+              "section": "Chiesa",
+              "topic": "Chiesa",
+              "cluster_id": "88caf370af540d4b",
+              "summary": "La scorsa settimana un tentativo di furto nell’abitazione di un cardinale è stato sventato solo grazie al risveglio di un segretario",
+              "summary_origin": "publisher_metadata"
+            },
+            {
+              "id": "d3f9c2ff9d19bde4",
+              "title": "L’arcivescovo di Buenos Aires: profetica la presenza della Chiesa nelle carceri",
+              "url": "https://www.vaticannews.va/it/vaticano/news/2026-11/carcere-arcivescovo-garcia-cuerva-servizio-pastorale-carceraria.html",
+              "source": "Vatican News",
+              "published": "2026-11-26T16:05:00+00:00",
+              "language": "Italiano",
+              "summary": "Monsignor García Cuerva inizia una nuova missione come coordinatore del Servizio di animazione della pastorale penitenziaria che, istituito ieri dal Papa, ha l’obiettivo di promuovere la dignità di ogni persona umana. Una solida…",
+              "summary_origin": "feed",
+              "section": "Chiesa",
+              "topic": "Chiesa"
             }
           ]
         },
         {
           "title": "Società",
           "items": [
+            {
+              "id": "965af9aa75a498f7",
+              "title": "Il prete della Madrid operaia: 'La paura di Vox mobilita gli immigrati'",
+              "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/26/il-prete-della-madrid-operaia-la-paura-di-vox-mobilita-gli-immigrati_c491785f-d81b-491e-8b91-151ee62f8cd0.html",
+              "source": "ANSA",
+              "published": "2026-11-26T20:36:56+00:00",
+              "language": "Italiano",
+              "summary": "La 'cintura rossa' della capitale alla prova del voto, 'ma dal Psoe anche contraddizioni'",
+              "summary_origin": "feed",
+              "section": "Società",
+              "topic": "Società"
+            },
             {
               "id": "79af994a1c81cc7a",
               "title": "Pensioni, rivalutazione piena fino a tremila euro: così cambia l'assegno con la Manovra 2027",
@@ -109,30 +321,101 @@
               "summary_origin": "publisher_metadata"
             },
             {
-              "id": "197c980c669bae52",
-              "title": "Se la strage dei bambini ucraini non indigna",
-              "url": "https://www.repubblica.it/commenti/2026/11/27/news/favola_dei_buoni_aiuti_economici_ucraina_cuzzocrea-425752842/",
+              "id": "19166ef2651c5ae4",
+              "title": "Vino, formaggi, olio: quando imparare a degustare serve a trovare un lavoro",
+              "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMFk4bEZ0dFVqSXktSDZwZHpiNjJWQzJTUS01andVTUpyVVRVTlpGNGw3N2t6d3A5YV93QUhUXzZ3WEhjbWpUWWptal93STVHcTJabXhEal9zMUhHMUZRd0YwT19jaEN3T19nZklrRnNyTFVabV9zUEx4SVBlNzh4dXVSNWdEcXBBVU1UODFuYkZSWG1jREx6X3Y3WnZGNzM5Vm84M2FiYWxYdkR0Z2dUWHVZbWhiVnNCUG9OcllYUnpDdEk?oc=5",
               "source": "la Repubblica",
               "published": "2026-11-26T23:01:00+00:00",
               "language": "Italiano",
-              "summary": "",
-              "summary_origin": "",
+              "section": "Società",
+              "topic": "Società",
+              "cluster_id": "19166ef2651c5ae4"
+            },
+            {
+              "id": "8efb0b91319b6c2e",
+              "title": "Nepal, tre mesi dopo l’alluvione i bambini al centro dell’emergenza",
+              "url": "https://www.vaticannews.va/it/mondo/news/2026-11/nepal-tre-mesi-dopo-l-alluvione-i-bambini-al-centro-dell-emerge.html",
+              "source": "Vatican News",
+              "published": "2026-11-26T14:06:00+00:00",
+              "language": "Italiano",
+              "summary": "Avvicinandosi sempre di più al periodo invernale la situazione rischia di peggiorare ulteriormente, soprattutto per i minori. L'appello di Unicef Leggi Tutto",
+              "summary_origin": "feed",
               "section": "Società",
               "topic": "Società"
             },
             {
-              "id": "ab9ad1b68e1cb374",
-              "title": "Fondazione Amplifon porta anziani e giovani nel viaggio di Ulisse",
-              "url": "https://www.ansa.it/ansacom/notizie/canale_saluteebenessere/Amplifon/2026/11/26/fondazione-amplifon-porta-anziani-e-giovani-nel-viaggio-di-ulisse_d20c06e4-40b9-4e32-9595-160d3e73c094.html",
-              "source": "ANSA",
-              "published": "2026-11-26T18:11:30+00:00",
-              "language": "Italiano",
-              "author": "Agenzia ANSA",
+              "id": "5f9a5836174fb8bf8934",
+              "title": "Milano, va a scuola con una pistola: arrestato 22enne",
+              "url": "https://www.tgcom24.mediaset.it/cronaca/milano-scuola-pistola-arrestato-22enne_119454687-202602k.shtml",
+              "source": "TGcom24",
+              "published": "2026-11-26T17:35:00+00:00",
               "section": "Società",
               "topic": "Società",
-              "cluster_id": "a644174da3619c63",
-              "summary": "Con BookCity lettura condivisa alla Comunità di Sant'Egidio a Milano (ANSA)",
+              "summary": "A Milano, nella mattinata di giovedì 26 novembre, un 22enne si è presentato davanti all'istituto superiore che frequenta armato di una pistola calibro 22.",
               "summary_origin": "publisher_metadata"
+            }
+          ]
+        },
+        {
+          "title": "Cultura e idee",
+          "items": [
+            {
+              "id": "f86bc65ce5d04eb2",
+              "title": "Se Augias è stato amato anche dai credenti è uno stimolo per la cultura cattolica",
+              "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbDVlckd2MU96UVlIWXByNlF2MlcyYU1VS2JkQk4yRW00eU5EbFF1S0xERldwT1N6Q2JMcFBWQWtiRFc0UHdSRGRpMUtfVDVWcS1NX0xNZ0FkS0FNZlFTUHU0UjlVaHctRTJBS2N1OHg1NVZYZjFFSnlHTm1qYk9RVllJVkNONi1ESFNMNEpHbXZLSnlsTGFYa3VSeXNoM3FXMGd4cFVuMy0xWHE4OFpaZDRSUlpHMGFnUWlpVkFGSTJZamNwZy1kRVN2NW56R1c0b3hDR3B3?oc=5",
+              "source": "Avvenire",
+              "published": "2026-11-27T05:00:00+00:00",
+              "language": "Italiano",
+              "section": "Cultura e idee",
+              "topic": "Cultura e idee",
+              "cluster_id": "f86bc65ce5d04eb2"
+            },
+            {
+              "id": "55762f1d96bb397b",
+              "title": "Neri Marcoré alle Muse di Ancona con 'Gaber - Mi fa male il Mondo'",
+              "url": "https://www.ansa.it/sito/notizie/cultura/teatro/2026/11/26/neri-marcore-alle-muse-di-ancona-con-gaber-mi-fa-male-il-mondo_307f34b5-e666-4f71-994d-1adbadf85ef0.html",
+              "source": "ANSA",
+              "published": "2026-11-26T19:32:42+00:00",
+              "language": "Italiano",
+              "summary": "Dal 26 al 29 novembre. Il 27 l'incontro in teatro con il pubblico",
+              "summary_origin": "feed",
+              "section": "Cultura e idee",
+              "topic": "Cultura e idee"
+            },
+            {
+              "id": "4e48bfcbca587e6e",
+              "title": "Con Repubblica in edicola la collana di libri di Corrado Augias",
+              "url": "https://www.repubblica.it/cultura/2026/11/26/news/collana_libri_corrado_augias_edicola-425753172/",
+              "source": "la Repubblica",
+              "published": "2026-11-26T19:18:28+00:00",
+              "language": "Italiano",
+              "summary": "Dal 27 novembre con “Repubblica” le opere del giornalista appena scomparso. Un viaggio in dodici titoli che attraversa impegno civile e passioni. La prima uscita è il saggio autobiografico “La vita s’impara”",
+              "summary_origin": "feed",
+              "section": "Cultura e idee",
+              "topic": "Cultura e idee"
+            },
+            {
+              "id": "c8119305fe311efa",
+              "title": "\"Il romanzo di Gesù\", sulle tracce di un Dio selvatico",
+              "url": "https://www.vaticannews.va/it/chiesa/news/2026-11/recensione-romanzo-di-gesu-antonio-spadaro.html",
+              "source": "Vatican News",
+              "published": "2026-11-26T15:30:00+00:00",
+              "language": "Italiano",
+              "summary": "Nel suo nuovo libro, pubblicato da Feltrinelli, il gesuita Antonio Spadaro propone una lettura del Vangelo di Marco che ne restituisce l’originaria forza narrativa. Un esercizio di ascolto e di immaginazione, una scuola dello sguardo…",
+              "summary_origin": "feed",
+              "section": "Cultura e idee",
+              "topic": "Cultura e idee"
+            },
+            {
+              "id": "4fb95ec373740c07",
+              "title": "La Ferrari di Schumacher tra i caccia: viaggio nel Museo dell'Aeronautica Militare",
+              "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS2Q5WUhaLXVQcFZsT1RWMkhmQmNLQnVpZmN6NU1CY3U0RnNfX2R6dHdTUlFFcDRGZkVxQlNkSkNqTFVKc09xd05FUDQ0Z0lvSHc0SGVBMjNtMXMwN01wNmpHR3JuSVFxc2xtUV82VjhuTVgyVFM1bE5GcTdiZ2NkWDFlU2pwODd1MTl4bXZuUzA5dUprTEN5UmViSHJUcld6azhaRzR4dGlGeEVyQ1gwMFVNUDJPNHVsREQ2T2pON0xqVl9FYWVRX2M4aGtNQdIByAFBVV95cUxPWFNvbXpBOVpVa1NyZkFWZ2dKU3pWZnNsY2xrODlRbGk5VDRrQmQwWmVma0ZhUE02VFJBeVRhZGQ1NE1VSUF2UkxtaVRkWnFuQXdaa2Y2ZThIQkt5WHJRRUdhR3ZOZVYyR1ZlbGxJWGZ1TzdqZVJoR2xjTldLZ04zMmNLNmhtSVhqem4xXzFyaEJKM3JONVB5Q2dxRTRjVEVQSzlMaTdyd2RGSnBYT0JHSEdUdEZsYVZCNXU3TlFkZXFJdF9fNERuQQ?oc=5",
+              "source": "Il Messaggero",
+              "published": "2026-11-26T15:25:51+00:00",
+              "language": "Italiano",
+              "section": "Cultura e idee",
+              "topic": "Cultura e idee",
+              "cluster_id": "4fb95ec373740c07"
             }
           ]
         }
@@ -151,10 +434,39 @@
           "ok": true
         },
         {
+          "source": "Corriere della Sera",
+          "ok": true
+        },
+        {
+          "source": "La Stampa",
+          "ok": true
+        },
+        {
+          "source": "ANSA",
+          "ok": true
+        },
+        {
+          "source": "ANSA",
+          "ok": true
+        },
+        {
+          "source": "AgenSIR",
+          "ok": true
+        },
+        {
           "source": "BBC News",
           "ok": true
+        },
+        {
+          "source": "BBC News",
+          "ok": true
+        },
+        {
+          "source": "The Guardian",
+          "ok": true
         }
-      ]
+      ],
+      "pdf_url": "rassegne/rassegna-2026-11-27.pdf"
     }
   ]
 }

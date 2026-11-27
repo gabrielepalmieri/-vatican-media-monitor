@@ -18,12 +18,55 @@ from zoneinfo import ZoneInfo
 ROOT = Path(__file__).resolve().parent
 ROME = ZoneInfo('Europe/Rome')
 OUT = ROOT / 'digest.json'
-SECTIONS = ('Attualità', 'Vaticano', 'Società')
+SECTIONS = ('Attualità', 'Internazionale', 'Vaticano', 'Chiesa', 'Società', 'Cultura e idee')
+FORMAT_VERSION = 2
+ARTICLES_PER_SECTION = 5
+PUBLISHERS = {
+    'ANSA': ('ansa','agenzia ansa','ansa.it'),
+    'Corriere della Sera': ('corriere della sera','corriere.it'),
+    'la Repubblica': ('la repubblica','repubblica.it'),
+    'La Stampa': ('la stampa','lastampa.it'),
+    'Il Sole 24 Ore': ('il sole 24 ore','ilsole24ore.com'),
+    'Avvenire': ('avvenire','avvenire.it'),
+    'Il Messaggero': ('il messaggero','ilmessaggero.it'),
+    'Il Giornale': ('il giornale','ilgiornale.it'),
+    'Il Tempo': ('il tempo','iltempo.it'),
+    'Adnkronos': ('adnkronos','adnkronos.com'),
+    'AgenSIR': ('agensir','agensir.it','sir','agenzia sir'),
+    'Vatican News': ('vatican news','vaticannews.va','radio vaticana'),
+    'Famiglia Cristiana': ('famiglia cristiana','famigliacristiana.it'),
+    'Reuters': ('reuters','reuters.com'),
+    'Associated Press': ('associated press','ap news','apnews.com','ap'),
+    'AFP': ('afp','agence france-presse'),
+    'BBC News': ('bbc news','bbc','bbc.com','bbc.co.uk'),
+    'The Guardian': ('the guardian','theguardian.com'),
+    'The New York Times': ('the new york times','nytimes.com'),
+    'The Washington Post': ('the washington post','washingtonpost.com'),
+    'Financial Times': ('financial times','ft.com'),
+    'La Croix': ('la croix','la croix international','la-croix.com'),
+    'I.MEDIA': ('i.media','imedia.news'),
+    'OSV News': ('osv news','our sunday visitor'),
+    'The Pillar': ('the pillar','pillarcatholic.com'),
+    'TGcom24': ('tgcom24',),
+}
+
+def publisher_name(source):
+    value = (source or '').casefold().strip()
+    for name, aliases in PUBLISHERS.items():
+        if value in aliases: return name
+    return None
 FEEDS = (
     ('ANSA', 'Italiano', 'https://www.ansa.it/sito/notizie/topnews/topnews_rss.xml'),
     ('la Repubblica', 'Italiano', 'https://www.repubblica.it/rss/homepage/rss2.0.xml'),
     ('Vatican News', 'Italiano', 'https://www.vaticannews.va/it.rss.xml'),
-    ('BBC News', 'English', 'https://feeds.bbci.co.uk/news/world/rss.xml'),
+    ('Corriere della Sera', 'Italiano', 'https://www.corriere.it/rss/homepage.xml'),
+    ('La Stampa', 'Italiano', 'https://www.lastampa.it/rss/copertina.xml'),
+    ('ANSA', 'Italiano', 'https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml', 'Internazionale'),
+    ('ANSA', 'Italiano', 'https://www.ansa.it/sito/notizie/cultura/cultura_rss.xml', 'Cultura e idee'),
+    ('AgenSIR', 'Italiano', 'https://www.agensir.it/feed/', 'Chiesa'),
+    ('BBC News', 'English', 'https://feeds.bbci.co.uk/news/world/rss.xml', 'Internazionale'),
+    ('BBC News', 'English', 'https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml', 'Cultura e idee'),
+    ('The Guardian', 'English', 'https://www.theguardian.com/world/rss', 'Internazionale'),
 )
 
 
@@ -53,25 +96,34 @@ def section_for(item):
     title = normalized(item.get('title', ''))
     if item.get('kind') == 'social':
         return None
-    if re.search(r'\b(?:vatican\w*|vatikan\w*|holy see|santa sede|pontific\w*|pope|papst|pape|prevost|leone xiv|leo xiv|leon xiv|(?:il|del|al|el|do) papa|papa (?:leone|leon|francesco)|cardinal\w*|conclave|angelus|rupnik)\b', title):
-        return 'Vaticano'
-    if re.search(r'\b(?:calcio|serie a|champions|europa league|formula 1|motogp|tennis|juventus|inter milan|sinner|belen|gossip|oroscopo|lotto|superenalotto|black friday|sconti|pagell\w*|highlights|football|premier league)\b', title):
+    hint = item.get('digest_hint')
+    if re.search(r'\b(?:oroscopo|superenalotto|black friday|sconti|calciomercato|gossip|highlights|serie a|champions league|formula 1|motogp|tennis|basket|pallacanestro|pallavolo|rugby|juve|juventus|sinner|football|premier league)\b', title):
         return None
-    if re.search(r'\b(?:scuol\w*|student\w*|istruzione|universit\w*|sanita|salute|ospedal\w*|medic\w*|pover\w*|migrant\w*|immigra\w*|rifugiat\w*|diritt\w*|clima\w*|ambien\w*|famigli\w*|giovan\w*|bambin\w*|disabili\w*|volontar\w*|solidar\w*|lavor\w*|pension\w*|violenza sulle donne|femminicid\w*|health|school\w*|education|poverty|refugee\w*|climate|children|rights|homeless\w*)\b', title):
+    if hint == 'Cultura e idee' or re.search(r'\b(?:editorial\w*|filosof\w*|teolog\w*|saggio|saggi|letteratura|scrittor\w*|romanzo|romanzi|mostra|museo|musei|poesia|cultura|culturale|culturali|cinema|teatro|libri|libro|arte|artista|artisti|orchestra|essay|literature|museum\w*|philosoph\w*)\b', title):
+        return 'Cultura e idee'
+    if re.search(r'\b(?:vatican\w*|vatikan\w*|holy see|santa sede|pontific\w*|pope|papst|pape|prevost|leone xiv|leo xiv|leon xiv|(?:il|del|al|el|do) papa|papa (?:leone|leon|francesco)|conclave|angelus|curia|parolin)\b', title):
+        return 'Vaticano'
+    if hint == 'Chiesa' or re.search(r'\b(?:chiesa|chiese|church\w*|catholic\w*|cattolic\w*|vescov\w*|bishop\w*|dioces\w*|parroc\w*|sacerdot\w*|cardinal\w*|missionar\w*|sinod\w*|sinodale|religios\w*|caritas|ecumen\w*|cristian\w*|christian\w*|cei|rupnik)\b', title):
+        return 'Chiesa'
+    if re.search(r'\b(?:guerra|tregua|ucrain\w*|russia|putin|zelensk\w*|trump|gaza|israel\w*|hamas|libano|iran|teheran|kuwait|cina|shenzhen|siria|sudan|congo|libia|yemen|cuba|venezuela|argentina|peru|uruguay|brasile|colombia|messico|diplom\w*|unione europea|onu|nato|ceasefire|war|ukraine|china|russia|germany|france|united states|united nations|g7|g20)\b', title):
+        return 'Internazionale'
+    if re.search(r'\b(?:scuol\w*|student\w*|istruzione|universit\w*|sanita|salute|ospedal\w*|medic\w*|pover\w*|migrant\w*|immigra\w*|rifugiat\w*|diritt\w*|clima\w*|ambien\w*|famiglie|anzian\w*|giovan\w*|bambin\w*|disabili\w*|volontar\w*|solidar\w*|lavor\w*|pension\w*|violenza sulle donne|femminicid\w*|health|school\w*|education|poverty|refugee\w*|climate|children|rights|homeless\w*)\b', title):
         return 'Società'
-    if re.search(r'\b(?:governo|parlament\w*|ministr\w*|premier|president\w*|elezion\w*|voto|manovra|econom\w*|pil|inflazione|guerra|pace|tregua|attacc\w*|ucrain\w*|russia|putin|zelensk\w*|trump|gaza|israel\w*|hamas|libano|iran|cina|vertice|diplom\w*|europa|unione europea|onu|nato|ceasefire|war|election\w*|government|minister|politic\w*|ukraine|china|summit)\b', title):
+    if hint == 'Internazionale':
+        return 'Internazionale'
+    if re.search(r'\b(?:governo|parlament\w*|ministr\w*|premier|president\w*|elezion\w*|voto|manovra|econom\w*|pil|inflazione|giustizia|magistrat\w*|meloni|salvini|mattarella|politic\w*|election\w*|government|minister)\b', title):
         return 'Attualità'
     return None
 
 
 def read_feed(config):
-    source, language, url = config
+    source, language, url, *hints = config
     try:
         req = Request(url, headers={'User-Agent': 'VaticanMediaMonitor/1.0', 'Accept': 'application/rss+xml,application/xml'})
         with urlopen(req, timeout=12) as response:
             root = ET.fromstring(response.read(3_000_000))
         items = []
-        for entry in root.findall('.//item')[:80]:
+        for entry in root.findall('.//item')[:150]:
             title, link = clean(entry.findtext('title')), clean(entry.findtext('link'))
             published = parse_date(entry.findtext('pubDate'))
             if not title or urlparse(link).scheme not in {'http', 'https'} or not published:
@@ -83,7 +135,7 @@ def read_feed(config):
                 description = description[:237].rsplit(' ', 1)[0] + '…'
             items.append({'id': hashlib.sha1(link.encode()).hexdigest()[:16], 'title': title, 'url': link, 'source': source,
                           'language': language, 'published': published.isoformat(), 'kind': 'news', 'summary': description,
-                          'summary_origin': 'feed' if description else ''})
+                          'summary_origin': 'feed' if description else '', 'digest_hint': hints[0] if hints else ''})
         return items, {'source': source, 'ok': bool(items)}
     except Exception as error:
         print(f'Digest feed {source}: {error}', flush=True)
@@ -132,14 +184,15 @@ def select_sections(items, cutoff):
     for item in items:
         date = parse_date(item.get('published'))
         section = section_for(item)
-        if not section or not date or not cutoff-timedelta(hours=24) <= date <= cutoff:
+        publisher = publisher_name(item.get('source'))
+        if not publisher or not section or not date or not cutoff-timedelta(hours=24) <= date <= cutoff:
             continue
         if not item.get('url') or not item.get('source'):
             continue
         link = item.get('article_url') or item['url']
         if urlparse(link).scheme not in {'http', 'https'}:
             continue
-        candidates.append({**item, 'url': link, 'section': section, 'topic': section, '_date': date})
+        candidates.append({**item, 'source':publisher, 'url': link, 'section': section, 'topic': section, '_date': date})
 
     def score(item):
         age = (cutoff-item['_date']).total_seconds()/3600
@@ -151,11 +204,15 @@ def select_sections(items, cutoff):
 
     source_counts = {name: {} for name in SECTIONS}
     candidates.sort(key=score, reverse=True)
+    international = next((x for x in candidates if x['section']=='Internazionale' and x['source'] in {'Reuters','Associated Press','BBC News','The Guardian','Financial Times','The New York Times','The Washington Post'}),None)
+    if international:
+        candidates.remove(international)
+        candidates.insert(0,international)
     for source_cap in (1, 2, 3):
         for item in candidates:
             section = item['section']
             bucket = groups[section]
-            if len(bucket) >= 3 or item['url'] in seen_urls:
+            if len(bucket) >= ARTICLES_PER_SECTION or item['url'] in seen_urls:
                 continue
             if source_counts[section].get(item['source'], 0) >= source_cap:
                 continue
@@ -164,8 +221,7 @@ def select_sections(items, cutoff):
             for old in [x for group in groups.values() for x in group]:
                 old_words = words(old['title'])
                 overlap = len(current_words & old_words)
-                same_leader = any(name in current_words and name in old_words for name in {'mattarella','meloni','trump','putin','zelensky','netanyahu'})
-                if normalized(item['title']) == normalized(old['title']) or (item.get('cluster_id') and item.get('cluster_id') == old.get('cluster_id')) or (overlap >= 3 and overlap/max(1, min(len(current_words), len(old_words))) >= .55) or same_leader:
+                if normalized(item['title']) == normalized(old['title']) or (item.get('cluster_id') and item.get('cluster_id') == old.get('cluster_id')) or (overlap >= 3 and overlap/max(1, min(len(current_words), len(old_words))) >= .55):
                     duplicate = True
                     break
             if duplicate:
@@ -188,7 +244,7 @@ def main(now=None):
         data = json.loads(OUT.read_text(encoding='utf-8'))
     except (OSError, ValueError):
         data = {'editions': []}
-    if any(e.get('date') == target.isoformat() for e in data['editions']):
+    if any(e.get('date') == target.isoformat() and e.get('format_version') == FORMAT_VERSION and e.get('pdf_url') and (ROOT/e['pdf_url']).is_file() for e in data['editions']):
         print(f'Digest {target}: edition already prepared', flush=True)
         return
     available = datetime.combine(target, time(7), tzinfo=ROME)
@@ -200,18 +256,20 @@ def main(now=None):
             items.extend(document.get('items', []))
         except (OSError, ValueError):
             pass
-    with ThreadPoolExecutor(max_workers=4) as pool:
+    with ThreadPoolExecutor(max_workers=6) as pool:
         for fresh, status in pool.map(read_feed, FEEDS):
             items = fresh + items
             feed_status.append(status)
     sections = select_sections(items, cutoff)
     if not any(section['items'] for section in sections):
         raise RuntimeError('No recent articles: previous editions retained')
-    with ThreadPoolExecutor(max_workers=4) as pool:
+    with ThreadPoolExecutor(max_workers=6) as pool:
         list(pool.map(add_excerpt, [item for section in sections for item in section['items']]))
-    edition = {'date': target.isoformat(), 'available_at': available.isoformat(), 'prepared_at': now.isoformat(),
+    edition = {'format_version':FORMAT_VERSION, 'date': target.isoformat(), 'available_at': available.isoformat(), 'prepared_at': now.isoformat(),
                'coverage_from': (cutoff-timedelta(hours=24)).isoformat(), 'coverage_to': cutoff.isoformat(),
                'sections': sections, 'feeds': feed_status}
+    from render_digest import write_pdf
+    write_pdf(edition, ROOT)
     data['editions'] = sorted([e for e in data['editions'] if e['date'] != target.isoformat()]+[edition], key=lambda e:e['date'], reverse=True)[:3]
     OUT.write_text(json.dumps(data, ensure_ascii=False, indent=2)+'\n', encoding='utf-8')
     print(f'Digest {target}: {sum(len(s["items"]) for s in sections)} articles', flush=True)
