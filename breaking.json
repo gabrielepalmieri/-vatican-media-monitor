@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-27T18:45:32.819939+00:00",
+  "updated_at": "2026-11-27T18:50:30.022805+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-27T18:45:32.819939+00:00"
+      "checked_at": "2026-11-27T18:50:30.022805+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-27T18:45:32.819939+00:00"
+      "checked_at": "2026-11-27T18:50:30.022805+00:00"
     }
   },
   "items": [
+    {
+      "id": "8f6ebf49fd9e9ae840b0",
+      "source": "BBC News",
+      "title": "Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+      "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T18:49:53+00:00"
+    },
     {
       "id": "49eb762fc47ef17823df",
       "source": "BBC News",
@@ -80,13 +87,6 @@
       "title": "Lecce, cerca di entrare in casa passando dal cornicione: 46enne cade e muore",
       "url": "https://www.tgcom24.mediaset.it/cronaca/lecce-cade-sesto-piano-morto_119489046-202602k.shtml",
       "published": "2026-11-27T15:30:00+00:00"
-    },
-    {
-      "id": "8f6ebf49fd9e9ae840b0",
-      "source": "BBC News",
-      "title": "Marching bands scramble to cover costs after Thanksgiving parade rearranged",
-      "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T15:15:19+00:00"
     },
     {
       "id": "920c7a1b6d7e592c7cb6",
