@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-27T06:20:37.815024+00:00",
+  "updated_at": "2026-11-27T06:25:22.589730+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-27T06:20:37.815024+00:00"
+      "checked_at": "2026-11-27T06:25:22.589730+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-27T06:20:37.815024+00:00"
+      "checked_at": "2026-11-27T06:25:22.589730+00:00"
     }
   },
   "items": [
+    {
+      "id": "124074779624808b636c",
+      "source": "TGcom24",
+      "title": "Trieste, uomo ucciso dal figlio: indaga la polizia",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/trieste-figlio-uccide-padre_119472952-202602k.shtml",
+      "published": "2026-11-27T06:20:00+00:00"
+    },
     {
       "id": "9e2834b5ac1b8390fb5a",
       "source": "TGcom24",
@@ -290,13 +297,6 @@
       "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
       "url": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-26T10:25:51+00:00"
-    },
-    {
-      "id": "65039dd7a83c97852171",
-      "source": "TGcom24",
-      "title": "Meloni: \"Niente tagli nel prossimo bilancio Ue, salvaguardare Pac e Coesione\"",
-      "url": "https://www.tgcom24.mediaset.it/politica/vertice-ue-meloni-no-tagli-bilancio-pac-coesione_119440533-202602k.shtml",
-      "published": "2026-11-26T10:22:00+00:00"
     },
     {
       "id": "38e5a32e1ae48512b969",
