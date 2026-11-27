@@ -35,6 +35,24 @@ class MorningEditionTests(unittest.TestCase):
         items=[{'id':'x','title':'Governo, novità sulla manovra','source':'Benzinga','url':'https://example.com/a','published':'2026-11-27T05:00:00+00:00','kind':'news'}]
         self.assertFalse(any(s['items'] for s in d.select_sections(items,now)))
 
+    def test_reviewed_translation_preserves_original_and_link(self):
+        url='https://www.repubblica.it/en/europe/news/2026/11/26/news/pope_leo_xiv_women_vatican_leadership-425752305/'
+        original={'title':'All the Pope’s women. And not everyone in the Church hierarchy is happy','summary':'Original English summary','url':url,'language':'Italiano'}
+        localized=d.localized_item(original)
+        self.assertEqual(localized['url'],url)
+        self.assertEqual(localized['language'],'Italiano')
+        self.assertEqual(localized['original_title'],original['title'])
+        self.assertTrue(localized['title'].startswith('Tutte le donne'))
+        self.assertTrue(localized['translation_note'])
+        self.assertEqual(d.localized_item(localized),localized)
+
+    def test_untranslated_english_edition_is_not_tagged_italian(self):
+        item={'title':'New English headline','url':'https://www.repubblica.it/en/europe/news/another-article/','language':'Italiano'}
+        localized=d.localized_item(item)
+        self.assertEqual(localized['language'],'English')
+        self.assertTrue(localized['edition_note'])
+        self.assertFalse(localized.get('digest_exclude',False))
+
     def test_prepared_edition_is_not_replaced_later(self):
         with tempfile.TemporaryDirectory() as tmp:
             path=Path(tmp)/'digest.json'

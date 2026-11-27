@@ -18,6 +18,7 @@ from zoneinfo import ZoneInfo
 ROOT = Path(__file__).resolve().parent
 ROME = ZoneInfo('Europe/Rome')
 OUT = ROOT / 'digest.json'
+TRANSLATIONS = json.loads((ROOT/'digest_translations.json').read_text(encoding='utf-8')) if (ROOT/'digest_translations.json').exists() else {}
 SECTIONS = ('Attualità', 'Internazionale', 'Vaticano', 'Chiesa', 'Società', 'Cultura e idee')
 FORMAT_VERSION = 2
 ARTICLES_PER_SECTION = 5
@@ -90,6 +91,25 @@ def parse_date(value):
         except (ValueError, TypeError):
             return None
     return date.astimezone(timezone.utc) if date and date.tzinfo else None
+
+
+def localized_item(item):
+    result = dict(item)
+    link = item.get('article_url') or item.get('url', '')
+    parsed = urlparse(link)
+    key = parsed._replace(query='', fragment='').geturl()
+    translation = TRANSLATIONS.get(key)
+    if translation:
+        result.setdefault('original_title', item['title'])
+        if item.get('summary'):
+            result.setdefault('original_summary', item['summary'])
+        result.update(translation)
+        result['language'] = 'Italiano'
+    elif ((parsed.hostname or '') == 'repubblica.it' or (parsed.hostname or '').endswith('.repubblica.it')) and parsed.path.startswith('/en/'):
+        # The newspaper's English edition is not an Italian-language feed item.
+        result['language'] = 'English'
+        result['edition_note'] = 'Edizione inglese di Repubblica.'
+    return result
 
 
 def section_for(item):
@@ -182,6 +202,7 @@ def select_sections(items, cutoff):
     groups = {name: [] for name in SECTIONS}
     seen_urls, candidates = set(), []
     for item in items:
+        item = localized_item(item)
         date = parse_date(item.get('published'))
         section = section_for(item)
         publisher = publisher_name(item.get('source'))
@@ -226,7 +247,7 @@ def select_sections(items, cutoff):
                     break
             if duplicate:
                 continue
-            bucket.append({k: item[k] for k in ('id','title','url','source','published','language','author','summary','summary_origin','section','topic','cluster_id') if k in item})
+            bucket.append({k: item[k] for k in ('id','title','url','source','published','language','author','summary','summary_origin','section','topic','cluster_id','original_title','original_summary','original_language','translation_note','edition_note') if k in item})
             seen_urls.add(item['url'])
             source_counts[section][item['source']] = source_counts[section].get(item['source'], 0)+1
     return [{'title': name, 'items': groups[name]} for name in SECTIONS]
@@ -244,8 +265,20 @@ def main(now=None):
         data = json.loads(OUT.read_text(encoding='utf-8'))
     except (OSError, ValueError):
         data = {'editions': []}
-    if any(e.get('date') == target.isoformat() and e.get('format_version') == FORMAT_VERSION and e.get('pdf_url') and (ROOT/e['pdf_url']).is_file() for e in data['editions']):
-        print(f'Digest {target}: edition already prepared', flush=True)
+    existing = next((e for e in data['editions'] if e.get('date') == target.isoformat() and e.get('format_version') == FORMAT_VERSION and e.get('pdf_url') and (ROOT/e['pdf_url']).is_file()), None)
+    if existing:
+        changed = False
+        for section in existing.get('sections', []):
+            for item in section['items']:
+                updated = localized_item(item)
+                if updated.get('translation_note') and updated != item:
+                    item.update(updated)
+                    changed = True
+        if changed:
+            from render_digest import write_pdf
+            write_pdf(existing, ROOT)
+            OUT.write_text(json.dumps(data, ensure_ascii=False, indent=2)+'\n', encoding='utf-8')
+        print(f'Digest {target}: edition already prepared'+(' (translations updated)' if changed else ''), flush=True)
         return
     available = datetime.combine(target, time(7), tzinfo=ROME)
     cutoff = min(now, available.astimezone(timezone.utc))

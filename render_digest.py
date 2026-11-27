@@ -47,8 +47,10 @@ def write_pdf(edition, root):
         for item in section['items']:
             stamp = datetime.fromisoformat(item['published']).astimezone(__import__('zoneinfo').ZoneInfo('Europe/Rome'))
             byline = item['source'] + (' · '+item['author'] if item.get('author') and item['author'].casefold() not in item['source'].casefold() else '')
-            blocks = [Paragraph(escape(byline+' · '+stamp.strftime('%d/%m, %H:%M')),meta),
-                      Paragraph(escape(item['title']),title)]
+            blocks = [Paragraph(escape(byline+' · '+stamp.strftime('%d/%m, %H:%M')),meta)]
+            if item.get('translation_note') or item.get('edition_note'):
+                blocks.append(Paragraph(escape(item.get('translation_note') or item['edition_note']),meta))
+            blocks.append(Paragraph(escape(item['title']),title))
             if item.get('summary'):
                 blocks.append(Paragraph(escape(item['summary']),text_style))
             blocks.append(Paragraph('<link href="'+escape(item['url'], {'"':'&quot;'})+'" color="#173d70">Leggi l’articolo originale</link>',meta))

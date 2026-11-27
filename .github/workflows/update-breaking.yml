@@ -7,6 +7,7 @@ on:
       - "fetch_breaking.py"
       - "fetch_digest.py"
       - "render_digest.py"
+      - "digest_translations.json"
       - "test_digest.py"
       - ".github/workflows/update-breaking.yml"
   schedule:
