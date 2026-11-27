@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-27T19:30:47.408588+00:00",
+  "updated_at": "2026-11-27T19:35:26.710782+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-27T19:30:47.408588+00:00"
+      "checked_at": "2026-11-27T19:35:26.710782+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-27T19:30:47.408588+00:00"
+      "checked_at": "2026-11-27T19:35:26.710782+00:00"
     }
   },
   "items": [
+    {
+      "id": "c6727d140e0d89aab5bd",
+      "source": "TGcom24",
+      "title": "Zelensky sente Meloni: \"Raid in Libia condotto senza coordinamento con partner\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-27-novembre_119472715-202602k.shtml",
+      "published": "2026-11-27T19:35:00+00:00"
+    },
     {
       "id": "8f6ebf49fd9e9ae840b0",
       "source": "BBC News",
@@ -318,13 +325,6 @@
       "title": "Egitto, arrestato sospettato incidente dell'autocisterna che ha causato 31 morti",
       "url": "https://www.tgcom24.mediaset.it/mondo/egitto-arrestato-sospettato-incidente-autocisterna_119468196-202602k.shtml",
       "published": "2026-11-26T23:00:00+00:00"
-    },
-    {
-      "id": "d9e7a9b34f51023ac552",
-      "source": "TGcom24",
-      "title": "Usa, ondata di maltempo in tutto il Paese: inondazioni e voli cancellati",
-      "url": "https://www.tgcom24.mediaset.it/mondo/usa-maltempo-giorno-del-ringraziamento-voli-cancellati-inondazioni_119467640-202602k.shtml",
-      "published": "2026-11-26T22:30:00+00:00"
     },
     {
       "id": "5584d71181332c995302",
