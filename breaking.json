@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-27T22:10:31.276284+00:00",
+  "updated_at": "2026-11-27T22:15:31.509650+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-27T22:10:31.276284+00:00"
+      "checked_at": "2026-11-27T22:15:31.509650+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-27T22:10:31.276284+00:00"
+      "checked_at": "2026-11-27T22:15:31.509650+00:00"
     }
   },
   "items": [
+    {
+      "id": "d5ab8b326c56c2ee6ce0",
+      "source": "BBC News",
+      "title": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T22:03:46+00:00"
+    },
     {
       "id": "6e72937897d2cc9b991a",
       "source": "BBC News",
@@ -166,32 +173,11 @@
       "published": "2026-11-27T12:00:00+00:00"
     },
     {
-      "id": "c63b780a0abe4e9b0aa6",
-      "source": "BBC News",
-      "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T11:44:40+00:00"
-    },
-    {
-      "id": "056ca38058160eff0be7",
-      "source": "BBC News",
-      "title": "Ex-Kenyan governor jailed for 25 years over pregnant girlfriend's murder",
-      "url": "https://www.bbc.co.uk/news/articles/crx209ekq5xdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T11:22:02+00:00"
-    },
-    {
       "id": "8cd7f0000d669345616e",
       "source": "TGcom24",
       "title": "Commercio estero, Istat: \"A ottobre export extra Ue27 -1,8%\"",
       "url": "https://www.tgcom24.mediaset.it/economia/commercio-estero-istat-ue-unione-europea_119480927-202602k.shtml",
       "published": "2026-11-27T11:10:00+00:00"
-    },
-    {
-      "id": "6925aad559889872f5d1",
-      "source": "BBC News",
-      "title": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
-      "url": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T10:39:31+00:00"
     },
     {
       "id": "14973ece4f32cf8307a3",
@@ -201,25 +187,11 @@
       "published": "2026-11-27T10:28:00+00:00"
     },
     {
-      "id": "ffdd1d390937dc27d834",
-      "source": "BBC News",
-      "title": "Clashes mar European games as Macron condemns violence",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T10:24:24+00:00"
-    },
-    {
       "id": "902921c97c57280a5c7f",
       "source": "TGcom24",
       "title": "Il Costa Rica respinge Francesca Albanese: \"Su di lei allerta internazionale\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/costa-rica-respinge-francesca-albanese_119477137-202602k.shtml",
       "published": "2026-11-27T09:20:00+00:00"
-    },
-    {
-      "id": "9d4db2e584f85c2dcb20",
-      "source": "BBC News",
-      "title": "Guinea-Bissau's military leaders delay return to civilian rule until 2028",
-      "url": "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T08:58:08+00:00"
     },
     {
       "id": "bf522824f4e815c88b12",
@@ -264,13 +236,6 @@
       "published": "2026-11-27T06:20:00+00:00"
     },
     {
-      "id": "124ce1108ddb73d7c65c",
-      "source": "BBC News",
-      "title": "EU leaders fail to bridge budget splits as talks stall",
-      "url": "https://www.bbc.co.uk/news/articles/cw4gnm3m9deno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T06:11:55+00:00"
-    },
-    {
       "id": "3b789f3c57df3c2acee2",
       "source": "BBC News",
       "title": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
@@ -283,20 +248,6 @@
       "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
       "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-27T06:04:51+00:00"
-    },
-    {
-      "id": "851a9897b5afece95fca",
-      "source": "BBC News",
-      "title": "Mushroom murderer Erin Patterson launches last-ditch High Court appeal",
-      "url": "https://www.bbc.co.uk/news/articles/ck053e1d3ly1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T05:54:38+00:00"
-    },
-    {
-      "id": "f644e4559223e91d299a",
-      "source": "BBC News",
-      "title": "Venezuela to scrap law that bars opposition from public office",
-      "url": "https://www.bbc.co.uk/news/articles/c58j4pw9xjrlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T05:35:10+00:00"
     },
     {
       "id": "b172121756336c98421c",
@@ -332,20 +283,6 @@
       "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
       "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-26T19:26:16+00:00"
-    },
-    {
-      "id": "0ac9d3ac4fa4e991b97f",
-      "source": "BBC News",
-      "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
-      "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T16:21:19+00:00"
-    },
-    {
-      "id": "f3eb5f5f46cdedae3058",
-      "source": "BBC News",
-      "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T12:33:23+00:00"
     }
   ]
 }
