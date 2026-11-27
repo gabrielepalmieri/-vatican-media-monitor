@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-27T05:15:31.129833+00:00",
+  "updated_at": "2026-11-27T05:20:29.660805+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-27T05:15:31.129833+00:00"
+      "checked_at": "2026-11-27T05:20:29.660805+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-27T05:15:31.129833+00:00"
+      "checked_at": "2026-11-27T05:20:29.660805+00:00"
     }
   },
   "items": [
+    {
+      "id": "659803258c6473498fcc",
+      "source": "BBC News",
+      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T05:15:26+00:00"
+    },
     {
       "id": "7fc2eee7a1da91b845d6",
       "source": "TGcom24",
@@ -24,13 +31,6 @@
       "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
       "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-27T03:28:15+00:00"
-    },
-    {
-      "id": "659803258c6473498fcc",
-      "source": "BBC News",
-      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
-      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T00:52:11+00:00"
     },
     {
       "id": "b172121756336c98421c",
