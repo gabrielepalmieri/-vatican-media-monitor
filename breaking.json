@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-27T11:10:29.488498+00:00",
+  "updated_at": "2026-11-27T11:15:33.130171+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-27T11:10:29.488498+00:00"
+      "checked_at": "2026-11-27T11:15:33.130171+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-27T11:10:29.488498+00:00"
+      "checked_at": "2026-11-27T11:15:33.130171+00:00"
     }
   },
   "items": [
+    {
+      "id": "8cd7f0000d669345616e",
+      "source": "TGcom24",
+      "title": "Commercio estero, Istat: \"A ottobre export extra Ue27 -1,8%\"",
+      "url": "https://www.tgcom24.mediaset.it/economia/commercio-estero-istat-ue-unione-europea_119480927-202602k.shtml",
+      "published": "2026-11-27T11:10:00+00:00"
+    },
     {
       "id": "6925aad559889872f5d1",
       "source": "BBC News",
@@ -332,13 +339,6 @@
       "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
       "url": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-26T14:35:22+00:00"
-    },
-    {
-      "id": "443ebd0d23664dfb15fa",
-      "source": "TGcom24",
-      "title": "Depardieu rinviato a giudizio: è accusato di stupro sull'attrice Charlotte Arnould",
-      "url": "https://www.tgcom24.mediaset.it/mondo/depardieu-rinviato-a-giudizio-arnould_119447616-202602k.shtml",
-      "published": "2026-11-26T14:21:00+00:00"
     },
     {
       "id": "f3eb5f5f46cdedae3058",
