@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-27T05:01:02.014613+00:00",
+  "updated_at": "2026-11-27T05:05:21.350881+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-27T05:01:02.014613+00:00"
+      "checked_at": "2026-11-27T05:05:21.350881+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-27T05:01:02.014613+00:00"
+      "checked_at": "2026-11-27T05:05:21.350881+00:00"
     }
   },
   "items": [
+    {
+      "id": "7fc2eee7a1da91b845d6",
+      "source": "TGcom24",
+      "title": "Tumore al pancreas, l'Aifa avvia iter per l'accesso al nuovo farmaco",
+      "url": "https://www.tgcom24.mediaset.it/salute/daraxonrasib-aifa-tumore-pancreas_119449846-202602k.shtml",
+      "published": "2026-11-27T05:00:00+00:00"
+    },
     {
       "id": "b2be192218534beb5e9b",
       "source": "BBC News",
@@ -318,13 +325,6 @@
       "title": "Padova, nel pc oltre 15mila immagini e video pedopornografici: arrestato",
       "url": "https://www.tgcom24.mediaset.it/cronaca/pedopornografia-padova-arrestato-58enne-15mila-file_119436611-202602k.shtml",
       "published": "2026-11-26T09:20:00+00:00"
-    },
-    {
-      "id": "ad6bb37cd1edc3c661d4",
-      "source": "TGcom24",
-      "title": "Milano, 83enne disabile morì in un incendio: un vicino arrestato per omicidio",
-      "url": "https://www.tgcom24.mediaset.it/cronaca/milano-incendio-disabile-morta-arrestato-vicino_119438533-202602k.shtml",
-      "published": "2026-11-26T08:50:00+00:00"
     },
     {
       "id": "abad8f36e93e84bb7690",
