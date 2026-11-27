@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-27T21:10:36.053048+00:00",
+  "updated_at": "2026-11-27T21:15:31.759868+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-27T21:10:36.053048+00:00"
+      "checked_at": "2026-11-27T21:15:31.759868+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-27T21:10:36.053048+00:00"
+      "checked_at": "2026-11-27T21:15:31.759868+00:00"
     }
   },
   "items": [
+    {
+      "id": "abf0ca07e4cee72876e4",
+      "source": "TGcom24",
+      "title": "Usa, OpenAi controquerela Apple per furto di segreti commerciali",
+      "url": "https://www.tgcom24.mediaset.it/economia/openai-controquerela-apple-furto-segreti-commerciali_119502040-202602k.shtml",
+      "published": "2026-11-27T21:08:00+00:00"
+    },
     {
       "id": "6e72937897d2cc9b991a",
       "source": "BBC News",
@@ -304,13 +311,6 @@
       "title": "Trump: \"Putin vuole la fine della guerra, con Rutte ho parlato di Ucraina\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-27-novembre_119472715-202602k.shtml",
       "published": "2026-11-27T05:28:00+00:00"
-    },
-    {
-      "id": "7fc2eee7a1da91b845d6",
-      "source": "TGcom24",
-      "title": "Tumore pancreas, Aifa avvia iter accesso a farmaco a carico del SSN",
-      "url": "https://www.tgcom24.mediaset.it/salute/daraxonrasib-aifa-tumore-pancreas_119449846-202602k.shtml",
-      "published": "2026-11-27T05:00:00+00:00"
     },
     {
       "id": "b172121756336c98421c",
