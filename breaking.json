@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-27T13:40:30.444447+00:00",
+  "updated_at": "2026-11-27T13:45:33.427932+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-27T13:40:30.444447+00:00"
+      "checked_at": "2026-11-27T13:45:33.427932+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-27T13:40:30.444447+00:00"
+      "checked_at": "2026-11-27T13:45:33.427932+00:00"
     }
   },
   "items": [
+    {
+      "id": "f25c477302c05a21d8a3",
+      "source": "TGcom24",
+      "title": "Usa, attacco hacker alla piattaforma cloud dell'Air Force",
+      "url": "https://www.tgcom24.mediaset.it/mondo/usa-attacco-hacker-cloud-air-force_119485146-202602k.shtml",
+      "published": "2026-11-27T13:45:00+00:00"
+    },
+    {
+      "id": "0210795fd5b202017670",
+      "source": "BBC News",
+      "title": "Rare turtles found inside baggage at Amsterdam airport",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T13:38:07+00:00"
+    },
     {
       "id": "c975cd5b33c3c98a3186",
       "source": "TGcom24",
@@ -80,13 +94,6 @@
       "title": "Clashes mar European games as Macron condemns violence",
       "url": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-27T10:24:24+00:00"
-    },
-    {
-      "id": "11c67a9cb70fd026c62a",
-      "source": "BBC News",
-      "title": "India busts cyberfraud and trafficking network rescuing 164 foreigners",
-      "url": "https://www.bbc.co.uk/news/articles/crkgvjy7q83wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T10:01:07+00:00"
     },
     {
       "id": "902921c97c57280a5c7f",
@@ -215,13 +222,6 @@
       "published": "2026-11-27T05:00:00+00:00"
     },
     {
-      "id": "b2be192218534beb5e9b",
-      "source": "BBC News",
-      "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
-      "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T03:28:15+00:00"
-    },
-    {
       "id": "b172121756336c98421c",
       "source": "BBC News",
       "title": "Met Police ruined my life, says Kenyan man wrongly convicted over attack on UK couple",
@@ -262,20 +262,6 @@
       "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
       "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-26T22:06:20+00:00"
-    },
-    {
-      "id": "1bfa8f31b71865737b7f",
-      "source": "BBC News",
-      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T22:01:22+00:00"
-    },
-    {
-      "id": "68b4f3406519e4087e06",
-      "source": "BBC News",
-      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T21:17:53+00:00"
     },
     {
       "id": "244e43f340433511e7b7",
@@ -320,13 +306,6 @@
       "published": "2026-11-26T17:35:00+00:00"
     },
     {
-      "id": "9ad0f8e6c26fd8c70b89",
-      "source": "TGcom24",
-      "title": "Italiani morti in Kuwait, l'Iran nega attacco: \"Accuse per esacerbare instabilità\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/kuwait-attacco-droni-iraniani-morti-italiani_119446681-202602k.shtml",
-      "published": "2026-11-26T16:50:00+00:00"
-    },
-    {
       "id": "0ac9d3ac4fa4e991b97f",
       "source": "BBC News",
       "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
@@ -334,46 +313,11 @@
       "published": "2026-11-26T16:21:19+00:00"
     },
     {
-      "id": "eab0cd7d3501cc96f640",
-      "source": "BBC News",
-      "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T14:44:26+00:00"
-    },
-    {
-      "id": "33ecc7f45cf821610ef8",
-      "source": "BBC News",
-      "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
-      "url": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T14:35:22+00:00"
-    },
-    {
       "id": "f3eb5f5f46cdedae3058",
       "source": "BBC News",
       "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
       "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-26T12:33:23+00:00"
-    },
-    {
-      "id": "35241f9363ba03d83566",
-      "source": "BBC News",
-      "title": "Egyptian authorities arrest motorist over tanker crash that killed 31",
-      "url": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T12:16:06+00:00"
-    },
-    {
-      "id": "27eb6de59271be09b5a5",
-      "source": "BBC News",
-      "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
-      "url": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T11:00:39+00:00"
-    },
-    {
-      "id": "a9e49e036230409cbb67",
-      "source": "BBC News",
-      "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
-      "url": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T10:25:51+00:00"
     },
     {
       "id": "cb3a0c5cf35754b044ee",
@@ -395,13 +339,6 @@
       "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
       "url": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-26T05:00:27+00:00"
-    },
-    {
-      "id": "9a2df97600b28fffed9d",
-      "source": "BBC News",
-      "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
-      "url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T05:00:24+00:00"
     }
   ]
 }
