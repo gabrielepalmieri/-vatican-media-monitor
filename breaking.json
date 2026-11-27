@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-27T22:55:21.904949+00:00",
+  "updated_at": "2026-11-27T23:00:59.971337+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-27T22:55:21.904949+00:00"
+      "checked_at": "2026-11-27T23:00:59.971337+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-27T22:55:21.904949+00:00"
+      "checked_at": "2026-11-27T23:00:59.971337+00:00"
     }
   },
   "items": [
+    {
+      "id": "6eb665abcd1cbc595531",
+      "source": "TGcom24",
+      "title": "Gaza, attacco Idf vicino a ospedale: uccisi due operatori di Medici senza frontiere",
+      "url": "https://www.tgcom24.mediaset.it/mondo/gaza-attacco-idf-vicino-a-ospedale-uccisi-due-operatori-msf_119504113-202602k.shtml",
+      "published": "2026-11-27T22:57:00+00:00"
+    },
     {
       "id": "2b8c2bf7550620e21364",
       "source": "TGcom24",
@@ -234,13 +241,6 @@
       "title": "Italy's former police chief rejected mafia inquiry allegations before death",
       "url": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-27T07:28:10+00:00"
-    },
-    {
-      "id": "765811b363c5c9940bf9",
-      "source": "TGcom24",
-      "title": "Ucraina, Aeronautica: \"Nella notte neutralizzati 110 droni lanciati da Mosca\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-27-novembre_119472715-202602k.shtml",
-      "published": "2026-11-27T06:59:00+00:00"
     },
     {
       "id": "3b789f3c57df3c2acee2",
