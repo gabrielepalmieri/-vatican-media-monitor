@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-27T18:40:31.497801+00:00",
+  "updated_at": "2026-11-27T18:45:32.819939+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-27T18:40:31.497801+00:00"
+      "checked_at": "2026-11-27T18:45:32.819939+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-27T18:40:31.497801+00:00"
+      "checked_at": "2026-11-27T18:45:32.819939+00:00"
     }
   },
   "items": [
+    {
+      "id": "49eb762fc47ef17823df",
+      "source": "BBC News",
+      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+      "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T18:42:50+00:00"
+    },
+    {
+      "id": "528333a0408eb832b9f8",
+      "source": "TGcom24",
+      "title": "Venezia, sparatoria tra polizia e tre persone: morto un giovane, un uomo in fuga",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/venezia-sparatoria-tra-polizia-e-ricercati-morto-un-giovane-in-fuga-un-secondo-uomo-_119495874-202602k.shtml",
+      "published": "2026-11-27T18:42:00+00:00"
+    },
     {
       "id": "2e8e6723072eced9c1e5",
       "source": "BBC News",
@@ -66,13 +80,6 @@
       "title": "Lecce, cerca di entrare in casa passando dal cornicione: 46enne cade e muore",
       "url": "https://www.tgcom24.mediaset.it/cronaca/lecce-cade-sesto-piano-morto_119489046-202602k.shtml",
       "published": "2026-11-27T15:30:00+00:00"
-    },
-    {
-      "id": "49eb762fc47ef17823df",
-      "source": "BBC News",
-      "title": "John Simpson: Ukraine is bowed but still unbroken as freezing weather sets in",
-      "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T15:18:51+00:00"
     },
     {
       "id": "8f6ebf49fd9e9ae840b0",
@@ -325,13 +332,6 @@
       "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
       "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-26T22:06:20+00:00"
-    },
-    {
-      "id": "244e43f340433511e7b7",
-      "source": "TGcom24",
-      "title": "Ucraina: \"Non vogliamo estendere la guerra alla Libia\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-26-novembre_119431932-202602k.shtml",
-      "published": "2026-11-26T21:05:00+00:00"
     },
     {
       "id": "5fe0d41e059f4ff22729",
