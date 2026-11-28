@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-28T11:30:46.698777+00:00",
+  "updated_at": "2026-11-28T11:35:21.483170+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-28T11:30:46.698777+00:00"
+      "checked_at": "2026-11-28T11:35:21.483170+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-28T11:30:46.698777+00:00"
+      "checked_at": "2026-11-28T11:35:21.483170+00:00"
     }
   },
   "items": [
+    {
+      "id": "7beae80dff7e61b42b53",
+      "source": "TGcom24",
+      "title": "Cremona, boccone di traverso davanti a padre e figlio: muore 47enne",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/cremona-boccone-di-traverso-davanti-a-padre-e-figlio-muore-47enne_119512964-202602k.shtml",
+      "published": "2026-11-28T11:30:00+00:00"
+    },
     {
       "id": "3d6ea096c22e5e21f0f1",
       "source": "BBC News",
@@ -283,13 +290,6 @@
       "title": "Rare turtles found inside baggage at Amsterdam airport",
       "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-27T13:38:07+00:00"
-    },
-    {
-      "id": "c975cd5b33c3c98a3186",
-      "source": "TGcom24",
-      "title": "Ucraina, ricerca britannica: \"Sabotaggi russi in Europa cresciuti del 16%\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-27-novembre_119472715-202602k.shtml",
-      "published": "2026-11-27T13:15:00+00:00"
     },
     {
       "id": "76b914a4d2590dd4efe6",
