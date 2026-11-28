@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-27T14:58:27.826498+00:00",
+  "updated_at": "2026-11-28T03:51:55.388556+00:00",
   "timezone": "Europe/Rome",
   "un_source": "https://unric.org/it/giornate-internazionali-onu/",
-  "un_verified_at": "2026-11-27T14:58:27.826498+00:00",
+  "un_verified_at": "2026-11-28T03:51:55.388556+00:00",
   "un_observances": [
     {
       "title": "Giornata mondiale del Braille",
@@ -1918,34 +1918,6 @@
     }
   ],
   "days": {
-    "2026-11-26": {
-      "saints": [
-        {
-          "title": "San Siricio, papa",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/26.html"
-        },
-        {
-          "title": "San Silvestro, abate, fondatore dei Silvestrini",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/26/san-silvestro--abate--fondatore-dei-silvestrini.html"
-        },
-        {
-          "title": "San Leonardo da Porto Maurizio, francescano",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/26/san-leonardo-da-porto-maurizio--francescano.html"
-        },
-        {
-          "title": "Beato Giacomo Alberione",
-          "url": "https://www.vaticannews.va/it/santo-del-giorno/11/26.html"
-        }
-      ],
-      "un": [
-        {
-          "title": "Giornata mondiale del trasporto sostenibile",
-          "url": "https://www.un.org/en/observances/sustainable-transport-day"
-        }
-      ],
-      "un_available": true,
-      "holy_see": []
-    },
     "2026-11-27": {
       "saints": [
         {
@@ -2581,6 +2553,17 @@
           "url": "https://www.vatican.va/content/leo-xiv/it/messages/peace.html"
         }
       ]
+    },
+    "2027-01-02": {
+      "saints": [
+        {
+          "title": "Ss. Basilio Magno e Gregorio Nazianzieno, vescovi e dottori della Chiesa",
+          "url": "https://www.vaticannews.va/it/santo-del-giorno/01/02/ss--basilio-magno-e-gregorio-nazianzieno--vescovi-e-dottori-dell.html"
+        }
+      ],
+      "un": [],
+      "un_available": true,
+      "holy_see": []
     }
   }
 }
