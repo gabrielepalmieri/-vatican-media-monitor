@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-28T05:00:59.573986+00:00",
+  "updated_at": "2026-11-28T05:05:22.097217+00:00",
   "sources": {
     "TGcom24": {
-      "ok": false,
-      "checked_at": "2026-11-28T05:00:59.573986+00:00"
+      "ok": true,
+      "checked_at": "2026-11-28T05:05:22.097217+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-28T05:00:59.573986+00:00"
+      "checked_at": "2026-11-28T05:05:22.097217+00:00"
     }
   },
   "items": [
+    {
+      "id": "08911a9f92d9cac946f1",
+      "source": "TGcom24",
+      "title": "Como: aggredisce un infermiere e danneggia il Pronto soccorso, arrestata",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/como-aggredisce-infermiere-danneggia-pronto-soccorso_119502044-202602k.shtml",
+      "published": "2026-11-28T05:02:00+00:00"
+    },
     {
       "id": "01e9d3ea2538abf0016b",
       "source": "BBC News",
