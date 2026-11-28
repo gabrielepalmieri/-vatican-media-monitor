@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-11-28T12:05:23.662320+00:00",
+  "updated_at": "2026-11-28T12:10:29.176816+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-28T12:05:23.662320+00:00"
+      "checked_at": "2026-11-28T12:10:29.176816+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-28T12:05:23.662320+00:00"
+      "checked_at": "2026-11-28T12:10:29.176816+00:00"
     }
   },
   "items": [
+    {
+      "id": "ff3abf65f3c2a92b04ab",
+      "source": "TGcom24",
+      "title": "Iran: \"Qualsiasi luogo da cui parte attacco contro di noi sarà obiettivo legittimo\"",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-medio-oriente-28-novembre_119507250-202602k.shtml",
+      "published": "2026-11-28T12:05:00+00:00"
+    },
+    {
+      "id": "7db910d8b48c47d5aee8",
+      "source": "BBC News",
+      "title": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+      "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-28T11:35:34+00:00"
+    },
     {
       "id": "7beae80dff7e61b42b53",
       "source": "TGcom24",
@@ -276,13 +290,6 @@
       "title": "Washington, media: cresce il numero di funzionari Trump negli alloggi militari",
       "url": "https://www.tgcom24.mediaset.it/mondo/usa-attacco-hacker-cloud-air-force_119485146-202602k.shtml",
       "published": "2026-11-27T14:48:00+00:00"
-    },
-    {
-      "id": "f25c477302c05a21d8a3",
-      "source": "TGcom24",
-      "title": "Usa, attacco hacker alla piattaforma cloud dell'Air Force",
-      "url": "https://www.tgcom24.mediaset.it/mondo/usa-attacco-hacker-cloud-air-force_119485146-202602k.shtml",
-      "published": "2026-11-27T13:45:00+00:00"
     },
     {
       "id": "0210795fd5b202017670",
