@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-28T09:30:45.408678+00:00",
+  "updated_at": "2026-11-28T09:35:21.280508+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-28T09:30:45.408678+00:00"
+      "checked_at": "2026-11-28T09:35:21.280508+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-28T09:30:45.408678+00:00"
+      "checked_at": "2026-11-28T09:35:21.280508+00:00"
     }
   },
   "items": [
+    {
+      "id": "913cb3d334fd17e07baa",
+      "source": "TGcom24",
+      "title": "Stretto di Hormuz, due petroliere sono esplose dopo aver urtato delle mine",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-medio-oriente-28-novembre_119507250-202602k.shtml",
+      "published": "2026-11-28T09:30:00+00:00"
+    },
     {
       "id": "b582e3c6b3e1703aacd0",
       "source": "TGcom24",
@@ -269,13 +276,6 @@
       "title": "Roma, operai salgono su una gru per protesta: \"Non ci pagano gli stipendi\"",
       "url": "https://www.tgcom24.mediaset.it/2026/video/-pagateci-gli-stipendi-operai-salgono-su-una-gru-per-protesta-a-roma_119482560-02k.shtml",
       "published": "2026-11-27T12:00:00+00:00"
-    },
-    {
-      "id": "8cd7f0000d669345616e",
-      "source": "TGcom24",
-      "title": "Commercio estero, Istat: \"A ottobre export extra Ue27 -1,8%\"",
-      "url": "https://www.tgcom24.mediaset.it/economia/commercio-estero-istat-ue-unione-europea_119480927-202602k.shtml",
-      "published": "2026-11-27T11:10:00+00:00"
     },
     {
       "id": "76b914a4d2590dd4efe6",
