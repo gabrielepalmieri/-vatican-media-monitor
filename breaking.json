@@ -1,22 +1,29 @@
 {
-  "updated_at": "2026-11-28T12:35:22.131487+00:00",
+  "updated_at": "2026-11-28T12:40:33.797872+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-28T12:35:22.131487+00:00"
+      "checked_at": "2026-11-28T12:40:33.797872+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-28T12:35:22.131487+00:00"
+      "checked_at": "2026-11-28T12:40:33.797872+00:00"
     }
   },
   "items": [
     {
       "id": "585630843387f0c184bc",
       "source": "BBC News",
-      "title": "Argentina's bid to stop Falkland Islands oil drilling rejected",
+      "title": "Argentina's bid to stop Falklands oil drilling rejected",
       "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-28T12:15:45+00:00"
+      "published": "2026-11-28T12:36:59+00:00"
+    },
+    {
+      "id": "fcc9cdc7fbe02b9ee90c",
+      "source": "TGcom24",
+      "title": "Napoli, avevano armi, droga e una granata in casa: arrestati nonna e nipote",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/napoli-avevano-armi-droga-e-una-granata-in-casa-arrestati-nonna-e-nipote_119515394-202602k.shtml",
+      "published": "2026-11-28T12:34:00+00:00"
     },
     {
       "id": "ff3abf65f3c2a92b04ab",
@@ -290,13 +297,6 @@
       "title": "Lecce, cerca di entrare in casa passando dal cornicione: 46enne cade e muore",
       "url": "https://www.tgcom24.mediaset.it/cronaca/lecce-cade-sesto-piano-morto_119489046-202602k.shtml",
       "published": "2026-11-27T15:30:00+00:00"
-    },
-    {
-      "id": "920c7a1b6d7e592c7cb6",
-      "source": "TGcom24",
-      "title": "Washington, media: cresce il numero di funzionari Trump negli alloggi militari",
-      "url": "https://www.tgcom24.mediaset.it/mondo/usa-attacco-hacker-cloud-air-force_119485146-202602k.shtml",
-      "published": "2026-11-27T14:48:00+00:00"
     },
     {
       "id": "76b914a4d2590dd4efe6",
