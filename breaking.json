@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-28T15:01:06.632423+00:00",
+  "updated_at": "2026-11-28T15:05:21.628575+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-28T15:01:06.632423+00:00"
+      "checked_at": "2026-11-28T15:05:21.628575+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-28T15:01:06.632423+00:00"
+      "checked_at": "2026-11-28T15:05:21.628575+00:00"
     }
   },
   "items": [
+    {
+      "id": "2fc1772dda8d12d73e55",
+      "source": "TGcom24",
+      "title": "Schlein: \"Inaccettabile l'intimidazione di La Russa alla Corte costituzionale\"",
+      "url": "https://www.tgcom24.mediaset.it/politica/magistratura-schlein-la-russa_119521060-202602k.shtml",
+      "published": "2026-11-28T15:04:00+00:00"
+    },
     {
       "id": "3d6ea096c22e5e21f0f1",
       "source": "BBC News",
@@ -262,13 +269,6 @@
       "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
       "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-27T18:00:40+00:00"
-    },
-    {
-      "id": "60549a355fc8ed332068",
-      "source": "TGcom24",
-      "title": "Ambasciata russa: \"Non ci stupiremmo se Kiev usasse territorio italiano per nuovi raid\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-27-novembre_119472715-202602k.shtml",
-      "published": "2026-11-27T17:40:00+00:00"
     },
     {
       "id": "4f0e4e21aad299168e6e",
