@@ -2,6 +2,472 @@
   "editions": [
     {
       "format_version": 2,
+      "date": "2026-11-28",
+      "available_at": "2026-11-28T07:00:00+01:00",
+      "prepared_at": "2026-11-28T05:40:32.233262+00:00",
+      "coverage_from": "2026-11-27T05:40:32.233262+00:00",
+      "coverage_to": "2026-11-28T05:40:32.233262+00:00",
+      "sections": [
+        {
+          "title": "Attualità",
+          "items": [
+            {
+              "id": "9fb329034380c0b5",
+              "title": "E Mattarella scrive al governo: terzo richiamo in un mese",
+              "url": "https://www.repubblica.it/politica/2026/11/28/news/mattarella_governo_richiamo_legge_agricoltura-425755718/",
+              "source": "la Repubblica",
+              "published": "2026-11-28T00:00:00+00:00",
+              "language": "Italiano",
+              "summary": "Il Quirinale promulga la legge sull’agricoltura ma l’accompagna con una contestazione della norma sulla raccolta dei tartufi",
+              "summary_origin": "feed",
+              "section": "Attualità",
+              "topic": "Attualità"
+            },
+            {
+              "id": "45be8abbcc48f70a",
+              "title": "Legge elettorale, La Russa: \"Se Consulta dice no a indicazione premier è indebito aiuto a sinistra: viola la Costituzione\"",
+              "url": "https://www.adnkronos.com/politica/legge-elettorale-premier-la-russa-meloni_54EcmUgv7WcdMCWSsmHhh1",
+              "source": "Adnkronos",
+              "published": "2026-11-27T19:27:02+00:00",
+              "language": "Italiano",
+              "author": "Redazione Adnkronos",
+              "section": "Attualità",
+              "topic": "Attualità",
+              "cluster_id": "45be8abbcc48f70a",
+              "summary": "Il presidente del Senato: 'Sarebbe una violazione della Costituzione'",
+              "summary_origin": "publisher_metadata"
+            },
+            {
+              "id": "7b12a0340fabea0c",
+              "title": "Perché il debito/pil dell’Italia è sbagliato, un indicatore parziale che non fotografa la reale stabilità del Paese",
+              "url": "https://www.ilmessaggero.it/economia/numeri_veri/debito_pubblico_italia_rapporto_pil_sostenibilita-9917367.html",
+              "source": "Il Messaggero",
+              "published": "2026-11-27T23:12:47+00:00",
+              "language": "Italiano",
+              "author": "Marco Fortis",
+              "section": "Attualità",
+              "topic": "Attualità",
+              "cluster_id": "7b12a0340fabea0c",
+              "summary": "Il 19,8% del debito in mano a imprese e famiglie italiane, la loro ricchezza finanziaria vale il 238% del Pil",
+              "summary_origin": "publisher_metadata"
+            },
+            {
+              "id": "447683de83321017",
+              "title": "Mattarella al congresso dell'Anm a Napoli: la diretta video",
+              "url": "https://video.corriere.it/mattarella-al-congresso-dell-anm-a-napoli-la-diretta-video/93a5841a-6fa6-437d-a796-4c0b54f4dxlk",
+              "source": "Corriere della Sera",
+              "published": "2026-11-27T15:48:46+00:00",
+              "language": "Italiano",
+              "author": "Corriere TV",
+              "section": "Attualità",
+              "topic": "Attualità",
+              "cluster_id": "447683de83321017"
+            },
+            {
+              "id": "f677d4649257dc2d",
+              "title": "De Gennaro, la politica diserta i funerali solenni. Assenti quasi tutti i leader",
+              "url": "https://www.lastampa.it/cronaca/2026/11/28/news/gianni_de_gennaro_politica_diserta_funerali_solenni_leader_assenti-15812081/",
+              "source": "La Stampa",
+              "published": "2026-11-28T03:00:00+00:00",
+              "language": "Italiano",
+              "summary": "Lunedì Mattarella rischia di essere l’unica alta carica dello Stato. Tra i capi partito solo Tajani e Calenda confermano. Oggi la camera ardente",
+              "summary_origin": "feed",
+              "section": "Attualità",
+              "topic": "Attualità"
+            }
+          ]
+        },
+        {
+          "title": "Internazionale",
+          "items": [
+            {
+              "id": "ecb5df903f5b9d3a",
+              "title": "Eight killed in Peruvian military helicopter crash",
+              "url": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
+              "source": "BBC News",
+              "published": "2026-11-28T04:19:16+00:00",
+              "language": "English",
+              "summary": "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking.",
+              "summary_origin": "feed",
+              "section": "Internazionale",
+              "topic": "Internazionale"
+            },
+            {
+              "id": "8e5a5588dc1ae4b6",
+              "title": "Raid ucraino in Libia, Meloni a Zelensky: “Così difficile aiutarti”. L’irritazione con gli alleati",
+              "url": "https://www.repubblica.it/esteri/2026/11/28/news/attacco_ucraino_libia_meloni_zelensky_cosi_difficile_aiutarti_raid_andranno_avanti-425755530/",
+              "source": "la Repubblica",
+              "published": "2026-11-28T00:00:00+00:00",
+              "language": "Italiano",
+              "summary": "l’ira della presidente del Consiglio a pochi mesi dal voto. L’imbarazzo per il silenzio degli europei che sapevano dell’operazione contro le navi russe in Cirenaica",
+              "summary_origin": "feed",
+              "section": "Internazionale",
+              "topic": "Internazionale"
+            },
+            {
+              "id": "ed8556a358dfa4db",
+              "title": "Balzo dell’export verso States e Cina, ma rallenta la corsa del made in Italy",
+              "url": "https://www.ilmessaggero.it/economia/news/balzo_export_verso_states_cina_ma_rallenta_la_corsa_made_italy-9917355.html",
+              "source": "Il Messaggero",
+              "published": "2026-11-28T00:25:03+00:00",
+              "language": "Italiano",
+              "author": "Francesco Pacifico",
+              "section": "Internazionale",
+              "topic": "Internazionale",
+              "cluster_id": "ed8556a358dfa4db",
+              "summary": "Nei primi dieci mesi del 2026 le vendite all’estero sono salite del 3,7%, l’import però è balzato del 16,5%",
+              "summary_origin": "publisher_metadata"
+            },
+            {
+              "id": "6eb665abcd1cbc595531",
+              "title": "Gaza, attacco Idf vicino a ospedale: uccisi due operatori di Medici senza frontiere",
+              "url": "https://www.tgcom24.mediaset.it/mondo/gaza-attacco-idf-vicino-a-ospedale-uccisi-due-operatori-msf_119504113-202602k.shtml",
+              "source": "TGcom24",
+              "published": "2026-11-27T22:57:00+00:00",
+              "section": "Internazionale",
+              "topic": "Internazionale",
+              "summary": "Gaza, uccisi due operatori Msf in attacco Idf vicino ospedale Al-Shifa. Lo riportano i media palestinesi",
+              "summary_origin": "publisher_metadata"
+            },
+            {
+              "id": "15507763ae2aea5d",
+              "title": "Le parole di Zelensky, l'ira di Meloni, poi la telefonata di scuse: i raid in Libia incrinano l'asse con Kiev",
+              "url": "https://www.avvenire.it/attualita/le-parole-di-zelensky-lira-di-meloni-poi-la-telefonata-di-scuse-cose-successo-sul-caso-libia_116410",
+              "source": "Avvenire",
+              "published": "2026-11-27T21:41:00+00:00",
+              "language": "Italiano",
+              "author": "Matteo Marcelli",
+              "section": "Internazionale",
+              "topic": "Internazionale",
+              "cluster_id": "15507763ae2aea5d",
+              "summary": "Il presidente ucraino, intervistato dalla Bbc, parla di «un’azione coordinata con i propri partner». Infastidito il Governo, per Tajani e Crosetto «ha detto una cosa falsa». Intanto si indaga sulla rotta del drone che ha ucciso i due…",
+              "summary_origin": "publisher_metadata"
+            }
+          ]
+        },
+        {
+          "title": "Vaticano",
+          "items": [
+            {
+              "id": "7cc96f2d192cd079",
+              "title": "Roma, Papa Leone XIV alla parrocchia di S. Andrea delle Fratte tra cori e applausi - Il Messaggero",
+              "url": "https://www.ilmessaggero.it/video/adnkronos/roma_papa_leone_xiv_alla_parrocchia_di_s_andrea_delle_fratte_tra_cori_e_applausi-9917067.html",
+              "source": "Il Messaggero",
+              "published": "2026-11-27T21:03:39+00:00",
+              "language": "Italiano",
+              "author": "Redazione Web",
+              "section": "Vaticano",
+              "topic": "Vaticano",
+              "cluster_id": "0ad91eddf7d12980",
+              "summary": "(Adnkronos) - Al suo arrivo, il Papa è stato accolto dal Cardinale Vicario Baldo Reina, dal Vescovo Ausiliare per il settore centro mons. Renato Tarantelli Baccari e dal Parroco Padre Giacomo...",
+              "summary_origin": "publisher_metadata"
+            },
+            {
+              "id": "6d5f28587fc67f24",
+              "title": "Sant’Andrea delle Fratte, il parroco: il Papa rinnova la fede nel cuore di Roma",
+              "url": "https://www.vaticannews.va/it/papa/news/2026-11/parrocchia-sant-andrea-fratte-papa-visita-medaglia-miracolosa.html",
+              "source": "Vatican News",
+              "published": "2026-11-27T23:01:16+00:00",
+              "language": "Italiano",
+              "author": "Vatican News",
+              "section": "Vaticano",
+              "topic": "Vaticano",
+              "cluster_id": "6d5f28587fc67f24",
+              "summary": "La Basilica santuario, in pieno centro città, è la prima delle cinque parrocchie nelle quali Leone XIV si recherà in occasione dell’Avvento. Fra ...",
+              "summary_origin": "publisher_metadata"
+            },
+            {
+              "id": "0b11b0ddcdb24c85",
+              "title": "Papa Leone XIV nelle parrocchie romane, la visita in Sant’Andrea delle Fratte: «Lasciate il cuore aperto al Signore",
+              "url": "https://video.corriere.it/cronaca/papa-leone-xiv-nelle-parrocchie-romane-la-visita-in-sant-andrea-delle-fratte-lasciate-il-cuore-aperto-al-signore/e5cf9731-005d-4091-90db-07efea226xlk",
+              "source": "Corriere della Sera",
+              "published": "2026-11-27T18:54:36+00:00",
+              "language": "Italiano",
+              "author": "Corriere TV",
+              "section": "Vaticano",
+              "topic": "Vaticano",
+              "cluster_id": "0b11b0ddcdb24c85",
+              "summary": "La benedizione di Papa Prevost ai fedeli presenti alla parrocchia di Sant'Andrea delle Fratte",
+              "summary_origin": "publisher_metadata"
+            },
+            {
+              "id": "e75761c099d869da",
+              "title": "Leone XIV inaugura l’Avvento nelle parrocchie romane: «Vengo come pellegrino a pregare Maria per la pace»",
+              "url": "https://www.avvenire.it/chiesa/leone-xiv-a-santandrea-delle-fratte-guerre-e-ingiustizie-vengo-a-invocare-laiuto-di-maria_116404",
+              "source": "Avvenire",
+              "published": "2026-11-27T19:47:39+00:00",
+              "language": "Italiano",
+              "author": "Roberta Pumpo",
+              "section": "Vaticano",
+              "topic": "Vaticano",
+              "cluster_id": "e75761c099d869da",
+              "summary": "Nella festa della Medaglia Miracolosa, il Papa inizia il duo ciclo di visite pastorali nella Capitale. L’invito a una fede che si fa carità, vicina ai poveri e a quanti rimangono invisibili",
+              "summary_origin": "publisher_metadata"
+            },
+            {
+              "id": "57a62ffc9967b0eb",
+              "title": "Roma, i bambini al Papa in parrocchia: \"Saremo testimoni della fede senza macchia e senza paura\"",
+              "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVVB4eC15dVEwXzFhdDd2UzBpT3NhQUgzSnc3ZU53S1IxNm1WMjhpSXVRZ093bjduYjdOY0MwNm1QWDhzZzZZZjJCYWduZjFadnVhOUhzX25yYjYxWDRnQUFCTW5yQXQ1UDZTVG9YWWgwTDFOdkd6elNodUVPaFdpa2N6alotVEg0SE91Ml82UFlDZlNwTXNSR1JDWlllSVpNcFRYQ3lvTmVQWTZSY2VlZmx5WklWb1lsQlRhMmk3UTVuMTIyQVB1aVUtRW9RZ0U2ZW1EUHNSZHB3VGVnbXhJbzZyZWxuUWFsNDFJ?oc=5",
+              "source": "la Repubblica",
+              "published": "2026-11-27T17:07:00+00:00",
+              "language": "Italiano",
+              "section": "Vaticano",
+              "topic": "Vaticano",
+              "cluster_id": "57a62ffc9967b0eb"
+            }
+          ]
+        },
+        {
+          "title": "Chiesa",
+          "items": [
+            {
+              "id": "b61d41daac1dbe23",
+              "title": "A Messina Caritas e non solo, una rete solidale tra le povertà del territorio",
+              "url": "https://www.vaticannews.va/it/chiesa/news/2026-11/messina-caritas-una-rete-solidale-tra-le-poverta-territorio.html",
+              "source": "Vatican News",
+              "published": "2026-11-27T14:47:00+00:00",
+              "language": "Italiano",
+              "summary": "I dati Istat e dell'organismo ecclesiale diffusi nell’autunno 2026 delineano un quadro critico sulla vulnerabilità sociale della città siciliana e della provincia, con un rischio povertà nell'siola pari al 38,4%, rispetto al 18,6% della…",
+              "summary_origin": "feed",
+              "section": "Chiesa",
+              "topic": "Chiesa"
+            },
+            {
+              "id": "459f54c761ed9659",
+              "title": "Spagna al voto. Sánchez cerca la rimonta: la sfida tra alleanze e carovita",
+              "url": "https://www.agensir.it/europa/2026/11/27/spagna-al-voto-sanchez-cerca-la-rimonta-la-sfida-tra-alleanze-e-carovita/",
+              "source": "AgenSIR",
+              "published": "2026-11-27T15:01:23+00:00",
+              "language": "Italiano",
+              "summary": "Arrivare primi e governare non sono necessariamente la stessa cosa. È attorno a questa distinzione – decisiva – che si giocano le elezioni spagnole di domenica 29 novembre. Pedro Sánchez, leader socialista e presidente del governo dal…",
+              "summary_origin": "feed",
+              "section": "Chiesa",
+              "topic": "Chiesa"
+            },
+            {
+              "id": "9c10d6c0bd1879e5",
+              "title": "Quando la pace sembra impossibile: il dialogo tra il cardinale Zuppi e Gabriele Segre",
+              "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPZTJNOElWSHBRMWNuME5zVmRxUnQ4WDA4RDJ6TGYzYWtFdVdLRFNWVHREZjNrZlAtN3JreERGT2lmMnJhM1dTcGVyS2RLVk55Nmk5RE1PcHFsMDB6bXJKMl9LWGw5QUNadnhQVHVNZW80Tm51SlJPbEdEcVZrVGV1M3EtcEVDcGY2MURzM0dZeUpYc1V4X2dYUUZUbjdDSkxDekdJMEdVOGRWTzVrZE1aSjRNcHkyU0RtN2lhOWJQUnhEYmVMVWtxUC1xaVlhZnpPUk1WXzZxVVRmek9fblZKM2lRUzd1ZnppRkYxTUFyTXlQbEE5SW5rN1Zhd3JzekJJN3c5Qnhn0gGGAkFVX3lxTE9lMk04SVZIcFExY24wTnNWZHFSdDhYMDhEMnpMZjNha0V1V0tEU1ZUdERmM2tmUC03cmt4REZPaWYycmEzV1NwZXJLZEtWTnk2aTlETU9wcWwwMHptckoyX0tYbDlBQ1p2eFBUdU1lbzRObnVKUk9sR0RxVmtUZXUzcS1wRUNwZjYxRHMzR1l5SlhzVXhfZ1hRRlRuN0NKTEN6R0kwR1U4ZFZPNWtkTVpKNE1weTJTRG03aWE5YlBSeERiZUxVa3FQLXFpWWFmek9STVZfNnFVVGZ6T19uVkozaVFTN3VmemlGRjFNQXJNeVBsQTlJbms3VmF3cnN6Qkk3dzlCeGc?oc=5",
+              "source": "La Stampa",
+              "published": "2026-11-27T18:24:00+00:00",
+              "language": "Italiano",
+              "section": "Chiesa",
+              "topic": "Chiesa",
+              "cluster_id": "9c10d6c0bd1879e5"
+            },
+            {
+              "id": "1705d21af134af61",
+              "title": "Russian Orthodox patriarch calls on Christians to tame AI, warns of ‘Apocalypse’",
+              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObk5ERGtzeDV3T2lpOE5faEZVU2VZbkZGcTRJekwza0J4M2ZZTUpwaVVsY1N6eTJ3d19MUUduRWZoQWluVlNLMGhnaUlQQURfaW1hVUlQWU9nNy1lZ21XLUtzUERZWGVDelhlSkZFbUVkRUlhOEdGN3F0dm9WcV9BbFF6b2d1YzVHcElhb1VuWEdwWG03TW1hOUV5MnctLVFKeFpDVnUxVDZqUnV4VXNtb2dfTnI?oc=5",
+              "source": "The Washington Post",
+              "published": "2026-11-28T00:14:59+00:00",
+              "language": "English",
+              "section": "Chiesa",
+              "topic": "Chiesa",
+              "cluster_id": "1705d21af134af61"
+            },
+            {
+              "id": "98752fd9fc9957ac",
+              "title": "French town divided over church bells ringing every 15 minutes at night",
+              "url": "https://www.theguardian.com/world/2026/nov/27/for-whom-the-bells-troll-french-town-divided-over-churchs-night-time-chimes",
+              "source": "The Guardian",
+              "published": "2026-11-27T19:11:00+00:00",
+              "language": "English",
+              "author": "Kim Willsher",
+              "section": "Chiesa",
+              "topic": "Chiesa",
+              "cluster_id": "98752fd9fc9957ac",
+              "summary": "Longtime residents of La Garnache defeat newer neighbours in latest rural culture clash over ‘sensory heritage’",
+              "summary_origin": "publisher_metadata"
+            }
+          ]
+        },
+        {
+          "title": "Società",
+          "items": [
+            {
+              "id": "706bb6343d151df6",
+              "title": "Famiglia nel bosco, Lee compie 29 anni: torta senza i bambini per il cavallo bianco",
+              "url": "https://www.ilmessaggero.it/abruzzo/famiglia_nel_bosco_compleanno_cavallo_lee_torta_senza_bambini_ricetta-9912943.html",
+              "source": "Il Messaggero",
+              "published": "2026-11-28T00:06:57+00:00",
+              "language": "Italiano",
+              "author": "Sonia Paglia",
+              "section": "Società",
+              "topic": "Società",
+              "cluster_id": "706bb6343d151df6",
+              "summary": "Catherine, ex insegnante di equitazione, lo descrive come la sua «anima gemella. Il più grande maestro che abbia mai avuto»",
+              "summary_origin": "publisher_metadata"
+            },
+            {
+              "id": "dd0ffd8058541375",
+              "title": "Ricche, giovani e soprattutto donne. La lotta per tassare i milionari è al femminile",
+              "url": "https://www.repubblica.it/economia/2026/11/27/news/tassare_milionari_lotta_femminile_giovani_lista_perche-425755314/",
+              "source": "la Repubblica",
+              "published": "2026-11-27T17:53:33+00:00",
+              "language": "Italiano",
+              "summary": "Dei 268 firmatari della lettera Proud to Pay More un terzo sono donne, una percentuale molto elevata considerato che le miliardarie della lista Forbes sono appena il 15%",
+              "summary_origin": "feed",
+              "section": "Società",
+              "topic": "Società"
+            },
+            {
+              "id": "c63420e0600c2a59",
+              "title": "Contro il dolore 18 raccomandazioni per medici sull'uso corretto degli antinfiammatori",
+              "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbHg2dDdnbEtPaEdUdC1HRnhCbkpFTUNWeWd4dldyNHROVS0zUGNYTkVlREk1SHUtSGc4US1JU09QZDJTX3pIclNOZXZzb2daUTRyTVF1MnJzT2lLWVFPSXR3R3BsU2xLcUZqMl9vODZSUEJaZTJ4elBKNmNSUzcwUjNESWpCa0dNSnpKUUpoN2RrNWxSXzZiM2FlaHBkTmRYekh6TEMxMEtsTm96aTk5OGR5RXQ3UzZiYU90X2NYN1NwVkE5UmMzeC1HUVdfUWhRdS1YdHhmRmtoQQ?oc=5",
+              "source": "Adnkronos",
+              "published": "2026-11-27T17:47:13+00:00",
+              "language": "Italiano",
+              "section": "Società",
+              "topic": "Società",
+              "cluster_id": "c3d66a1bbd803bef"
+            },
+            {
+              "id": "156e5d76fc4fa257",
+              "title": "Guatemala, nei contadini il \"volto umano\" della crisi climatica",
+              "url": "https://www.vaticannews.va/it/mondo/news/2026-11/guatemala-siccita-clima-cop-papaleone.html",
+              "source": "Vatican News",
+              "published": "2026-11-27T15:12:00+00:00",
+              "language": "Italiano",
+              "summary": "Nel Paese del Centro America la siccità mette in ginocchio i piccoli agricoltori: oltre 3 milioni di persone dovranno affrontare livelli di insicurezza alimentare di crisi o emergenza tra ottobre 2026 e febbraio 2027 Leggi Tutto",
+              "summary_origin": "feed",
+              "section": "Società",
+              "topic": "Società"
+            },
+            {
+              "id": "528333a0408eb832b9f8",
+              "title": "Venezia, sparatoria tra polizia e tre persone: morto un giovane, un uomo in fuga",
+              "url": "https://www.tgcom24.mediaset.it/cronaca/venezia-sparatoria-tra-polizia-e-ricercati-morto-un-giovane-in-fuga-un-secondo-uomo-_119495874-202602k.shtml",
+              "source": "TGcom24",
+              "published": "2026-11-27T18:42:00+00:00",
+              "section": "Società",
+              "topic": "Società",
+              "summary": "Venezia, sparatoria tra polizia e tre uomini: morto un giovane. I poliziotti dovevano eseguire un provvedimento d'arresto.",
+              "summary_origin": "publisher_metadata"
+            }
+          ]
+        },
+        {
+          "title": "Cultura e idee",
+          "items": [
+            {
+              "id": "c39a80d9e928132f",
+              "title": "Lagioia: “Non mi scandalizzo, i miei romanzi sono già schedati ma temo chi controlla i sistemi”",
+              "url": "https://www.repubblica.it/cronaca/2026/11/28/news/libri_addestrano_intelligenza_artificiale_bruciati_intervista_nicola_lagioia-425755728/",
+              "source": "la Repubblica",
+              "published": "2026-11-28T00:00:00+00:00",
+              "language": "Italiano",
+              "summary": "Il punto è che un mezzo così potente è in mano a pochi privati. In una democrazia dovrebbe essere nazionalizzata",
+              "summary_origin": "feed",
+              "section": "Cultura e idee",
+              "topic": "Cultura e idee"
+            },
+            {
+              "id": "5e56f691774f32aa",
+              "title": "Marina Spadafora presenta il suo ultimo libro ad Accademia del Lusso Roma",
+              "url": "https://www.adnkronos.com/immediapress/marina-spadafora-presenta-il-suo-ultimo-libro-ad-accademia-del-lusso-roma_6r543CRmakDxvDhEc3kUqk",
+              "source": "Adnkronos",
+              "published": "2026-11-27T17:06:08+00:00",
+              "language": "Italiano",
+              "author": "Redazione Adnkronos",
+              "section": "Cultura e idee",
+              "topic": "Cultura e idee",
+              "cluster_id": "5e56f691774f32aa",
+              "summary": "Appuntamento lunedì 30 novembre alle 17 nella sede di Piazza di Spagna 9",
+              "summary_origin": "publisher_metadata"
+            },
+            {
+              "id": "418bd1610195244a",
+              "title": "«Memoria di ragazza», la bellezza del ricordo sul palcoscenico del Teatro Valle",
+              "url": "https://www.ilmessaggero.it/spettacoli/teatro/memoria_di_ragazza_la_bellezza_della_memoria_sul_palcoscenico_del_teatro_valle-9916905.html",
+              "source": "Il Messaggero",
+              "published": "2026-11-27T14:27:03+00:00",
+              "language": "Italiano",
+              "author": "A. R.",
+              "section": "Cultura e idee",
+              "topic": "Cultura e idee",
+              "cluster_id": "418bd1610195244a",
+              "summary": "Un lavoro visivamente convincente, capace di accompagnare lo spettatore dentro il racconto e di restituire la complessità emotiva del testo",
+              "summary_origin": "publisher_metadata"
+            },
+            {
+              "id": "1d44c05c4242bd8f",
+              "title": "I conti del teatro Coccia sono in ordine: “Ma adesso si porti più pubblico”",
+              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd1ZjS1BLWUt0OWl0cTQ1TzJuTFJZR0p6WGNYOHVISXBnSHhqalJNMDRBd3llUXN5WXdTT3dyRjBCOVlPdjlITFdCZVEtcDBka2ZxQ2VmZWdGdHk5US1IYW5mNGpkT0RURGd4eDJVSkFGTnVxY1VIVFhvbXBSVDVSQUFpRmF2ZTFCNDQ0RGZrNEVzSkNDMWdj0gGXAUFVX3lxTE93VmNLUEtZS3Q5aXRxNDVPMm5MUllHSnpYY1g4dUhJcGdIeGpqUk0wNEF3eWVRc3lZd1NPd3JGMEI5WU92OUhMV0JlUS1wMGRrZnFDZWZlZ0Z0eTlRLUhhbmY0amRPRFREZ3h4MlVKQUZOdXFjVUhUWG9tcFJUNVJBQWlGYXZlMUI0NDREZms0RXNKQ0MxZ2M?oc=5",
+              "source": "La Stampa",
+              "published": "2026-11-28T04:00:00+00:00",
+              "language": "Italiano",
+              "section": "Cultura e idee",
+              "topic": "Cultura e idee",
+              "cluster_id": "1d44c05c4242bd8f"
+            },
+            {
+              "id": "0d00174ae7bddb25",
+              "title": "Jovanotti riceve Lupa Capitolina, poi firma il Libro d'Onore del Campidoglio",
+              "url": "https://stream24.ilsole24ore.com/video/italia/jovanotti-riceve-lupa-capitolina-poi-firma-libro-d-onore-campidoglio/AJxF3QVC",
+              "source": "Il Sole 24 Ore",
+              "published": "2026-11-27T22:27:06+00:00",
+              "language": "Italiano",
+              "author": "Il Sole 24 ORE",
+              "section": "Cultura e idee",
+              "topic": "Cultura e idee",
+              "cluster_id": "0d00174ae7bddb25",
+              "summary": "(Agenzia Vista) Il cantante Jovanotti ha ricevuto la Lupa Capitolina, la massima onorificenza conferita dal Sindaco di Roma, poi ha firmato il Libro...",
+              "summary_origin": "publisher_metadata"
+            }
+          ]
+        }
+      ],
+      "feeds": [
+        {
+          "source": "ANSA",
+          "ok": true
+        },
+        {
+          "source": "la Repubblica",
+          "ok": true
+        },
+        {
+          "source": "Vatican News",
+          "ok": true
+        },
+        {
+          "source": "Corriere della Sera",
+          "ok": true
+        },
+        {
+          "source": "La Stampa",
+          "ok": true
+        },
+        {
+          "source": "ANSA",
+          "ok": true
+        },
+        {
+          "source": "ANSA",
+          "ok": true
+        },
+        {
+          "source": "AgenSIR",
+          "ok": true
+        },
+        {
+          "source": "BBC News",
+          "ok": true
+        },
+        {
+          "source": "BBC News",
+          "ok": true
+        },
+        {
+          "source": "The Guardian",
+          "ok": true
+        }
+      ],
+      "pdf_url": "rassegne/rassegna-2026-11-28.pdf"
+    },
+    {
+      "format_version": 2,
       "date": "2026-11-27",
       "available_at": "2026-11-27T07:00:00+01:00",
       "prepared_at": "2026-11-27T12:08:46.390633+00:00",
