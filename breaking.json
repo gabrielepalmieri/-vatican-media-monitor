@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-28T14:05:21.783227+00:00",
+  "updated_at": "2026-11-28T14:10:29.551446+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-28T14:05:21.783227+00:00"
+      "checked_at": "2026-11-28T14:10:29.551446+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-28T14:05:21.783227+00:00"
+      "checked_at": "2026-11-28T14:10:29.551446+00:00"
     }
   },
   "items": [
+    {
+      "id": "3d6ea096c22e5e21f0f1",
+      "source": "BBC News",
+      "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+      "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-28T14:10:01+00:00"
+    },
     {
       "id": "585630843387f0c184bc",
       "source": "BBC News",
@@ -24,13 +31,6 @@
       "title": "Raid su un matrimonio in Myanmar: 21 i morti tra cui cinque bambini",
       "url": "https://www.tgcom24.mediaset.it/mondo/raid-su-un-matrimonio-in-myanmar-21-i-morti-tra-cui-cinque-bambini_119515931-202602k.shtml",
       "published": "2026-11-28T13:19:00+00:00"
-    },
-    {
-      "id": "3d6ea096c22e5e21f0f1",
-      "source": "BBC News",
-      "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
-      "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-28T12:49:44+00:00"
     },
     {
       "id": "fcc9cdc7fbe02b9ee90c",
