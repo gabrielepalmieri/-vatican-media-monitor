@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-28T11:10:32.500417+00:00",
+  "updated_at": "2026-11-28T11:15:30.910708+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-28T11:10:32.500417+00:00"
+      "checked_at": "2026-11-28T11:15:30.910708+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-28T11:10:32.500417+00:00"
+      "checked_at": "2026-11-28T11:15:30.910708+00:00"
     }
   },
   "items": [
+    {
+      "id": "6450684fc2896c3958af",
+      "source": "TGcom24",
+      "title": "Giustizia, Tajani: \"Politica rifugga tentazione di garantismo solo per chi è vicino\"",
+      "url": "https://www.tgcom24.mediaset.it/politica/carlo-nordio-anm-referendum_119509719-202602k.shtml",
+      "published": "2026-11-28T10:53:00+00:00"
+    },
     {
       "id": "7f06abcd6c0964896358",
       "source": "BBC News",
@@ -283,13 +290,6 @@
       "title": "Ucraina, ricerca britannica: \"Sabotaggi russi in Europa cresciuti del 16%\"",
       "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-27-novembre_119472715-202602k.shtml",
       "published": "2026-11-27T13:15:00+00:00"
-    },
-    {
-      "id": "616bc96f6105aee9f083",
-      "source": "TGcom24",
-      "title": "Gaza, Israele bombarda quattro depositi di armi di Hamas",
-      "url": "https://www.tgcom24.mediaset.it/mondo/gaza-israele-bombarda-quattro-depositi-di-armi-di-hamas_119484281-202602k.shtml",
-      "published": "2026-11-27T12:39:00+00:00"
     },
     {
       "id": "76b914a4d2590dd4efe6",
