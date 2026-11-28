@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-28T12:45:30.594003+00:00",
+  "updated_at": "2026-11-28T12:50:31.498399+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-28T12:45:30.594003+00:00"
+      "checked_at": "2026-11-28T12:50:31.498399+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-28T12:45:30.594003+00:00"
+      "checked_at": "2026-11-28T12:50:31.498399+00:00"
     }
   },
   "items": [
+    {
+      "id": "3d6ea096c22e5e21f0f1",
+      "source": "BBC News",
+      "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+      "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-28T12:49:44+00:00"
+    },
     {
       "id": "585630843387f0c184bc",
       "source": "BBC News",
@@ -45,13 +52,6 @@
       "title": "Cremona, boccone di traverso davanti a padre e figlio: muore 47enne",
       "url": "https://www.tgcom24.mediaset.it/cronaca/cremona-boccone-di-traverso-davanti-a-padre-e-figlio-muore-47enne_119512964-202602k.shtml",
       "published": "2026-11-28T11:30:00+00:00"
-    },
-    {
-      "id": "3d6ea096c22e5e21f0f1",
-      "source": "BBC News",
-      "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
-      "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-28T11:18:37+00:00"
     },
     {
       "id": "6450684fc2896c3958af",
