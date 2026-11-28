@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-28T01:35:28.495246+00:00",
+  "updated_at": "2026-11-28T01:40:30.055144+00:00",
   "sources": {
     "TGcom24": {
       "ok": false,
-      "checked_at": "2026-11-28T01:35:28.495246+00:00"
+      "checked_at": "2026-11-28T01:40:30.055144+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-28T01:35:28.495246+00:00"
+      "checked_at": "2026-11-28T01:40:30.055144+00:00"
     }
   },
   "items": [
+    {
+      "id": "b070473a9f2155281eed",
+      "source": "BBC News",
+      "title": "Nigeria's 'ultimate hard man' who become an online meme",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-28T01:20:35+00:00"
+    },
     {
       "id": "d5ab8b326c56c2ee6ce0",
       "source": "BBC News",
@@ -276,13 +283,6 @@
       "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
       "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-27T06:04:51+00:00"
-    },
-    {
-      "id": "b172121756336c98421c",
-      "source": "BBC News",
-      "title": "Met Police ruined my life, says Kenyan man wrongly convicted over attack on UK couple",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T00:48:11+00:00"
     },
     {
       "id": "5584d71181332c995302",
