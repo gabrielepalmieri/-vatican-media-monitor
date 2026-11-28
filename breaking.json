@@ -1,16 +1,23 @@
 {
-  "updated_at": "2026-11-28T08:25:21.724280+00:00",
+  "updated_at": "2026-11-28T08:30:50.651031+00:00",
   "sources": {
     "TGcom24": {
       "ok": true,
-      "checked_at": "2026-11-28T08:25:21.724280+00:00"
+      "checked_at": "2026-11-28T08:30:50.651031+00:00"
     },
     "BBC News": {
       "ok": true,
-      "checked_at": "2026-11-28T08:25:21.724280+00:00"
+      "checked_at": "2026-11-28T08:30:50.651031+00:00"
     }
   },
   "items": [
+    {
+      "id": "b582e3c6b3e1703aacd0",
+      "source": "TGcom24",
+      "title": "Arabia Saudita, intercettato missile Houthi verso Riad",
+      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-medio-oriente-28-novembre_119507250-202602k.shtml",
+      "published": "2026-11-28T08:23:00+00:00"
+    },
     {
       "id": "dd794aa2486a0af6f868",
       "source": "BBC News",
@@ -269,13 +276,6 @@
       "title": "Commercio estero, Istat: \"A ottobre export extra Ue27 -1,8%\"",
       "url": "https://www.tgcom24.mediaset.it/economia/commercio-estero-istat-ue-unione-europea_119480927-202602k.shtml",
       "published": "2026-11-27T11:10:00+00:00"
-    },
-    {
-      "id": "14973ece4f32cf8307a3",
-      "source": "TGcom24",
-      "title": "Zelensky: \"Attacco in Libia? Non agiamo mai senza coordinarci con i partner\"",
-      "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-27-novembre_119472715-202602k.shtml",
-      "published": "2026-11-27T10:28:00+00:00"
     },
     {
       "id": "76b914a4d2590dd4efe6",
